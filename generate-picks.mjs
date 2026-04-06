@@ -31,16 +31,32 @@ function getInSeasonSports(month) {
 
 // ─── Gemini call ──────────────────────────────────────────────────────────
 async function getPicksForSport(sport, dateStr) {
-  const prompt = `Generate exactly 5 sharp sports betting picks for ${sport} games today (${dateStr}).
+  const prompt = `You are generating the top 5 ${sport} betting picks for today, ${dateStr}.
 
-Requirements:
-- Only include picks for games actually scheduled today. If ${sport} has no games today, return {"picks": []}.
-- DO NOT suggest any moneyline bet with odds shorter than -400 (e.g. -500, -800 are banned).
-- Prioritize spreads, totals (over/under), and player props over moneylines.
-- Focus on genuine +EV angles with real edge — avoid obvious chalk.
-- Include at least 1 underdog or contrarian pick (positive odds preferred on at least one pick).
-- Each pick must have a real, specific line/odds value.
-- Confidence: "high" means strong data-backed edge; "medium" means lean with a reasonable case.
+STEP 1 — RESEARCH (use Google Search for each item below):
+- Which ${sport} games are actually scheduled today (${dateStr})? Only pick from real games.
+- For each game you consider, look up:
+  * Current injury report: who is OUT, Doubtful, or Questionable for each team
+  * Recent form: each team's last 10 games W/L, home/away splits, and current streak
+  * Head-to-head history: last 5 matchups — who won, who covered the spread, did it go over/under
+  * Rest and schedule: back-to-backs, days of rest, travel distance
+  * Current lines and any line movement since opening (sharp action signals)
+  * Key player matchup edges: favorable/unfavorable defensive assignments, pace mismatches
+  * Relevant news: load management, motivation, revenge games, coaching adjustments
+
+STEP 2 — SELECT 5 PICKS with genuine edge:
+- DO NOT suggest any moneyline with odds shorter than -400
+- Prioritize spreads, totals (over/under), and player props over moneylines
+- At least 1 pick must be an underdog or contrarian angle (positive odds preferred)
+- Every pick must have a real, current line/odds value found via search
+- Confidence "high" = multiple data points align strongly; "medium" = solid lean with a clear reason
+
+STEP 3 — WRITE the rationale for each pick. The rationale MUST:
+- Reference specific stats or facts you found (e.g. "Boston is 9-1 ATS in back-to-backs this season", "Lillard is OUT, removing 28 PPG from Milwaukee's offense", "Line moved from -2.5 to -4 indicating sharp money on the favorite")
+- Explain what the edge is and why the line is beatable
+- Be 2-3 sentences — enough detail to justify the pick
+
+If ${sport} has no games scheduled today, return: {"picks": []}
 
 Return ONLY valid JSON, no markdown, no explanation:
 {
@@ -51,14 +67,14 @@ Return ONLY valid JSON, no markdown, no explanation:
       "pick": "specific bet description e.g. 'Celtics -5.5' or 'Over 224.5' or 'LeBron James Over 25.5 Points'",
       "odds": "+150",
       "confidence": "high|medium",
-      "rationale": "1-2 sentence explanation of the edge, citing a specific data point"
+      "rationale": "2-3 sentences referencing specific stats, injury news, or line movement that justify this pick"
     }
   ]
 }`;
 
   const body = {
     system_instruction: {
-      parts: [{ text: 'You are a professional sports betting analyst. Return only valid JSON.' }],
+      parts: [{ text: 'You are a sharp sports betting analyst. You always use Google Search to look up current injury reports, recent team form, head-to-head history, and line movement before making picks. Your rationales cite specific data points, not vague generalities. Return only valid JSON.' }],
     },
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     tools: [{ google_search: {} }],
