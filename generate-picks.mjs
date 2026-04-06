@@ -80,7 +80,6 @@ Return ONLY valid JSON, no markdown, no explanation:
     tools: [{ google_search: {} }],
     generationConfig: {
       temperature: 0.4,
-      responseMimeType: 'application/json',
     },
   };
 
@@ -100,12 +99,14 @@ Return ONLY valid JSON, no markdown, no explanation:
   const raw = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
 
   try {
-    const parsed = JSON.parse(raw);
+    // Strip markdown code fences if present
+    const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
+    const parsed = JSON.parse(cleaned);
     // Filter out any moneyline picks shorter than -400
     parsed.picks = (parsed.picks ?? []).filter((p) => {
       if (p.betType === 'moneyline') {
         const n = parseInt(p.odds ?? '0');
-        return n > 0 || n <= -400 ? n > -401 : true;
+        return n > -401;
       }
       return true;
     });
