@@ -1,5 +1,96 @@
 {
   "date": "2026-04-06",
-  "generatedAt": "2026-04-06T23:32:35.591Z",
-  "sports": []
+  "generatedAt": "2026-04-06T23:36:09.242Z",
+  "sports": [
+    {
+      "sport": "NBA",
+      "picks": [
+        {
+          "game": "Cleveland Cavaliers vs Memphis Grizzlies",
+          "betType": "spread",
+          "pick": "Cavaliers -14.0",
+          "odds": "-108",
+          "confidence": "high",
+          "rationale": "Memphis is severely depleted by injuries, missing over a dozen key players, and is on the second leg of a back-to-back after a blowout loss yesterday. Cleveland has won their last six consecutive meetings against the Grizzlies and faces a significantly weakened opponent."
+        },
+        {
+          "game": "Philadelphia 76ers vs San Antonio Spurs",
+          "betType": "spread",
+          "pick": "Spurs -8.0",
+          "odds": "-114",
+          "confidence": "high",
+          "rationale": "San Antonio is an excellent bounce-back team, boasting a perfect 4-0 ATS record at home after a loss in their last four games. Conversely, Philadelphia is struggling on the road against winning teams, with a 1-6 ATS record in their last seven away games against opponents with a winning record."
+        },
+        {
+          "game": "Orlando Magic vs Detroit Pistons",
+          "betType": "spread",
+          "pick": "Magic +3.0",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Magic are highly motivated, fighting for a top-six playoff spot in the Eastern Conference, while the Pistons have already secured the #1 seed. Detroit is also significantly impacted by injuries, with Cade Cunningham, Tobias Harris, Duncan Robinson, and Isaiah Stewart all out or doubtful."
+        },
+        {
+          "game": "New York Knicks vs Atlanta Hawks",
+          "betType": "prop",
+          "pick": "Karl-Anthony Towns Over 11.5 Rebounds",
+          "odds": "-136",
+          "confidence": "high",
+          "rationale": "The Knicks enter this game with a clean injury report, and Atlanta's frontcourt is thinned by the absence of backup center Jock Landale. New York boasts a 53.2% total rebound percentage, creating a favorable matchup for Towns to exceed his rebounding prop."
+        },
+        {
+          "game": "Philadelphia 76ers vs San Antonio Spurs",
+          "betType": "total",
+          "pick": "Under 236.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "Despite public money pushing the total up, San Antonio's defense historically tightens after a loss, with the Under hitting in 6 of their last 7 home games in such situations. This trend suggests a slower-paced, more defensively focused game from the Spurs."
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "Atlanta Braves vs Los Angeles Angels",
+          "betType": "moneyline",
+          "pick": "Braves -175",
+          "odds": "-175",
+          "confidence": "high",
+          "rationale": "Chris Sale (2-0, 0.75 ERA) brings elite command (0.583 WHIP, 3 walks in 12 innings) against an Angels offense struggling with a .204 average, .644 OPS, and 108 strikeouts in 10 games. The -175 moneyline does not fully account for Sale's dominance and the Angels' offensive struggles, especially against left-handed pitching."
+        },
+        {
+          "game": "Seattle Mariners vs Texas Rangers",
+          "betType": "total",
+          "pick": "Under 7.5 Runs",
+          "odds": "-115",
+          "confidence": "high",
+          "rationale": "Despite early season offensive potential, the 7.5 total is high for a game in Globe Life Field, which is the second most pitcher-friendly ballpark in MLB. Both teams also feature strong bullpens, with Seattle's holding a 2.32 ERA and Texas's overachieving expectations early on."
+        },
+        {
+          "game": "Philadelphia Phillies vs San Francisco Giants",
+          "betType": "moneyline",
+          "pick": "Giants +100",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "The Giants, despite their 3-7 start, are a strong contrarian play supported by a historical betting trend where home teams in the Giants-Phillies series are 19-5 (79.2% win rate). This historical home advantage, combined with both starting pitchers holding identical 1.69 ERAs, provides value at +100 odds."
+        },
+        {
+          "game": "Houston Astros vs Colorado Rockies",
+          "betType": "prop",
+          "pick": "Yordan Alvarez Over 1.5 Total Bases",
+          "odds": "-102",
+          "confidence": "high",
+          "rationale": "Yordan Alvarez is off to a scorching start with a 1.478 OPS and has recorded at least two bases in six of his first ten games. This pick is further boosted by the game being played at Coors Field, the most hitter-friendly environment, and against Ryan Feltner, who had a 4.75 ERA in 2025."
+        },
+        {
+          "game": "Baltimore Orioles vs Chicago White Sox",
+          "betType": "moneyline",
+          "pick": "Orioles -143",
+          "odds": "-143",
+          "confidence": "high",
+          "rationale": "Baltimore aligns with two profitable betting systems: road favorites of -115 or more with a win percentage <= 0.38% (65-35 SU since 2020) and teams with better bullpen/starting pitcher ratings with an even or worse record (25-12 in 2026). The White Sox are also dealing with numerous key injuries, including multiple pitchers and position players on the IL."
+        }
+      ]
+    }
+  ]
 }
