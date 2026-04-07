@@ -1,49 +1,94 @@
 {
-  "date": "2026-04-06",
-  "generatedAt": "2026-04-06T23:36:09.242Z",
+  "date": "2026-04-07",
+  "generatedAt": "2026-04-07T14:26:53.610Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Cleveland Cavaliers vs Memphis Grizzlies",
-          "betType": "spread",
-          "pick": "Cavaliers -14.0",
-          "odds": "-108",
+          "game": "Chicago Bulls vs Washington Wizards",
+          "betType": "total",
+          "pick": "Under 249.5",
+          "odds": "-110",
           "confidence": "high",
-          "rationale": "Memphis is severely depleted by injuries, missing over a dozen key players, and is on the second leg of a back-to-back after a blowout loss yesterday. Cleveland has won their last six consecutive meetings against the Grizzlies and faces a significantly weakened opponent."
+          "rationale": "Both the Bulls and Wizards are severely depleted by injuries, with Chicago missing Josh Giddey, Anfernee Simons, and Nick Richards, and Washington without Trae Young and Alex Sarr. Despite a fast projected pace, the sheer volume of missing offensive talent from both sides makes a 249.5 total seem inflated, especially as the total has gone UNDER in 5 of Chicago's last 6 road games against Washington and in 5 of Washington's last 5 home games against Chicago."
         },
         {
-          "game": "Philadelphia 76ers vs San Antonio Spurs",
+          "game": "Dallas Mavericks vs LA Clippers",
           "betType": "spread",
-          "pick": "Spurs -8.0",
-          "odds": "-114",
-          "confidence": "high",
-          "rationale": "San Antonio is an excellent bounce-back team, boasting a perfect 4-0 ATS record at home after a loss in their last four games. Conversely, Philadelphia is struggling on the road against winning teams, with a 1-6 ATS record in their last seven away games against opponents with a winning record."
-        },
-        {
-          "game": "Orlando Magic vs Detroit Pistons",
-          "betType": "spread",
-          "pick": "Magic +3.0",
+          "pick": "Mavericks +11.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The Magic are highly motivated, fighting for a top-six playoff spot in the Eastern Conference, while the Pistons have already secured the #1 seed. Detroit is also significantly impacted by injuries, with Cade Cunningham, Tobias Harris, Duncan Robinson, and Isaiah Stewart all out or doubtful."
+          "rationale": "While the Mavericks are without Kyrie Irving and Dereck Lively II, and the Clippers are fighting for playoff seeding, the +11.5 spread is quite large. The Mavericks have shown resilience against the Clippers this season, taking them to overtime recently and securing a win in November. Rookie Cooper Flagg is also performing exceptionally well, averaging 26.5 points, 6.6 rebounds, and 5.5 assists, which can help keep the game competitive."
         },
         {
-          "game": "New York Knicks vs Atlanta Hawks",
-          "betType": "prop",
-          "pick": "Karl-Anthony Towns Over 11.5 Rebounds",
-          "odds": "-136",
-          "confidence": "high",
-          "rationale": "The Knicks enter this game with a clean injury report, and Atlanta's frontcourt is thinned by the absence of backup center Jock Landale. New York boasts a 53.2% total rebound percentage, creating a favorable matchup for Towns to exceed his rebounding prop."
-        },
-        {
-          "game": "Philadelphia 76ers vs San Antonio Spurs",
+          "game": "Milwaukee Bucks vs Brooklyn Nets",
           "betType": "total",
-          "pick": "Under 236.5",
-          "odds": "-105",
+          "pick": "Under 220.5",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "This game features an unprecedented number of key injuries for both teams, with the Bucks missing Giannis Antetokounmpo, Kevin Porter Jr., Myles Turner, and Bobby Portis, and the Nets without Nic Claxton, Terance Mann, and Michael Porter Jr. Both teams are out of playoff contention and rank among the lowest-scoring teams in the league (Bucks 29th, Nets 30th). With so many primary offensive options sidelined, scoring will be significantly hampered."
+        },
+        {
+          "game": "Golden State Warriors vs Sacramento Kings",
+          "betType": "spread",
+          "pick": "Kings +15.5",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "The Golden State Warriors are a heavy -15.5 favorite, but this spread appears inflated given the Kings' recent performance against them and the Warriors' own injury concerns. The Kings have covered the spread in 4 of their last 6 games and have won 6 of the last 9 head-to-head matchups against the Warriors. While Sacramento is missing several key players, Golden State is also without Jimmy Butler, Al Horford, and Gui Santos, with Kristaps Porzingis questionable and Stephen Curry on a minutes restriction in his return. A computer model projects the Warriors to win by only 6.9 points, indicating significant value on the Kings +15.5."
+        },
+        {
+          "game": "Boston Celtics vs New York Knicks",
+          "betType": "spread",
+          "pick": "Celtics -2.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Despite public money pushing the total up, San Antonio's defense historically tightens after a loss, with the Under hitting in 6 of their last 7 home games in such situations. This trend suggests a slower-paced, more defensively focused game from the Spurs."
+          "rationale": "The Boston Celtics are in dominant form with a 53-25 record and recent blowout wins over strong opponents. Jayson Tatum is probable to play, bolstering their star power. While the Knicks are also a strong team, the Celtics hold a superior record and significant momentum, making the -2.5 spread a manageable line for a team of Boston's caliber on the road."
+        }
+      ]
+    },
+    {
+      "sport": "NHL",
+      "picks": [
+        {
+          "game": "Florida Panthers vs Montreal Canadiens",
+          "betType": "spread",
+          "pick": "Montreal Canadiens -1.5",
+          "odds": "+115",
+          "confidence": "high",
+          "rationale": "Montreal is fighting for home-ice advantage and has won both previous matchups this season, including a 6-2 blowout. Florida is eliminated from playoff contention and significantly banged up, missing key players like Ekblad, Reinhart, and Rodrigues, which compromises their defensive structure."
+        },
+        {
+          "game": "Philadelphia Flyers vs New Jersey Devils",
+          "betType": "moneyline",
+          "pick": "Philadelphia Flyers ML",
+          "odds": "+105",
+          "confidence": "high",
+          "rationale": "The Flyers are in a tight playoff race, tied for the second wild-card spot, and boast the best Against-the-Spread record in the league at 49-27. The Devils are struggling, recently fired their GM, and are missing key players like Jack Hughes and Dougie Hamilton, giving the Flyers a significant motivational and talent edge as road underdogs."
+        },
+        {
+          "game": "Colorado Avalanche vs St. Louis Blues",
+          "betType": "total",
+          "pick": "Under 6.5 Goals",
+          "odds": "-130",
+          "confidence": "medium",
+          "rationale": "The St. Louis Blues have consistently played in low-scoring games recently, with the Under hitting in 14 of their past 18 contests. This trend, coupled with the line movement, suggests a defensive battle is anticipated between these two teams."
+        },
+        {
+          "game": "Nashville Predators vs Anaheim Ducks",
+          "betType": "spread",
+          "pick": "Nashville Predators +1.5",
+          "odds": "-198",
+          "confidence": "high",
+          "rationale": "Nashville is in a tight wild-card race and has covered +1.5 goals in 9 of their last 10 road games. The Ducks are severely depleted by numerous key injuries, including Harkins, Johnston, Mrazek, and several defensemen, contributing to their league-worst 26-49 ATS record."
+        },
+        {
+          "game": "Boston Bruins vs Carolina Hurricanes",
+          "betType": "spread",
+          "pick": "Boston Bruins +1.5",
+          "odds": "-167",
+          "confidence": "medium",
+          "rationale": "Despite a recent 3-game losing streak, the Bruins have consistently covered +1.5 goals in 9 of their last 10 road games. The Hurricanes are missing starting goaltender Pyotr Kochetkov (hip) and two day-to-day forwards, while only covering -1.5 goals in 3 of their last 10 home games, making the Bruins a strong play to keep it close."
         }
       ]
     },
@@ -51,44 +96,44 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Atlanta Braves vs Los Angeles Angels",
+          "game": "Milwaukee Brewers vs Boston Red Sox",
           "betType": "moneyline",
-          "pick": "Braves -175",
-          "odds": "-175",
+          "pick": "Brewers ML",
+          "odds": "+129",
           "confidence": "high",
-          "rationale": "Chris Sale (2-0, 0.75 ERA) brings elite command (0.583 WHIP, 3 walks in 12 innings) against an Angels offense struggling with a .204 average, .644 OPS, and 108 strikeouts in 10 games. The -175 moneyline does not fully account for Sale's dominance and the Angels' offensive struggles, especially against left-handed pitching."
-        },
-        {
-          "game": "Seattle Mariners vs Texas Rangers",
-          "betType": "total",
-          "pick": "Under 7.5 Runs",
-          "odds": "-115",
-          "confidence": "high",
-          "rationale": "Despite early season offensive potential, the 7.5 total is high for a game in Globe Life Field, which is the second most pitcher-friendly ballpark in MLB. Both teams also feature strong bullpens, with Seattle's holding a 2.32 ERA and Texas's overachieving expectations early on."
+          "rationale": "The Brewers are 8-2 and have won two straight, including Monday's opener 8-6, while the Red Sox are 2-8 and on a three-game losing streak. Milwaukee's offense ranks third in the league (134 wRC+) and starting pitcher Jacob Misiorowski (1-0, 2.45 ERA) boasts a high strikeout rate, providing significant value as a plus-money underdog against Boston's struggling lineup."
         },
         {
           "game": "Philadelphia Phillies vs San Francisco Giants",
-          "betType": "moneyline",
-          "pick": "Giants +100",
-          "odds": "+100",
+          "betType": "spread",
+          "pick": "Phillies -1.5",
+          "odds": "+120",
+          "confidence": "high",
+          "rationale": "The Giants are in a severe slump, losing four straight at home and holding a 3-8 overall record, their worst start since 2019, with their offense batting just .229 over their last 10 games. The Phillies, conversely, are 6-4 overall and 3-1 on the road, having won five of their last six games, including Monday's contest, behind dominant starter Cristopher Sanchez (1-0, 0.79 ERA)."
+        },
+        {
+          "game": "Los Angeles Dodgers vs Toronto Blue Jays",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-115",
+          "confidence": "high",
+          "rationale": "This game features a pitching rematch of Yoshinobu Yamamoto (Dodgers, 3.00 ERA) and Kevin Gausman (Blue Jays, 0.75 ERA), who previously delivered low-scoring affairs in the World Series. Gausman has been exceptional with 21 strikeouts in 12 innings and no walks, and the Blue Jays offense is struggling, while line movement on the total towards the Under indicates sharp action."
+        },
+        {
+          "game": "Athletics vs New York Yankees",
+          "betType": "spread",
+          "pick": "Yankees -1.5",
+          "odds": "+108",
           "confidence": "medium",
-          "rationale": "The Giants, despite their 3-7 start, are a strong contrarian play supported by a historical betting trend where home teams in the Giants-Phillies series are 19-5 (79.2% win rate). This historical home advantage, combined with both starting pitchers holding identical 1.69 ERAs, provides value at +100 odds."
+          "rationale": "The Yankees are 7-2 and feature Cam Schlittler (2-0, 0.00 ERA, 15 K, 0 BB in 11.2 IP) on the mound, who is having an impressive start to the season, facing an Athletics team that is 3-6. Despite the Yankees being heavy favorites, their strong pitching and a lineup that slugged .455 in 2025 suggest they can cover the -1.5 run line at plus-money odds."
         },
         {
           "game": "Houston Astros vs Colorado Rockies",
-          "betType": "prop",
-          "pick": "Yordan Alvarez Over 1.5 Total Bases",
+          "betType": "total",
+          "pick": "Over 10.5",
           "odds": "-102",
           "confidence": "high",
-          "rationale": "Yordan Alvarez is off to a scorching start with a 1.478 OPS and has recorded at least two bases in six of his first ten games. This pick is further boosted by the game being played at Coors Field, the most hitter-friendly environment, and against Ryan Feltner, who had a 4.75 ERA in 2025."
-        },
-        {
-          "game": "Baltimore Orioles vs Chicago White Sox",
-          "betType": "moneyline",
-          "pick": "Orioles -143",
-          "odds": "-143",
-          "confidence": "high",
-          "rationale": "Baltimore aligns with two profitable betting systems: road favorites of -115 or more with a win percentage <= 0.38% (65-35 SU since 2020) and teams with better bullpen/starting pitcher ratings with an even or worse record (25-12 in 2026). The White Sox are also dealing with numerous key injuries, including multiple pitchers and position players on the IL."
+          "rationale": "This game is at Coors Field, a notoriously hitter-friendly park, and both teams are dealing with significant pitching injuries, including Hunter Brown and Josh Hader for the Astros, and Jose Quintana for the Rockies. The Astros' potent offense, which is scoring 7.0 runs/g, combined with the Rockies' ability to produce runs at home, sets this up for a high-scoring affair."
         }
       ]
     }
