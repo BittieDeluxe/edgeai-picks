@@ -80,7 +80,7 @@ Return ONLY valid JSON, no markdown, no explanation:
     },
   };
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
   const res = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -94,14 +94,16 @@ Return ONLY valid JSON, no markdown, no explanation:
 
   const json = await res.json();
 
-  // Diagnostic: did Google Search actually fire?
-  const grounding = json.candidates?.[0]?.groundingMetadata;
-  const queries = grounding?.webSearchQueries ?? grounding?.searchEntryPoint ?? null;
-  console.log(`  Search ran: ${queries ? 'YES — ' + JSON.stringify(queries).slice(0, 200) : 'NO — grounding metadata absent'}`);
-  console.log(`  Parts count: ${json.candidates?.[0]?.content?.parts?.length ?? 0}`);
-  console.log(`  Finish reason: ${json.candidates?.[0]?.finishReason ?? 'unknown'}`);
+  // Diagnostic
+  const candidate = json.candidates?.[0];
+  const grounding = candidate?.groundingMetadata;
+  const queries = grounding?.webSearchQueries ?? null;
+  console.log(`  Search ran: ${queries ? 'YES — ' + JSON.stringify(queries).slice(0, 200) : 'NO'}`);
+  console.log(`  Parts count: ${candidate?.content?.parts?.length ?? 0}`);
+  console.log(`  Finish reason: ${candidate?.finishReason ?? 'unknown'}`);
+  console.log(`  Full candidate keys: ${JSON.stringify(Object.keys(candidate ?? {}))}`);
 
-  const parts = json.candidates?.[0]?.content?.parts ?? [];
+  const parts = candidate?.content?.parts ?? [];
   const raw = parts.find(p => p.text)?.text ?? parts[0]?.text ?? '{"picks":[]}';
   console.log(`  Raw (first 500): ${raw.slice(0, 500)}`);
 
