@@ -77,7 +77,6 @@ Return ONLY valid JSON, no markdown, no explanation:
     tools: [{ google_search: {} }],
     generationConfig: {
       temperature: 0.4,
-      thinkingConfig: { thinkingBudget: 0 },
     },
   };
 
@@ -96,6 +95,8 @@ Return ONLY valid JSON, no markdown, no explanation:
 
   // Collect all SSE chunks into a single text response
   const sseText = await res.text();
+  console.log(`  Raw SSE (first 1000): ${sseText.slice(0, 1000)}`);
+
   let fullText = '';
   let searchQueries = null;
   for (const line of sseText.split('\n')) {
@@ -104,7 +105,7 @@ Return ONLY valid JSON, no markdown, no explanation:
       const chunk = JSON.parse(line.slice(6));
       const parts = chunk.candidates?.[0]?.content?.parts ?? [];
       for (const part of parts) {
-        if (part.text) fullText += part.text;
+        if (part.text && !part.thought) fullText += part.text;
       }
       if (!searchQueries) {
         searchQueries = chunk.candidates?.[0]?.groundingMetadata?.webSearchQueries ?? null;
@@ -114,7 +115,6 @@ Return ONLY valid JSON, no markdown, no explanation:
 
   console.log(`  Search ran: ${searchQueries ? 'YES — ' + JSON.stringify(searchQueries).slice(0, 150) : 'NO'}`);
   console.log(`  Full text length: ${fullText.length}`);
-  console.log(`  Raw (first 500): ${fullText.slice(0, 500)}`);
 
   try {
     const cleaned = fullText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
