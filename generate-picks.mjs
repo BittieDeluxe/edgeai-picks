@@ -67,33 +67,31 @@ async function getTodaysGames(sport, todayET) {
 async function getPicksForSport(sport, dateStr, games) {
   const gamesContext = games.length > 0
     ? `Today's ${sport} games:\n${games.map((g) => `- ${g.game}`).join('\n')}`
-    : `Check if there are any ${sport} games today (${dateStr}).`;
+    : `Search for any ${sport} games scheduled today (${dateStr}).`;
 
-  const prompt = `You are a sharp sports betting analyst generating the top 5 ${sport} picks for ${dateStr}.
+  const prompt = `You are a sharp sports betting analyst. Use Google Search NOW to look up current injury reports, real betting lines, and recent news for today's ${sport} games before generating any picks.
 
 ${gamesContext}
 
-Generate 5 high-value betting picks using your knowledge of current team form, injuries, trends, and betting markets. Apply these rules:
-- Only pick from real games happening today
-- No moneyline picks with odds shorter than -400
-- Prioritize spreads, totals (over/under), and player props
-- Include at least 1 underdog or positive-odds pick
-- Rationale must reference specific team/player context (injuries, form, H2H, matchup edges)
-- If there are genuinely no games today for this sport, return {"picks": []}
+Before picking, search for:
+- Current spread, total, and moneyline odds from major sportsbooks (DraftKings, FanDuel, BetMGM)
+- Today's injury and availability reports for key players
+- Recent team form (last 5-10 games), home/away splits, back-to-back situations
+- Head-to-head history between each matchup
+- Any lineup news, motivation factors, or public betting trends
 
-Return this exact JSON:
-{
-  "picks": [
-    {
-      "game": "Away Team vs Home Team",
-      "betType": "spread|total|moneyline|prop",
-      "pick": "e.g. Lakers -4.5 or Over 224.5",
-      "odds": "+150",
-      "confidence": "high|medium",
-      "rationale": "2-3 sentences with specific reasoning"
-    }
-  ]
-}`;
+Generate 5 high-value betting picks for ${dateStr}. Rules:
+- Only pick from real games happening today
+- Use the ACTUAL lines you find via search — never fabricate odds or spreads
+- No moneyline picks with odds shorter than -400
+- Prioritize spreads, totals, and player props
+- Include at least 1 underdog or positive-odds pick
+- If no games today for this sport, return {"picks":[]}
+
+Rationale must be 5-6 sentences and include: the specific injury or availability situation, the actual current line you found, recent form data, head-to-head context, and the exact edge you are exploiting.
+
+Return only this JSON with no markdown, no code fences, no extra text:
+{"picks":[{"game":"Away Team vs Home Team","betType":"spread|total|moneyline|prop","pick":"e.g. Lakers +4.5 or Over 224.5","odds":"-110","confidence":"high|medium","rationale":"5-6 sentences with real data"}]}`;
 
   const res = await fetch(
     `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`,
@@ -102,13 +100,11 @@ Return this exact JSON:
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         system_instruction: {
-          parts: [{ text: 'You are a sharp sports betting analyst. Return only valid JSON.' }],
+          parts: [{ text: 'You are a sharp sports betting analyst. Always use Google Search to find current lines and injury data before generating picks. Return only valid JSON with no markdown.' }],
         },
         contents: [{ role: 'user', parts: [{ text: prompt }] }],
-        generationConfig: {
-          temperature: 0.4,
-          responseMimeType: 'application/json',
-        },
+        tools: [{ googleSearch: {} }],
+        generationConfig: { temperature: 0.3 },
       }),
     }
   );
@@ -119,10 +115,19 @@ Return this exact JSON:
   }
 
   const json = await res.json();
-  const raw = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
-  console.log(`  Raw JSON (first 200): ${raw.slice(0, 200)}`);
+  // google_search responses may have multiple parts; find the text part
+  const parts = json.candidates?.[0]?.content?.parts ?? [];
+  const raw = parts.find((p) => p.text)?.text ?? '{"picks":[]}';
+  console.log(`  Raw (first 300): ${raw.slice(0, 300)}`);
 
-  const parsed = JSON.parse(raw);
+  // Extract JSON object from response (may have surrounding prose)
+  const jsonMatch = raw.match(/\{[\s\S]*\}/);
+  if (!jsonMatch) {
+    console.log('  No JSON found in response');
+    return [];
+  }
+
+  const parsed = JSON.parse(jsonMatch[0]);
   return (parsed.picks ?? []).filter((p) => {
     if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
     return true;
