@@ -185,7 +185,7 @@ Return only this JSON — no markdown, no code fences, no extra text:
           parts: [{ text: 'You are a sharp sports betting analyst. Use the provided ESPN data plus Google Search to generate picks grounded in real current information. Return only valid JSON with no markdown.' }],
         },
         contents: [{ role: 'user', parts: [{ text: prompt }] }],
-        tools: [{ googleSearch: {} }],
+        tools: [{ google_search: {} }],
         generationConfig: { temperature: 0.3 },
       }),
     }
