@@ -1,5 +1,141 @@
 {
   "date": "2026-04-08",
-  "generatedAt": "2026-04-08T13:34:44.480Z",
-  "sports": []
+  "generatedAt": "2026-04-08T13:37:44.382Z",
+  "sports": [
+    {
+      "sport": "NBA",
+      "picks": [
+        {
+          "game": "Milwaukee Bucks vs Detroit Pistons",
+          "betType": "spread",
+          "pick": "Milwaukee Bucks -10.5",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "The Bucks, with their established superstar core, consistently dominate rebuilding teams like the Pistons. Detroit's defense often struggles against elite offensive talent, and Milwaukee's experience and efficiency should allow them to cover this spread comfortably, especially if the Pistons are still struggling with consistency in 2026."
+        },
+        {
+          "game": "Memphis Grizzlies vs Denver Nuggets",
+          "betType": "spread",
+          "pick": "Memphis Grizzlies +12.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "While the Nuggets are formidable at home, the Grizzlies often play with significant heart and can keep games closer than expected, even when outmatched. If Ja Morant is healthy and leading the charge, their athleticism and defensive intensity can prevent a blowout, offering value as an underdog pick."
+        },
+        {
+          "game": "Oklahoma City Thunder vs LA Clippers",
+          "betType": "total",
+          "pick": "Over 232.5",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "This matchup features two high-powered offenses. The Thunder's young core plays at a fast pace and is highly efficient, while the Clippers possess multiple elite scorers. Both teams have shown tendencies for defensive lapses against strong offensive units, suggesting a high-scoring, back-and-forth affair that should push the total over."
+        },
+        {
+          "game": "Dallas Mavericks vs Phoenix Suns",
+          "betType": "prop",
+          "pick": "Luka Doncic Over 32.5 Points",
+          "odds": "-115",
+          "confidence": "high",
+          "rationale": "Luka Doncic consistently delivers high-scoring performances, especially in marquee matchups against rival Western Conference teams like the Suns. Phoenix's defense, even with strong individual defenders, often struggles to contain elite primary ball-handlers without fouling. Doncic's high usage rate and ability to score from all three levels make this a strong prop bet."
+        },
+        {
+          "game": "Atlanta Hawks vs Cleveland Cavaliers",
+          "betType": "spread",
+          "pick": "Cleveland Cavaliers -6.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Cavaliers, known for their strong defense and home-court advantage, should be able to control the game against the Hawks. Atlanta, even with offensive talent, often struggles with consistency and defensive effort on the road. Cleveland's interior presence and disciplined play should allow them to build a lead and cover the spread."
+        }
+      ]
+    },
+    {
+      "sport": "NHL",
+      "picks": [
+        {
+          "game": "Edmonton Oilers vs San Jose Sharks",
+          "betType": "spread",
+          "pick": "Oilers -2.5",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The Oilers, with their elite offensive talent like McDavid and Draisaitl, consistently dominate weaker opponents. The Sharks are typically one of the league's bottom teams, struggling defensively and often conceding multiple goals. This matchup presents a significant talent disparity, making a multi-goal victory for Edmonton highly probable."
+        },
+        {
+          "game": "Washington Capitals vs Toronto Maple Leafs",
+          "betType": "total",
+          "pick": "Over 6.5 goals",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Maple Leafs possess one of the most potent offenses in the league, consistently putting up high goal totals, especially at home. While the Capitals can be defensively sound at times, their goaltending can be inconsistent, and they often get into higher-scoring affairs against offensive powerhouses. Both teams have the capability to contribute to a high-scoring game."
+        },
+        {
+          "game": "Buffalo Sabres vs New York Rangers",
+          "betType": "spread",
+          "pick": "Sabres +1.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "While the Rangers are a strong team, the Sabres often play them tough, especially in divisional matchups. Buffalo, despite their inconsistencies, has enough offensive talent to keep games close and can capitalize on power-play opportunities. Taking the Sabres on the puck line provides value, as they only need to lose by one goal or win outright for the bet to cash."
+        },
+        {
+          "game": "Edmonton Oilers vs San Jose Sharks",
+          "betType": "prop",
+          "pick": "Connor McDavid Over 1.5 Points",
+          "odds": "-140",
+          "confidence": "high",
+          "rationale": "Against a defensively porous team like the San Jose Sharks, Connor McDavid, the league's top offensive player, is poised for a multi-point performance. His ability to generate offense through goals and assists is amplified against weaker competition, making the Over 1.5 points a strong play given the favorable matchup."
+        },
+        {
+          "game": "Washington Capitals vs Toronto Maple Leafs",
+          "betType": "prop",
+          "pick": "Auston Matthews Anytime Goal Scorer",
+          "odds": "-130",
+          "confidence": "medium",
+          "rationale": "Auston Matthews is one of the most prolific goal scorers in the NHL, known for his ability to find the back of the net consistently. Facing the Capitals, who can sometimes struggle defensively and in net, provides a favorable matchup for Matthews to add to his goal tally. He often elevates his game in high-profile matchups."
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "Baltimore Orioles vs Chicago White Sox",
+          "betType": "spread",
+          "pick": "Baltimore Orioles -1.5",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The Orioles are a consistently strong AL contender with a deep lineup and solid pitching, while the White Sox are often in a rebuilding phase, struggling across the board. This significant talent disparity makes the Orioles a strong candidate to win by multiple runs against a weaker opponent."
+        },
+        {
+          "game": "Houston Astros vs Colorado Rockies",
+          "betType": "total",
+          "pick": "Over 10.5 runs",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "This game is highly likely to be played at Coors Field, which is notorious for its hitter-friendly environment, leading to inflated run totals. Both the Astros and Rockies possess capable offenses, and even average pitching can struggle to contain scoring in such conditions, pushing the game over the total."
+        },
+        {
+          "game": "Athletics vs New York Yankees",
+          "betType": "spread",
+          "pick": "New York Yankees -2.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "The Yankees, especially at home, are typically a powerhouse team with strong pitching and a deep lineup. The Athletics, conversely, are often among the league's worst teams, struggling in all facets, making the Yankees a strong candidate to win by multiple runs against a significantly outmatched opponent."
+        },
+        {
+          "game": "Seattle Mariners vs Texas Rangers",
+          "betType": "total",
+          "pick": "Under 8.5 runs",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Mariners are known for their strong pitching staff and often play in lower-scoring games, especially in competitive AL West matchups. While the Rangers have a potent offense, they can be contained by elite pitching, and this rivalry often features tight, competitive games where runs are at a premium."
+        },
+        {
+          "game": "Los Angeles Dodgers vs Toronto Blue Jays",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "-130",
+          "confidence": "high",
+          "rationale": "The Dodgers are perennially one of MLB's elite teams, boasting a star-studded lineup and strong pitching depth that consistently performs. While the Blue Jays are competitive, the Dodgers often find ways to dominate opponents and cover spreads due to their superior talent and consistent execution."
+        }
+      ]
+    }
+  ]
 }
