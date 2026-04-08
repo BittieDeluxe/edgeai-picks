@@ -116,6 +116,12 @@ async function main() {
   const month = now.getMonth() + 1;
   const dateStr = now.toISOString().slice(0, 10);
 
+  // List available models for this API key
+  const modelsRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models?key=${GEMINI_API_KEY}`);
+  const modelsJson = await modelsRes.json();
+  const names = (modelsJson.models ?? []).map(m => m.name).filter(n => n.includes('flash') || n.includes('pro'));
+  console.log('Available models:', names);
+
   const inSeasonSports = getInSeasonSports(month);
   console.log(`In-season sports for month ${month}:`, inSeasonSports);
 
