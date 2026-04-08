@@ -39,7 +39,9 @@ async function getTodaysGames(sport, todayET) {
   const key = ESPN_KEYS[sport];
   if (!key) return []; // UFC — no ESPN scoreboard, will be handled by Gemini knowledge
 
-  const url = `https://site.api.espn.com/apis/site/v2/sports/${key}/scoreboard`;
+  // Use ?dates=YYYYMMDD to explicitly request today's schedule (not ESPN's "current" default)
+  const espnDate = todayET.replace(/-/g, '');
+  const url = `https://site.api.espn.com/apis/site/v2/sports/${key}/scoreboard?dates=${espnDate}`;
   try {
     const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
     if (!res.ok) return [];
@@ -49,15 +51,12 @@ async function getTodaysGames(sport, todayET) {
       const comps = e.competitions?.[0];
       const home = comps?.competitors?.find((c) => c.homeAway === 'home');
       const away = comps?.competitors?.find((c) => c.homeAway === 'away');
-      // Convert game date to ET date string for comparison
-      const gameDateET = new Date(e.date).toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
       return {
         game: `${away?.team?.displayName ?? 'Away'} vs ${home?.team?.displayName ?? 'Home'}`,
         time: e.date,
         status: comps?.status?.type?.description ?? '',
-        dateET: gameDateET,
       };
-    }).filter((g) => g.dateET === todayET); // only games scheduled for today (ET)
+    }).filter((g) => g.status !== 'Final'); // exclude already-finished games
   } catch (err) {
     console.error(`  ESPN fetch failed for ${sport}:`, err.message);
     return [];
@@ -148,11 +147,6 @@ async function main() {
     try {
       const games = await getTodaysGames(sport, todayET);
       console.log(`  ESPN games found: ${games.length} (${games.map(g => g.game).join(' | ') || 'none'})`);
-
-      if (games.length === 0 && ESPN_KEYS[sport]) {
-        console.log(`  No ESPN games — skipping`);
-        continue;
-      }
 
       const picks = await getPicksForSport(sport, dateStr, games);
       console.log(`  Picks: ${picks.length}`);
