@@ -80,8 +80,7 @@ Return ONLY valid JSON, no markdown, no explanation:
     },
   };
 
-  // Use streamGenerateContent (same as Worker) — generateContent returns empty parts with google_search on 2.5-flash
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:streamGenerateContent?key=${GEMINI_API_KEY}&alt=sse`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-03-25:generateContent?key=${GEMINI_API_KEY}`;
   const res = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -93,38 +92,20 @@ Return ONLY valid JSON, no markdown, no explanation:
     throw new Error(`Gemini error for ${sport}: ${res.status} ${text}`);
   }
 
-  // Collect all SSE chunks into a single text response
-  const sseText = await res.text();
-  console.log(`  Raw SSE (first 3000): ${sseText.slice(0, 3000)}`);
-
-  let fullText = '';
-  let searchQueries = null;
-  for (const line of sseText.split('\n')) {
-    if (!line.startsWith('data: ')) continue;
-    try {
-      const chunk = JSON.parse(line.slice(6));
-      const parts = chunk.candidates?.[0]?.content?.parts ?? [];
-      for (const part of parts) {
-        if (part.text && !part.thought) fullText += part.text;
-      }
-      if (!searchQueries) {
-        searchQueries = chunk.candidates?.[0]?.groundingMetadata?.webSearchQueries ?? null;
-      }
-    } catch { /* skip malformed chunks */ }
-  }
-
-  console.log(`  Search ran: ${searchQueries ? 'YES — ' + JSON.stringify(searchQueries).slice(0, 150) : 'NO'}`);
-  console.log(`  Full text length: ${fullText.length}`);
+  const json = await res.json();
+  const raw = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
+  console.log(`  Raw (first 300): ${raw.slice(0, 300)}`);
 
   try {
-    const cleaned = fullText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
-    const parsed = JSON.parse(cleaned || '{"picks":[]}');
-    return (parsed.picks ?? []).filter((p) => {
+    const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
+    const parsed = JSON.parse(cleaned);
+    parsed.picks = (parsed.picks ?? []).filter((p) => {
       if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
       return true;
     });
+    return parsed.picks;
   } catch {
-    console.error(`  Failed to parse picks JSON for ${sport}:`, fullText.slice(0, 500));
+    console.error(`Failed to parse picks JSON for ${sport}:`, raw);
     return [];
   }
 }
