@@ -95,7 +95,7 @@ Return ONLY valid JSON, no markdown, no explanation:
 
   // Collect all SSE chunks into a single text response
   const sseText = await res.text();
-  console.log(`  Raw SSE (first 1000): ${sseText.slice(0, 1000)}`);
+  console.log(`  Raw SSE (first 3000): ${sseText.slice(0, 3000)}`);
 
   let fullText = '';
   let searchQueries = null;
