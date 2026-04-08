@@ -6,18 +6,23 @@ if (!GEMINI_API_KEY) {
   process.exit(1);
 }
 
-const GEMINI_URL = (model = 'gemini-2.5-flash') =>
-  `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_API_KEY}`;
-
 // ─── Season calendar ────────────────────────────────────────────────────────
 const SEASON_MONTHS = {
   NBA:   [10, 11, 12, 1, 2, 3, 4, 5, 6],
   NHL:   [10, 11, 12, 1, 2, 3, 4, 5, 6],
   MLB:   [4, 5, 6, 7, 8, 9, 10],
   NFL:   [9, 10, 11, 12, 1, 2],
-  NCAAB: [11, 12, 1, 2, 3, 4],
   MLS:   [3, 4, 5, 6, 7, 8, 9, 10, 11],
   UFC:   [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+};
+
+// ESPN sport keys
+const ESPN_KEYS = {
+  NBA: 'basketball/nba',
+  NHL: 'hockey/nhl',
+  MLB: 'baseball/mlb',
+  NFL: 'football/nfl',
+  MLS: 'soccer/usa.1',
 };
 
 const MAX_SPORTS = 5;
@@ -29,136 +34,132 @@ function getInSeasonSports(month) {
     .slice(0, MAX_SPORTS);
 }
 
-// ─── Phase 1: Research with Google Search ───────────────────────────────────
-async function researchSport(sport, dateStr) {
-  const res = await fetch(GEMINI_URL(), {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      system_instruction: {
-        parts: [{ text: 'You are a sharp sports betting analyst. Use Google Search to find current, accurate information.' }],
-      },
-      contents: [{
-        role: 'user',
-        parts: [{ text: `Search for today's ${sport} games on ${dateStr} and provide a detailed betting research report. Include:
-1. All ${sport} games scheduled today with tip-off/start times
-2. Current injury reports for each team (who is OUT, Doubtful, Questionable)
-3. Each team's recent form (last 10 games, home/away record, current streak)
-4. Head-to-head history for each matchup (last 5 games, who covered)
-5. Current betting lines: spread, total (over/under), and moneyline for each game
-6. Any line movement since opening and what it signals
-7. Key matchup advantages or scheduling edges (back-to-backs, rest days)
+// ─── ESPN scoreboard ─────────────────────────────────────────────────────────
+async function getTodaysGames(sport) {
+  const key = ESPN_KEYS[sport];
+  if (!key) return []; // UFC — no ESPN scoreboard, will be handled by Gemini knowledge
 
-If there are no ${sport} games scheduled today, say "NO GAMES TODAY" and nothing else.` }],
-      }],
-      tools: [{ google_search: {} }],
-      generationConfig: { temperature: 0.3 },
-    }),
-  });
-
-  if (!res.ok) throw new Error(`Research API error ${res.status}: ${await res.text()}`);
-  const json = await res.json();
-  const parts = json.candidates?.[0]?.content?.parts ?? [];
-  const text = parts.map((p) => p.text ?? '').join('\n').trim();
-  console.log(`  [${sport}] Research (first 200 chars): ${text.slice(0, 200)}`);
-  return text;
-}
-
-// ─── Phase 2: Generate structured JSON from research ────────────────────────
-async function generatePicks(sport, dateStr, research) {
-  if (!research || research.includes('NO GAMES TODAY')) {
-    console.log(`  [${sport}] No games today — skipping`);
+  const url = `https://site.api.espn.com/apis/site/v2/sports/${key}/scoreboard`;
+  try {
+    const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
+    if (!res.ok) return [];
+    const data = await res.json();
+    const events = data.events ?? [];
+    return events.map((e) => {
+      const comps = e.competitions?.[0];
+      const home = comps?.competitors?.find((c) => c.homeAway === 'home');
+      const away = comps?.competitors?.find((c) => c.homeAway === 'away');
+      return {
+        game: `${away?.team?.displayName ?? 'Away'} vs ${home?.team?.displayName ?? 'Home'}`,
+        time: e.date,
+        status: comps?.status?.type?.description ?? '',
+      };
+    }).filter((g) => g.status !== 'Final'); // only upcoming/live
+  } catch (err) {
+    console.error(`  ESPN fetch failed for ${sport}:`, err.message);
     return [];
   }
+}
 
-  const res = await fetch(GEMINI_URL(), {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      system_instruction: {
-        parts: [{ text: 'You are a sharp sports betting analyst. Output only valid JSON, no markdown, no explanation.' }],
-      },
-      contents: [{
-        role: 'user',
-        parts: [{ text: `Based on this ${sport} betting research for ${dateStr}:
+// ─── Gemini picks ─────────────────────────────────────────────────────────────
+async function getPicksForSport(sport, dateStr, games) {
+  const gamesContext = games.length > 0
+    ? `Today's ${sport} games:\n${games.map((g) => `- ${g.game}`).join('\n')}`
+    : `Check if there are any ${sport} games today (${dateStr}).`;
 
-${research}
+  const prompt = `You are a sharp sports betting analyst generating the top 5 ${sport} picks for ${dateStr}.
 
-Generate the top 5 betting picks. Rules:
-- Only pick from real games listed in the research above
+${gamesContext}
+
+Generate 5 high-value betting picks using your knowledge of current team form, injuries, trends, and betting markets. Apply these rules:
+- Only pick from real games happening today
 - No moneyline picks with odds shorter than -400
-- Prioritize spreads, totals, and props over moneylines
+- Prioritize spreads, totals (over/under), and player props
 - Include at least 1 underdog or positive-odds pick
-- Rationale must cite a specific stat or fact from the research (2-3 sentences)
+- Rationale must reference specific team/player context (injuries, form, H2H, matchup edges)
+- If there are genuinely no games today for this sport, return {"picks": []}
 
-Return this exact JSON structure:
+Return this exact JSON:
 {
   "picks": [
     {
       "game": "Away Team vs Home Team",
       "betType": "spread|total|moneyline|prop",
-      "pick": "e.g. Lakers -4.5 or Over 224.5 or LeBron James Over 25.5 Points",
+      "pick": "e.g. Lakers -4.5 or Over 224.5",
       "odds": "+150",
       "confidence": "high|medium",
-      "rationale": "2-3 sentences citing specific stats/injuries/line movement from the research"
+      "rationale": "2-3 sentences with specific reasoning"
     }
   ]
-}` }],
-      }],
-      generationConfig: {
-        temperature: 0.4,
-        responseMimeType: 'application/json',
-      },
-    }),
-  });
+}`;
 
-  if (!res.ok) throw new Error(`Picks API error ${res.status}: ${await res.text()}`);
+  const res = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        system_instruction: {
+          parts: [{ text: 'You are a sharp sports betting analyst. Return only valid JSON.' }],
+        },
+        contents: [{ role: 'user', parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.4,
+          responseMimeType: 'application/json',
+        },
+      }),
+    }
+  );
+
+  if (!res.ok) {
+    const text = await res.text();
+    throw new Error(`Gemini error ${res.status}: ${text.slice(0, 200)}`);
+  }
+
   const json = await res.json();
   const raw = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
-  console.log(`  [${sport}] Picks JSON (first 200 chars): ${raw.slice(0, 200)}`);
+  console.log(`  Raw JSON (first 200): ${raw.slice(0, 200)}`);
 
-  try {
-    const parsed = JSON.parse(raw);
-    return (parsed.picks ?? []).filter((p) => {
-      if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
-      return true;
-    });
-  } catch {
-    console.error(`  [${sport}] JSON parse failed:`, raw.slice(0, 300));
-    return [];
-  }
+  const parsed = JSON.parse(raw);
+  return (parsed.picks ?? []).filter((p) => {
+    if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
+    return true;
+  });
 }
 
-// ─── Main ────────────────────────────────────────────────────────────────────
+// ─── Main ─────────────────────────────────────────────────────────────────────
 async function main() {
   const now = new Date();
   const month = now.getMonth() + 1;
   const dateStr = now.toISOString().slice(0, 10);
 
   const inSeasonSports = getInSeasonSports(month);
-  console.log(`Date: ${dateStr} | In-season sports: ${inSeasonSports.join(', ')}`);
+  console.log(`Date: ${dateStr} | Sports: ${inSeasonSports.join(', ')}`);
 
   const sports = [];
 
   for (const sport of inSeasonSports) {
-    console.log(`\n── ${sport} ──`);
+    console.log(`\n── ${sport}`);
     try {
-      const research = await researchSport(sport, dateStr);
-      const picks = await generatePicks(sport, dateStr, research);
-      if (picks.length > 0) {
-        sports.push({ sport, picks });
-        console.log(`  ✓ ${picks.length} picks added`);
-      } else {
-        console.log(`  — 0 picks (no games or no edge found)`);
+      const games = await getTodaysGames(sport);
+      console.log(`  ESPN games found: ${games.length} (${games.map(g => g.game).join(' | ') || 'none'})`);
+
+      if (games.length === 0 && ESPN_KEYS[sport]) {
+        console.log(`  No ESPN games — skipping`);
+        continue;
       }
+
+      const picks = await getPicksForSport(sport, dateStr, games);
+      console.log(`  Picks: ${picks.length}`);
+
+      if (picks.length > 0) sports.push({ sport, picks });
     } catch (err) {
-      console.error(`  ✗ Error:`, err.message);
+      console.error(`  Error: ${err.message}`);
     }
   }
 
-  const output = { date: dateStr, generatedAt: now.toISOString(), sports };
-  writeFileSync('daily-picks.json', JSON.stringify(output, null, 2));
-  console.log(`\nDone — ${sports.length} sport(s) written to daily-picks.json`);
+  writeFileSync('daily-picks.json', JSON.stringify({ date: dateStr, generatedAt: now.toISOString(), sports }, null, 2));
+  console.log(`\nDone — ${sports.length} sport(s) written`);
 }
 
 main().catch((err) => { console.error(err); process.exit(1); });
