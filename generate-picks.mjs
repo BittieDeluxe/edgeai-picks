@@ -35,7 +35,7 @@ function getInSeasonSports(month) {
 }
 
 // ─── ESPN scoreboard ─────────────────────────────────────────────────────────
-async function getTodaysGames(sport) {
+async function getTodaysGames(sport, todayET) {
   const key = ESPN_KEYS[sport];
   if (!key) return []; // UFC — no ESPN scoreboard, will be handled by Gemini knowledge
 
@@ -49,12 +49,15 @@ async function getTodaysGames(sport) {
       const comps = e.competitions?.[0];
       const home = comps?.competitors?.find((c) => c.homeAway === 'home');
       const away = comps?.competitors?.find((c) => c.homeAway === 'away');
+      // Convert game date to ET date string for comparison
+      const gameDateET = new Date(e.date).toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
       return {
         game: `${away?.team?.displayName ?? 'Away'} vs ${home?.team?.displayName ?? 'Home'}`,
         time: e.date,
         status: comps?.status?.type?.description ?? '',
+        dateET: gameDateET,
       };
-    }).filter((g) => g.status !== 'Final'); // only upcoming/live
+    }).filter((g) => g.dateET === todayET); // only games scheduled for today (ET)
   } catch (err) {
     console.error(`  ESPN fetch failed for ${sport}:`, err.message);
     return [];
@@ -132,16 +135,18 @@ async function main() {
   const now = new Date();
   const month = now.getMonth() + 1;
   const dateStr = now.toISOString().slice(0, 10);
+  // Use ET date as authoritative "today" — matches what the app displays
+  const todayET = now.toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
 
   const inSeasonSports = getInSeasonSports(month);
-  console.log(`Date: ${dateStr} | Sports: ${inSeasonSports.join(', ')}`);
+  console.log(`Date: ${dateStr} | ET date: ${todayET} | Sports: ${inSeasonSports.join(', ')}`);
 
   const sports = [];
 
   for (const sport of inSeasonSports) {
     console.log(`\n── ${sport}`);
     try {
-      const games = await getTodaysGames(sport);
+      const games = await getTodaysGames(sport, todayET);
       console.log(`  ESPN games found: ${games.length} (${games.map(g => g.game).join(' | ') || 'none'})`);
 
       if (games.length === 0 && ESPN_KEYS[sport]) {
