@@ -96,25 +96,46 @@ Return ONLY valid JSON, no markdown, no explanation:
   }
 
   const json = await res.json();
-  const raw = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
 
-  try {
-    // Strip markdown code fences if present
-    const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
-    const parsed = JSON.parse(cleaned);
-    // Filter out any moneyline picks shorter than -400
-    parsed.picks = (parsed.picks ?? []).filter((p) => {
-      if (p.betType === 'moneyline') {
-        const n = parseInt(p.odds ?? '0');
-        return n > -401;
-      }
-      return true;
-    });
-    return parsed.picks;
-  } catch {
-    console.error(`Failed to parse picks JSON for ${sport}:`, raw);
+  // When google_search grounding is active Gemini may return multiple parts
+  // (search context, then the answer). Concatenate all text parts.
+  const parts = json.candidates?.[0]?.content?.parts ?? [];
+  const allText = parts.map((p) => p.text ?? '').join('\n');
+
+  console.log(`  [${sport}] raw response (first 300 chars):`, allText.slice(0, 300));
+
+  // Extract JSON: strip fences, then look for {"picks"...} anywhere in the text
+  function extractJSON(text) {
+    // Try 1: strip markdown fences and parse directly
+    const stripped = text.replace(/^```(?:json)?\s*/im, '').replace(/\s*```\s*$/m, '').trim();
+    try { return JSON.parse(stripped); } catch {}
+
+    // Try 2: find the first {...} block containing "picks"
+    const match = text.match(/\{[\s\S]*?"picks"[\s\S]*?\}/);
+    if (match) { try { return JSON.parse(match[0]); } catch {} }
+
+    // Try 3: find any JSON array assigned to picks
+    const arrMatch = text.match(/"picks"\s*:\s*(\[[\s\S]*?\])/);
+    if (arrMatch) { try { return { picks: JSON.parse(arrMatch[1]) }; } catch {} }
+
+    return null;
+  }
+
+  const parsed = extractJSON(allText);
+  if (!parsed) {
+    console.error(`  [${sport}] could not parse JSON from response`);
     return [];
   }
+
+  // Filter out moneyline picks shorter than -400
+  parsed.picks = (parsed.picks ?? []).filter((p) => {
+    if (p.betType === 'moneyline') {
+      const n = parseInt(p.odds ?? '0');
+      return n > -401;
+    }
+    return true;
+  });
+  return parsed.picks;
 }
 
 // ─── Main ─────────────────────────────────────────────────────────────────
