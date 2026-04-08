@@ -6,20 +6,20 @@ if (!GEMINI_API_KEY) {
   process.exit(1);
 }
 
-// ─── Season calendar ───────────────────────────────────────────────────────
-// Maps each sport to the months (1-indexed) when it is in season.
-// Picks are only requested for sports whose month array includes today's month.
+const GEMINI_URL = (model = 'gemini-2.5-flash') =>
+  `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${GEMINI_API_KEY}`;
+
+// ─── Season calendar ────────────────────────────────────────────────────────
 const SEASON_MONTHS = {
-  NBA:   [10, 11, 12, 1, 2, 3, 4, 5, 6],  // Oct – Jun
-  NHL:   [10, 11, 12, 1, 2, 3, 4, 5, 6],  // Oct – Jun
-  MLB:   [4, 5, 6, 7, 8, 9, 10],          // Apr – Oct
-  NFL:   [9, 10, 11, 12, 1, 2],           // Sep – Feb
-  NCAAB: [11, 12, 1, 2, 3, 4],            // Nov – Apr
-  MLS:   [3, 4, 5, 6, 7, 8, 9, 10, 11],   // Mar – Nov
-  UFC:   [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], // Year-round
+  NBA:   [10, 11, 12, 1, 2, 3, 4, 5, 6],
+  NHL:   [10, 11, 12, 1, 2, 3, 4, 5, 6],
+  MLB:   [4, 5, 6, 7, 8, 9, 10],
+  NFL:   [9, 10, 11, 12, 1, 2],
+  NCAAB: [11, 12, 1, 2, 3, 4],
+  MLS:   [3, 4, 5, 6, 7, 8, 9, 10, 11],
+  UFC:   [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
 };
 
-// Max sports to include per day
 const MAX_SPORTS = 5;
 
 function getInSeasonSports(month) {
@@ -29,152 +29,136 @@ function getInSeasonSports(month) {
     .slice(0, MAX_SPORTS);
 }
 
-// ─── Gemini call ──────────────────────────────────────────────────────────
-async function getPicksForSport(sport, dateStr) {
-  const prompt = `You are generating the top 5 ${sport} betting picks for today, ${dateStr}.
+// ─── Phase 1: Research with Google Search ───────────────────────────────────
+async function researchSport(sport, dateStr) {
+  const res = await fetch(GEMINI_URL(), {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      system_instruction: {
+        parts: [{ text: 'You are a sharp sports betting analyst. Use Google Search to find current, accurate information.' }],
+      },
+      contents: [{
+        role: 'user',
+        parts: [{ text: `Search for today's ${sport} games on ${dateStr} and provide a detailed betting research report. Include:
+1. All ${sport} games scheduled today with tip-off/start times
+2. Current injury reports for each team (who is OUT, Doubtful, Questionable)
+3. Each team's recent form (last 10 games, home/away record, current streak)
+4. Head-to-head history for each matchup (last 5 games, who covered)
+5. Current betting lines: spread, total (over/under), and moneyline for each game
+6. Any line movement since opening and what it signals
+7. Key matchup advantages or scheduling edges (back-to-backs, rest days)
 
-STEP 1 — RESEARCH (use Google Search for each item below):
-- Which ${sport} games are actually scheduled today (${dateStr})? Only pick from real games.
-- For each game you consider, look up:
-  * Current injury report: who is OUT, Doubtful, or Questionable for each team
-  * Recent form: each team's last 10 games W/L, home/away splits, and current streak
-  * Head-to-head history: last 5 matchups — who won, who covered the spread, did it go over/under
-  * Rest and schedule: back-to-backs, days of rest, travel distance
-  * Current lines and any line movement since opening (sharp action signals)
-  * Key player matchup edges: favorable/unfavorable defensive assignments, pace mismatches
-  * Relevant news: load management, motivation, revenge games, coaching adjustments
+If there are no ${sport} games scheduled today, say "NO GAMES TODAY" and nothing else.` }],
+      }],
+      tools: [{ google_search: {} }],
+      generationConfig: { temperature: 0.3 },
+    }),
+  });
 
-STEP 2 — SELECT 5 PICKS with genuine edge:
-- DO NOT suggest any moneyline with odds shorter than -400
-- Prioritize spreads, totals (over/under), and player props over moneylines
-- At least 1 pick must be an underdog or contrarian angle (positive odds preferred)
-- Every pick must have a real, current line/odds value found via search
-- Confidence "high" = multiple data points align strongly; "medium" = solid lean with a clear reason
+  if (!res.ok) throw new Error(`Research API error ${res.status}: ${await res.text()}`);
+  const json = await res.json();
+  const parts = json.candidates?.[0]?.content?.parts ?? [];
+  const text = parts.map((p) => p.text ?? '').join('\n').trim();
+  console.log(`  [${sport}] Research (first 200 chars): ${text.slice(0, 200)}`);
+  return text;
+}
 
-STEP 3 — WRITE the rationale for each pick. The rationale MUST:
-- Reference specific stats or facts you found (e.g. "Boston is 9-1 ATS in back-to-backs this season", "Lillard is OUT, removing 28 PPG from Milwaukee's offense", "Line moved from -2.5 to -4 indicating sharp money on the favorite")
-- Explain what the edge is and why the line is beatable
-- Be 2-3 sentences — enough detail to justify the pick
+// ─── Phase 2: Generate structured JSON from research ────────────────────────
+async function generatePicks(sport, dateStr, research) {
+  if (!research || research.includes('NO GAMES TODAY')) {
+    console.log(`  [${sport}] No games today — skipping`);
+    return [];
+  }
 
-If ${sport} has no games scheduled today, return: {"picks": []}
+  const res = await fetch(GEMINI_URL(), {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      system_instruction: {
+        parts: [{ text: 'You are a sharp sports betting analyst. Output only valid JSON, no markdown, no explanation.' }],
+      },
+      contents: [{
+        role: 'user',
+        parts: [{ text: `Based on this ${sport} betting research for ${dateStr}:
 
-Return ONLY valid JSON, no markdown, no explanation:
+${research}
+
+Generate the top 5 betting picks. Rules:
+- Only pick from real games listed in the research above
+- No moneyline picks with odds shorter than -400
+- Prioritize spreads, totals, and props over moneylines
+- Include at least 1 underdog or positive-odds pick
+- Rationale must cite a specific stat or fact from the research (2-3 sentences)
+
+Return this exact JSON structure:
 {
   "picks": [
     {
       "game": "Away Team vs Home Team",
       "betType": "spread|total|moneyline|prop",
-      "pick": "specific bet description e.g. 'Celtics -5.5' or 'Over 224.5' or 'LeBron James Over 25.5 Points'",
+      "pick": "e.g. Lakers -4.5 or Over 224.5 or LeBron James Over 25.5 Points",
       "odds": "+150",
       "confidence": "high|medium",
-      "rationale": "2-3 sentences referencing specific stats, injury news, or line movement that justify this pick"
+      "rationale": "2-3 sentences citing specific stats/injuries/line movement from the research"
     }
   ]
-}`;
-
-  const body = {
-    system_instruction: {
-      parts: [{ text: 'You are a sharp sports betting analyst. You always use Google Search to look up current injury reports, recent team form, head-to-head history, and line movement before making picks. Your rationales cite specific data points, not vague generalities. Return only valid JSON.' }],
-    },
-    contents: [{ role: 'user', parts: [{ text: prompt }] }],
-    tools: [{ google_search: {} }],
-    generationConfig: {
-      temperature: 0.4,
-    },
-  };
-
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(body),
+}` }],
+      }],
+      generationConfig: {
+        temperature: 0.4,
+        responseMimeType: 'application/json',
+      },
+    }),
   });
 
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`Gemini error for ${sport}: ${res.status} ${text}`);
-  }
-
+  if (!res.ok) throw new Error(`Picks API error ${res.status}: ${await res.text()}`);
   const json = await res.json();
+  const raw = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
+  console.log(`  [${sport}] Picks JSON (first 200 chars): ${raw.slice(0, 200)}`);
 
-  // When google_search grounding is active Gemini may return multiple parts
-  // (search context, then the answer). Concatenate all text parts.
-  const parts = json.candidates?.[0]?.content?.parts ?? [];
-  const allText = parts.map((p) => p.text ?? '').join('\n');
-
-  console.log(`  [${sport}] raw response (first 300 chars):`, allText.slice(0, 300));
-
-  // Extract JSON: strip fences, then look for {"picks"...} anywhere in the text
-  function extractJSON(text) {
-    // Try 1: strip markdown fences and parse directly
-    const stripped = text.replace(/^```(?:json)?\s*/im, '').replace(/\s*```\s*$/m, '').trim();
-    try { return JSON.parse(stripped); } catch {}
-
-    // Try 2: find the first {...} block containing "picks"
-    const match = text.match(/\{[\s\S]*?"picks"[\s\S]*?\}/);
-    if (match) { try { return JSON.parse(match[0]); } catch {} }
-
-    // Try 3: find any JSON array assigned to picks
-    const arrMatch = text.match(/"picks"\s*:\s*(\[[\s\S]*?\])/);
-    if (arrMatch) { try { return { picks: JSON.parse(arrMatch[1]) }; } catch {} }
-
-    return null;
-  }
-
-  const parsed = extractJSON(allText);
-  if (!parsed) {
-    console.error(`  [${sport}] could not parse JSON from response`);
+  try {
+    const parsed = JSON.parse(raw);
+    return (parsed.picks ?? []).filter((p) => {
+      if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
+      return true;
+    });
+  } catch {
+    console.error(`  [${sport}] JSON parse failed:`, raw.slice(0, 300));
     return [];
   }
-
-  // Filter out moneyline picks shorter than -400
-  parsed.picks = (parsed.picks ?? []).filter((p) => {
-    if (p.betType === 'moneyline') {
-      const n = parseInt(p.odds ?? '0');
-      return n > -401;
-    }
-    return true;
-  });
-  return parsed.picks;
 }
 
-// ─── Main ─────────────────────────────────────────────────────────────────
+// ─── Main ────────────────────────────────────────────────────────────────────
 async function main() {
   const now = new Date();
-  const month = now.getMonth() + 1; // 1-indexed
-  const dateStr = now.toISOString().slice(0, 10); // YYYY-MM-DD
+  const month = now.getMonth() + 1;
+  const dateStr = now.toISOString().slice(0, 10);
 
   const inSeasonSports = getInSeasonSports(month);
-  console.log(`In-season sports for month ${month}:`, inSeasonSports);
+  console.log(`Date: ${dateStr} | In-season sports: ${inSeasonSports.join(', ')}`);
 
   const sports = [];
 
   for (const sport of inSeasonSports) {
-    console.log(`Fetching picks for ${sport}…`);
+    console.log(`\n── ${sport} ──`);
     try {
-      const picks = await getPicksForSport(sport, dateStr);
+      const research = await researchSport(sport, dateStr);
+      const picks = await generatePicks(sport, dateStr, research);
       if (picks.length > 0) {
         sports.push({ sport, picks });
-        console.log(`  ✓ ${picks.length} picks`);
+        console.log(`  ✓ ${picks.length} picks added`);
       } else {
-        console.log(`  — No games today, skipping`);
+        console.log(`  — 0 picks (no games or no edge found)`);
       }
     } catch (err) {
       console.error(`  ✗ Error:`, err.message);
     }
   }
 
-  const output = {
-    date: dateStr,
-    generatedAt: now.toISOString(),
-    sports,
-  };
-
+  const output = { date: dateStr, generatedAt: now.toISOString(), sports };
   writeFileSync('daily-picks.json', JSON.stringify(output, null, 2));
-  console.log(`\nWrote ${sports.length} sport(s) to daily-picks.json`);
+  console.log(`\nDone — ${sports.length} sport(s) written to daily-picks.json`);
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+main().catch((err) => { console.error(err); process.exit(1); });
