@@ -93,7 +93,16 @@ Return ONLY valid JSON, no markdown, no explanation:
   }
 
   const json = await res.json();
-  const raw = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
+
+  // Diagnostic: did Google Search actually fire?
+  const grounding = json.candidates?.[0]?.groundingMetadata;
+  const queries = grounding?.webSearchQueries ?? grounding?.searchEntryPoint ?? null;
+  console.log(`  Search ran: ${queries ? 'YES — ' + JSON.stringify(queries).slice(0, 200) : 'NO — grounding metadata absent'}`);
+  console.log(`  Parts count: ${json.candidates?.[0]?.content?.parts?.length ?? 0}`);
+  console.log(`  Finish reason: ${json.candidates?.[0]?.finishReason ?? 'unknown'}`);
+
+  const parts = json.candidates?.[0]?.content?.parts ?? [];
+  const raw = parts.find(p => p.text)?.text ?? parts[0]?.text ?? '{"picks":[]}';
   console.log(`  Raw (first 500): ${raw.slice(0, 500)}`);
 
   try {
