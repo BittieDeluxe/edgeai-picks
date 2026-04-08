@@ -26,6 +26,29 @@ function getInSeasonSports(month) {
     .slice(0, MAX_SPORTS);
 }
 
+// ─── Diagnostic: test free-text output with google_search ─────────────────
+async function diagnoseFreeText() {
+  console.log('\n=== DIAGNOSTIC: free-text + google_search ===');
+  const res = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ role: 'user', parts: [{ text: 'What NBA games are scheduled for today? Just list them briefly.' }] }],
+        tools: [{ google_search: {} }],
+        generationConfig: { temperature: 0.4 },
+      }),
+    }
+  );
+  const json = await res.json();
+  const parts = json.candidates?.[0]?.content?.parts ?? [];
+  console.log(`  Parts count: ${parts.length}`);
+  console.log(`  Parts structure: ${JSON.stringify(parts.map(p => ({ keys: Object.keys(p), textLen: p.text?.length ?? 0, thought: p.thought ?? false })))}`);
+  console.log(`  Full response text: ${parts.map(p => p.text ?? '').join('').slice(0, 500)}`);
+  console.log('=== END DIAGNOSTIC ===\n');
+}
+
 // ─── Gemini call ──────────────────────────────────────────────────────────
 async function getPicksForSport(sport, dateStr) {
   const prompt = `You are generating the top 5 ${sport} betting picks for today, ${dateStr}.
@@ -80,7 +103,7 @@ Return ONLY valid JSON, no markdown, no explanation:
     },
   };
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-03-25:generateContent?key=${GEMINI_API_KEY}`;
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
   const res = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -115,6 +138,8 @@ async function main() {
   const now = new Date();
   const month = now.getMonth() + 1;
   const dateStr = now.toISOString().slice(0, 10);
+
+  await diagnoseFreeText();
 
   const inSeasonSports = getInSeasonSports(month);
   console.log(`In-season sports for month ${month}:`, inSeasonSports);
