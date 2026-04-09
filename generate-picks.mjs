@@ -258,8 +258,8 @@ async function getPicksForSport(sport, dateStr) {
     buildContext(sport, dateStr),
   ]);
 
-  if (!hasGames && !researchText) {
-    console.log(`  No data found for ${sport}`);
+  if (!hasGames) {
+    console.log(`  No games/events found for ${sport} today — skipping`);
     return [];
   }
 
