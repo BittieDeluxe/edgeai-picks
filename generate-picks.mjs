@@ -591,8 +591,9 @@ async function gradePicksForDate(picksData) {
 // ─── Main ─────────────────────────────────────────────────────────────────
 async function main() {
   const now = new Date();
-  const month = now.getMonth() + 1;
-  const dateStr = now.toISOString().slice(0, 10);
+  // Use ET date so manual runs after midnight UTC still produce the correct US date
+  const dateStr = now.toLocaleDateString('en-CA', { timeZone: 'America/New_York' }); // YYYY-MM-DD
+  const month = parseInt(dateStr.split('-')[1]);
 
   // ─── Grade yesterday's picks and update archive ──────────────────────────
   let archive = [];
