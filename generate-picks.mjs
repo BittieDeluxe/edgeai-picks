@@ -10,36 +10,42 @@ if (!PERPLEXITY_API_KEY) { console.error('PERPLEXITY_API_KEY is not set'); proce
 
 // ─── Season calendar ───────────────────────────────────────────────────────
 const SEASON_MONTHS = {
-  NBA:   [10, 11, 12, 1, 2, 3, 4, 5, 6],
-  NHL:   [10, 11, 12, 1, 2, 3, 4, 5, 6],
-  MLB:   [4, 5, 6, 7, 8, 9, 10],
-  NFL:   [9, 10, 11, 12, 1, 2],
-  NCAAB: [11, 12, 1, 2, 3, 4],
-  MLS:   [3, 4, 5, 6, 7, 8, 9, 10, 11],
-  UFC:   [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  NBA:      [10, 11, 12, 1, 2, 3, 4, 5, 6],
+  NHL:      [10, 11, 12, 1, 2, 3, 4, 5, 6],
+  MLB:      [4, 5, 6, 7, 8, 9, 10],
+  NFL:      [9, 10, 11, 12, 1, 2],
+  NCAAB:   [11, 12, 1, 2, 3, 4],
+  MLS:      [3, 4, 5, 6, 7, 8, 9, 10, 11],
+  UFC:      [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  UCL:      [9, 10, 11, 12, 2, 3, 4, 5, 6], // UEFA Champions League — Sep–Dec + Feb–Jun
+  WORLDCUP: [6, 7],                           // FIFA World Cup 2026 — Jun 11–Jul 19 2026
 };
 
 const ESPN_MAP = {
-  NBA:   { sport: 'basketball', league: 'nba' },
-  NHL:   { sport: 'hockey', league: 'nhl' },
-  MLB:   { sport: 'baseball', league: 'mlb' },
-  NFL:   { sport: 'football', league: 'nfl' },
-  NCAAB: { sport: 'basketball', league: 'mens-college-basketball' },
-  MLS:   { sport: 'soccer', league: 'usa.1' },
-  UFC:   null,
+  NBA:      { sport: 'basketball', league: 'nba' },
+  NHL:      { sport: 'hockey', league: 'nhl' },
+  MLB:      { sport: 'baseball', league: 'mlb' },
+  NFL:      { sport: 'football', league: 'nfl' },
+  NCAAB:   { sport: 'basketball', league: 'mens-college-basketball' },
+  MLS:      { sport: 'soccer', league: 'usa.1' },
+  UFC:      null,
+  UCL:      { sport: 'soccer', league: 'uefa.champions' },
+  WORLDCUP: { sport: 'soccer', league: 'fifa.world' },
 };
 
 const ODDS_SPORT_KEY = {
-  NBA:   'basketball_nba',
-  NHL:   'icehockey_nhl',
-  MLB:   'baseball_mlb',
-  NFL:   'americanfootball_nfl',
-  NCAAB: 'basketball_ncaab',
-  MLS:   'soccer_usa_mls',
-  UFC:   'mma_mixed_martial_arts',
+  NBA:      'basketball_nba',
+  NHL:      'icehockey_nhl',
+  MLB:      'baseball_mlb',
+  NFL:      'americanfootball_nfl',
+  NCAAB:   'basketball_ncaab',
+  MLS:      'soccer_usa_mls',
+  UFC:      'mma_mixed_martial_arts',
+  UCL:      'soccer_uefa_champs_league',
+  WORLDCUP: 'soccer_fifa_world_cup',
 };
 
-const MAX_SPORTS = 5;
+const MAX_SPORTS = 8; // increased to cover simultaneous World Cup + major leagues in Jun/Jul
 
 function getInSeasonSports(month) {
   return Object.entries(SEASON_MONTHS)
