@@ -1,49 +1,94 @@
 {
-  "date": "2026-04-09",
-  "generatedAt": "2026-04-09T01:04:08.875Z",
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-09T01:55:15.930Z",
   "sports": [
+    {
+      "sport": "NBA",
+      "picks": [
+        {
+          "game": "Memphis Grizzlies vs Denver Nuggets",
+          "betType": "total",
+          "pick": "Under 257.5",
+          "odds": "-112",
+          "confidence": "high",
+          "rationale": "The Memphis Grizzlies are severely depleted, missing key offensive players like Ja Morant, Brandon Clarke, Santi Aldama, and Kentavious Caldwell-Pope, among many others. This extensive injury list severely cripples their ability to contribute to a high-scoring affair, especially against a strong Denver Nuggets team (51-28). While Denver is a potent offense, they tend to play at a controlled pace and may not push the tempo in a likely blowout. The 257.5 total is exceptionally high, and it's highly improbable the 25-54 Grizzlies can score enough to help push it over. For this pick to hit, the combined score must be 257 points or less."
+        },
+        {
+          "game": "Portland Trail Blazers vs San Antonio Spurs",
+          "betType": "moneyline",
+          "pick": "Portland Trail Blazers (+100)",
+          "odds": "+100",
+          "confidence": "high",
+          "rationale": "The San Antonio Spurs, despite their excellent 60-19 record, will be without their superstar Victor Wembanyama, a monumental loss impacting both their offense and defense. While the Portland Trail Blazers (40-39) are also missing key players like Damian Lillard, Jerami Grant, and Shaedon Sharpe, Wembanyama's absence levels the playing field significantly. Portland, even shorthanded, can be competitive, and without Wemby's rim protection and scoring, the Spurs' dominant edge is severely diminished. For this pick to hit, the Portland Trail Blazers simply need to win the game outright."
+        },
+        {
+          "game": "Oklahoma City Thunder vs LA Clippers",
+          "betType": "spread",
+          "pick": "Oklahoma City Thunder -8.5",
+          "odds": "-102",
+          "confidence": "high",
+          "rationale": "The Oklahoma City Thunder (63-16) are one of the league's elite teams, fully healthy and highly motivated to secure the top seed in the Western Conference. Conversely, the LA Clippers (41-38) are struggling and will be without key offensive playmakers Bradley Beal and Darius Garland, significantly hampering their scoring and creation. This talent disparity, combined with OKC's playoff urgency and the Clippers' significant absences, creates a strong advantage for the Thunder. For this pick to hit, the Oklahoma City Thunder must win by 9 points or more."
+        },
+        {
+          "game": "Dallas Mavericks vs Phoenix Suns",
+          "betType": "spread",
+          "pick": "Phoenix Suns -12.5",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "The Dallas Mavericks (25-54) are severely compromised by injuries, with Kyrie Irving, P.J. Washington, Daniel Gafford, and Dereck Lively II all sidelined. This leaves them without their primary offensive threats and interior presence. The Phoenix Suns (43-36), meanwhile, are relatively healthy, missing only Grayson Allen, and are fighting intensely for playoff positioning. Facing a decimated Mavericks squad at home, the Suns possess a significant talent advantage that they should exploit. For this pick to hit, the Phoenix Suns need to win by 13 points or more."
+        },
+        {
+          "game": "Portland Trail Blazers vs San Antonio Spurs",
+          "betType": "total",
+          "pick": "Under 230.5",
+          "odds": "-125",
+          "confidence": "medium",
+          "rationale": "Both the Portland Trail Blazers (40-39) and the San Antonio Spurs (60-19) are dealing with significant offensive absences. Portland is without Damian Lillard, Jerami Grant, and Shaedon Sharpe, severely limiting their scoring punch. While the Spurs are a high-powered offense, the absence of Victor Wembanyama impacts their offensive efficiency and overall flow. With key offensive players missing on both sides, and the Spurs' defense taking a hit without Wemby, the game could devolve into a less efficient scoring affair. For this pick to hit, the combined score of the game must be 230 points or less."
+        }
+      ]
+    },
     {
       "sport": "NHL",
       "picks": [
         {
-          "game": "Florida Panthers vs Ottawa Senators",
+          "game": "Washington Capitals vs Toronto Maple Leafs",
           "betType": "spread",
-          "pick": "Ottawa Senators -1.5",
-          "odds": "+100",
+          "pick": "Washington Capitals -3.5",
+          "odds": "+124",
           "confidence": "high",
-          "rationale": "The Florida Panthers are severely depleted by injuries, with key players like Matthew Tkachuk, Aaron Ekblad, Sam Reinhart, and Anton Lundell all out. This cripples their offensive and defensive capabilities against a solid Ottawa Senators team that holds a 41-27-10 record. Despite Ottawa missing Thomas Chabot, Florida's extensive list of absences creates a significant mismatch. The Senators, playing at home, should capitalize on Florida's weakened lineup, especially given the Panthers' mediocre 37-37-4 record. For this pick to hit, Ottawa needs to secure a multi-goal victory against a team missing its core talent."
+          "rationale": "The Washington Capitals are an overwhelming favorite, reflected by their staggering -10000 moneyline, indicating a near-certain victory against the Toronto Maple Leafs. Washington boasts a strong 39-30-9 record, significantly outperforming Toronto's 32-31-14, suggesting a clear talent disparity. The Maple Leafs are also dealing with multiple Day-To-Day injuries, including key defenseman Brandon Carlo, which will further compromise their ability to defend against a potent Capitals offense. While Washington is missing goalie Charlie Lindgren, their offensive firepower is expected to dominate and exploit Toronto's defensive vulnerabilities. This spread pick at positive odds (+124) offers excellent value, betting on the Capitals to secure a decisive win by at least four goals."
         },
         {
-          "game": "Carolina Hurricanes vs Chicago Blackhawks",
-          "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "+106",
-          "confidence": "high",
-          "rationale": "The Carolina Hurricanes, with an impressive 50-22-6 record, are one of the league's elite teams and face a struggling Chicago Blackhawks squad at 28-36-14. Carolina is relatively healthy, with only Jalen Chatfield day-to-day, while Chicago is missing a few players like Matt Grzelcyk. The significant disparity in team quality and recent form makes the Hurricanes a strong candidate to win by multiple goals. This positive odds spread pick offers excellent value, as Carolina's dominant play should easily overwhelm the Blackhawks. For the pick to cash, the Hurricanes must secure a victory by two or more goals."
-        },
-        {
-          "game": "Minnesota Wild vs Dallas Stars",
-          "betType": "moneyline",
-          "pick": "Minnesota Wild",
-          "odds": "+104",
-          "confidence": "medium",
-          "rationale": "The Dallas Stars, despite their strong 46-20-12 record, are significantly hampered by the absence of key forward Roope Hintz, along with Nathan Bastian, Sam Steel, and Michael Bunting. Hintz is a major offensive contributor, and his loss creates a substantial void that the Minnesota Wild (45-21-12) can exploit. The Wild are a formidable team themselves, with a comparable record and fewer critical injuries. This matchup, typically close, now leans towards Minnesota given Dallas's depleted forward group. For this underdog moneyline pick to succeed, the Wild need to secure an outright victory against a Stars team missing vital offensive firepower."
-        },
-        {
-          "game": "Tampa Bay Lightning vs Montreal Canadiens",
+          "game": "Edmonton Oilers vs San Jose Sharks",
           "betType": "total",
           "pick": "Under 6.5",
-          "odds": "-118",
+          "odds": "+110",
           "confidence": "medium",
-          "rationale": "The Tampa Bay Lightning could be missing key offensive forwards Anthony Cirelli and Brandon Hagel, both listed as Day-To-Day, in addition to Pontus Holmberg being out. These absences could significantly impact Tampa Bay's scoring prowess against the Montreal Canadiens. While Montreal (46-22-10) has a decent record, they are not an offensive juggernaut, and their own injuries (Joe Veleno Day-To-Day, Alexandre Carrier Out) could further contribute to a lower-scoring affair. With potential offensive struggles for the Lightning and a decent Canadiens defense, the Under 6.5 seems like a solid play. For this pick to hit, the combined score must be 6 goals or fewer."
+          "rationale": "The Edmonton Oilers will be significantly hampered offensively by the absence of star forward Zach Hyman, a crucial goal-scorer and power-play contributor. This injury drastically reduces their scoring potential against a San Jose Sharks team that, despite a slightly worse record (37-32-7 vs. 39-29-10), is a slight moneyline favorite at home. San Jose, missing depth forward Ryan Reaves, is not typically a high-octane offensive squad, further supporting a lower-scoring affair. The Oilers' diminished attack combined with the Sharks' generally conservative offensive approach should keep the total goals below the high 6.5 mark. For this pick to cash, the combined score of both teams must be six goals or fewer."
         },
         {
-          "game": "Calgary Flames vs Colorado Avalanche",
-          "betType": "spread",
-          "pick": "Calgary Flames +1.5",
-          "odds": "+100",
+          "game": "Edmonton Oilers vs San Jose Sharks",
+          "betType": "moneyline",
+          "pick": "San Jose Sharks (-118)",
+          "odds": "-118",
           "confidence": "high",
-          "rationale": "The Colorado Avalanche, while an elite team at 51-16-10, are facing significant challenges with star defenseman Cale Makar and key forward Nazem Kadri both out. These are massive losses that severely impact Colorado's offensive creativity and defensive stability. The Calgary Flames, despite their 32-36-9 record, will benefit immensely from these absences, making them a strong underdog play with the +1.5 goal cushion. Getting positive odds (+100) on the Flames to either win or lose by just one goal against a hobbled Avalanche team presents excellent value. For this pick to hit, the Flames must win outright or lose by exactly one goal."
+          "rationale": "The San Jose Sharks enter this home game as a surprising moneyline favorite at -118 against the Edmonton Oilers, a strong indicator of their perceived advantage. A primary factor is the critical absence of Zach Hyman for the Oilers, a top offensive threat whose scoring and power-play presence will be sorely missed. The Sharks, with a respectable 37-32-7 record, have shown capability at home and will look to exploit Edmonton's weakened attack. While San Jose is without Ryan Reaves, his impact is far less significant than Hyman's. This pick leverages San Jose's home-ice advantage and Edmonton's key injury to secure a straight-up victory."
+        },
+        {
+          "game": "Washington Capitals vs Toronto Maple Leafs",
+          "betType": "total",
+          "pick": "Over 4.5",
+          "odds": "+160",
+          "confidence": "medium",
+          "rationale": "Despite the market heavily favoring the Under 4.5 at -210, the Over 4.5 at +160 presents a compelling value given the Washington Capitals' offensive strength. The Capitals, with a robust 39-30-9 record, are expected to dominate a struggling Toronto Maple Leafs team (32-31-14), as evidenced by Washington's astronomical -10000 moneyline. Toronto's defense is further compromised by multiple Day-To-Day injuries, including key blueliner Brandon Carlo, making them vulnerable to Washington's attack. While Capitals goalie Charlie Lindgren is out, the sheer offensive disparity and Washington's likely goal output should push the total past 4.5 goals. This pick anticipates a game where the Capitals score frequently, leading to five or more combined goals."
+        },
+        {
+          "game": "Edmonton Oilers vs San Jose Sharks",
+          "betType": "prop",
+          "pick": "Connor McDavid Over 0.5 Assists",
+          "odds": "-140",
+          "confidence": "high",
+          "rationale": "Connor McDavid remains the premier playmaker for the Edmonton Oilers, consistently demonstrating an unparalleled ability to set up scoring opportunities for his teammates. Even with Zach Hyman sidelined, McDavid's elite vision and passing skills ensure he will be the primary catalyst for Edmonton's offense. Facing the San Jose Sharks, McDavid will be heavily involved in every offensive zone entry and power play, maximizing his chances for an assist. His individual assist production is less reliant on one specific linemate and more on his overall dominance and puck distribution. This prop pick expects McDavid to register at least one assist, leveraging his consistent playmaking prowess."
         }
       ]
     },
@@ -51,81 +96,44 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Athletics vs New York Yankees",
+          "game": "Athletics @ New York Yankees",
           "betType": "spread",
           "pick": "New York Yankees -1.5",
-          "odds": "+108",
+          "odds": "+106",
           "confidence": "high",
-          "rationale": "The New York Yankees, boasting an impressive 8-2 record, are facing the struggling Athletics, who stand at 3-7. This matchup presents a clear disparity in team quality and current form, with the Yankees playing at home. While the Yankees have Rafael Montero 'Out' from their bullpen, this injury is unlikely to significantly hinder their ability to dominate an inferior opponent. The positive odds of +108 for the Yankees to win by at least two runs offer excellent value, reflecting their superior roster and strong start to the season. For this pick to hit, the New York Yankees must secure a victory by a margin of two runs or more."
+          "rationale": "The New York Yankees (8-2) are off to a dominant start, showcasing superior talent against the struggling Athletics (3-7). This clear mismatch strongly favors the Yankees, whose potent offense and solid pitching should easily overpower Oakland at home. While the Yankees are missing reliever Rafael Montero, their deep roster and the Athletics' weak lineup mitigate this absence significantly. The positive odds of +106 for the Yankees to win by more than one run offer excellent value given the vast disparity in team quality and current form. This pick leverages the Yankees' strong start and the Athletics' poor performance. For this bet to hit, the Yankees must secure a multi-run victory at home against the Athletics."
         },
         {
-          "game": "Colorado Rockies vs San Diego Padres",
-          "betType": "moneyline",
-          "pick": "Colorado Rockies (+160)",
-          "odds": "+160",
-          "confidence": "medium",
-          "rationale": "Both the Colorado Rockies and San Diego Padres hold identical 6-6 records, yet the Padres are heavy favorites at -190, creating an underdog opportunity. A critical factor is the absence of Padres' ace Yu Darvish, who is listed as 'Out,' significantly weakening their starting rotation. This key injury substantially levels the playing field, making the Rockies' +160 moneyline an attractive value play. Despite being on the road, Colorado has proven capable of competing this season, as evidenced by their even record. For this pick to hit, the Colorado Rockies must win the game outright against a Darvish-less San Diego Padres team."
-        },
-        {
-          "game": "Arizona Diamondbacks vs New York Mets",
+          "game": "Arizona Diamondbacks @ New York Mets",
           "betType": "total",
           "pick": "Over 7.5",
           "odds": "+100",
           "confidence": "medium",
-          "rationale": "The total for this game is set at 7.5 runs, with the Over available at even odds of +100. The Arizona Diamondbacks are significantly hampered by pitching injuries, with key starter Tommy Henry and relievers Derek Law and Nabil Crismatt all listed as 'Out.' This depletion in their pitching staff creates a clear opportunity for the New York Mets' offense to capitalize and score runs. While the Mets typically feature strong pitching, the Diamondbacks' offense is capable, and facing a weakened opposing staff could lead to a higher-scoring affair than the line suggests. For this pick to hit, the combined score of the Arizona Diamondbacks and New York Mets must be 8 runs or more."
+          "rationale": "The Arizona Diamondbacks (6-6) are dealing with significant pitching injuries, with key arms like Derek Law, Tommy Henry, and Nabil Crismatt all out, weakening their rotation and bullpen depth. This depleted staff is likely to concede more runs, especially against a capable New York Mets (7-5) offense playing at home. The Mets have shown flashes of offensive power this season and should capitalize on the D-backs' pitching woes. With the total set at a relatively low 7.5 and even money odds, there's value in anticipating a higher-scoring affair where both teams contribute. For the Over to hit, the combined score of both teams must be 8 runs or more."
         },
         {
-          "game": "Arizona Diamondbacks vs New York Mets",
+          "game": "Cincinnati Reds @ Miami Marlins",
           "betType": "spread",
-          "pick": "New York Mets -1.5",
-          "odds": "+128",
+          "pick": "Cincinnati Reds -1.5",
+          "odds": "+160",
           "confidence": "medium",
-          "rationale": "The New York Mets, with a 7-5 record, are facing an Arizona Diamondbacks team (6-6) that is significantly impacted by pitching injuries. Key starter Tommy Henry and relievers Derek Law and Nabil Crismatt are all listed as 'Out' for Arizona, severely weakening their pitching depth. This substantial injury disparity provides the Mets a clear advantage, especially playing at home. Getting the Mets to win by at least two runs at positive odds of +128 offers strong value given the Diamondbacks' depleted pitching staff. For this pick to hit, the New York Mets must defeat the Diamondbacks by two runs or more."
+          "rationale": "The Cincinnati Reds (8-4) have demonstrated strong early-season form, boasting a better record than the Miami Marlins (7-5) despite being on the road. The Reds' offense has been productive, and their overall team performance suggests they can overcome the absence of pitchers Alex Young and Carson Spiers. The Marlins, while playing at home, haven't shown the same consistent dominance as the Reds. The generous +160 odds for Cincinnati to win by two or more runs present significant value for a team playing well and looking to assert dominance. For this pick to cash, the Reds need to secure a decisive victory against the Miami Marlins."
         },
         {
-          "game": "Cincinnati Reds vs Miami Marlins",
+          "game": "Detroit Tigers @ Minnesota Twins",
           "betType": "moneyline",
-          "pick": "Cincinnati Reds (+104)",
-          "odds": "+104",
+          "pick": "Minnesota Twins",
+          "odds": "+108",
           "confidence": "medium",
-          "rationale": "The Cincinnati Reds are off to a strong start this season with an 8-3 record, while the Miami Marlins hold a 6-5 record. Despite Cincinnati's superior performance thus far, they are listed as slight underdogs on the moneyline at +104, which presents a compelling value opportunity. Both teams have some minor pitching injuries, but none appear to be significant enough to drastically alter the Reds' strong momentum. Cincinnati's impressive early-season form suggests they are undervalued in this matchup against a Marlins team that has been less consistent. For this pick to hit, the Cincinnati Reds must win the game outright."
-        }
-      ]
-    },
-    {
-      "sport": "UFC",
-      "picks": [
-        {
-          "game": "Eliezer Kubanza vs Kunle Lawal",
-          "betType": "moneyline",
-          "pick": "Kunle Lawal +610",
-          "odds": "+610",
-          "confidence": "medium",
-          "rationale": "Kunle Lawal enters this bout as a massive underdog at +610 against the heavily favored Eliezer Kubanza. While the odds reflect a challenging matchup, MMA is inherently unpredictable, and upsets are a regular occurrence, especially at such high positive odds. Lawal possesses a puncher's chance or a submission opportunity that could materialize with a single well-timed strike or grappling exchange. This pick is a high-risk, high-reward play on the potential for an unexpected outcome. For this bet to cash, Lawal needs to defy expectations and secure a victory by any means."
+          "rationale": "The Minnesota Twins (5-6) are slight home underdogs against the Detroit Tigers (4-7), despite holding a marginally better record and playing in their home park. The Tigers are dealing with multiple pitching injuries, including Josue Briceno being out, which could strain their bullpen in this matchup. The Twins, playing at home, should have a psychological and tactical advantage, making the positive odds of +108 for an outright win appealing. This pick leverages the home-field advantage and the Tigers' injury concerns against a team with a similar record. For this bet to win, Minnesota simply needs to defeat Detroit in regulation."
         },
         {
-          "game": "Emilios Dassi vs Shido Boris Esperanca",
-          "betType": "moneyline",
-          "pick": "Emilios Dassi +390",
-          "odds": "+390",
-          "confidence": "medium",
-          "rationale": "Emilios Dassi is listed as a substantial underdog at +390 against Shido Boris Esperanca, presenting significant value for an upset. Despite being the less favored fighter, Dassi has the opportunity to capitalize on any mistakes or openings from Esperanca. In MMA, a single moment of brilliance, whether a knockout blow or a submission, can flip the script regardless of pre-fight odds. This pick targets the potential for a surprising performance from Dassi. For this bet to hit, Dassi must overcome the odds and secure a victory against the favorite."
-        },
-        {
-          "game": "Shannon van Tonder vs Asiashu Tshitamba",
-          "betType": "moneyline",
-          "pick": "Shannon van Tonder -115",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Shannon van Tonder is a slight favorite at -115 in what appears to be a very closely contested bout against Asiashu Tshitamba. The near pick'em odds suggest the oddsmakers see minimal separation between the two fighters' skill sets. This pick leans on the slight edge identified by the market, implying van Tonder has a marginally higher probability of victory. For this bet to be successful, van Tonder needs to outperform Tshitamba over the course of the fight, securing a decision or a late finish."
-        },
-        {
-          "game": "Eliezer Kubanza vs Kunle Lawal",
+          "game": "Athletics @ New York Yankees",
           "betType": "prop",
-          "pick": "Eliezer Kubanza to win by KO/TKO",
-          "odds": "-250",
+          "pick": "Aaron Judge Over 1.5 Total Bases",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "Kubanza is an overwhelming favorite at -1050, indicating a significant skill advantage over Lawal. In matchups with such a wide disparity, favorites often look to secure a decisive finish rather than go the distance. A KO/TKO victory is a common outcome when one fighter is heavily outmatched in striking or power. This estimated prop suggests Kubanza's path to victory is likely through striking dominance. For this pick to hit, Kubanza must land a fight-ending blow or combination that forces a referee stoppage."
+          "rationale": "Aaron Judge, a premier slugger for the New York Yankees (8-2), is in an excellent spot against the struggling Athletics (3-7) and their likely weaker pitching staff. Judge consistently hits for power and average, making him a prime candidate to accumulate multiple bases in a favorable matchup. The Athletics' pitching has been among the league's worst, creating ample opportunities for Judge to record extra-base hits or multiple singles. While specific odds are not available, an estimated line of -120 for Over 1.5 Total Bases reflects a strong likelihood of him achieving this. For this prop to hit, Aaron Judge needs to accumulate at least two total bases in the game."
         }
       ]
     }
