@@ -344,6 +344,119 @@ Return ONLY valid JSON, no markdown:
   }
 }
 
+// ─── Player prop grading ──────────────────────────────────────────────────
+
+// Maps pick text stat names → ESPN box score column headers
+const PROP_STAT_KEYS = {
+  // NBA
+  'points': 'PTS',
+  'rebounds': 'REB',
+  'assists': 'AST',
+  'steals': 'STL',
+  'blocks': 'BLK',
+  'three pointers': '3PT',
+  'three-pointers': '3PT',
+  'threes': '3PT',
+  'turnovers': 'TO',
+  // NHL
+  'goals': 'G',
+  'assists': 'A',
+  'saves': 'SV',
+  'shots': 'SOG',
+  'shots on goal': 'SOG',
+  // MLB
+  'hits': 'H',
+  'home runs': 'HR',
+  'rbis': 'RBI',
+  'rbi': 'RBI',
+  'strikeouts': 'K',
+  'walks': 'BB',
+  'runs': 'R',
+  'runs batted in': 'RBI',
+  'earned runs': 'ER',
+  'innings pitched': 'IP',
+  // "total bases" intentionally omitted — not a raw ESPN stat
+};
+
+function playerNameMatches(espnName, pickName) {
+  const a = (espnName ?? '').toLowerCase().trim();
+  const b = (pickName ?? '').toLowerCase().trim();
+  if (a === b) return true;
+  const aParts = a.split(/\s+/);
+  const bParts = b.split(/\s+/);
+  const aLast = aParts[aParts.length - 1];
+  const bLast = bParts[bParts.length - 1];
+  if (aLast !== bLast) return false;
+  return aParts[0][0] === bParts[0][0]; // same last name + same first initial
+}
+
+function findPlayerStat(summaryData, playerName, statKey) {
+  const teams = summaryData.boxscore?.players ?? [];
+  for (const teamData of teams) {
+    for (const statGroup of (teamData.statistics ?? [])) {
+      const colIndex = (statGroup.names ?? []).indexOf(statKey);
+      if (colIndex === -1) continue;
+      const athlete = (statGroup.athletes ?? []).find(a =>
+        playerNameMatches(a.athlete?.displayName, playerName) ||
+        playerNameMatches(a.athlete?.shortName, playerName)
+      );
+      if (!athlete) continue;
+      const raw = athlete.stats?.[colIndex] ?? '';
+      // "3-4" format (made-attempted) → parseFloat gives made count
+      const value = parseFloat(raw);
+      if (isNaN(value)) continue;
+      return { value, display: raw };
+    }
+  }
+  return null;
+}
+
+async function gradePropPick(pick, event, sport) {
+  const espn = ESPN_MAP[sport];
+  if (!espn) return { result: '?', score: '' };
+
+  // Expected format: "Player Name Over/Under X.Y Stat Name"
+  const m = pick.pick.trim().match(/^(.+?)\s+(Over|Under)\s+([\d.]+)\s+(.+)$/i);
+  if (!m) return { result: '?', score: '' };
+
+  const [, playerName, direction, lineStr, rawStat] = m;
+  const line = parseFloat(lineStr);
+  const dir = direction.toLowerCase();
+  const statKey = PROP_STAT_KEYS[rawStat.toLowerCase().trim()];
+
+  if (!statKey) {
+    console.log(`  Prop stat not supported: "${rawStat}"`);
+    return { result: '?', score: `${playerName}: "${rawStat}" not auto-gradeable` };
+  }
+
+  try {
+    const res = await fetch(
+      `https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/summary?event=${event.id}`
+    );
+    if (!res.ok) return { result: '?', score: '' };
+    const data = await res.json();
+
+    const found = findPlayerStat(data, playerName, statKey);
+    if (!found) {
+      console.log(`  Prop: player/stat not found in box score — ${playerName} ${statKey}`);
+      return { result: '?', score: `${playerName}: not found in box score` };
+    }
+
+    const { value, display } = found;
+    let result;
+    if (value > line) result = dir === 'over' ? 'W' : 'L';
+    else if (value < line) result = dir === 'over' ? 'L' : 'W';
+    else result = 'P';
+
+    const score = `${playerName}: ${display} ${rawStat} (line ${lineStr})`;
+    console.log(`  ${pick.pick}: ${result} (${score})`);
+    return { result, score };
+  } catch (e) {
+    console.error(`  Prop grading error:`, e.message);
+    return { result: '?', score: '' };
+  }
+}
+
 // ─── Results grading ──────────────────────────────────────────────────────
 function lastWord(s) {
   return (s ?? '').trim().toLowerCase().split(/\s+/).pop() ?? '';
@@ -451,16 +564,23 @@ async function gradePicksForDate(picksData) {
       }
     } catch { /* graceful — picks get '?' */ }
 
-    const gradedPicks = sportData.picks.map(pick => {
+    const gradedPicks = await Promise.all(sportData.picks.map(async pick => {
       const event = findMatchingEvent(pick.game, events);
       if (!event) {
         console.log(`  No match found: ${pick.game}`);
         return { game: pick.game, betType: pick.betType, pick: pick.pick, odds: pick.odds, confidence: pick.confidence, result: '?', score: '' };
       }
-      const { result, score } = gradeOnePick(pick, event);
-      console.log(`  ${pick.pick}: ${result} (${score})`);
+
+      let result, score;
+      if (pick.betType === 'prop') {
+        ({ result, score } = await gradePropPick(pick, event, sportData.sport));
+      } else {
+        ({ result, score } = gradeOnePick(pick, event));
+        console.log(`  ${pick.pick}: ${result} (${score})`);
+      }
+
       return { game: pick.game, betType: pick.betType, pick: pick.pick, odds: pick.odds, confidence: pick.confidence, result, score };
-    });
+    }));
 
     gradedSports.push({ sport: sportData.sport, picks: gradedPicks });
   }
