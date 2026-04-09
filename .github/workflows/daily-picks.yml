@@ -35,4 +35,5 @@ jobs:
           git fetch origin main
           git reset --soft origin/main
           git add daily-picks.json
+          if [ -f picks-archive.json ]; then git add picks-archive.json; fi
           git diff --staged --quiet || (git commit -m "chore: daily picks $(date -u +%Y-%m-%d) [skip ci]" && git push)

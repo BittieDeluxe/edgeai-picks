@@ -1,4 +1,4 @@
-import { writeFileSync } from 'fs';
+import { writeFileSync, readFileSync } from 'fs';
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const ODDS_API_KEY = process.env.ODDS_API_KEY;
@@ -344,11 +344,162 @@ Return ONLY valid JSON, no markdown:
   }
 }
 
+// ─── Results grading ──────────────────────────────────────────────────────
+function lastWord(s) {
+  return (s ?? '').trim().toLowerCase().split(/\s+/).pop() ?? '';
+}
+
+function findMatchingEvent(gameName, events) {
+  // gameName: "Away Team vs Home Team"
+  const parts = gameName.split(' vs ');
+  if (parts.length !== 2) return null;
+  const awayKey = lastWord(parts[0].trim());
+  const homeKey = lastWord(parts[1].trim());
+  for (const event of events) {
+    const comps = event.competitions?.[0]?.competitors ?? [];
+    const homeComp = comps.find(c => c.homeAway === 'home');
+    const awayComp = comps.find(c => c.homeAway === 'away');
+    if (!homeComp || !awayComp) continue;
+    const hKey = lastWord(homeComp.team?.displayName ?? '');
+    const aKey = lastWord(awayComp.team?.displayName ?? '');
+    if (aKey === awayKey && hKey === homeKey) return event;
+    if (aKey === homeKey && hKey === awayKey) return event; // reversed order
+  }
+  return null;
+}
+
+function gradeOnePick(pick, event) {
+  const comps = event.competitions?.[0]?.competitors ?? [];
+  const homeComp = comps.find(c => c.homeAway === 'home');
+  const awayComp = comps.find(c => c.homeAway === 'away');
+  if (!homeComp || !awayComp) return { result: '?', score: '' };
+
+  const homeScore = parseFloat(homeComp.score ?? '0');
+  const awayScore = parseFloat(awayComp.score ?? '0');
+  const homeName = homeComp.team?.displayName ?? '';
+  const awayName = awayComp.team?.displayName ?? '';
+  const scoreStr = `${awayName} ${awayScore}, ${homeName} ${homeScore}`;
+
+  const text = pick.pick.trim();
+  let result = '?';
+
+  if (pick.betType === 'total') {
+    const m = text.match(/^(Over|Under)\s+([\d.]+)$/i);
+    if (m) {
+      const line = parseFloat(m[2]);
+      const total = homeScore + awayScore;
+      if (total === line) result = 'P';
+      else result = m[1].toLowerCase() === 'over' ? (total > line ? 'W' : 'L') : (total < line ? 'W' : 'L');
+    }
+  } else if (pick.betType === 'moneyline') {
+    const pickedKey = lastWord(text);
+    const homeWon = homeScore > awayScore;
+    const awayWon = awayScore > homeScore;
+    if (lastWord(homeName) === pickedKey) result = homeWon ? 'W' : 'L'; // draw = L (soccer)
+    else if (lastWord(awayName) === pickedKey) result = awayWon ? 'W' : 'L';
+  } else if (pick.betType === 'spread') {
+    const m = text.match(/^(.+?)\s+([+-][\d.]+)$/);
+    if (m) {
+      const pickedKey = lastWord(m[1].trim());
+      const spread = parseFloat(m[2]);
+      let pickedScore, opposingScore;
+      if (lastWord(homeName) === pickedKey) { pickedScore = homeScore; opposingScore = awayScore; }
+      else if (lastWord(awayName) === pickedKey) { pickedScore = awayScore; opposingScore = homeScore; }
+      if (pickedScore !== undefined) {
+        const margin = pickedScore - opposingScore + spread;
+        if (margin > 0) result = 'W';
+        else if (margin === 0) result = 'P';
+        else result = 'L';
+      }
+    }
+  }
+  // prop → stays '?'
+
+  return { result, score: scoreStr };
+}
+
+async function gradePicksForDate(picksData) {
+  const { date, sports } = picksData;
+  const gradedSports = [];
+
+  for (const sportData of sports) {
+    const espn = ESPN_MAP[sportData.sport];
+    if (!espn) {
+      // UFC — cannot auto-grade from ESPN
+      gradedSports.push({
+        sport: sportData.sport,
+        picks: sportData.picks.map(p => ({
+          game: p.game, betType: p.betType, pick: p.pick, odds: p.odds, confidence: p.confidence,
+          result: '?', score: '',
+        })),
+      });
+      continue;
+    }
+
+    let events = [];
+    try {
+      const res = await fetch(
+        `https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/scoreboard?dates=${date.replace(/-/g, '')}`
+      );
+      if (res.ok) {
+        const data = await res.json();
+        events = (data.events ?? []).filter(e => e.status?.type?.completed === true);
+        console.log(`  ${sportData.sport} grading: ${events.length} completed events`);
+      }
+    } catch { /* graceful — picks get '?' */ }
+
+    const gradedPicks = sportData.picks.map(pick => {
+      const event = findMatchingEvent(pick.game, events);
+      if (!event) {
+        console.log(`  No match found: ${pick.game}`);
+        return { game: pick.game, betType: pick.betType, pick: pick.pick, odds: pick.odds, confidence: pick.confidence, result: '?', score: '' };
+      }
+      const { result, score } = gradeOnePick(pick, event);
+      console.log(`  ${pick.pick}: ${result} (${score})`);
+      return { game: pick.game, betType: pick.betType, pick: pick.pick, odds: pick.odds, confidence: pick.confidence, result, score };
+    });
+
+    gradedSports.push({ sport: sportData.sport, picks: gradedPicks });
+  }
+
+  return { date, sports: gradedSports };
+}
+
 // ─── Main ─────────────────────────────────────────────────────────────────
 async function main() {
   const now = new Date();
   const month = now.getMonth() + 1;
   const dateStr = now.toISOString().slice(0, 10);
+
+  // ─── Grade yesterday's picks and update archive ──────────────────────────
+  let archive = [];
+  try {
+    archive = JSON.parse(readFileSync('picks-archive.json', 'utf8'));
+    if (!Array.isArray(archive)) archive = [];
+  } catch { archive = []; }
+
+  let yesterdayPicks = null;
+  try {
+    yesterdayPicks = JSON.parse(readFileSync('daily-picks.json', 'utf8'));
+  } catch { }
+
+  if (yesterdayPicks?.date && yesterdayPicks.date !== dateStr) {
+    const alreadyArchived = archive.some(e => e.date === yesterdayPicks.date);
+    if (!alreadyArchived) {
+      console.log(`\nGrading picks for ${yesterdayPicks.date}...`);
+      try {
+        const graded = await gradePicksForDate(yesterdayPicks);
+        archive.unshift(graded);
+        archive = archive.slice(0, 30);
+        writeFileSync('picks-archive.json', JSON.stringify(archive, null, 2));
+        console.log(`Archived results for ${yesterdayPicks.date}`);
+      } catch (e) {
+        console.error('Failed to grade picks:', e.message);
+      }
+    } else {
+      console.log(`\nPicks for ${yesterdayPicks.date} already archived.`);
+    }
+  }
 
   const inSeasonSports = getInSeasonSports(month);
   console.log(`Date: ${dateStr}, In-season sports:`, inSeasonSports);
