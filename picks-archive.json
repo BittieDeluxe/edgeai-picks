@@ -1,5 +1,160 @@
 [
   {
+    "date": "2026-04-08",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Memphis Grizzlies vs Denver Nuggets",
+            "betType": "total",
+            "pick": "Under 257.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Memphis Grizzlies 119, Denver Nuggets 136"
+          },
+          {
+            "game": "Portland Trail Blazers vs San Antonio Spurs",
+            "betType": "moneyline",
+            "pick": "Portland Trail Blazers (+100)",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "?",
+            "score": "Portland Trail Blazers 101, San Antonio Spurs 112"
+          },
+          {
+            "game": "Oklahoma City Thunder vs LA Clippers",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -8.5",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Oklahoma City Thunder 128, LA Clippers 110"
+          },
+          {
+            "game": "Dallas Mavericks vs Phoenix Suns",
+            "betType": "spread",
+            "pick": "Phoenix Suns -12.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Dallas Mavericks 107, Phoenix Suns 112"
+          },
+          {
+            "game": "Portland Trail Blazers vs San Antonio Spurs",
+            "betType": "total",
+            "pick": "Under 230.5",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Portland Trail Blazers 101, San Antonio Spurs 112"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Washington Capitals vs Toronto Maple Leafs",
+            "betType": "spread",
+            "pick": "Washington Capitals -3.5",
+            "odds": "+124",
+            "confidence": "high",
+            "result": "W",
+            "score": "Washington Capitals 4, Toronto Maple Leafs 0"
+          },
+          {
+            "game": "Edmonton Oilers vs San Jose Sharks",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Edmonton Oilers 5, San Jose Sharks 2"
+          },
+          {
+            "game": "Edmonton Oilers vs San Jose Sharks",
+            "betType": "moneyline",
+            "pick": "San Jose Sharks (-118)",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "?",
+            "score": "Edmonton Oilers 5, San Jose Sharks 2"
+          },
+          {
+            "game": "Washington Capitals vs Toronto Maple Leafs",
+            "betType": "total",
+            "pick": "Over 4.5",
+            "odds": "+160",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Capitals 4, Toronto Maple Leafs 0"
+          },
+          {
+            "game": "Edmonton Oilers vs San Jose Sharks",
+            "betType": "prop",
+            "pick": "Connor McDavid Over 0.5 Assists",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "?",
+            "score": "Connor McDavid: not found in box score"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Athletics @ New York Yankees",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+106",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Arizona Diamondbacks @ New York Mets",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Cincinnati Reds @ Miami Marlins",
+            "betType": "spread",
+            "pick": "Cincinnati Reds -1.5",
+            "odds": "+160",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Detroit Tigers @ Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Minnesota Twins",
+            "odds": "+108",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Athletics @ New York Yankees",
+            "betType": "prop",
+            "pick": "Aaron Judge Over 1.5 Total Bases",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-04-09",
     "sports": [
       {
