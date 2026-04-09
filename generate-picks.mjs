@@ -18,6 +18,7 @@ const SEASON_MONTHS = {
   MLS:      [3, 4, 5, 6, 7, 8, 9, 10, 11],
   UFC:      [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
   UCL:      [9, 10, 11, 12, 2, 3, 4, 5, 6], // UEFA Champions League — Sep–Dec + Feb–Jun
+  UEL:      [9, 10, 11, 12, 2, 3, 4, 5, 6], // UEFA Europa League — Sep–Dec + Feb–Jun
   WORLDCUP: [6, 7],                           // FIFA World Cup 2026 — Jun 11–Jul 19 2026
 };
 
@@ -30,6 +31,7 @@ const ESPN_MAP = {
   MLS:      { sport: 'soccer', league: 'usa.1' },
   UFC:      null,
   UCL:      { sport: 'soccer', league: 'uefa.champions' },
+  UEL:      { sport: 'soccer', league: 'uefa.europa' },
   WORLDCUP: { sport: 'soccer', league: 'fifa.world' },
 };
 
@@ -42,6 +44,7 @@ const ODDS_SPORT_KEY = {
   MLS:      'soccer_usa_mls',
   UFC:      'mma_mixed_martial_arts',
   UCL:      'soccer_uefa_champs_league',
+  UEL:      'soccer_uefa_europa_league',
   WORLDCUP: 'soccer_fifa_world_cup',
 };
 
