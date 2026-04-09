@@ -384,7 +384,8 @@ function gradeOnePick(pick, event) {
   let result = '?';
 
   if (pick.betType === 'total') {
-    const m = text.match(/^(Over|Under)\s+([\d.]+)$/i);
+    // Allow extra words after number: "Under 6.5 Goals", "Under 7.5 Runs"
+    const m = text.match(/^(Over|Under)\s+([\d.]+)/i);
     if (m) {
       const line = parseFloat(m[2]);
       const total = homeScore + awayScore;
@@ -392,7 +393,9 @@ function gradeOnePick(pick, event) {
       else result = m[1].toLowerCase() === 'over' ? (total > line ? 'W' : 'L') : (total < line ? 'W' : 'L');
     }
   } else if (pick.betType === 'moneyline') {
-    const pickedKey = lastWord(text);
+    // Strip trailing "ML" suffix if present: "Philadelphia Flyers ML" → "Philadelphia Flyers"
+    const cleanText = text.replace(/\s+ML$/i, '').trim();
+    const pickedKey = lastWord(cleanText);
     const homeWon = homeScore > awayScore;
     const awayWon = awayScore > homeScore;
     if (lastWord(homeName) === pickedKey) result = homeWon ? 'W' : 'L'; // draw = L (soccer)

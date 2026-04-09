@@ -1,0 +1,262 @@
+[
+  {
+    "date": "2026-04-07",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Chicago Bulls vs Washington Wizards",
+            "betType": "total",
+            "pick": "Under 249.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago Bulls 129, Washington Wizards 98"
+          },
+          {
+            "game": "Dallas Mavericks vs LA Clippers",
+            "betType": "spread",
+            "pick": "Mavericks +11.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Dallas Mavericks 103, LA Clippers 116"
+          },
+          {
+            "game": "Milwaukee Bucks vs Brooklyn Nets",
+            "betType": "total",
+            "pick": "Under 220.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Milwaukee Bucks 90, Brooklyn Nets 96"
+          },
+          {
+            "game": "Golden State Warriors vs Sacramento Kings",
+            "betType": "spread",
+            "pick": "Kings +15.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Sacramento Kings 105, Golden State Warriors 110"
+          },
+          {
+            "game": "Boston Celtics vs New York Knicks",
+            "betType": "spread",
+            "pick": "Celtics -2.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Florida Panthers vs Montreal Canadiens",
+            "betType": "spread",
+            "pick": "Montreal Canadiens -1.5",
+            "odds": "+115",
+            "confidence": "high",
+            "result": "L",
+            "score": "Florida Panthers 3, Montreal Canadiens 4"
+          },
+          {
+            "game": "Philadelphia Flyers vs New Jersey Devils",
+            "betType": "moneyline",
+            "pick": "Philadelphia Flyers ML",
+            "odds": "+105",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Flyers 5, New Jersey Devils 1"
+          },
+          {
+            "game": "Colorado Avalanche vs St. Louis Blues",
+            "betType": "total",
+            "pick": "Under 6.5 Goals",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Avalanche 3, St. Louis Blues 1"
+          },
+          {
+            "game": "Nashville Predators vs Anaheim Ducks",
+            "betType": "spread",
+            "pick": "Nashville Predators +1.5",
+            "odds": "-198",
+            "confidence": "high",
+            "result": "W",
+            "score": "Nashville Predators 5, Anaheim Ducks 0"
+          },
+          {
+            "game": "Boston Bruins vs Carolina Hurricanes",
+            "betType": "spread",
+            "pick": "Boston Bruins +1.5",
+            "odds": "-167",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Boston Bruins 5, Carolina Hurricanes 6"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Milwaukee Brewers vs Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Brewers ML",
+            "odds": "+129",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 2, Boston Red Sox 3"
+          },
+          {
+            "game": "Philadelphia Phillies vs San Francisco Giants",
+            "betType": "spread",
+            "pick": "Phillies -1.5",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Phillies 0, San Francisco Giants 6"
+          },
+          {
+            "game": "Los Angeles Dodgers vs Toronto Blue Jays",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Dodgers 4, Toronto Blue Jays 1"
+          },
+          {
+            "game": "Athletics vs New York Yankees",
+            "betType": "spread",
+            "pick": "Yankees -1.5",
+            "odds": "+108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Athletics 3, New York Yankees 5"
+          },
+          {
+            "game": "Houston Astros vs Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 10.5",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Astros 1, Colorado Rockies 5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-04-06",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Cleveland Cavaliers vs Memphis Grizzlies",
+            "betType": "spread",
+            "pick": "Cavaliers -14.0",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cleveland Cavaliers 142, Memphis Grizzlies 126"
+          },
+          {
+            "game": "Philadelphia 76ers vs San Antonio Spurs",
+            "betType": "spread",
+            "pick": "Spurs -8.0",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia 76ers 102, San Antonio Spurs 115"
+          },
+          {
+            "game": "Orlando Magic vs Detroit Pistons",
+            "betType": "spread",
+            "pick": "Magic +3.0",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Pistons 107, Orlando Magic 123"
+          },
+          {
+            "game": "New York Knicks vs Atlanta Hawks",
+            "betType": "prop",
+            "pick": "Karl-Anthony Towns Over 11.5 Rebounds",
+            "odds": "-136",
+            "confidence": "high",
+            "result": "?",
+            "score": "New York Knicks 108, Atlanta Hawks 105"
+          },
+          {
+            "game": "Philadelphia 76ers vs San Antonio Spurs",
+            "betType": "total",
+            "pick": "Under 236.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia 76ers 102, San Antonio Spurs 115"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Atlanta Braves vs Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Braves -175",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "?",
+            "score": "Atlanta Braves 2, Los Angeles Angels 6"
+          },
+          {
+            "game": "Seattle Mariners vs Texas Rangers",
+            "betType": "total",
+            "pick": "Under 7.5 Runs",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Seattle Mariners 1, Texas Rangers 2"
+          },
+          {
+            "game": "Philadelphia Phillies vs San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Giants +100",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Philadelphia Phillies 6, San Francisco Giants 4"
+          },
+          {
+            "game": "Houston Astros vs Colorado Rockies",
+            "betType": "prop",
+            "pick": "Yordan Alvarez Over 1.5 Total Bases",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "?",
+            "score": "Houston Astros 7, Colorado Rockies 9"
+          },
+          {
+            "game": "Baltimore Orioles vs Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Orioles -143",
+            "odds": "-143",
+            "confidence": "high",
+            "result": "?",
+            "score": "Baltimore Orioles 2, Chicago White Sox 1"
+          }
+        ]
+      }
+    ]
+  }
+]
