@@ -1,94 +1,49 @@
 {
   "date": "2026-04-10",
-  "generatedAt": "2026-04-10T22:27:52.994Z",
+  "generatedAt": "2026-04-10T23:07:19.662Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Detroit Pistons @ Charlotte Hornets",
+          "game": "LA Clippers vs Portland Trail Blazers",
           "betType": "moneyline",
-          "pick": "Detroit Pistons (+184)",
-          "odds": "+184",
+          "pick": "LA Clippers (+104)",
+          "odds": "+104",
           "confidence": "medium",
-          "rationale": "The Detroit Pistons, despite being on the road, present significant value at +184 against the Charlotte Hornets. Detroit boasts a strong 58-22 record, indicating a superior team compared to Charlotte's 43-37. While the Hornets are at home, their only reported injury is PJ Hall, which isn't a major factor. The line of Charlotte -5.5 suggests the market is overvaluing home court and underestimating Detroit's consistent performance this season. For this pick to hit, the Pistons simply need to win the game outright, which their record suggests they are more than capable of doing against a weaker opponent."
+          "rationale": "The LA Clippers, despite Bradley Beal's absence, face a Portland Trail Blazers team severely hampered by injuries, notably Damian Lillard, Jerami Grant, and Shaedon Sharpe. The Clippers hold a slightly better record at 41-39 compared to Portland's 40-40, indicating a marginal performance edge this season. With Portland missing its primary offensive firepower, the Clippers are well-positioned to capitalize on the Blazers' weakened lineup. Getting positive odds at +104 for a team with a better record against a depleted opponent offers significant value. For this pick to hit, the Clippers need to leverage their healthier roster and execute efficiently against a Trail Blazers team struggling to find consistent scoring."
         },
         {
-          "game": "Philadelphia 76ers @ Indiana Pacers",
+          "game": "Philadelphia 76ers vs Indiana Pacers",
           "betType": "spread",
           "pick": "Philadelphia 76ers -15.5",
           "odds": "-110",
           "confidence": "high",
-          "rationale": "The Indiana Pacers are facing an unprecedented injury crisis, missing Tyrese Haliburton, Pascal Siakam, Andrew Nembhard, Aaron Nesmith, T.J. McConnell, and Ivica Zubac. This essentially guts their entire starting lineup and key rotation. While the Philadelphia 76ers are without Joel Embiid, their remaining roster is significantly more talented and cohesive than Indiana's severely depleted squad. The Pacers' 19-61 record already reflects their struggles, and these absences will only exacerbate them. Philadelphia, even without their MVP, should have no trouble covering this 15.5-point spread against what amounts to a G-League roster. For the pick to hit, the 76ers need to win by 16 points or more."
+          "rationale": "The Philadelphia 76ers, despite missing star Joel Embiid, are facing an Indiana Pacers team that is absolutely decimated by injuries. The Pacers are without key players like Tyrese Haliburton, Pascal Siakam, Andrew Nembhard, Aaron Nesmith, T.J. McConnell, and Ivica Zubac, effectively fielding a G-League caliber roster. Philadelphia's 43-37 record is significantly better than Indiana's 19-61, highlighting the disparity in team strength even with Embiid sidelined. This massive talent gap, exacerbated by the Pacers' catastrophic injury list, makes the 76ers -15.5 a strong play. For the pick to hit, the 76ers need to maintain focus and exploit Indiana's lack of depth and offensive creators."
         },
         {
-          "game": "Minnesota Timberwolves @ Houston Rockets",
+          "game": "Minnesota Timberwolves vs Houston Rockets",
           "betType": "spread",
           "pick": "Houston Rockets -10.5",
           "odds": "-114",
           "confidence": "high",
-          "rationale": "The Minnesota Timberwolves are severely shorthanded, missing their two most impactful players, Anthony Edwards and Rudy Gobert, along with Julius Randle and Joe Ingles. These absences cripple both their offensive firepower and defensive anchor. The Houston Rockets, with a 51-29 record, are a strong home team and are only missing Fred VanVleet, a significant but less catastrophic loss than Minnesota's. Houston's relatively healthy roster will exploit Minnesota's lack of star power and defensive presence. The Rockets should comfortably cover the -10.5 spread against a severely weakened Timberwolves team. For this pick to hit, Houston must win by 11 points or more."
+          "rationale": "The Houston Rockets, with a 51-29 record, are hosting a Minnesota Timberwolves team (47-33) that is severely handicapped by the absences of Anthony Edwards and Rudy Gobert, their two most impactful players, along with Julius Randle. While Houston is without Fred VanVleet, their core remains largely intact and capable of exploiting Minnesota's depleted lineup. The Rockets' strong home-court advantage combined with the Timberwolves missing their primary scoring and defensive anchors creates a significant mismatch. Houston needs to maintain offensive efficiency and dominate the paint to cover the -10.5 spread against a severely weakened Minnesota squad."
         },
         {
-          "game": "Memphis Grizzlies @ Utah Jazz",
+          "game": "Memphis Grizzlies vs Utah Jazz",
           "betType": "total",
-          "pick": "Under 247.5",
-          "odds": "-106",
+          "pick": "Under 248.5",
+          "odds": "-108",
           "confidence": "high",
-          "rationale": "This game features two of the most injury-riddled teams in the league, making the high total of 247.5 points highly suspicious. The Grizzlies are without Ja Morant, Jaren Jackson Jr., Santi Aldama, Brandon Clarke, and Scotty Pippen Jr., gutting their primary scoring and defensive presence. Similarly, the Jazz are missing Lauri Markkanen, Keyonte George, Jusuf Nurkic, and Walker Kessler, severely impacting their offensive and interior game. With so many key offensive talents sidelined for both 25-55 Grizzlies and 21-59 Jazz, scoring will be a struggle. Both teams will likely feature deep bench players, leading to inefficient offense and a significantly lower-scoring game than the line suggests. For this pick to hit, the combined score must be 247 points or less."
+          "rationale": "This game features two of the worst teams in the league, the Grizzlies (25-55) and Jazz (21-59), both absolutely ravaged by an unprecedented number of injuries to key players. Memphis is without Ja Morant, Brandon Clarke, Santi Aldama, GG Jackson, and Kentavious Caldwell-Pope, while Utah is missing Lauri Markkanen, Keyonte George, Jusuf Nurkic, Jaren Jackson Jr., and Walker Kessler. These extensive absences strip both teams of virtually all their offensive firepower and defensive anchors, making a high-scoring affair highly improbable. A total of 248.5 is exceptionally high for two teams fielding G-League level rosters, indicating strong value on the Under. For the pick to hit, both teams must struggle to generate consistent offense, resulting in a low-scoring, sloppy contest."
         },
         {
-          "game": "Phoenix Suns @ Los Angeles Lakers",
+          "game": "Brooklyn Nets vs Milwaukee Bucks",
           "betType": "total",
           "pick": "Under 217.5",
-          "odds": "-106",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "This matchup sees both the Phoenix Suns and Los Angeles Lakers missing critical offensive playmakers, which should lead to a lower-scoring affair. The Suns are without Devin Booker, their primary scorer, while the Lakers are missing both Luka Doncic and Austin Reaves, significantly impacting their ball-handling and shot creation. Both teams, with records of 44-36 and 51-29 respectively, are typically capable of high-scoring games, but these key absences will severely limit their offensive efficiency. The Lakers also possess a strong defensive identity, which will further contribute to a more grind-it-out game. For this pick to hit, the combined score must be 217 points or less."
-        }
-      ]
-    },
-    {
-      "sport": "NHL",
-      "picks": [
-        {
-          "game": "New York Rangers @ Dallas Stars",
-          "betType": "moneyline",
-          "pick": "New York Rangers",
-          "odds": "+155",
-          "confidence": "medium",
-          "rationale": "The Dallas Stars are favored at home, but the New York Rangers present significant value as road underdogs at +155. While specific research data regarding injuries or recent form is unavailable, the market implies a competitive matchup where the Rangers, a historically strong franchise, are capable of pulling off an upset on any given night. Hockey is a sport prone to variance, and a strong goaltending performance or opportunistic offense could easily swing this game in New York's favor. Betting on a quality team at such favorable odds provides excellent return potential. For this pick to hit, the Rangers simply need to win the game outright, regardless of the score."
-        },
-        {
-          "game": "Ottawa Senators @ New York Islanders",
-          "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-140",
-          "confidence": "high",
-          "rationale": "The total for the Senators-Islanders game is set at 5.5, with the Over heavily juiced at -140, indicating strong market expectation for a higher-scoring contest. This line movement suggests that oddsmakers anticipate both teams contributing offensively or exhibiting defensive vulnerabilities, leading to more goals. Without specific team research, the heavy juice on the Over is a clear signal of expected goal production from the betting market. This implies a game environment conducive to offense rather than tight defensive play. Both teams will need to combine for at least six goals for this Over 5.5 pick to cash."
-        },
-        {
-          "game": "Washington Capitals @ Pittsburgh Penguins",
-          "betType": "spread",
-          "pick": "Pittsburgh Penguins -1.5",
-          "odds": "+194",
-          "confidence": "medium",
-          "rationale": "The Pittsburgh Penguins are home favorites against the Washington Capitals, and taking them on the puck line at -1.5 offers excellent value at +194. While the Capitals are priced as competitive underdogs on the moneyline, the Penguins at home are expected to assert their dominance and control the pace of play. The positive odds suggest the market sees this as a slightly riskier proposition, but a strong offensive performance from Pittsburgh could easily result in a multi-goal victory. This pick capitalizes on the potential for a dominant home performance. For this pick to hit, the Penguins must win the game by two or more goals."
-        },
-        {
-          "game": "Florida Panthers @ Toronto Maple Leafs",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-120",
-          "confidence": "medium",
-          "rationale": "The total for the Panthers-Maple Leafs game is set at 6.5, with the Over slightly favored at -120. This indicates the market anticipates a relatively high-scoring affair between two teams generally known for their offensive capabilities. Both Florida and Toronto possess potent attacks that can light up the scoreboard, and a total of 6.5 suggests an expectation of back-and-forth action. Without specific defensive insights, the slight lean towards the Over implies potential for both teams to find the back of the net. This suggests a game where offensive firepower will be on display. For this bet to win, the combined score of the game must be seven goals or more."
-        },
-        {
-          "game": "Tampa Bay Lightning @ Boston Bruins",
-          "betType": "spread",
-          "pick": "Boston Bruins +1.5",
-          "odds": "-240",
-          "confidence": "high",
-          "rationale": "The Boston Bruins are home underdogs on the moneyline, but taking them on the puck line at +1.5 provides a strong safety net at -240 odds. This line suggests the market expects a very tight contest, where even if the Lightning win, it's likely to be by a single goal or in overtime/shootout. The Bruins are a formidable team on home ice and are unlikely to be blown out, making this a high-probability bet. This pick offers excellent security, anticipating a closely fought battle. For this pick to hit, the Bruins simply need to either win the game outright or lose by exactly one goal."
+          "rationale": "The Brooklyn Nets (20-60) and Milwaukee Bucks (31-49) are both significantly hampered by injuries, making an Under play on their 217.5 total appealing. Milwaukee is without its superstar Giannis Antetokounmpo, Bobby Portis, and Gary Trent Jr., severely impacting their offensive potency. Brooklyn is also missing key players like Nic Claxton, Michael Porter Jr., and Terance Mann, further diminishing their scoring capabilities. Both teams already possess poor records, and with so many crucial offensive and defensive pieces sidelined, the game is set to be a low-efficiency, grind-it-out affair. For the Under to cash, both squads need to struggle offensively and fail to reach their typical scoring outputs."
         }
       ]
     },
@@ -96,44 +51,89 @@
       "sport": "MLB",
       "picks": [
         {
+          "game": "Texas Rangers vs Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "The Los Angeles Dodgers are off to a dominant 9-3 start, showcasing their strong roster depth and consistent performance. They face a Texas Rangers team that, while decent at 7-5, is not on the same level of current form or overall talent. The Dodgers are playing at home, where they typically excel and are a formidable opponent for any visiting team. Their -1.5 spread at -110 offers excellent value for a team expected to win comfortably against a less dominant opponent. For this pick to hit, the Dodgers simply need to secure a victory by two or more runs against the Rangers."
+        },
+        {
           "game": "Miami Marlins vs Detroit Tigers",
           "betType": "moneyline",
           "pick": "Miami Marlins (+118)",
           "odds": "+118",
           "confidence": "medium",
-          "rationale": "The Miami Marlins, boasting an 8-5 record, are surprisingly listed as underdogs at +118 against the struggling Detroit Tigers, who sit at 4-9. This line presents significant value, as the Marlins have demonstrated superior form and consistency early in the season. Despite playing on the road, Miami's stronger overall performance makes them a compelling upset pick against a Tigers team that has yet to find its stride. For this pick to hit, the Marlins simply need to continue their strong play and secure an outright victory in Detroit."
+          "rationale": "The Miami Marlins, despite being on the road, boast a superior 8-5 record compared to the Detroit Tigers' struggling 4-9 start. The Tigers being favored at home (-138) against a team with a significantly better record presents a clear value opportunity for the Marlins at +118. While Detroit has some day-to-day injuries, Miami's overall team performance and recent form suggest they are undervalued in this matchup. This line movement against the better team indicates a potential overreaction to the home-field advantage. For this pick to cash, the Marlins must win the game outright."
+        },
+        {
+          "game": "Cleveland Guardians vs Atlanta Braves",
+          "betType": "total",
+          "pick": "Under 8.5",
+          "odds": "-122",
+          "confidence": "high",
+          "rationale": "Both the Cleveland Guardians and Atlanta Braves have strong 8-5 records, indicating solid pitching and defense have been key to their early success. The total is set at 8.5, with the Under favored at -122, suggesting oddsmakers anticipate a lower-scoring affair between these two well-matched teams. Cleveland's Carlos Hernandez is out, but Atlanta's only listed injury is Blake Burkhalter (Day-To-Day), which shouldn't significantly impact their pitching. This matchup likely features two capable pitching staffs, making runs hard to come by in what projects as a tight contest. For this pick to hit, the combined score of the game must be 8 runs or fewer."
+        },
+        {
+          "game": "Pittsburgh Pirates vs Chicago Cubs",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "The total for the Pirates-Cubs game is remarkably low at 6.5, with the Under priced at attractive +100 odds, indicating a strong expectation of a pitching-dominated game. Both teams have several day-to-day injuries, including Ian Happ for the Cubs, which could further dampen offensive production. The Pirates (8-5) and Cubs (6-7) have shown flashes, but this low total suggests a strong pitching matchup or a cold offensive day for both sides. Given the extremely low total, any strong pitching performance or continued struggles at the plate could easily keep the score down. To win this bet, the combined final score must be 6 runs or less."
         },
         {
           "game": "Washington Nationals vs Milwaukee Brewers",
           "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5 (+132)",
+          "pick": "Milwaukee Brewers -1.5",
           "odds": "+132",
-          "confidence": "medium",
-          "rationale": "The Milwaukee Brewers (8-4) are a strong home team facing the struggling Washington Nationals (4-8), who are dealing with significant pitching injuries, including Joan Adon and Tyler Stuart both being out. The Brewers' solid start to the season and home-field advantage position them well to win by multiple runs against a depleted Nationals staff. Getting Milwaukee at +132 on the -1.5 spread offers excellent value for a team that should dominate this matchup. The Brewers need to leverage the Nationals' pitching woes and secure a comfortable victory for this bet to cash."
-        },
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers are off to an impressive 8-4 start, showcasing strong form and home-field advantage. In contrast, the Washington Nationals are struggling significantly with a 4-8 record, indicating a clear disparity in team performance. The Nationals are dealing with several pitching injuries, including Joan Adon and Tyler Stuart being out, which severely weakens their ability to contain Milwaukee's offense. Given the Brewers' strong start and the Nationals' pitching woes, Milwaukee is well-positioned to secure a multi-run victory at home. For this pick to succeed, the Brewers must defeat the Nationals by two or more runs."
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
         {
-          "game": "New York Yankees vs Tampa Bay Rays",
-          "betType": "total",
-          "pick": "Under 7.5 (-115)",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "The matchup between the New York Yankees (8-4) and Tampa Bay Rays (5-7) projects to be a low-scoring affair, with the total set at 7.5 and the Under at -115. The Yankees boast a strong pitching staff that has been a key factor in their 8-4 start, consistently limiting opponents' scoring. Conversely, the Rays' offense has struggled to find consistency, contributing to their 5-7 record, and they are without Austin Vernon (Out). For the Under to hit, both teams will need to be stifled by strong pitching performances and limited offensive production throughout the game."
-        },
-        {
-          "game": "San Francisco Giants vs Baltimore Orioles",
+          "game": "FC Cincinnati @ Toronto FC",
           "betType": "moneyline",
-          "pick": "Baltimore Orioles (+100)",
-          "odds": "+100",
+          "pick": "FC Cincinnati (+200)",
+          "odds": "+200",
           "confidence": "medium",
-          "rationale": "The Baltimore Orioles (6-6) present an appealing underdog moneyline play at +100 when hosting the San Francisco Giants (5-8). Despite the Giants being slight road favorites, the Orioles hold a better record and will benefit significantly from playing in front of their home crowd. While the potential absence of Tyler O'Neill (Day-To-Day) is a concern, getting even money on a capable home team against a sub-.500 opponent offers significant value. The Orioles simply need to capitalize on their home-field advantage and secure an outright victory to cash this bet."
+          "rationale": "With no external research available regarding team form, injuries, or head-to-head records, this pick leans on the perceived value offered by FC Cincinnati as a significant underdog. The +200 odds imply a win probability of approximately 33.3%, which could represent value if the teams are more evenly matched than the lines suggest. This is a speculative play based on the potential upside of a higher payout for an underdog. For this pick to hit, FC Cincinnati simply needs to secure a victory against Toronto FC, regardless of the scoreline."
         },
         {
-          "game": "Texas Rangers vs Los Angeles Dodgers",
-          "betType": "spread",
-          "pick": "Texas Rangers +1.5 (-110)",
-          "odds": "-110",
+          "game": "LA Galaxy @ Austin FC",
+          "betType": "moneyline",
+          "pick": "Austin FC (+105)",
+          "odds": "+105",
           "confidence": "medium",
-          "rationale": "The Texas Rangers (7-5) are a solid pick on the spread at +1.5 (-110) against the formidable Los Angeles Dodgers (9-3). While the Dodgers are a powerhouse, the Rangers are the reigning champions and have started the season strong themselves, demonstrating their ability to compete with top-tier teams. Getting even odds on the Rangers to either win outright or lose by only one run against a top team is a valuable proposition. The Rangers possess the offensive firepower and pitching depth to keep this game competitive. For this bet to hit, the Rangers must either win the game or lose by a single run."
+          "rationale": "Austin FC is a slight home favorite at +105, indicating a tight matchup against the LA Galaxy. Without specific data on recent performance, roster strengths, or injury impacts, the inherent home advantage in MLS is the primary factor to consider here. The odds suggest Austin FC has a slightly better than 50/50 chance to win on their home turf, implying a favorable matchup edge. For this pick to be successful, Austin FC must defeat the LA Galaxy in regulation time."
+        },
+        {
+          "game": "Philadelphia Union @ CF Montreal",
+          "betType": "moneyline",
+          "pick": "CF Montreal (+155)",
+          "odds": "+155",
+          "confidence": "medium",
+          "rationale": "This game presents a fascinating 'pick'em' scenario with both teams at +155 on the moneyline, implying an equal chance of victory for either side. Given the lack of specific team news, injuries, or recent form, choosing the home side, CF Montreal, at these odds offers potential value. The implied probability for CF Montreal is around 39.2%, which is attractive for a team playing in front of their home crowd. For this bet to cash, CF Montreal needs to secure a win against the Philadelphia Union."
+        },
+        {
+          "game": "Los Angeles FC @ Portland Timbers",
+          "betType": "moneyline",
+          "pick": "Los Angeles FC (-125)",
+          "odds": "-125",
+          "confidence": "medium",
+          "rationale": "Los Angeles FC is the road favorite at -125 against the Portland Timbers, suggesting they are considered the stronger team in this matchup. Despite playing away from home, the odds indicate LAFC has a higher implied probability of winning, approximately 55.6%, which points to a perceived matchup advantage. Without any specific data on team form or injuries to contradict this assessment, backing the favored side on the moneyline can be a sensible approach. For this pick to be a winner, Los Angeles FC must defeat the Portland Timbers in regulation."
+        },
+        {
+          "game": "D.C. United @ New England Revolution",
+          "betType": "moneyline",
+          "pick": "D.C. United (+300)",
+          "odds": "+300",
+          "confidence": "medium",
+          "rationale": "D.C. United enters this match as a significant road underdog at +300 against the New England Revolution, offering substantial positive odds. While New England is favored, these odds imply only a 25% chance of victory for D.C. United, which could present significant value if the game is more competitive than the line suggests. Without specific data on team performance or recent trends, this pick is a pure value play on a longshot. For this bet to hit, D.C. United needs to secure an outright victory over the New England Revolution."
         }
       ]
     },
@@ -141,44 +141,44 @@
       "sport": "UFC",
       "picks": [
         {
-          "game": "Vicente Luque vs Kelvin Gastelum",
-          "betType": "moneyline",
-          "pick": "Vicente Luque (+220)",
-          "odds": "+220",
+          "game": "Charlie Radtke vs Francisco Prado",
+          "betType": "spread",
+          "pick": "Charlie Radtke -3.5",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "Vicente Luque enters this bout as a significant underdog, offering excellent value at +220 against Kelvin Gastelum. Luque is a seasoned veteran known for his durability, powerful striking, and dangerous submission game, capable of upsetting higher-ranked opponents. While Gastelum is a formidable fighter, he has shown vulnerabilities in past encounters that Luque could exploit. Luque's ability to absorb damage and find openings late in fights makes him a live underdog in any matchup. For this pick to cash, Luque must secure an outright victory, whether by knockout, submission, or a decision on the judges' scorecards."
+          "rationale": "Charlie Radtke enters this bout as the favorite, and his well-rounded skill set suggests he can control the pace and dictate where the fight takes place. Prado, while dangerous, may struggle to counter Radtke's consistent pressure and varied attack. A dominant performance from Radtke, whether through ground control or striking volume, is expected to secure a victory by a significant margin. The even money odds for Radtke to cover the -3.5 spread offer good value, reflecting confidence in his ability to win decisively. For this pick to hit, Radtke needs to win by at least a 4-point margin on the judges' scorecards or secure a finish."
+        },
+        {
+          "game": "Vicente Luque vs Kelvin Gastelum",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "+120",
+          "confidence": "medium",
+          "rationale": "Both Vicente Luque and Kelvin Gastelum are known for their aggressive, high-octane fighting styles and propensity for finishes, making this middleweight clash a prime candidate for an early stoppage. Their willingness to engage in wars often leads to decisive moments before the final bell, with both possessing significant knockout power. The positive odds on the Under 2.5 rounds offer excellent value, anticipating that one fighter will find the knockout or submission. This matchup promises fireworks, suggesting a conclusion inside the distance. For this pick to hit, the fight must conclude before the 2:30 mark of the third round."
+        },
+        {
+          "game": "Nate Jennerman vs Valanti Atsas",
+          "betType": "moneyline",
+          "pick": "Nate Jennerman",
+          "odds": "+116",
+          "confidence": "medium",
+          "rationale": "This bantamweight matchup is priced as a very close contest, with Nate Jennerman offering slight underdog value at +116. Jennerman's grit and ability to push a relentless pace could prove challenging for Atsas, who might struggle to match his cardio and output over three rounds. If Jennerman can weather any early storms and impose his will through consistent pressure and volume, he has a strong chance to upset the favorite. The positive moneyline odds make Jennerman an attractive play in what is essentially a toss-up fight. For this pick to hit, Nate Jennerman must win the fight by any method (KO, submission, or decision)."
         },
         {
           "game": "Lupita Godinez vs Tatiana Suarez",
           "betType": "spread",
-          "pick": "Tatiana Suarez -3.5 (+140)",
+          "pick": "Tatiana Suarez -3.5",
           "odds": "+140",
           "confidence": "high",
-          "rationale": "Tatiana Suarez is an undefeated force in the division, renowned for her elite wrestling and suffocating top control, which often leads to dominant performances. The -3.5 spread at +140 presents strong value, as Suarez consistently out-grapples opponents, accumulating significant control time and damage. Godinez is a tough competitor, but she is likely to struggle against Suarez's relentless takedowns and ground pressure. Suarez's ability to dictate where the fight takes place and maintain positional dominance should result in a wide margin of victory. For this bet to hit, Suarez needs to win by a margin of at least four points on the judges' scorecards or secure a stoppage."
-        },
-        {
-          "game": "Marquel Mederos vs Chris Padilla",
-          "betType": "total",
-          "pick": "Under 2.5 Rounds (+195)",
-          "odds": "+195",
-          "confidence": "medium",
-          "rationale": "The Under 2.5 Rounds at +195 offers significant value, suggesting the market expects this fight to go the distance, but both Marquel Mederos and Chris Padilla possess finishing capabilities. In MMA, especially at this level, fights can often end abruptly with one significant strike or submission attempt. The high odds for the under indicate a potential mispricing if either fighter decides to push the pace and seek an early stoppage. If Mederos or Padilla can capitalize on an opening or land a decisive blow within the first two and a half rounds, this pick will be a profitable one."
-        },
-        {
-          "game": "Charlie Radtke vs Francisco Prado",
-          "betType": "moneyline",
-          "pick": "Francisco Prado (+150)",
-          "odds": "+150",
-          "confidence": "medium",
-          "rationale": "Francisco Prado enters this contest as a compelling underdog at +150 against Charlie Radtke, offering attractive odds for a fighter with his explosive potential. Prado has demonstrated a willingness to engage in exciting exchanges and possesses the power to finish fights quickly. While Radtke is favored, Prado's unpredictable style and knockout threat make him a dangerous opponent capable of pulling off an upset. Underdogs with significant finishing ability often present the best value in MMA betting. For this pick to be successful, Prado must secure an outright victory over Radtke, whether by knockout, submission, or a decision."
+          "rationale": "Tatiana Suarez is widely regarded as one of the most dominant grapplers in women's MMA, capable of overwhelming opponents with her relentless wrestling and top control. While Lupita Godinez is a tough competitor, she is likely to face significant challenges defending Suarez's takedowns and maintaining her composure under constant pressure. The +140 odds for Suarez to win by a significant margin (equivalent to a finish or a dominant decision) represent strong value, given her proven ability to completely shut down opponents. This line suggests a high probability of a one-sided affair. For this pick to hit, Suarez needs to win by at least a 4-point margin on the judges' scorecards or secure a finish."
         },
         {
           "game": "Esteban Ribovics vs Mateusz Gamrot",
-          "betType": "spread",
-          "pick": "Mateusz Gamrot -3.5 (+120)",
-          "odds": "+120",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-260",
           "confidence": "high",
-          "rationale": "Mateusz Gamrot is an elite grappler known for his relentless pressure, high-volume takedowns, and suffocating control, making him a challenging matchup for any opponent. The -3.5 spread at +120 is particularly appealing, as Gamrot frequently dominates fights to a wide decision or secures late finishes. Ribovics is a dangerous striker, but Gamrot's ability to close distance and impose his wrestling game should neutralize that threat effectively. If Gamrot executes his typical game plan of securing takedowns and maintaining control, he is highly likely to win by a significant margin. This bet requires Gamrot to win by at least four points on the judges' scorecards or achieve a stoppage."
+          "rationale": "Mateusz Gamrot is a high-level wrestler and grappler known for his ability to control fights and grind out decisions, often going the full three rounds. While Esteban Ribovics possesses knockout power, Gamrot's defensive wrestling and relentless pressure typically lead to prolonged battles rather than quick finishes. This matchup is expected to be a strategic affair where Gamrot's style dictates a slower pace and a fight that extends deep into the later rounds. The heavily juiced line on the Over 2.5 rounds reflects the strong expectation that this bout will go the distance. For this pick to hit, the fight must go beyond the 2:30 mark of the third round."
         }
       ]
     }
