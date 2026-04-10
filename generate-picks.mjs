@@ -287,6 +287,8 @@ INSTRUCTIONS:
 
 3. QUALITY OVER QUANTITY: Only pick games where the research reveals a genuine edge — injury impact, line movement, situational angle, or clear matchup advantage. Skip a game if there is no real edge.
 
+4. CURRENT ROSTERS ONLY: For player props, confirm the player is actually on that team TODAY using Source 1 (Perplexity research). Never assume player-team assignments from memory — trades happen constantly. If you cannot confirm the player's current team from the research, skip that prop.
+
 4. RATIONALE (5–6 sentences each, mandatory):
    - Name specific injured players and explain exactly how their absence changes the matchup
    - Cite the team's recent form and record
@@ -313,7 +315,7 @@ Return ONLY valid JSON, no markdown:
 
   const body = {
     system_instruction: {
-      parts: [{ text: 'You are a sharp sports betting analyst. You receive live research from Perplexity and verified lines from ESPN and The Odds API. Use exact lines from the verified data — never estimate spreads, totals, or moneylines. You may estimate odds for player props if no line is available. Produce 5 picks with varied bet types and 5–6 sentence rationales citing specific data. Return only valid JSON.' }],
+      parts: [{ text: 'You are a sharp sports betting analyst. You receive live research from Perplexity and verified lines from ESPN and The Odds API. Use exact lines from the verified data — never estimate spreads, totals, or moneylines. You may estimate odds for player props if no line is available. Produce 5 picks with varied bet types and 5–6 sentence rationales citing specific data. Return only valid JSON. CRITICAL: For player props, use ONLY the player-team assignments from the Perplexity research — never assume a player is on a team based on training data, as rosters change constantly via trades and free agency. If the research does not confirm a player is on a given team for today\'s game, do not pick that player.' }],
     },
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     generationConfig: { temperature: 0.4 },
@@ -608,11 +610,19 @@ async function main() {
   } catch { }
 
   if (yesterdayPicks?.date && yesterdayPicks.date !== dateStr) {
-    const alreadyArchived = archive.some(e => e.date === yesterdayPicks.date);
-    if (!alreadyArchived) {
-      console.log(`\nGrading picks for ${yesterdayPicks.date}...`);
+    const existingEntry = archive.find(e => e.date === yesterdayPicks.date);
+    // Re-grade if not archived yet, OR if every pick in the existing entry has result '?'
+    // (happens when a manual run archived picks before the games were played)
+    const allUngraded = existingEntry
+      ? existingEntry.sports.every(s => s.picks.every(p => p.result === '?'))
+      : false;
+
+    if (!existingEntry || allUngraded) {
+      if (allUngraded) console.log(`\nRe-grading ${yesterdayPicks.date} (all results were ungraded)...`);
+      else console.log(`\nGrading picks for ${yesterdayPicks.date}...`);
       try {
         const graded = await gradePicksForDate(yesterdayPicks);
+        archive = archive.filter(e => e.date !== yesterdayPicks.date); // remove stale entry if re-grading
         archive.unshift(graded);
         archive = archive.slice(0, 30);
         writeFileSync('picks-archive.json', JSON.stringify(archive, null, 2));
@@ -621,7 +631,7 @@ async function main() {
         console.error('Failed to grade picks:', e.message);
       }
     } else {
-      console.log(`\nPicks for ${yesterdayPicks.date} already archived.`);
+      console.log(`\nPicks for ${yesterdayPicks.date} already archived with results.`);
     }
   }
 

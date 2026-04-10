@@ -158,52 +158,102 @@
     "date": "2026-04-09",
     "sports": [
       {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Toronto Raptors vs Miami Heat",
+            "betType": "spread",
+            "pick": "Toronto Raptors -3.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Miami Heat 114, Toronto Raptors 128"
+          },
+          {
+            "game": "Chicago Bulls vs Washington Wizards",
+            "betType": "total",
+            "pick": "Under 247.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago Bulls 119, Washington Wizards 108"
+          },
+          {
+            "game": "Indiana Pacers vs Brooklyn Nets",
+            "betType": "moneyline",
+            "pick": "Brooklyn Nets (+130)",
+            "odds": "+130",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Indiana Pacers 123, Brooklyn Nets 94"
+          },
+          {
+            "game": "Boston Celtics vs New York Knicks",
+            "betType": "spread",
+            "pick": "New York Knicks -4.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Boston Celtics 106, New York Knicks 112"
+          },
+          {
+            "game": "Philadelphia 76ers vs Houston Rockets",
+            "betType": "spread",
+            "pick": "Philadelphia 76ers +4.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia 76ers 102, Houston Rockets 113"
+          }
+        ]
+      },
+      {
         "sport": "NHL",
         "picks": [
           {
-            "game": "Florida Panthers vs Ottawa Senators",
+            "game": "Florida Panthers @ Ottawa Senators",
             "betType": "spread",
             "pick": "Ottawa Senators -1.5",
             "odds": "+100",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Florida Panthers 1, Ottawa Senators 5"
           },
           {
-            "game": "Carolina Hurricanes vs Chicago Blackhawks",
+            "game": "Carolina Hurricanes @ Chicago Blackhawks",
             "betType": "spread",
             "pick": "Carolina Hurricanes -1.5",
             "odds": "+106",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Carolina Hurricanes 7, Chicago Blackhawks 2"
           },
           {
-            "game": "Minnesota Wild vs Dallas Stars",
+            "game": "Minnesota Wild @ Dallas Stars",
             "betType": "moneyline",
             "pick": "Minnesota Wild",
             "odds": "+104",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Minnesota Wild 4, Dallas Stars 5"
           },
           {
-            "game": "Tampa Bay Lightning vs Montreal Canadiens",
+            "game": "Pittsburgh Penguins @ New Jersey Devils",
             "betType": "total",
-            "pick": "Under 6.5",
+            "pick": "Over 6.5",
             "odds": "-118",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Pittsburgh Penguins 5, New Jersey Devils 2"
           },
           {
-            "game": "Calgary Flames vs Colorado Avalanche",
+            "game": "Toronto Maple Leafs @ New York Islanders",
             "betType": "spread",
-            "pick": "Calgary Flames +1.5",
-            "odds": "+100",
+            "pick": "New York Islanders -1.5",
+            "odds": "-130",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Toronto Maple Leafs 3, New York Islanders 5"
           }
         ]
       },
@@ -211,90 +261,99 @@
         "sport": "MLB",
         "picks": [
           {
+            "game": "Colorado Rockies vs San Diego Padres",
+            "betType": "moneyline",
+            "pick": "Colorado Rockies Moneyline",
+            "odds": "+160",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Rockies 3, San Diego Padres 7"
+          },
+          {
             "game": "Athletics vs New York Yankees",
             "betType": "spread",
             "pick": "New York Yankees -1.5",
             "odds": "+108",
             "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Colorado Rockies vs San Diego Padres",
-            "betType": "moneyline",
-            "pick": "Colorado Rockies (+160)",
-            "odds": "+160",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Athletics 1, New York Yankees 0"
           },
           {
             "game": "Arizona Diamondbacks vs New York Mets",
             "betType": "total",
-            "pick": "Over 7.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Arizona Diamondbacks vs New York Mets",
-            "betType": "spread",
-            "pick": "New York Mets -1.5",
-            "odds": "+128",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "pick": "Under 7",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "L",
+            "score": "Arizona Diamondbacks 7, New York Mets 1"
           },
           {
             "game": "Cincinnati Reds vs Miami Marlins",
             "betType": "moneyline",
-            "pick": "Cincinnati Reds (+104)",
+            "pick": "Cincinnati Reds Moneyline",
             "odds": "+104",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Cincinnati Reds 1, Miami Marlins 8"
+          },
+          {
+            "game": "Chicago White Sox vs Kansas City Royals",
+            "betType": "total",
+            "pick": "Over 9",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago White Sox 2, Kansas City Royals 0"
           }
         ]
       },
       {
-        "sport": "UFC",
+        "sport": "UEL",
         "picks": [
           {
-            "game": "Eliezer Kubanza vs Kunle Lawal",
+            "game": "Aston Villa vs Bologna",
             "betType": "moneyline",
-            "pick": "Kunle Lawal +610",
-            "odds": "+610",
+            "pick": "Bologna ML",
+            "odds": "+260",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Aston Villa 3, Bologna 1"
           },
           {
-            "game": "Emilios Dassi vs Shido Boris Esperanca",
-            "betType": "moneyline",
-            "pick": "Emilios Dassi +390",
-            "odds": "+390",
+            "game": "Aston Villa vs Bologna",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "+110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Aston Villa 3, Bologna 1"
           },
           {
-            "game": "Shannon van Tonder vs Asiashu Tshitamba",
-            "betType": "moneyline",
-            "pick": "Shannon van Tonder -115",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Eliezer Kubanza vs Kunle Lawal",
-            "betType": "prop",
-            "pick": "Eliezer Kubanza to win by KO/TKO",
-            "odds": "-250",
+            "game": "Nottingham Forest vs FC Porto",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-200",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Nottingham Forest 1, FC Porto 1"
+          },
+          {
+            "game": "Celta Vigo vs SC Freiburg",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Celta Vigo 0, SC Freiburg 3"
+          },
+          {
+            "game": "Nottingham Forest vs FC Porto",
+            "betType": "moneyline",
+            "pick": "FC Porto ML",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Nottingham Forest 1, FC Porto 1"
           }
         ]
       }
