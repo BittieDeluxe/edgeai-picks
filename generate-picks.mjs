@@ -94,14 +94,15 @@ async function fetchAllInjuries(sport) {
     const data = await res.json();
     const map = {};
     for (const teamEntry of (data.injuries ?? data.items ?? [])) {
+      // Key by full team display name — the athlete object has no team reference in this endpoint
+      const teamName = teamEntry.displayName ?? '';
+      if (!teamName) continue;
       for (const inj of (teamEntry.injuries ?? [])) {
-        const abbrev = inj.athlete?.team?.abbreviation;
-        const status = inj.status ?? inj.type?.description ?? '';
+        const status = inj.status ?? '';
         const name = inj.athlete?.displayName ?? 'Unknown';
-        if (!abbrev) continue;
         if (!['out', 'doubtful', 'questionable', 'day-to-day'].some(s => status.toLowerCase().includes(s))) continue;
-        if (!map[abbrev]) map[abbrev] = [];
-        map[abbrev].push(`${name} (${status})`);
+        if (!map[teamName]) map[teamName] = [];
+        map[teamName].push(`${name} (${status})`);
       }
     }
     return map;
@@ -240,10 +241,13 @@ async function buildContext(sport, dateStr) {
     if (odds?.bestTotal) lines.push(`  Total: O/U ${odds.bestTotal.point} — Over (${fmt(odds.bestTotal.overOdds)}) / Under (${fmt(odds.bestTotal.underOdds)})`);
     if (odds?.bestML) lines.push(`  Moneyline: ${g.awayName} (${fmt(odds.bestML.awayOdds)}) / ${g.homeName} (${fmt(odds.bestML.homeOdds)})`);
     if (!odds) lines.push(`  Lines: not yet available`);
-    const awayInj = injuryMap[g.awayTeam] ?? [];
-    const homeInj = injuryMap[g.homeTeam] ?? [];
-    if (awayInj.length) lines.push(`  ${g.awayTeam} injuries: ${awayInj.join(', ')}`);
-    if (homeInj.length) lines.push(`  ${g.homeTeam} injuries: ${homeInj.join(', ')}`);
+    // injuryMap keyed by full team display name (e.g. "Minnesota Timberwolves")
+    const awayInj = injuryMap[g.awayName] ?? [];
+    const homeInj = injuryMap[g.homeName] ?? [];
+    if (awayInj.length) lines.push(`  ${g.awayName} OFFICIAL injuries: ${awayInj.join(', ')}`);
+    else lines.push(`  ${g.awayName} OFFICIAL injuries: none listed — assume all players available`);
+    if (homeInj.length) lines.push(`  ${g.homeName} OFFICIAL injuries: ${homeInj.join(', ')}`);
+    else lines.push(`  ${g.homeName} OFFICIAL injuries: none listed — assume all players available`);
   }
 
   console.log(`  ESPN games: ${games.length}, Odds games: ${Object.keys(oddsMap).length}`);
@@ -278,6 +282,8 @@ ${structuredContext || 'Not available — rely on research above.'}
 INSTRUCTIONS:
 
 1. USE EXACT LINES: For any spread, total, or moneyline pick, use only the exact odds from Source 2. Do not invent or estimate lines. If a game has no verified lines, skip it.
+
+CRITICAL — INJURY AUTHORITY: Source 2 contains the OFFICIAL ESPN injury report. This is the ground truth. A player is OUT only if listed as "Out" in Source 2. If Source 2 says "none listed — assume all players available" for a team, treat ALL players as available regardless of what Source 1 (Perplexity) says. Do NOT assume a player is out based on Perplexity alone — Perplexity can return stale or incorrect injury data. Never build a high-confidence pick around a player absence that isn't confirmed in Source 2.
 
 2. PICK VARIETY: Your 5 picks must include a mix — do not pick all spreads. Include at least:
    - 1–2 spread picks
