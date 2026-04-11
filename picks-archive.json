@@ -1,5 +1,210 @@
 [
   {
+    "date": "2026-04-10",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "LA Clippers vs Portland Trail Blazers",
+            "betType": "moneyline",
+            "pick": "LA Clippers (+104)",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "?",
+            "score": "LA Clippers 97, Portland Trail Blazers 116"
+          },
+          {
+            "game": "Philadelphia 76ers vs Indiana Pacers",
+            "betType": "spread",
+            "pick": "Philadelphia 76ers -15.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia 76ers 105, Indiana Pacers 94"
+          },
+          {
+            "game": "Minnesota Timberwolves vs Houston Rockets",
+            "betType": "spread",
+            "pick": "Houston Rockets -10.5",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "L",
+            "score": "Minnesota Timberwolves 136, Houston Rockets 132"
+          },
+          {
+            "game": "Memphis Grizzlies vs Utah Jazz",
+            "betType": "total",
+            "pick": "Under 248.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "W",
+            "score": "Memphis Grizzlies 101, Utah Jazz 147"
+          },
+          {
+            "game": "Brooklyn Nets vs Milwaukee Bucks",
+            "betType": "total",
+            "pick": "Under 217.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Brooklyn Nets 108, Milwaukee Bucks 125"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Texas Rangers vs Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Texas Rangers 7, Los Angeles Dodgers 8"
+          },
+          {
+            "game": "Miami Marlins vs Detroit Tigers",
+            "betType": "moneyline",
+            "pick": "Miami Marlins (+118)",
+            "odds": "+118",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Miami Marlins 0, Detroit Tigers 2"
+          },
+          {
+            "game": "Cleveland Guardians vs Atlanta Braves",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cleveland Guardians 5, Atlanta Braves 11"
+          },
+          {
+            "game": "Pittsburgh Pirates vs Chicago Cubs",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Pittsburgh Pirates 2, Chicago Cubs 0"
+          },
+          {
+            "game": "Washington Nationals vs Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+132",
+            "confidence": "high",
+            "result": "L",
+            "score": "Washington Nationals 7, Milwaukee Brewers 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "FC Cincinnati @ Toronto FC",
+            "betType": "moneyline",
+            "pick": "FC Cincinnati (+200)",
+            "odds": "+200",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "LA Galaxy @ Austin FC",
+            "betType": "moneyline",
+            "pick": "Austin FC (+105)",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Philadelphia Union @ CF Montreal",
+            "betType": "moneyline",
+            "pick": "CF Montreal (+155)",
+            "odds": "+155",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Los Angeles FC @ Portland Timbers",
+            "betType": "moneyline",
+            "pick": "Los Angeles FC (-125)",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "D.C. United @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "D.C. United (+300)",
+            "odds": "+300",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "UFC",
+        "picks": [
+          {
+            "game": "Charlie Radtke vs Francisco Prado",
+            "betType": "spread",
+            "pick": "Charlie Radtke -3.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Vicente Luque vs Kelvin Gastelum",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+120",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Nate Jennerman vs Valanti Atsas",
+            "betType": "moneyline",
+            "pick": "Nate Jennerman",
+            "odds": "+116",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Lupita Godinez vs Tatiana Suarez",
+            "betType": "spread",
+            "pick": "Tatiana Suarez -3.5",
+            "odds": "+140",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Esteban Ribovics vs Mateusz Gamrot",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-260",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-04-08",
     "sports": [
       {
