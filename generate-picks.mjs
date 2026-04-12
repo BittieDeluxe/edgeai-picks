@@ -58,6 +58,40 @@ function getInSeasonSports(month) {
 }
 
 // ─── ESPN ──────────────────────────────────────────────────────────────────
+async function fetchTeamLast5(sport, teamAbbrev) {
+  if (!teamAbbrev) return [];
+  const espn = ESPN_MAP[sport];
+  if (!espn) return [];
+  try {
+    const res = await fetch(
+      `https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/teams/${teamAbbrev}/schedule`
+    );
+    if (!res.ok) return [];
+    const data = await res.json();
+    const events = data.events ?? [];
+    const completed = events.filter(e => e.competitions?.[0]?.status?.type?.completed);
+    return completed.slice(-5).map(e => {
+      const comps = e.competitions?.[0]?.competitors ?? [];
+      const myTeam = comps.find(c => c.team?.abbreviation?.toLowerCase() === teamAbbrev.toLowerCase());
+      if (!myTeam) return '?';
+      return myTeam.winner ? 'W' : 'L';
+    });
+  } catch { return []; }
+}
+
+function matchPickToGame(pick, games) {
+  const parts = (pick.game ?? '').split(' vs ');
+  if (parts.length !== 2) return null;
+  const awayKey = parts[0].trim().toLowerCase().split(/\s+/).pop() ?? '';
+  const homeKey = parts[1].trim().toLowerCase().split(/\s+/).pop() ?? '';
+  for (const g of games) {
+    const gAwayKey = (g.awayName ?? '').toLowerCase().split(/\s+/).pop() ?? '';
+    const gHomeKey = (g.homeName ?? '').toLowerCase().split(/\s+/).pop() ?? '';
+    if (gAwayKey === awayKey && gHomeKey === homeKey) return g;
+  }
+  return null;
+}
+
 async function fetchEspnGames(sport, dateStr) {
   const espn = ESPN_MAP[sport];
   if (!espn) return [];
@@ -217,6 +251,160 @@ Be specific with names, numbers, and stats. This research will be used to genera
   }
 }
 
+// ─── NBA Player Props: Perplexity research ────────────────────────────────
+async function researchNBAPlayerProps(dateStr, nbaGames) {
+  if (nbaGames.length === 0) return '';
+
+  const gamesList = nbaGames.map(g => `${g.awayName} @ ${g.homeName}`).join('\n');
+
+  const prompt = `You are a sports research analyst. For NBA games on ${dateStr}, compile a comprehensive player props research report.
+
+TODAY'S NBA GAMES:
+${gamesList}
+
+For EACH game, find and report:
+
+1. PROP LINES (from DraftKings and FanDuel, as of today):
+   - Top 4–6 players per game with their current Points, Rebounds, and Assists over/under lines and odds
+   - Format: "Player Name (Team): Points O/U X.X (-110/-110), Rebounds O/U Y.Y (-115/-105), Assists O/U Z.Z (-120/+100)"
+
+2. PLAYER AVERAGES (current season):
+   - Points per game, Rebounds per game, Assists per game for each player listed above
+   - Last 10 games averages for each player (recent form indicator)
+   - Total games played this season
+
+3. POSITIONAL DEFENSIVE STATS (for each team):
+   - Points allowed per game to each position (PG, SG, SF, PF, C)
+   - Which positions does each team struggle to defend?
+   - Specific opposing player matchup: who guards whom?
+
+4. PACE & USAGE:
+   - Each team's pace (possessions per 48 minutes — league average ~100)
+   - Key player usage rates (% of team possessions used)
+   - High-pace matchups = more possessions = easier to hit scoring overs
+
+5. BACK-TO-BACK & REST:
+   - Is either team on a back-to-back tonight?
+   - Days of rest for each team
+   - Do star players typically see reduced minutes on back-to-backs?
+
+6. INJURY/LINEUP NEWS:
+   - Any confirmed absences that would increase a teammate's usage or role?
+   - Any load management or minutes-restriction news?
+
+Be specific with numbers. If prop lines are not available for a player, say so explicitly.`;
+
+  try {
+    const res = await fetch('https://api.perplexity.ai/chat/completions', {
+      method: 'POST',
+      headers: { 'Authorization': `Bearer ${PERPLEXITY_API_KEY}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ model: 'sonar-pro', messages: [{ role: 'user', content: prompt }] }),
+    });
+    if (!res.ok) {
+      const err = await res.text();
+      console.error(`  NBA Props Perplexity error: ${res.status} ${err.slice(0, 200)}`);
+      return '';
+    }
+    const data = await res.json();
+    const research = data.choices?.[0]?.message?.content ?? '';
+    console.log(`  NBA Props research: ${research.length} chars`);
+    return research;
+  } catch (e) {
+    console.error(`  NBA Props Perplexity error:`, e.message);
+    return '';
+  }
+}
+
+// ─── NBA Player Props: Gemini synthesis ───────────────────────────────────
+async function getNBAPlayerProps(dateStr, propsResearch, nbaGames, nbaInjuryMap) {
+  if (!propsResearch || nbaGames.length === 0) return [];
+
+  const injuryLines = [`=== NBA Official Injury Report (${dateStr}) ===`];
+  for (const g of nbaGames) {
+    const awayInj = nbaInjuryMap[g.awayName] ?? [];
+    const homeInj = nbaInjuryMap[g.homeName] ?? [];
+    injuryLines.push(`${g.awayName} @ ${g.homeName}`);
+    injuryLines.push(`  ${g.awayName}: ${awayInj.length ? awayInj.join(', ') : 'none listed'}`);
+    injuryLines.push(`  ${g.homeName}: ${homeInj.length ? homeInj.join(', ') : 'none listed'}`);
+  }
+
+  const prompt = `You are a sharp NBA player props analyst. Today is ${dateStr}.
+
+--- PLAYER PROPS RESEARCH (live web search via Perplexity) ---
+${propsResearch}
+
+--- OFFICIAL NBA INJURY REPORT (ESPN) ---
+${injuryLines.join('\n')}
+
+---
+
+INSTRUCTIONS: Select 4–6 high-confidence NBA player prop picks for tonight. Apply ALL filters:
+
+1. MINIMUM SAMPLE SIZE: Only pick players with 15+ games played this season. Skip any player where games played is unknown or under 15.
+
+2. CONFIRMED PROP LINES ONLY: Use only lines found in the research from DraftKings or FanDuel. Do NOT estimate or make up lines.
+
+3. POSITIONAL MATCHUP EDGE: The primary reason for the pick must be a clear positional defensive matchup advantage — cite which position the opponent struggles to defend and the specific PPG/RPG/APG allowed to that position.
+
+4. RECENT FORM ALIGNMENT: The player's last-10 average must support the pick direction. Do not pick Over when the last-10 is trending well under the line. Do not pick Under when the player is hot.
+
+5. PACE FACTOR: For scoring props, compare team paces. High-pace matchup (both teams above 100 possessions/game) supports Overs for usage-heavy players.
+
+6. BACK-TO-BACK: If a player is on a back-to-back, use the "caution" field to flag potential minutes reduction. Only back back-to-back players who have strong historical data on second nights.
+
+7. INJURY BONUS: If a star teammate is listed OUT in the official injury report, flag the usage increase for supporting players — this is an Over indicator.
+
+8. AVOID STAR BIAS: Do not pick a player simply because they are famous. The edge must be specific and data-driven.
+
+Return ONLY valid JSON, no markdown:
+{
+  "playerProps": [
+    {
+      "player": "Player Full Name",
+      "team": "Team Full Name",
+      "game": "Away Team vs Home Team",
+      "propType": "points|rebounds|assists|steals|blocks|threes",
+      "pick": "Over 25.5 Points",
+      "odds": "-115",
+      "confidence": "high|medium",
+      "rationale": "5–6 sentences citing positional matchup PPG/RPG/APG allowed, season avg vs last-10 avg, pace data, injury context if relevant, and what needs to happen",
+      "caution": null
+    }
+  ]
+}
+
+If there are no strong plays tonight, return {"playerProps": []}. Fewer sharp picks beat more mediocre ones.`;
+
+  const body = {
+    system_instruction: {
+      parts: [{ text: 'You are a sharp NBA player props analyst. Only pick props with confirmed lines from DraftKings or FanDuel. Apply all filters: positional defense, pace, recent form, injury impact, and minimum 15-game sample size. Return only valid JSON.' }],
+    },
+    contents: [{ role: 'user', parts: [{ text: prompt }] }],
+    generationConfig: { temperature: 0.3 },
+  };
+
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
+  const res = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+  if (!res.ok) {
+    const text = await res.text();
+    console.error(`Gemini NBA props error: ${res.status} ${text.slice(0, 200)}`);
+    return [];
+  }
+
+  const json = await res.json();
+  const raw = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"playerProps":[]}';
+  console.log(`  NBA Props raw (first 400): ${raw.slice(0, 400)}`);
+
+  try {
+    const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
+    const parsed = JSON.parse(cleaned);
+    return parsed.playerProps ?? [];
+  } catch {
+    console.error('Failed to parse NBA player props JSON:', raw.slice(0, 300));
+    return [];
+  }
+}
+
 // ─── Build structured game context ────────────────────────────────────────
 async function buildContext(sport, dateStr) {
   const [games, injuryMap, oddsMap] = await Promise.all([
@@ -226,7 +414,7 @@ async function buildContext(sport, dateStr) {
   ]);
 
   const hasOdds = Object.keys(oddsMap).length > 0;
-  if (games.length === 0 && !hasOdds) return { hasGames: false, structuredContext: '' };
+  if (games.length === 0 && !hasOdds) return { hasGames: false, structuredContext: '', games: [] };
 
   const gameList = games.length > 0 ? games : Object.values(oddsMap).map(o => ({
     awayTeam: '', awayName: o.awayTeam, awayRecord: '',
@@ -251,20 +439,20 @@ async function buildContext(sport, dateStr) {
   }
 
   console.log(`  ESPN games: ${games.length}, Odds games: ${Object.keys(oddsMap).length}`);
-  return { hasGames: true, structuredContext: lines.join('\n') };
+  return { hasGames: true, structuredContext: lines.join('\n'), games: gameList };
 }
 
 // ─── Stage 2: Gemini reasoning ────────────────────────────────────────────
 async function getPicksForSport(sport, dateStr) {
   // Run Perplexity research and ESPN/Odds API fetching in parallel
-  const [researchText, { hasGames, structuredContext }] = await Promise.all([
+  const [researchText, { hasGames, structuredContext, games }] = await Promise.all([
     researchSport(sport, dateStr),
     buildContext(sport, dateStr),
   ]);
 
   if (!hasGames) {
     console.log(`  No games/events found for ${sport} today — skipping`);
-    return [];
+    return { picks: [], games: [] };
   }
 
   const prompt = `You are a sharp sports betting analyst generating the top 5 ${sport} picks for today, ${dateStr}.
@@ -345,10 +533,10 @@ Return ONLY valid JSON, no markdown:
       if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
       return true;
     });
-    return parsed.picks;
+    return { picks: parsed.picks, games };
   } catch {
     console.error(`Failed to parse picks JSON for ${sport}:`, raw);
-    return [];
+    return { picks: [], games };
   }
 }
 
@@ -366,9 +554,9 @@ const PROP_STAT_KEYS = {
   'three-pointers': '3PT',
   'threes': '3PT',
   'turnovers': 'TO',
-  // NHL
+  // NHL (use distinct keys so NBA 'assists'→'AST' is not overwritten)
   'goals': 'G',
-  'assists': 'A',
+  'nhl assists': 'A',
   'saves': 'SV',
   'shots': 'SOG',
   'shots on goal': 'SOG',
@@ -514,8 +702,15 @@ function gradeOnePick(pick, event) {
       else result = m[1].toLowerCase() === 'over' ? (total > line ? 'W' : 'L') : (total < line ? 'W' : 'L');
     }
   } else if (pick.betType === 'moneyline') {
-    // Strip trailing "ML" suffix if present: "Philadelphia Flyers ML" → "Philadelphia Flyers"
-    const cleanText = text.replace(/\s+ML$/i, '').trim();
+    // Strip trailing odds/suffix variants:
+    //   "Philadelphia Flyers ML" → "Philadelphia Flyers"
+    //   "Braves -175" → "Braves"
+    //   "Portland Trail Blazers (+100)" → "Portland Trail Blazers"
+    const cleanText = text
+      .replace(/\s+ML$/i, '')              // "... ML"
+      .replace(/\s+\([+-]?\d+\)$/, '')    // " (+100)" or " (-118)"
+      .replace(/\s+[+-]\d+$/, '')          // " -175" or " +100"
+      .trim();
     const pickedKey = lastWord(cleanText);
     const homeWon = homeScore > awayScore;
     const awayWon = awayScore > homeScore;
@@ -593,7 +788,35 @@ async function gradePicksForDate(picksData) {
     gradedSports.push({ sport: sportData.sport, picks: gradedPicks });
   }
 
-  return { date, sports: gradedSports };
+  // ─── Grade player props (NBA only) ───────────────────────────────────────
+  let gradedPlayerProps = picksData.playerProps ?? [];
+  if (gradedPlayerProps.length > 0) {
+    const espn = ESPN_MAP['NBA'];
+    let nbaEvents = [];
+    try {
+      const res = await fetch(
+        `https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/scoreboard?dates=${date.replace(/-/g, '')}`
+      );
+      if (res.ok) {
+        const data = await res.json();
+        nbaEvents = (data.events ?? []).filter(e => e.status?.type?.completed === true);
+        console.log(`  NBA props grading: ${nbaEvents.length} completed events`);
+      }
+    } catch { /* graceful */ }
+
+    gradedPlayerProps = await Promise.all(gradedPlayerProps.map(async prop => {
+      const event = findMatchingEvent(prop.game, nbaEvents);
+      if (!event) {
+        console.log(`  Props: no game match for ${prop.game}`);
+        return { ...prop, result: '?', score: '' };
+      }
+      const fakePick = { pick: prop.pick, betType: 'prop' };
+      const { result, score } = await gradePropPick(fakePick, event, 'NBA');
+      return { ...prop, result, score };
+    }));
+  }
+
+  return { date, sports: gradedSports, playerProps: gradedPlayerProps };
 }
 
 // ─── Main ─────────────────────────────────────────────────────────────────
@@ -648,8 +871,41 @@ async function main() {
   for (const sport of inSeasonSports) {
     console.log(`\nFetching picks for ${sport}…`);
     try {
-      const picks = await getPicksForSport(sport, dateStr);
+      const { picks, games } = await getPicksForSport(sport, dateStr);
       if (picks.length > 0) {
+        // Attach records from ESPN game data
+        for (const pick of picks) {
+          const g = matchPickToGame(pick, games);
+          if (g) {
+            pick.awayRecord = g.awayRecord || undefined;
+            pick.homeRecord = g.homeRecord || undefined;
+          }
+        }
+        // Collect unique team abbreviations that appear in picks
+        const teamSet = new Map();
+        for (const pick of picks) {
+          const g = matchPickToGame(pick, games);
+          if (g) {
+            if (g.awayTeam) teamSet.set(g.awayTeam, sport);
+            if (g.homeTeam) teamSet.set(g.homeTeam, sport);
+          }
+        }
+        // Fetch last5 in parallel for all matched teams
+        const last5Map = {};
+        if (teamSet.size > 0) {
+          console.log(`  Fetching last5 for ${teamSet.size} teams…`);
+          await Promise.all([...teamSet.entries()].map(async ([abbrev, sp]) => {
+            last5Map[abbrev] = await fetchTeamLast5(sp, abbrev);
+          }));
+        }
+        // Attach last5 to each pick
+        for (const pick of picks) {
+          const g = matchPickToGame(pick, games);
+          if (g) {
+            if (last5Map[g.awayTeam]?.length) pick.awayLast5 = last5Map[g.awayTeam];
+            if (last5Map[g.homeTeam]?.length) pick.homeLast5 = last5Map[g.homeTeam];
+          }
+        }
         sports.push({ sport, picks });
         console.log(`  ✓ ${picks.length} picks`);
       } else {
@@ -660,8 +916,29 @@ async function main() {
     }
   }
 
-  writeFileSync('daily-picks.json', JSON.stringify({ date: dateStr, generatedAt: now.toISOString(), sports }, null, 2));
-  console.log(`\nWrote ${sports.length} sport(s) to daily-picks.json`);
+  // ─── NBA Player Props ──────────────────────────────────────────────────────
+  let playerProps = [];
+  if (inSeasonSports.includes('NBA')) {
+    console.log('\nFetching NBA player props…');
+    try {
+      const [nbaGames, nbaInjuryMap] = await Promise.all([
+        fetchEspnGames('NBA', dateStr),
+        fetchAllInjuries('NBA'),
+      ]);
+      if (nbaGames.length > 0) {
+        const propsResearch = await researchNBAPlayerProps(dateStr, nbaGames);
+        playerProps = await getNBAPlayerProps(dateStr, propsResearch, nbaGames, nbaInjuryMap);
+        console.log(`  ✓ ${playerProps.length} player props`);
+      } else {
+        console.log('  — No NBA games today');
+      }
+    } catch (err) {
+      console.error('  ✗ NBA props error:', err.message);
+    }
+  }
+
+  writeFileSync('daily-picks.json', JSON.stringify({ date: dateStr, generatedAt: now.toISOString(), sports, playerProps }, null, 2));
+  console.log(`\nWrote ${sports.length} sport(s) + ${playerProps.length} player props to daily-picks.json`);
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
