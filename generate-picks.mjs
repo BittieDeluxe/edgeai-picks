@@ -80,7 +80,8 @@ async function fetchTeamLast5(sport, teamAbbrev) {
 }
 
 function matchPickToGame(pick, games) {
-  const parts = (pick.game ?? '').split(' vs ');
+  const raw = pick.game ?? '';
+  const parts = raw.includes(' vs ') ? raw.split(' vs ') : raw.split(' @ ');
   if (parts.length !== 2) return null;
   const awayKey = parts[0].trim().toLowerCase().split(/\s+/).pop() ?? '';
   const homeKey = parts[1].trim().toLowerCase().split(/\s+/).pop() ?? '';
@@ -659,8 +660,8 @@ function lastWord(s) {
 }
 
 function findMatchingEvent(gameName, events) {
-  // gameName: "Away Team vs Home Team"
-  const parts = gameName.split(' vs ');
+  // gameName: "Away Team vs Home Team" OR "Away Team @ Home Team" (Gemini sometimes outputs @)
+  const parts = gameName.includes(' vs ') ? gameName.split(' vs ') : gameName.split(' @ ');
   if (parts.length !== 2) return null;
   const awayKey = lastWord(parts[0].trim());
   const homeKey = lastWord(parts[1].trim());

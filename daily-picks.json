@@ -1,6 +1,97 @@
 {
   "date": "2026-04-12",
-  "generatedAt": "2026-04-13T00:07:12.243Z",
-  "sports": [],
+  "generatedAt": "2026-04-13T00:17:03.832Z",
+  "sports": [
+    {
+      "sport": "NBA",
+      "picks": [
+        {
+          "game": "Utah Jazz vs. Los Angeles Lakers",
+          "betType": "prop",
+          "pick": "LeBron James Over 28.5 Points",
+          "odds": "-110 (estimated)",
+          "confidence": "high",
+          "rationale": "Luka Doncic and Austin Reaves are officially OUT for the Lakers (Source 2), significantly increasing LeBron James's offensive burden and usage as the primary scorer. The Jazz are severely depleted, missing key frontcourt defenders like Lauri Markkanen, Jaren Jackson Jr., Jusuf Nurkic, and Walker Kessler (Source 2), which LeBron can readily exploit in the paint. The Lakers, at 52-29, will likely lean on their available stars to finish the season strong at home. LeBron is confirmed available and on the Lakers by Source 1. For this pick to hit, LeBron needs to exceed his projected points total, driven by high volume and efficiency against a weak, undersized Jazz defense."
+        },
+        {
+          "game": "Detroit Pistons vs. Indiana Pacers",
+          "betType": "prop",
+          "pick": "Cade Cunningham Over 35.5 Points + Assists",
+          "odds": "-110 (estimated)",
+          "confidence": "high",
+          "rationale": "The Indiana Pacers are decimated by injuries, with Tyrese Haliburton, Pascal Siakam, Ivica Zubac, Andrew Nembhard, and T.J. McConnell all officially OUT (Source 2), crippling their playmaking and defense. While Jalen Duren is out for the Pistons (Source 2), Cade Cunningham is confirmed available and healthy (Source 1) and will be the undisputed primary ball-handler and offensive engine. The Pistons are noted as 'near Eastern Conference top, playing strong two-way basketball' (Source 1), suggesting a motivated performance. Cunningham will face minimal resistance from the Pacers' depleted rotation. For this pick to hit, Cunningham needs to dominate the offensive flow, racking up points and assists against a severely weakened Pacers defense."
+        },
+        {
+          "game": "Milwaukee Bucks vs. Philadelphia 76ers",
+          "betType": "prop",
+          "pick": "Tyrese Maxey Over 24.5 Points",
+          "odds": "-110 (estimated)",
+          "confidence": "high",
+          "rationale": "The Philadelphia 76ers are fighting for the 8th seed (Source 1), providing strong motivation for their available players in this final regular-season game. While Joel Embiid is officially OUT (Source 2), Tyrese Maxey is confirmed available (Source 2, despite conflicting information in Source 1). The Bucks are severely depleted, missing Giannis Antetokounmpo, Bobby Portis, Kyle Kuzma, and more (Source 2), leaving their defense extremely vulnerable. Maxey, confirmed on the 76ers by Source 1, will be the undisputed primary scorer and offensive engine for Philadelphia. For this pick to hit, Maxey needs to capitalize on high usage and a weak Bucks defense to exceed his projected points total."
+        },
+        {
+          "game": "Golden State Warriors vs. LA Clippers",
+          "betType": "prop",
+          "pick": "Stephen Curry Over 26.5 Points",
+          "odds": "-110 (estimated)",
+          "confidence": "high",
+          "rationale": "The LA Clippers are missing key perimeter defenders and scorers Kawhi Leonard and Bradley Beal (Source 2), significantly weakening their defensive capabilities. Stephen Curry is confirmed available for the Golden State Warriors (Source 2, despite being listed as GTD in Source 1) and will be the focal point of their offense. Source 1 confirms Curry is on the Warriors. With Draymond Green also out for the Warriors (Source 2), Curry's offensive responsibilities will be even higher. Curry should have ample scoring opportunities against a depleted Clippers backcourt and frontcourt. For this pick to hit, Curry needs to exploit the Clippers' defensive absences with high volume and efficiency from beyond the arc."
+        },
+        {
+          "game": "Utah Jazz vs. Los Angeles Lakers",
+          "betType": "prop",
+          "pick": "Deandre Ayton Over 12.5 Rebounds",
+          "odds": "+105 (estimated)",
+          "confidence": "high",
+          "rationale": "The Utah Jazz are severely depleted in their frontcourt, missing Lauri Markkanen, Jaren Jackson Jr., Jusuf Nurkic, and Walker Kessler (Source 2), leaving them with minimal rebounding presence. Deandre Ayton is confirmed available for the Lakers (Source 1 and Source 2) and will be the primary big man for Los Angeles. With Luka Doncic and Austin Reaves out (Source 2), there might be more missed shots from the Lakers, creating additional rebounding opportunities for Ayton. Ayton, confirmed on the Lakers by Source 1, should dominate the glass against the Jazz's undersized and inexperienced bigs. For this pick to hit, Ayton needs to control the boards, securing a high number of rebounds against a severely weakened Jazz frontcourt."
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "Arizona Diamondbacks vs. Philadelphia Phillies",
+          "betType": "prop",
+          "pick": "Zac Gallen Over 5.5 Strikeouts",
+          "odds": "-120",
+          "confidence": "medium",
+          "rationale": "Zac Gallen, with a solid 3.00 ERA, is a consistent strikeout pitcher for the Diamondbacks. Despite the team's 4-3 loss, Gallen likely pitched deep into the game, as suggested by the tight final score. The absence of catcher Gabriel Moreno (Out) for Arizona could slightly impact team defense, but Gallen's individual strikeout ability remains high. He is expected to challenge Phillies hitters, making the over on his strikeout prop a strong play. For this pick to hit, Gallen needs to record at least 6 strikeouts."
+        },
+        {
+          "game": "Miami Marlins vs. Detroit Tigers",
+          "betType": "prop",
+          "pick": "Sandy Alcantara Under 2.5 Earned Runs",
+          "odds": "-130",
+          "confidence": "high",
+          "rationale": "Sandy Alcantara boasts an elite 0.74 ERA, showcasing dominant form early in the season. While the Marlins lost 6-1, this often indicates a lack of run support rather than a poor outing from an ace pitcher like Alcantara. His ability to consistently limit opponents' scoring is a key factor, and the Tigers' offense is not particularly formidable. Despite the team loss, Alcantara is expected to maintain his stellar individual performance. For this pick to hit, Alcantara must allow 2 or fewer earned runs."
+        },
+        {
+          "game": "Los Angeles Angels vs. Kansas City Royals",
+          "betType": "prop",
+          "pick": "Jose Soriano Under 2.5 Earned Runs",
+          "odds": "-140",
+          "confidence": "high",
+          "rationale": "Jose Soriano has been exceptional, sporting an outstanding 0.45 ERA, which highlights his remarkable control and effectiveness on the mound. The Angels' 3-2 victory further supports his strong performance in this specific game. Facing a Royals team that has struggled to a 7-9 record, Soriano is well-positioned to continue his trend of limiting opponents' scoring. With no listed injuries for the Angels, their defense should provide solid support. For this pick to hit, Soriano needs to allow 2 or fewer earned runs."
+        },
+        {
+          "game": "Boston Red Sox vs. St. Louis Cardinals",
+          "betType": "prop",
+          "pick": "Brayan Bello Over 3.5 Earned Runs",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Brayan Bello carries a concerning 9.00 ERA, indicating significant struggles with command and allowing runs early in the season. While the Red Sox secured a 7-1 victory, this outcome more likely points to strong offensive support rather than a dominant pitching performance from Bello. The Cardinals, with an 8-7 record, are capable of putting runs on the board against struggling pitching. Bello's high ERA suggests he is prone to giving up multiple runs. For this pick to hit, Bello must allow 4 or more earned runs."
+        },
+        {
+          "game": "Texas Rangers vs. Los Angeles Dodgers",
+          "betType": "prop",
+          "pick": "Chris Sale Over 6.5 Strikeouts",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "Chris Sale, with a 3.94 ERA, is a veteran pitcher known for his high strikeout potential, even if his ERA isn't elite. The Dodgers' 6-3 victory suggests he pitched effectively enough to secure the win, likely by racking up strikeouts against the Rangers' lineup. With no listed injuries for the Dodgers, Sale should have full defensive support behind him. His history of high K/9 rates makes him a strong candidate to exceed this strikeout total. For this pick to hit, Sale needs to record at least 7 strikeouts."
+        }
+      ]
+    }
+  ],
   "playerProps": []
 }
