@@ -757,14 +757,27 @@ async function gradePicksForDate(picksData) {
 
     let events = [];
     try {
-      const res = await fetch(
-        `https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/scoreboard?dates=${date.replace(/-/g, '')}`
-      );
-      if (res.ok) {
-        const data = await res.json();
-        events = (data.events ?? []).filter(e => e.status?.type?.completed === true);
-        console.log(`  ${sportData.sport} grading: ${events.length} completed events`);
+      // Fetch picks date AND +1 UTC day: late-night MLB/NHL games that tip around
+      // 7–10 PM ET start on picks-date in ET but complete after midnight UTC,
+      // so ESPN may store the completed status under the next UTC date.
+      const nextDate = new Date(date + 'T12:00:00Z');
+      nextDate.setUTCDate(nextDate.getUTCDate() + 1);
+      const nextDateStr = nextDate.toISOString().slice(0, 10).replace(/-/g, '');
+      const [resA, resB] = await Promise.all([
+        fetch(`https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/scoreboard?dates=${date.replace(/-/g, '')}`),
+        fetch(`https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/scoreboard?dates=${nextDateStr}`),
+      ]);
+      const eventsA = resA.ok ? ((await resA.json()).events ?? []) : [];
+      const eventsB = resB.ok ? ((await resB.json()).events ?? []) : [];
+      // Merge, deduplicate by event ID, keep only completed
+      const seen = new Set();
+      for (const e of [...eventsA, ...eventsB]) {
+        if (e.status?.type?.completed && !seen.has(e.id)) {
+          seen.add(e.id);
+          events.push(e);
+        }
       }
+      console.log(`  ${sportData.sport} grading: ${events.length} completed events (${eventsA.length} + ${eventsB.length} raw)`);
     } catch { /* graceful — picks get '?' */ }
 
     const gradedPicks = await Promise.all(sportData.picks.map(async pick => {
@@ -794,14 +807,24 @@ async function gradePicksForDate(picksData) {
     const espn = ESPN_MAP['NBA'];
     let nbaEvents = [];
     try {
-      const res = await fetch(
-        `https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/scoreboard?dates=${date.replace(/-/g, '')}`
-      );
-      if (res.ok) {
-        const data = await res.json();
-        nbaEvents = (data.events ?? []).filter(e => e.status?.type?.completed === true);
-        console.log(`  NBA props grading: ${nbaEvents.length} completed events`);
+      const nextDate = new Date(date + 'T12:00:00Z');
+      nextDate.setUTCDate(nextDate.getUTCDate() + 1);
+      const nextDateStr = nextDate.toISOString().slice(0, 10).replace(/-/g, '');
+      const [resA, resB] = await Promise.all([
+        fetch(`https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/scoreboard?dates=${date.replace(/-/g, '')}`),
+        fetch(`https://site.api.espn.com/apis/site/v2/sports/${espn.sport}/${espn.league}/scoreboard?dates=${nextDateStr}`),
+      ]);
+      const eventsA = resA.ok ? ((await resA.json()).events ?? []) : [];
+      const eventsB = resB.ok ? ((await resB.json()).events ?? []) : [];
+      const seen = new Set();
+      for (const e of [...eventsA, ...eventsB]) {
+        if (e.status?.type?.completed && !seen.has(e.id)) {
+          seen.add(e.id);
+          nbaEvents.push(e);
+        }
       }
+      console.log(`  NBA props grading: ${nbaEvents.length} completed events`);
+    } catch { /* graceful */ }
     } catch { /* graceful */ }
 
     gradedPlayerProps = await Promise.all(gradedPlayerProps.map(async prop => {
@@ -840,18 +863,23 @@ async function main() {
 
   if (yesterdayPicks?.date && yesterdayPicks.date !== dateStr) {
     const existingEntry = archive.find(e => e.date === yesterdayPicks.date);
-    // Re-grade if not archived yet, OR if every pick in the existing entry has result '?'
-    // (happens when a manual run archived picks before the games were played)
-    const allUngraded = existingEntry
-      ? existingEntry.sports.every(s => s.picks.every(p => p.result === '?'))
+    // Re-grade if:
+    // - not yet in archive, OR
+    // - any pick still has '?' AND the entry is recent (within 3 days, so games are now finished)
+    const hasAnyUngraded = existingEntry
+      ? existingEntry.sports.some(s => s.picks.some(p => p.result === '?'))
       : false;
+    const isRecent = existingEntry
+      ? (new Date(dateStr) - new Date(existingEntry.date)) / 86400000 <= 3
+      : false;
+    const shouldGrade = !existingEntry || (hasAnyUngraded && isRecent);
 
-    if (!existingEntry || allUngraded) {
-      if (allUngraded) console.log(`\nRe-grading ${yesterdayPicks.date} (all results were ungraded)...`);
-      else console.log(`\nGrading picks for ${yesterdayPicks.date}...`);
+    if (shouldGrade) {
+      const reason = !existingEntry ? 'new entry' : 'has ungraded picks within 3-day window';
+      console.log(`\nGrading picks for ${yesterdayPicks.date} (${reason})...`);
       try {
         const graded = await gradePicksForDate(yesterdayPicks);
-        archive = archive.filter(e => e.date !== yesterdayPicks.date); // remove stale entry if re-grading
+        archive = archive.filter(e => e.date !== yesterdayPicks.date);
         archive.unshift(graded);
         archive = archive.slice(0, 30);
         writeFileSync('picks-archive.json', JSON.stringify(archive, null, 2));
@@ -860,7 +888,25 @@ async function main() {
         console.error('Failed to grade picks:', e.message);
       }
     } else {
-      console.log(`\nPicks for ${yesterdayPicks.date} already archived with results.`);
+      console.log(`\nPicks for ${yesterdayPicks.date} already fully graded.`);
+    }
+  }
+
+  // Also re-grade any recent archive entries that still have ungraded picks
+  // (catches cases where daily-picks.json jumped ahead but older entries are partial)
+  const recentUngraded = archive.filter(e => {
+    const daysDiff = (new Date(dateStr) - new Date(e.date)) / 86400000;
+    return daysDiff >= 1 && daysDiff <= 3 && e.sports.some(s => s.picks.some(p => p.result === '?'));
+  });
+  for (const entry of recentUngraded) {
+    console.log(`\nRe-grading archive entry ${entry.date} (partial results)...`);
+    try {
+      const graded = await gradePicksForDate(entry);
+      archive = archive.map(e => e.date === entry.date ? graded : e);
+      writeFileSync('picks-archive.json', JSON.stringify(archive, null, 2));
+      console.log(`Re-graded ${entry.date}`);
+    } catch (e) {
+      console.error(`Failed to re-grade ${entry.date}:`, e.message);
     }
   }
 
