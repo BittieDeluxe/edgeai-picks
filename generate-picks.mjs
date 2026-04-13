@@ -825,7 +825,6 @@ async function gradePicksForDate(picksData) {
       }
       console.log(`  NBA props grading: ${nbaEvents.length} completed events`);
     } catch { /* graceful */ }
-    } catch { /* graceful */ }
 
     gradedPlayerProps = await Promise.all(gradedPlayerProps.map(async prop => {
       const event = findMatchingEvent(prop.game, nbaEvents);
@@ -892,11 +891,28 @@ async function main() {
     }
   }
 
-  // Also re-grade any recent archive entries that still have ungraded picks
-  // (catches cases where daily-picks.json jumped ahead but older entries are partial)
+  // Also re-grade any recent archive entries that still have ungraded picks,
+  // but ONLY for sports that ESPN can grade (skip UFC which is always '?').
+  // Also skip entries whose only '?' picks are known-unsupported prop stats
+  // (e.g. "Total Bases") — those will never resolve and would re-grade forever.
+  function hasGradablePendingPicks(entry) {
+    return entry.sports.some(s => {
+      if (!ESPN_MAP[s.sport]) return false; // UFC / non-ESPN sport — always '?'
+      return s.picks.some(p => {
+        if (p.result !== '?') return false;
+        if (p.betType === 'prop') {
+          // Only re-grade prop if the stat name is in PROP_STAT_KEYS
+          const m = p.pick.trim().match(/^.+?\s+(?:Over|Under)\s+[\d.]+\s+(.+)$/i);
+          return m ? !!PROP_STAT_KEYS[m[1].toLowerCase().trim()] : false;
+        }
+        return true; // spread / total / moneyline — always worth re-grading
+      });
+    });
+  }
+
   const recentUngraded = archive.filter(e => {
     const daysDiff = (new Date(dateStr) - new Date(e.date)) / 86400000;
-    return daysDiff >= 1 && daysDiff <= 3 && e.sports.some(s => s.picks.some(p => p.result === '?'));
+    return daysDiff >= 1 && daysDiff <= 3 && hasGradablePendingPicks(e);
   });
   for (const entry of recentUngraded) {
     console.log(`\nRe-grading archive entry ${entry.date} (partial results)...`);
