@@ -1,1 +1,158 @@
-[]
+[
+  {
+    "date": "2026-04-12",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "New Orleans Pelicans vs. Minnesota Timberwolves",
+            "betType": "total",
+            "pick": "Under 248.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Utah Jazz vs. Los Angeles Lakers",
+            "betType": "spread",
+            "pick": "Los Angeles Lakers -17.5",
+            "odds": "+108",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Phoenix Suns vs. Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "Phoenix Suns -15.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Golden State Warriors vs. LA Clippers",
+            "betType": "moneyline",
+            "pick": "Golden State Warriors Moneyline",
+            "odds": "-113",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Denver Nuggets vs. San Antonio Spurs",
+            "betType": "spread",
+            "pick": "Denver Nuggets -5.5",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Utah Mammoth @ Calgary Flames",
+            "betType": "spread",
+            "pick": "Calgary Flames -1.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Utah Mammoth 1, Calgary Flames 4"
+          },
+          {
+            "game": "Utah Mammoth @ Calgary Flames",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Utah Mammoth 1, Calgary Flames 4"
+          },
+          {
+            "game": "Vancouver Canucks @ Anaheim Ducks",
+            "betType": "moneyline",
+            "pick": "Anaheim Ducks (+100)",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vancouver Canucks 4, Anaheim Ducks 3"
+          },
+          {
+            "game": "Vancouver Canucks @ Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "+130",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Vancouver Canucks 4, Anaheim Ducks 3"
+          },
+          {
+            "game": "Utah Mammoth @ Calgary Flames",
+            "betType": "moneyline",
+            "pick": "Calgary Flames (-375)",
+            "odds": "-375",
+            "confidence": "high",
+            "result": "W",
+            "score": "Utah Mammoth 1, Calgary Flames 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Houston Astros vs Seattle Mariners",
+            "betType": "spread",
+            "pick": "Seattle Mariners -1.5",
+            "odds": "+128",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Astros 1, Seattle Mariners 6"
+          },
+          {
+            "game": "Houston Astros vs Seattle Mariners",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Astros 1, Seattle Mariners 6"
+          },
+          {
+            "game": "Houston Astros vs Seattle Mariners",
+            "betType": "moneyline",
+            "pick": "Houston Astros (+140)",
+            "odds": "+140",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Astros 1, Seattle Mariners 6"
+          },
+          {
+            "game": "Cleveland Guardians vs Atlanta Braves",
+            "betType": "spread",
+            "pick": "Cleveland Guardians +11.5",
+            "odds": "+360",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cleveland Guardians 1, Atlanta Braves 13"
+          },
+          {
+            "game": "Cleveland Guardians vs Atlanta Braves",
+            "betType": "total",
+            "pick": "Under 14.5",
+            "odds": "-560",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cleveland Guardians 1, Atlanta Braves 13"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  }
+]
