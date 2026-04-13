@@ -1,17 +1,89 @@
 {
   "date": "2026-04-12",
-  "generatedAt": "2026-04-13T00:21:24.261Z",
+  "generatedAt": "2026-04-13T02:03:22.437Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Chicago Bulls vs Dallas Mavericks",
-          "betType": "prop",
-          "pick": "Luka Doncic Over 30.5 Points",
-          "odds": "-115",
+          "game": "New Orleans Pelicans vs Minnesota Timberwolves",
+          "betType": "total",
+          "pick": "Under 245.5",
+          "odds": "+102",
           "confidence": "high",
-          "rationale": "With Kyrie Irving (Out), Daniel Gafford (Out), Dereck Lively II (Out), and Marvin Bagley III (Out) for the Dallas Mavericks (25-56), Luka Doncic will be the sole primary offensive engine. Perplexity notes Irving's absence 'shifts playmaking to Luka Doncic, increasing usage/fatigue risk,' indicating an astronomical workload against the Chicago Bulls (31-50). Doncic will be forced to carry the scoring load against a Bulls team also missing key players like Josh Giddey, creating a significant scoring opportunity. For this pick to hit, Doncic needs to aggressively seek his shot and convert at an efficient rate, leveraging his increased usage and extended minutes.",
+          "rationale": "Both the Pelicans and Timberwolves are severely depleted, missing all their primary offensive and defensive stars, including Zion Williamson, Dejounte Murray, and Trey Murphy III for New Orleans, and Anthony Edwards, Rudy Gobert, and Mike Conley for Minnesota. This will result in a game featuring G-League level talent and likely inefficient offense from both sides. The total of 245.5 points is incredibly high for such a scenario, suggesting a significant market overestimation of scoring potential. With so many key playmakers and scorers sidelined, expect a slow pace and poor shooting efficiency. For this pick to hit, both teams must struggle to generate consistent offense and keep the combined score below 245.5 points.",
+          "awayRecord": "26-55",
+          "homeRecord": "48-33",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Utah Jazz vs Los Angeles Lakers",
+          "betType": "spread",
+          "pick": "Los Angeles Lakers -15.5",
+          "odds": "-114",
+          "confidence": "high",
+          "rationale": "The Utah Jazz are completely gutted, missing Lauri Markkanen, Jaren Jackson Jr., Keyonte George, Walker Kessler, and Jusuf Nurkic, effectively their entire core roster. The Los Angeles Lakers, despite missing Luka Doncic and Austin Reaves, still have LeBron James available and are a strong 52-29 team fighting for playoff positioning. This creates a massive talent disparity, with the Jazz fielding a non-competitive, G-League level roster against a motivated Lakers squad. The Lakers will be looking to secure a dominant win against an inferior opponent to improve their playoff seeding. For this pick to hit, the Lakers need to control the game from start to finish and win by at least 16 points.",
+          "awayRecord": "22-59",
+          "homeRecord": "52-29",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Denver Nuggets vs San Antonio Spurs",
+          "betType": "moneyline",
+          "pick": "San Antonio Spurs (-118)",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "The San Antonio Spurs, with an impressive 62-19 record, are a significantly stronger team than the 53-28 Denver Nuggets this season. While the Spurs are without Victor Wembanyama, the Nuggets are also missing key starters Jamal Murray and Aaron Gordon, which severely impacts their offensive creation and defensive capabilities. Playing at home, the Spurs' superior overall team performance and depth should allow them to overcome the Nuggets' depleted roster. The near pick'em moneyline offers excellent value for the superior Spurs team. For this pick to hit, the San Antonio Spurs simply need to win the game outright.",
+          "awayRecord": "53-28",
+          "homeRecord": "62-19",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Chicago Bulls vs Dallas Mavericks",
+          "betType": "spread",
+          "pick": "Chicago Bulls +16.5",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "The Dallas Mavericks are a struggling 25-56 team and are significantly shorthanded, missing Kyrie Irving, Daniel Gafford, P.J. Washington, and Dereck Lively II, which guts their primary ball-handling, scoring, and frontcourt presence. While the Chicago Bulls (31-50) also have multiple players out, including Isaac Okoro and Josh Giddey, the 16.5-point spread against an equally injured Mavericks team is excessively large. The Mavericks' own offensive struggles without Irving will make it difficult to pull away by such a wide margin. For this pick to hit, the Bulls need to keep the game within 16 points or win outright.",
           "awayRecord": "31-50",
           "homeRecord": "25-56",
           "awayLast5": [
@@ -30,99 +102,152 @@
           ]
         },
         {
-          "game": "Orlando Magic vs Boston Celtics",
-          "betType": "prop",
-          "pick": "Wendell Carter Jr. Over 12.5 Rebounds",
-          "odds": "-110",
+          "game": "Golden State Warriors vs LA Clippers",
+          "betType": "moneyline",
+          "pick": "Golden State Warriors (+124)",
+          "odds": "+124",
           "confidence": "medium",
-          "rationale": "The Boston Celtics (55-26) are severely depleted, with Jayson Tatum, Jaylen Brown, Derrick White, Payton Pritchard, Sam Hauser, and Nikola Vucevic (confirmed out for BOS in Source 2) all sidelined. This creates a massive void in Boston's frontcourt and overall team defense, leading to more missed shots and offensive rebounding opportunities. Wendell Carter Jr. (ORL, 45-36), confirmed available by Perplexity and not listed out by Source 2, will see his role as a primary rebounder amplified against a makeshift Celtics lineup. For this pick to hit, Carter Jr. needs to dominate the glass against Boston's severely compromised interior, capitalizing on the high volume of missed shots.",
-          "awayRecord": "45-36",
-          "homeRecord": "55-26",
+          "rationale": "The LA Clippers will be without Kawhi Leonard, their primary scorer and defensive anchor, which significantly weakens their overall team strength. The Golden State Warriors, while missing Draymond Green, are expected to have Stephen Curry playing, providing a significant offensive advantage. Both teams are fighting for playoff positioning, ensuring high motivation. With Curry's ability to take over games and the Clippers missing their superstar, the Warriors present good value as an underdog on the moneyline. For this pick to hit, the Golden State Warriors must win the game outright.",
+          "awayRecord": "37-44",
+          "homeRecord": "41-40",
           "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
             "W",
             "W",
-            "W",
-            "W",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "NHL",
+      "picks": [
+        {
+          "game": "Vancouver Canucks @ Anaheim Ducks",
+          "betType": "moneyline",
+          "pick": "Anaheim Ducks (+105)",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "Anaheim (42-32-5) boasts a significantly superior season record compared to the struggling Vancouver Canucks (23-48-8), indicating they are the stronger team on paper. Despite this clear statistical advantage, Anaheim is listed as a home underdog at +105, presenting a compelling value opportunity. The official injury report for both teams does not reveal absences severe enough for Vancouver to be favored against a team with nearly double their wins. This pick relies on Anaheim performing to their established capability, leveraging their home ice advantage against a Vancouver squad that has consistently underperformed this season. For this bet to hit, Anaheim must secure an outright victory against the Canucks.",
+          "awayRecord": "23-48-8",
+          "homeRecord": "42-32-5",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
             "L",
             "W"
           ]
         },
         {
-          "game": "Orlando Magic vs Boston Celtics",
-          "betType": "prop",
-          "pick": "Ron Harper Jr. Over 15.5 Points",
-          "odds": "-110",
+          "game": "Vancouver Canucks @ Anaheim Ducks",
+          "betType": "total",
+          "pick": "Under 5.5 (-120)",
+          "odds": "-120",
           "confidence": "medium",
-          "rationale": "With Boston's core players, including Jayson Tatum, Jaylen Brown, and Derrick White, confirmed out, Ron Harper Jr. (BOS), confirmed available by Perplexity and not listed out by Source 2, will see an enormous increase in offensive responsibility. The Celtics (55-26) will be forced to rely on their deeper bench players for scoring against the Orlando Magic (45-36). Harper Jr. will likely play extended minutes and be a primary offensive option in a game where Boston's usual stars are absent, facing a less intense defensive scheme. For this pick to hit, Harper Jr. needs to capitalize on the increased volume and minutes to exceed his typical scoring output.",
-          "awayRecord": "45-36",
-          "homeRecord": "55-26",
+          "rationale": "Vancouver's dismal 23-48-8 record strongly suggests a team that struggles with offensive consistency, contributing to their low win total. While Anaheim has a better record, their offensive output might not be enough to push the total over 5.5, especially if Vancouver's defense, despite their overall record, can play a disciplined game. The absence of Evander Kane for Vancouver further diminishes their scoring potential, limiting their ability to contribute significantly to the total. This pick anticipates a tighter, lower-scoring affair where both teams find it difficult to consistently generate high-danger chances and finish, keeping the combined score under six goals.",
+          "awayRecord": "23-48-8",
+          "homeRecord": "42-32-5",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
             "L",
             "W"
           ]
         },
         {
-          "game": "Orlando Magic vs Boston Celtics",
-          "betType": "prop",
-          "pick": "Jalen Suggs Over 18.5 Points + Assists",
-          "odds": "-110",
+          "game": "Utah Mammoth @ Calgary Flames",
+          "betType": "spread",
+          "pick": "Utah Mammoth +1.5 (+100)",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "The Boston Celtics (55-26) are missing their entire core, including Jayson Tatum, Jaylen Brown, and Derrick White, significantly weakening their defense and playmaking. Jalen Suggs (ORL, 45-36), whose status is 'unclear' in Perplexity but not listed as out in Source 2, is expected to be available and take on an expanded offensive role. He will face significantly less resistance and have more opportunities to score and facilitate against a makeshift Celtics defense. For this pick to hit, Suggs needs to be aggressive in both scoring and creating for teammates, taking advantage of Boston's severely depleted roster to exceed his combined points and assists total.",
-          "awayRecord": "45-36",
-          "homeRecord": "55-26",
+          "rationale": "Despite significant injuries to key players like starting goaltender Karel Vejmelka, defenseman John Marino, and forwards Jack McBain and Barrett Hayton, Utah Mammoth still holds a strong 42-31-6 record, indicating a resilient and competitive squad. Getting +1.5 goals at even money (+100) against a Calgary team with a losing record (32-38-9) offers excellent value, even with Calgary favored at home. While Calgary's home advantage is a factor, Utah has proven capable of keeping games close against various opponents throughout the season. This pick anticipates that Utah, even with its challenges, can either secure an outright upset or lose by a single goal, thereby covering the spread.",
+          "awayRecord": "42-31-6",
+          "homeRecord": "32-38-9",
           "awayLast5": [
             "W",
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
-            "W",
-            "W",
+            "L",
             "W",
             "L",
-            "W"
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Orlando Magic vs Boston Celtics",
-          "betType": "prop",
-          "pick": "Max Shulga Over 7.5 Points",
-          "odds": "+150",
-          "confidence": "low",
-          "rationale": "Boston's roster (55-26) is completely decimated by injuries, with all primary scorers and playmakers (Tatum, Brown, White, Pritchard, Hauser, Vucevic) confirmed out. Max Shulga (BOS), listed as 'Questionable, G League' by Perplexity but not 'Out' in Source 2, is likely to see unexpected minutes and scoring opportunities against the Orlando Magic (45-36). While a deep bench player, the sheer volume of absences creates a scenario where even G-League call-ups could exceed low prop totals due to necessity. For this pick to hit, Shulga needs to play substantial minutes and convert a few scoring chances, leveraging the unprecedented opportunity against a less-than-stellar defense.",
-          "awayRecord": "45-36",
-          "homeRecord": "55-26",
+          "game": "Utah Mammoth @ Calgary Flames",
+          "betType": "total",
+          "pick": "Over 6.5 (-105)",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "The critical absence of Utah's starting goaltender, Karel Vejmelka, due to injury is a significant factor that often leads to higher-scoring games, as backup goalies can be more susceptible. While Utah also faces offensive injuries to Jack McBain and Barrett Hayton, the primary impact of a backup netminder often outweighs offensive struggles in terms of total goals. Calgary, playing at home, will likely aggressively exploit this vulnerability in Utah's net. With the total set at 6.5, the potential for Calgary to score multiple goals against a less experienced netminder, combined with any offensive contributions from Utah, makes the Over a compelling play. This pick relies on both teams, particularly Calgary, finding consistent success in the offensive zone to exceed the seven-goal threshold.",
+          "awayRecord": "42-31-6",
+          "homeRecord": "32-38-9",
           "awayLast5": [
             "W",
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
-            "W",
-            "W",
+            "L",
             "W",
             "L",
-            "W"
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Utah Mammoth @ Calgary Flames",
+          "betType": "spread",
+          "pick": "Calgary Flames -1.5 (-130)",
+          "odds": "-130",
+          "confidence": "medium",
+          "rationale": "Calgary is a significant home favorite against a Utah Mammoth team severely hampered by multiple key injuries, including their starting goaltender Karel Vejmelka, defenseman John Marino, and forwards Jack McBain and Barrett Hayton. These absences create substantial weaknesses across Utah's lineup, particularly in net and defensively, which Calgary is well-positioned to exploit. Calgary's own injury list is less impactful, leaving their core strong enough to capitalize on Utah's depleted roster and home ice advantage. This pick expects Calgary to dominate the game, leveraging Utah's significant personnel issues to secure a decisive multi-goal victory and comfortably cover the -1.5 spread.",
+          "awayRecord": "42-31-6",
+          "homeRecord": "32-38-9",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
           ]
         }
       ]
@@ -131,44 +256,124 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Pittsburgh Pirates @ Cincinnati Reds",
-          "betType": "prop",
-          "pick": "Paul Skenes Over X Strikeouts",
-          "odds": "-115",
-          "confidence": "high",
-          "rationale": "Paul Skenes, pitching for the Pittsburgh Pirates, is described as having a 'triple-digit fastball' and 'dominates' opposing hitters. The research highlights his 'strikeout stuff,' suggesting a high K-rate potential against the Cincinnati Reds. While no specific line is available, his elite velocity and reputation make an over on his strikeout total a strong play. For this pick to hit, Skenes needs to maintain his dominant strikeout form and pitch deep enough into the game."
+          "game": "Houston Astros @ Seattle Mariners",
+          "betType": "spread",
+          "pick": "Seattle Mariners -1.5",
+          "odds": "+128",
+          "confidence": "medium",
+          "rationale": "The Seattle Mariners, despite a 7-9 record, are playing at home against a struggling Houston Astros team (6-10). While specific pitcher matchups for this game were not detailed in the research, the Mariners as a home favorite at positive odds present value. The Astros are also dealing with Jeremy Pena (Day-To-Day), a key offensive player whose potential absence could further hinder their performance. For this pick to hit, Seattle needs to secure a victory by at least two runs, leveraging their home-field advantage against a divisional rival that has underperformed early in the season.",
+          "awayRecord": "6-10",
+          "homeRecord": "7-9",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
         },
         {
-          "game": "Colorado Rockies @ Toronto Blue Jays",
+          "game": "Los Angeles Angels @ Cincinnati Reds",
           "betType": "prop",
-          "pick": "Kevin Gausman Over X Strikeouts",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "Kevin Gausman, the Toronto Blue Jays' 'splitter ace,' is in a favorable matchup against the Colorado Rockies. The research specifically notes that Gausman 'exploits Colorado's high strikeouts,' indicating a statistical advantage. Furthermore, the Rockies are traveling from Denver to Toronto, potentially facing altitude adjustment issues which can affect timing. This situational factor, combined with Gausman's strikeout prowess, creates a strong edge for him to exceed his strikeout total."
-        },
-        {
-          "game": "New York Mets @ St. Louis Cardinals",
-          "betType": "prop",
-          "pick": "Freddy Peralta Over X Strikeouts",
+          "pick": "J. Soriano Under 1.5 Earned Runs",
           "odds": "-125",
           "confidence": "high",
-          "rationale": "Freddy Peralta, pitching for the New York Mets, is known for his high strikeout ability, as highlighted by the research noting 'Peralta (strikeouts, ex-Brewer) dominates.' He is matched up against Matthew Liberatore, described as a 'reliever conversion,' which often implies a less potent offensive lineup behind him. Peralta's history of racking up strikeouts, combined with a potentially weaker opposing lineup, makes this an attractive over bet. For this pick to succeed, Peralta needs to deliver his typical high-K performance."
+          "rationale": "Angels pitcher J. Soriano has been exceptional this season, boasting a phenomenal 0.45 ERA and a 3-0 record. This indicates a dominant early-season form and a massive starter advantage against the Cincinnati Reds. The Reds have several players listed as Day-To-Day or Out, potentially weakening their offensive lineup further. Soriano's consistent ability to suppress runs makes him a prime candidate for an under prop. For this bet to cash, Soriano must allow one or fewer earned runs in his outing against the Reds.",
+          "awayRecord": "8-8",
+          "homeRecord": "9-7",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
         },
         {
-          "game": "Cleveland Guardians @ Los Angeles Angels",
+          "game": "Minnesota Twins @ Toronto Blue Jays",
           "betType": "prop",
-          "pick": "Yoshinobu Yamamoto Over X Strikeouts",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Yoshinobu Yamamoto, the Los Angeles Angels' 'NPB star,' is praised for his 'precision' on the mound. While specific strikeout numbers aren't detailed, his reputation as a top-tier pitcher from Japan suggests a high strikeout ceiling. The research indicates that the 'LAA favors Yamamoto' in this matchup against Gavin Williams and the Cleveland Guardians. This pick relies on Yamamoto's elite stuff translating to a strong strikeout performance in his start."
+          "pick": "T. Bradley Under 2.5 Earned Runs",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "Twins pitcher T. Bradley has been stellar through his starts this season, holding an elite 1.08 ERA and a 2-0 record. This performance highlights a significant pitching edge against the Toronto Blue Jays, who currently hold a 6-9 record. The Blue Jays are also managing a couple of Day-To-Day injuries, which could impact their offensive consistency. Bradley's demonstrated ability to limit opposing offenses makes this a strong 'under' play. For this pick to hit, Bradley needs to allow two or fewer earned runs in the game.",
+          "awayRecord": "9-7",
+          "homeRecord": "6-9",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
         },
         {
-          "game": "Texas Rangers @ Baltimore Orioles",
+          "game": "Boston Red Sox @ St. Louis Cardinals",
           "betType": "prop",
-          "pick": "Trevor Rogers Over X Earned Runs",
-          "odds": "+105",
+          "pick": "A. Pallante Under 2.5 Earned Runs",
+          "odds": "-120",
           "confidence": "medium",
-          "rationale": "Trevor Rogers, pitching for the Baltimore Orioles, is identified as a 'groundball pitcher' but with potential 'HR issues.' The research explicitly states that 'Texas power could exploit Rogers' HR issues,' suggesting a vulnerability to the Rangers' potent offense. Given Texas's ability to hit for power, Rogers is at risk of allowing multiple earned runs. For this prop to hit, the Texas Rangers' lineup needs to capitalize on Rogers' weaknesses and drive in runs."
+          "rationale": "Cardinals pitcher A. Pallante enters this game with a very strong 1.80 ERA, showcasing effective pitching early in the season. He faces a Boston Red Sox team that has Brendan Rodgers listed as Out, which could diminish their offensive production. This matchup provides a favorable scenario for Pallante to maintain his low-ERA performance against a potentially hobbled lineup. For this bet to succeed, Pallante must surrender two or fewer earned runs during his start.",
+          "awayRecord": "6-9",
+          "homeRecord": "8-7",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Pittsburgh Pirates @ Chicago Cubs",
+          "betType": "prop",
+          "pick": "G. Taylor Under 2.5 Earned Runs",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Pirates pitcher G. Taylor has posted an impressive 1.42 ERA, indicating strong control and effectiveness on the mound in his early appearances. He is part of a pitching duel against the Cubs' N. Cameron (1.69 ERA), suggesting a generally low-scoring affair. While the Cubs have some Day-To-Day injuries, Taylor's individual performance is the key factor in this prop. For this bet to hit, Taylor needs to allow two or fewer earned runs during his start against the Cubs.",
+          "awayRecord": "9-6",
+          "homeRecord": "7-8",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
         }
       ]
     }
