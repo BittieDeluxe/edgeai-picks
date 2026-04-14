@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-04-13",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Miami Heat @ Charlotte Hornets",
+            "betType": "spread",
+            "pick": "Charlotte Hornets -5.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Miami Heat @ Charlotte Hornets",
+            "betType": "total",
+            "pick": "Over 228.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Miami Heat @ Charlotte Hornets",
+            "betType": "moneyline",
+            "pick": "Miami Heat (+176)",
+            "odds": "+176",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Miami Heat @ Charlotte Hornets",
+            "betType": "moneyline",
+            "pick": "Charlotte Hornets (-210)",
+            "odds": "-210",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Miami Heat @ Charlotte Hornets",
+            "betType": "total",
+            "pick": "Under 228.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "New York Rangers @ Florida Panthers",
+            "betType": "spread",
+            "pick": "New York Rangers -1.5",
+            "odds": "+170",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Rangers 2, Florida Panthers 3"
+          },
+          {
+            "game": "Buffalo Sabres @ Chicago Blackhawks",
+            "betType": "spread",
+            "pick": "Buffalo Sabres -1.5",
+            "odds": "+124",
+            "confidence": "high",
+            "result": "W",
+            "score": "Buffalo Sabres 5, Chicago Blackhawks 1"
+          },
+          {
+            "game": "Los Angeles Kings @ Seattle Kraken",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Kings 5, Seattle Kraken 3"
+          },
+          {
+            "game": "Winnipeg Jets @ Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Vegas Golden Knights -1.5",
+            "odds": "+142",
+            "confidence": "high",
+            "result": "W",
+            "score": "Winnipeg Jets 2, Vegas Golden Knights 6"
+          },
+          {
+            "game": "Dallas Stars @ Toronto Maple Leafs",
+            "betType": "moneyline",
+            "pick": "Toronto Maple Leafs Moneyline",
+            "odds": "+154",
+            "confidence": "high",
+            "result": "?",
+            "score": "Dallas Stars 6, Toronto Maple Leafs 5"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Miami Marlins vs Atlanta Braves",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves (-146)",
+            "odds": "-146",
+            "confidence": "high",
+            "result": "L",
+            "score": "Miami Marlins 10, Atlanta Braves 4"
+          },
+          {
+            "game": "Cleveland Guardians vs St. Louis Cardinals",
+            "betType": "spread",
+            "pick": "Cleveland Guardians -1.5",
+            "odds": "+146",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Guardians 9, St. Louis Cardinals 3"
+          },
+          {
+            "game": "Washington Nationals vs Pittsburgh Pirates",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Nationals 5, Pittsburgh Pirates 16"
+          },
+          {
+            "game": "New York Mets vs Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "+115",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Mets 0, Los Angeles Dodgers 4"
+          },
+          {
+            "game": "Texas Rangers vs Athletics",
+            "betType": "moneyline",
+            "pick": "Athletics (+108)",
+            "odds": "+108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Texas Rangers 8, Athletics 1"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Paris Saint Germain vs. Liverpool",
+            "betType": "moneyline",
+            "pick": "Liverpool (+140)",
+            "odds": "+140",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Paris Saint Germain vs. Liverpool",
+            "betType": "total",
+            "pick": "Over 3.5 Goals",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Barcelona vs. Atlético Madrid",
+            "betType": "moneyline",
+            "pick": "Atlético Madrid (+275)",
+            "odds": "+275",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Barcelona vs. Atlético Madrid",
+            "betType": "total",
+            "pick": "Under 3.5 Goals",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Paris Saint Germain vs. Liverpool",
+            "betType": "prop",
+            "pick": "Mohamed Salah Anytime Goal Scorer",
+            "odds": "+180 (estimated)",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-12",
     "sports": [
       {
