@@ -258,42 +258,19 @@ INSTRUCTIONS:
 
 6. RATIONALE: 4–5 sentences per pick. Cite specific data from your search: injured players and their impact, recent form, h2h trend, line movement signal, and what needs to happen for the pick to hit.
 
-If ${sport} has no games today, return {"picks": []}.`;
+RESPONSE FORMAT: Respond with raw JSON only — no markdown, no code fences, no explanation. Structure:
+{"picks":[{"game":"Away Team vs Home Team","betType":"spread|total|moneyline|prop","pick":"...","odds":"...","confidence":"high|medium","rationale":"...","propPlayer":"(prop only)","propTeam":"(prop only)"}]}
 
-  const picksSchema = {
-    type: 'OBJECT',
-    properties: {
-      picks: {
-        type: 'ARRAY',
-        items: {
-          type: 'OBJECT',
-          properties: {
-            game:       { type: 'STRING' },
-            betType:    { type: 'STRING', enum: ['spread', 'total', 'moneyline', 'prop'] },
-            pick:       { type: 'STRING' },
-            odds:       { type: 'STRING' },
-            confidence: { type: 'STRING', enum: ['high', 'medium'] },
-            rationale:  { type: 'STRING' },
-            propPlayer: { type: 'STRING' },
-            propTeam:   { type: 'STRING' },
-          },
-          required: ['game', 'betType', 'pick', 'odds', 'confidence', 'rationale'],
-        },
-      },
-    },
-    required: ['picks'],
-  };
+If ${sport} has no games today, return {"picks": []}.`;
 
   const body = {
     system_instruction: {
-      parts: [{ text: `You are a sharp sports betting analyst with access to live web search. Use search to find current injuries, lineup news, recent form, h2h history, and line movement for today's ${sport} games. Use exact lines from the verified data provided — never estimate spreads, totals, or moneylines. Produce 5 high-confidence picks with 4–5 sentence rationales citing specific searched data. For any player prop: confirm via search that the player is active and on one of the two teams in the game — propTeam must match exactly. If search reports a player as OUT, injured, or questionable, do not pick that player under any circumstances.` }],
+      parts: [{ text: `You are a sharp sports betting analyst with access to live web search. Use search to find current injuries, lineup news, recent form, h2h history, and line movement for today's ${sport} games. Use exact lines from the verified data provided — never estimate spreads, totals, or moneylines. Produce 5 high-confidence picks with 4–5 sentence rationales citing specific searched data. For any player prop: confirm via search that the player is active and on one of the two teams in the game — propTeam must match exactly. If search reports a player as OUT, injured, or questionable, do not pick that player under any circumstances. Always respond with raw JSON only — no markdown, no code fences, no prose outside the JSON object.` }],
     },
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     tools: [{ googleSearch: {} }],
     generationConfig: {
       temperature: 0.4,
-      responseMimeType: 'application/json',
-      responseSchema: picksSchema,
     },
   };
 
@@ -305,8 +282,10 @@ If ${sport} has no games today, return {"picks": []}.`;
   }
 
   const json = await res.json();
-  const raw = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
+  const rawText = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
   const sources = json.candidates?.[0]?.groundingMetadata?.groundingChunks?.length ?? 0;
+  // Strip markdown code fences if Gemini wraps the JSON anyway
+  const raw = rawText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim();
   console.log(`  Search sources: ${sources} | Raw (first 300): ${raw.slice(0, 300)}`);
 
   try {
