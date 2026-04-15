@@ -80,7 +80,7 @@ async function fetchTeamLast5(sport, teamAbbrev) {
 }
 
 function matchPickToGame(pick, games) {
-  const raw = pick.game ?? '';
+  const raw = (pick.game ?? '').replace(/ vs\. /gi, ' vs ');
   const parts = raw.includes(' vs ') ? raw.split(' vs ') : raw.split(' @ ');
   if (parts.length !== 2) return null;
   const awayKey = parts[0].trim().toLowerCase().split(/\s+/).pop() ?? '';
@@ -378,7 +378,7 @@ If there are no strong plays tonight, return {"playerProps": []}. Fewer sharp pi
 
   const body = {
     system_instruction: {
-      parts: [{ text: 'You are a sharp NBA player props analyst. Only pick props with confirmed lines from DraftKings or FanDuel. Apply all filters: positional defense, pace, recent form, injury impact, and minimum 15-game sample size. Return only valid JSON.' }],
+      parts: [{ text: 'You are a sharp NBA player props analyst. Only pick props with confirmed lines from DraftKings or FanDuel. Apply all filters: positional defense, pace, recent form, injury impact, and minimum 15-game sample size. Return only valid JSON. CRITICAL: Never pick a player who is listed in the official injury report OR mentioned by Perplexity research as OUT, injured, questionable, or unlikely to play. This includes load management and late scratches. If there is any doubt about a player\'s availability, skip them entirely.' }],
     },
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     generationConfig: { temperature: 0.3 },
@@ -472,7 +472,7 @@ INSTRUCTIONS:
 
 1. USE EXACT LINES: For any spread, total, or moneyline pick, use only the exact odds from Source 2. Do not invent or estimate lines. If a game has no verified lines, skip it.
 
-CRITICAL — INJURY AUTHORITY: Source 2 contains the OFFICIAL ESPN injury report. This is the ground truth. A player is OUT only if listed as "Out" in Source 2. If Source 2 says "none listed — assume all players available" for a team, treat ALL players as available regardless of what Source 1 (Perplexity) says. Do NOT assume a player is out based on Perplexity alone — Perplexity can return stale or incorrect injury data. Never build a high-confidence pick around a player absence that isn't confirmed in Source 2.
+CRITICAL — INJURY AUTHORITY: Source 2 (ESPN official injury report) is authoritative for confirmed injuries. If a player is listed as "Out" in Source 2, they are definitely not playing. However, "none listed" in Source 2 does NOT mean all players are available — the ESPN report may not yet reflect late scratches or load management decisions. Always treat any player that Source 1 (Perplexity) reports as OUT, injured, doubtful, or questionable as a serious risk. For any player prop or pick built around a specific player being in the game, if EITHER source suggests they may be unavailable, skip that pick. When in doubt about a player's availability, do not pick them.
 
 2. PICK VARIETY: Your 5 picks must include a mix — do not pick all spreads. Include at least:
    - 1–2 spread picks
@@ -510,7 +510,7 @@ Return ONLY valid JSON, no markdown:
 
   const body = {
     system_instruction: {
-      parts: [{ text: 'You are a sharp sports betting analyst. You receive live research from Perplexity and verified lines from ESPN and The Odds API. Use exact lines from the verified data — never estimate spreads, totals, or moneylines. You may estimate odds for player props if no line is available. Produce 5 picks with varied bet types and 5–6 sentence rationales citing specific data. Return only valid JSON. CRITICAL: For player props, use ONLY the player-team assignments from the Perplexity research — never assume a player is on a team based on training data, as rosters change constantly via trades and free agency. If the research does not confirm a player is on a given team for today\'s game, do not pick that player.' }],
+      parts: [{ text: 'You are a sharp sports betting analyst. You receive live research from Perplexity and verified lines from ESPN and The Odds API. Use exact lines from the verified data — never estimate spreads, totals, or moneylines. You may estimate odds for player props if no line is available. Produce 5 picks with varied bet types and 5–6 sentence rationales citing specific data. Return only valid JSON. CRITICAL: For player props, use ONLY the player-team assignments from the Perplexity research — never assume a player is on a team based on training data, as rosters change constantly via trades and free agency. If the research does not confirm a player is on a given team for today\'s game, do not pick that player. CRITICAL: If Perplexity reports a player as OUT, injured, questionable, or not expected to play — do NOT pick that player for any prop, even if ESPN has not yet confirmed the injury. Late scratches and load management decisions often appear in Perplexity before ESPN updates.' }],
     },
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     generationConfig: { temperature: 0.4 },
@@ -660,8 +660,9 @@ function lastWord(s) {
 }
 
 function findMatchingEvent(gameName, events) {
-  // gameName: "Away Team vs Home Team" OR "Away Team @ Home Team" (Gemini sometimes outputs @)
-  const parts = gameName.includes(' vs ') ? gameName.split(' vs ') : gameName.split(' @ ');
+  // Normalize "vs." → "vs" (Gemini sometimes includes the period)
+  const normalized = gameName.replace(/ vs\. /gi, ' vs ');
+  const parts = normalized.includes(' vs ') ? normalized.split(' vs ') : normalized.split(' @ ');
   if (parts.length !== 2) return null;
   const awayKey = lastWord(parts[0].trim());
   const homeKey = lastWord(parts[1].trim());
@@ -868,6 +869,7 @@ async function main() {
     // - any pick still has '?' AND the entry is recent (within 3 days, so games are now finished)
     const hasAnyUngraded = existingEntry
       ? existingEntry.sports.some(s => s.picks.some(p => p.result === '?'))
+        || (existingEntry.playerProps ?? []).some(p => p.result === '?')
       : false;
     const isRecent = existingEntry
       ? (new Date(dateStr) - new Date(existingEntry.date)) / 86400000 <= 3
@@ -897,7 +899,7 @@ async function main() {
   // Also skip entries whose only '?' picks are known-unsupported prop stats
   // (e.g. "Total Bases") — those will never resolve and would re-grade forever.
   function hasGradablePendingPicks(entry) {
-    return entry.sports.some(s => {
+    const gamePicksGradable = entry.sports.some(s => {
       if (!ESPN_MAP[s.sport]) return false; // UFC / non-ESPN sport — always '?'
       return s.picks.some(p => {
         if (p.result !== '?') return false;
@@ -909,6 +911,13 @@ async function main() {
         return true; // spread / total / moneyline — always worth re-grading
       });
     });
+    // Also check playerProps for ungraded supported stats
+    const propPicksGradable = (entry.playerProps ?? []).some(p => {
+      if (p.result !== '?') return false;
+      const m = (p.pick ?? '').trim().match(/^.+?\s+(?:Over|Under)\s+[\d.]+\s+(.+)$/i);
+      return m ? !!PROP_STAT_KEYS[m[1].toLowerCase().trim()] : false;
+    });
+    return gamePicksGradable || propPicksGradable;
   }
 
   const recentUngraded = archive.filter(e => {
