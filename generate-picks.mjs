@@ -48,9 +48,17 @@ const ODDS_SPORT_KEY = {
 
 const MAX_SPORTS = 8;
 
-function getInSeasonSports(month) {
+// Sports that only run on Saturday (day 6) — UFC events are almost always Saturday cards
+const SATURDAY_ONLY = new Set(['UFC']);
+
+function getInSeasonSports(month, dateStr) {
+  const dayOfWeek = new Date(dateStr + 'T12:00:00Z').getUTCDay(); // 0=Sun, 6=Sat
   return Object.entries(SEASON_MONTHS)
-    .filter(([, months]) => months.includes(month))
+    .filter(([sport, months]) => {
+      if (!months.includes(month)) return false;
+      if (SATURDAY_ONLY.has(sport) && dayOfWeek !== 6) return false;
+      return true;
+    })
     .map(([sport]) => sport)
     .slice(0, MAX_SPORTS);
 }
@@ -667,7 +675,7 @@ async function main() {
   }
 
   // ─── Generate today's picks ─────────────────────────────────────────────
-  const inSeasonSports = getInSeasonSports(month);
+  const inSeasonSports = getInSeasonSports(month, dateStr);
   console.log(`Date: ${dateStr}, In-season sports:`, inSeasonSports);
 
   const sports = [];
