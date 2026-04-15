@@ -1,59 +1,65 @@
 {
   "date": "2026-04-14",
-  "generatedAt": "2026-04-14T16:01:43.760Z",
+  "generatedAt": "2026-04-15T02:39:52.191Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Portland Trail Blazers vs Phoenix Suns",
+          "game": "Portland Trail Blazers @ Phoenix Suns",
           "betType": "spread",
-          "pick": "Phoenix Suns -3.5",
-          "odds": "+100",
+          "pick": "Phoenix Suns -7.5",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "The Portland Trail Blazers are severely hobbled, with star players Damian Lillard and Jerami Grant officially ruled out. These absences cripple Portland's offensive capabilities and overall competitiveness, leaving a significant talent gap. The Phoenix Suns, playing at home as the 7th seed, are a 45-37 team facing a 42-40 Blazers squad missing its two best players. A -3.5 spread with even money (+100) offers excellent value for a Suns team motivated in a crucial play-in game. For this pick to hit, the Suns need to win by at least four points, which is highly probable given Portland's depleted roster.",
+          "rationale": "The Phoenix Suns are a strong play-in contender, boasting a 45-37 record and a +1.5 net rating. Their opponent, the Portland Trail Blazers, are severely handicapped by the confirmed absence of star point guard Damian Lillard, a monumental loss to their offense and playmaking. Furthermore, Blazers' key forward Jerami Grant is questionable with a calf strain, which would further deplete their scoring and defensive capabilities. The Suns, despite Grayson Allen being out, have ample depth and an elite defense (6th in the league), making them well-positioned to dominate a struggling Blazers squad at home. For this pick to hit, the Suns need to leverage their superior talent and defensive prowess to win by at least eight points.",
           "awayRecord": "42-40",
           "homeRecord": "45-37"
         },
         {
-          "game": "Miami Heat vs Charlotte Hornets",
-          "betType": "moneyline",
-          "pick": "Miami Heat (+194)",
-          "odds": "+194",
-          "confidence": "medium",
-          "rationale": "Despite being the 10th seed and playing on the road, the Miami Heat present significant value at +194 against the Charlotte Hornets. While Miami is without Dru Smith and Nikola Jovic, their core roster is known for performing in high-stakes elimination games. The Hornets (44-38) only marginally outperformed the Heat (43-39) in the regular season, suggesting a closer matchup than the spread indicates. Miami's playoff experience and coaching in these winner-take-all scenarios often translate to gritty performances. For this pick to cash, the Heat must secure an outright victory on the road.",
-          "awayRecord": "43-39",
-          "homeRecord": "44-38"
-        },
-        {
-          "game": "Portland Trail Blazers vs Phoenix Suns",
+          "game": "Portland Trail Blazers @ Phoenix Suns",
           "betType": "total",
-          "pick": "Under 216.5",
-          "odds": "-105",
+          "pick": "Under 218.5",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "The total of 216.5 points for the Blazers-Suns game is set too high given the significant injuries to Portland's key offensive players. With Damian Lillard and Jerami Grant officially out, the Trail Blazers will struggle immensely to generate consistent scoring. While the Suns will likely contribute their share, Portland's inability to keep pace will naturally depress the overall game total. This play-in matchup is expected to feature a strong Suns offense against a severely limited Blazers attack. For the Under to hit, the combined score must be 216 points or less.",
+          "rationale": "The total of 218.5 points for the Trail Blazers vs. Suns game presents a strong 'Under' opportunity, primarily due to Portland's significant offensive limitations. With Damian Lillard officially out for the season, the Blazers are expected to lose 25-30 points of offensive production, severely hindering their ability to score. The Phoenix Suns, known for their strong defense (6th in the league, allowing 111.1 PPG), will capitalize on Portland's weakened attack. In a high-stakes play-in tournament game, both teams are likely to play with increased defensive intensity, further suppressing scoring. For the Under to hit, the combined score must be 218 points or less, which is highly probable given Portland's offensive struggles and Phoenix's defensive strength.",
           "awayRecord": "42-40",
           "homeRecord": "45-37"
         },
         {
-          "game": "Miami Heat vs Charlotte Hornets",
-          "betType": "total",
-          "pick": "Over 229.5",
-          "odds": "-114",
-          "confidence": "medium",
-          "rationale": "This play-in elimination game between the Miami Heat and Charlotte Hornets is poised for a higher-scoring affair, making the Over 229.5 an attractive pick. Both teams, with records of 43-39 and 44-38 respectively, are evenly matched and will be highly motivated to push the pace in a winner-take-all scenario. While Miami has Dru Smith and Nikola Jovic out, their primary offensive weapons remain available and will be aggressive. The Hornets, playing at home, will also look to exploit any defensive lapses, leading to increased scoring opportunities. For this pick to hit, the combined score must exceed 229 points.",
-          "awayRecord": "43-39",
-          "homeRecord": "44-38"
-        },
-        {
-          "game": "Portland Trail Blazers vs Phoenix Suns",
+          "game": "Miami Heat @ Charlotte Hornets",
           "betType": "prop",
-          "pick": "Kevin Durant Over 28.5 Points",
-          "odds": "-115 (estimated)",
-          "confidence": "high",
-          "rationale": "With Damian Lillard and Jerami Grant officially sidelined for the Portland Trail Blazers, Phoenix Suns' star Kevin Durant faces a significantly weaker defensive matchup. Durant is the undisputed primary scoring option for the Suns, especially in this crucial home play-in game. He will undoubtedly shoulder a heavy offensive load against a severely depleted Blazers roster, leading to an abundance of scoring opportunities. Given the favorable circumstances, Durant is poised for a high-volume scoring night. For this pick to hit, Kevin Durant must score 29 points or more against the Trail Blazers.",
+          "pick": "Brandon Miller Over 18.5 Points",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "Brandon Miller is poised for a strong scoring performance against a significantly depleted Miami Heat squad. The Heat are officially without Nikola Jovic, weakening their perimeter defense, and critically, Bam Adebayo is also confirmed out by ESPN, severely compromising their interior defense and rebounding. Miller has been a consistent offensive force for the Hornets, averaging 18.6 points over his last 20 games, and is a primary scoring option. With the Hornets playing at home and near full strength, Miller will have numerous opportunities to attack a compromised Miami defense. For this prop to hit, Miller needs to score 19 or more points, which is highly achievable given the Heat's key absences.",
+          "propPlayer": "Brandon Miller",
+          "propTeam": "Charlotte Hornets",
+          "awayRecord": "43-39",
+          "homeRecord": "44-38"
+        },
+        {
+          "game": "Portland Trail Blazers @ Phoenix Suns",
+          "betType": "prop",
+          "pick": "Devin Booker Over 27.5 Points",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Devin Booker is in an excellent position to exceed his points prop against the Portland Trail Blazers. With Suns' wing Grayson Allen officially out, Booker's offensive responsibilities and usage are expected to increase. Booker is already a prolific scorer, averaging 26.8 points over his last 20 games, and will be facing a Blazers team that is without their star defender and primary offensive threat, Damian Lillard. In a crucial play-in game at home, Booker will be aggressive in seeking out scoring opportunities to lead his team to victory. For this pick to hit, Booker needs to score 28 or more points, a mark he frequently reaches when leading the Suns' offense.",
+          "propPlayer": "Devin Booker",
+          "propTeam": "Phoenix Suns",
           "awayRecord": "42-40",
           "homeRecord": "45-37"
+        },
+        {
+          "game": "Miami Heat @ Charlotte Hornets",
+          "betType": "prop",
+          "pick": "LaMelo Ball Over 8.5 Assists",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "LaMelo Ball is set to have a productive night distributing the ball against a Miami Heat team missing key defensive players. The Heat's defense will be severely compromised by the confirmed absences of Bam Adebayo and Nikola Jovic, impacting their ability to rotate and protect the paint. Ball, as the Hornets' primary playmaker, excels at finding open teammates and pushing the pace, especially with scoring threats like Brandon Miller and Miles Bridges. Playing at home in a high-stakes game, Ball will be looking to create opportunities for his teammates against a weakened Heat defense. For this prop to hit, Ball needs to record 9 or more assists, which is well within his capabilities as a top-tier facilitator.",
+          "propPlayer": "LaMelo Ball",
+          "propTeam": "Charlotte Hornets",
+          "awayRecord": "43-39",
+          "homeRecord": "44-38"
         }
       ]
     },
@@ -61,92 +67,12 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Anaheim Ducks vs Minnesota Wild",
-          "betType": "spread",
-          "pick": "Anaheim Ducks -1.5",
-          "odds": "+185",
-          "confidence": "high",
-          "rationale": "The Minnesota Wild are facing an extensive list of Day-To-Day injuries to key offensive players such as Kirill Kaprizov, Matt Boldy, and Joel Eriksson Ek, with Charlie Stramel also out. The Anaheim Ducks, conversely, are fully healthy according to the verified lines, presenting a significant personnel advantage. Despite the Wild's slightly better overall record (45-24-12 vs 42-32-6), their severely depleted lineup will struggle to compete at full strength. Anaheim should capitalize on this injury disparity and their healthy roster to secure a multi-goal victory against a compromised Minnesota squad. For this pick to hit, the Ducks need to win by two or more goals.",
-          "awayRecord": "42-32-6",
-          "homeRecord": "45-24-12",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Columbus Blue Jackets vs Washington Capitals",
-          "betType": "spread",
-          "pick": "Columbus Blue Jackets -1.5",
-          "odds": "+170",
-          "confidence": "medium",
-          "rationale": "The Columbus Blue Jackets enter this game fully healthy, with no players listed on the official injury report. Conversely, the Washington Capitals are dealing with significant uncertainty, as starting goaltender Charlie Lindgren and defenseman Rasmus Sandin are both listed as Day-To-Day. The Blue Jackets (40-29-12) hold a slight edge in points percentage over the Capitals (42-30-9), especially with Washington's potential absences. Playing at home with a complete roster against a potentially weakened Capitals team provides a clear advantage for Columbus to dominate. For this pick to hit, the Blue Jackets must secure a victory by at least two goals."
-        },
-        {
-          "game": "Montreal Canadiens vs Philadelphia Flyers",
-          "betType": "spread",
-          "pick": "Montreal Canadiens -1.5",
-          "odds": "+130",
-          "confidence": "high",
-          "rationale": "The Montreal Canadiens boast a significantly superior record of 48-23-10 compared to the Philadelphia Flyers' 42-27-12. While Montreal is missing defenseman Noah Dobson (Out), Philadelphia is also without Nikita Grebenkin (Out), somewhat neutralizing the injury impact. The Canadiens have demonstrated consistent performance throughout the season, indicating their ability to dominate weaker opponents. Against a Flyers team that has struggled to maintain a winning pace, Montreal's offensive depth and overall team strength should allow them to secure a comfortable multi-goal victory. This pick requires the Canadiens to win by two or more goals.",
-          "awayRecord": "48-23-10",
-          "homeRecord": "42-27-12",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Anaheim Ducks vs Minnesota Wild",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "+105",
-          "confidence": "high",
-          "rationale": "The Minnesota Wild are facing an extensive list of Day-To-Day injuries to key offensive players such as Kirill Kaprizov, Matt Boldy, Mats Zuccarello, and Joel Eriksson Ek, with Charlie Stramel also out. This severely hampers their scoring potential and overall offensive output, making it difficult for them to contribute significantly to the total. While the Ducks are healthy, their offense (42-32-6 record) isn't typically high-flying, and they may not carry the scoring load alone. With Minnesota's likely struggle to generate goals due to their depleted lineup, a lower-scoring affair is anticipated. For this pick to hit, the combined score of the game must be 6 goals or fewer.",
-          "awayRecord": "42-32-6",
-          "homeRecord": "45-24-12",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Pittsburgh Penguins vs St. Louis Blues",
+          "game": "Pittsburgh Penguins @ St. Louis Blues",
           "betType": "moneyline",
-          "pick": "Pittsburgh Penguins (+120)",
-          "odds": "+120",
-          "confidence": "medium",
-          "rationale": "Despite the Pittsburgh Penguins having two players (Connor Dewar, Peyton Kettles) listed as 'Out' and several others Day-To-Day, their overall season record of 41-24-16 is considerably stronger than the St. Louis Blues' 35-33-12. The Blues, while fully healthy, are a sub-.500 team and have not shown the consistent performance of the Penguins. Pittsburgh's veteran core, even with some absences, often finds ways to win against lesser opponents, especially when offered positive odds. The +120 odds offer excellent value for a team with a significantly better winning percentage. For this pick to hit, the Pittsburgh Penguins must win the game outright.",
+          "pick": "St. Louis Blues (+195)",
+          "odds": "+195",
+          "confidence": "high",
+          "rationale": "The Pittsburgh Penguins are severely depleted, with ESPN reporting their entire core including Sidney Crosby, Evgeni Malkin, Kris Letang, Erik Karlsson, Bryan Rust, and Rickard Rakell all out for this game. This leaves them with a lineup of primarily depth players and call-ups. In stark contrast, the St. Louis Blues have no official injuries listed, indicating a full-strength roster. Despite Pittsburgh's decimated lineup, they are still listed as favorites on the spread, making the Blues' moneyline at +195 an incredible value play. With Pittsburgh missing virtually all their offensive firepower and defensive anchors, St. Louis should comfortably control this game. For this pick to hit, the Blues simply need to secure a victory against a severely handicapped Penguins squad.",
           "awayRecord": "41-24-16",
           "homeRecord": "35-33-12",
           "awayLast5": [
@@ -163,6 +89,102 @@
             "W",
             "W"
           ]
+        },
+        {
+          "game": "Anaheim Ducks @ Minnesota Wild",
+          "betType": "spread",
+          "pick": "Anaheim Ducks +2.5 (+105)",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "The Minnesota Wild are facing an unprecedented injury crisis, with ESPN listing a staggering eleven key players out, including top forwards Kirill Kaprizov, Mats Zuccarello, Joel Eriksson Ek, Matt Boldy, and Ryan Hartman, alongside several defensemen. This leaves their offensive capabilities severely hampered, despite their overall better record (45-24-12) compared to the Ducks (42-32-6). While Anaheim is also missing Radko Gudas and Chris Kreider, their absences are less impactful than the Wild's complete decimation of their top lines. The Ducks, even as underdogs, should be able to keep this game within two goals against a Wild team struggling to generate offense. For this pick to hit, the Ducks need to either win outright or lose by no more than two goals.",
+          "awayRecord": "42-32-6",
+          "homeRecord": "45-24-12",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Colorado Avalanche @ Calgary Flames",
+          "betType": "moneyline",
+          "pick": "Calgary Flames (+114)",
+          "odds": "+114",
+          "confidence": "medium",
+          "rationale": "The Colorado Avalanche, despite their impressive 53-16-11 record, are significantly hobbled by injuries, with ESPN confirming Josh Manson, Devon Toews, Brock Nelson, and Nazem Kadri are all out. Kadri and Manson were also noted as day-to-day or having missed recent games in Perplexity's research, reinforcing their likely absence. These are critical losses, especially on defense with Manson and Toews, and a key center in Kadri. The Calgary Flames, while having a weaker record (33-38-9), are missing only depth players and will be playing at home with a relatively healthy roster. Given Colorado's substantial injuries to core players, the Flames present strong value as a home underdog. For this pick to cash, Calgary needs to secure an outright victory against an Avalanche team missing significant talent.",
+          "awayRecord": "53-16-11",
+          "homeRecord": "33-38-9",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Pittsburgh Penguins @ St. Louis Blues",
+          "betType": "total",
+          "pick": "Under 8.5 (+110)",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "This total of 8.5 seems exceptionally high, likely inflated by the Penguins' extensive injury list which includes nearly all their star offensive players like Crosby, Malkin, Rust, and Rakell. While the absence of these players might suggest defensive breakdowns, it also means a severe lack of offensive firepower for Pittsburgh. The St. Louis Blues, playing with a full roster, will likely face a Penguins team struggling to generate any meaningful offense, which should keep Pittsburgh's goal count low. Even if St. Louis scores a few goals, it's difficult to envision Pittsburgh contributing enough to push the total to nine or more. For this pick to hit, the combined score of both teams must be eight goals or less.",
+          "awayRecord": "41-24-16",
+          "homeRecord": "35-33-12",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Kings @ Vancouver Canucks",
+          "betType": "spread",
+          "pick": "Los Angeles Kings -1.5 (+175)",
+          "odds": "+175",
+          "confidence": "medium",
+          "rationale": "The Los Angeles Kings (35-26-19) are facing a struggling Vancouver Canucks team (24-48-8) that has been eliminated from playoff contention. The Canucks are also missing a key forward in Evander Kane, as confirmed by ESPN, which further weakens their offensive capabilities. The Kings, while missing some depth players, are largely intact and have a significantly better record, indicating superior overall team quality. With Vancouver likely playing out the string and missing a key scorer, the Kings have a strong opportunity to win by multiple goals. The positive odds of +175 for the Kings to cover the -1.5 spread offer excellent value. For this pick to succeed, the Kings must win the game by two or more goals.",
+          "awayRecord": "35-26-19",
+          "homeRecord": "24-48-8",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
         }
       ]
     },
@@ -170,108 +192,36 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "New York Mets vs Los Angeles Dodgers",
-          "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "+100",
+          "game": "San Francisco Giants @ Cincinnati Reds",
+          "betType": "moneyline",
+          "pick": "Cincinnati Reds (-108)",
+          "odds": "-108",
           "confidence": "high",
-          "rationale": "The Los Angeles Dodgers (12-4) are a dominant force early in the season, especially at home, while the New York Mets (7-10) are struggling on a losing streak, as highlighted by the research. Crucially, the Mets are significantly hampered by multiple 'Out' players including Mike Tauchman, Robert Stock, and Grae Kessinger, according to verified injury reports. In contrast, the Dodgers have no listed injuries, ensuring their full strength. The stable moneyline for the Dodgers and the favorable +100 odds for the -1.5 spread indicate confidence in their ability to win convincingly. For this pick to hit, the Dodgers must defeat the Mets by a margin of two runs or more.",
-          "awayRecord": "7-10",
-          "homeRecord": "12-4",
+          "rationale": "Perplexity research highlights a significant pitching mismatch, with the Reds' LHP boasting a strong 2.08 ERA against the Giants' RHP with a struggling 7.71 ERA. The Reds also hold a superior 10-7 record compared to the Giants' 6-11, indicating better overall team form. Despite this clear advantage, the moneyline is a pick'em at -108 for both teams, offering excellent value on Cincinnati. The Giants also have Harrison Bader listed as Day-To-Day, potentially impacting their lineup. For this pick to hit, the Reds' strong starter needs to dominate, and their offense must capitalize on the Giants' struggling pitcher.",
+          "awayRecord": "6-11",
+          "homeRecord": "10-7",
           "awayLast5": [
-            "L",
-            "L",
+            "W",
+            "W",
             "L",
             "L",
             "L"
           ],
           "homeLast5": [
             "L",
-            "W",
+            "L",
             "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "Arizona Diamondbacks vs Baltimore Orioles",
-          "betType": "spread",
-          "pick": "Baltimore Orioles -1.5",
-          "odds": "+126",
+          "game": "Toronto Blue Jays @ Milwaukee Brewers",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers (+106)",
+          "odds": "+106",
           "confidence": "high",
-          "rationale": "The Baltimore Orioles (9-7) are playing at home against the Arizona Diamondbacks (9-8), who are facing a significant challenge with catcher Gabriel Moreno officially 'Out.' Moreno's absence is a major blow to Arizona's lineup and defensive capabilities. The Orioles, on the other hand, boast a clean bill of health with no 'Out' players, giving them a clear advantage in roster strength. Baltimore's slightly better record and home-field advantage further bolster their position against a weakened Diamondbacks squad. The positive odds of +126 for the -1.5 spread offer excellent value, requiring the Orioles to win by at least two runs.",
-          "awayRecord": "9-8",
-          "homeRecord": "9-7",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Los Angeles Angels vs New York Yankees",
-          "betType": "prop",
-          "pick": "Mike Trout Over 1.5 Total Bases",
-          "odds": "-115 (estimated)",
-          "confidence": "medium",
-          "rationale": "Mike Trout of the Los Angeles Angels is coming off an exceptional performance, having hit two home runs on April 13th, as noted in the Perplexity research. This indicates he is currently in peak form and carrying significant momentum into today's game against the New York Yankees. The verified injury report confirms that the Angels have no listed injuries, ensuring Trout is fully healthy and available. A hot hitter like Trout often continues to produce, and his recent power surge makes an 'Over' bet on his total bases a strong play. For this pick to hit, Trout needs to record at least two bases, for example, by hitting a double, two singles, or another home run.",
-          "awayRecord": "8-9",
-          "homeRecord": "9-7",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Washington Nationals vs Pittsburgh Pirates",
-          "betType": "spread",
-          "pick": "Pittsburgh Pirates -1.5",
-          "odds": "+114",
-          "confidence": "medium",
-          "rationale": "The Pittsburgh Pirates (10-6) are enjoying a strong start to the season and are playing at home against the Washington Nationals (7-9). The Nationals are significantly impacted by confirmed pitching injuries, with Joan Adon and Tyler Stuart both listed as 'Out,' which will strain their bullpen and rotation depth. Conversely, the Pirates have no 'Out' players, maintaining their full roster strength for this matchup. Pittsburgh's superior record and healthy roster create a clear matchup advantage against a Nationals team dealing with key absences. The positive odds of +114 for the -1.5 spread offer good value, expecting the Pirates to secure a multi-run victory.",
-          "awayRecord": "7-9",
-          "homeRecord": "10-6",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Toronto Blue Jays vs Milwaukee Brewers",
-          "betType": "total",
-          "pick": "Under 7",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "This interleague matchup between the Toronto Blue Jays (6-9) and Milwaukee Brewers (8-7) features a notably low total of 7 runs, with the Under priced at -105. This suggests oddsmakers anticipate a low-scoring affair, likely due to strong pitching or struggling offenses early in the season. While both teams have minor 'Out' players (Chay Yeager for TOR, Gerson Garabito for MIL), these are not high-impact offensive absences. Given that neither team has shown an explosive offensive trend in their early records, and with no specific situational factors pointing to a high-scoring game, the Under appears to be a solid play. For this pick to hit, the combined final score of the game must be 6 runs or less.",
+          "rationale": "Perplexity research indicates the Brewers' probable LHP has a perfect 0.00 ERA, suggesting an outstanding performance or a recent debut which provides a strong pitching advantage. This contrasts with the Blue Jays' 6-9 record, while the Brewers hold a respectable 8-7, indicating better early-season form. Getting the Brewers at home with positive odds (+106) against a team with a worse record, especially with a pitcher showing such early dominance, presents a strong value play. For this pick to be successful, the Brewers' starter must maintain his impressive form, and their offense needs to provide sufficient run support.",
           "awayRecord": "6-9",
           "homeRecord": "8-7",
           "awayLast5": [
@@ -288,51 +238,78 @@
             "L",
             "L"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "UCL",
-      "picks": [
-        {
-          "game": "Barcelona vs Atlético Madrid",
-          "betType": "moneyline",
-          "pick": "Atlético Madrid +285",
-          "odds": "+285",
-          "confidence": "medium",
-          "rationale": "Atlético Madrid enters this second leg with a commanding 2-0 aggregate lead from the first leg, giving them a significant advantage. Playing at home, Atlético is renowned for its defensive solidity and ability to close out games when leading. Barcelona will be forced to push forward aggressively, potentially leaving them vulnerable to Atlético's counter-attacking prowess. The market has Atlético as a significant underdog at +285, which presents value given their strong defensive posture and the game state. For this pick to hit, Atlético Madrid simply needs to win the second leg in regular time."
         },
         {
-          "game": "Barcelona vs Atlético Madrid",
+          "game": "Tampa Bay Rays @ Chicago White Sox",
+          "betType": "spread",
+          "pick": "Tampa Bay Rays -1.5 (+146)",
+          "odds": "+146",
+          "confidence": "medium",
+          "rationale": "The Tampa Bay Rays (9-7) have a notably better record than the Chicago White Sox (6-11), yet the moneyline is surprisingly close, suggesting an undervalued Rays team. The White Sox also have Tim Elko listed as 'Out' in the official injury report, which could impact their offensive depth and overall production. Taking the Rays on the run line at +146 offers excellent positive odds for a team that has demonstrated superior performance this season. For this pick to hit, the Rays need to secure a victory by at least two runs, leveraging their stronger overall roster and the White Sox's injury.",
+          "awayRecord": "9-7",
+          "homeRecord": "6-11",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Kansas City Royals @ Detroit Tigers",
           "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-115",
+          "pick": "Over 8 (-105)",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "With Atlético Madrid holding a comfortable 2-0 aggregate lead, their primary objective will be to defend and prevent Barcelona from scoring. Atlético's defensive structure is notoriously difficult to break down, especially when they are protecting a lead. While Barcelona will press for goals, scoring three or more against a disciplined Atlético side is a tall order. The game state favors a more cautious approach from Atlético, leading to fewer overall goals. For this pick to cash, the total number of goals scored in the match must be three or fewer."
+          "rationale": "Perplexity research, while generic for a Royals game, indicates two left-handed starters with high ERAs: a Royals LHP at 5.91 ERA and another LHP at 4.76 ERA for the opposing team. These figures suggest both pitchers have been susceptible to giving up runs early in the season, creating a favorable environment for offense. With both teams potentially facing struggling pitchers on the mound, there's a strong likelihood of a higher-scoring game. The total set at 8 runs at -105 for the Over provides reasonable value given the pitching matchup. For this pick to hit, both offenses need to exploit the opposing struggling left-handers, pushing the combined score past eight runs.",
+          "awayRecord": "7-10",
+          "homeRecord": "8-9",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
         },
         {
-          "game": "Paris Saint-Germain vs Liverpool",
-          "betType": "moneyline",
-          "pick": "Paris Saint-Germain +165",
-          "odds": "+165",
-          "confidence": "medium",
-          "rationale": "Paris Saint-Germain arrives in Liverpool with a strong 2-0 aggregate lead, putting them in a favorable position to advance. PSG has demonstrated significant dominance in earlier Champions League rounds, including an 8-2 aggregate victory against Chelsea, showcasing their offensive power and ability to control matches. While Liverpool will be pushing hard at home, PSG possesses the quality to absorb pressure and exploit counter-attacking opportunities. The +165 odds offer excellent value for a team that is leading on aggregate and has proven its mettle in this competition. For this pick to succeed, Paris Saint-Germain must win the second leg in regular time."
-        },
-        {
-          "game": "Paris Saint-Germain vs Liverpool",
+          "game": "Colorado Rockies @ Houston Astros",
           "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+100",
+          "pick": "Under 12.5 (+120)",
+          "odds": "+120",
           "confidence": "medium",
-          "rationale": "Liverpool finds themselves in a must-score situation, trailing 2-0 on aggregate and playing at home, which will necessitate an aggressive attacking approach. This urgency will likely open up the game, creating opportunities for both sides. Paris Saint-Germain, despite their lead, possesses immense offensive talent and will look to exploit any defensive gaps left by Liverpool's push. With both teams featuring potent attacks and Liverpool needing multiple goals, the conditions are ripe for a high-scoring affair. For this pick to hit, a total of four or more goals must be scored in the match."
-        },
-        {
-          "game": "Barcelona vs Atlético Madrid",
-          "betType": "moneyline",
-          "pick": "Barcelona -125",
-          "odds": "-125",
-          "confidence": "medium",
-          "rationale": "Barcelona faces a challenging task, trailing Atlético Madrid 2-0 on aggregate, meaning they must win this second leg to have any hope of progressing. Despite being the away team and facing a defensive stronghold, the market still favors Barcelona to win this specific match at -125. This indicates confidence in their ability to dictate play and create scoring chances, even against a defensively minded opponent. Barcelona's offensive quality will be on full display as they relentlessly pursue goals. For this pick to be successful, Barcelona simply needs to secure a victory in regular time, regardless of the final aggregate score."
+          "rationale": "The total for this game is exceptionally high at 12.5, indicating expectations for a significant offensive output from both sides. While both the Rockies (6-10) and Astros (6-11) have struggled this season, a total of 12.5 is often inflated, especially given the early season context where offenses are still finding their rhythm. Betting the Under at positive odds (+120) offers considerable value, as it only requires a slightly below-average offensive performance from one or both teams to hit. For this pick to succeed, at least one pitching staff needs to hold its ground, or the offenses must fail to live up to the high scoring expectations implied by the line.",
+          "awayRecord": "6-10",
+          "homeRecord": "6-11",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
         }
       ]
     }
