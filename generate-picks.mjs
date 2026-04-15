@@ -237,7 +237,7 @@ Search the web for today's ${sport} games, including:
 - Line movement (opening line vs current — where is sharp money going?)
 - Situational factors (back-to-backs, rest days, travel, playoff implications, revenge games)
 
-Then generate the top 3 high-confidence ${sport} picks for today using the verified lines below.
+Then generate the top 5 high-confidence ${sport} picks for today using the verified lines below.
 
 --- VERIFIED LINES (ESPN + The Odds API) ---
 ${structuredContext}
@@ -250,9 +250,9 @@ INSTRUCTIONS:
 
 2. INJURY AUTHORITY: Your web search is the source of truth for injuries. If a player is reported as OUT, injured, questionable, or on load management — do not build any pick around that player being active. Late scratches appear in news before official reports.
 
-3. PICK VARIETY: Mix bet types across your 3 picks — do not pick all spreads or all totals.
+3. PICK VARIETY: Mix bet types across your 5 picks — do not pick all spreads or all totals.
 
-4. QUALITY OVER QUANTITY: 3 sharp picks beat 5 mediocre ones. Only pick games where your research reveals a genuine edge. Skip a game if there is no real edge.
+4. QUALITY OVER QUANTITY: Only pick games where your research reveals a genuine edge. Skip a game if there is no real edge.
 
 5. PLAYER PROPS: If you include a player prop, you MUST confirm via search that the player is active and on the team playing in that game today. The propTeam field must match one of the two teams in the game field exactly.
 
@@ -286,7 +286,7 @@ If ${sport} has no games today, return {"picks": []}.`;
 
   const body = {
     system_instruction: {
-      parts: [{ text: `You are a sharp sports betting analyst with access to live web search. Use search to find current injuries, lineup news, recent form, h2h history, and line movement for today's ${sport} games. Use exact lines from the verified data provided — never estimate spreads, totals, or moneylines. Produce 3 high-confidence picks with 4–5 sentence rationales citing specific searched data. For any player prop: confirm via search that the player is active and on one of the two teams in the game — propTeam must match exactly. If search reports a player as OUT, injured, or questionable, do not pick that player under any circumstances.` }],
+      parts: [{ text: `You are a sharp sports betting analyst with access to live web search. Use search to find current injuries, lineup news, recent form, h2h history, and line movement for today's ${sport} games. Use exact lines from the verified data provided — never estimate spreads, totals, or moneylines. Produce 5 high-confidence picks with 4–5 sentence rationales citing specific searched data. For any player prop: confirm via search that the player is active and on one of the two teams in the game — propTeam must match exactly. If search reports a player as OUT, injured, or questionable, do not pick that player under any circumstances.` }],
     },
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     tools: [{ googleSearch: {} }],
