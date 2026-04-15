@@ -376,12 +376,41 @@ Return ONLY valid JSON, no markdown:
 
 If there are no strong plays tonight, return {"playerProps": []}. Fewer sharp picks beat more mediocre ones.`;
 
+  const propsSchema = {
+    type: 'OBJECT',
+    properties: {
+      playerProps: {
+        type: 'ARRAY',
+        items: {
+          type: 'OBJECT',
+          properties: {
+            player:     { type: 'STRING' },
+            team:       { type: 'STRING' },
+            game:       { type: 'STRING' },
+            propType:   { type: 'STRING', enum: ['points', 'rebounds', 'assists', 'steals', 'blocks', 'threes'] },
+            pick:       { type: 'STRING' },
+            odds:       { type: 'STRING' },
+            confidence: { type: 'STRING', enum: ['high', 'medium'] },
+            rationale:  { type: 'STRING' },
+            caution:    { type: 'STRING' },
+          },
+          required: ['player', 'team', 'game', 'propType', 'pick', 'odds', 'confidence', 'rationale'],
+        },
+      },
+    },
+    required: ['playerProps'],
+  };
+
   const body = {
     system_instruction: {
-      parts: [{ text: 'You are a sharp NBA player props analyst. Only pick props with confirmed lines from DraftKings or FanDuel. Apply all filters: positional defense, pace, recent form, injury impact, and minimum 15-game sample size. Return only valid JSON. CRITICAL: Never pick a player who is listed in the official injury report OR mentioned by Perplexity research as OUT, injured, questionable, or unlikely to play. This includes load management and late scratches. If there is any doubt about a player\'s availability, skip them entirely.' }],
+      parts: [{ text: 'You are a sharp NBA player props analyst. Only pick props with confirmed lines from DraftKings or FanDuel. Apply all filters: positional defense, pace, recent form, injury impact, and minimum 15-game sample size. CRITICAL: Never pick a player who is listed in the official injury report OR mentioned by Perplexity research as OUT, injured, questionable, or unlikely to play. This includes load management and late scratches. If there is any doubt about a player\'s availability, skip them entirely. CRITICAL: The team field must exactly match one of the two teams playing in the game field — never output a player from a team not involved in that game.' }],
     },
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
-    generationConfig: { temperature: 0.3 },
+    generationConfig: {
+      temperature: 0.3,
+      responseMimeType: 'application/json',
+      responseSchema: propsSchema,
+    },
   };
 
   const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
@@ -397,9 +426,26 @@ If there are no strong plays tonight, return {"playerProps": []}. Fewer sharp pi
   console.log(`  NBA Props raw (first 400): ${raw.slice(0, 400)}`);
 
   try {
-    const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
-    const parsed = JSON.parse(cleaned);
-    return parsed.playerProps ?? [];
+    let props = JSON.parse(raw).playerProps ?? [];
+
+    // Hard validate: team must match one of the two teams in the game field
+    props = props.filter(prop => {
+      const normalized = (prop.game ?? '').replace(/ vs\. /gi, ' vs ');
+      const parts = normalized.includes(' vs ') ? normalized.split(' vs ') : normalized.split(' @ ');
+      if (parts.length !== 2) return true; // can't validate — keep
+      const teamKeys = [
+        parts[0].trim().toLowerCase().split(/\s+/).pop(),
+        parts[1].trim().toLowerCase().split(/\s+/).pop(),
+      ];
+      const propKey = (prop.team ?? '').toLowerCase().split(/\s+/).pop();
+      if (!teamKeys.includes(propKey)) {
+        console.log(`  ✗ Dropping prop — "${prop.team}" not in game "${prop.game}" (player: ${prop.player})`);
+        return false;
+      }
+      return true;
+    });
+
+    return props;
   } catch {
     console.error('Failed to parse NBA player props JSON:', raw.slice(0, 300));
     return [];
@@ -508,12 +554,41 @@ Return ONLY valid JSON, no markdown:
   ]
 }`;
 
+  const picksSchema = {
+    type: 'OBJECT',
+    properties: {
+      picks: {
+        type: 'ARRAY',
+        items: {
+          type: 'OBJECT',
+          properties: {
+            game:       { type: 'STRING' },
+            betType:    { type: 'STRING', enum: ['spread', 'total', 'moneyline', 'prop'] },
+            pick:       { type: 'STRING' },
+            odds:       { type: 'STRING' },
+            confidence: { type: 'STRING', enum: ['high', 'medium'] },
+            rationale:  { type: 'STRING' },
+            // Only present for betType=prop — full player name and their CURRENT team
+            propPlayer: { type: 'STRING' },
+            propTeam:   { type: 'STRING' },
+          },
+          required: ['game', 'betType', 'pick', 'odds', 'confidence', 'rationale'],
+        },
+      },
+    },
+    required: ['picks'],
+  };
+
   const body = {
     system_instruction: {
-      parts: [{ text: 'You are a sharp sports betting analyst. You receive live research from Perplexity and verified lines from ESPN and The Odds API. Use exact lines from the verified data — never estimate spreads, totals, or moneylines. You may estimate odds for player props if no line is available. Produce 5 picks with varied bet types and 5–6 sentence rationales citing specific data. Return only valid JSON. CRITICAL: For player props, use ONLY the player-team assignments from the Perplexity research — never assume a player is on a team based on training data, as rosters change constantly via trades and free agency. If the research does not confirm a player is on a given team for today\'s game, do not pick that player. CRITICAL: If Perplexity reports a player as OUT, injured, questionable, or not expected to play — do NOT pick that player for any prop, even if ESPN has not yet confirmed the injury. Late scratches and load management decisions often appear in Perplexity before ESPN updates.' }],
+      parts: [{ text: 'You are a sharp sports betting analyst. You receive live research from Perplexity and verified lines from ESPN and The Odds API. Use exact lines from the verified data — never estimate spreads, totals, or moneylines. You may estimate odds for player props if no line is available. Produce 5 picks with varied bet types and 5–6 sentence rationales citing specific data. CRITICAL: For player props, use ONLY the player-team assignments from the Perplexity research — never assume a player is on a team based on training data, as rosters change constantly via trades and free agency. If the research does not confirm a player is on a given team for today\'s game, do not pick that player. For any prop pick, the propTeam field must exactly match one of the two teams in the game field — never pick a player from a team not in that game. CRITICAL: If Perplexity reports a player as OUT, injured, questionable, or not expected to play — do NOT pick that player for any prop, even if ESPN has not yet confirmed the injury. Late scratches and load management decisions often appear in Perplexity before ESPN updates.' }],
     },
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
-    generationConfig: { temperature: 0.4 },
+    generationConfig: {
+      temperature: 0.4,
+      responseMimeType: 'application/json',
+      responseSchema: picksSchema,
+    },
   };
 
   const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
@@ -528,15 +603,38 @@ Return ONLY valid JSON, no markdown:
   console.log(`  Raw (first 400): ${raw.slice(0, 400)}`);
 
   try {
-    const cleaned = raw.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
-    const parsed = JSON.parse(cleaned);
-    parsed.picks = (parsed.picks ?? []).filter(p => {
+    const parsed = JSON.parse(raw);
+    let picks = parsed.picks ?? [];
+
+    // Filter heavy favourites on moneylines
+    picks = picks.filter(p => {
       if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
       return true;
     });
-    return { picks: parsed.picks, games };
+
+    // Validate prop picks: propTeam must match one of the two teams in the game field
+    picks = picks.filter(p => {
+      if (p.betType !== 'prop') return true;
+      const team = (p.propTeam ?? '').trim();
+      if (!team) return true; // no team provided — can't validate, keep
+      const normalized = (p.game ?? '').replace(/ vs\. /gi, ' vs ');
+      const parts = normalized.includes(' vs ') ? normalized.split(' vs ') : normalized.split(' @ ');
+      if (parts.length !== 2) return true;
+      const teamKeys = [
+        parts[0].trim().toLowerCase().split(/\s+/).pop(),
+        parts[1].trim().toLowerCase().split(/\s+/).pop(),
+      ];
+      const propKey = team.toLowerCase().split(/\s+/).pop();
+      if (!teamKeys.includes(propKey)) {
+        console.log(`  ✗ Dropping prop — "${team}" not in game "${p.game}" (player: ${p.propPlayer ?? p.pick})`);
+        return false;
+      }
+      return true;
+    });
+
+    return { picks, games };
   } catch {
-    console.error(`Failed to parse picks JSON for ${sport}:`, raw);
+    console.error(`Failed to parse picks JSON for ${sport}:`, raw.slice(0, 300));
     return { picks: [], games };
   }
 }
