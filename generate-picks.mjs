@@ -266,6 +266,11 @@ INSTRUCTIONS:
 
 6. RATIONALE: 4–5 sentences per pick. Cite specific data from your search: injured players and their impact, recent form, h2h trend, line movement signal, and what needs to happen for the pick to hit.
 
+7. CONFIDENCE: Be honest — do not mark everything "high". Use these definitions strictly:
+   - "high": 3 or more independent factors align (e.g. injury advantage + line movement + strong h2h trend). You would bet this yourself.
+   - "medium": 1–2 factors align, or there is meaningful uncertainty (key player questionable, line is flat, conflicting signals). Worth playing but not a slam dunk.
+   Aim for a realistic mix — most slates should produce 2–3 high and 2–3 medium picks, not all high.
+
 RESPONSE FORMAT: Respond with raw JSON only — no markdown, no code fences, no explanation. Structure:
 {"picks":[{"game":"Away Team vs Home Team","betType":"spread|total|moneyline|prop","pick":"...","odds":"...","confidence":"high|medium","rationale":"...","propPlayer":"(prop only)","propTeam":"(prop only)"}]}
 
@@ -304,6 +309,21 @@ If ${sport} has no games today, return {"picks": []}.`;
     picks = picks.filter(p => {
       if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
       return true;
+    });
+
+    // Enforce realistic confidence distribution — Gemini marks everything high by default.
+    // Downgrade to medium if odds indicate lower value: ML dogs longer than +200,
+    // totals with no odds edge (close to -110 both sides), or any pick beyond the top 3.
+    picks = picks.map((p, i) => {
+      if (p.confidence === 'medium') return p; // respect explicit medium
+      const oddsNum = parseInt(p.odds ?? '0');
+      const isLongDog  = p.betType === 'moneyline' && oddsNum > 200;
+      const isFlatTotal = p.betType === 'total' && Math.abs(oddsNum) <= 115;
+      const isLowerPriority = i >= 3; // picks 4 & 5 are lower priority by definition
+      if (isLongDog || isFlatTotal || isLowerPriority) {
+        return { ...p, confidence: 'medium' };
+      }
+      return p;
     });
 
     // Hard validate props: propTeam last word must match a team in the game field
