@@ -1,5 +1,234 @@
 [
   {
+    "date": "2026-04-15",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Orlando Magic vs Philadelphia 76ers",
+            "betType": "moneyline",
+            "pick": "Philadelphia 76ers",
+            "odds": "-124",
+            "confidence": "high",
+            "result": "W",
+            "score": "Orlando Magic 97, Philadelphia 76ers 109"
+          },
+          {
+            "game": "Orlando Magic vs Philadelphia 76ers",
+            "betType": "prop",
+            "pick": "Tyrese Maxey Over 29.5 Points",
+            "odds": "-113",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tyrese Maxey: 31 Points (line 29.5)"
+          },
+          {
+            "game": "Golden State Warriors vs LA Clippers",
+            "betType": "spread",
+            "pick": "LA Clippers -5.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "L",
+            "score": "Golden State Warriors 126, LA Clippers 121"
+          },
+          {
+            "game": "Golden State Warriors vs LA Clippers",
+            "betType": "total",
+            "pick": "Under 221.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Golden State Warriors 126, LA Clippers 121"
+          },
+          {
+            "game": "Golden State Warriors vs LA Clippers",
+            "betType": "prop",
+            "pick": "Kawhi Leonard Over 27.5 Points",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "L",
+            "score": "Kawhi Leonard: 21 Points (line 27.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Detroit Red Wings @ Florida Panthers",
+            "betType": "moneyline",
+            "pick": "Detroit Red Wings",
+            "odds": "-162",
+            "confidence": "high",
+            "result": "L",
+            "score": "Detroit Red Wings 1, Florida Panthers 8"
+          },
+          {
+            "game": "Dallas Stars @ Buffalo Sabres",
+            "betType": "spread",
+            "pick": "Buffalo Sabres -1.5",
+            "odds": "-205",
+            "confidence": "high",
+            "result": "L",
+            "score": "Dallas Stars 4, Buffalo Sabres 3"
+          },
+          {
+            "game": "New York Rangers @ Tampa Bay Lightning",
+            "betType": "spread",
+            "pick": "New York Rangers +1.5",
+            "odds": "-192",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Rangers 4, Tampa Bay Lightning 2"
+          },
+          {
+            "game": "Toronto Maple Leafs @ Ottawa Senators",
+            "betType": "moneyline",
+            "pick": "Ottawa Senators",
+            "odds": "-198",
+            "confidence": "high",
+            "result": "W",
+            "score": "Toronto Maple Leafs 1, Ottawa Senators 3"
+          },
+          {
+            "game": "Seattle Kraken @ Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Vegas Golden Knights -1.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Seattle Kraken 1, Vegas Golden Knights 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Angels @ New York Yankees",
+            "betType": "total",
+            "pick": "Over 10.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Angels 4, New York Yankees 5"
+          },
+          {
+            "game": "Miami Marlins @ Atlanta Braves",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves",
+            "odds": "-172",
+            "confidence": "high",
+            "result": "W",
+            "score": "Miami Marlins 3, Atlanta Braves 6"
+          },
+          {
+            "game": "Chicago Cubs @ Philadelphia Phillies",
+            "betType": "spread",
+            "pick": "Chicago Cubs +1.5",
+            "odds": "-176",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago Cubs 11, Philadelphia Phillies 2"
+          },
+          {
+            "game": "Tampa Bay Rays @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-116",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 8, Chicago White Sox 3"
+          },
+          {
+            "game": "Texas Rangers @ Athletics",
+            "betType": "moneyline",
+            "pick": "Texas Rangers",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Texas Rangers 5, Athletics 6"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Real Madrid @ Bayern Munich",
+            "betType": "moneyline",
+            "pick": "Bayern Munich",
+            "odds": "-200",
+            "confidence": "high",
+            "result": "W",
+            "score": "Real Madrid 3, Bayern Munich 4"
+          },
+          {
+            "game": "Real Madrid @ Bayern Munich",
+            "betType": "total",
+            "pick": "Over 4.5",
+            "odds": "+115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Real Madrid 3, Bayern Munich 4"
+          }
+        ]
+      },
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "SC Freiburg @ Celta Vigo",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Bologna @ Aston Villa",
+            "betType": "moneyline",
+            "pick": "Aston Villa",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Porto @ Nottingham Forest",
+            "betType": "moneyline",
+            "pick": "Nottingham Forest",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "SC Braga @ Real Betis",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Bologna @ Aston Villa",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-14",
     "sports": [],
     "playerProps": []
