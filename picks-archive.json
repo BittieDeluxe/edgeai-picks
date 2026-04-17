@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-04-16",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Charlotte Hornets @ Orlando Magic",
+            "betType": "spread",
+            "pick": "Charlotte Hornets -3.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Charlotte Hornets @ Orlando Magic",
+            "betType": "moneyline",
+            "pick": "Charlotte Hornets",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Charlotte Hornets @ Orlando Magic",
+            "betType": "total",
+            "pick": "Over 218.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Angels @ New York Yankees",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "-152",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Angels 11, New York Yankees 4"
+          },
+          {
+            "game": "Tampa Bay Rays @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays (-130)",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 5, Chicago White Sox 3"
+          },
+          {
+            "game": "Colorado Rockies @ Houston Astros",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Rockies 3, Houston Astros 2"
+          },
+          {
+            "game": "Seattle Mariners @ San Diego Padres",
+            "betType": "moneyline",
+            "pick": "San Diego Padres (+104)",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Seattle Mariners 2, San Diego Padres 5"
+          },
+          {
+            "game": "Toronto Blue Jays @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Toronto Blue Jays (-102)",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Toronto Blue Jays 1, Milwaukee Brewers 2"
+          }
+        ]
+      },
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "SC Freiburg @ Celta Vigo",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "SC Freiburg 3, Celta Vigo 1"
+          },
+          {
+            "game": "Bologna @ Aston Villa",
+            "betType": "moneyline",
+            "pick": "Aston Villa",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "W",
+            "score": "Bologna 0, Aston Villa 4"
+          },
+          {
+            "game": "FC Porto @ Nottingham Forest",
+            "betType": "moneyline",
+            "pick": "Nottingham Forest",
+            "odds": "+145",
+            "confidence": "high",
+            "result": "W",
+            "score": "FC Porto 0, Nottingham Forest 1"
+          },
+          {
+            "game": "Braga @ Real Betis",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Braga 4, Real Betis 2"
+          },
+          {
+            "game": "SC Freiburg @ Celta Vigo",
+            "betType": "moneyline",
+            "pick": "SC Freiburg",
+            "odds": "+310",
+            "confidence": "medium",
+            "result": "W",
+            "score": "SC Freiburg 3, Celta Vigo 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-15",
     "sports": [
       {
@@ -184,8 +322,8 @@
             "pick": "Over 2.5",
             "odds": "-120",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "SC Freiburg 3, Celta Vigo 1"
           },
           {
             "game": "Bologna @ Aston Villa",
@@ -193,8 +331,8 @@
             "pick": "Aston Villa",
             "odds": "-165",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Bologna 0, Aston Villa 4"
           },
           {
             "game": "Porto @ Nottingham Forest",
@@ -202,8 +340,8 @@
             "pick": "Nottingham Forest",
             "odds": "+130",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "FC Porto 0, Nottingham Forest 1"
           },
           {
             "game": "SC Braga @ Real Betis",
@@ -211,8 +349,8 @@
             "pick": "Under 2.5",
             "odds": "-120",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Braga 4, Real Betis 2"
           },
           {
             "game": "Bologna @ Aston Villa",
@@ -220,8 +358,8 @@
             "pick": "Over 2.5",
             "odds": "-145",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Bologna 0, Aston Villa 4"
           }
         ]
       }
