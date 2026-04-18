@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-04-17",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Charlotte Hornets vs Orlando Magic",
+            "betType": "spread",
+            "pick": "Charlotte Hornets -3.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "L",
+            "score": "Charlotte Hornets 90, Orlando Magic 121"
+          },
+          {
+            "game": "Charlotte Hornets vs Orlando Magic",
+            "betType": "total",
+            "pick": "Over 218.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Charlotte Hornets 90, Orlando Magic 121"
+          },
+          {
+            "game": "Golden State Warriors vs Phoenix Suns",
+            "betType": "spread",
+            "pick": "Golden State Warriors +3.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Golden State Warriors 96, Phoenix Suns 111"
+          },
+          {
+            "game": "Golden State Warriors vs Phoenix Suns",
+            "betType": "total",
+            "pick": "Over 219.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Golden State Warriors 96, Phoenix Suns 111"
+          },
+          {
+            "game": "Golden State Warriors vs Phoenix Suns",
+            "betType": "prop",
+            "pick": "Devin Booker Over 26.5 Points",
+            "odds": "(Not provided in verified lines, assuming standard prop odds)",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Devin Booker: 20 Points (line 26.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Ottawa Senators @ Carolina Hurricanes",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "-156",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Ottawa Senators @ Carolina Hurricanes",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Minnesota Wild @ Dallas Stars",
+            "betType": "moneyline",
+            "pick": "Minnesota Wild",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Minnesota Wild @ Dallas Stars",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Ottawa Senators @ Carolina Hurricanes",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+146",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Dodgers @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 9.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Dodgers 7, Colorado Rockies 1"
+          },
+          {
+            "game": "San Diego Padres @ Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Los Angeles Angels",
+            "odds": "-134",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego Padres 0, Los Angeles Angels 8"
+          },
+          {
+            "game": "New York Mets @ Chicago Cubs",
+            "betType": "spread",
+            "pick": "Chicago Cubs -1.5",
+            "odds": "+116",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Mets 4, Chicago Cubs 12"
+          },
+          {
+            "game": "Chicago White Sox @ Athletics",
+            "betType": "moneyline",
+            "pick": "Athletics",
+            "odds": "-158",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago White Sox 9, Athletics 2"
+          },
+          {
+            "game": "Atlanta Braves @ Philadelphia Phillies",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies +1.5",
+            "odds": "-172",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Braves 9, Philadelphia Phillies 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-16",
     "sports": [
       {
@@ -11,8 +167,8 @@
             "pick": "Charlotte Hornets -3.5",
             "odds": "-112",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Charlotte Hornets 90, Orlando Magic 121"
           },
           {
             "game": "Charlotte Hornets @ Orlando Magic",
@@ -20,8 +176,8 @@
             "pick": "Charlotte Hornets",
             "odds": "-175",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Charlotte Hornets 90, Orlando Magic 121"
           },
           {
             "game": "Charlotte Hornets @ Orlando Magic",
@@ -29,8 +185,8 @@
             "pick": "Over 218.5",
             "odds": "-108",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Charlotte Hornets 90, Orlando Magic 121"
           }
         ]
       },
