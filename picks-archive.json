@@ -1,5 +1,261 @@
 [
   {
+    "date": "2026-04-18",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Atlanta Hawks vs New York Knicks",
+            "betType": "spread",
+            "pick": "New York Knicks -5.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Atlanta Hawks 102, New York Knicks 113"
+          },
+          {
+            "game": "Houston Rockets vs Los Angeles Lakers",
+            "betType": "spread",
+            "pick": "Houston Rockets -4.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Rockets 98, Los Angeles Lakers 107"
+          },
+          {
+            "game": "Minnesota Timberwolves vs Denver Nuggets",
+            "betType": "total",
+            "pick": "Under 232.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Timberwolves 105, Denver Nuggets 116"
+          },
+          {
+            "game": "Toronto Raptors vs Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Toronto Raptors +8",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Toronto Raptors 113, Cleveland Cavaliers 126"
+          },
+          {
+            "game": "Houston Rockets vs Los Angeles Lakers",
+            "betType": "total",
+            "pick": "Under 208.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Rockets 98, Los Angeles Lakers 107"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Ottawa Senators vs Carolina Hurricanes",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "-150",
+            "confidence": "high",
+            "result": "W",
+            "score": "Ottawa Senators 0, Carolina Hurricanes 2"
+          },
+          {
+            "game": "Minnesota Wild vs Dallas Stars",
+            "betType": "spread",
+            "pick": "Minnesota Wild +1.5",
+            "odds": "-235",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Wild 6, Dallas Stars 1"
+          },
+          {
+            "game": "Philadelphia Flyers vs Pittsburgh Penguins",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Flyers 3, Pittsburgh Penguins 2"
+          },
+          {
+            "game": "Ottawa Senators vs Carolina Hurricanes",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Ottawa Senators 0, Carolina Hurricanes 2"
+          },
+          {
+            "game": "Minnesota Wild vs Dallas Stars",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota Wild 6, Dallas Stars 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Dodgers @ Colorado Rockies",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-192",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Dodgers 3, Colorado Rockies 4"
+          },
+          {
+            "game": "Detroit Tigers @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Detroit Tigers",
+            "odds": "-166",
+            "confidence": "high",
+            "result": "W",
+            "score": "Detroit Tigers 4, Boston Red Sox 1"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks",
+            "odds": "-152",
+            "confidence": "high",
+            "result": "W",
+            "score": "Toronto Blue Jays 2, Arizona Diamondbacks 6"
+          },
+          {
+            "game": "Tampa Bay Rays @ Pittsburgh Pirates",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates",
+            "odds": "-168",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tampa Bay Rays 8, Pittsburgh Pirates 7"
+          },
+          {
+            "game": "Atlanta Braves @ Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves",
+            "odds": "+108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Braves 3, Philadelphia Phillies 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Inter Miami CF @ Colorado Rapids",
+            "betType": "moneyline",
+            "pick": "Colorado Rapids",
+            "odds": "+210",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Inter Miami CF 3, Colorado Rapids 2"
+          },
+          {
+            "game": "Columbus Crew @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+185",
+            "confidence": "high",
+            "result": "W",
+            "score": "Columbus Crew 1, New England Revolution 2"
+          },
+          {
+            "game": "D.C. United @ Philadelphia Union",
+            "betType": "moneyline",
+            "pick": "D.C. United",
+            "odds": "+380",
+            "confidence": "medium",
+            "result": "L",
+            "score": "D.C. United 0, Philadelphia Union 0"
+          },
+          {
+            "game": "LA Galaxy @ FC Dallas",
+            "betType": "moneyline",
+            "pick": "FC Dallas",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "LA Galaxy 2, FC Dallas 2"
+          },
+          {
+            "game": "San Diego FC @ Real Salt Lake",
+            "betType": "moneyline",
+            "pick": "Real Salt Lake",
+            "odds": "-165",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego FC 2, Real Salt Lake 4"
+          }
+        ]
+      },
+      {
+        "sport": "UFC",
+        "picks": [
+          {
+            "game": "John Yannis @ Jamie Siraj",
+            "betType": "moneyline",
+            "pick": "Jamie Siraj",
+            "odds": "-260",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Jai Herbert @ Mandel Nallo",
+            "betType": "moneyline",
+            "pick": "Mandel Nallo",
+            "odds": "-172",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Charles Jourdain @ Kyler Phillips",
+            "betType": "moneyline",
+            "pick": "Charles Jourdain",
+            "odds": "-138",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Karine Silva @ Jasmine Jasudavicius",
+            "betType": "moneyline",
+            "pick": "Jasmine Jasudavicius",
+            "odds": "-310",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Robert Valentin @ Julien Leblanc",
+            "betType": "total",
+            "pick": "Under 1.5 Rounds",
+            "odds": "+135",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-17",
     "sports": [
       {
@@ -61,8 +317,8 @@
             "pick": "Carolina Hurricanes",
             "odds": "-156",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Ottawa Senators 0, Carolina Hurricanes 2"
           },
           {
             "game": "Ottawa Senators @ Carolina Hurricanes",
@@ -70,8 +326,8 @@
             "pick": "Over 5.5",
             "odds": "-140",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Ottawa Senators 0, Carolina Hurricanes 2"
           },
           {
             "game": "Minnesota Wild @ Dallas Stars",
@@ -79,8 +335,8 @@
             "pick": "Minnesota Wild",
             "odds": "-102",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Minnesota Wild 6, Dallas Stars 1"
           },
           {
             "game": "Minnesota Wild @ Dallas Stars",
@@ -88,8 +344,8 @@
             "pick": "Under 5.5",
             "odds": "+104",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Minnesota Wild 6, Dallas Stars 1"
           },
           {
             "game": "Ottawa Senators @ Carolina Hurricanes",
@@ -97,8 +353,8 @@
             "pick": "Carolina Hurricanes -1.5",
             "odds": "+146",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Ottawa Senators 0, Carolina Hurricanes 2"
           }
         ]
       },
