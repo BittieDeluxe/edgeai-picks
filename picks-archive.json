@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-04-19",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Philadelphia 76ers @ Boston Celtics",
+            "betType": "spread",
+            "pick": "Boston Celtics -12.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia 76ers 91, Boston Celtics 123"
+          },
+          {
+            "game": "Phoenix Suns @ Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -14.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Phoenix Suns 84, Oklahoma City Thunder 119"
+          },
+          {
+            "game": "Orlando Magic @ Detroit Pistons",
+            "betType": "spread",
+            "pick": "Detroit Pistons -8.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "L",
+            "score": "Orlando Magic 112, Detroit Pistons 101"
+          },
+          {
+            "game": "Portland Trail Blazers @ San Antonio Spurs",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -11",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Portland Trail Blazers 98, San Antonio Spurs 111"
+          },
+          {
+            "game": "Philadelphia 76ers @ Boston Celtics",
+            "betType": "prop",
+            "pick": "Tyrese Maxey OVER 20.5 Points",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tyrese Maxey: 21 Points (line 20.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Los Angeles Kings @ Colorado Avalanche",
+            "betType": "spread",
+            "pick": "Colorado Avalanche -1.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Kings 1, Colorado Avalanche 2"
+          },
+          {
+            "game": "Utah Mammoth @ Vegas Golden Knights",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights (-156)",
+            "odds": "-156",
+            "confidence": "high",
+            "result": "W",
+            "score": "Utah Mammoth 2, Vegas Golden Knights 4"
+          },
+          {
+            "game": "Boston Bruins @ Buffalo Sabres",
+            "betType": "moneyline",
+            "pick": "Boston Bruins (+138)",
+            "odds": "+138",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Bruins 3, Buffalo Sabres 4"
+          },
+          {
+            "game": "Los Angeles Kings @ Colorado Avalanche",
+            "betType": "prop",
+            "pick": "Nathan MacKinnon Over 0.5 Goals",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Nathan MacKinnon: not found in box score"
+          },
+          {
+            "game": "Montreal Canadiens @ Tampa Bay Lightning",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Montreal Canadiens 4, Tampa Bay Lightning 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Francisco Giants @ Washington Nationals",
+            "betType": "moneyline",
+            "pick": "San Francisco Giants",
+            "odds": "-144",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Francisco Giants 0, Washington Nationals 3"
+          },
+          {
+            "game": "St. Louis Cardinals @ Houston Astros",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "+124",
+            "confidence": "high",
+            "result": "W",
+            "score": "St. Louis Cardinals 7, Houston Astros 5"
+          },
+          {
+            "game": "Milwaukee Brewers @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 3, Miami Marlins 5"
+          },
+          {
+            "game": "San Diego Padres @ Los Angeles Angels",
+            "betType": "spread",
+            "pick": "San Diego Padres -1.5",
+            "odds": "+146",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Diego Padres 2, Los Angeles Angels 1"
+          },
+          {
+            "game": "Kansas City Royals @ New York Yankees",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+138",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Kansas City Royals 0, New York Yankees 7"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-18",
     "sports": [
       {
