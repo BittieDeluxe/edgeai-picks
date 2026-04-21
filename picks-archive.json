@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-04-20",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Toronto Raptors @ Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers -9.5",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Toronto Raptors 105, Cleveland Cavaliers 115"
+          },
+          {
+            "game": "Atlanta Hawks @ New York Knicks",
+            "betType": "spread",
+            "pick": "New York Knicks -6.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta Hawks 107, New York Knicks 106"
+          },
+          {
+            "game": "Minnesota Timberwolves @ Denver Nuggets",
+            "betType": "spread",
+            "pick": "Denver Nuggets -7.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "L",
+            "score": "Minnesota Timberwolves 119, Denver Nuggets 114"
+          },
+          {
+            "game": "Toronto Raptors @ Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Over 222.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Toronto Raptors 105, Cleveland Cavaliers 115"
+          },
+          {
+            "game": "Atlanta Hawks @ New York Knicks",
+            "betType": "total",
+            "pick": "Under 217.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Hawks 107, New York Knicks 106"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Ottawa Senators vs Carolina Hurricanes",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "-155",
+            "confidence": "high",
+            "result": "W",
+            "score": "Ottawa Senators 2, Carolina Hurricanes 3"
+          },
+          {
+            "game": "Philadelphia Flyers vs Pittsburgh Penguins",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Flyers 3, Pittsburgh Penguins 0"
+          },
+          {
+            "game": "Minnesota Wild vs Dallas Stars",
+            "betType": "moneyline",
+            "pick": "Minnesota Wild",
+            "odds": "+114",
+            "confidence": "high",
+            "result": "L",
+            "score": "Minnesota Wild 2, Dallas Stars 4"
+          },
+          {
+            "game": "Anaheim Ducks vs Edmonton Oilers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-135",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Anaheim Ducks 3, Edmonton Oilers 4"
+          },
+          {
+            "game": "Anaheim Ducks vs Edmonton Oilers",
+            "betType": "spread",
+            "pick": "Anaheim Ducks +1.5",
+            "odds": "-166",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Anaheim Ducks 3, Edmonton Oilers 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Houston Astros @ Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "Cleveland Guardians",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Astros 9, Cleveland Guardians 2"
+          },
+          {
+            "game": "Cincinnati Reds @ Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 6, Tampa Bay Rays 1"
+          },
+          {
+            "game": "Baltimore Orioles @ Kansas City Royals",
+            "betType": "moneyline",
+            "pick": "Baltimore Orioles",
+            "odds": "-116",
+            "confidence": "high",
+            "result": "W",
+            "score": "Baltimore Orioles 7, Kansas City Royals 5"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Colorado Rockies",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-152",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Dodgers 12, Colorado Rockies 3"
+          },
+          {
+            "game": "Philadelphia Phillies @ Chicago Cubs",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Phillies 1, Chicago Cubs 5"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-19",
     "sports": [
       {
