@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-04-22",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Orlando Magic @ Detroit Pistons",
+            "betType": "spread",
+            "pick": "Detroit Pistons -8.5",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "W",
+            "score": "Orlando Magic 83, Detroit Pistons 98"
+          },
+          {
+            "game": "Orlando Magic @ Detroit Pistons",
+            "betType": "total",
+            "pick": "Under 218.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Orlando Magic 83, Detroit Pistons 98"
+          },
+          {
+            "game": "Phoenix Suns @ Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -17.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Phoenix Suns 107, Oklahoma City Thunder 120"
+          },
+          {
+            "game": "Phoenix Suns @ Oklahoma City Thunder",
+            "betType": "total",
+            "pick": "Under 215.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Phoenix Suns 107, Oklahoma City Thunder 120"
+          },
+          {
+            "game": "Phoenix Suns @ Oklahoma City Thunder",
+            "betType": "prop",
+            "pick": "Shai Gilgeous-Alexander Over 5.5 Assists",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Shai Gilgeous-Alexander: 9 Assists (line 5.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Pittsburgh Penguins vs Philadelphia Flyers",
+            "betType": "moneyline",
+            "pick": "Philadelphia Flyers",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Penguins 2, Philadelphia Flyers 5"
+          },
+          {
+            "game": "Dallas Stars vs Minnesota Wild",
+            "betType": "spread",
+            "pick": "Dallas Stars +1.5",
+            "odds": "-245",
+            "confidence": "high",
+            "result": "W",
+            "score": "Dallas Stars 4, Minnesota Wild 3"
+          },
+          {
+            "game": "Anaheim Ducks vs Edmonton Oilers",
+            "betType": "spread",
+            "pick": "Edmonton Oilers -1.5",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Anaheim Ducks 6, Edmonton Oilers 4"
+          },
+          {
+            "game": "Pittsburgh Penguins vs Philadelphia Flyers",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Pittsburgh Penguins 2, Philadelphia Flyers 5"
+          },
+          {
+            "game": "Dallas Stars vs Minnesota Wild",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-134",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Dallas Stars 4, Minnesota Wild 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Toronto Blue Jays @ Los Angeles Angels",
+            "betType": "spread",
+            "pick": "Los Angeles Angels -1.5",
+            "odds": "+136",
+            "confidence": "high",
+            "result": "W",
+            "score": "Toronto Blue Jays 3, Los Angeles Angels 7"
+          },
+          {
+            "game": "Houston Astros @ Cleveland Guardians",
+            "betType": "spread",
+            "pick": "Cleveland Guardians -1.5",
+            "odds": "+136",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Astros 2, Cleveland Guardians 0"
+          },
+          {
+            "game": "San Diego Padres @ Colorado Rockies",
+            "betType": "spread",
+            "pick": "San Diego Padres -1.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Diego Padres 3, Colorado Rockies 8"
+          },
+          {
+            "game": "New York Yankees @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "New York Yankees",
+            "odds": "-146",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Yankees 4, Boston Red Sox 1"
+          },
+          {
+            "game": "Baltimore Orioles @ Kansas City Royals",
+            "betType": "total",
+            "pick": "Over 9.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Baltimore Orioles 8, Kansas City Royals 6"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-21",
     "sports": [
       {
@@ -161,8 +317,8 @@
             "pick": "Over 2.5",
             "odds": "-175",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Charlotte FC 1, Orlando City SC 4"
           },
           {
             "game": "LA Galaxy @ Columbus Crew SC",
@@ -188,8 +344,8 @@
             "pick": "Over 2.5",
             "odds": "-165",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "FC Cincinnati 4, New York City FC 4"
           },
           {
             "game": "New England Revolution @ Atlanta United FC",
@@ -197,8 +353,8 @@
             "pick": "Under 2.5",
             "odds": "-110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "New England Revolution 2, Atlanta United FC 1"
           }
         ]
       }

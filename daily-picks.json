@@ -1,88 +1,98 @@
 {
-  "date": "2026-04-22",
-  "generatedAt": "2026-04-22T16:03:10.053Z",
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T16:24:34.577Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Orlando Magic @ Detroit Pistons",
-          "betType": "spread",
-          "pick": "Detroit Pistons -8.5",
-          "odds": "-114",
-          "confidence": "high",
-          "rationale": "The Detroit Pistons, as the #1 seed with a 60-22 regular-season record, are expected to bounce back fiercely at home after losing Game 1. They boast an impressive 31-9 home record this season and have won their last eight home games after a loss as favorites. While the line has seen slight movement towards the Magic, the Pistons' motivation to even the series, coupled with Jonathan Isaac being out for Orlando, provides a significant edge for Detroit to cover this spread.",
-          "awayRecord": "45-37",
-          "homeRecord": "60-22",
-          "awayLast5": [
-            "W"
-          ],
-          "homeLast5": [
-            "L"
-          ]
-        },
-        {
-          "game": "Orlando Magic @ Detroit Pistons",
+          "game": "New York Knicks @ Atlanta Hawks",
           "betType": "total",
-          "pick": "Under 218.5",
-          "odds": "-114",
+          "pick": "Under 214.5",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "Game 1 between these two teams finished with a total of 213 points, well under the current line. The Orlando Magic prefer a slower, more physical style of play, which tends to result in lower-scoring games, and they controlled the pace in Game 1. The Pistons, despite their offensive capabilities, also possess a strong defense, ranking third in the league in opponent points per game at 109.6. With Detroit likely to tighten up defensively after Game 1, another lower-scoring affair is anticipated.",
-          "awayRecord": "45-37",
-          "homeRecord": "60-22",
+          "rationale": "The Under has been a strong trend in recent matchups between the Knicks and Hawks, hitting in four of their last five head-to-head games. Both games in the current playoff series have also gone Under the total, indicating a defensive struggle. The Knicks boast a top-tier defensive rating, and with Atlanta's Jock Landale out due to injury, offensive efficiency may be further hampered. Given the playoff intensity and historical scoring patterns, another lower-scoring contest is highly probable.",
+          "awayRecord": "53-29",
+          "homeRecord": "46-36",
           "awayLast5": [
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Phoenix Suns @ Oklahoma City Thunder",
+          "game": "Cleveland Cavaliers @ Toronto Raptors",
           "betType": "spread",
-          "pick": "Oklahoma City Thunder -17.5",
-          "odds": "-110",
+          "pick": "Cleveland Cavaliers -3.5",
+          "odds": "-102",
           "confidence": "high",
-          "rationale": "The Oklahoma City Thunder, the #1 seed in the Western Conference with a 64-18 record, absolutely dominated Game 1, winning by 35 points. They are an elite home team with a 35-7 record and possess the best defensive rating in the NBA. The Suns are severely hampered by injuries, with Grayson Allen, Jordan Goodwin, and crucial paint protector Mark Williams all listed as questionable after missing time. Despite some line movement towards Phoenix, the Thunder's overall superiority and the Suns' injury woes make this a strong pick.",
-          "awayRecord": "45-37",
-          "homeRecord": "64-18",
+          "rationale": "The Cleveland Cavaliers enter Game 3 with a commanding 2-0 series lead and have won their last five games overall, demonstrating strong momentum. Toronto is facing significant injury concerns with Immanuel Quickley (hamstring) and Ja'Kobe Walter (illness) both listed as questionable, and Quickley did not play in Game 2. The Cavaliers have a solid 25-16 road record against the spread this season, indicating their ability to perform well away from home. With Donovan Mitchell and James Harden leading a potent offense, Cleveland is well-positioned to cover the spread.",
+          "awayRecord": "52-30",
+          "homeRecord": "46-36",
           "awayLast5": [
-            "L"
+            "W",
+            "W"
           ],
           "homeLast5": [
-            "W"
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Phoenix Suns @ Oklahoma City Thunder",
+          "game": "Denver Nuggets @ Minnesota Timberwolves",
           "betType": "total",
-          "pick": "Under 215.5",
-          "odds": "-112",
+          "pick": "Over 234.5",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "Game 1 saw a total of just 203 points (119-84), falling significantly under the current total. The Oklahoma City Thunder boast the league's best defensive rating, consistently stifling opponents' offenses. The Phoenix Suns struggled immensely in Game 1, shooting only 35.8% from the field and committing 17 turnovers, which the Thunder converted into 34 points. With key Suns players questionable due to injury, their offensive struggles are likely to persist against OKC's formidable defense, keeping the score below the total.",
-          "awayRecord": "45-37",
-          "homeRecord": "64-18",
+          "rationale": "The first two games of this playoff series between the Nuggets and Timberwolves have both gone Over the total, suggesting a high-scoring affair. Denver ranks first in the league in scoring, averaging 122.1 points per game, and has hit the Over in 80% of their last five games. Despite the high line, both teams have shown offensive firepower, with Minnesota winning Game 2 with 119 points. With Aaron Gordon probable for Denver and Anthony Edwards playing well for Minnesota despite being questionable, expect another offensive showcase.",
+          "awayRecord": "54-28",
+          "homeRecord": "49-33",
           "awayLast5": [
+            "W",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W"
           ]
         },
         {
-          "game": "Phoenix Suns @ Oklahoma City Thunder",
-          "betType": "prop",
-          "pick": "Shai Gilgeous-Alexander Over 5.5 Assists",
-          "odds": "N/A",
+          "game": "New York Knicks @ Atlanta Hawks",
+          "betType": "moneyline",
+          "pick": "New York Knicks (-122)",
+          "odds": "-122",
           "confidence": "medium",
-          "rationale": "Shai Gilgeous-Alexander is active and a pivotal playmaker for the Oklahoma City Thunder. He recorded 7 assists in Game 1 against the Suns, exceeding this prop line despite an off-shooting night. The Suns' defense appeared 'flummoxed' and committed 17 turnovers in Game 1, which often leads to fast-break opportunities and assists for opposing guards. Given SGA's consistent passing ability and the Suns' defensive vulnerabilities, he is well-positioned to hit the over on his assist prop.",
-          "awayRecord": "45-37",
-          "homeRecord": "64-18",
+          "rationale": "The New York Knicks, with a superior 53-29 regular-season record, hold a 3-2 advantage in their last five head-to-head contests against the Hawks, including two wins in this playoff series. Despite dropping Game 2, the Knicks possess a strong overall defensive identity and will be motivated to regain control of the series on the road. Atlanta is without Jock Landale, which could impact their depth. The Knicks' overall strength and playoff experience give them a decisive edge to secure a road victory.",
+          "awayRecord": "53-29",
+          "homeRecord": "46-36",
           "awayLast5": [
+            "W",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W"
+          ]
+        },
+        {
+          "game": "Cleveland Cavaliers @ Toronto Raptors",
+          "betType": "spread",
+          "pick": "Toronto Raptors +3.5",
+          "odds": "-118",
+          "confidence": "medium",
+          "rationale": "While the Cavaliers hold a 2-0 series lead, the Raptors are returning home for a crucial Game 3, facing a must-win situation to avoid an insurmountable deficit. Toronto has a respectable 21-20 record against the spread in home games this season, while Cleveland has struggled on the road ATS with a 17-24 record. Although Immanuel Quickley and Ja'Kobe Walter are questionable, the desperation of a home playoff game often fuels strong performances. The Raptors' determination to stay in the series, combined with their home-court advantage, makes them a strong play to cover the spread.",
+          "awayRecord": "52-30",
+          "homeRecord": "46-36",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L"
           ]
         }
       ]
@@ -91,90 +101,92 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Pittsburgh Penguins vs Philadelphia Flyers",
+          "game": "Carolina Hurricanes @ Ottawa Senators",
           "betType": "moneyline",
-          "pick": "Philadelphia Flyers",
-          "odds": "-114",
+          "pick": "Carolina Hurricanes",
+          "odds": "+102",
           "confidence": "high",
-          "rationale": "The Philadelphia Flyers are entering Game 3 with significant momentum, holding an 8-2-0 record in their last 10 games and a commanding 2-0 series lead over the Penguins, having outscored them 6-2.. Goaltender Dan Vladar has been stellar in the playoffs with a 1.00 GAA and .956 SV%, and the Flyers have effectively shut down Sidney Crosby in the first two games.. Playing on home ice, the Flyers have a strong situational advantage against a struggling Penguins offense, making them a confident pick to extend their series lead.",
-          "awayRecord": "41-25-16",
-          "homeRecord": "43-27-12",
+          "rationale": "The Carolina Hurricanes enter Game 3 with a commanding 2-0 series lead over the Ottawa Senators, having won Game 1 (2-0) and Game 2 (3-2 OT). Carolina has also dominated the recent head-to-head matchups, winning four of the last five regular season and playoff encounters. Despite Ottawa playing at home and the return of defenseman Tyler Kleven, the Hurricanes' superior record (53-22-7 vs. 44-27-11) and strong playoff performance make them a solid pick to continue their winning ways. The Hurricanes are a well-structured team that has consistently found ways to win against the Senators.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "44-27-11",
           "awayLast5": [
-            "L",
-            "L"
-          ],
-          "homeLast5": [
             "W",
             "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Dallas Stars vs Minnesota Wild",
+          "game": "Colorado Avalanche @ Los Angeles Kings",
           "betType": "spread",
-          "pick": "Dallas Stars +1.5",
-          "odds": "-245",
+          "pick": "Colorado Avalanche -1.5",
+          "odds": "+158",
           "confidence": "high",
-          "rationale": "Despite missing key offensive players Roope Hintz (out for Game 3) and Tyler Seguin (out for season), the Dallas Stars demonstrated resilience by winning Game 2 on the road to even the series at 1-1.. Goaltender Jake Oettinger bounced back with 28 saves in Game 2, and the Stars have a solid 6-3-1 record in their last 10 games.. The Wild are also dealing with injuries, including Mats Zuccarello being day-to-day, which could impact their scoring depth, making the Stars a strong play to keep this game within one goal..",
-          "awayRecord": "50-20-12",
-          "homeRecord": "46-24-12",
+          "rationale": "The Colorado Avalanche are a formidable team with a 55-16-11 record and have been dominant against the Los Angeles Kings, winning their last five head-to-head matchups. Colorado already holds a 1-0 series lead after a decisive 2-1 victory in Game 1. The Kings, in contrast, have struggled recently, with four losses in their last five games. Given the Avalanche's strong form, their historical dominance over the Kings, and their early series lead, they are well-positioned to cover the -1.5 spread on the road.",
+          "awayRecord": "55-16-11",
+          "homeRecord": "35-27-20",
           "awayLast5": [
-            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Buffalo Sabres @ Boston Bruins",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "The head-to-head history between the Buffalo Sabres and Boston Bruins suggests a high-scoring affair, with three of their last five matchups, including two playoff games, going over 6.5 goals. Both teams have shown offensive capabilities recently; the Sabres boast a +8 goal differential in their last 10 games, and the Bruins won Game 2 of this series by a score of 4-2. With the series tied 1-1, both teams will be pushing hard for offense in this crucial Game 3, likely leading to an open and high-scoring contest.",
+          "awayRecord": "50-23-9",
+          "homeRecord": "45-27-10",
+          "awayLast5": [
             "W",
             "L"
-          ]
-        },
-        {
-          "game": "Anaheim Ducks vs Edmonton Oilers",
-          "betType": "spread",
-          "pick": "Edmonton Oilers -1.5",
-          "odds": "+130",
-          "confidence": "high",
-          "rationale": "The Edmonton Oilers won Game 1 against the Ducks 4-3, showcasing their offensive depth even with Connor McDavid held pointless, as Kasperi Kapanen and Jason Dickinson each scored twice.. Leon Draisaitl, returning from injury, contributed two assists in Game 1 and is expected to improve as he gets back into game shape.. The Ducks have a poor recent form of 2-6-2 in their last 10 games and struggled defensively in Game 1 after squandering a two-goal lead.. With the Oilers at home and looking to build a 2-0 series lead, they are well-positioned to cover the spread against an Anaheim team that has shown defensive vulnerabilities.",
-          "awayRecord": "43-33-6",
-          "homeRecord": "41-30-11",
-          "awayLast5": [
-            "L"
           ],
           "homeLast5": [
+            "L",
             "W"
           ]
         },
         {
-          "game": "Pittsburgh Penguins vs Philadelphia Flyers",
+          "game": "Carolina Hurricanes @ Ottawa Senators",
           "betType": "total",
           "pick": "Under 5.5",
-          "odds": "-102",
+          "odds": "+102",
           "confidence": "medium",
-          "rationale": "The first two games of this playoff series have been low-scoring affairs, with the Flyers shutting out the Penguins 3-0 in Game 2.. Philadelphia's goaltender Dan Vladar has been exceptional, recording a 1.00 GAA and a .956 SV% in the playoffs, effectively neutralizing Pittsburgh's offense.. With both teams likely to continue playing tight, defensive playoff hockey, and the Flyers' strong performance in net, another low-scoring contest is highly anticipated, favoring the Under 5.5.",
-          "awayRecord": "41-25-16",
-          "homeRecord": "43-27-12",
+          "rationale": "Despite the Hurricanes' overall offensive prowess, the recent trend in this specific playoff series points to lower-scoring games. Game 1 was a 2-0 shutout, and Game 2 was a tight 3-2 overtime affair, indicating strong defensive play from both sides. Furthermore, the Carolina Hurricanes have gone under their projected goal total in their last four games, and the Ottawa Senators have done so in four of their last five. The line movement from an initial O/U 6 to 5.5, with the Under at favorable odds, also suggests that sharp money is backing a lower-scoring outcome.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "44-27-11",
           "awayLast5": [
-            "L",
-            "L"
-          ],
-          "homeLast5": [
             "W",
             "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Dallas Stars vs Minnesota Wild",
-          "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-134",
+          "game": "Carolina Hurricanes @ Ottawa Senators",
+          "betType": "prop",
+          "pick": "Logan Stankoven Anytime Goal Scorer",
+          "odds": "N/A",
           "confidence": "medium",
-          "rationale": "While Game 2 saw a 4-2 score, Game 1 of this series exploded for 7 goals (6-1 Wild victory), demonstrating the offensive potential when these teams clash.. Wild forward Marcus Foligno's public comments about the Stars' inability to 'hang 5-on-5' could ignite a more aggressive, high-paced game from both sides, especially from Dallas seeking to prove a point.. With the series tied and both teams having shown the ability to generate offense, particularly on home ice for the Wild, a more open game with increased scoring opportunities is likely, pushing the total Over 5.5..",
-          "awayRecord": "50-20-12",
-          "homeRecord": "46-24-12",
+          "rationale": "Logan Stankoven has been an offensive force for the Carolina Hurricanes, scoring a goal in each of the first two games of this series against the Ottawa Senators. His recent form is exceptional, as he has registered a point in each of his last 10 games, accumulating nine goals and five assists in that span. Stankoven is active and expected to play for the Hurricanes today. Given his consistent scoring and hot streak, he is a strong candidate to find the back of the net once again in Game 3.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "44-27-11",
           "awayLast5": [
-            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "L"
           ]
         }
@@ -184,123 +196,123 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Toronto Blue Jays @ Los Angeles Angels",
-          "betType": "spread",
-          "pick": "Los Angeles Angels -1.5",
-          "odds": "+136",
+          "game": "Philadelphia Phillies vs Chicago Cubs",
+          "betType": "moneyline",
+          "pick": "Chicago Cubs",
+          "odds": "+100",
           "confidence": "high",
-          "rationale": "The Los Angeles Angels hold a significant pitching advantage with Soriano (0.28 ERA, 0.73 WHIP) facing Toronto's Lauer (7.13 ERA), which is noted as the widest pitching matchup edge on today's slate. Public betting on the run line is overwhelmingly on the Angels, with 100% of both money and tickets, indicating strong confidence in them covering. The Angels' powerful offense, with 34 home runs, is well-positioned to exploit Lauer's vulnerabilities. A projected final score of Angels 6, Blue Jays 3 further supports a multi-run victory for Los Angeles.",
-          "awayRecord": "10-13",
-          "homeRecord": "11-14",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Houston Astros @ Cleveland Guardians",
-          "betType": "spread",
-          "pick": "Cleveland Guardians -1.5",
-          "odds": "+136",
-          "confidence": "high",
-          "rationale": "The Cleveland Guardians are a strong play on the run line, primarily due to a clear starting pitching advantage with Tanner Bibee facing Houston's Peter Lambert, who carries a high 7.20 ERA and 1.60 WHIP. Houston's overall team pitching struggles are evident with a 6.05 ERA and 1.65 WHIP. Line movement shows a 10-cent shift towards Cleveland on the moneyline, with 73% of tickets on the Guardians, signaling sharp money backing the home favorite. Cleveland also has a solid record as a favorite this season, going 5-3 in their last 10 games when in that role.",
-          "awayRecord": "9-16",
-          "homeRecord": "14-11",
+          "rationale": "The Chicago Cubs are on an impressive eight-game winning streak and have already swept the first three games of this series against the struggling Phillies, who have lost eight straight. While Phillies starter Cristopher Sanchez has a strong 1.59 ERA, Cubs starter Edward Cabrera has a 2.38 ERA, and the Cubs' overall team offense and pitching staff are performing better. The line movement, with the Cubs' moneyline tightening from +109 to +104 despite opening as underdogs, indicates sharper money backing Chicago. The Cubs are at home and have a significant momentum advantage, making them a strong play at plus money.",
+          "awayRecord": "8-16",
+          "homeRecord": "15-9",
           "awayLast5": [
             "L",
             "L",
             "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "San Diego Padres vs Colorado Rockies",
+          "betType": "total",
+          "pick": "Over 11",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "This game is at Coors Field, which is known for high-scoring affairs. Both starting pitchers, Matt Waldron (14.73 ERA) for the Padres and Ryan Feltner (6.00 ERA) for the Rockies, have struggled significantly this season. Waldron allowed six runs in his first start, and Feltner gave up six runs, seven hits, and three homers to the Padres earlier this month. The Padres' lineup has a .359 career batting average and .954 OPS against Feltner, suggesting they can exploit this matchup. With two struggling pitchers in a hitter-friendly park, the Over 11 is highly probable.",
+          "awayRecord": "16-8",
+          "homeRecord": "10-15",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
             "W",
             "L"
           ],
           "homeLast5": [
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "San Diego Padres @ Colorado Rockies",
+          "game": "Chicago White Sox vs Arizona Diamondbacks",
           "betType": "spread",
-          "pick": "San Diego Padres -1.5",
-          "odds": "-108",
+          "pick": "Arizona Diamondbacks -1.5",
+          "odds": "+132",
           "confidence": "high",
-          "rationale": "The San Diego Padres have demonstrated significant dominance in recent head-to-head matchups against the Rockies, winning all of their last five games and covering the spread in each. San Diego enters this game with a strong 16-7 overall record and an impressive 7-3 record on the road. Padres starter Walker Buehler has been reliable against the spread, with his team covering in all four of his starts this season. The projected win probability for the Padres stands at 66.6%, further solidifying confidence in a multi-run victory.",
-          "awayRecord": "16-7",
+          "rationale": "The Arizona Diamondbacks hold a clear advantage over the Chicago White Sox in team offense and overall profile. Arizona won the previous game in the series 11-7, and they have a better record in day games (6-3 vs. 5-8). While White Sox starter Davis Martin has a respectable 2.16 ERA, Diamondbacks starter Mike Soroka is also performing well with a 4-0 record and 2.78 ERA. The line movement shows sharper money backing Arizona, with their moneyline strengthening from -142 to -156.",
+          "awayRecord": "9-15",
+          "homeRecord": "14-10",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers vs San Francisco Giants",
+          "betType": "moneyline",
+          "pick": "Los Angeles Dodgers",
+          "odds": "-162",
+          "confidence": "medium",
+          "rationale": "Despite losing the first two games of this series, the Los Angeles Dodgers possess a superior overall team profile and pitching advantage with Tyler Glasnow on the mound. Glasnow boasts an excellent 2.62 xERA and 24.2 K-BB%, while Giants starter Logan Webb has struggled with a 4.42 xERA and high hard-contact rate. The Dodgers' offense, despite being limited in the series so far, is a top-tier unit in every category. This is a bounce-back spot for a strong Dodgers team looking to avoid a sweep against a Giants team with significant injuries.",
+          "awayRecord": "16-8",
+          "homeRecord": "11-13",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "New York Yankees vs Boston Red Sox",
+          "betType": "spread",
+          "pick": "New York Yankees -1.5",
+          "odds": "+115",
+          "confidence": "medium",
+          "rationale": "The New York Yankees are on a five-game winning streak and have already secured a 2-0 series lead against the Red Sox with dominant 4-0 and 4-1 victories. Yankees starter Cam Schlittler has been exceptional with a 1.95 ERA and 0.76 WHIP, while the Red Sox are starting Payton Tolle, who is considered outmatched. The Yankees also hold a significant power advantage, with 34 home runs compared to Boston's 13. Overwhelming public support and line movement towards the Yankees further reinforce confidence in them covering the run line.",
+          "awayRecord": "15-9",
           "homeRecord": "9-15",
           "awayLast5": [
             "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Yankees @ Boston Red Sox",
-          "betType": "moneyline",
-          "pick": "New York Yankees",
-          "odds": "-146",
-          "confidence": "medium",
-          "rationale": "The New York Yankees are favored due to their more dangerous offense, led by key hitters like Judge and Rice, and a superior overall staff profile in terms of ERA and WHIP compared to the Boston Red Sox. Max Fried is considered a slightly more trustworthy starter for New York when compared to Boston's Ranger Suarez. Despite 100% of both public money and tickets being on the Yankees, the moneyline has only seen a modest shift, suggesting that oddsmakers are comfortable with the current price and perceive value. The Yankees also secured a decisive 4-0 victory against the Red Sox in their previous game.",
-          "awayRecord": "14-9",
-          "homeRecord": "9-14",
-          "awayLast5": [
-            "L",
             "W",
             "W",
             "W",
             "W"
           ],
           "homeLast5": [
-            "W",
             "L",
             "L",
             "W",
+            "L",
             "L"
-          ]
-        },
-        {
-          "game": "Baltimore Orioles @ Kansas City Royals",
-          "betType": "total",
-          "pick": "Over 9.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "This game presents a strong lean towards the Over due to favorable hitting conditions and a smaller ballpark in Kansas City. Both starting pitchers, Chris Bassitt and Michael Wacha, have questionable outlooks, with Wacha specifically showing loud regression indicators. Furthermore, both bullpens are likely fatigued from two tight games already played in the series. Despite overwhelming public money on the Under, the total has not moved off 9, suggesting that the market anticipates more runs than the public consensus. The Orioles' offense has been consistently productive, averaging 5 runs over their last 11 games.",
-          "awayRecord": "11-13",
-          "homeRecord": "8-16",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
           ]
         }
       ]
