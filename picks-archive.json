@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-04-23",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "New York Knicks @ Atlanta Hawks",
+            "betType": "total",
+            "pick": "Under 214.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Knicks 108, Atlanta Hawks 109"
+          },
+          {
+            "game": "Cleveland Cavaliers @ Toronto Raptors",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers -3.5",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cleveland Cavaliers 104, Toronto Raptors 126"
+          },
+          {
+            "game": "Denver Nuggets @ Minnesota Timberwolves",
+            "betType": "total",
+            "pick": "Over 234.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Denver Nuggets 96, Minnesota Timberwolves 113"
+          },
+          {
+            "game": "New York Knicks @ Atlanta Hawks",
+            "betType": "moneyline",
+            "pick": "New York Knicks (-122)",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Knicks 108, Atlanta Hawks 109"
+          },
+          {
+            "game": "Cleveland Cavaliers @ Toronto Raptors",
+            "betType": "spread",
+            "pick": "Toronto Raptors +3.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 104, Toronto Raptors 126"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes @ Ottawa Senators",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 2, Ottawa Senators 1"
+          },
+          {
+            "game": "Colorado Avalanche @ Los Angeles Kings",
+            "betType": "spread",
+            "pick": "Colorado Avalanche -1.5",
+            "odds": "+158",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Avalanche 4, Los Angeles Kings 2"
+          },
+          {
+            "game": "Buffalo Sabres @ Boston Bruins",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Buffalo Sabres 3, Boston Bruins 1"
+          },
+          {
+            "game": "Carolina Hurricanes @ Ottawa Senators",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Hurricanes 2, Ottawa Senators 1"
+          },
+          {
+            "game": "Carolina Hurricanes @ Ottawa Senators",
+            "betType": "prop",
+            "pick": "Logan Stankoven Anytime Goal Scorer",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Philadelphia Phillies vs Chicago Cubs",
+            "betType": "moneyline",
+            "pick": "Chicago Cubs",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Phillies 7, Chicago Cubs 8"
+          },
+          {
+            "game": "San Diego Padres vs Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 11",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego Padres 10, Colorado Rockies 8"
+          },
+          {
+            "game": "Chicago White Sox vs Arizona Diamondbacks",
+            "betType": "spread",
+            "pick": "Arizona Diamondbacks -1.5",
+            "odds": "+132",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago White Sox 4, Arizona Diamondbacks 1"
+          },
+          {
+            "game": "Los Angeles Dodgers vs San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Los Angeles Dodgers",
+            "odds": "-162",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Dodgers 3, San Francisco Giants 0"
+          },
+          {
+            "game": "New York Yankees vs Boston Red Sox",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Yankees 4, Boston Red Sox 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-22",
     "sports": [
       {
