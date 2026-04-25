@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-04-24",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Boston Celtics vs Philadelphia 76ers",
+            "betType": "spread",
+            "pick": "Boston Celtics -7.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "W",
+            "score": "Boston Celtics 108, Philadelphia 76ers 100"
+          },
+          {
+            "game": "Los Angeles Lakers vs Houston Rockets",
+            "betType": "spread",
+            "pick": "Los Angeles Lakers +8.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Lakers 112, Houston Rockets 108"
+          },
+          {
+            "game": "San Antonio Spurs vs Portland Trail Blazers",
+            "betType": "total",
+            "pick": "Over 219.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 120, Portland Trail Blazers 108"
+          },
+          {
+            "game": "Los Angeles Lakers vs Houston Rockets",
+            "betType": "total",
+            "pick": "Under 206.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Lakers 112, Houston Rockets 108"
+          },
+          {
+            "game": "San Antonio Spurs vs Portland Trail Blazers",
+            "betType": "spread",
+            "pick": "Portland Trail Blazers +2.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 120, Portland Trail Blazers 108"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Tampa Bay Lightning @ Montreal Canadiens",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Lightning 2, Montreal Canadiens 3"
+          },
+          {
+            "game": "Vegas Golden Knights @ Utah Mammoth",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights (-112)",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Vegas Golden Knights 2, Utah Mammoth 4"
+          },
+          {
+            "game": "Edmonton Oilers @ Anaheim Ducks",
+            "betType": "spread",
+            "pick": "Edmonton Oilers -1.5",
+            "odds": "+170",
+            "confidence": "high",
+            "result": "L",
+            "score": "Edmonton Oilers 4, Anaheim Ducks 7"
+          },
+          {
+            "game": "Vegas Golden Knights @ Utah Mammoth",
+            "betType": "prop",
+            "pick": "Mark Stone Anytime Goalscorer",
+            "odds": "+220",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Edmonton Oilers @ Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-155",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Edmonton Oilers 4, Anaheim Ducks 7"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Philadelphia Phillies vs Atlanta Braves",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5",
+            "odds": "+136",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Phillies 3, Atlanta Braves 5"
+          },
+          {
+            "game": "Pittsburgh Pirates vs Milwaukee Brewers",
+            "betType": "total",
+            "pick": "Under 7",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Pittsburgh Pirates 6, Milwaukee Brewers 0"
+          },
+          {
+            "game": "Minnesota Twins vs Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Twins 2, Tampa Bay Rays 6"
+          },
+          {
+            "game": "Cleveland Guardians vs Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Cleveland Guardians",
+            "odds": "-126",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Guardians 8, Toronto Blue Jays 6"
+          },
+          {
+            "game": "Chicago Cubs vs Los Angeles Dodgers",
+            "betType": "moneyline",
+            "pick": "Chicago Cubs",
+            "odds": "+140",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago Cubs 6, Los Angeles Dodgers 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Atlanta United FC @ Toronto FC",
+            "betType": "moneyline",
+            "pick": "Toronto FC",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New York City FC @ CF Montreal",
+            "betType": "moneyline",
+            "pick": "CF Montreal",
+            "odds": "+165",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Los Angeles FC @ Minnesota United FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New York Red Bulls @ FC Cincinnati",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New England Revolution @ Inter Miami CF",
+            "betType": "moneyline",
+            "pick": "Inter Miami CF",
+            "odds": "-310",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-23",
     "sports": [
       {
