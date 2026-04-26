@@ -1,5 +1,234 @@
 [
   {
+    "date": "2026-04-25",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Detroit Pistons @ Orlando Magic",
+            "betType": "spread",
+            "pick": "Orlando Magic +2.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Detroit Pistons 105, Orlando Magic 113"
+          },
+          {
+            "game": "Oklahoma City Thunder @ Phoenix Suns",
+            "betType": "spread",
+            "pick": "Phoenix Suns +9.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Oklahoma City Thunder 121, Phoenix Suns 109"
+          },
+          {
+            "game": "New York Knicks @ Atlanta Hawks",
+            "betType": "spread",
+            "pick": "New York Knicks -2.5",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Knicks 114, Atlanta Hawks 98"
+          },
+          {
+            "game": "Denver Nuggets @ Minnesota Timberwolves",
+            "betType": "total",
+            "pick": "Under 229.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Denver Nuggets 96, Minnesota Timberwolves 112"
+          },
+          {
+            "game": "Oklahoma City Thunder @ Phoenix Suns",
+            "betType": "prop",
+            "pick": "Chet Holmgren Over 16.5 points",
+            "odds": "-111",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chet Holmgren: 10 points (line 16.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes vs Ottawa Senators",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "-126",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Ottawa Senators 2"
+          },
+          {
+            "game": "Carolina Hurricanes vs Ottawa Senators",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Carolina Hurricanes 4, Ottawa Senators 2"
+          },
+          {
+            "game": "Dallas Stars vs Minnesota Wild",
+            "betType": "moneyline",
+            "pick": "Minnesota Wild",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "W",
+            "score": "Dallas Stars 2, Minnesota Wild 3"
+          },
+          {
+            "game": "Dallas Stars vs Minnesota Wild",
+            "betType": "prop",
+            "pick": "Jason Robertson Under 3.5 Shots on Goal",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Jason Robertson: not found in box score"
+          },
+          {
+            "game": "Pittsburgh Penguins vs Philadelphia Flyers",
+            "betType": "moneyline",
+            "pick": "Philadelphia Flyers",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Pittsburgh Penguins 4, Philadelphia Flyers 2"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Boston Red Sox @ Baltimore Orioles",
+            "betType": "moneyline",
+            "pick": "Baltimore Orioles",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Red Sox 17, Baltimore Orioles 1"
+          },
+          {
+            "game": "Seattle Mariners @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners",
+            "odds": "-144",
+            "confidence": "high",
+            "result": "W",
+            "score": "Seattle Mariners 11, St. Louis Cardinals 9"
+          },
+          {
+            "game": "New York Yankees @ Houston Astros",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Yankees 8, Houston Astros 3"
+          },
+          {
+            "game": "New York Yankees @ Houston Astros",
+            "betType": "prop",
+            "pick": "Aaron Judge to hit a Home Run",
+            "odds": "+225",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Miami Marlins @ San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Miami Marlins 2, San Francisco Giants 6"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Red Bull New York @ FC Cincinnati",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Red Bull New York 0, FC Cincinnati 2"
+          },
+          {
+            "game": "Colorado Rapids @ Vancouver Whitecaps",
+            "betType": "moneyline",
+            "pick": "Vancouver Whitecaps",
+            "odds": "-320",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Rapids 1, Vancouver Whitecaps 3"
+          },
+          {
+            "game": "San Jose Earthquakes @ St. Louis CITY SC",
+            "betType": "moneyline",
+            "pick": "San Jose Earthquakes",
+            "odds": "+150",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Jose Earthquakes 3, St. Louis CITY SC 2"
+          },
+          {
+            "game": "Orlando City SC @ D.C. United",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Orlando City SC 2, D.C. United 3"
+          }
+        ]
+      },
+      {
+        "sport": "UFC",
+        "picks": [
+          {
+            "game": "Eric McConico @ Rodolfo Vieira",
+            "betType": "moneyline",
+            "pick": "Rodolfo Vieira",
+            "odds": "-300",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Youssef Zalal @ Aljamain Sterling",
+            "betType": "moneyline",
+            "pick": "Youssef Zalal",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Victor Valenzuela @ Max Griffin",
+            "betType": "moneyline",
+            "pick": "Victor Valenzuela",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-24",
     "sports": [
       {
@@ -161,8 +390,8 @@
             "pick": "Toronto FC",
             "odds": "-120",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Atlanta United FC 2, Toronto FC 1"
           },
           {
             "game": "New York City FC @ CF Montreal",
@@ -179,8 +408,8 @@
             "pick": "Over 2.5",
             "odds": "-145",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Atlanta United FC 2, Toronto FC 1"
           },
           {
             "game": "New York Red Bulls @ FC Cincinnati",
@@ -197,8 +426,8 @@
             "pick": "Inter Miami CF",
             "odds": "-310",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "New England Revolution 1, Inter Miami CF 1"
           }
         ]
       }
