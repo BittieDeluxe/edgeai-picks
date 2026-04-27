@@ -1,5 +1,184 @@
 [
   {
+    "date": "2026-04-26",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Boston Celtics vs Philadelphia 76ers",
+            "betType": "spread",
+            "pick": "Boston Celtics -7.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Boston Celtics 128, Philadelphia 76ers 96"
+          },
+          {
+            "game": "Los Angeles Lakers vs Houston Rockets",
+            "betType": "spread",
+            "pick": "Los Angeles Lakers +4.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Lakers 96, Houston Rockets 115"
+          },
+          {
+            "game": "Cleveland Cavaliers vs Toronto Raptors",
+            "betType": "total",
+            "pick": "Under 219.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 89, Toronto Raptors 93"
+          },
+          {
+            "game": "San Antonio Spurs vs Portland Trail Blazers",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -5.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 114, Portland Trail Blazers 93"
+          },
+          {
+            "game": "Los Angeles Lakers vs Houston Rockets",
+            "betType": "prop",
+            "pick": "Amen Thompson Over 7.5 Rebounds",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Amen Thompson: 4 Rebounds (line 7.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Colorado Avalanche vs Los Angeles Kings",
+            "betType": "moneyline",
+            "pick": "Colorado Avalanche",
+            "odds": "-170",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Avalanche 5, Los Angeles Kings 1"
+          },
+          {
+            "game": "Edmonton Oilers vs Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "+138",
+            "confidence": "high",
+            "result": "L",
+            "score": "Edmonton Oilers 3, Anaheim Ducks 4"
+          },
+          {
+            "game": "Buffalo Sabres vs Boston Bruins",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Buffalo Sabres 6, Boston Bruins 1"
+          },
+          {
+            "game": "Tampa Bay Lightning vs Montreal Canadiens",
+            "betType": "moneyline",
+            "pick": "Montreal Canadiens",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tampa Bay Lightning 3, Montreal Canadiens 2"
+          },
+          {
+            "game": "Tampa Bay Lightning vs Montreal Canadiens",
+            "betType": "prop",
+            "pick": "Over 0.5 Goals",
+            "odds": "+154",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "New York Yankees @ Houston Astros",
+            "betType": "moneyline",
+            "pick": "New York Yankees",
+            "odds": "-134",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Yankees 4, Houston Astros 7"
+          },
+          {
+            "game": "San Diego Padres @ Arizona Diamondbacks",
+            "betType": "moneyline",
+            "pick": "San Diego Padres",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Diego Padres 7, Arizona Diamondbacks 12"
+          },
+          {
+            "game": "Detroit Tigers @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Detroit Tigers 8, Cincinnati Reds 3"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Pittsburgh Pirates 0, Milwaukee Brewers 5"
+          },
+          {
+            "game": "Cleveland Guardians @ Toronto Blue Jays",
+            "betType": "spread",
+            "pick": "Cleveland Guardians +1.5",
+            "odds": "-194",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Guardians 2, Toronto Blue Jays 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Real Salt Lake @ LA Galaxy",
+            "betType": "moneyline",
+            "pick": "Real Salt Lake",
+            "odds": "+185",
+            "confidence": "high",
+            "result": "L",
+            "score": "Real Salt Lake 1, LA Galaxy 2"
+          },
+          {
+            "game": "Real Salt Lake @ LA Galaxy",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+125",
+            "confidence": "high",
+            "result": "L",
+            "score": "Real Salt Lake 1, LA Galaxy 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-25",
     "sports": [
       {
