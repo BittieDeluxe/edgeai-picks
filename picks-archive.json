@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-04-27",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Detroit Pistons @ Orlando Magic",
+            "betType": "total",
+            "pick": "Over 215.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 88, Orlando Magic 94"
+          },
+          {
+            "game": "Oklahoma City Thunder @ Phoenix Suns",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -10.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Oklahoma City Thunder 131, Phoenix Suns 122"
+          },
+          {
+            "game": "Minnesota Timberwolves @ Denver Nuggets",
+            "betType": "spread",
+            "pick": "Denver Nuggets -11.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Timberwolves 113, Denver Nuggets 125"
+          },
+          {
+            "game": "Oklahoma City Thunder @ Phoenix Suns",
+            "betType": "prop",
+            "pick": "Shai Gilgeous-Alexander Over 31.5 Points",
+            "odds": "-116",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Shai Gilgeous-Alexander: 31 Points (line 31.5)"
+          },
+          {
+            "game": "Detroit Pistons @ Orlando Magic",
+            "betType": "spread",
+            "pick": "Orlando Magic +3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Pistons 88, Orlando Magic 94"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Philadelphia Flyers @ Pittsburgh Penguins",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Penguins (-137)",
+            "odds": "-137",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Flyers 2, Pittsburgh Penguins 3"
+          },
+          {
+            "game": "Philadelphia Flyers @ Pittsburgh Penguins",
+            "betType": "total",
+            "pick": "Under 5.5 (-102)",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Flyers 2, Pittsburgh Penguins 3"
+          },
+          {
+            "game": "Vegas Golden Knights @ Utah Mammoth",
+            "betType": "moneyline",
+            "pick": "Utah Mammoth (-102)",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Vegas Golden Knights 5, Utah Mammoth 4"
+          },
+          {
+            "game": "Vegas Golden Knights @ Utah Mammoth",
+            "betType": "total",
+            "pick": "Under 5.5 (+104)",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vegas Golden Knights 5, Utah Mammoth 4"
+          },
+          {
+            "game": "Philadelphia Flyers @ Pittsburgh Penguins",
+            "betType": "prop",
+            "pick": "Rickard Rakell Over 0.5 Points",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Rickard Rakell: not found in box score"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Miami Marlins @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-138",
+            "confidence": "high",
+            "result": "L",
+            "score": "Miami Marlins 4, Los Angeles Dodgers 5"
+          },
+          {
+            "game": "New York Yankees @ Texas Rangers",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Yankees 4, Texas Rangers 2"
+          },
+          {
+            "game": "Boston Red Sox @ Toronto Blue Jays",
+            "betType": "spread",
+            "pick": "Toronto Blue Jays -1.5",
+            "odds": "+152",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Red Sox 5, Toronto Blue Jays 0"
+          },
+          {
+            "game": "Chicago Cubs @ San Diego Padres",
+            "betType": "moneyline",
+            "pick": "San Diego Padres",
+            "odds": "-116",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago Cubs 7, San Diego Padres 9"
+          },
+          {
+            "game": "Seattle Mariners @ Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners",
+            "odds": "-132",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Seattle Mariners 4, Minnesota Twins 11"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Bayern Munich vs Paris Saint Germain",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Bayern Munich vs Paris Saint Germain",
+            "betType": "moneyline",
+            "pick": "Bayern Munich",
+            "odds": "+170",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Bayern Munich vs Paris Saint Germain",
+            "betType": "prop",
+            "pick": "Harry Kane Anytime Goalscorer",
+            "odds": "-111",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Bayern Munich vs Paris Saint Germain",
+            "betType": "prop",
+            "pick": "Khvicha Kvaratskhelia Anytime Goalscorer",
+            "odds": "+170",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Bayern Munich vs Paris Saint Germain",
+            "betType": "prop",
+            "pick": "Michael Olise Over 2.5 Shots",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-26",
     "sports": [
       {
