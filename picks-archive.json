@@ -1,5 +1,202 @@
 [
   {
+    "date": "2026-04-28",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Philadelphia 76ers @ Boston Celtics",
+            "betType": "spread",
+            "pick": "Boston Celtics -11.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia 76ers 113, Boston Celtics 97"
+          },
+          {
+            "game": "Atlanta Hawks @ New York Knicks",
+            "betType": "spread",
+            "pick": "New York Knicks -6.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "W",
+            "score": "Atlanta Hawks 97, New York Knicks 126"
+          },
+          {
+            "game": "Portland Trail Blazers @ San Antonio Spurs",
+            "betType": "total",
+            "pick": "Under 216.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Portland Trail Blazers 95, San Antonio Spurs 114"
+          },
+          {
+            "game": "Portland Trail Blazers @ San Antonio Spurs",
+            "betType": "prop",
+            "pick": "Victor Wembanyama Over 25.0 Points",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Victor Wembanyama: 17 Points (line 25.0)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Boston Bruins vs Buffalo Sabres",
+            "betType": "moneyline",
+            "pick": "Buffalo Sabres",
+            "odds": "-170",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Bruins 2, Buffalo Sabres 1"
+          },
+          {
+            "game": "Boston Bruins vs Buffalo Sabres",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Bruins 2, Buffalo Sabres 1"
+          },
+          {
+            "game": "Minnesota Wild vs Dallas Stars",
+            "betType": "moneyline",
+            "pick": "Dallas Stars",
+            "odds": "-128",
+            "confidence": "high",
+            "result": "L",
+            "score": "Minnesota Wild 4, Dallas Stars 2"
+          },
+          {
+            "game": "Minnesota Wild vs Dallas Stars",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Wild 4, Dallas Stars 2"
+          },
+          {
+            "game": "Anaheim Ducks vs Edmonton Oilers",
+            "betType": "moneyline",
+            "pick": "Edmonton Oilers",
+            "odds": "-172",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Anaheim Ducks 1, Edmonton Oilers 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Miami Marlins @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-132",
+            "confidence": "high",
+            "result": "L",
+            "score": "Miami Marlins 2, Los Angeles Dodgers 1"
+          },
+          {
+            "game": "New York Yankees @ Texas Rangers",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Yankees 3, Texas Rangers 2"
+          },
+          {
+            "game": "Boston Red Sox @ Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox (+102)",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Red Sox 0, Toronto Blue Jays 3"
+          },
+          {
+            "game": "Los Angeles Angels @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Los Angeles Angels (-132)",
+            "odds": "-132",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Angels 2, Chicago White Sox 5"
+          },
+          {
+            "game": "Chicago Cubs @ San Diego Padres",
+            "betType": "moneyline",
+            "pick": "San Diego Padres (+100)",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Cubs 8, San Diego Padres 3"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Bayern Munich @ Paris Saint-Germain",
+            "betType": "moneyline",
+            "pick": "Paris Saint-Germain",
+            "odds": "+140",
+            "confidence": "high",
+            "result": "W",
+            "score": "Bayern Munich 4, Paris Saint-Germain 5"
+          },
+          {
+            "game": "Bayern Munich @ Paris Saint-Germain",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "L",
+            "score": "Bayern Munich 4, Paris Saint-Germain 5"
+          },
+          {
+            "game": "Bayern Munich @ Paris Saint-Germain",
+            "betType": "moneyline",
+            "pick": "Bayern Munich",
+            "odds": "+160",
+            "confidence": "high",
+            "result": "L",
+            "score": "Bayern Munich 4, Paris Saint-Germain 5"
+          },
+          {
+            "game": "Bayern Munich @ Paris Saint-Germain",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Bayern Munich 4, Paris Saint-Germain 5"
+          },
+          {
+            "game": "Bayern Munich @ Paris Saint-Germain",
+            "betType": "moneyline",
+            "pick": "Paris Saint-Germain",
+            "odds": "+140",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Bayern Munich 4, Paris Saint-Germain 5"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-27",
     "sports": [
       {
