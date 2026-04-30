@@ -1,5 +1,252 @@
 [
   {
+    "date": "2026-04-29",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Orlando Magic vs Detroit Pistons",
+            "betType": "total",
+            "pick": "Under 211.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Orlando Magic 109, Detroit Pistons 116"
+          },
+          {
+            "game": "Toronto Raptors vs Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers -8.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Toronto Raptors 120, Cleveland Cavaliers 125"
+          },
+          {
+            "game": "Houston Rockets vs Los Angeles Lakers",
+            "betType": "spread",
+            "pick": "Los Angeles Lakers -4.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Rockets 99, Los Angeles Lakers 93"
+          },
+          {
+            "game": "Orlando Magic vs Detroit Pistons",
+            "betType": "spread",
+            "pick": "Orlando Magic +9.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Orlando Magic 109, Detroit Pistons 116"
+          },
+          {
+            "game": "Houston Rockets vs Los Angeles Lakers",
+            "betType": "moneyline",
+            "pick": "Los Angeles Lakers",
+            "odds": "-180",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Rockets 99, Los Angeles Lakers 93"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Pittsburgh Penguins @ Philadelphia Flyers",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Penguins (+100)",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "L",
+            "score": "Pittsburgh Penguins 0, Philadelphia Flyers 1"
+          },
+          {
+            "game": "Pittsburgh Penguins @ Philadelphia Flyers",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Pittsburgh Penguins 0, Philadelphia Flyers 1"
+          },
+          {
+            "game": "Montreal Canadiens @ Tampa Bay Lightning",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Lightning (-172)",
+            "odds": "-172",
+            "confidence": "high",
+            "result": "L",
+            "score": "Montreal Canadiens 3, Tampa Bay Lightning 2"
+          },
+          {
+            "game": "Utah Mammoth @ Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-134",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Utah Mammoth 4, Vegas Golden Knights 5"
+          },
+          {
+            "game": "Montreal Canadiens @ Tampa Bay Lightning",
+            "betType": "spread",
+            "pick": "Montreal Canadiens +1.5 (-180)",
+            "odds": "-180",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Montreal Canadiens 3, Tampa Bay Lightning 2"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Tampa Bay Rays @ Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Rays 1, Cleveland Guardians 3"
+          },
+          {
+            "game": "Tampa Bay Rays @ Cleveland Guardians",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tampa Bay Rays 1, Cleveland Guardians 3"
+          },
+          {
+            "game": "New York Yankees @ Texas Rangers",
+            "betType": "moneyline",
+            "pick": "New York Yankees",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Yankees 0, Texas Rangers 3"
+          },
+          {
+            "game": "Seattle Mariners @ Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners",
+            "odds": "-134",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Seattle Mariners 5, Minnesota Twins 3"
+          },
+          {
+            "game": "Boston Red Sox @ Toronto Blue Jays",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Boston Red Sox 1, Toronto Blue Jays 8"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Arsenal @ Atlético Madrid",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "W",
+            "score": "Arsenal 1, Atlético Madrid 1"
+          },
+          {
+            "game": "Arsenal @ Atlético Madrid",
+            "betType": "moneyline",
+            "pick": "Arsenal",
+            "odds": "+125",
+            "confidence": "high",
+            "result": "L",
+            "score": "Arsenal 1, Atlético Madrid 1"
+          },
+          {
+            "game": "Arsenal @ Atlético Madrid",
+            "betType": "moneyline",
+            "pick": "Atlético Madrid",
+            "odds": "+220",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Arsenal 1, Atlético Madrid 1"
+          },
+          {
+            "game": "Arsenal @ Atlético Madrid",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Arsenal 1, Atlético Madrid 1"
+          },
+          {
+            "game": "Arsenal @ Atlético Madrid",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-160",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arsenal 1, Atlético Madrid 1"
+          }
+        ]
+      },
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "Aston Villa @ Nottingham Forest",
+            "betType": "moneyline",
+            "pick": "Aston Villa",
+            "odds": "+180",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Aston Villa @ Nottingham Forest",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "SC Freiburg @ SC Braga",
+            "betType": "moneyline",
+            "pick": "SC Freiburg",
+            "odds": "+210",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "SC Freiburg @ SC Braga",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-28",
     "sports": [
       {

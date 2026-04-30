@@ -1,21 +1,94 @@
 {
-  "date": "2026-04-29",
-  "generatedAt": "2026-04-29T16:23:36.723Z",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T16:13:05.438Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Orlando Magic vs Detroit Pistons",
+          "game": "New York Knicks @ Atlanta Hawks",
+          "betType": "spread",
+          "pick": "New York Knicks -2.5",
+          "odds": "-114",
+          "confidence": "high",
+          "rationale": "The New York Knicks enter Game 6 on a two-game winning streak, including a dominant 29-point victory in Game 5 against the Hawks, showcasing strong recent form. The Atlanta Hawks, conversely, are on a two-game losing streak and have a 4-6 record in their last 10 games, indicating a struggle for consistency. While Josh Hart is questionable for the Knicks, insiders expect him to play, and the Hawks are without Jock Landale, further impacting their frontcourt depth. With the Knicks leading the series 3-2 and aiming to close it out, their motivation and recent performance suggest they are well-positioned to cover the spread on the road.",
+          "awayRecord": "53-29",
+          "homeRecord": "46-36",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Boston Celtics @ Philadelphia 76ers",
+          "betType": "spread",
+          "pick": "Boston Celtics -6.5",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "The Boston Celtics boast a clean injury report, entering Game 6 with their full rotation available for the first time in the series, which is a significant advantage. In contrast, Joel Embiid for the 76ers is probable but still recovering from appendectomy surgery and a recent knee bump, suggesting he's not at 100%, while Tyrese Maxey is also playing through a finger injury. Boston has demonstrated its capability to dominate Philadelphia, securing two prior wins in the series by 32 and 8 points. With the Celtics leading 3-2 and motivated to close out the series on the road to avoid a Game 7, their health and depth should allow them to cover the spread.",
+          "awayRecord": "56-26",
+          "homeRecord": "45-37",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Denver Nuggets @ Minnesota Timberwolves",
+          "betType": "spread",
+          "pick": "Denver Nuggets -6.5",
+          "odds": "-108",
+          "confidence": "high",
+          "rationale": "The Minnesota Timberwolves are severely hampered by injuries, with key players Anthony Edwards (knee) and Donte DiVincenzo (Achilles) ruled out for the remainder of the series, and Bones Hyland and Ayo Dosunmu questionable. This extensive injury list significantly weakens Minnesota's backcourt and overall offensive firepower. The Denver Nuggets, despite Aaron Gordon being questionable, secured a decisive 12-point victory in Game 5, demonstrating their ability to exploit the Timberwolves' depleted roster. With the Nuggets facing elimination and their core players like Nikola Jokic and Jamal Murray performing at an elite level, they are highly motivated to force a Game 7. The substantial injury advantage favors Denver to cover the -6.5 spread.",
+          "awayRecord": "54-28",
+          "homeRecord": "49-33",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "New York Knicks @ Atlanta Hawks",
           "betType": "total",
-          "pick": "Under 211.5",
-          "odds": "-112",
+          "pick": "Over 213.5",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "Both teams have demonstrated a tendency towards lower-scoring games in their recent head-to-head matchups, with the Under hitting in 80% of their last five meetings. The Detroit Pistons have also been an 'Under' team at home, with a 23-19 record to the Under. The Orlando Magic are significantly impacted by the likely absence of Franz Wagner, a key offensive creator, which should further limit their scoring potential. Detroit's halfcourt offense has also been the worst in the postseason, averaging only 82.6 points per 100 possessions.",
-          "awayRecord": "45-37",
-          "homeRecord": "60-22",
+          "rationale": "The Knicks' offense has shown its scoring potential, erupting for 126 points in Game 5, with Jalen Brunson leading the charge with 39 points. The Hawks have also contributed to higher-scoring games in the series, posting 109 and 107 points in their two victories. Atlanta's defense has been vulnerable, allowing 126 points in Game 5 and averaging 114.9 points allowed in their last 10 games. With the Hawks facing elimination at home, they are expected to play with urgency and push the pace, which should lead to more offensive possessions and a higher total score, pushing the game over 213.5.",
+          "awayRecord": "53-29",
+          "homeRecord": "46-36",
           "awayLast5": [
             "W",
+            "L",
             "L",
             "W",
             "W"
@@ -23,96 +96,35 @@
           "homeLast5": [
             "L",
             "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Toronto Raptors vs Cleveland Cavaliers",
-          "betType": "spread",
-          "pick": "Cleveland Cavaliers -8.5",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "The Cavaliers are playing at home in a pivotal Game 5 with the series tied 2-2, highly motivated to take the lead. Toronto is without key offensive player Immanuel Quickley for the remainder of the series, significantly impacting their scoring and playmaking. The Raptors have also struggled on the road recently, with a 3-7 record in their last 10 away games. With Cleveland looking to break a two-game losing streak and having a healthier roster, they are well-positioned to cover the spread at home.",
-          "awayRecord": "46-36",
-          "homeRecord": "52-30",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
             "W",
             "L",
             "L"
           ]
         },
         {
-          "game": "Houston Rockets vs Los Angeles Lakers",
-          "betType": "spread",
-          "pick": "Los Angeles Lakers -4.5",
-          "odds": "-105",
-          "confidence": "high",
-          "rationale": "The Lakers are at home in Game 5 with a commanding 3-1 series lead, motivated to close out the series after a poor Game 4 performance. They boast a strong 9-1 record in their last 10 home games. While Luka Doncic remains out, Austin Reaves is questionable but optimistic to return, potentially boosting the Lakers. The Rockets, conversely, are significantly hampered by the absences of Kevin Durant and Fred VanVleet. The Lakers' defense has consistently disrupted Houston's offense throughout the series, giving them a clear edge to cover the spread.",
-          "awayRecord": "52-30",
-          "homeRecord": "53-29",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Orlando Magic vs Detroit Pistons",
-          "betType": "spread",
-          "pick": "Orlando Magic +9.5",
-          "odds": "-105",
+          "game": "Boston Celtics @ Philadelphia 76ers",
+          "betType": "prop",
+          "pick": "Joel Embiid Over 29.5 Points",
+          "odds": "N/A",
           "confidence": "medium",
-          "rationale": "Despite the likely absence of Franz Wagner, the Orlando Magic have proven to be a tough matchup for the Pistons, holding a 3-1 series lead and covering the spread in 80% of their last five head-to-head contests. While Detroit is a strong home team (60-22 overall) and will be desperate, a 9.5-point spread is substantial against a Magic team that has consistently played them close. The Magic's resilience and ability to keep games tight, even on the road, make them a good value pick here.",
-          "awayRecord": "45-37",
-          "homeRecord": "60-22",
+          "rationale": "Joel Embiid is listed as probable for Game 6 and is expected to play, having delivered a crucial 33-point performance in Game 5 to keep the 76ers' season alive. He is the primary offensive engine for Philadelphia, averaging 29.5 points per game in the playoffs despite playing through injury. In a must-win elimination game at home, the 76ers will heavily rely on Embiid to carry the scoring load, as he demonstrated his ability to dominate inside even when his perimeter shot was off in Game 5. Given his importance and recent scoring output in a high-stakes environment, Embiid is poised to exceed 29.5 points.",
+          "propPlayer": "Joel Embiid",
+          "propTeam": "Philadelphia 76ers",
+          "awayRecord": "56-26",
+          "homeRecord": "45-37",
           "awayLast5": [
             "W",
             "L",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "L",
             "W",
             "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Houston Rockets vs Los Angeles Lakers",
-          "betType": "moneyline",
-          "pick": "Los Angeles Lakers",
-          "odds": "-180",
-          "confidence": "medium",
-          "rationale": "The Los Angeles Lakers hold a dominant 3-1 series lead and are playing at home, where they have an impressive 9-1 record in their last 10 games. The Houston Rockets are severely depleted by the absences of key players Kevin Durant and Fred VanVleet. Despite a recent loss in Game 4, the Lakers have largely controlled the series and will be highly motivated to close it out in front of their home crowd, making their moneyline a high-confidence pick.",
-          "awayRecord": "52-30",
-          "homeRecord": "53-29",
-          "awayLast5": [
-            "L",
-            "L",
             "L",
             "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L"
           ]
         }
       ]
@@ -121,117 +133,123 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Pittsburgh Penguins @ Philadelphia Flyers",
+          "game": "Dallas Stars vs Minnesota Wild",
           "betType": "moneyline",
-          "pick": "Pittsburgh Penguins (+100)",
-          "odds": "+100",
-          "confidence": "high",
-          "rationale": "The Pittsburgh Penguins have shown incredible resilience, winning two consecutive games to bring their series against the Flyers to 3-2 after being down 3-0. Sidney Crosby has been a dominant force, contributing a goal and three assists in the last two victories, and the team has 'found their stride' according to Crosby. The Flyers, a youth-laden team, are under immense pressure to close out the series, which is proving to be the hardest win. Given Pittsburgh's momentum and the high stakes, they are well-positioned to force a Game 7.",
-          "awayRecord": "41-25-16",
-          "homeRecord": "43-27-12",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Pittsburgh Penguins @ Philadelphia Flyers",
-          "betType": "total",
-          "pick": "Over 5.5",
+          "pick": "Minnesota Wild",
           "odds": "-122",
           "confidence": "high",
-          "rationale": "The head-to-head history between the Penguins and Flyers strongly indicates a high-scoring affair. Their last 10 matchups have averaged 7.6 goals per game, with both teams scoring in every one of those contests. Furthermore, all recent H2H matches have gone over 2.5 goals, highlighting their offensive tendencies. With the intensity of a playoff Game 6 and the Penguins' recent offensive surge, the Over 5.5 goals is a strong play.",
-          "awayRecord": "41-25-16",
-          "homeRecord": "43-27-12",
+          "rationale": "The Minnesota Wild are at home with a 3-2 series lead, aiming to close out the series against a significantly injured Dallas Stars team. Dallas is missing key forwards Roope Hintz and Arttu Hyry, which severely impacts their offensive depth and ability to match lines. Minnesota's power play has been revitalized by Mats Zuccarello's return, and their goaltender Jesper Wallstedt has outperformed Jake Oettinger in the series. Historically, road teams facing elimination in the playoffs win less than 45% of the time, further favoring the Wild to secure the win at home.",
+          "awayRecord": "50-20-12",
+          "homeRecord": "46-24-12",
           "awayLast5": [
             "L",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
             "W",
             "W",
             "L",
             "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Montreal Canadiens @ Tampa Bay Lightning",
+          "game": "Edmonton Oilers vs Anaheim Ducks",
           "betType": "moneyline",
-          "pick": "Tampa Bay Lightning (-172)",
-          "odds": "-172",
+          "pick": "Edmonton Oilers",
+          "odds": "-132",
           "confidence": "high",
-          "rationale": "The Tampa Bay Lightning hold home-ice advantage in this pivotal Game 5, having just tied the series 2-2 with a significant 3-2 comeback victory in Montreal. Key forward Brandon Hagel, who scored twice in Game 4, is confirmed to play, providing a boost to their offense. The Canadiens are dealing with injuries to defenseman Noah Dobson, who is out for the season, and forward Patrik Laine, who is day-to-day. The Lightning also have a favorable 13-5 H2H record against the Canadiens in their last 20 meetings.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "50-26-6",
+          "rationale": "The Edmonton Oilers forced Game 6 with a dominant 4-1 victory in Game 5, showcasing their offensive firepower led by Connor McDavid and Leon Draisaitl. The Anaheim Ducks' defense has been a major weakness, allowing four or more goals in four of the five games in this series, and their defensive metrics were among the worst in the league at the end of the regular season. With their backs against the wall, the Oilers' high-powered offense is poised to exploit Anaheim's defensive struggles and extend the series.",
+          "awayRecord": "41-30-11",
+          "homeRecord": "43-33-6",
           "awayLast5": [
             "W",
             "L",
-            "W",
-            "L"
+            "L",
+            "L",
+            "W"
           ],
           "homeLast5": [
             "L",
             "W",
-            "L",
-            "W"
+            "W",
+            "W",
+            "L"
           ]
         },
         {
-          "game": "Utah Mammoth @ Vegas Golden Knights",
+          "game": "Dallas Stars vs Minnesota Wild",
           "betType": "total",
           "pick": "Over 5.5",
-          "odds": "-134",
-          "confidence": "medium",
-          "rationale": "The series between the Utah Mammoth and Vegas Golden Knights has seen significant offensive production, with their most recent game ending in a 5-4 overtime victory for Vegas. The Golden Knights managed to score 5 goals in Game 4 despite nearly squandering a 3-0 lead, while the Mammoth put up 4 goals. With the series now tied 2-2, both teams are expected to maintain an aggressive offensive strategy, making the Over 5.5 a high-confidence pick.",
-          "awayRecord": "43-33-6",
-          "homeRecord": "39-26-17",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "Despite the total holding steady at 5.5, the Over has seen strong public support, indicating expectations for a higher-scoring affair. The Minnesota Wild have been the more dangerous offensive team in the series, averaging 3.5 goals per game, and their power play has improved with Mats Zuccarello back in the lineup. Dallas, facing elimination and struggling for 5-on-5 scoring, will be desperate to generate offense, which could lead to a more open game with increased scoring opportunities for both sides.",
+          "awayRecord": "50-20-12",
+          "homeRecord": "46-24-12",
           "awayLast5": [
             "L",
             "W",
             "W",
+            "L",
             "L"
           ],
           "homeLast5": [
             "W",
             "L",
             "L",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Montreal Canadiens @ Tampa Bay Lightning",
-          "betType": "spread",
-          "pick": "Montreal Canadiens +1.5 (-180)",
-          "odds": "-180",
+          "game": "Edmonton Oilers vs Anaheim Ducks",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "-158",
           "confidence": "medium",
-          "rationale": "Despite being the underdog, the Montreal Canadiens have consistently kept games close against the Tampa Bay Lightning in this playoff series, with all three previous matchups going to overtime. Historically, Montreal has also covered the +1.5 spread in four of their last five head-to-head contests against Tampa Bay. Even with some key injuries, the Canadiens have demonstrated resilience and the ability to compete in tight games, suggesting they can keep the score within one goal.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "50-26-6",
+          "rationale": "This series has consistently produced high-scoring games, with Anaheim winning Game 3 (7-4) and Game 4 (4-3 OT), and Edmonton winning Game 5 (4-1). The total has seen upward movement, reflecting the market's expectation of continued offensive output. Anaheim's defensive struggles, allowing four or more goals in four of the five games, combined with Edmonton's potent offense fighting for survival, suggest a game ripe for goals.",
+          "awayRecord": "41-30-11",
+          "homeRecord": "43-33-6",
           "awayLast5": [
             "W",
             "L",
-            "W",
-            "L"
+            "L",
+            "L",
+            "W"
           ],
           "homeLast5": [
             "L",
             "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Edmonton Oilers vs Anaheim Ducks",
+          "betType": "prop",
+          "pick": "Leo Carlsson Over 3.5 Shots on Goal",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "Anaheim Ducks center Leo Carlsson has been exceptionally active offensively throughout this playoff series, exceeding 3.5 shots on goal in all five games played. He has registered 26 shots on net in the series, significantly higher than his regular season average. As the Ducks play at home with a chance to close out the series, Carlsson is expected to maintain his aggressive shooting volume. Leo Carlsson is active and on the Anaheim Ducks roster for today's game.",
+          "awayRecord": "41-30-11",
+          "homeRecord": "43-33-6",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
             "L",
             "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
           ]
         }
       ]
@@ -240,89 +258,41 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Tampa Bay Rays @ Cleveland Guardians",
-          "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "-104",
+          "game": "Detroit Tigers vs Atlanta Braves",
+          "betType": "spread",
+          "pick": "Atlanta Braves -1.5",
+          "odds": "+164",
           "confidence": "high",
-          "rationale": "The Tampa Bay Rays are on a six-game winning streak, having already won the first two games of this series against the Guardians with dominant pitching performances, allowing only two runs combined. Rays starter Drew Rasmussen boasts a strong 2.45 ERA and 0.74 WHIP, with excellent underlying metrics, while Guardians starter Gavin Williams has a higher xERA and walk rate. The Rays' offense is performing above average, contrasting with the Guardians' struggling bats. The line movement, shifting from the Rays as underdogs to slight favorites, suggests sharp money is backing Tampa Bay to complete the sweep.",
-          "awayRecord": "18-11",
-          "homeRecord": "15-16",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays @ Cleveland Guardians",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "The Rays' pitching has been exceptional, allowing no more than two runs in any of their last six games, including the first two low-scoring contests of this series. Drew Rasmussen, the Rays' starter, has a stellar 2.45 ERA and a low walk rate, further limiting scoring opportunities. The Guardians' offense has been struggling, ranking poorly in wRC+ and wOBA this season. Historically, the 'Under' has hit in 10 of the Guardians' last 11 games as favorites against the Rays, and in each of the Rays' last five games after playing the previous day.",
-          "awayRecord": "18-11",
-          "homeRecord": "15-16",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Yankees @ Texas Rangers",
-          "betType": "moneyline",
-          "pick": "New York Yankees",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "The New York Yankees are in excellent form, winning nine of their last ten games and holding an impressive 12-5 road record. They have already secured the first two games of this series against the Rangers, who are struggling with a 14-16 record. While the Yankees are starting rookie Elmer Rodriguez, he has a strong 1.27 ERA in Triple-A, contrasting sharply with Rangers starter Nathan Eovaldi's 5.79 ERA and propensity to give up home runs. The Yankees' offense is top-ranked in home runs and overall production, while Texas's offense ranks among the league's worst.",
-          "awayRecord": "20-10",
-          "homeRecord": "14-16",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Seattle Mariners @ Minnesota Twins",
-          "betType": "moneyline",
-          "pick": "Seattle Mariners",
-          "odds": "-134",
-          "confidence": "medium",
-          "rationale": "The Seattle Mariners enter this rubber match with strong recent form, winning 7 of their last 10 games, including a decisive 7-1 victory in the previous game of this series. Mariners starter George Kirby has been consistently effective with a 2.97 ERA and 1.04 WHIP. Conversely, Twins starter Taj Bradley has shown recent control issues, allowing eight earned runs in his last two starts, and the Twins' offense has struggled to score more than two runs in four of their last five games. Despite a historical trend of Mariners losing Wednesday road games, their current momentum and pitching advantage make them the stronger play.",
+          "rationale": "The Atlanta Braves are a dominant force this season with a 22-9 record, leading MLB in runs scored and ranking second in OPS. They hold an impressive 8-game winning streak against the Tigers and have a 6-0 record in their last three seasons of head-to-head matchups. Braves' starter Bryce Elder boasts an excellent 1.95 ERA and 0.97 WHIP, significantly outperforming Tigers' starter Framber Valdez (3.41 ERA), especially against Atlanta's strong left-handed hitting lineup. The betting market has also shown a clear shift towards the Braves, with their moneyline moving from -118 to -131, indicating sharp money support.",
           "awayRecord": "15-16",
-          "homeRecord": "13-17",
+          "homeRecord": "22-9",
           "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
             "W",
             "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Arizona Diamondbacks vs Milwaukee Brewers",
+          "betType": "total",
+          "pick": "Over 7.5",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "Both the Diamondbacks and Brewers have demonstrated a strong tendency for high-scoring games this season, with the Over hitting in 17 of Arizona's 28 games and 16 of Milwaukee's 28 games. The head-to-head history between these two teams further supports this trend, with the Over cashing in 80% of their past matchups. While Zac Gallen is day-to-day for Arizona, scheduled starter Michael Soroka, despite a good ERA, rarely pitches deep into games, often exiting before the sixth inning. This, combined with key offensive players for both sides like Ildemaro Vargas for Arizona and Garrett Mitchell for Milwaukee, points to a game exceeding the total.",
+          "awayRecord": "16-13",
+          "homeRecord": "15-14",
+          "awayLast5": [
+            "L",
+            "L",
             "W",
             "L",
             "W"
@@ -330,79 +300,82 @@
           "homeLast5": [
             "L",
             "L",
-            "L",
+            "W",
             "W",
             "L"
           ]
         },
         {
-          "game": "Boston Red Sox @ Toronto Blue Jays",
-          "betType": "total",
-          "pick": "Over 8.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Both starting pitchers in this matchup, Boston's Brayan Bello (9.00 ERA) and Toronto's Eric Lauer (6.75 ERA), have struggled significantly this season, allowing a high number of runs and home runs. Bello, in particular, has a poor career record against the Blue Jays, and Vladimir Guerrero Jr. has historically dominated him with a .400 average and 1.153 OPS. Lauer has also given up 10 runs in his last two outings, indicating vulnerability. Given the pitching struggles on both sides and key offensive matchups, this game is set up for a high-scoring affair.",
-          "awayRecord": "12-18",
-          "homeRecord": "13-16",
+          "game": "Toronto Blue Jays vs Minnesota Twins",
+          "betType": "spread",
+          "pick": "Minnesota Twins +1.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "The Minnesota Twins have shown a competitive edge against the Blue Jays recently, holding an 8-7 record in their last three seasons of head-to-head play and winning two of their three matchups this April. The Blue Jays are currently hampered by significant pitching injuries, including Max Scherzer on the 15-day IL and José Berríos just returning from a rehab outing. The Twins have also covered the spread in 48.4% of their games this season, indicating their ability to keep games close. These factors suggest the Twins are well-positioned to cover the +1.5 spread at home.",
+          "awayRecord": "14-16",
+          "homeRecord": "13-18",
           "awayLast5": [
+            "W",
+            "W",
             "L",
             "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
             "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Houston Astros vs Baltimore Orioles",
+          "betType": "total",
+          "pick": "Over 9",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Both the Baltimore Orioles and Houston Astros have been involved in high-scoring contests recently, with the total runs going over in seven of the last eight Orioles matches and eight of the last ten Astros matches. Historically, the Astros have a strong offensive record against the Orioles, averaging 5.3 runs per game in their head-to-head matchups. The Orioles also have a setback with opening day starter Trevor Rodgers added to the injury list, which could impact their pitching performance. This combination of recent offensive trends and pitching concerns points towards a game with plenty of runs.",
+          "awayRecord": "11-19",
+          "homeRecord": "14-15",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
             "W",
             "L"
           ],
           "homeLast5": [
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
             "L",
             "W"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "UCL",
-      "picks": [
-        {
-          "game": "Arsenal @ Atlético Madrid",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-160",
-          "confidence": "high",
-          "rationale": "The line movement for the total has shifted towards the Under, with the opening Over 2.5 at +110 ballooning to +133, suggesting sharp money on a low-scoring affair. Historically, head-to-head matchups between these two teams have been low-scoring, averaging around 1-1.5 goals per game. Arsenal boasts the strongest defense remaining in the competition, conceding only five goals in 12 Champions League matches this season, and has kept clean sheets in their last three Premier League games. Atlético Madrid, despite their home advantage, will likely prioritize defensive solidity in this first leg, a common strategy in UCL semifinals."
         },
         {
-          "game": "Arsenal @ Atlético Madrid",
-          "betType": "moneyline",
-          "pick": "Arsenal",
-          "odds": "+125",
-          "confidence": "high",
-          "rationale": "Arsenal enters this match undefeated in the Champions League this season and on a dominant six-match winning streak overall. Atlético Madrid, while strong at home, has been in less inspiring form recently with seven defeats in their last nine matches, albeit with rotated squads. Crucially, Atlético is dealing with significant defensive injuries, with key center-backs Jose Maria Gimenez and David Hancko confirmed out, making their backline vulnerable. Arsenal's strong defense, coupled with Atlético's injury woes, gives the Gunners a significant edge to secure an away victory in this first leg."
-        },
-        {
-          "game": "Arsenal @ Atlético Madrid",
-          "betType": "moneyline",
-          "pick": "Atlético Madrid",
-          "odds": "+220",
+          "game": "St. Louis Cardinals vs Pittsburgh Pirates",
+          "betType": "spread",
+          "pick": "St. Louis Cardinals +1.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Atlético Madrid possesses a tremendous home record in the Champions League, having won five home games this season. Despite facing some injury concerns, particularly in defense, Diego Simeone's tactical prowess and his team's known resilience at the Metropolitano cannot be underestimated in a crucial semi-final first leg. The odds of +220 offer significant value for a home team that will be looking to establish an advantage and is capable of grinding out a result against any opponent, especially with key players like Julian Alvarez and Antoine Griezmann expected to feature."
-        },
-        {
-          "game": "Arsenal @ Atlético Madrid",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "+115",
-          "confidence": "medium",
-          "rationale": "While defensive solidity is often anticipated in a semi-final first leg, the attacking quality on display and recent history suggest potential for goals. Atlético Madrid has averaged 3.0 goals per game at home in the Champions League this season, demonstrating their offensive capability in front of their fans. The most recent head-to-head encounter between these two teams saw Arsenal secure a dominant 4-0 victory, indicating that when these teams meet, goals can certainly flow. With Arsenal's attacking talent like Gyökeres and Saka, and Atlético's Julian Alvarez expected to lead the line, both teams possess the firepower to contribute to a higher-scoring affair, especially if the game opens up after an early goal. The +115 odds offer significant value for a game that could defy defensive expectations."
-        },
-        {
-          "game": "Arsenal @ Atlético Madrid",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-160",
-          "confidence": "medium",
-          "rationale": "Reinforcing the strong case for a low-scoring affair, the market has shown significant movement towards the Under 2.5, with the Over 2.5 odds increasing from +110 to +133, indicating sharp money on fewer goals. Both teams are known for their tactical discipline, and a Champions League semi-final first leg typically sees a cautious approach to avoid conceding crucial away goals. Arsenal's formidable defense, which has conceded only five goals in 12 Champions League matches, combined with Atlético Madrid's injury concerns in their backline, points to a tightly contested match where scoring opportunities will be at a premium. The historical head-to-head also supports this, with most encounters being low-scoring."
+          "rationale": "The St. Louis Cardinals have historically performed well against the Pittsburgh Pirates, holding a better overall head-to-head record and winning 14 of their last 26 matchups over the past three seasons. Despite being the moneyline underdog, the +1.5 spread at -110 odds offers excellent value, suggesting the Cardinals are expected to keep the game close. The Pirates' -245 moneyline indicates they are strong favorites, but the Cardinals' historical competitiveness in this rivalry makes the run line an attractive pick. This pick leverages the Cardinals' ability to stay within striking distance against their division rival.",
+          "awayRecord": "17-13",
+          "homeRecord": "16-15",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
         }
       ]
     },
@@ -410,36 +383,36 @@
       "sport": "UEL",
       "picks": [
         {
+          "game": "SC Freiburg @ Braga",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "+125",
+          "confidence": "high",
+          "rationale": "Braga has demonstrated a strong offensive presence at home, scoring in 18 successive home matches. SC Freiburg has also been in potent scoring form in recent Europa League outings, netting 11 goals in their last three matches in the competition. Furthermore, Braga is dealing with several defensive injuries and a suspension, including Gabriel Moscardo, Diego Rodrigues, Sikou Niakate, and Adrian Leon Barisic, which could lead to a more open game. Given these factors, the odds of +125 for Over 2.5 goals present strong value for a high-scoring affair."
+        },
+        {
           "game": "Aston Villa @ Nottingham Forest",
           "betType": "moneyline",
           "pick": "Aston Villa",
-          "odds": "+180",
+          "odds": "+160",
           "confidence": "high",
-          "rationale": "Aston Villa, under the guidance of UEL specialist Unai Emery, boasts an exceptional record in the competition, having won 15 of their last 17 matches and their last nine in succession. Nottingham Forest is significantly weakened defensively with key players Murillo expected to miss and Jair Cunha being assessed due to injuries. Historically, Villa holds a strong head-to-head advantage, winning three of the last five encounters, and Forest has not secured a home victory against them since March 2019."
+          "rationale": "Nottingham Forest enters this match severely hampered by defensive injuries, with key center-back Murillo ruled out and Jair Cunha a major doubt, alongside other significant absences like Callum Hudson-Odoi for the season. Aston Villa, conversely, is in excellent form in the Europa League, having won their last five matches in the competition. While playing away, Aston Villa's robust European performance and Forest's critical defensive vulnerabilities provide a substantial advantage for the Villans to secure an away victory. The +160 odds offer compelling value given the disparity in team health and recent European form."
         },
         {
           "game": "Aston Villa @ Nottingham Forest",
           "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-135",
-          "confidence": "high",
-          "rationale": "Nottingham Forest's home matches have consistently been low-scoring affairs, with only two of their last nine home games seeing more than 2.5 goals. Aston Villa has also demonstrated a tendency for lower-scoring away performances, failing to score 2+ goals in six of their last seven away fixtures. As a semi-final first leg, both teams are likely to adopt a more cautious approach to avoid conceding, further supporting a lower goal total. The market also reflects this expectation, with the Under 2.5 priced at -135."
-        },
-        {
-          "game": "SC Freiburg @ SC Braga",
-          "betType": "moneyline",
-          "pick": "SC Freiburg",
-          "odds": "+210",
-          "confidence": "medium",
-          "rationale": "SC Braga is facing a significant injury crisis and a key suspension, with Sikou Niakate, Diego Rodrigues, Bright Arrey-Mbi, Florian Grillitsch, and Gabriel Moscardo all unavailable, severely impacting their defensive and midfield strength. SC Freiburg has shown impressive resilience and form in the Europa League, particularly in away fixtures where they have secured two victories, including a convincing 3-1 win in the previous round against Celta Vigo. With key attackers like Yuito Suzuki and Vincenzo Grifo in good form, Freiburg is well-positioned to exploit Braga's depleted squad."
-        },
-        {
-          "game": "SC Freiburg @ SC Braga",
-          "betType": "total",
           "pick": "Over 2.5",
-          "odds": "+110",
+          "odds": "-102",
           "confidence": "medium",
-          "rationale": "SC Braga's extensive defensive injuries and the suspension of Gabriel Moscardo are expected to create significant vulnerabilities in their backline, which is likely to open up opportunities for SC Freiburg's attack. Both teams possess potent attacking threats, with Braga's Ricardo Horta having eight goal contributions and Freiburg's Yuito Suzuki and Vincenzo Grifo combining for eight goals and five assists in the UEL. Freiburg has proven their ability to score on the road in Europe, and with Braga's weakened defense, an open, higher-scoring game is anticipated, making the Over 2.5 at +110 an attractive proposition."
+          "rationale": "Both Aston Villa and Nottingham Forest have showcased strong offensive capabilities recently, each scoring 12 goals in their last five games in April. Nottingham Forest's significant defensive injury crisis, with Murillo ruled out and Jair Cunha a major doubt, is likely to compromise their ability to keep a clean sheet and could lead to a more expansive game. Their most recent head-to-head encounter, a 1-1 draw in April 2026, still featured a high volume of 28 shots with 11 on target, indicating offensive potential. Considering these attacking trends and Forest's defensive woes, the Over 2.5 at -102 is a high-confidence pick."
+        },
+        {
+          "game": "SC Freiburg @ Braga",
+          "betType": "moneyline",
+          "pick": "Braga",
+          "odds": "+125",
+          "confidence": "medium",
+          "rationale": "Braga holds a formidable home record in European competitions, having won 12 of their last 16 matches at their home stadium. In contrast, SC Freiburg has struggled significantly on the road, losing nine of their 16 Bundesliga matches and conceding 32 goals, and have been defeated in four of their last nine Europa League away games. Despite some defensive injuries for Braga, their strong home advantage and Freiburg's consistent struggles away from home position Braga as the favored side to win the first leg. The +125 odds for a home victory offer excellent value."
         }
       ]
     }
