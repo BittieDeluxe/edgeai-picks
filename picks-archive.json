@@ -1,5 +1,202 @@
 [
   {
+    "date": "2026-04-30",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "New York Knicks @ Atlanta Hawks",
+            "betType": "spread",
+            "pick": "New York Knicks -2.5",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Knicks 140, Atlanta Hawks 89"
+          },
+          {
+            "game": "Boston Celtics @ Philadelphia 76ers",
+            "betType": "spread",
+            "pick": "Boston Celtics -6.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Celtics 93, Philadelphia 76ers 106"
+          },
+          {
+            "game": "Denver Nuggets @ Minnesota Timberwolves",
+            "betType": "spread",
+            "pick": "Denver Nuggets -6.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Denver Nuggets 98, Minnesota Timberwolves 110"
+          },
+          {
+            "game": "New York Knicks @ Atlanta Hawks",
+            "betType": "total",
+            "pick": "Over 213.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Knicks 140, Atlanta Hawks 89"
+          },
+          {
+            "game": "Boston Celtics @ Philadelphia 76ers",
+            "betType": "prop",
+            "pick": "Joel Embiid Over 29.5 Points",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Joel Embiid: 19 Points (line 29.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Dallas Stars vs Minnesota Wild",
+            "betType": "moneyline",
+            "pick": "Minnesota Wild",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "W",
+            "score": "Dallas Stars 2, Minnesota Wild 5"
+          },
+          {
+            "game": "Edmonton Oilers vs Anaheim Ducks",
+            "betType": "moneyline",
+            "pick": "Edmonton Oilers",
+            "odds": "-132",
+            "confidence": "high",
+            "result": "L",
+            "score": "Edmonton Oilers 2, Anaheim Ducks 5"
+          },
+          {
+            "game": "Dallas Stars vs Minnesota Wild",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Dallas Stars 2, Minnesota Wild 5"
+          },
+          {
+            "game": "Edmonton Oilers vs Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-158",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Edmonton Oilers 2, Anaheim Ducks 5"
+          },
+          {
+            "game": "Edmonton Oilers vs Anaheim Ducks",
+            "betType": "prop",
+            "pick": "Leo Carlsson Over 3.5 Shots on Goal",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Leo Carlsson: not found in box score"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Detroit Tigers vs Atlanta Braves",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5",
+            "odds": "+164",
+            "confidence": "high",
+            "result": "L",
+            "score": "Detroit Tigers 5, Atlanta Braves 2"
+          },
+          {
+            "game": "Arizona Diamondbacks vs Milwaukee Brewers",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arizona Diamondbacks 1, Milwaukee Brewers 13"
+          },
+          {
+            "game": "Toronto Blue Jays vs Minnesota Twins",
+            "betType": "spread",
+            "pick": "Minnesota Twins +1.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "W",
+            "score": "Toronto Blue Jays 1, Minnesota Twins 7"
+          },
+          {
+            "game": "Houston Astros vs Baltimore Orioles",
+            "betType": "total",
+            "pick": "Over 9",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Astros 3, Baltimore Orioles 10"
+          },
+          {
+            "game": "St. Louis Cardinals vs Pittsburgh Pirates",
+            "betType": "spread",
+            "pick": "St. Louis Cardinals +1.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "St. Louis Cardinals 10, Pittsburgh Pirates 5"
+          }
+        ]
+      },
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "SC Freiburg @ Braga",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "+125",
+            "confidence": "high",
+            "result": "W",
+            "score": "SC Freiburg 1, Braga 2"
+          },
+          {
+            "game": "Aston Villa @ Nottingham Forest",
+            "betType": "moneyline",
+            "pick": "Aston Villa",
+            "odds": "+160",
+            "confidence": "high",
+            "result": "L",
+            "score": "Aston Villa 0, Nottingham Forest 1"
+          },
+          {
+            "game": "Aston Villa @ Nottingham Forest",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Aston Villa 0, Nottingham Forest 1"
+          },
+          {
+            "game": "SC Freiburg @ Braga",
+            "betType": "moneyline",
+            "pick": "Braga",
+            "odds": "+125",
+            "confidence": "medium",
+            "result": "W",
+            "score": "SC Freiburg 1, Braga 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-29",
     "sports": [
       {
@@ -211,8 +408,8 @@
             "pick": "Aston Villa",
             "odds": "+180",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Aston Villa 0, Nottingham Forest 1"
           },
           {
             "game": "Aston Villa @ Nottingham Forest",
@@ -220,8 +417,8 @@
             "pick": "Under 2.5",
             "odds": "-135",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Aston Villa 0, Nottingham Forest 1"
           },
           {
             "game": "SC Freiburg @ SC Braga",
@@ -229,8 +426,8 @@
             "pick": "SC Freiburg",
             "odds": "+210",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "SC Freiburg 1, Braga 2"
           },
           {
             "game": "SC Freiburg @ SC Braga",
@@ -238,8 +435,8 @@
             "pick": "Over 2.5",
             "odds": "+110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "SC Freiburg 1, Braga 2"
           }
         ]
       }
