@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-05-01",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Detroit Pistons @ Orlando Magic",
+            "betType": "total",
+            "pick": "Under 210.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Pistons 93, Orlando Magic 79"
+          },
+          {
+            "game": "Cleveland Cavaliers @ Toronto Raptors",
+            "betType": "spread",
+            "pick": "Toronto Raptors +4.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cleveland Cavaliers 110, Toronto Raptors 112"
+          },
+          {
+            "game": "Los Angeles Lakers @ Houston Rockets",
+            "betType": "spread",
+            "pick": "Houston Rockets -3.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Lakers 98, Houston Rockets 78"
+          },
+          {
+            "game": "Detroit Pistons @ Orlando Magic",
+            "betType": "prop",
+            "pick": "Cade Cunningham Over 29.5 Points",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cade Cunningham: 32 Points (line 29.5)"
+          },
+          {
+            "game": "Cleveland Cavaliers @ Toronto Raptors",
+            "betType": "total",
+            "pick": "Under 218.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Cavaliers 110, Toronto Raptors 112"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Tampa Bay Lightning vs Montreal Canadiens",
+            "betType": "moneyline",
+            "pick": "Montreal Canadiens",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Lightning 1, Montreal Canadiens 0"
+          },
+          {
+            "game": "Tampa Bay Lightning vs Montreal Canadiens",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tampa Bay Lightning 1, Montreal Canadiens 0"
+          },
+          {
+            "game": "Buffalo Sabres vs Boston Bruins",
+            "betType": "moneyline",
+            "pick": "Boston Bruins",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Buffalo Sabres 4, Boston Bruins 1"
+          },
+          {
+            "game": "Buffalo Sabres vs Boston Bruins",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Buffalo Sabres 4, Boston Bruins 1"
+          },
+          {
+            "game": "Vegas Golden Knights vs Utah Mammoth",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Vegas Golden Knights 5, Utah Mammoth 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Baltimore Orioles @ New York Yankees",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+114",
+            "confidence": "high",
+            "result": "W",
+            "score": "Baltimore Orioles 2, New York Yankees 7"
+          },
+          {
+            "game": "Cincinnati Reds @ Pittsburgh Pirates",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates (+116)",
+            "odds": "-136",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 1, Pittsburgh Pirates 9"
+          },
+          {
+            "game": "Houston Astros @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Houston Astros (+102)",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Astros 1, Boston Red Sox 3"
+          },
+          {
+            "game": "Philadelphia Phillies @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Miami Marlins (+102)",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Phillies 6, Miami Marlins 5"
+          },
+          {
+            "game": "Atlanta Braves @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 11",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Braves 8, Colorado Rockies 6"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Seattle Sounders FC @ Sporting Kansas City",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Portland Timbers @ Real Salt Lake",
+            "betType": "moneyline",
+            "pick": "Real Salt Lake",
+            "odds": "-210",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "CF Montreal @ Atlanta United FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Charlotte FC @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Nashville SC @ Philadelphia Union",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-04-30",
     "sports": [
       {
