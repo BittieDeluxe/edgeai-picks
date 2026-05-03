@@ -1,81 +1,59 @@
 {
-  "date": "2026-05-02",
-  "generatedAt": "2026-05-02T15:37:26.281Z",
+  "date": "2026-04-15",
+  "generatedAt": "2026-04-16T00:04:26.810Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Philadelphia 76ers vs Boston Celtics",
+          "game": "Orlando Magic @ Philadelphia 76ers",
           "betType": "spread",
-          "pick": "Boston Celtics -8.5",
-          "odds": "-110",
+          "pick": "Orlando Magic +2.5",
+          "odds": "-132",
           "confidence": "high",
-          "rationale": "The Boston Celtics are playing at home in a decisive Game 7, where they historically perform well, holding a 27-10 all-time record in such games and a 6-2 record against the 76ers in Game 7s. Despite recent losses, Boston finished the regular season with a superior 56-26 record compared to Philadelphia's 45-37. Jayson Tatum is confirmed to play, and the Celtics' league-leading defense (107.2 PPG allowed) is expected to reassert itself on their home court.",
+          "rationale": "The Philadelphia 76ers will be without their star center Joel Embiid, who is out recovering from appendectomy surgery, a significant blow as they hold a 19-22 record without him this season. The Orlando Magic, despite a recent loss, had won five consecutive games prior and Paolo Banchero is in excellent form, averaging 25 points over his last eight outings. With the line tightening from an earlier 76ers -1.5 to the current -2.5, the Magic are well-positioned to cover this spread or even secure an outright win against a significantly weakened Philadelphia squad in this high-stakes Play-In game.",
           "awayRecord": "45-37",
-          "homeRecord": "56-26",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
+          "homeRecord": "45-37"
         },
         {
-          "game": "Philadelphia 76ers vs Boston Celtics",
+          "game": "Orlando Magic @ Philadelphia 76ers",
           "betType": "total",
-          "pick": "Over 205.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Game 7s typically feature an increased number of possessions due to more aggressive play and intentional fouling in late-game situations, which tends to drive up the total score. The series has already seen an average of 210.5 points per game, with five of the six previous matchups exceeding the 206-point mark. The Celtics' offense is likely to push the pace after being held under 100 points in their last two outings, and the 76ers' defense ranked 19th in the regular season.",
+          "pick": "Under 216.5",
+          "odds": "-122",
+          "confidence": "high",
+          "rationale": "The total for this game has seen a notable adjustment, moving down from initial reports of 222.5-223.5 to the current 216.5, indicating sharp money favoring the Under. Joel Embiid's absence for the 76ers removes their primary scoring threat and significantly impacts their offensive efficiency. While Tyrese Maxey is available, he has been dealing with a finger injury, which could affect his scoring output. The Magic possess a strong defensive identity, and with both teams facing high playoff stakes, a more deliberate pace and increased defensive intensity are expected, contributing to a lower-scoring affair.",
           "awayRecord": "45-37",
-          "homeRecord": "56-26",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
+          "homeRecord": "45-37"
         },
         {
-          "game": "Philadelphia 76ers vs Boston Celtics",
+          "game": "Golden State Warriors @ LA Clippers",
           "betType": "moneyline",
-          "pick": "Boston Celtics (-305)",
-          "odds": "-305",
+          "pick": "LA Clippers (-218)",
+          "odds": "-218",
           "confidence": "high",
-          "rationale": "The Boston Celtics hold a significant advantage playing at home in Game 7, a scenario where they have a strong historical track record. They finished the regular season as the second seed in the Eastern Conference with a 56-26 record, showcasing their overall superiority. With star Jayson Tatum confirmed to be active and playing, the Celtics are well-positioned to secure the win and advance in the playoffs.",
+          "rationale": "The LA Clippers enter this Play-In game with a significant advantage in health and recent performance, with Kawhi Leonard cleared to play and the team being relatively healthy overall. In contrast, the Golden State Warriors are missing key rotation players like Jimmy Butler and Moses Moody, and stars such as Stephen Curry are expected to be on minutes restrictions. The Clippers have dominated the head-to-head matchups this season, winning three of four, including a recent 115-110 victory on April 12. Furthermore, the Clippers boast a solid 23-18 home record, while the Warriors have struggled on the road with a 15-26 record, reinforcing the Clippers' strong position in this win-or-go-home scenario.",
+          "awayRecord": "37-45",
+          "homeRecord": "42-40"
+        },
+        {
+          "game": "Golden State Warriors @ LA Clippers",
+          "betType": "total",
+          "pick": "Under 220.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "Despite a projection model suggesting a higher scoring game, the verified total has settled at 220.5, slightly lower than some initial reports. The Golden State Warriors are dealing with multiple key injuries and minutes restrictions for their star players, which could limit their offensive production. The LA Clippers' defense has been effective at limiting three-point shooting, holding opponents to just 34.3% from beyond the arc over their last 10 games, a crucial factor against the Warriors' offense. Given the high stakes of this single-elimination Play-In tournament game, both teams are likely to play with increased defensive intensity, favoring the Under.",
+          "awayRecord": "37-45",
+          "homeRecord": "42-40"
+        },
+        {
+          "game": "Orlando Magic @ Philadelphia 76ers",
+          "betType": "prop",
+          "pick": "Paolo Banchero Over 20+ Points",
+          "odds": "N/A",
+          "confidence": "high",
+          "rationale": "Paolo Banchero has been a dominant force for the Orlando Magic, averaging an impressive 25 points per game over his last eight outings. With Philadelphia's defensive anchor, Joel Embiid, officially out due to appendectomy, the paint will be more accessible for Banchero to attack and score. Although Tyrese Maxey is available for the 76ers, he has been dealing with a finger injury, potentially impacting Philadelphia's overall defensive cohesion. Banchero is a primary offensive option for the Magic and is expected to carry a heavy scoring load in this critical Play-In tournament matchup.",
           "awayRecord": "45-37",
-          "homeRecord": "56-26",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
+          "homeRecord": "45-37"
         }
       ]
     },
@@ -83,45 +61,23 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Philadelphia Flyers vs Carolina Hurricanes",
-          "betType": "moneyline",
-          "pick": "Carolina Hurricanes",
-          "odds": "-225",
-          "confidence": "high",
-          "rationale": "The Carolina Hurricanes enter this game with significant momentum, having swept their first-round series 4-0 against the Ottawa Senators and enjoying a week of rest. They also hold a dominant head-to-head record against the Flyers, winning 16 of their 20 all-time matchups and 8 of the last 10 encounters. Carolina's strong home-ice advantage and their status as the top seed in the East further solidify their position. Despite some injuries, the Hurricanes have demonstrated strong team play and offensive depth in the playoffs.",
-          "awayRecord": "43-27-12",
-          "homeRecord": "53-22-7",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Flyers vs Carolina Hurricanes",
+          "game": "Dallas Stars @ Buffalo Sabres",
           "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Historically, games between the Flyers and Hurricanes tend to be higher scoring, with the last 10 head-to-head matches averaging 5.8 goals and all 10 going Over 2.5 goals. All four regular-season matchups this year also extended beyond regulation, indicating competitive games where goals were exchanged. While both teams have shown strong defensive play in the playoffs, Carolina's offense has been potent, averaging 3.5 goals in their last 10 games, and the public betting trend shows movement towards the Over.",
-          "awayRecord": "43-27-12",
-          "homeRecord": "53-22-7",
+          "pick": "Under 6.5",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "The line movement for this game strongly favors the under, with the total opening at 6.5 with the under at -120 and moving to -130, and the verified line now at -145, indicating significant sharp money on the low side. Dallas is without key defensive players Roope Hintz and Miro Heiskanen due to injury, which could lead to a more conservative game plan or less offensive efficiency. While Buffalo has been scoring well recently, their coach has indicated some players may be rested, potentially impacting their offensive output. Both teams are on four-game winning streaks, but the market's strong lean towards the under suggests a tighter, lower-scoring affair is expected.",
+          "awayRecord": "49-20-12",
+          "homeRecord": "50-23-8",
           "awayLast5": [
+            "L",
             "W",
             "W",
-            "L",
-            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
+            "L",
             "W",
             "W",
             "W",
@@ -129,24 +85,73 @@
           ]
         },
         {
-          "game": "Philadelphia Flyers vs Carolina Hurricanes",
-          "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "+114",
+          "game": "San Jose Sharks @ Chicago Blackhawks",
+          "betType": "moneyline",
+          "pick": "San Jose Sharks",
+          "odds": "-125",
           "confidence": "high",
-          "rationale": "The Carolina Hurricanes are well-positioned to cover the -1.5 spread due to their superior recent form and significant rest advantage. They swept their previous series without ever trailing in a game, showcasing their dominance. The Flyers, coming off a grueling six-game series, may struggle to match Carolina's intensity and depth, especially on the road. Carolina's strong offensive output, averaging 3.5 goals in their last 10 games, combined with their suffocating defense, makes a multi-goal victory highly probable.",
-          "awayRecord": "43-27-12",
-          "homeRecord": "53-22-7",
+          "rationale": "The San Jose Sharks are facing a Chicago Blackhawks team that has a dismal 1-8-1 record in their last 10 games and is currently on a four-game losing streak. San Jose has a better goals-per-game average and features Macklin Celebrini, a top offensive talent. The moneyline movement for San Jose from -118 to as high as -137, settling around -130 to -134, signals strong backing from sharp bettors. With several Blackhawks players injured and the Sharks' coach motivated to reach 40 wins, San Jose has a clear edge in this matchup.",
+          "awayRecord": "38-34-8",
+          "homeRecord": "28-39-14",
           "awayLast5": [
             "W",
-            "W",
+            "L",
             "L",
             "L",
             "W"
           ],
           "homeLast5": [
             "W",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Toronto Maple Leafs @ Ottawa Senators",
+          "betType": "moneyline",
+          "pick": "Ottawa Senators",
+          "odds": "-360",
+          "confidence": "high",
+          "rationale": "The Toronto Maple Leafs are currently in a significant slump, having lost their last 5 games, including recent heavy defeats. In contrast, the Ottawa Senators have shown better recent form, winning 3 of their last 5 contests. While the head-to-head record in the last 10 games is tied, the Senators' current momentum and home advantage in this 'Battle of Ontario' give them a distinct edge. Toronto's struggles suggest they will have difficulty overcoming a more in-form Ottawa team.",
+          "awayRecord": "32-35-14",
+          "homeRecord": "43-27-11",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
             "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Seattle Kraken @ Vegas Golden Knights",
+          "betType": "moneyline",
+          "pick": "Vegas Golden Knights",
+          "odds": "-325",
+          "confidence": "high",
+          "rationale": "The Seattle Kraken are playing on the second half of a back-to-back, having just lost to the Los Angeles Kings yesterday, which often leads to fatigue and decreased performance. The Vegas Golden Knights, despite a mixed recent record of 3 wins in their last 10 games, are coming off a decisive 6-2 victory over the Jets and will be rested. Playing at home against a tired opponent provides a significant situational advantage for Vegas. The Golden Knights are the stronger team overall and are well-positioned to secure a win.",
+          "awayRecord": "34-35-11",
+          "homeRecord": "38-26-17",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
             "W",
             "W"
           ]
@@ -157,90 +162,90 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Baltimore Orioles @ New York Yankees",
+          "game": "Colorado Rockies @ Houston Astros",
           "betType": "spread",
-          "pick": "New York Yankees -1.5",
+          "pick": "Houston Astros -1.5",
           "odds": "+112",
           "confidence": "high",
-          "rationale": "The New York Yankees are in excellent form, going 8-2 in their last 10 games, and have dominated the Orioles in recent head-to-head matchups, winning the last five games and covering the -1.5 spread in all of them. Their starting pitcher, Ryan Weathers, has a significantly better ERA and WHIP than Orioles' starter Kyle Bradish, who has struggled with walks. The betting market shows strong support for the Yankees, with their moneyline shortening and a massive 99% of the public backing them on the spread. This pick is further supported by the Yankees' strong run prevention compared to the Orioles' high runs allowed.",
-          "awayRecord": "15-17",
-          "homeRecord": "21-11",
+          "rationale": "The Houston Astros hold a significant historical advantage over the Colorado Rockies, with an 8-2 record in their last 10 head-to-head matchups and an 8-2 record in the last three seasons. The Rockies are struggling, having lost four of their last five games, and their starting pitcher, Kyle Freeland, is currently on the 15-day injured list with left shoulder inflammation. Despite a recent loss to the Rockies, the Astros bounced back with a 7-6 win yesterday and are poised to cover the spread against an injured and struggling Colorado team at home.",
+          "awayRecord": "6-11",
+          "homeRecord": "7-11",
           "awayLast5": [
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
             "L",
             "L"
           ],
           "homeLast5": [
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
             "L",
             "W"
           ]
         },
         {
-          "game": "San Francisco Giants @ Tampa Bay Rays",
+          "game": "Toronto Blue Jays @ Milwaukee Brewers",
           "betType": "moneyline",
-          "pick": "Tampa Bay Rays (-106)",
-          "odds": "-106",
+          "pick": "Toronto Blue Jays",
+          "odds": "+106",
           "confidence": "high",
-          "rationale": "The Tampa Bay Rays are in much better form than the San Francisco Giants, holding a 19-12 record and a strong 9-4 home record, while the Giants are struggling with a 13-19 record and a four-game losing streak. Although Yandy Díaz is day-to-day with an oblique injury, the Rays still have a strong lineup and pitching staff. The Giants also have several key players on the injured list, including Harrison Bader and Joel Peguero. The Rays' overall winning percentage of .613 significantly outpaces the Giants' .406, indicating a clear advantage for the home team.",
-          "awayRecord": "13-19",
-          "homeRecord": "19-12",
+          "rationale": "The Milwaukee Brewers are currently in a significant slump, having lost six consecutive games after an 8-2 start to the season. Compounding their struggles, the Brewers are severely hampered by injuries to key offensive players, including Jackson Chourio, Andrew Vaughn, and Christian Yelich, along with starting pitcher Quinn Priester. The Toronto Blue Jays, despite a slightly worse overall record, defeated the Brewers yesterday with a 9-7 score. Given Milwaukee's extensive injury list and recent poor form, the Blue Jays present excellent value on the moneyline.",
+          "awayRecord": "7-9",
+          "homeRecord": "8-8",
           "awayLast5": [
             "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
             "L",
             "L",
             "L",
             "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
           ]
         },
         {
-          "game": "Arizona Diamondbacks @ Chicago Cubs",
-          "betType": "moneyline",
-          "pick": "Chicago Cubs (-172)",
-          "odds": "-172",
+          "game": "New York Mets @ Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "+106",
           "confidence": "high",
-          "rationale": "The Chicago Cubs defeated the Arizona Diamondbacks 6-5 yesterday, extending the Diamondbacks' recent struggles to seven losses in their last ten games. The Cubs boast a strong 20-12 record, indicating consistent performance, while the Diamondbacks are just 16-15 and have a 4-6 record over their last ten outings. This recent head-to-head victory and the Diamondbacks' poor form create a favorable situation for the Cubs at home. The Cubs have demonstrated the ability to win close games, which is crucial against a Diamondbacks team that can score runs.",
-          "awayRecord": "16-15",
-          "homeRecord": "20-12",
+          "rationale": "The Los Angeles Dodgers are a dominant force this season with a 13-4 record, significantly outperforming the New York Mets who stand at 7-11. The Dodgers also boast a strong head-to-head record against the Mets, winning 14 of their last 25 matchups in the past three seasons and holding a substantial overall advantage. Los Angeles secured a 3-2 victory against the Mets just yesterday, further demonstrating their current superiority. With their strong form and historical dominance, the Dodgers are well-positioned to cover the -1.5 run line at home.",
+          "awayRecord": "7-11",
+          "homeRecord": "13-4",
           "awayLast5": [
-            "W",
             "L",
-            "W",
+            "L",
+            "L",
             "L",
             "L"
           ],
           "homeLast5": [
-            "L",
-            "L",
             "W",
+            "W",
+            "L",
             "W",
             "W"
           ]
         },
         {
-          "game": "New York Mets @ Los Angeles Angels",
-          "betType": "moneyline",
-          "pick": "New York Mets (-130)",
-          "odds": "-130",
-          "confidence": "medium",
-          "rationale": "The New York Mets have a historical edge over the Los Angeles Angels, holding a 16-14 all-time record and currently riding a three-game winning streak against them, with their last win being 6-3 on July 23, 2025. The Angels are in a significant slump, currently on a five-game losing streak. While both teams have struggled this season, the Mets have shown better recent form against the Angels (3-2 in last 5 H2H). This combination of historical dominance and the Angels' current poor performance makes the Mets a confident moneyline pick.",
-          "awayRecord": "11-21",
-          "homeRecord": "12-21",
+          "game": "Los Angeles Angels @ New York Yankees",
+          "betType": "spread",
+          "pick": "Los Angeles Angels +1.5",
+          "odds": "+104",
+          "confidence": "high",
+          "rationale": "The New York Yankees are facing significant challenges with key players like Anthony Volpe, Gerrit Cole, and Carlos Rodon on the injured list. Their offense has struggled recently, batting a mere .199 with 6.5 hits per game over their last 10 outings. In contrast, the Los Angeles Angels' offense has been hot, slugging .442 with 16 home runs and 31 extra-base hits in their last 10 games, led by Jorge Soler and Mike Trout. With Yankees starting pitcher Luis Gil holding a 6.75 ERA, the Angels are in a strong position to cover the +1.5 spread.",
+          "awayRecord": "9-9",
+          "homeRecord": "9-8",
           "awayLast5": [
-            "L",
             "W",
             "L",
+            "W",
             "L",
             "W"
           ],
@@ -248,117 +253,78 @@
             "L",
             "L",
             "L",
-            "L",
+            "W",
             "L"
           ]
         },
         {
-          "game": "Milwaukee Brewers @ Washington Nationals",
-          "betType": "moneyline",
-          "pick": "Milwaukee Brewers (-134)",
-          "odds": "-134",
-          "confidence": "medium",
-          "rationale": "The Milwaukee Brewers, with a 17-14 record, are performing better overall than the Washington Nationals, who stand at 15-18. While the Nationals have shown some recent competitiveness with a 5-5 record in their last 10 games, the Brewers have a stronger season-long performance. There are no significant injury concerns reported for either team that would drastically alter the matchup. The Brewers' slightly better record and overall team strength provide a solid foundation for a moneyline pick against a Nationals team that, despite some individual hot streaks like CJ Abrams', remains below .500.",
-          "awayRecord": "17-14",
-          "homeRecord": "15-18",
+          "game": "Miami Marlins @ Atlanta Braves",
+          "betType": "spread",
+          "pick": "Atlanta Braves -2.5",
+          "odds": "+118",
+          "confidence": "high",
+          "rationale": "The Atlanta Braves, despite some notable injuries to key players like Spencer Strider and Sean Murphy, maintain an impressive 11-7 record and a significant historical advantage over the Miami Marlins. The Braves have dominated the head-to-head series, holding a 17-9 record in the last three seasons and a commanding 330-218 all-time record against the Marlins. While Miami is playing at .500, Atlanta's overall team strength and consistent performance against the Marlins make them a strong pick to cover the -2.5 spread at favorable odds.",
+          "awayRecord": "9-9",
+          "homeRecord": "11-7",
           "awayLast5": [
-            "W",
-            "W",
+            "L",
+            "L",
             "L",
             "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
             "L",
             "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ]
         }
       ]
     },
     {
-      "sport": "MLS",
+      "sport": "UEL",
       "picks": [
         {
-          "game": "Seattle Sounders FC @ Sporting Kansas City",
-          "betType": "moneyline",
-          "pick": "Seattle Sounders FC",
-          "odds": "-195",
-          "confidence": "high",
-          "rationale": "Seattle Sounders are in excellent form with a 6-1-1 record and have not lost a league game since February 28th. They boast a strong defense, having gone 403 consecutive minutes without conceding a road goal. Conversely, Sporting Kansas City is on a six-game losing streak, has scored the fewest goals in the league, and has conceded 11 goals in their last three matches. Sporting KC is also significantly hampered by injuries, with key defenders Kwaku Agyabeng, Diego Borges, and Justin Reynolds all ruled out, further weakening their already struggling defense.",
-          "awayRecord": "6-1-1",
-          "homeRecord": "1-1-7"
-        },
-        {
-          "game": "San Jose Earthquakes @ Toronto FC",
-          "betType": "moneyline",
-          "pick": "San Jose Earthquakes",
-          "odds": "+105",
-          "confidence": "high",
-          "rationale": "The San Jose Earthquakes are in phenomenal form, holding a 9-0-1 record and winning six consecutive games, including nine of their last ten. Their offense is potent, averaging 2.5 goals per game. Toronto FC has a mediocre 3-4-3 record and recently suffered a home loss. Despite some historical draws in their head-to-head matchups, San Jose's current dominant form and high-scoring output provide a strong edge at favorable plus-money odds.",
-          "awayRecord": "9-0-1",
-          "homeRecord": "3-4-3"
-        },
-        {
-          "game": "Nashville SC @ Philadelphia Union",
-          "betType": "moneyline",
-          "pick": "Nashville SC",
-          "odds": "+240",
-          "confidence": "medium",
-          "rationale": "Nashville SC is enjoying an outstanding season with a 7-1-1 record, placing them at the top of the Eastern Conference. In stark contrast, the Philadelphia Union are struggling significantly with a 1-2-7 record, sitting at the bottom of the conference. While the head-to-head history is evenly split, Nashville's vastly superior current form and league standing present exceptional value at +240 odds, making them a high-confidence underdog pick.",
-          "awayRecord": "7-1-1",
-          "homeRecord": "1-2-7"
-        },
-        {
-          "game": "FC Cincinnati @ Chicago Fire FC",
-          "betType": "moneyline",
-          "pick": "Chicago Fire FC",
-          "odds": "-160",
-          "confidence": "medium",
-          "rationale": "Chicago Fire FC is in strong form, particularly when playing at home, having secured four home victories and currently holding 3rd position in the league. Conversely, FC Cincinnati has a very poor away record this season, failing to win any away games. Although both teams face some injury concerns, Chicago's consistent home performance combined with Cincinnati's struggles on the road makes the Fire a confident moneyline pick.",
-          "awayRecord": "3-3-4",
-          "homeRecord": "5-2-2"
-        },
-        {
-          "game": "Portland Timbers @ Real Salt Lake",
+          "game": "SC Freiburg @ Celta Vigo",
           "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The head-to-head history between Real Salt Lake and Portland Timbers suggests a high-scoring affair, with 61.36% of their 44 previous meetings going over 2.5 goals and an average of 3.05 goals per match. Real Salt Lake averages 1.9 goals per game and has a perfect 15-0-0 record when scoring more than two goals. Portland Timbers average 1.4 goals per game while conceding 2.1 goals per game. Furthermore, RSL is dealing with multiple defensive and midfield injuries, which could lead to a more open game and increased scoring opportunities for both sides.",
-          "awayRecord": "3-1-5",
-          "homeRecord": "5-1-3"
-        }
-      ]
-    },
-    {
-      "sport": "UFC",
-      "picks": [
-        {
-          "game": "Bryce Logan @ Joel Alvarez",
-          "betType": "moneyline",
-          "pick": "Joel Alvarez",
-          "odds": "-275",
+          "pick": "Over 2.5",
+          "odds": "-125",
           "confidence": "high",
-          "rationale": "Joel Alvarez, known as 'El Fenomeno,' enters this bout with an impressive 23-3-0 professional MMA record and is an active fighter on the UFC roster. He boasts a high finishing rate, securing 17 victories by submission, and has been in excellent form, winning eight of his last nine fights. Given the lack of readily available fight history or recent form for his opponent, Bryce Logan, Alvarez's proven track record of dominance and finishing ability makes him a very strong favorite. His consistent performance against various opponents provides a clear edge in this matchup."
+          "rationale": "Celta Vigo is down 0-3 from the first leg and must attack aggressively at home, which often leads to open games and scoring opportunities for both sides. Celta has seen the Over 2.5 hit in their last five games, indicating recent high-scoring affairs. Freiburg, despite some injuries to key midfielders Vincenzo Grifo and Patrick Osterhage, has been in strong attacking form, scoring 13 goals in their last five matches, including a 3-0 win in the first leg against Celta. With Celta's defensive vulnerabilities (conceding 3 goals per game in their last four outings), this match is set up for multiple goals."
         },
         {
-          "game": "Karl Williams @ Maxwell Djantou Nana",
+          "game": "Bologna @ Aston Villa",
           "betType": "moneyline",
-          "pick": "Karl Williams",
-          "odds": "-200",
+          "pick": "Aston Villa",
+          "odds": "-165",
           "confidence": "high",
-          "rationale": "Karl Williams, a UFC heavyweight, boasts a solid 10-2-0 professional record and has a proven grappling-heavy style. Despite a unanimous decision loss in his last fight in August 2024, he secured three consecutive unanimous decision victories in the UFC prior to that. With no available professional fight information or recent form for Maxwell Djantou Nana, Williams's established UFC experience, effective wrestling, and overall winning record position him as a strong favorite. His ability to control the pace and take opponents down should lead to a victory."
+          "rationale": "Aston Villa holds a commanding 3-1 lead from the first leg and boasts a perfect 3-0-0 head-to-head record against Bologna, scoring 6 goals and conceding only 1. Bologna is significantly hampered by injuries and suspensions, with key defender Jhon Lucumi suspended and first-choice goalkeeper Lukasz Skorupski out injured. Aston Villa also has a strong home record, winning 15 of their last 20 games at Villa Park. Even with some minor injury concerns for Villa, their depth and home advantage should be enough to secure a victory against a depleted Bologna side."
         },
         {
-          "game": "Sang Won Kim @ Humberto Bandenay",
+          "game": "Porto @ Nottingham Forest",
           "betType": "moneyline",
-          "pick": "Humberto Bandenay",
-          "odds": "-184",
+          "pick": "Porto",
+          "odds": "+220",
           "confidence": "high",
-          "rationale": "Humberto Bandenay holds a professional MMA record of 21-8-0 and is currently riding a three-fight win streak, with his most recent victory recorded in July 2022. Although he had a brief stint in the UFC, his overall career demonstrates a strong finishing ability, with 7 knockouts and 8 submissions. Sang Won Kim (14-6-1) lost his last Road to UFC fight in August 2023. Bandenay's more extensive and successful overall record across various promotions, including PFL, gives him a significant advantage as the favorite in this matchup."
+          "rationale": "Porto enters this second leg in strong form, unbeaten in their last eight competitive matches, including three consecutive away victories. Nottingham Forest, conversely, has a concerning home record, winning only one of their last eleven competitive home games and failing to score more than once in their last seven home matches. Despite a 1-1 draw in the first leg, Porto's superior recent form and ability to score away from home, coupled with Forest's struggles at the City Ground, make Porto a valuable underdog at +220. Porto has also shown a tendency to start strong in UEL knockout matches, opening the scoring before half-time in all three this term."
+        },
+        {
+          "game": "SC Braga @ Real Betis",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The first leg between these two teams ended in a 1-1 draw, suggesting a tightly contested affair. Historically, matches between Real Betis and SC Braga have often been low-scoring, with three draws in their four previous encounters. Both teams have shown solid defensive capabilities in recent Europa League outings, and with the aggregate score level, a cautious approach is expected, particularly from the home side. This tactical setup, combined with the historical trends, makes the Under 2.5 goals a high-confidence pick."
+        },
+        {
+          "game": "SC Freiburg @ Celta Vigo",
+          "betType": "moneyline",
+          "pick": "Celta Vigo",
+          "odds": "-115",
+          "confidence": "high",
+          "rationale": "Celta Vigo, despite their recent defensive struggles (conceding 3 goals per game in their last four outings), has an exceptional record in European second legs at home, winning their last 11 such games. This historical home advantage, coupled with the strong trend of German sides losing ten of their last eleven European away games against Spanish opponents, provides a significant edge for Celta. With a 0-3 aggregate deficit, Celta will be highly motivated to win the home leg, and Freiburg, holding a comfortable lead, may adopt a more conservative strategy. Therefore, Celta Vigo is well-positioned to secure a victory at home."
         }
       ]
     }
