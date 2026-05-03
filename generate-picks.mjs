@@ -312,15 +312,16 @@ If ${sport} has no games today, return {"picks": []}.`;
     });
 
     // Enforce realistic confidence distribution — Gemini marks everything high by default.
-    // Downgrade to medium if odds indicate lower value: ML dogs longer than +200,
-    // totals with no odds edge (close to -110 both sides), or any pick beyond the top 3.
+    // Downgrade to medium if: ML dogs longer than +200, flat totals (±115), lower-priority
+    // picks (4 & 5), or NBA spreads (historically 45% win rate — not a reliable edge).
     picks = picks.map((p, i) => {
       if (p.confidence === 'medium') return p; // respect explicit medium
       const oddsNum = parseInt(p.odds ?? '0');
-      const isLongDog  = p.betType === 'moneyline' && oddsNum > 200;
-      const isFlatTotal = p.betType === 'total' && Math.abs(oddsNum) <= 115;
-      const isLowerPriority = i >= 3; // picks 4 & 5 are lower priority by definition
-      if (isLongDog || isFlatTotal || isLowerPriority) {
+      const isLongDog       = p.betType === 'moneyline' && oddsNum > 200;
+      const isFlatTotal     = p.betType === 'total' && Math.abs(oddsNum) <= 115;
+      const isLowerPriority = i >= 3;
+      const isNBASpread     = sport === 'NBA' && p.betType === 'spread';
+      if (isLongDog || isFlatTotal || isLowerPriority || isNBASpread) {
         return { ...p, confidence: 'medium' };
       }
       return p;
@@ -612,6 +613,82 @@ async function gradePicksForDate(picksData) {
   return { date, sports: gradedSports, playerProps: gradedPlayerProps };
 }
 
+// ─── NBA Player Props ─────────────────────────────────────────────────────
+// Focuses on usage-based edges: backups getting starter minutes due to injury,
+// and matchup exploits where the prop line hasn't adjusted to a defensive change.
+async function getNBAPlayerProps(dateStr) {
+  const { hasGames, structuredContext, games } = await buildContext('NBA', dateStr);
+  if (!hasGames) return [];
+
+  const gameNames = games.map(g => `${g.awayName} vs ${g.homeName}`).join('\n');
+
+  const prompt = `You are a sharp NBA player prop analyst. Today is ${dateStr}.
+
+Today's NBA games:
+${gameNames}
+
+${structuredContext}
+
+Use Google Search to find:
+1. NBA injury reports — which starters are OUT or questionable tonight
+2. For each injured starter, which backup player absorbs their minutes
+3. Whether that backup's prop line has adjusted to reflect the usage spike
+4. Any other matchup-based prop edges (e.g. a player facing a weak perimeter defender)
+
+Focus on usage-spike props — when a starter misses, the backup often plays 25-30+ minutes but their prop line was set assuming 15 minutes. That gap is the edge.
+
+Generate up to 5 NBA player prop picks. Each pick must:
+- Be for a player confirmed active and playing in one of today's listed games
+- Have a specific over/under line (search for the actual prop line if possible, or estimate conservatively)
+- Have a clear rationale citing the specific injury or matchup that creates the edge
+
+Pick format — "Player Name Over/Under X.X Points" (or Rebounds, Assists, Threes, Blocks, Steals)
+propType must be one of: points, rebounds, assists, steals, blocks, threes
+
+Respond with raw JSON only — no markdown, no code fences:
+{"playerProps":[{"player":"...","team":"...","game":"Away vs Home","propType":"points","pick":"Player Name Over 18.5 Points","odds":"-115","confidence":"high|medium","rationale":"3-4 sentences citing specific injury and usage data","caution":null}]}
+
+If fewer than 2 clear edges exist today, return {"playerProps":[]}.`;
+
+  const res = await fetch(
+    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`,
+    {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ role: 'user', parts: [{ text: prompt }] }],
+        tools: [{ googleSearch: {} }],
+        generationConfig: { maxOutputTokens: 2048, temperature: 0.3 },
+      }),
+    }
+  );
+
+  if (!res.ok) {
+    console.error(`  Player props Gemini error: ${res.status}`);
+    return [];
+  }
+
+  const data = await res.json();
+  const rawText = data.candidates?.[0]?.content?.parts?.[0]?.text ?? '';
+  const cleaned = rawText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/, '').trim();
+
+  let parsed;
+  try { parsed = JSON.parse(cleaned); } catch { return []; }
+
+  const props = parsed?.playerProps ?? [];
+
+  // Validate: player must not be blank, game must match a real game today
+  const validGameNames = games.map(g => `${g.awayName} vs ${g.homeName}`.toLowerCase());
+  return props.filter(p => {
+    if (!p.player?.trim() || !p.game?.trim()) return false;
+    // Game field just needs to contain one of the team names
+    const gameLower = p.game.toLowerCase().replace(/ vs\. /g, ' vs ');
+    return validGameNames.some(vg =>
+      vg.split(' vs ').some(team => gameLower.includes(team.split(' ').pop().toLowerCase()))
+    );
+  }).slice(0, 5);
+}
+
 // ─── Main ─────────────────────────────────────────────────────────────────
 async function main() {
   const now = new Date();
@@ -744,7 +821,20 @@ async function main() {
     }
   }
 
-  writeFileSync('daily-picks.json', JSON.stringify({ date: dateStr, generatedAt: now.toISOString(), sports, playerProps: [] }, null, 2));
+  // Generate NBA player props (usage-spike / matchup edges)
+  let playerProps = [];
+  const nbaInSeason = sports.some(s => s.sport === 'NBA');
+  if (nbaInSeason) {
+    console.log('\nGenerating NBA player props...');
+    try {
+      playerProps = await getNBAPlayerProps(dateStr);
+      console.log(`  ✓ ${playerProps.length} player prop${playerProps.length !== 1 ? 's' : ''}`);
+    } catch (err) {
+      console.error('  ✗ Player props error:', err.message);
+    }
+  }
+
+  writeFileSync('daily-picks.json', JSON.stringify({ date: dateStr, generatedAt: now.toISOString(), sports, playerProps }, null, 2));
   console.log(`\nWrote ${sports.length} sport(s) to daily-picks.json`);
 }
 
