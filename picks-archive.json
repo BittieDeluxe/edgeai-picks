@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-05-03",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Orlando Magic vs Detroit Pistons",
+            "betType": "spread",
+            "pick": "Detroit Pistons -8.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Orlando Magic 94, Detroit Pistons 116"
+          },
+          {
+            "game": "Orlando Magic vs Detroit Pistons",
+            "betType": "total",
+            "pick": "Under 201.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Orlando Magic 94, Detroit Pistons 116"
+          },
+          {
+            "game": "Toronto Raptors vs Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers -8.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto Raptors 102, Cleveland Cavaliers 114"
+          },
+          {
+            "game": "Toronto Raptors vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Under 211.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Toronto Raptors 102, Cleveland Cavaliers 114"
+          },
+          {
+            "game": "Toronto Raptors vs Cleveland Cavaliers",
+            "betType": "moneyline",
+            "pick": "Cleveland Cavaliers",
+            "odds": "-298",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto Raptors 102, Cleveland Cavaliers 114"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Montreal Canadiens vs Tampa Bay Lightning",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-170",
+            "confidence": "high",
+            "result": "W",
+            "score": "Montreal Canadiens 2, Tampa Bay Lightning 1"
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "moneyline",
+            "pick": "Colorado Avalanche",
+            "odds": "-188",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Wild 6, Colorado Avalanche 9"
+          },
+          {
+            "game": "Montreal Canadiens vs Tampa Bay Lightning",
+            "betType": "spread",
+            "pick": "Montreal Canadiens +1.5",
+            "odds": "-198",
+            "confidence": "high",
+            "result": "W",
+            "score": "Montreal Canadiens 2, Tampa Bay Lightning 1"
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-132",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Wild 6, Colorado Avalanche 9"
+          },
+          {
+            "game": "Montreal Canadiens vs Tampa Bay Lightning",
+            "betType": "prop",
+            "pick": "Brandon Hagel to Score a Goal",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Arizona Diamondbacks @ Chicago Cubs",
+            "betType": "total",
+            "pick": "Over 11.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arizona Diamondbacks 4, Chicago Cubs 8"
+          },
+          {
+            "game": "Los Angeles Dodgers @ St. Louis Cardinals",
+            "betType": "total",
+            "pick": "Over 9.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Dodgers 4, St. Louis Cardinals 1"
+          },
+          {
+            "game": "Kansas City Royals @ Seattle Mariners",
+            "betType": "moneyline",
+            "pick": "Kansas City Royals (-122)",
+            "odds": "+104",
+            "confidence": "high",
+            "result": "W",
+            "score": "Kansas City Royals 4, Seattle Mariners 1"
+          },
+          {
+            "game": "Philadelphia Phillies @ Miami Marlins",
+            "betType": "prop",
+            "pick": "Trea Turner Over 1.5 Total Hits",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Trea Turner: \"Total Hits\" not auto-gradeable"
+          },
+          {
+            "game": "Houston Astros @ Boston Red Sox",
+            "betType": "spread",
+            "pick": "Boston Red Sox -1.5",
+            "odds": "+112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Astros 3, Boston Red Sox 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "D.C. United @ New York City FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "L",
+            "score": "D.C. United 2, New York City FC 0"
+          },
+          {
+            "game": "D.C. United @ New York City FC",
+            "betType": "moneyline",
+            "pick": "D.C. United",
+            "odds": "+340",
+            "confidence": "medium",
+            "result": "W",
+            "score": "D.C. United 2, New York City FC 0"
+          },
+          {
+            "game": "St. Louis CITY SC @ Austin FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "St. Louis CITY SC 0, Austin FC 2"
+          },
+          {
+            "game": "St. Louis CITY SC @ Austin FC",
+            "betType": "moneyline",
+            "pick": "Austin FC",
+            "odds": "+160",
+            "confidence": "medium",
+            "result": "W",
+            "score": "St. Louis CITY SC 0, Austin FC 2"
+          },
+          {
+            "game": "St. Louis CITY SC @ Austin FC",
+            "betType": "prop",
+            "pick": "Anytime Goalscorer",
+            "odds": "+240",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-01",
     "sports": [
       {
