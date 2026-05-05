@@ -1,5 +1,202 @@
 [
   {
+    "date": "2026-05-04",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Philadelphia 76ers @ New York Knicks",
+            "betType": "spread",
+            "pick": "New York Knicks -7.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia 76ers 98, New York Knicks 137"
+          },
+          {
+            "game": "Philadelphia 76ers @ New York Knicks",
+            "betType": "total",
+            "pick": "Over 213.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia 76ers 98, New York Knicks 137"
+          },
+          {
+            "game": "Minnesota Timberwolves @ San Antonio Spurs",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -12.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota Timberwolves 104, San Antonio Spurs 102"
+          },
+          {
+            "game": "Minnesota Timberwolves @ San Antonio Spurs",
+            "betType": "total",
+            "pick": "Over 217.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota Timberwolves 104, San Antonio Spurs 102"
+          },
+          {
+            "game": "Philadelphia 76ers @ New York Knicks",
+            "betType": "moneyline",
+            "pick": "New York Knicks (-290)",
+            "odds": "-290",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia 76ers 98, New York Knicks 137"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Philadelphia Flyers @ Carolina Hurricanes",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Flyers 2, Carolina Hurricanes 3"
+          },
+          {
+            "game": "Philadelphia Flyers @ Carolina Hurricanes",
+            "betType": "prop",
+            "pick": "Logan Stankoven Over 2.5 Shots on Goal",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "?",
+            "score": "Logan Stankoven: not found in box score"
+          },
+          {
+            "game": "Anaheim Ducks @ Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Anaheim Ducks +1.5",
+            "odds": "-180",
+            "confidence": "high",
+            "result": "L",
+            "score": "Anaheim Ducks 1, Vegas Golden Knights 3"
+          },
+          {
+            "game": "Anaheim Ducks @ Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Anaheim Ducks 1, Vegas Golden Knights 3"
+          },
+          {
+            "game": "Philadelphia Flyers @ Carolina Hurricanes",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes (-258)",
+            "odds": "-258",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Flyers 2, Carolina Hurricanes 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Baltimore Orioles @ New York Yankees",
+            "betType": "moneyline",
+            "pick": "New York Yankees",
+            "odds": "-205",
+            "confidence": "high",
+            "result": "W",
+            "score": "Baltimore Orioles 1, New York Yankees 12"
+          },
+          {
+            "game": "Cincinnati Reds @ Chicago Cubs",
+            "betType": "total",
+            "pick": "Over 11.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cincinnati Reds 4, Chicago Cubs 5"
+          },
+          {
+            "game": "Chicago White Sox @ Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox",
+            "odds": "+134",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago White Sox 6, Los Angeles Angels 0"
+          },
+          {
+            "game": "Atlanta Braves @ Seattle Mariners",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves",
+            "odds": "+126",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Braves 4, Seattle Mariners 5"
+          },
+          {
+            "game": "New York Mets @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 10.5",
+            "odds": "-124",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Mets 4, Colorado Rockies 2"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Atlético Madrid @ Arsenal",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Atlético Madrid @ Arsenal",
+            "betType": "moneyline",
+            "pick": "Atlético Madrid",
+            "odds": "+425",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Atlético Madrid @ Arsenal",
+            "betType": "moneyline",
+            "pick": "Arsenal",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Atlético Madrid @ Arsenal",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-03",
     "sports": [
       {

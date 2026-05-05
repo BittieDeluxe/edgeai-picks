@@ -1,24 +1,24 @@
 {
-  "date": "2026-05-04",
-  "generatedAt": "2026-05-04T16:25:26.763Z",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T16:17:56.033Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Philadelphia 76ers @ New York Knicks",
+          "game": "Cleveland Cavaliers @ Detroit Pistons",
           "betType": "spread",
-          "pick": "New York Knicks -7.5",
-          "odds": "-105",
+          "pick": "Detroit Pistons -3.5",
+          "odds": "-104",
           "confidence": "medium",
-          "rationale": "The Knicks are well-rested and playing at home after a dominant 51-point win in their last game. The 76ers are coming off an exhausting seven-game series, and Joel Embiid is playing through a hip contusion, though listed as probable. The spread has moved from an opening of -4.5 to the current -7.5, indicating significant sharp money backing the Knicks. The Knicks have covered this -7.5 line in their last three games and in six of their last ten home games.",
-          "awayRecord": "45-37",
-          "homeRecord": "53-29",
+          "rationale": "The Pistons, as the top seed (60-22), hold a significant home-court advantage, having won three of their four playoff games at home. The Cavaliers, in contrast, struggled on the road in their first-round series, losing all three away games against Toronto. Detroit also won two of three regular season matchups against Cleveland in 2026, showcasing their ability to compete effectively. With a strong defense and rebounding edge, coupled with Cade Cunningham's exceptional form, the Pistons are well-positioned to cover this modest spread.",
+          "awayRecord": "52-30",
+          "homeRecord": "60-22",
           "awayLast5": [
             "L",
             "L",
             "W",
-            "W",
+            "L",
             "W"
           ],
           "homeLast5": [
@@ -30,91 +30,88 @@
           ]
         },
         {
-          "game": "Philadelphia 76ers @ New York Knicks",
+          "game": "Cleveland Cavaliers @ Detroit Pistons",
+          "betType": "total",
+          "pick": "Over 215.5",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Both teams are coming off grueling seven-game series, which can sometimes lead to less stringent defense and higher scoring. The Cavaliers have averaged 116.5 points per game in their last 10 outings, while the Pistons have averaged 109.6 points per game over the same span. In their last five head-to-head regular season games, the total exceeded 215.5 in three contests, indicating a propensity for higher-scoring affairs. With key offensive talents like Cade Cunningham for Detroit and Donovan Mitchell and James Harden for Cleveland, offensive firepower is expected to drive the score over the total.",
+          "awayRecord": "52-30",
+          "homeRecord": "60-22",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Lakers @ Oklahoma City Thunder",
+          "betType": "spread",
+          "pick": "Oklahoma City Thunder -15.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Lakers are severely hampered by the absence of superstar Luka Doncic, who is out with a hamstring injury and averaged 33.5 points, 7.7 rebounds, and 8.3 assists in the regular season. The Thunder, the Western Conference's top seed (64-18), swept the Lakers 4-0 in the regular season, winning by an overwhelming average margin of 29.3 points. Oklahoma City has been dominant recently, boasting an 8-2 record in their last 10 games with an impressive +14.9 point differential. With a deeper roster and playing at home where they push the tempo, the Thunder are poised for a commanding victory.",
+          "awayRecord": "53-29",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Lakers @ Oklahoma City Thunder",
           "betType": "total",
           "pick": "Over 213.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Both teams have shown offensive capabilities recently, with the Knicks averaging 113.5 points and the 76ers 106.6 points in their last ten games. The head-to-head average points in their last five matchups combine for 223.2 points, which is above the current total. Although the total line has remained stable, one projection suggests the game could land around 228 points, indicating potential value on the over.",
-          "awayRecord": "45-37",
-          "homeRecord": "53-29",
+          "rationale": "The Oklahoma City Thunder possess a high-octane offense, ranking 5th in the league with 119.0 points per game and averaging 123.7 points over their last 10 contests. They consistently play at a fast pace, especially at home, which typically results in higher-scoring games. In their regular season sweep of the Lakers, the Thunder scored 123, 139, 119, and 121 points, demonstrating their offensive potency against this opponent. Even with Luka Doncic out for the Lakers, the Thunder's offensive prowess and rapid pace are strong indicators that the game total will exceed 213.5.",
+          "awayRecord": "53-29",
+          "homeRecord": "64-18",
           "awayLast5": [
-            "L",
-            "L",
             "W",
             "W",
+            "L",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "L",
-            "L",
+            "W",
             "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Minnesota Timberwolves @ San Antonio Spurs",
-          "betType": "spread",
-          "pick": "San Antonio Spurs -12.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The Minnesota Timberwolves are significantly hampered by injuries, with key players Anthony Edwards and Ayo Dosunmu listed as questionable, and Donte DiVincenzo out for the playoffs. The San Antonio Spurs are well-rested after a 4-1 series win and are playing at home as a top team in the Western Conference. The initial opening spread was even higher at -14.5, suggesting strong market confidence in the Spurs despite a slight adjustment.",
-          "awayRecord": "49-33",
-          "homeRecord": "62-20",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Minnesota Timberwolves @ San Antonio Spurs",
-          "betType": "total",
-          "pick": "Over 217.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "The total line for this game has moved up from an opening of 216.5 to 217.5, which often signals sharp money coming in on the Over. Despite the Timberwolves' injuries, their last 10 games have seen them average 118.4 points. Furthermore, four of the last five head-to-head matchups between these two teams have gone Over the total, with several high-scoring affairs.",
-          "awayRecord": "49-33",
-          "homeRecord": "62-20",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia 76ers @ New York Knicks",
+          "game": "Cleveland Cavaliers @ Detroit Pistons",
           "betType": "moneyline",
-          "pick": "New York Knicks (-290)",
-          "odds": "-290",
+          "pick": "Detroit Pistons (-148)",
           "confidence": "medium",
-          "rationale": "The New York Knicks are strong favorites at home, boasting a 53-29 season record and a 30-10 home record. They are facing a Philadelphia 76ers team that is fatigued from a grueling seven-game series and dealing with Joel Embiid's hip contusion. The Knicks have won three of the last five head-to-head matchups against the 76ers, including a 49-point victory earlier this season. The betting odds give the Knicks a 75% implied probability of winning this game.",
-          "awayRecord": "45-37",
-          "homeRecord": "53-29",
+          "rationale": "The Detroit Pistons finished as the Eastern Conference's top seed (60-22) and demonstrated significant resilience by overcoming a 3-1 deficit in their first-round series. They possess a strong home-court advantage, having secured three victories in their four playoff games played at home. Conversely, the Cleveland Cavaliers struggled noticeably on the road in their previous series, losing all three away games. With Cade Cunningham's recent stellar performances and the Pistons' overall defensive strength, Detroit is well-positioned to earn a straight-up victory at home.",
+          "awayRecord": "52-30",
+          "homeRecord": "60-22",
           "awayLast5": [
             "L",
             "L",
             "W",
-            "W",
+            "L",
             "W"
           ],
           "homeLast5": [
@@ -131,18 +128,18 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Philadelphia Flyers @ Carolina Hurricanes",
+          "game": "Minnesota Wild vs Colorado Avalanche",
           "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "+110",
+          "pick": "Colorado Avalanche -1.5",
+          "odds": "+120",
           "confidence": "high",
-          "rationale": "The Carolina Hurricanes are in formidable form, having swept their first-round series and securing a decisive 3-0 victory in Game 1 against the Flyers. Their home advantage is significant, with the Hurricanes boasting nine consecutive home wins against Metropolitan Division opponents. Furthermore, goaltender Frederik Andersen has been exceptional in the postseason, maintaining a .961 save percentage and a 0.90 goals-against average. The Flyers' 5-on-5 defense has shown vulnerabilities, ranking in the bottom three with a 12.89 xGA, which Carolina's potent offense is well-positioned to exploit.",
-          "awayRecord": "43-27-12",
-          "homeRecord": "53-22-7",
+          "rationale": "The Colorado Avalanche are a dominant force at home, boasting a 55-16-11 regular season record and a commanding 9-6 victory in Game 1 of this series. The Minnesota Wild are significantly hampered by injuries to key defensemen Joel Eriksson Ek and Jonas Brodin, which was evident in their defensive struggles in the opener. Public and sharp money have consistently supported the Avalanche, with the moneyline moving further in their favor, indicating strong confidence in their ability to win by multiple goals.",
+          "awayRecord": "46-24-12",
+          "homeRecord": "55-16-11",
           "awayLast5": [
+            "L",
             "W",
-            "L",
-            "L",
+            "W",
             "W",
             "L"
           ],
@@ -155,20 +152,18 @@
           ]
         },
         {
-          "game": "Philadelphia Flyers @ Carolina Hurricanes",
-          "betType": "prop",
-          "pick": "Logan Stankoven Over 2.5 Shots on Goal",
-          "odds": "-125",
+          "game": "Minnesota Wild vs Colorado Avalanche",
+          "betType": "moneyline",
+          "pick": "Colorado Avalanche (-200)",
+          "odds": "-200",
           "confidence": "high",
-          "rationale": "Logan Stankoven has been a consistent offensive threat for the Hurricanes, scoring in five consecutive playoff games and playing a pivotal role on Carolina's most dangerous forward line. His line contributed all three goals in Game 1, highlighting his active involvement in offensive generation. Stankoven is averaging over 0.30 Expected Goals per game, indicating his propensity for high-quality scoring chances. Given his hot streak and central role in the Hurricanes' attack, he is highly likely to exceed 2.5 shots on goal in this contest.",
-          "propPlayer": "Logan Stankoven",
-          "propTeam": "Carolina Hurricanes",
-          "awayRecord": "43-27-12",
-          "homeRecord": "53-22-7",
+          "rationale": "The Colorado Avalanche are the superior team, holding a 1-0 series lead and an impressive 55-16-11 regular season record, finishing first in the Western Conference. Their home advantage at Ball Arena is significant, and they face a Minnesota Wild team missing two crucial defensemen in Joel Eriksson Ek and Jonas Brodin. The moneyline has seen consistent movement towards the Avalanche, reflecting strong market confidence in their outright victory.",
+          "awayRecord": "46-24-12",
+          "homeRecord": "55-16-11",
           "awayLast5": [
+            "L",
             "W",
-            "L",
-            "L",
+            "W",
             "W",
             "L"
           ],
@@ -181,66 +176,66 @@
           ]
         },
         {
-          "game": "Anaheim Ducks @ Vegas Golden Knights",
-          "betType": "spread",
-          "pick": "Anaheim Ducks +1.5",
-          "odds": "-180",
-          "confidence": "high",
-          "rationale": "The Anaheim Ducks have demonstrated a surprising edge over the Golden Knights this season, winning all three of their regular-season matchups. A significant situational factor is Vegas playing on a back-to-back after a demanding Game 6 victory yesterday, which could lead to fatigue against Anaheim's high-powered offense. While the Golden Knights possess playoff experience, the Ducks' ability to generate offense through speed and transition, coupled with Vegas's potential weariness, makes the +1.5 spread a strong play.",
-          "awayRecord": "43-33-6",
-          "homeRecord": "39-26-17",
+          "game": "Minnesota Wild vs Colorado Avalanche",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Despite an anomalous 9-6 Game 1, a regression to typical playoff scoring is highly anticipated for Game 2, especially given the defensive capabilities of both teams. The Colorado Avalanche finished the regular season with the fewest goals against in the league, and all their first-round games saw six or fewer goals. While Minnesota's defense is hampered by injuries, their regular season metrics show a strong defensive structure, and both starting goalies are generally reliable.",
+          "awayRecord": "46-24-12",
+          "homeRecord": "55-16-11",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
             "L",
-            "W"
+            "W",
+            "W",
+            "W",
+            "L"
           ],
           "homeLast5": [
-            "L",
-            "L",
+            "W",
+            "W",
             "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Anaheim Ducks @ Vegas Golden Knights",
+          "game": "Minnesota Wild vs Colorado Avalanche",
+          "betType": "spread",
+          "pick": "Minnesota Wild +1.5",
+          "odds": "-145",
+          "confidence": "medium",
+          "rationale": "Despite a lopsided Game 1 loss, the Minnesota Wild demonstrated significant offensive capability by scoring six goals against a top-tier Avalanche defense. Historically, the Wild have shown they can compete with Colorado, winning their regular season series 2-1-1 and holding a 3-2 record in their last five head-to-head matchups. With the +1.5 spread, Minnesota only needs to lose by one goal or win outright, which is a strong possibility if they can make defensive adjustments and capitalize on their offensive output.",
+          "awayRecord": "46-24-12",
+          "homeRecord": "55-16-11",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Minnesota Wild vs Colorado Avalanche",
           "betType": "total",
           "pick": "Over 6.5",
-          "odds": "-110",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "Both the Ducks and Golden Knights have exhibited goaltending struggles in the playoffs, with Lukas Dostal (ANA) averaging 3.87 Goals Against per game and Carter Hart (VGK) posting a 2.72 GAA and .898 save percentage. The Ducks' offense has been high-powered, leading the first round in scoring, and the Golden Knights' lineup features potent offensive threats like Jack Eichel and Mitch Marner. Considering Vegas is on a back-to-back and both teams' defensive vulnerabilities, this game is poised to be a high-scoring affair, pushing the total over 6.5 goals.",
-          "awayRecord": "43-33-6",
-          "homeRecord": "39-26-17",
+          "rationale": "Game 1 exploded for 15 goals, highlighting the immense offensive firepower of both teams, particularly the Colorado Avalanche who led the league in goals scored during the regular season. Minnesota's defensive injuries to Joel Eriksson Ek and Jonas Brodin further compromise their ability to contain Colorado's potent attack, and the Wild themselves proved they can contribute significantly to the score. The favorable odds for the Over at -105 present value, anticipating another high-event game.",
+          "awayRecord": "46-24-12",
+          "homeRecord": "55-16-11",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
             "L",
             "W",
             "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Flyers @ Carolina Hurricanes",
-          "betType": "moneyline",
-          "pick": "Carolina Hurricanes (-258)",
-          "odds": "-258",
-          "confidence": "medium",
-          "rationale": "The Carolina Hurricanes are a dominant force, entering this Game 2 with a perfect 5-0-0 record in their last five games and a 100% win probability. They swept their first-round opponent and convincingly won Game 1 against the Flyers 3-0. Carolina's goaltender, Frederik Andersen, has been stellar, leading all playoff backstops with a .961 save percentage and a 0.90 goals-against average. With a strong home record against Metropolitan Division opponents and a healthy, high-performing lineup, the Hurricanes are a high-confidence pick to win outright.",
-          "awayRecord": "43-27-12",
-          "homeRecord": "53-22-7",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
             "W",
             "L"
           ],
@@ -258,14 +253,38 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Baltimore Orioles @ New York Yankees",
+          "game": "Baltimore Orioles @ Miami Marlins",
           "betType": "moneyline",
-          "pick": "New York Yankees",
-          "odds": "-205",
+          "pick": "Miami Marlins (-138)",
+          "odds": "-138",
           "confidence": "high",
-          "rationale": "The New York Yankees, with a strong 23-11 record, are facing a struggling Baltimore Orioles team that is 15-19 and on a three-game losing streak. Yankees starting pitcher Cam Schlittler has been identified as one of the best pitchers in Major League Baseball this season. Despite some key injuries on both sides, the Yankees' ace on the mound at home against a slumping opponent provides a significant advantage. Public betting heavily favors the Yankees, with 91% of bets on them.",
-          "awayRecord": "15-19",
-          "homeRecord": "23-11",
+          "rationale": "Miami's Sandy Alcantara (3-2, 3.04 ERA) is having an impressive season, ranking in the top-40 in ERA and WHIP, and the Marlins are 4-3 in his starts. In contrast, Baltimore's Chris Bassitt (2-2, 5.46 ERA) has struggled significantly, allowing 17 earned runs in 28 innings this year, and the Orioles are on a five-game losing streak. The betting market has shown firm support for Miami, with the moneyline moving from -121 to -131, and public betting percentages climbing to 84% on the Marlins. Miami also holds a 4-2 head-to-head record against Baltimore in the last three seasons and is currently on a two-game winning streak against them.",
+          "awayRecord": "15-20",
+          "homeRecord": "16-19",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Cincinnati Reds @ Chicago Cubs",
+          "betType": "spread",
+          "pick": "Chicago Cubs -1.5",
+          "odds": "+132",
+          "confidence": "high",
+          "rationale": "The Chicago Cubs enter this game on a six-game winning streak, while the Cincinnati Reds have dropped four in a row. The pitching matchup heavily favors the Cubs, with Jameson Taillon (1.15 WHIP) taking the mound against Andrew Abbott, who has struggled to limit baserunners. The market has shown steady support for the Cubs, with their moneyline tightening from -163 to -168, indicating confidence in their ability to win convincingly. Given the Cubs' superior recent form, pitching advantage, and offensive depth, they are well-positioned to cover the run line at home.",
+          "awayRecord": "20-15",
+          "homeRecord": "23-12",
           "awayLast5": [
             "W",
             "L",
@@ -275,30 +294,30 @@
           ],
           "homeLast5": [
             "W",
-            "L",
+            "W",
             "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Cincinnati Reds @ Chicago Cubs",
+          "game": "Texas Rangers @ New York Yankees",
           "betType": "total",
-          "pick": "Over 11.5",
-          "odds": "+100",
+          "pick": "Under 8.5",
+          "odds": "+102",
           "confidence": "medium",
-          "rationale": "Both the Cincinnati Reds and Chicago Cubs have demonstrated a strong trend towards high-scoring games recently, with each team hitting the Over in 8 of their last 10 outings. Both squads are also dealing with significant pitching injuries, including key starters like Justin Steele and Hunter Greene on the injured list. This weakened pitching environment, combined with the recent offensive trends, strongly supports a high-scoring affair. The elevated total of 11.5 reflects expectations for a slugfest, making the Over a confident play.",
-          "awayRecord": "20-14",
-          "homeRecord": "22-12",
+          "rationale": "A projection system indicates a 'STRONG UNDER' for this game, with a projected total of 7.1 runs against the verified line of 8.5. This significant difference suggests a clear edge on the Under. The starting pitching matchup features Jacob deGrom for the Rangers and Elmer Rodriguez for the Yankees, both capable of suppressing offense. Betting on the Under 8.5 capitalizes on the expectation of fewer runs than the market currently implies, offering plus money value.",
+          "awayRecord": "16-18",
+          "homeRecord": "24-11",
           "awayLast5": [
             "L",
             "W",
-            "L",
+            "W",
             "L",
             "L"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "W",
             "W",
             "W",
@@ -308,65 +327,41 @@
         {
           "game": "Chicago White Sox @ Los Angeles Angels",
           "betType": "moneyline",
-          "pick": "Chicago White Sox",
-          "odds": "+134",
-          "confidence": "high",
-          "rationale": "The Chicago White Sox are in significantly better recent form, boasting a 7-3 record in their last 10 games, a stark contrast to the Los Angeles Angels' dismal 2-8 stretch. The Angels are also experiencing a pitching change, with George Klassen stepping in to start due to Ryan Johnson's illness, which can disrupt team stability. Despite being on the road, the White Sox's current momentum and the Angels' struggles, compounded by their key injuries, make the White Sox at plus money a valuable pick.",
-          "awayRecord": "16-18",
-          "homeRecord": "13-22",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ Seattle Mariners",
-          "betType": "moneyline",
-          "pick": "Atlanta Braves",
-          "odds": "+126",
+          "pick": "Chicago White Sox (-104)",
+          "odds": "-104",
           "confidence": "medium",
-          "rationale": "The Atlanta Braves hold the best record in MLB at 25-10 and are coming off a series sweep, while the Seattle Mariners were just swept in their last series. Although the Braves are without superstar Ronald Acuña Jr. due to a hamstring strain, their overall team strength and superior recent performance are undeniable. Getting the league's top team at plus money against a struggling opponent, even with a rookie pitcher in JR Ritchie who has performed well in his limited starts, presents a strong value bet.",
-          "awayRecord": "25-10",
-          "homeRecord": "16-19",
+          "rationale": "The Chicago White Sox have a strong recent head-to-head record against the Los Angeles Angels, winning their last three matchups on May 4, April 29, and April 28. In the last three seasons, the White Sox hold a dominant 10-5 record against the Angels. The Angels have also shown struggles when favored, with a 2-3 record when the moneyline is -116 or more this season. Given the White Sox's recent dominance in this specific matchup and the Angels' struggles as favorites, the White Sox moneyline at -104 presents good value.",
+          "awayRecord": "17-18",
+          "homeRecord": "13-23",
           "awayLast5": [
             "W",
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
             "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
             "L",
+            "L",
+            "W",
             "L",
             "L"
           ]
         },
         {
-          "game": "New York Mets @ Colorado Rockies",
-          "betType": "total",
-          "pick": "Over 10.5",
-          "odds": "-124",
+          "game": "Pittsburgh Pirates @ Arizona Diamondbacks",
+          "betType": "moneyline",
+          "pick": "Arizona Diamondbacks (-142)",
+          "odds": "-142",
           "confidence": "medium",
-          "rationale": "This game is scheduled to be played at Coors Field, which is widely recognized as a high-scoring environment due to its altitude. The Colorado Rockies' starting pitcher is TBD, and they recently surrendered 11 runs in their previous game. Given the significant park factors favoring offense and the Rockies' recent struggles on the mound, a high-scoring affair is highly probable. The Over 10.5 is a confident selection in this hitter-friendly venue.",
-          "awayRecord": "12-22",
-          "homeRecord": "14-21",
+          "rationale": "The Arizona Diamondbacks have a significant pitching advantage with Eduardo Rodriguez (2-0, 3.03 ERA) starting, who has been a stabilizing force for the team. In contrast, the Pirates are starting Bubba Chandler (1-3, 4.97 ERA), who has struggled with efficiency, allowing nine runs over his last nine innings. The Diamondbacks are motivated to snap a four-game losing streak at home, while the Pirates are on a three-game winning streak, making this a classic 'buy low, sell high' spot. The betting market has shown movement towards the Diamondbacks moneyline, reflecting confidence in their ability to secure a home victory.",
+          "awayRecord": "19-16",
+          "homeRecord": "16-17",
           "awayLast5": [
             "L",
             "L",
             "W",
-            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
@@ -384,35 +379,43 @@
       "picks": [
         {
           "game": "Atlético Madrid @ Arsenal",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "Arsenal's attack is significantly hampered by the likely absence of key players Martin Odegaard and Kai Havertz, who were missing from training on May 4, 2026, and are expected to be unavailable for this crucial second leg. Atlético Madrid, under Diego Simeone, is renowned for its disciplined defensive approach, which consistently leads to low-scoring matches. Four of the last five competitive head-to-head encounters between these teams have finished with Under 2.5 goals, including the 1-1 draw in the first leg of this semi-final. This combination of Arsenal's offensive struggles due to injuries and Atlético's defensive prowess strongly supports a low-scoring outcome in this high-stakes match."
-        },
-        {
-          "game": "Atlético Madrid @ Arsenal",
-          "betType": "moneyline",
-          "pick": "Atlético Madrid",
-          "odds": "+425",
-          "confidence": "medium",
-          "rationale": "Arsenal faces a significant challenge with key attacking midfielders Martin Odegaard and Kai Havertz likely sidelined, severely impacting their creative and goal-scoring threat. Conversely, Atlético Madrid receives a major boost with the return of several key players, including Julian Alvarez, Alexander Sorloth, and Jose Gimenez, all named in the squad and expected to be available after resting in their last league game. With the aggregate score tied at 1-1, Atlético's proven ability to grind out results in tight Champions League knockout matches and their disciplined defensive structure make them a dangerous underdog, offering substantial value at +425 for a potential upset or a draw that would see them advance."
-        },
-        {
-          "game": "Atlético Madrid @ Arsenal",
           "betType": "moneyline",
           "pick": "Arsenal",
-          "odds": "-160",
+          "odds": "-180",
           "confidence": "high",
-          "rationale": "Arsenal holds a formidable home advantage, boasting an excellent home record of 14 wins, 2 draws, and only 2 losses in the Premier League this season. They have also maintained an unbeaten record in the Champions League campaign, showcasing their consistency and strength in European competition. Historically, Arsenal demonstrated their capability to dominate Atlético Madrid at home with a commanding 4-0 victory in October 2025. Despite some key injuries, their overall squad depth, home support, and strong motivation to advance in this tied semi-final provide a solid foundation for a victory."
+          "rationale": "Arsenal enters this crucial second leg with a strong home record in the Champions League, remaining unbeaten at the Emirates and conceding no goals in the knockout stages. The return of key attacking players Martin Odegaard and Kai Havertz significantly boosts their offensive capabilities. Furthermore, the moneyline movement from initial offerings around -163 to the current -180 suggests sharp money is backing Arsenal. Atlético Madrid also faces a disadvantage after their team's sleep was disrupted by fireworks outside their hotel the night before the match."
         },
         {
           "game": "Atlético Madrid @ Arsenal",
           "betType": "total",
           "pick": "Over 2.5",
-          "odds": "-115",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The line movement for the total has shifted towards the Over 2.5, moving from -108 to -120, indicating increased betting confidence in a higher-scoring game. The first leg between these two teams ended in a 1-1 draw, demonstrating both sides' ability to find the back of the net. Arsenal's attack is bolstered by the return of Martin Odegaard and Kai Havertz, enhancing their goal-scoring potential. Additionally, Atlético Madrid has shown strong offensive form recently, scoring 11 goals in their last five domestic fixtures."
+        },
+        {
+          "game": "Atlético Madrid @ Arsenal",
+          "betType": "prop",
+          "pick": "Viktor Gyökeres Anytime Goalscorer",
+          "odds": "+165",
+          "confidence": "high",
+          "rationale": "Viktor Gyökeres is a prime candidate to score, having already converted a penalty in the first leg of this semi-final tie. He is Arsenal's leading goalscorer in the Premier League with 14 goals, showcasing his consistent threat in front of goal. The return of creative midfielders Martin Odegaard and Kai Havertz is expected to generate more scoring opportunities for Arsenal's forwards. Atlético Madrid also has some minor defensive injury concerns with Jose Gimenez and David Hancko listed as minor doubts, potentially creating vulnerabilities for Gyökeres to exploit."
+        },
+        {
+          "game": "Atlético Madrid @ Arsenal",
+          "betType": "prop",
+          "pick": "Kai Havertz Anytime Goalscorer",
+          "odds": "+210",
           "confidence": "medium",
-          "rationale": "Despite the first leg being a low-scoring affair, Arsenal possesses significant offensive potential at home, as demonstrated by their previous 4-0 thrashing of Atlético Madrid. Atlético Madrid has shown vulnerability in away Champions League matches this season, notably conceding multiple goals in 3-2 losses to Liverpool and Tottenham. With the aggregate score tied at 1-1, both teams will eventually need to push for goals to secure progression, which could lead to a more open game with increased scoring opportunities. The dynamics of a crucial second leg often result in more offensive play as time winds down, favoring the Over."
+          "rationale": "Kai Havertz is confirmed to be available and in the squad for Arsenal, marking a significant boost to their attacking options. His presence is expected to enhance Arsenal's attacking fluidity and provide another potent threat in the final third. Atlético Madrid's defense may be slightly compromised due to minor injury doubts for key defenders Jose Gimenez and David Hancko, as well as the absence of midfielders Pablo Barrios and Nico Gonzalez. Playing at home, Arsenal's offense is expected to be aggressive, providing Havertz with ample opportunities to score."
+        },
+        {
+          "game": "Atlético Madrid @ Arsenal",
+          "betType": "prop",
+          "pick": "Antoine Griezmann Anytime Goalscorer",
+          "odds": "+425",
+          "confidence": "medium",
+          "rationale": "Antoine Griezmann is a crucial attacking force for Atlético Madrid and is confirmed to be active for this high-stakes Champions League semi-final. He has been a prolific scorer for his club this season, netting 16 goals in La Liga. Atlético Madrid's recent offensive form has been strong, with the team scoring 11 goals in their last five domestic matches, indicating their ability to challenge Arsenal's defense. In a tightly contested semi-final, key players like Griezmann often rise to the occasion to make a decisive impact."
         }
       ]
     }
