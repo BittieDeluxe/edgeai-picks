@@ -1,5 +1,210 @@
 [
   {
+    "date": "2026-05-05",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Cleveland Cavaliers @ Detroit Pistons",
+            "betType": "spread",
+            "pick": "Detroit Pistons -3.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 101, Detroit Pistons 111"
+          },
+          {
+            "game": "Cleveland Cavaliers @ Detroit Pistons",
+            "betType": "total",
+            "pick": "Over 215.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Cavaliers 101, Detroit Pistons 111"
+          },
+          {
+            "game": "Los Angeles Lakers @ Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -15.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Lakers 90, Oklahoma City Thunder 108"
+          },
+          {
+            "game": "Los Angeles Lakers @ Oklahoma City Thunder",
+            "betType": "total",
+            "pick": "Over 213.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Lakers 90, Oklahoma City Thunder 108"
+          },
+          {
+            "game": "Cleveland Cavaliers @ Detroit Pistons",
+            "betType": "moneyline",
+            "pick": "Detroit Pistons (-148)",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 101, Detroit Pistons 111"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "spread",
+            "pick": "Colorado Avalanche -1.5",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Wild 2, Colorado Avalanche 5"
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "moneyline",
+            "pick": "Colorado Avalanche (-200)",
+            "odds": "-200",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Wild 2, Colorado Avalanche 5"
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota Wild 2, Colorado Avalanche 5"
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "spread",
+            "pick": "Minnesota Wild +1.5",
+            "odds": "-145",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota Wild 2, Colorado Avalanche 5"
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Wild 2, Colorado Avalanche 5"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Baltimore Orioles @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Miami Marlins (-138)",
+            "odds": "-138",
+            "confidence": "high",
+            "result": "L",
+            "score": "Baltimore Orioles 9, Miami Marlins 7"
+          },
+          {
+            "game": "Cincinnati Reds @ Chicago Cubs",
+            "betType": "spread",
+            "pick": "Chicago Cubs -1.5",
+            "odds": "+132",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cincinnati Reds 2, Chicago Cubs 3"
+          },
+          {
+            "game": "Texas Rangers @ New York Yankees",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Texas Rangers 4, New York Yankees 7"
+          },
+          {
+            "game": "Chicago White Sox @ Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox (-104)",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago White Sox 3, Los Angeles Angels 4"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Arizona Diamondbacks",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks (-142)",
+            "odds": "-142",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Pittsburgh Pirates 0, Arizona Diamondbacks 9"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Atlético Madrid @ Arsenal",
+            "betType": "moneyline",
+            "pick": "Arsenal",
+            "odds": "-180",
+            "confidence": "high",
+            "result": "W",
+            "score": "Atlético Madrid 0, Arsenal 1"
+          },
+          {
+            "game": "Atlético Madrid @ Arsenal",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlético Madrid 0, Arsenal 1"
+          },
+          {
+            "game": "Atlético Madrid @ Arsenal",
+            "betType": "prop",
+            "pick": "Viktor Gyökeres Anytime Goalscorer",
+            "odds": "+165",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Atlético Madrid @ Arsenal",
+            "betType": "prop",
+            "pick": "Kai Havertz Anytime Goalscorer",
+            "odds": "+210",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Atlético Madrid @ Arsenal",
+            "betType": "prop",
+            "pick": "Antoine Griezmann Anytime Goalscorer",
+            "odds": "+425",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-04",
     "sports": [
       {
@@ -161,8 +366,8 @@
             "pick": "Under 2.5",
             "odds": "-120",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Atlético Madrid 0, Arsenal 1"
           },
           {
             "game": "Atlético Madrid @ Arsenal",
@@ -170,8 +375,8 @@
             "pick": "Atlético Madrid",
             "odds": "+425",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Atlético Madrid 0, Arsenal 1"
           },
           {
             "game": "Atlético Madrid @ Arsenal",
@@ -179,8 +384,8 @@
             "pick": "Arsenal",
             "odds": "-160",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Atlético Madrid 0, Arsenal 1"
           },
           {
             "game": "Atlético Madrid @ Arsenal",
@@ -188,8 +393,8 @@
             "pick": "Over 2.5",
             "odds": "-115",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Atlético Madrid 0, Arsenal 1"
           }
         ]
       }
