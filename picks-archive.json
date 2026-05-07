@@ -1,5 +1,225 @@
 [
   {
+    "date": "2026-05-06",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Philadelphia 76ers @ New York Knicks",
+            "betType": "spread",
+            "pick": "New York Knicks -7.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia 76ers 102, New York Knicks 108"
+          },
+          {
+            "game": "Philadelphia 76ers @ New York Knicks",
+            "betType": "total",
+            "pick": "Over 216.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia 76ers 102, New York Knicks 108"
+          },
+          {
+            "game": "Minnesota Timberwolves @ San Antonio Spurs",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -10.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Timberwolves 95, San Antonio Spurs 133"
+          },
+          {
+            "game": "Minnesota Timberwolves @ San Antonio Spurs",
+            "betType": "total",
+            "pick": "Under 216.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota Timberwolves 95, San Antonio Spurs 133"
+          },
+          {
+            "game": "Philadelphia 76ers @ New York Knicks",
+            "betType": "moneyline",
+            "pick": "New York Knicks (-300)",
+            "odds": "-300",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia 76ers 102, New York Knicks 108"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Montreal Canadiens @ Buffalo Sabres",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Montreal Canadiens 2, Buffalo Sabres 4"
+          },
+          {
+            "game": "Anaheim Ducks @ Vegas Golden Knights",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights",
+            "odds": "-162",
+            "confidence": "high",
+            "result": "L",
+            "score": "Anaheim Ducks 3, Vegas Golden Knights 1"
+          },
+          {
+            "game": "Montreal Canadiens @ Buffalo Sabres",
+            "betType": "moneyline",
+            "pick": "Buffalo Sabres",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Montreal Canadiens 2, Buffalo Sabres 4"
+          },
+          {
+            "game": "Anaheim Ducks @ Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Anaheim Ducks 3, Vegas Golden Knights 1"
+          },
+          {
+            "game": "Montreal Canadiens @ Buffalo Sabres",
+            "betType": "prop",
+            "pick": "Cole Caufield Over 2.5 Shots on Goal",
+            "odds": "-164",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Cole Caufield: not found in box score"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Milwaukee Brewers @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals (-110)",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 6, St. Louis Cardinals 2"
+          },
+          {
+            "game": "San Diego Padres @ San Francisco Giants",
+            "betType": "spread",
+            "pick": "San Diego Padres -1.5 (+146)",
+            "odds": "+146",
+            "confidence": "high",
+            "result": "?",
+            "score": "San Diego Padres 5, San Francisco Giants 1"
+          },
+          {
+            "game": "Chicago White Sox @ Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Los Angeles Angels (-104)",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago White Sox 2, Los Angeles Angels 8"
+          },
+          {
+            "game": "New York Mets @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Under 9.5 (-106)",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Mets 10, Colorado Rockies 5"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Arizona Diamondbacks",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates (-132)",
+            "odds": "-132",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Pittsburgh Pirates 1, Arizona Diamondbacks 0"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Paris Saint-Germain @ Bayern Munich",
+            "betType": "moneyline",
+            "pick": "Bayern Munich (-170)",
+            "odds": "-170",
+            "confidence": "high",
+            "result": "L",
+            "score": "Paris Saint-Germain 1, Bayern Munich 1"
+          },
+          {
+            "game": "Paris Saint-Germain @ Bayern Munich",
+            "betType": "total",
+            "pick": "Over 4.5 (+120)",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Paris Saint-Germain 1, Bayern Munich 1"
+          }
+        ]
+      },
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "Nottingham Forest @ Aston Villa",
+            "betType": "moneyline",
+            "pick": "Aston Villa",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Nottingham Forest @ Aston Villa",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "SC Braga @ SC Freiburg",
+            "betType": "moneyline",
+            "pick": "SC Braga",
+            "odds": "+380",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "SC Braga @ SC Freiburg",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-05",
     "sports": [
       {
