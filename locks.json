@@ -25,7 +25,7 @@
     "id": "lock-003",
     "date": "2026-05-04",
     "sport": "NBA",
-    "game": "Timberwolves Playoffs",
+    "game": "Timberwolves vs Spurs",
     "pick": "Timberwolves -10.5",
     "odds": "-110",
     "betType": "spread",
@@ -36,11 +36,44 @@
     "id": "lock-004",
     "date": "2026-05-04",
     "sport": "NBA",
-    "game": "Timberwolves Playoffs",
+    "game": "Timberwolves vs Spurs",
     "pick": "Terrence Shannon Jr Over 9 Points",
     "odds": "-110",
     "betType": "prop",
     "rationale": "Shannon Jr. in rhythm and seeing consistent playoff minutes. Line hasn't adjusted to his current role.",
     "result": "W"
+  },
+  {
+    "id": "lock-005",
+    "date": "2026-05-08",
+    "sport": "NBA",
+    "game": "Spurs @ Timberwolves",
+    "pick": "Terrence Shannon Jr Over 9.5 Points",
+    "odds": "-133",
+    "betType": "prop",
+    "rationale": "TSJ has scored 12+ in each of his last four playoff games, including 24 in his only home game this series. Game 3 is in Minnesota and he's firmly in the rotation. Line still undervaluing his current role.",
+    "result": "?"
+  },
+  {
+    "id": "lock-006",
+    "date": "2026-05-08",
+    "sport": "WNBA",
+    "game": "Mystics vs Tempo",
+    "pick": "Kiki Iriafen Over 8.5 Rebounds",
+    "odds": "-112",
+    "betType": "prop",
+    "rationale": "Iriafen is one of the premier rebounders in the league and this line is set conservatively for Opening Night. Atlanta Tempo gives up boards at a high rate.",
+    "result": "?"
+  },
+  {
+    "id": "lock-007",
+    "date": "2026-05-08",
+    "sport": "WNBA",
+    "game": "Valkyries @ Storm",
+    "pick": "Veronica Burton Over 4.5 Rebounds",
+    "odds": "-114",
+    "betType": "prop",
+    "rationale": "Burton averaged 5.1 rebounds over her last 10 games heading into this matchup. Line hasn't kept pace with her recent rebounding production.",
+    "result": "?"
   }
 ]
