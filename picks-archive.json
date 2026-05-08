@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-05-07",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Cleveland Cavaliers vs Detroit Pistons",
+            "betType": "spread",
+            "pick": "Detroit Pistons -3.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 97, Detroit Pistons 107"
+          },
+          {
+            "game": "Cleveland Cavaliers vs Detroit Pistons",
+            "betType": "total",
+            "pick": "Over 215.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Cavaliers 97, Detroit Pistons 107"
+          },
+          {
+            "game": "Los Angeles Lakers vs Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -15.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Lakers 107, Oklahoma City Thunder 125"
+          },
+          {
+            "game": "Los Angeles Lakers vs Oklahoma City Thunder",
+            "betType": "total",
+            "pick": "Under 210.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Lakers 107, Oklahoma City Thunder 125"
+          },
+          {
+            "game": "Cleveland Cavaliers vs Detroit Pistons",
+            "betType": "prop",
+            "pick": "Cade Cunningham Over 5.5 Assists",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cade Cunningham: 10 Assists (line 5.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes vs Philadelphia Flyers",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "-162",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Philadelphia Flyers 1"
+          },
+          {
+            "game": "Carolina Hurricanes vs Philadelphia Flyers",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-148",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Philadelphia Flyers 1"
+          },
+          {
+            "game": "Carolina Hurricanes vs Philadelphia Flyers",
+            "betType": "prop",
+            "pick": "Taylor Hall Anytime Goal Scorer",
+            "odds": "+400",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Carolina Hurricanes vs Philadelphia Flyers",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+156",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Philadelphia Flyers 1"
+          },
+          {
+            "game": "Carolina Hurricanes vs Philadelphia Flyers",
+            "betType": "spread",
+            "pick": "Philadelphia Flyers +1.5",
+            "odds": "-194",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Carolina Hurricanes 4, Philadelphia Flyers 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cincinnati Reds @ Chicago Cubs",
+            "betType": "spread",
+            "pick": "Chicago Cubs -1.5",
+            "odds": "+104",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 3, Chicago Cubs 8"
+          },
+          {
+            "game": "Cleveland Guardians @ Kansas City Royals",
+            "betType": "moneyline",
+            "pick": "Kansas City Royals",
+            "odds": "-144",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cleveland Guardians 8, Kansas City Royals 5"
+          },
+          {
+            "game": "Athletics @ Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Athletics",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Athletics 12, Philadelphia Phillies 1"
+          },
+          {
+            "game": "Baltimore Orioles @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "-124",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Baltimore Orioles 3, Miami Marlins 4"
+          },
+          {
+            "game": "St. Louis Cardinals @ San Diego Padres",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "+144",
+            "confidence": "medium",
+            "result": "W",
+            "score": "St. Louis Cardinals 2, San Diego Padres 1"
+          }
+        ]
+      },
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "Nottingham Forest @ Aston Villa",
+            "betType": "moneyline",
+            "pick": "Aston Villa",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "W",
+            "score": "Nottingham Forest 0, Aston Villa 4"
+          },
+          {
+            "game": "Nottingham Forest @ Aston Villa",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "W",
+            "score": "Nottingham Forest 0, Aston Villa 4"
+          },
+          {
+            "game": "Braga @ SC Freiburg",
+            "betType": "moneyline",
+            "pick": "SC Freiburg",
+            "odds": "-155",
+            "confidence": "high",
+            "result": "W",
+            "score": "Braga 1, SC Freiburg 3"
+          },
+          {
+            "game": "Braga @ SC Freiburg",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Braga 1, SC Freiburg 3"
+          },
+          {
+            "game": "Braga @ SC Freiburg",
+            "betType": "prop",
+            "pick": "Vincenzo Grifo to Score Anytime",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-06",
     "sports": [
       {
@@ -184,8 +390,8 @@
             "pick": "Aston Villa",
             "odds": "-145",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Nottingham Forest 0, Aston Villa 4"
           },
           {
             "game": "Nottingham Forest @ Aston Villa",
@@ -193,8 +399,8 @@
             "pick": "Over 2.5",
             "odds": "-120",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Nottingham Forest 0, Aston Villa 4"
           },
           {
             "game": "SC Braga @ SC Freiburg",
@@ -202,8 +408,8 @@
             "pick": "SC Braga",
             "odds": "+380",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Braga 1, SC Freiburg 3"
           },
           {
             "game": "SC Braga @ SC Freiburg",
@@ -211,8 +417,8 @@
             "pick": "Under 2.5",
             "odds": "-125",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Braga 1, SC Freiburg 3"
           }
         ]
       }
