@@ -1,19 +1,19 @@
 {
-  "date": "2026-05-08",
-  "generatedAt": "2026-05-08T16:08:48.248Z",
+  "date": "2026-05-09",
+  "generatedAt": "2026-05-09T15:40:43.444Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "New York Knicks @ Philadelphia 76ers",
-          "betType": "moneyline",
-          "pick": "Philadelphia 76ers",
-          "odds": "-122",
-          "confidence": "high",
-          "rationale": "The Philadelphia 76ers are in a desperate situation, down 0-2 and returning home for Game 3, making this a must-win game to avoid a near-insurmountable deficit. Joel Embiid, despite being listed as questionable with ankle and hip soreness, is expected to play, and his presence significantly boosts the 76ers' chances. The Knicks are dealing with key injuries to OG Anunoby (hamstring) and Josh Hart (thumb), both questionable, which could severely impact their rotation and two-way play. With the home crowd behind them and a desperate need for a victory, Philadelphia is poised to secure a crucial win.",
-          "awayRecord": "53-29",
-          "homeRecord": "45-37",
+          "game": "Detroit Pistons vs Cleveland Cavaliers",
+          "betType": "spread",
+          "pick": "Detroit Pistons +4.5",
+          "odds": "-106",
+          "confidence": "medium",
+          "rationale": "The Detroit Pistons are entering Game 3 with a commanding 2-0 series lead and have been in excellent form, winning 7 of their last 10 games, including a four-game winning streak. They have consistently covered the spread against the Cavaliers, doing so in 5 consecutive head-to-head matchups and 16 of their last 20 games. Conversely, the Cavaliers have failed to cover the -4.5 line in their last five games against the Pistons. Despite being on the road, the Pistons' strong recent performance and favorable ATS trends make them a high-confidence pick to keep this game within the spread.",
+          "awayRecord": "60-22",
+          "homeRecord": "52-30",
           "awayLast5": [
             "W",
             "W",
@@ -23,93 +23,93 @@
           ],
           "homeLast5": [
             "W",
-            "W",
+            "L",
             "W",
             "L",
             "L"
           ]
         },
         {
-          "game": "San Antonio Spurs @ Minnesota Timberwolves",
+          "game": "Oklahoma City Thunder vs Los Angeles Lakers",
           "betType": "spread",
-          "pick": "San Antonio Spurs -4.5",
+          "pick": "Oklahoma City Thunder -8.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "The Oklahoma City Thunder have been dominant in this series, leading 2-0, and boast an impressive 8-2 record in their last 10 games, including a five-game winning streak. They have a significant head-to-head advantage, winning their last five matchups and seven straight overall against the Lakers. The Lakers are severely hampered by the absence of Luka Dončić due to a hamstring injury, which significantly impacts their offensive capabilities. With sharp money trending towards the Thunder following their Game 2 blowout, Oklahoma City is well-positioned to cover the spread even on the road.",
+          "awayRecord": "64-18",
+          "homeRecord": "53-29",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Detroit Pistons vs Cleveland Cavaliers",
+          "betType": "total",
+          "pick": "Under 212.5",
           "odds": "-114",
           "confidence": "medium",
-          "rationale": "The San Antonio Spurs are coming off a dominant 38-point victory in Game 2, tying the series at 1-1, and have won 7 of their last 10 games with a strong +9.3 point differential. The Minnesota Timberwolves are significantly hampered by injuries, with Anthony Edwards (knee) and Ayo Dosunmu (heel) both questionable, and Donte DiVincenzo (Achilles) out for the season. The line movement from Spurs -3.5 to -4.5 indicates sharp money is favoring San Antonio, despite public action leaning towards Minnesota. With a healthy roster and strong momentum, the Spurs are well-positioned to cover the spread on the road.",
-          "awayRecord": "62-20",
-          "homeRecord": "49-33",
+          "rationale": "Both games in this Eastern Conference Semifinals series have gone under the total, with scores of 111-101 (212 total) and 107-97 (204 total). The Cavaliers have shown a negative point differential over their last 10 games, indicating struggles in consistent high-scoring output. The Pistons' defense has been effective, holding the Cavaliers to under their season average in the first two games. With Cavaliers' key three-point shooter Sam Merrill listed as questionable, their offensive efficiency could be further limited, supporting an under bet.",
+          "awayRecord": "60-22",
+          "homeRecord": "52-30",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
             "W",
             "L",
             "W",
-            "W",
+            "L",
             "L"
           ]
         },
         {
-          "game": "San Antonio Spurs @ Minnesota Timberwolves",
-          "betType": "prop",
-          "pick": "Victor Wembanyama Under 25.5 Points",
-          "odds": "-111",
-          "confidence": "high",
-          "rationale": "Victor Wembanyama, who is active for the Spurs, has not been a high-volume scorer in this series, recording 11 points in Game 1 and 19 points in Game 2, averaging 15 points per game. His points prop is set at 25.5, a total he has only exceeded twice this postseason. The Spurs' balanced offensive attack and Wembanyama's focus on other aspects of his game, such as rebounding and defense, suggest he may not reach this elevated scoring mark. Given his recent playoff scoring output against the Timberwolves, the Under 25.5 points offers strong value.",
-          "awayRecord": "62-20",
-          "homeRecord": "49-33",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "San Antonio Spurs @ Minnesota Timberwolves",
-          "betType": "prop",
-          "pick": "Anthony Edwards Under 32.5 Points + Rebounds + Assists",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Anthony Edwards, though questionable with a left knee bone bruise, has been limited in the series, coming off the bench and playing no more than 25 minutes in the first two games. He has failed to clear this combined PRA line in both games, averaging 15 points, 3 rebounds, and 1.5 assists. The prop line has been inflated to 32.5, up from 26.5 in previous games, creating significant value on the Under, especially with the Spurs' defensive strategy of doubling him. His injury and reduced usage make it unlikely he will exceed this total.",
-          "awayRecord": "62-20",
-          "homeRecord": "49-33",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Knicks @ Philadelphia 76ers",
+          "game": "Oklahoma City Thunder vs Los Angeles Lakers",
           "betType": "total",
-          "pick": "Under 214.5",
+          "pick": "Over 211.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The total for Philadelphia 76ers games has shown a consistent trend towards the under, with 12 of their last 16 contests going below the projected total. Both teams are facing significant injury concerns for key offensive players, including Joel Embiid for the 76ers and OG Anunoby and Josh Hart for the Knicks, which is likely to hinder offensive efficiency. Game 2 of this series already saw a total of 210 points, falling under the current line. With the high stakes of a pivotal Game 3, a more defensive and deliberate pace is anticipated, further supporting the Under.",
-          "awayRecord": "53-29",
-          "homeRecord": "45-37",
+          "rationale": "The Oklahoma City Thunder possess a potent offense, averaging 120.6 points per game over their last 10 outings, indicating their capability to drive up game totals. In their recent head-to-head history, three of the last five matchups have gone over the 211.5 total, including a 125-107 game earlier this week. Despite the Lakers missing Luka Dončić, the Thunder's consistent scoring prowess, led by Shai Gilgeous-Alexander, is expected to produce a high-scoring affair. The Lakers, playing at home and desperate to get back into the series, might push the pace, contributing to more scoring opportunities for both teams.",
+          "awayRecord": "64-18",
+          "homeRecord": "53-29",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Detroit Pistons vs Cleveland Cavaliers",
+          "betType": "moneyline",
+          "pick": "Detroit Pistons (+152)",
+          "odds": "+152",
+          "confidence": "medium",
+          "rationale": "The Detroit Pistons are playing with significant momentum, having won the first two games of this series and holding a 4-1 advantage in their last five head-to-head matchups against the Cavaliers. Their recent form is superior, with a 7-3 record over their last 10 games compared to the Cavaliers' 5-5 record. While the Cavaliers are at home, the Pistons have consistently demonstrated their ability to defeat them outright. The +152 moneyline offers substantial value for a team that has proven to be the better side in recent contests and is playing with high confidence.",
+          "awayRecord": "60-22",
+          "homeRecord": "52-30",
           "awayLast5": [
             "W",
             "W",
@@ -119,7 +119,7 @@
           ],
           "homeLast5": [
             "W",
-            "W",
+            "L",
             "W",
             "L",
             "L"
@@ -131,86 +131,163 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Montreal Canadiens vs Buffalo Sabres",
-          "betType": "moneyline",
-          "pick": "Buffalo Sabres",
-          "odds": "-132",
+          "game": "Carolina Hurricanes vs Philadelphia Flyers",
+          "betType": "spread",
+          "pick": "Carolina Hurricanes -1.5",
+          "odds": "+124",
           "confidence": "high",
-          "rationale": "The Buffalo Sabres are in strong recent form, boasting a 7-2-1 record in their last 10 games with a +19 goal differential, and they won Game 1 of this series 4-2 at home. The Canadiens' top line, featuring 50-goal scorer Cole Caufield, has struggled significantly in the playoffs with only one even-strength goal. Buffalo's aggressive transition attack and speed advantage are well-suited to exploit Montreal's defensive inconsistencies and shaky penalty kill, especially on home ice where the Sabres play their best hockey.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "50-23-9",
+          "rationale": "The Carolina Hurricanes are on a dominant 7-0 playoff run, including a commanding 3-0 series lead against the Flyers, outscoring them significantly. Philadelphia's offense has been stifled, managing only three goals in three games and struggling on the power play. With key Flyers players like Noah Cates and Owen Tippett injured or out, and sharp money moving towards Carolina's moneyline, the Hurricanes are well-positioned to secure a comfortable victory and complete the sweep.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "43-27-12",
           "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
             "W",
             "W",
-            "L",
+            "W",
             "W",
             "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Montreal Canadiens vs Buffalo Sabres",
+          "game": "Carolina Hurricanes vs Philadelphia Flyers",
           "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-128",
+          "pick": "Under 5.5",
+          "odds": "-144",
           "confidence": "high",
-          "rationale": "Game 1 of this series saw a total of 6 goals (4-2 Buffalo win), hitting the Over. Historically, the Over has cashed in eight straight home games for Buffalo on a Friday night, indicating a trend of high-scoring affairs in this specific situational spot. Furthermore, the Canadiens have seen six or more total goals in seven of their last eight games, highlighting their involvement in higher-scoring contests. Montreal's defensive reliability and inconsistent penalty kill against Buffalo's potent offense suggest ample scoring opportunities for both sides.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "50-23-9",
+          "rationale": "The Carolina Hurricanes have displayed stifling defense and outstanding goaltending from Frederik Andersen throughout the playoffs, limiting the Flyers to just three goals in three games. Philadelphia's power play has been ineffective, converting only 1-of-12 opportunities in the series. Despite a historical H2H average of 5.8 goals, the recent playoff games have seen totals of 3, 5 (OT), and 5 goals, and public money is heavily on the Under.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "43-27-12",
           "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
             "L",
             "W",
             "L",
-            "W",
+            "L",
             "L"
+          ]
+        },
+        {
+          "game": "Colorado Avalanche vs Minnesota Wild",
+          "betType": "spread",
+          "pick": "Colorado Avalanche -1.5",
+          "odds": "+190",
+          "confidence": "high",
+          "rationale": "The Colorado Avalanche are on an impressive 6-0 playoff streak, leading their series against the Wild 2-0 with a dominant 14 goals scored in the first two games. Minnesota's goaltending has struggled, allowing 15 goals in those two contests, and their defense is hampered by the absence of key players like Joel Eriksson Ek and Jonas Brodin. With public and sharp money heavily favoring Colorado, the Avalanche are poised to continue their high-scoring ways and cover the spread on the road.",
+          "awayRecord": "55-16-11",
+          "homeRecord": "46-24-12",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L",
             "W",
-            "W"
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Montreal Canadiens vs Buffalo Sabres",
-          "betType": "prop",
-          "pick": "Alex Tuch Over 0.5 Goals",
-          "odds": "N/A",
-          "confidence": "high",
-          "rationale": "Alex Tuch is an active and key offensive player for the Buffalo Sabres, confirmed in the lineup for today's game. He has been in excellent goal-scoring form, finding the back of the net in eight of his last 12 games. With the Sabres playing at home, where their offense thrives, and facing a Canadiens team with defensive vulnerabilities, Tuch is well-positioned to continue his scoring streak. His consistent production makes him a strong candidate to score at least one goal in this matchup.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "50-23-9",
+          "game": "Colorado Avalanche vs Minnesota Wild",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "The first two games of this series have been high-scoring affairs, with totals of 15 goals (9-6) and 7 goals (5-2), averaging 11 goals per game. Colorado's offense is firing on all cylinders, leading the league in Expected Goals For during the regular season and continuing that pace in the playoffs. Minnesota's goaltending has been unable to contain the Avalanche, giving up 15 goals in two games, and their penalty kill is weakened by injuries to key players.",
+          "awayRecord": "55-16-11",
+          "homeRecord": "46-24-12",
           "awayLast5": [
-            "L",
             "W",
-            "L",
             "W",
-            "L"
+            "W",
+            "W",
+            "W"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L",
             "W",
-            "W"
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Vegas Golden Knights vs Anaheim Ducks",
+          "game": "Colorado Avalanche vs Minnesota Wild",
           "betType": "moneyline",
-          "pick": "Anaheim Ducks",
-          "odds": "-106",
+          "pick": "Colorado Avalanche",
+          "odds": "-130",
           "confidence": "medium",
-          "rationale": "The Anaheim Ducks have demonstrated strong control over the puck, speed, and overall style of play in the first two games of this series, winning Game 2 by a score of 3-1. Vegas's offense has struggled to generate goals, managing only four in two games, with one being an empty-netter. The Ducks are returning home for Game 3, where they will aim to capitalize on their momentum and take a series lead. Historically, the Golden Knights hold a 1-3 record against the Ducks in the 2025-26 season, including regular season and playoffs.",
-          "awayRecord": "39-26-17",
-          "homeRecord": "43-33-6",
+          "rationale": "The Colorado Avalanche are currently undefeated in the playoffs with a 6-0 record and hold a commanding 2-0 series lead over the Minnesota Wild, having outscored them 14-8 in the first two games. The Wild are significantly hampered by injuries to key defensive players Joel Eriksson Ek and Jonas Brodin, which has weakened their penalty kill and overall defensive structure. With the moneyline showing sharp movement towards Colorado and the team's high-powered offense, the Avalanche are a strong pick to win Game 3 outright.",
+          "awayRecord": "55-16-11",
+          "homeRecord": "46-24-12",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "Chicago Cubs @ Texas Rangers",
+          "betType": "spread",
+          "pick": "Chicago Cubs -1.5",
+          "odds": "+122",
+          "confidence": "high",
+          "rationale": "The Chicago Cubs are currently on an impressive 10-game winning streak, boasting a strong 27-12 record and a .692 winning percentage. In contrast, the Texas Rangers are struggling, having lost their last two games and four consecutive series, holding a 17-21 record. While the Rangers' offense typically performs better against right-handed pitching, the Cubs' overall momentum and superior team form, coupled with the Rangers' 7-9 home record, provide a significant edge. The Cubs' potent offense, led by Michael Conforto (.375 AVG) and Ian Happ (9 HR, 31 runs), is well-positioned to cover the -1.5 spread against a Texas team dealing with multiple injuries, including Wyatt Langford and Josh Smith.",
+          "awayRecord": "27-12",
+          "homeRecord": "17-21",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Tampa Bay Rays @ Boston Red Sox",
+          "betType": "moneyline",
+          "pick": "Tampa Bay Rays",
+          "odds": "+126",
+          "confidence": "high",
+          "rationale": "The Tampa Bay Rays enter this matchup with a superior 25-13 record, significantly better than the Boston Red Sox's 17-22. The Rays demonstrated their current form by securing an 8-4 victory over the Red Sox in their previous game on Friday. A key factor is the pitching matchup, with the Rays sending Nick Martinez to the mound, who holds an impressive 3-1 record and a 1.71 ERA over 42 2/3 innings. This strong pitching advantage, combined with their recent head-to-head win and better overall record, makes the Rays a high-value underdog pick.",
+          "awayRecord": "25-13",
+          "homeRecord": "17-22",
           "awayLast5": [
             "W",
             "W",
@@ -220,34 +297,82 @@
           ],
           "homeLast5": [
             "W",
-            "L",
+            "W",
             "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "Vegas Golden Knights vs Anaheim Ducks",
-          "betType": "prop",
-          "pick": "Leo Carlsson Over 3.5 Shots on Goal",
-          "odds": "N/A",
-          "confidence": "medium",
-          "rationale": "Leo Carlsson, an active forward for the Anaheim Ducks, has consistently exceeded 3.5 shots on goal in his last two playoff games, indicating a high volume shooting mentality. His offensive presence is central to Anaheim's structure, with the team's attack increasingly flowing through him on every shift. Carlsson also scored a goal in Game 2, further highlighting his offensive engagement and confidence. Given his recent performance and pivotal role in the Ducks' offense, he is expected to register numerous shots on goal.",
-          "awayRecord": "39-26-17",
-          "homeRecord": "43-33-6",
+          "game": "New York Yankees @ Milwaukee Brewers",
+          "betType": "spread",
+          "pick": "New York Yankees -1.5",
+          "odds": "+125",
+          "confidence": "high",
+          "rationale": "The New York Yankees are a formidable team with a strong 26-13 record and a .667 winning percentage. The Milwaukee Brewers are severely impacted by injuries, most notably with outfielder Brandon Lockridge suffering a significant knee laceration and being carted off the field during Friday's game, and Christian Yelich (groin) also sidelined. Although the Brewers won the previous game, the loss of a key offensive player like Lockridge is expected to significantly hinder their performance. The Yankees' powerful lineup, featuring Aaron Judge (15 home runs, 29 RBIs), is well-equipped to exploit the Brewers' depleted roster and secure a victory by more than one run.",
+          "awayRecord": "26-13",
+          "homeRecord": "20-16",
           "awayLast5": [
             "W",
             "W",
-            "W",
+            "L",
             "W",
             "L"
           ],
           "homeLast5": [
             "W",
             "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Pittsburgh Pirates @ San Francisco Giants",
+          "betType": "moneyline",
+          "pick": "Pittsburgh Pirates",
+          "odds": "-118",
+          "confidence": "medium",
+          "rationale": "The Pittsburgh Pirates hold a more favorable record at 21-18 with a .538 winning percentage, while the San Francisco Giants are struggling at 15-23 with a .395 winning percentage. The Giants are significantly weakened by multiple injuries to key players, including Erik Miller, Sam Hentges, and potentially LaMonte Wade Jr. and Luis Arraez, impacting both their lineup and pitching staff. Pittsburgh's offense, spearheaded by Oneil Cruz (28 RBIs, 13 stolen bases), is in a strong position to capitalize on the Giants' compromised state. Despite a loss to the Giants on May 8th, the Pirates have a clear opportunity for a bounce-back win against a severely depleted opponent.",
+          "awayRecord": "21-18",
+          "homeRecord": "15-23",
+          "awayLast5": [
             "W",
             "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
             "W"
+          ]
+        },
+        {
+          "game": "St. Louis Cardinals @ San Diego Padres",
+          "betType": "moneyline",
+          "pick": "St. Louis Cardinals",
+          "odds": "+122",
+          "confidence": "medium",
+          "rationale": "The St. Louis Cardinals are entering this game on a two-game winning streak, holding a solid 23-15 record. In contrast, the San Diego Padres are on a two-game losing streak and are significantly impacted by multiple key injuries, including Luis Campusano (toe), Jake Cronenworth (concussion), and Manny Machado (unspecified injury). Cardinals' standout Jordan Walker is performing exceptionally well, leading the team in batting average (.302), home runs (10), and RBIs (30). Despite the Padres winning the previous game, the Cardinals' current momentum and the extensive injury list for San Diego present a strong value opportunity for St. Louis as an underdog.",
+          "awayRecord": "23-15",
+          "homeRecord": "22-16",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
           ]
         }
       ]
@@ -256,44 +381,83 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "Inter Miami CF @ Toronto FC",
+          "game": "Sporting Kansas City @ Portland Timbers",
           "betType": "moneyline",
-          "pick": "Inter Miami CF",
-          "odds": "-115",
+          "pick": "Portland Timbers",
+          "odds": "-210",
           "confidence": "high",
-          "rationale": "Toronto FC is severely depleted with 10 players sidelined due to injury, including key figures like Richie Laryea and Djordje Mihailovic. Inter Miami, despite a recent loss, boasts a strong away record with five wins, one draw, and one defeat on the road this season, including three consecutive away victories. Furthermore, Inter Miami has a dominant head-to-head history against Toronto, remaining unbeaten in their last five meetings and winning seven of the last ten. With Lionel Messi in MVP-caliber form, Inter Miami is well-positioned to exploit Toronto's injury woes and secure a road win."
+          "rationale": "Sporting Kansas City is in abysmal form, with a league-worst record of 1 win, 2 draws, and 7 losses in their last 10 games, coupled with a -18 goal differential. They have a historically poor record away against Portland, with their last away win against the Timbers dating back to 2017. Portland, despite some inconsistencies, holds a strong home head-to-head advantage against SKC, winning 8 of their 16 home meetings. The betting market also heavily favors Portland, with a 65.36% win probability and expert tips recommending backing them on the Asian Handicap.",
+          "awayRecord": "1-2-7",
+          "homeRecord": "3-1-6"
         },
         {
-          "game": "New York Red Bulls @ Chicago Fire",
+          "game": "San Diego FC @ Seattle Sounders FC",
           "betType": "moneyline",
-          "pick": "Chicago Fire",
-          "odds": "-195",
-          "confidence": "high",
-          "rationale": "Chicago Fire enters this match with a solid home record, having won four of their six matches at Soldier Field this season. In contrast, the New York Red Bulls are in poor form, currently on a five-game winless streak and possessing one of the league's worst defensive records, conceding 27 goals in 11 games. Chicago also holds a favorable head-to-head record against the Red Bulls, winning five of the last ten encounters. Given the Red Bulls' defensive vulnerabilities, particularly on the road where they've conceded at least two goals in their last four away matches, Chicago is expected to secure a comfortable victory."
-        },
-        {
-          "game": "LA Galaxy @ Atlanta United FC",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-150",
-          "confidence": "high",
-          "rationale": "Both Atlanta United and LA Galaxy have demonstrated a strong tendency for high-scoring games this season. The Over 2.5 goals line has been covered in Atlanta's last three games and in eight of the last ten Galaxy games. Neither team has shown significant defensive solidity, with the Galaxy having both teams scoring in 18 of their last 20 matches. Atlanta's recent attacking resurgence, combined with the Galaxy's offensive resilience despite key injuries, points towards a lively contest with multiple goals."
-        },
-        {
-          "game": "FC Cincinnati @ Charlotte FC",
-          "betType": "moneyline",
-          "pick": "Charlotte FC",
+          "pick": "Seattle Sounders FC",
           "odds": "+110",
-          "confidence": "medium",
-          "rationale": "Charlotte FC boasts a significant head-to-head advantage over FC Cincinnati, having won their last three successive meetings and holding a 4-2-2 record since 2022. While Charlotte has lost their last three overall, they are at home against a Cincinnati side missing several key defensive players, including Miles Robinson and Obinna Nwobodo. Cincinnati also has a leaky defense, conceding 25 goals so far this season. With the home crowd and a historical edge, Charlotte is well-positioned to capitalize on Cincinnati's defensive vulnerabilities and secure a victory."
+          "confidence": "high",
+          "rationale": "Seattle Sounders FC enters this match in very good overall form (6-2-1) and boasts an excellent 3-0-0 home record this season, being described as 'unbeatable at Lumen Field'. In stark contrast, San Diego FC is struggling, having failed to win any of their last five MLS matches. San Diego is also significantly hampered by multiple key injuries, with Pablo Eduardo Sisniega Fink (back), Willy Kumado (lower-body), and Jeppe Tverskov (lower-body) all absent. Seattle's strong home advantage and San Diego's poor form and injury woes create a significant edge for the Sounders.",
+          "awayRecord": "3-3-5",
+          "homeRecord": "6-2-1"
         },
         {
-          "game": "Philadelphia Union @ New England Revolution",
+          "game": "D.C. United @ Nashville SC",
           "betType": "moneyline",
-          "pick": "New England Revolution",
-          "odds": "+165",
+          "pick": "D.C. United",
+          "odds": "+430",
           "confidence": "medium",
-          "rationale": "The New England Revolution are in excellent home form, having won five consecutive MLS home matches at Gillette Stadium. Conversely, the Philadelphia Union are struggling significantly, with only one win, three draws, and seven defeats in their last eleven league games. While Philadelphia has historically dominated the head-to-head, their current poor form and New England's strong home advantage make the Revolution a compelling pick. The bookmakers are favoring New England, and their recent performances suggest they can continue their winning streak at home against a struggling Union side."
+          "rationale": "Nashville SC is facing significant situational disadvantages, coming off a demanding Concacaf Champions Cup semifinal match midweek, which they lost, likely leading to fatigue. Crucially, their leading scorer, Sam Surridge, who has 9 goals this season and leads the MLS Golden Boot race, missed their last match with a back injury and his availability for today is uncertain. D.C. United, despite being the underdog, is in strong recent form, riding a four-match unbeaten streak and securing back-to-back victories, with forward Louis Munteanu scoring three goals in his last two appearances. This combination of Nashville's potential fatigue, key injury, and D.C. United's offensive momentum makes the high underdog odds for D.C. United a high-confidence value pick.",
+          "awayRecord": "4-3-4",
+          "homeRecord": "7-2-1"
+        },
+        {
+          "game": "Vancouver Whitecaps @ San Jose Earthquakes",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-175",
+          "confidence": "medium",
+          "rationale": "This match features two of the top teams in the Western Conference, San Jose (9-1-1) and Vancouver (8-1-1), suggesting a cautious, high-stakes encounter. Their previous meeting this season resulted in a low-scoring 1-0 victory for San Jose, indicating a defensive battle. Given the importance of this top-of-the-table clash, both teams are expected to prioritize defensive solidity to avoid conceding. The oddsmakers also lean heavily towards the under, with Under 3.5 goals priced at -175.",
+          "awayRecord": "8-1-1",
+          "homeRecord": "9-1-1"
+        },
+        {
+          "game": "Real Salt Lake @ FC Dallas",
+          "betType": "moneyline",
+          "pick": "FC Dallas",
+          "odds": "+120",
+          "confidence": "medium",
+          "rationale": "FC Dallas boasts a dominant historical home record against Real Salt Lake, with 16 wins, 8 draws, and only 2 losses in 26 home meetings. Dallas also enters this match with recent momentum, having secured a convincing 2-0 road victory in their last outing against the New York Red Bulls. While Real Salt Lake has a strong overall record, FC Dallas's significant home head-to-head advantage and recent positive result, coupled with betting tips favoring Dallas on the Asian Handicap 0.0, provide a strong basis for this pick.",
+          "awayRecord": "6-1-3",
+          "homeRecord": "4-4-3"
+        }
+      ]
+    },
+    {
+      "sport": "UFC",
+      "picks": [
+        {
+          "game": "Joshua Van vs Tatsuro Taira",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "Joshua Van, the reigning Flyweight Champion, has demonstrated strong durability, with four of his last six victories coming by decision. Tatsuro Taira, despite his impressive record, suffered his only loss by decision, and many of his wins come via submission, which often involves extended grappling exchanges rather than quick finishes. In a championship fight, both fighters tend to be more cautious, and their styles suggest a high likelihood of the bout extending beyond 3.5 rounds. The plus-money odds on the over provide excellent value for this scenario."
+        },
+        {
+          "game": "Sean Brady vs Joaquin Buckley",
+          "betType": "moneyline",
+          "pick": "Sean Brady",
+          "odds": "-170",
+          "confidence": "high",
+          "rationale": "The moneyline for Sean Brady has seen significant movement, shifting from an opening of -100 to the current -170 against Joaquin Buckley. This notable shift indicates strong backing from sharp money, suggesting confidence in Brady to rebound from his previous loss at UFC 322. While Buckley is a dangerous opponent, the market's clear lean towards Brady often signals a perceived edge that aligns with analytical insights. This line movement provides a strong indicator for a high-confidence pick on Brady."
+        },
+        {
+          "game": "Jim Miller vs Jared Gordon",
+          "betType": "moneyline",
+          "pick": "Jim Miller",
+          "odds": "+235",
+          "confidence": "medium",
+          "rationale": "Jim Miller is a legendary UFC veteran, holding records for the most fights and career wins in the promotion, showcasing his incredible durability and experience. He is also returning to the cage after a significant personal triumph, with his son recently overcoming cancer, which could provide a powerful emotional boost for this fight. Although Jared Gordon is favored, the slight movement in the moneyline towards Miller from +250 to +235 suggests some market confidence in the veteran underdog. Miller's experience and potential emotional drive make him a high-value underdog pick."
         }
       ]
     }

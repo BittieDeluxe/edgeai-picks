@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-05-08",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "New York Knicks @ Philadelphia 76ers",
+            "betType": "moneyline",
+            "pick": "Philadelphia 76ers",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Knicks 108, Philadelphia 76ers 94"
+          },
+          {
+            "game": "San Antonio Spurs @ Minnesota Timberwolves",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -4.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 115, Minnesota Timberwolves 108"
+          },
+          {
+            "game": "San Antonio Spurs @ Minnesota Timberwolves",
+            "betType": "prop",
+            "pick": "Victor Wembanyama Under 25.5 Points",
+            "odds": "-111",
+            "confidence": "high",
+            "result": "L",
+            "score": "Victor Wembanyama: 39 Points (line 25.5)"
+          },
+          {
+            "game": "San Antonio Spurs @ Minnesota Timberwolves",
+            "betType": "prop",
+            "pick": "Anthony Edwards Under 32.5 Points + Rebounds + Assists",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Anthony Edwards: \"Points + Rebounds + Assists\" not auto-gradeable"
+          },
+          {
+            "game": "New York Knicks @ Philadelphia 76ers",
+            "betType": "total",
+            "pick": "Under 214.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Knicks 108, Philadelphia 76ers 94"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Montreal Canadiens vs Buffalo Sabres",
+            "betType": "moneyline",
+            "pick": "Buffalo Sabres",
+            "odds": "-132",
+            "confidence": "high",
+            "result": "L",
+            "score": "Montreal Canadiens 5, Buffalo Sabres 1"
+          },
+          {
+            "game": "Montreal Canadiens vs Buffalo Sabres",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-128",
+            "confidence": "high",
+            "result": "W",
+            "score": "Montreal Canadiens 5, Buffalo Sabres 1"
+          },
+          {
+            "game": "Montreal Canadiens vs Buffalo Sabres",
+            "betType": "prop",
+            "pick": "Alex Tuch Over 0.5 Goals",
+            "odds": "N/A",
+            "confidence": "high",
+            "result": "?",
+            "score": "Alex Tuch: not found in box score"
+          },
+          {
+            "game": "Vegas Golden Knights vs Anaheim Ducks",
+            "betType": "moneyline",
+            "pick": "Anaheim Ducks",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vegas Golden Knights 6, Anaheim Ducks 2"
+          },
+          {
+            "game": "Vegas Golden Knights vs Anaheim Ducks",
+            "betType": "prop",
+            "pick": "Leo Carlsson Over 3.5 Shots on Goal",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Leo Carlsson: not found in box score"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Inter Miami CF @ Toronto FC",
+            "betType": "moneyline",
+            "pick": "Inter Miami CF",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New York Red Bulls @ Chicago Fire",
+            "betType": "moneyline",
+            "pick": "Chicago Fire",
+            "odds": "-195",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "LA Galaxy @ Atlanta United FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-150",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "FC Cincinnati @ Charlotte FC",
+            "betType": "moneyline",
+            "pick": "Charlotte FC",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Philadelphia Union @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+165",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-07",
     "sports": [
       {
