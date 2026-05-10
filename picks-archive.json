@@ -1,5 +1,243 @@
 [
   {
+    "date": "2026-05-09",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Detroit Pistons vs Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Detroit Pistons +4.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 109, Cleveland Cavaliers 116"
+          },
+          {
+            "game": "Oklahoma City Thunder vs Los Angeles Lakers",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -8.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Oklahoma City Thunder 131, Los Angeles Lakers 108"
+          },
+          {
+            "game": "Detroit Pistons vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Under 212.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 109, Cleveland Cavaliers 116"
+          },
+          {
+            "game": "Oklahoma City Thunder vs Los Angeles Lakers",
+            "betType": "total",
+            "pick": "Over 211.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Oklahoma City Thunder 131, Los Angeles Lakers 108"
+          },
+          {
+            "game": "Detroit Pistons vs Cleveland Cavaliers",
+            "betType": "moneyline",
+            "pick": "Detroit Pistons (+152)",
+            "odds": "+152",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 109, Cleveland Cavaliers 116"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes vs Philadelphia Flyers",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+124",
+            "confidence": "high",
+            "result": "L",
+            "score": "Carolina Hurricanes 3, Philadelphia Flyers 2"
+          },
+          {
+            "game": "Carolina Hurricanes vs Philadelphia Flyers",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-144",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 3, Philadelphia Flyers 2"
+          },
+          {
+            "game": "Colorado Avalanche vs Minnesota Wild",
+            "betType": "spread",
+            "pick": "Colorado Avalanche -1.5",
+            "odds": "+190",
+            "confidence": "high",
+            "result": "L",
+            "score": "Colorado Avalanche 1, Minnesota Wild 5"
+          },
+          {
+            "game": "Colorado Avalanche vs Minnesota Wild",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Avalanche 1, Minnesota Wild 5"
+          },
+          {
+            "game": "Colorado Avalanche vs Minnesota Wild",
+            "betType": "moneyline",
+            "pick": "Colorado Avalanche",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Avalanche 1, Minnesota Wild 5"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Chicago Cubs @ Texas Rangers",
+            "betType": "spread",
+            "pick": "Chicago Cubs -1.5",
+            "odds": "+122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago Cubs 0, Texas Rangers 6"
+          },
+          {
+            "game": "Tampa Bay Rays @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "+126",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New York Yankees @ Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+125",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Yankees 3, Milwaukee Brewers 4"
+          },
+          {
+            "game": "Pittsburgh Pirates @ San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Pittsburgh Pirates 13, San Francisco Giants 3"
+          },
+          {
+            "game": "St. Louis Cardinals @ San Diego Padres",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "+122",
+            "confidence": "medium",
+            "result": "L",
+            "score": "St. Louis Cardinals 2, San Diego Padres 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Sporting Kansas City @ Portland Timbers",
+            "betType": "moneyline",
+            "pick": "Portland Timbers",
+            "odds": "-210",
+            "confidence": "high",
+            "result": "W",
+            "score": "Sporting Kansas City 0, Portland Timbers 6"
+          },
+          {
+            "game": "San Diego FC @ Seattle Sounders FC",
+            "betType": "moneyline",
+            "pick": "Seattle Sounders FC",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Diego FC 1, Seattle Sounders FC 1"
+          },
+          {
+            "game": "D.C. United @ Nashville SC",
+            "betType": "moneyline",
+            "pick": "D.C. United",
+            "odds": "+430",
+            "confidence": "medium",
+            "result": "L",
+            "score": "D.C. United 2, Nashville SC 2"
+          },
+          {
+            "game": "Vancouver Whitecaps @ San Jose Earthquakes",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-175",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Vancouver Whitecaps 1, San Jose Earthquakes 1"
+          },
+          {
+            "game": "Real Salt Lake @ FC Dallas",
+            "betType": "moneyline",
+            "pick": "FC Dallas",
+            "odds": "+120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Real Salt Lake 1, FC Dallas 3"
+          }
+        ]
+      },
+      {
+        "sport": "UFC",
+        "picks": [
+          {
+            "game": "Joshua Van vs Tatsuro Taira",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Sean Brady vs Joaquin Buckley",
+            "betType": "moneyline",
+            "pick": "Sean Brady",
+            "odds": "-170",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Jim Miller vs Jared Gordon",
+            "betType": "moneyline",
+            "pick": "Jim Miller",
+            "odds": "+235",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-08",
     "sports": [
       {
@@ -111,8 +349,8 @@
             "pick": "Inter Miami CF",
             "odds": "-115",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Inter Miami CF 4, Toronto FC 2"
           },
           {
             "game": "New York Red Bulls @ Chicago Fire",
@@ -129,8 +367,8 @@
             "pick": "Over 2.5",
             "odds": "-150",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "LA Galaxy 2, Atlanta United FC 1"
           },
           {
             "game": "FC Cincinnati @ Charlotte FC",
@@ -138,8 +376,8 @@
             "pick": "Charlotte FC",
             "odds": "+110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "FC Cincinnati 2, Charlotte FC 2"
           },
           {
             "game": "Philadelphia Union @ New England Revolution",
@@ -147,8 +385,8 @@
             "pick": "New England Revolution",
             "odds": "+165",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Philadelphia Union 1, New England Revolution 2"
           }
         ]
       }
