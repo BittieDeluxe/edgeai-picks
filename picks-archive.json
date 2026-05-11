@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-05-10",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "New York Knicks vs Philadelphia 76ers",
+            "betType": "spread",
+            "pick": "New York Knicks -1.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Knicks 144, Philadelphia 76ers 114"
+          },
+          {
+            "game": "New York Knicks vs Philadelphia 76ers",
+            "betType": "total",
+            "pick": "Under 214.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Knicks 144, Philadelphia 76ers 114"
+          },
+          {
+            "game": "San Antonio Spurs vs Minnesota Timberwolves",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -5.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 109, Minnesota Timberwolves 114"
+          },
+          {
+            "game": "San Antonio Spurs vs Minnesota Timberwolves",
+            "betType": "total",
+            "pick": "Over 218.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 109, Minnesota Timberwolves 114"
+          },
+          {
+            "game": "New York Knicks vs Philadelphia 76ers",
+            "betType": "moneyline",
+            "pick": "New York Knicks",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Knicks 144, Philadelphia 76ers 114"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Buffalo Sabres vs Montreal Canadiens",
+            "betType": "moneyline",
+            "pick": "Montreal Canadiens",
+            "odds": "-126",
+            "confidence": "high",
+            "result": "W",
+            "score": "Buffalo Sabres 2, Montreal Canadiens 6"
+          },
+          {
+            "game": "Buffalo Sabres vs Montreal Canadiens",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-134",
+            "confidence": "high",
+            "result": "W",
+            "score": "Buffalo Sabres 2, Montreal Canadiens 6"
+          },
+          {
+            "game": "Vegas Golden Knights vs Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Vegas Golden Knights 3, Anaheim Ducks 4"
+          },
+          {
+            "game": "Vegas Golden Knights vs Anaheim Ducks",
+            "betType": "spread",
+            "pick": "Anaheim Ducks +1.5",
+            "odds": "-250",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Vegas Golden Knights 3, Anaheim Ducks 4"
+          },
+          {
+            "game": "Vegas Golden Knights vs Anaheim Ducks",
+            "betType": "prop",
+            "pick": "Mitch Marner Over 0.5 Points",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Mitch Marner: not found in box score"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Washington Nationals @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Washington Nationals (+110)",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Washington Nationals 2, Miami Marlins 5"
+          },
+          {
+            "game": "Athletics @ Baltimore Orioles",
+            "betType": "moneyline",
+            "pick": "Athletics (-108)",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Athletics 1, Baltimore Orioles 2"
+          },
+          {
+            "game": "Colorado Rockies @ Philadelphia Phillies",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies -1.5 (-140)",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "?",
+            "score": "Colorado Rockies 0, Philadelphia Phillies 6"
+          },
+          {
+            "game": "New York Yankees @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (+104)",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Yankees 3, Milwaukee Brewers 4"
+          },
+          {
+            "game": "Seattle Mariners @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners (-134)",
+            "odds": "-134",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Seattle Mariners 1, Chicago White Sox 2"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Columbus Crew @ New York City FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "W",
+            "score": "Columbus Crew 0, New York City FC 3"
+          },
+          {
+            "game": "Austin FC @ Minnesota United FC",
+            "betType": "moneyline",
+            "pick": "Minnesota United FC",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "L",
+            "score": "Austin FC 2, Minnesota United FC 2"
+          },
+          {
+            "game": "Houston Dynamo FC @ LAFC",
+            "betType": "moneyline",
+            "pick": "LAFC",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Dynamo FC 4, LAFC 1"
+          },
+          {
+            "game": "Houston Dynamo FC @ LAFC",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Dynamo FC 4, LAFC 1"
+          },
+          {
+            "game": "Houston Dynamo FC @ LAFC",
+            "betType": "prop",
+            "pick": "Anytime Goalscorer",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-09",
     "sports": [
       {
@@ -120,8 +326,8 @@
             "pick": "Tampa Bay Rays",
             "odds": "+126",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Tampa Bay Rays 4, Boston Red Sox 1"
           },
           {
             "game": "New York Yankees @ Milwaukee Brewers",
