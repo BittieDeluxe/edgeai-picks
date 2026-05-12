@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-05-11",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Detroit Pistons @ Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers -3.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Pistons 103, Cleveland Cavaliers 112"
+          },
+          {
+            "game": "Oklahoma City Thunder @ Los Angeles Lakers",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -11.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Oklahoma City Thunder 115, Los Angeles Lakers 110"
+          },
+          {
+            "game": "Detroit Pistons @ Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Under 213.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 103, Cleveland Cavaliers 112"
+          },
+          {
+            "game": "Oklahoma City Thunder @ Los Angeles Lakers",
+            "betType": "total",
+            "pick": "Over 214.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Oklahoma City Thunder 115, Los Angeles Lakers 110"
+          },
+          {
+            "game": "Detroit Pistons @ Cleveland Cavaliers",
+            "betType": "moneyline",
+            "pick": "Detroit Pistons (+140)",
+            "odds": "+140",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 103, Cleveland Cavaliers 112"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Colorado Avalanche @ Minnesota Wild",
+            "betType": "moneyline",
+            "pick": "Colorado Avalanche",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Avalanche 5, Minnesota Wild 2"
+          },
+          {
+            "game": "Colorado Avalanche @ Minnesota Wild",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Avalanche 5, Minnesota Wild 2"
+          },
+          {
+            "game": "Colorado Avalanche @ Minnesota Wild",
+            "betType": "spread",
+            "pick": "Minnesota Wild +1.5",
+            "odds": "-225",
+            "confidence": "high",
+            "result": "L",
+            "score": "Colorado Avalanche 5, Minnesota Wild 2"
+          },
+          {
+            "game": "Colorado Avalanche @ Minnesota Wild",
+            "betType": "prop",
+            "pick": "Anytime Goal Scorer",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Colorado Avalanche @ Minnesota Wild",
+            "betType": "prop",
+            "pick": "Anytime Goal Scorer",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-10",
     "sports": [
       {
