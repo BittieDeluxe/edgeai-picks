@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-05-12",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Minnesota Timberwolves @ San Antonio Spurs",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -10.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Timberwolves 97, San Antonio Spurs 126"
+          },
+          {
+            "game": "Minnesota Timberwolves @ San Antonio Spurs",
+            "betType": "total",
+            "pick": "Over 218.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Timberwolves 97, San Antonio Spurs 126"
+          },
+          {
+            "game": "Minnesota Timberwolves @ San Antonio Spurs",
+            "betType": "prop",
+            "pick": "Victor Wembanyama Over 39.5 Points & Rebounds",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "?",
+            "score": "Victor Wembanyama: \"Points & Rebounds\" not auto-gradeable"
+          },
+          {
+            "game": "Minnesota Timberwolves @ San Antonio Spurs",
+            "betType": "prop",
+            "pick": "Anthony Edwards Over 5.5 Rebounds",
+            "odds": "-144",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Anthony Edwards: 2 Rebounds (line 5.5)"
+          },
+          {
+            "game": "Minnesota Timberwolves @ San Antonio Spurs",
+            "betType": "prop",
+            "pick": "Julian Champagnie Over 1.5 Three-Pointers Made",
+            "odds": "-150",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Julian Champagnie: \"Three-Pointers Made\" not auto-gradeable"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Buffalo Sabres vs Montreal Canadiens",
+            "betType": "moneyline",
+            "pick": "Montreal Canadiens",
+            "odds": "-144",
+            "confidence": "high",
+            "result": "L",
+            "score": "Buffalo Sabres 3, Montreal Canadiens 2"
+          },
+          {
+            "game": "Buffalo Sabres vs Montreal Canadiens",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Buffalo Sabres 3, Montreal Canadiens 2"
+          },
+          {
+            "game": "Anaheim Ducks vs Vegas Golden Knights",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "W",
+            "score": "Anaheim Ducks 2, Vegas Golden Knights 3"
+          },
+          {
+            "game": "Anaheim Ducks vs Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Anaheim Ducks +1.5",
+            "odds": "-172",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Anaheim Ducks 2, Vegas Golden Knights 3"
+          },
+          {
+            "game": "Anaheim Ducks vs Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-128",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Anaheim Ducks 2, Vegas Golden Knights 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Francisco Giants @ Los Angeles Dodgers",
+            "betType": "moneyline",
+            "pick": "Los Angeles Dodgers (-310)",
+            "odds": "-310",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Francisco Giants 6, Los Angeles Dodgers 2"
+          },
+          {
+            "game": "Colorado Rockies @ Pittsburgh Pirates",
+            "betType": "spread",
+            "pick": "Pittsburgh Pirates -1.5 (-144)",
+            "odds": "-144",
+            "confidence": "high",
+            "result": "?",
+            "score": "Colorado Rockies 1, Pittsburgh Pirates 3"
+          },
+          {
+            "game": "Kansas City Royals @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox (+106)",
+            "odds": "+106",
+            "confidence": "high",
+            "result": "W",
+            "score": "Kansas City Royals 5, Chicago White Sox 6"
+          },
+          {
+            "game": "San Diego Padres @ Milwaukee Brewers",
+            "betType": "total",
+            "pick": "Over 8.5 (-120)",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego Padres 4, Milwaukee Brewers 6"
+          },
+          {
+            "game": "New York Yankees @ Baltimore Orioles",
+            "betType": "prop",
+            "pick": "Will Warren OVER 5.5 Strikeouts",
+            "odds": "-152",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Will Warren: 6 Strikeouts (line 5.5)"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Portland Timbers @ CF Montreal",
+            "betType": "moneyline",
+            "pick": "CF Montreal",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Nashville SC @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+180",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Chicago Fire @ D.C. United",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Inter Miami CF @ FC Cincinnati",
+            "betType": "moneyline",
+            "pick": "Inter Miami CF",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Nashville SC @ New England Revolution",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-11",
     "sports": [
       {
