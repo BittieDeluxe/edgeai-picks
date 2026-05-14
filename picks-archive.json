@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-05-13",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Cleveland Cavaliers vs Detroit Pistons",
+            "betType": "spread",
+            "pick": "Detroit Pistons -4.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Cavaliers 117, Detroit Pistons 113"
+          },
+          {
+            "game": "Cleveland Cavaliers vs Detroit Pistons",
+            "betType": "total",
+            "pick": "Under 211.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Cavaliers 117, Detroit Pistons 113"
+          },
+          {
+            "game": "Cleveland Cavaliers vs Detroit Pistons",
+            "betType": "prop",
+            "pick": "Donovan Mitchell Over 27.5 Points",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "L",
+            "score": "Donovan Mitchell: 21 Points (line 27.5)"
+          },
+          {
+            "game": "Cleveland Cavaliers vs Detroit Pistons",
+            "betType": "moneyline",
+            "pick": "Cleveland Cavaliers (+150)",
+            "odds": "+150",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 117, Detroit Pistons 113"
+          },
+          {
+            "game": "Cleveland Cavaliers vs Detroit Pistons",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers +4.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 117, Detroit Pistons 113"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "spread",
+            "pick": "Colorado Avalanche -1.5",
+            "odds": "+116",
+            "confidence": "high",
+            "result": "L",
+            "score": "Minnesota Wild 3, Colorado Avalanche 4"
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Wild 3, Colorado Avalanche 4"
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "prop",
+            "pick": "Martin Necas Over 0.5 Assists",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "?",
+            "score": "Martin Necas: not found in box score"
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "prop",
+            "pick": "Nathan MacKinnon Anytime Goal Scorer",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Minnesota Wild vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Over 1.5 Goals in 1st Period",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Wild 3, Colorado Avalanche 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Angels @ Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "Cleveland Guardians",
+            "odds": "-156",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Angels 2, Cleveland Guardians 4"
+          },
+          {
+            "game": "Washington Nationals @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Washington Nationals",
+            "odds": "+134",
+            "confidence": "high",
+            "result": "W",
+            "score": "Washington Nationals 8, Cincinnati Reds 7"
+          },
+          {
+            "game": "Tampa Bay Rays @ Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Rays 3, Toronto Blue Jays 5"
+          },
+          {
+            "game": "Detroit Tigers @ New York Mets",
+            "betType": "moneyline",
+            "pick": "New York Mets",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Tigers 2, New York Mets 3"
+          },
+          {
+            "game": "Miami Marlins @ Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "-124",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 9, Minnesota Twins 5"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Nashville SC @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+180",
+            "confidence": "high",
+            "result": "L",
+            "score": "Nashville SC 3, New England Revolution 0"
+          },
+          {
+            "game": "Colorado Rapids @ Minnesota United FC",
+            "betType": "moneyline",
+            "pick": "Minnesota United FC",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "L",
+            "score": "Colorado Rapids 1, Minnesota United FC 0"
+          },
+          {
+            "game": "LA Galaxy @ Sporting Kansas City",
+            "betType": "moneyline",
+            "pick": "LA Galaxy",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "LA Galaxy 1, Sporting Kansas City 3"
+          },
+          {
+            "game": "Houston Dynamo FC @ Real Salt Lake",
+            "betType": "moneyline",
+            "pick": "Real Salt Lake",
+            "odds": "-155",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Dynamo FC 0, Real Salt Lake 3"
+          },
+          {
+            "game": "Inter Miami CF @ FC Cincinnati",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Inter Miami CF 5, FC Cincinnati 3"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-12",
     "sports": [
       {
@@ -170,8 +376,8 @@
             "pick": "New England Revolution",
             "odds": "+180",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Nashville SC 3, New England Revolution 0"
           },
           {
             "game": "Chicago Fire @ D.C. United",
@@ -188,8 +394,8 @@
             "pick": "Inter Miami CF",
             "odds": "+105",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Inter Miami CF 5, FC Cincinnati 3"
           },
           {
             "game": "Nashville SC @ New England Revolution",
@@ -197,8 +403,8 @@
             "pick": "Over 2.5",
             "odds": "-130",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Nashville SC 3, New England Revolution 0"
           }
         ]
       }
