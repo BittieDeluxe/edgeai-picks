@@ -1,157 +1,128 @@
 {
-  "date": "2026-05-14",
-  "generatedAt": "2026-05-14T16:55:27.957Z",
+  "date": "2026-05-15",
+  "generatedAt": "2026-05-15T16:46:02.010Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Detroit Pistons @ Cleveland Cavaliers",
+          "game": "Detroit Pistons vs Cleveland Cavaliers",
           "betType": "spread",
-          "pick": "Cleveland Cavaliers -3.5",
-          "odds": "-114",
+          "pick": "Cleveland Cavaliers -4.5",
+          "odds": "-104",
           "confidence": "medium",
-          "rationale": "The Cleveland Cavaliers hold strong momentum, having won three consecutive games in the series, including a crucial road victory in Game 5 to take a 3-2 lead. They return home to Cleveland for Game 6, where they previously secured comfortable wins in Games 3 and 4. The Pistons will be without key perimeter shooter Duncan Robinson due to lower back soreness, which significantly impacts their offensive capabilities. With a healthy roster and the opportunity to close out the series at home, Cleveland is well-positioned to cover the -3.5 spread."
+          "rationale": "The Cleveland Cavaliers are in a strong position, holding a 3-2 series lead and playing at home, where they boast an impressive +8.4 net rating this postseason. The Detroit Pistons are severely hampered by injuries, with key offensive players Duncan Robinson, Caris LeVert, and Kevin Huerter all questionable, significantly impacting their scoring ability. Cleveland has won their last three games against Detroit and the line movement towards the Cavaliers suggests sharp money is backing them to close out the series.",
+          "awayRecord": "60-22",
+          "homeRecord": "52-30",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
         },
         {
-          "game": "Detroit Pistons @ Cleveland Cavaliers",
-          "betType": "total",
-          "pick": "Over 209.5",
+          "game": "Detroit Pistons vs Cleveland Cavaliers",
+          "betType": "prop",
+          "pick": "Donovan Mitchell Over 26.5 Points",
+          "odds": "-114",
+          "confidence": "high",
+          "rationale": "Donovan Mitchell is active and has been the Cavaliers' leading scorer, averaging 27.9 points per game in the regular season and demonstrating his scoring prowess with 43 points in Game 4. With the Pistons facing elimination and potentially missing key defenders due to injuries, Mitchell is expected to be aggressive in a pivotal home game. His ability to take over offensively makes him a strong candidate to exceed this point total.",
+          "awayRecord": "60-22",
+          "homeRecord": "52-30",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Minnesota Timberwolves",
+          "betType": "spread",
+          "pick": "San Antonio Spurs -5.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "The San Antonio Spurs lead the series 3-2 and are coming off a dominant 126-97 victory in Game 5, showcasing their ability to control the game. San Antonio has an excellent record against the spread, covering in 8 of their last 10 road games and 15 of their last 20 overall. The line has moved slightly in favor of the Spurs, and predictive models indicate a high probability (72%) of a Spurs win, with a 53% chance of covering the spread.",
+          "awayRecord": "62-20",
+          "homeRecord": "49-33",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Minnesota Timberwolves",
+          "betType": "prop",
+          "pick": "Victor Wembanyama Over 26.5 Points",
           "odds": "-106",
           "confidence": "medium",
-          "rationale": "Four of the five playoff games in this series have exceeded the 209.5 total, with recent scores including 230 points (in overtime), 215, 225, and 212 points. The average total points scored across these last five playoff matchups is 217.2. Cleveland's offense has demonstrated strong performance, particularly when playing at home. Despite a slight downward movement in the betting line, the consistent high-scoring nature of the series suggests the Over 209.5 is a high-confidence pick."
-        },
-        {
-          "game": "Detroit Pistons @ Cleveland Cavaliers",
-          "betType": "moneyline",
-          "pick": "Cleveland Cavaliers (-172)",
-          "odds": "-172",
-          "confidence": "high",
-          "rationale": "The Cleveland Cavaliers are in a commanding position, leading the series 3-2 and playing on their home court with a chance to advance to the next round. They have won their last three games in the series, including a pivotal road victory in Game 5 against Detroit. The Pistons are facing elimination and are without Duncan Robinson, a significant offensive contributor. Given Cleveland's momentum, home-court advantage, and a healthy roster, an outright win is highly probable."
-        }
-      ]
-    },
-    {
-      "sport": "NHL",
-      "picks": [
-        {
-          "game": "Montreal Canadiens @ Buffalo Sabres",
-          "betType": "moneyline",
-          "pick": "Buffalo Sabres",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "The Buffalo Sabres return home with the series tied 2-2 after securing a crucial 3-2 road victory in Game 4, providing them with significant momentum and home-ice advantage for this pivotal Game 5. Goaltender Ukko-Pekka Luukkonen is expected to start again for Buffalo following his strong 29-save performance in Game 4, offering stability in net. While Montreal's Alex Newhook has been hot, Buffalo's Josh Doan is on an impressive five-game assist streak and leads the team in series points, indicating consistent offensive contributions. The Sabres will be highly motivated to capitalize on their home crowd and take a series lead against a Canadiens team that has displayed some inconsistency throughout the playoffs.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "50-23-9",
+          "rationale": "Victor Wembanyama is active and has been a dominant force for the Spurs, particularly in Game 5 where he recorded 27 points. He is averaging 20.4 points per game and has consistently shown the ability to impact the game offensively. With the Spurs looking to close out the series, Wembanyama will be a focal point of their attack, and the Timberwolves have struggled to contain his presence in the paint.",
+          "awayRecord": "62-20",
+          "homeRecord": "49-33",
           "awayLast5": [
-            "W",
             "L",
             "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Vegas Golden Knights @ Anaheim Ducks",
-          "betType": "moneyline",
-          "pick": "Vegas Golden Knights",
-          "odds": "-114",
-          "confidence": "high",
-          "rationale": "The Vegas Golden Knights hold a 3-2 series lead and are poised to close out the series on the road to advance to the Western Conference Final. Despite the significant absences of key defenseman Brayden McNabb (suspended) and captain Mark Stone (injured), Vegas demonstrated their depth and composure by winning Game 5 in overtime. The Golden Knights boast a strong overall head-to-head record against the Ducks (28-10-1) and possess invaluable playoff experience. Anaheim, facing elimination at home and missing Ryan Poehling due to injury, will be desperate, but Vegas's veteran presence and ability to find timely goals should ultimately prevail.",
-          "awayRecord": "39-26-17",
-          "homeRecord": "43-33-6",
-          "awayLast5": [
-            "W",
-            "L",
             "W",
             "L",
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
+            "L",
             "L",
             "W",
             "L"
           ]
         },
         {
-          "game": "Montreal Canadiens @ Buffalo Sabres",
+          "game": "San Antonio Spurs vs Minnesota Timberwolves",
           "betType": "total",
-          "pick": "Under 5.5",
-          "odds": "+110",
+          "pick": "Over 218.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "With the series tied 2-2 and Game 5 representing a critical swing game, both teams are expected to prioritize defensive play, leading to a tighter, lower-scoring contest. Buffalo's goaltender Ukko-Pekka Luukkonen has been performing well, and the Sabres will aim to leverage their home-ice advantage with a structured defensive game. Two of the last four playoff games between these teams have seen five or fewer goals, including Buffalo's 3-2 victory in Game 4. The heightened playoff intensity and the importance of this game often result in fewer wide-open chances and a greater emphasis on defensive responsibility, making the Under 5.5 a strong play.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "50-23-9",
+          "rationale": "Despite the Spurs' strong defense, recent head-to-head matchups between these two teams have trended towards higher scoring, with the Over hitting in 4 of the Timberwolves' last 5 games. Game 5 of this series saw a total of 223 points, and Game 1 reached 228 points. With Minnesota facing elimination at home, they are likely to push the pace and increase offensive aggression, contributing to a game that exceeds the projected total.",
+          "awayRecord": "62-20",
+          "homeRecord": "49-33",
           "awayLast5": [
-            "W",
             "L",
             "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Vegas Golden Knights @ Anaheim Ducks",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "+106",
-          "confidence": "medium",
-          "rationale": "This series has featured several high-scoring affairs, including a 6-2 game and a 3-4 contest, indicating significant offensive potential from both sides. The Vegas Golden Knights will be without key defenseman Brayden McNabb due to suspension, which could compromise their defensive structure and create more scoring opportunities for Anaheim. Both teams have demonstrated a propensity for offense in their recent form, with Vegas averaging 3.5 goals for and Anaheim averaging 3.5 goals for in their last 10 games. With Anaheim facing elimination at home, they are likely to push aggressively on offense, contributing to a higher-scoring game that should hit the Over 6.5.",
-          "awayRecord": "39-26-17",
-          "homeRecord": "43-33-6",
-          "awayLast5": [
-            "W",
-            "L",
             "W",
             "L",
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
+            "L",
             "L",
             "W",
             "L"
-          ]
-        },
-        {
-          "game": "Montreal Canadiens @ Buffalo Sabres",
-          "betType": "spread",
-          "pick": "Buffalo Sabres -1.5",
-          "odds": "+198",
-          "confidence": "medium",
-          "rationale": "The Buffalo Sabres are playing at home in a pivotal Game 5, carrying momentum from their 3-2 road victory in Game 4 that tied the series. With home-ice advantage and a strong goaltending performance expected from Ukko-Pekka Luukkonen, Buffalo is well-positioned to dictate the pace and control the game. Montreal has previously suffered a significant four-goal loss (6-2) in this series, demonstrating their vulnerability to multi-goal defeats. The Sabres will be highly motivated to take a commanding lead in the series, and a strong offensive effort, potentially led by players like Josh Doan, could result in a decisive multi-goal victory.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "50-23-9",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
           ]
         }
       ]
@@ -160,44 +131,20 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Detroit Tigers @ New York Mets",
-          "betType": "spread",
-          "pick": "New York Mets -1.5",
-          "odds": "+134",
-          "confidence": "high",
-          "rationale": "The New York Mets have demonstrated clear superiority in this series, securing victories of 10-2 and 3-2 in the preceding two games against the Tigers. New York's starting pitcher, Nolan McLean, is a formidable young talent, boasting an average of 11.3 strikeouts per nine innings, a 0.904 WHIP, and an impressive 2.34 xERA. The Tigers' offense has been particularly anemic against right-handed pitching in May, ranking 26th or worse in key offensive metrics like OPS, wOBA, ISO, and wRC+, coupled with a near 25% strikeout rate. While Juan Soto had an ankle scare, x-rays were negative, and the Mets' offensive production has already outpaced Detroit 13-4 in the series, indicating their ability to cover the spread.",
-          "awayRecord": "19-24",
-          "homeRecord": "17-25",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "San Diego Padres @ Milwaukee Brewers",
+          "game": "Boston Red Sox @ Atlanta Braves",
           "betType": "moneyline",
-          "pick": "Milwaukee Brewers",
-          "odds": "-134",
+          "pick": "Atlanta Braves",
+          "odds": "-154",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers hold a strong home advantage with a 14-9 record at American Family Field. Despite the Padres breaking their five-game winning streak yesterday, Milwaukee is expected to bounce back, especially with San Diego's struggles against left-handed pitching. The Padres have 'simply done nothing against left-handed pitching this year', which plays directly into the hands of Brewers' starter Kyle Harrison, identified as a top pitcher for today's slate. The Brewers' strong home form and the Padres' specific offensive weakness against lefties provide a significant edge for Milwaukee to secure a win.",
-          "awayRecord": "25-17",
-          "homeRecord": "23-17",
+          "rationale": "The Atlanta Braves are performing exceptionally well, holding the best record in baseball at 30-14 and winning four of their last five games, with their pitching staff allowing only nine runs in that span. Braves ace Spencer Strider (1-0, 2.89 ERA) is coming off a dominant outing, throwing six scoreless innings in his last start. In contrast, the Boston Red Sox are struggling offensively, averaging just 1.5 runs per game in their last four contests, and are without key outfielder Roman Anthony due to a wrist sprain. The Braves also have a favorable 6-4 head-to-head record against the Red Sox in their last 10 matchups, further solidifying this pick.",
+          "awayRecord": "18-25",
+          "homeRecord": "30-14",
           "awayLast5": [
-            "L",
-            "W",
             "W",
             "L",
-            "W"
+            "L",
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
@@ -208,14 +155,38 @@
           ]
         },
         {
-          "game": "Chicago Cubs @ Atlanta Braves",
+          "game": "Los Angeles Dodgers @ Los Angeles Angels",
           "betType": "spread",
-          "pick": "Atlanta Braves -1.5",
-          "odds": "+122",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "-140",
           "confidence": "high",
-          "rationale": "The Atlanta Braves are in excellent form, with a 4-1 SU record in their last five games and an 8-1 SU record against National League opponents. They have already defeated the Cubs twice in this series, with scores of 4-1 and 5-2, consistently winning by at least two runs. The Cubs' offense has severely struggled against left-handed pitching, managing only a .145 batting average and 1.2 runs per game over their last ten outings. Braves' starter Chris Sale, a left-hander, is anticipated to deliver a stellar performance against this struggling Cubs lineup, further cementing Atlanta's advantage.",
-          "awayRecord": "27-16",
-          "homeRecord": "30-13",
+          "rationale": "The Los Angeles Dodgers enter this Freeway Series having won two straight games, while the Los Angeles Angels hold the worst record in MLB at 16-28 and have lost five of their last six. Although Blake Snell (0-1, 12.01 ERA) had a rough 2026 debut, his underlying metrics, including a 119 Stuff+ rating, indicate elite potential, and he is expected to overpower the struggling Angels lineup, which has a meager 78 wRC+ in May. The Angels are also significantly hampered by injuries to key players like catcher Logan O'Hoppe and infielder Anthony Rendon. This combination of strong Dodgers pitching, a struggling Angels offense, and key injuries for the Angels creates a clear edge for the Dodgers to cover the spread.",
+          "awayRecord": "26-18",
+          "homeRecord": "16-28",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Kansas City Royals @ St. Louis Cardinals",
+          "betType": "moneyline",
+          "pick": "Kansas City Royals",
+          "odds": "-106",
+          "confidence": "high",
+          "rationale": "This pick is strongly supported by a significant pitching mismatch in favor of the Kansas City Royals. Royals starter Michael Wacha boasts an impressive 4-2 record with a 2.65 ERA and a 0.99 WHIP over 51.1 innings, demonstrating excellent control and damage suppression. Conversely, St. Louis Cardinals starter Dustin May has struggled with a 3-4 record, a 4.97 ERA, and a concerning 1.43 WHIP, having allowed 50 hits in just 42.2 innings. Furthermore, the Cardinals are dealing with notable injuries to key position players Ramon Urias and Lars Nootbaar, which will impact their offensive depth. The Royals' pitching advantage and the Cardinals' injuries make the Royals a confident moneyline play.",
+          "awayRecord": "19-25",
+          "homeRecord": "25-18",
           "awayLast5": [
             "W",
             "L",
@@ -225,59 +196,104 @@
           ],
           "homeLast5": [
             "L",
+            "L",
             "W",
-            "W",
-            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Miami Marlins @ Minnesota Twins",
+          "game": "Arizona Diamondbacks @ Colorado Rockies",
+          "betType": "moneyline",
+          "pick": "Arizona Diamondbacks",
+          "odds": "-120",
+          "confidence": "medium",
+          "rationale": "The Arizona Diamondbacks hold a significant pitching advantage with Merrill Kelly (2-3, 7.53 ERA) on the mound, despite his elevated ERA this season. Kelly is coming off his strongest start, allowing just one run on three hits over seven innings, and has an outstanding career record against the Rockies, going 9-3 with a 3.25 ERA in 17 starts. In contrast, Colorado Rockies starter Kyle Freeland (1-4, 6.01 ERA) has historically struggled against the Diamondbacks, holding a 4-9 record with a 5.94 ERA in 22 career starts. Despite the game being at Coors Field, Kelly's dominant history against Colorado and recent strong performance provide a clear edge for the Diamondbacks.",
+          "awayRecord": "20-22",
+          "homeRecord": "17-27",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Miami Marlins @ Tampa Bay Rays",
+          "betType": "moneyline",
+          "pick": "Tampa Bay Rays",
+          "odds": "-118",
+          "confidence": "medium",
+          "rationale": "The Tampa Bay Rays are in excellent form, boasting a 28-14 overall record and an impressive 14-4 record at home this season. They have won 8 of their last 10 games, demonstrating strong recent performance with a collective 2.37 ERA. Rays starter Jesse Scholtens (3-2, 3.34 ERA) will take the mound, backed by a pitching staff that ranks 5th best in MLB with a 3.49 ERA and 2nd best against division opponents with a 2.72 ERA. The Miami Marlins, with Janson Junk (2-3, 3.25 ERA) starting, have a losing road record of 6-12, making the Rays a strong play at home.",
+          "awayRecord": "20-24",
+          "homeRecord": "28-14",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Minnesota United FC @ New England Revolution",
+          "betType": "moneyline",
+          "pick": "New England Revolution",
+          "odds": "+110",
+          "confidence": "high",
+          "rationale": "New England Revolution are in very good form overall with 7 wins, 1 draw, and 3 losses, and boast an excellent home record of 6 wins, 0 draws, and 0 losses. Their recent form shows a strong W-W-D-W-W streak, indicating consistent performance. While Minnesota United FC has a good overall record, their away form is considered very good, but they face a dominant home team in New England. This strong home advantage and superior recent form make the Revolution a high-confidence pick."
+        },
+        {
+          "game": "Columbus Crew SC @ Philadelphia Union",
           "betType": "total",
-          "pick": "Under 8.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The historical head-to-head matchups between the Marlins and Twins strongly suggest a lower-scoring affair, with the total runs going under in four of their last five contests. This trend is reinforced by the Marlins' recent road performance, where the total runs have gone under 9.5 in six of their last seven away games. Miami's starting pitcher, Braxton Garrett, has been pitching 'REALLY well at the minor league level this year', indicating his potential to suppress the Twins' offense. Both teams currently hold sub-.500 records, suggesting a lack of consistent offensive firepower, which supports an under bet.",
-          "awayRecord": "20-23",
-          "homeRecord": "19-24",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
+          "pick": "Over 2.5",
+          "odds": "-135",
+          "confidence": "high",
+          "rationale": "Both Philadelphia Union and Columbus Crew SC have shown significant defensive vulnerabilities this season, with the Union conceding 23 goals in 13 games and the Crew shipping 22 goals. This defensive frailty has led to high-scoring matches, as three of Philadelphia's last five and four of Columbus's last five games have gone over 2.5 goals. Furthermore, historical head-to-head data indicates that 56% of their previous encounters have seen over 2.5 goals, with prediction stats for this match also favoring the over at 70%."
         },
         {
-          "game": "St. Louis Cardinals @ Athletics",
+          "game": "New York City FC @ New York Red Bulls",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-190",
+          "confidence": "high",
+          "rationale": "The Hudson River Derby historically produces goals, with the head-to-head average between New York Red Bulls and New York City FC standing at 2.79 goals per match. The most recent encounter on April 29, 2026, saw a 1-3 scoreline, easily clearing the 2.5 goal mark. The New York Red Bulls have a strong tendency for high-scoring home games, with Over 1.5 goals in 90% and Over 2.5 goals in 80% of their home matches this season. New York City FC also contributes to this trend with an overall average of 2.99 goals per game."
+        },
+        {
+          "game": "Chicago Fire @ CF Montreal",
           "betType": "moneyline",
-          "pick": "St. Louis Cardinals",
-          "odds": "+102",
+          "pick": "Chicago Fire",
+          "odds": "+138",
           "confidence": "medium",
-          "rationale": "The St. Louis Cardinals possess stronger recent momentum and a more cohesive offensive structure, demonstrating their ability to perform well in high-pressure situations. Despite a recent loss, the Cardinals secured a 6-4 victory in the series opener, showcasing their offensive capabilities. The Athletics are facing bullpen concerns, which the Cardinals are well-positioned to exploit, especially if they can get to starter Michael McGreevy early in the game. St. Louis also holds a favorable 4-2 head-to-head record against the Athletics over the last three seasons, and Jordan Walker's power provides a significant offensive threat.",
-          "awayRecord": "24-18",
-          "homeRecord": "22-20",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
+          "rationale": "Chicago Fire currently holds a stronger position in the MLS table at 4th, compared to CF Montreal at 11th. Head-to-head history also favors Chicago, with 3 wins in the last 6 matches against Montreal's single victory. Crucially, CF Montreal is significantly impacted by injuries, with Fabian Herbers, Owen Graham-Roache, Gennadiy Synchuk, and Bode Hidalgo all unavailable. This combination of better form, H2H advantage, and Montreal's extensive injury list provides a clear edge for Chicago Fire."
+        },
+        {
+          "game": "Atlanta United FC @ Orlando City SC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+120",
+          "confidence": "medium",
+          "rationale": "Atlanta United FC consistently features in high-scoring games due to their very poor defensive record, having conceded 20 goals in 12 matches. Their matches average 3.23 goals per game, and both teams have scored in 71% of their games. This propensity for goals, even in losses, makes the Over 3.5 an attractive option, especially at plus odds. While specific Orlando City form is not detailed, Atlanta's offensive capabilities and defensive struggles strongly point towards a high-total game."
         }
       ]
     }

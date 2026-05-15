@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-05-14",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Detroit Pistons @ Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers -3.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Detroit Pistons @ Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Over 209.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Detroit Pistons @ Cleveland Cavaliers",
+            "betType": "moneyline",
+            "pick": "Cleveland Cavaliers (-172)",
+            "odds": "-172",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Montreal Canadiens @ Buffalo Sabres",
+            "betType": "moneyline",
+            "pick": "Buffalo Sabres",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Montreal Canadiens 6, Buffalo Sabres 3"
+          },
+          {
+            "game": "Vegas Golden Knights @ Anaheim Ducks",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "W",
+            "score": "Vegas Golden Knights 5, Anaheim Ducks 1"
+          },
+          {
+            "game": "Montreal Canadiens @ Buffalo Sabres",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Montreal Canadiens 6, Buffalo Sabres 3"
+          },
+          {
+            "game": "Vegas Golden Knights @ Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vegas Golden Knights 5, Anaheim Ducks 1"
+          },
+          {
+            "game": "Montreal Canadiens @ Buffalo Sabres",
+            "betType": "spread",
+            "pick": "Buffalo Sabres -1.5",
+            "odds": "+198",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Montreal Canadiens 6, Buffalo Sabres 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Detroit Tigers @ New York Mets",
+            "betType": "spread",
+            "pick": "New York Mets -1.5",
+            "odds": "+134",
+            "confidence": "high",
+            "result": "W",
+            "score": "Detroit Tigers 4, New York Mets 9"
+          },
+          {
+            "game": "San Diego Padres @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-134",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego Padres 1, Milwaukee Brewers 7"
+          },
+          {
+            "game": "Chicago Cubs @ Atlanta Braves",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5",
+            "odds": "+122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago Cubs 2, Atlanta Braves 0"
+          },
+          {
+            "game": "Miami Marlins @ Minnesota Twins",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Miami Marlins 1, Minnesota Twins 9"
+          },
+          {
+            "game": "St. Louis Cardinals @ Athletics",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "St. Louis Cardinals 5, Athletics 4"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-13",
     "sports": [
       {
