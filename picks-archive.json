@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-05-15",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Detroit Pistons vs Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers -4.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 115, Cleveland Cavaliers 94"
+          },
+          {
+            "game": "Detroit Pistons vs Cleveland Cavaliers",
+            "betType": "prop",
+            "pick": "Donovan Mitchell Over 26.5 Points",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "L",
+            "score": "Donovan Mitchell: 18 Points (line 26.5)"
+          },
+          {
+            "game": "San Antonio Spurs vs Minnesota Timberwolves",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -5.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 139, Minnesota Timberwolves 109"
+          },
+          {
+            "game": "San Antonio Spurs vs Minnesota Timberwolves",
+            "betType": "prop",
+            "pick": "Victor Wembanyama Over 26.5 Points",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Victor Wembanyama: 19 Points (line 26.5)"
+          },
+          {
+            "game": "San Antonio Spurs vs Minnesota Timberwolves",
+            "betType": "total",
+            "pick": "Over 218.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 139, Minnesota Timberwolves 109"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Boston Red Sox @ Atlanta Braves",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves",
+            "odds": "-154",
+            "confidence": "high",
+            "result": "W",
+            "score": "Boston Red Sox 2, Atlanta Braves 3"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Los Angeles Angels",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Dodgers 6, Los Angeles Angels 0"
+          },
+          {
+            "game": "Kansas City Royals @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "Kansas City Royals",
+            "odds": "-106",
+            "confidence": "high",
+            "result": "L",
+            "score": "Kansas City Royals 4, St. Louis Cardinals 5"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Colorado Rockies",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arizona Diamondbacks 9, Colorado Rockies 1"
+          },
+          {
+            "game": "Miami Marlins @ Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 2, Tampa Bay Rays 7"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Minnesota United FC @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Columbus Crew SC @ Philadelphia Union",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New York City FC @ New York Red Bulls",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-190",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Chicago Fire @ CF Montreal",
+            "betType": "moneyline",
+            "pick": "Chicago Fire",
+            "odds": "+138",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Atlanta United FC @ Orlando City SC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+120",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-14",
     "sports": [
       {
@@ -11,8 +167,8 @@
             "pick": "Cleveland Cavaliers -3.5",
             "odds": "-114",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Detroit Pistons 115, Cleveland Cavaliers 94"
           },
           {
             "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -20,8 +176,8 @@
             "pick": "Over 209.5",
             "odds": "-106",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Detroit Pistons 115, Cleveland Cavaliers 94"
           },
           {
             "game": "Detroit Pistons @ Cleveland Cavaliers",
@@ -29,8 +185,8 @@
             "pick": "Cleveland Cavaliers (-172)",
             "odds": "-172",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Detroit Pistons 115, Cleveland Cavaliers 94"
           }
         ]
       },
@@ -5563,11 +5719,6 @@
         ]
       }
     ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-04-14",
-    "sports": [],
     "playerProps": []
   }
 ]
