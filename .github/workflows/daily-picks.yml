@@ -2,8 +2,8 @@ name: Generate Daily Picks
 
 on:
   schedule:
-    # 10 AM CDT (UTC-5) = 15:00 UTC. During CST (winter) this is 9 AM CT.
-    - cron: '0 15 * * *'
+    # 4 PM ET (EDT=UTC-4) = 20:00 UTC. Lines are fully posted by mid-afternoon.
+    - cron: '0 20 * * *'
   workflow_dispatch: # Allow manual runs from the Actions tab
 
 jobs:
