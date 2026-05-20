@@ -1,6 +1,417 @@
 {
-  "date": "2026-05-19",
-  "generatedAt": "2026-05-19T21:25:14.631Z",
-  "sports": [],
+  "date": "2026-05-20",
+  "generatedAt": "2026-05-20T20:27:38.426Z",
+  "sports": [
+    {
+      "sport": "NBA",
+      "picks": [
+        {
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "spread",
+          "pick": "Oklahoma City Thunder -7.5",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "The Oklahoma City Thunder are highly motivated to bounce back after losing Game 1 at home in double overtime. Crucially, San Antonio's Victor Wembanyama (concussion) and De'Aaron Fox (ankle) are both listed as questionable, which would significantly impact the Spurs' performance if they are out or limited. The Thunder boast a strong home record of 34-7 and a +11.1 season scoring margin, and Shai Gilgeous-Alexander is expected to rebound after an inefficient Game 1, making the -7.5 spread a strong play.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "total",
+          "pick": "Over 216.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "All five head-to-head matchups between the Spurs and Thunder this season have gone over the 216.5 total, averaging roughly 227 combined points per game. Both teams feature potent offenses, with the Spurs ranking 3rd in the league in points per game (119.8) and the Thunder ranking 5th (119.0). While Game 1 went to double overtime, the consistent high-scoring nature of this specific matchup provides a strong historical trend for the Over.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "moneyline",
+          "pick": "Oklahoma City Thunder (-245)",
+          "odds": "-245",
+          "confidence": "high",
+          "rationale": "The top-seeded Oklahoma City Thunder are playing at home after a disappointing Game 1 loss and will be determined to even the series. With key Spurs players Victor Wembanyama and De'Aaron Fox questionable due to injury, the Thunder hold a significant advantage in health and depth. Shai Gilgeous-Alexander, a two-time MVP, is expected to lead a strong bounce-back effort, supported by the Thunder's impressive 34-7 home record this season.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "spread",
+          "pick": "San Antonio Spurs +7.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Despite injury concerns for Victor Wembanyama and De'Aaron Fox, the San Antonio Spurs have demonstrated a remarkable 4-1 head-to-head record against the Thunder this season, including their Game 1 road victory. The Spurs are in excellent recent form, with an 8-2 record in their last 10 games and a 5-1 away record. If Wembanyama, who delivered 41 points and 24 rebounds in Game 1, is able to play, the Spurs have proven they can keep games competitive against the Thunder, making the +7.5 spread appealing.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "total",
+          "pick": "Under 216.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "While Game 1 went to double overtime, pushing the total high, an expert is leaning towards the Under 216.5 for Game 2, noting that a second consecutive overtime is unlikely. Both the Thunder (2nd) and Spurs (8th) rank highly in opponent points per game, indicating strong defensive capabilities. Furthermore, if San Antonio's questionable players Victor Wembanyama and De'Aaron Fox are limited or absent, their offensive output could decrease, contributing to a lower-scoring affair.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "NHL",
+      "picks": [
+        {
+          "game": "Vegas Golden Knights vs Colorado Avalanche",
+          "betType": "moneyline",
+          "pick": "Colorado Avalanche",
+          "odds": "-172",
+          "confidence": "high",
+          "rationale": "The Colorado Avalanche enter Game 1 with an impressive 8-1 playoff record, including an undefeated 5-0 run at home in Ball Arena. They also hold a strong head-to-head advantage against the Golden Knights, going 4-0-1 since November 2024. While Cale Makar is out, the Avalanche's depth, coupled with Vegas missing key players Mark Stone and Jeremy Lauzon, gives Colorado a significant edge. The Avalanche have also benefited from more rest days, and the high altitude in Denver is a known home-ice advantage.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "55-16-11",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Vegas Golden Knights vs Colorado Avalanche",
+          "betType": "prop",
+          "pick": "Nathan MacKinnon Over Shots on Goal",
+          "odds": "Not explicitly given in verified lines, but implied to be bettable. Using general prop availability.",
+          "confidence": "high",
+          "rationale": "Nathan MacKinnon is a consistent high-volume shooter, particularly when playing at home against the Golden Knights. He has registered six or more shots on goal in four of the last five head-to-head matchups and in six consecutive home games against Vegas. As a primary offensive catalyst for the Avalanche, especially with Cale Makar sidelined, MacKinnon is expected to drive play and generate numerous scoring opportunities.",
+          "propPlayer": "Nathan MacKinnon",
+          "propTeam": "Colorado Avalanche",
+          "awayRecord": "39-26-17",
+          "homeRecord": "55-16-11",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Vegas Golden Knights vs Colorado Avalanche",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "-124",
+          "confidence": "high",
+          "rationale": "Game 1 of a Conference Final typically features tighter, more defensive hockey as teams adjust to each other's strategies. Both starting goaltenders, Carter Hart for Vegas and Scott Wedgewood for Colorado, have demonstrated strong playoff performances. Historically, the Under 6.5 goal line has not been covered in 13 of the last 20 Golden Knights games and 14 of the last 20 Avalanche games, suggesting a trend towards lower-scoring contests in high-stakes situations.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "39-26-17",
+          "homeRecord": "55-16-11",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Vegas Golden Knights vs Colorado Avalanche",
+          "betType": "spread",
+          "pick": "Colorado Avalanche -1.5",
+          "odds": "+142",
+          "confidence": "medium",
+          "rationale": "The Colorado Avalanche have been exceptionally dominant at home in the playoffs, boasting a 5-0 record and consistently winning by multiple goals, with five of their last six victories coming by a margin of two or more. The Golden Knights, conversely, have shown inconsistency on the road, and the absence of key players Mark Stone and Jeremy Lauzon significantly weakens their lineup. Colorado's superior 5-on-5 play and efficiency in capitalizing on high-danger chances position them for a decisive multi-goal win.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "55-16-11",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Vegas Golden Knights vs Colorado Avalanche",
+          "betType": "prop",
+          "pick": "Mitch Marner Anytime Goal Scorer",
+          "odds": "+200",
+          "confidence": "medium",
+          "rationale": "Mitch Marner has been a standout offensive performer for the Golden Knights throughout the playoffs, leading the team with 18 points, including seven goals. He has also demonstrated consistent production against the Avalanche, recording a point in all three regular-season matchups this season. With captain Mark Stone out due to injury, Marner's role in generating offense becomes even more critical, increasing his likelihood of finding the back of the net.",
+          "propPlayer": "Mitch Marner",
+          "propTeam": "Vegas Golden Knights",
+          "awayRecord": "39-26-17",
+          "homeRecord": "55-16-11",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "Los Angeles Dodgers @ San Diego Padres",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-124",
+          "confidence": "high",
+          "rationale": "Dodgers' ace Shohei Ohtani is scheduled to pitch, boasting an impressive 0.82 ERA and 0.82 WHIP this season, indicating a strong likelihood of a low-scoring outing from his side. The line movement for the total has seen the Under juice climb from -102 to -115, signaling sharp money coming in on the Under. Public betting overwhelmingly supports the Under, with 98% of money and 80% of tickets placed on it. This matchup is widely projected as a pitching duel, with both starters demonstrating excellent underlying numbers, making the Under a high-confidence play.",
+          "awayRecord": "30-19",
+          "homeRecord": "29-19",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Atlanta Braves @ Miami Marlins",
+          "betType": "spread",
+          "pick": "Atlanta Braves -1.5",
+          "odds": "+126",
+          "confidence": "high",
+          "rationale": "Atlanta's Chris Sale is pitching, and he has been one of baseball's best with a 1.96 ERA and 0.91 WHIP, giving the Braves a significant pitching advantage. The Braves' moneyline has seen substantial movement from -199 to -204, with an overwhelming 100% of both public money and tickets on Atlanta. Miami's offense lacks the consistent power to keep pace with Atlanta's deep lineup, especially against an elite pitcher like Sale. The run line at +126 offers excellent value for a Braves team that has a clear path to a multi-run victory.",
+          "awayRecord": "33-16",
+          "homeRecord": "22-27",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Texas Rangers @ Colorado Rockies",
+          "betType": "spread",
+          "pick": "Texas Rangers -1.5",
+          "odds": "-102",
+          "confidence": "high",
+          "rationale": "The Texas Rangers are coming off a dominant 10-0 victory against the Rockies, demonstrating their offensive capability in Coors Field. Colorado's starting pitcher, Kyle Freeland, has a concerning 7.22 ERA and 1.66 WHIP, presenting a favorable matchup for the Rangers' bats. The line movement shows the Rangers' moneyline tightening from -131 to -136, with 100% of public money and tickets backing Texas. This significant pitching mismatch and the Rangers' recent offensive explosion provide a strong foundation for a multi-run win.",
+          "awayRecord": "23-25",
+          "homeRecord": "19-30",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Pittsburgh Pirates @ St. Louis Cardinals",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "+102",
+          "confidence": "medium",
+          "rationale": "Cardinals' starter Michael McGreevy has been efficient with a 2.10 ERA, suggesting he can limit the Pirates' scoring opportunities. Although the total has seen some fluctuation, the Under juice has been climbing, indicating sharp money is comfortable with a lower-scoring affair. The Cardinals have a 4-0 season series advantage over the Pirates, often dictating the pace of play. With the Pirates missing key offensive players like Ryan O'Hearn and Joey Bart due to injuries, their scoring potential is further diminished.",
+          "awayRecord": "24-24",
+          "homeRecord": "28-19",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Boston Red Sox @ Kansas City Royals",
+          "betType": "moneyline",
+          "pick": "Boston Red Sox",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "The Red Sox have already secured the first two wins of this series against a struggling Royals team that has lost eight of their last nine games and scored two or fewer runs in their last four. Boston's starter, Connelly Early, has been impressive, allowing two or fewer runs in seven of his nine starts this season. While Royals' starter Michael Wacha has a decent ERA, his 4.16 FIP suggests he is due for some regression. Given Boston's momentum and Early's strong form, the Red Sox at even money present a high-value pick to complete the sweep.",
+          "awayRecord": "21-27",
+          "homeRecord": "20-29",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "UEL",
+      "picks": [
+        {
+          "game": "Aston Villa @ SC Freiburg",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "Finals are often cautious and low-scoring affairs, and Aston Villa's robust defense, having conceded only two goals in six UEL knockout matches, strongly supports an Under bet. SC Freiburg's key attacking midfielder, Yuito Suzuki, is confirmed out with a fractured collarbone, which will significantly diminish their offensive threat. Despite some market movement towards the Over, the high stakes and Unai Emery's tactical approach in finals typically prioritize defensive solidity, making the Under 3.5 at plus money a valuable high-confidence pick."
+        },
+        {
+          "game": "Aston Villa @ SC Freiburg",
+          "betType": "moneyline",
+          "pick": "SC Freiburg",
+          "odds": "+6500",
+          "confidence": "medium",
+          "rationale": "While a massive underdog, SC Freiburg is playing in their first-ever European final, providing immense motivation and a 'nothing to lose' mentality that can fuel upsets. They have shown recent scoring prowess, netting nine goals in their last three matches, including a 4-1 victory over RB Leipzig. In a high-stakes final, unexpected outcomes can occur, and the substantial odds of +6500 offer an attractive return for a team playing for their first major title and a Champions League spot."
+        },
+        {
+          "game": "Aston Villa @ SC Freiburg",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "Both Aston Villa and SC Freiburg have demonstrated significant attacking capabilities throughout their Europa League campaigns. Villa outscored their playoff opponents 14-2, while Freiburg netted an impressive 15 goals in six knockout matches. Furthermore, the market line movement has shifted towards the Over, suggesting that early retail bettors and sharp money anticipate a more open and higher-scoring contest than initially projected."
+        }
+      ]
+    }
+  ],
   "playerProps": []
 }
