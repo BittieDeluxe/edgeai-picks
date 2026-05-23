@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-05-22",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Oklahoma City Thunder vs San Antonio Spurs",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -1.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Oklahoma City Thunder 123, San Antonio Spurs 108"
+          },
+          {
+            "game": "Oklahoma City Thunder vs San Antonio Spurs",
+            "betType": "total",
+            "pick": "Over 217.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Oklahoma City Thunder 123, San Antonio Spurs 108"
+          },
+          {
+            "game": "Oklahoma City Thunder vs San Antonio Spurs",
+            "betType": "moneyline",
+            "pick": "San Antonio Spurs (-124)",
+            "odds": "-124",
+            "confidence": "high",
+            "result": "L",
+            "score": "Oklahoma City Thunder 123, San Antonio Spurs 108"
+          },
+          {
+            "game": "Oklahoma City Thunder vs San Antonio Spurs",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder +1.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Oklahoma City Thunder 123, San Antonio Spurs 108"
+          },
+          {
+            "game": "Oklahoma City Thunder vs San Antonio Spurs",
+            "betType": "total",
+            "pick": "Under 217.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Oklahoma City Thunder 123, San Antonio Spurs 108"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Vegas Golden Knights @ Colorado Avalanche",
+            "betType": "moneyline",
+            "pick": "Colorado Avalanche",
+            "odds": "-166",
+            "confidence": "high",
+            "result": "L",
+            "score": "Vegas Golden Knights 3, Colorado Avalanche 1"
+          },
+          {
+            "game": "Vegas Golden Knights @ Colorado Avalanche",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Vegas Golden Knights 3, Colorado Avalanche 1"
+          },
+          {
+            "game": "Vegas Golden Knights @ Colorado Avalanche",
+            "betType": "prop",
+            "pick": "Nathan MacKinnon Over 4.5 Shots on Goal",
+            "odds": "+125",
+            "confidence": "high",
+            "result": "?",
+            "score": "Nathan MacKinnon: not found in box score"
+          },
+          {
+            "game": "Vegas Golden Knights @ Colorado Avalanche",
+            "betType": "spread",
+            "pick": "Colorado Avalanche -1.5",
+            "odds": "+142",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vegas Golden Knights 3, Colorado Avalanche 1"
+          },
+          {
+            "game": "Vegas Golden Knights @ Colorado Avalanche",
+            "betType": "spread",
+            "pick": "Vegas Golden Knights +1.5",
+            "odds": "-170",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Vegas Golden Knights 3, Colorado Avalanche 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Washington Nationals @ Atlanta Braves",
+            "betType": "total",
+            "pick": "Over 9",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "P",
+            "score": "Washington Nationals 4, Atlanta Braves 5"
+          },
+          {
+            "game": "Cleveland Guardians @ Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies",
+            "odds": "-205",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cleveland Guardians 1, Philadelphia Phillies 0"
+          },
+          {
+            "game": "St. Louis Cardinals @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "St. Louis Cardinals 8, Cincinnati Reds 1"
+          },
+          {
+            "game": "Tampa Bay Rays @ New York Yankees",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+146",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tampa Bay Rays 4, New York Yankees 2"
+          },
+          {
+            "game": "Athletics @ San Diego Padres",
+            "betType": "spread",
+            "pick": "San Diego Padres +1.5",
+            "odds": "-200",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Athletics 3, San Diego Padres 7"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Orlando City SC @ FC Cincinnati",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Real Salt Lake @ Minnesota United FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New England Revolution @ Charlotte FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "CF Montreal @ D.C. United",
+            "betType": "moneyline",
+            "pick": "CF Montreal",
+            "odds": "+250",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Real Salt Lake @ Minnesota United FC",
+            "betType": "moneyline",
+            "pick": "Real Salt Lake",
+            "odds": "+240",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-21",
     "sports": [
       {
@@ -4714,212 +4920,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Baltimore Orioles 8, Kansas City Royals 6"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-04-21",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "Philadelphia 76ers @ Boston Celtics",
-            "betType": "spread",
-            "pick": "Boston Celtics -14.5",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia 76ers 111, Boston Celtics 97"
-          },
-          {
-            "game": "Portland Trail Blazers @ San Antonio Spurs",
-            "betType": "spread",
-            "pick": "San Antonio Spurs -11.5",
-            "odds": "-114",
-            "confidence": "high",
-            "result": "L",
-            "score": "Portland Trail Blazers 106, San Antonio Spurs 103"
-          },
-          {
-            "game": "Houston Rockets @ Los Angeles Lakers",
-            "betType": "spread",
-            "pick": "Los Angeles Lakers +5",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Houston Rockets 94, Los Angeles Lakers 101"
-          },
-          {
-            "game": "Philadelphia 76ers @ Boston Celtics",
-            "betType": "total",
-            "pick": "Under 216.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia 76ers 111, Boston Celtics 97"
-          },
-          {
-            "game": "Portland Trail Blazers @ San Antonio Spurs",
-            "betType": "total",
-            "pick": "Over 220.5",
-            "odds": "-106",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Portland Trail Blazers 106, San Antonio Spurs 103"
-          }
-        ]
-      },
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Montreal Canadiens vs Tampa Bay Lightning",
-            "betType": "spread",
-            "pick": "Montreal Canadiens +1.5",
-            "odds": "-155",
-            "confidence": "high",
-            "result": "W",
-            "score": "Montreal Canadiens 2, Tampa Bay Lightning 3"
-          },
-          {
-            "game": "Boston Bruins vs Buffalo Sabres",
-            "betType": "moneyline",
-            "pick": "Buffalo Sabres (-175)",
-            "odds": "-175",
-            "confidence": "high",
-            "result": "L",
-            "score": "Boston Bruins 4, Buffalo Sabres 2"
-          },
-          {
-            "game": "Utah Mammoth vs Vegas Golden Knights",
-            "betType": "spread",
-            "pick": "Vegas Golden Knights -1.5",
-            "odds": "+160",
-            "confidence": "high",
-            "result": "L",
-            "score": "Utah Mammoth 3, Vegas Golden Knights 2"
-          },
-          {
-            "game": "Los Angeles Kings vs Colorado Avalanche",
-            "betType": "spread",
-            "pick": "Colorado Avalanche -1.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Kings 1, Colorado Avalanche 2"
-          },
-          {
-            "game": "Montreal Canadiens vs Tampa Bay Lightning",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-130",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Montreal Canadiens 2, Tampa Bay Lightning 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Houston Astros @ Cleveland Guardians",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "W",
-            "score": "Houston Astros 5, Cleveland Guardians 8"
-          },
-          {
-            "game": "Atlanta Braves @ Washington Nationals",
-            "betType": "moneyline",
-            "pick": "Atlanta Braves",
-            "odds": "-138",
-            "confidence": "high",
-            "result": "L",
-            "score": "Atlanta Braves 4, Washington Nationals 11"
-          },
-          {
-            "game": "New York Yankees @ Boston Red Sox",
-            "betType": "moneyline",
-            "pick": "New York Yankees",
-            "odds": "+104",
-            "confidence": "high",
-            "result": "W",
-            "score": "New York Yankees 4, Boston Red Sox 0"
-          },
-          {
-            "game": "San Diego Padres @ Colorado Rockies",
-            "betType": "spread",
-            "pick": "San Diego Padres -1.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Diego Padres 1, Colorado Rockies 0"
-          },
-          {
-            "game": "Los Angeles Dodgers @ San Francisco Giants",
-            "betType": "total",
-            "pick": "Over 7.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Dodgers 1, San Francisco Giants 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Charlotte FC @ Orlando City SC",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-175",
-            "confidence": "high",
-            "result": "W",
-            "score": "Charlotte FC 1, Orlando City SC 4"
-          },
-          {
-            "game": "LA Galaxy @ Columbus Crew SC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+130",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "D.C. United @ New York Red Bulls",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "FC Cincinnati @ New York City FC",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-165",
-            "confidence": "medium",
-            "result": "W",
-            "score": "FC Cincinnati 4, New York City FC 4"
-          },
-          {
-            "game": "New England Revolution @ Atlanta United FC",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New England Revolution 2, Atlanta United FC 1"
           }
         ]
       }
