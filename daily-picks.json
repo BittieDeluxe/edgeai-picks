@@ -1,41 +1,17 @@
 {
   "date": "2026-05-23",
-  "generatedAt": "2026-05-23T20:09:35.608Z",
+  "generatedAt": "2026-05-23T21:00:33.283Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
           "game": "New York Knicks vs Cleveland Cavaliers",
-          "betType": "moneyline",
-          "pick": "Cleveland Cavaliers",
-          "odds": "-142",
-          "confidence": "high",
-          "rationale": "The Cleveland Cavaliers are in a crucial must-win situation, down 0-2 in the Eastern Conference Finals and returning to their home court. Cleveland boasts a strong 6-1 home playoff record and has historically shown a significant bounce-back ability, winning their last nine home games following a loss. Both teams report a clean injury sheet for Game 3, ensuring the Cavaliers' full roster, including Donovan Mitchell and James Harden, will be available and highly motivated to secure a victory. This combination of home-court advantage, desperation, and historical performance provides a strong edge for the Cavaliers to win outright.",
-          "awayRecord": "53-29",
-          "homeRecord": "52-30",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Knicks vs Cleveland Cavaliers",
           "betType": "spread",
-          "pick": "New York Knicks +2.5",
-          "odds": "-108",
+          "pick": "Cleveland Cavaliers -2.5",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "The New York Knicks are currently on an impressive nine-game playoff winning streak, demonstrating exceptional form and cohesion. They have also performed well on the road in the postseason, holding a 4-1 record away from home. The Knicks have covered the spread in two of their last five head-to-head matchups against the Cavaliers, including both games in this series. With a healthy roster and a strong ATS record this season (49-40), the Knicks are well-positioned to at least keep this game close, if not win it outright, making the +2.5 spread a high-confidence pick.",
+          "rationale": "The Cleveland Cavaliers are in a crucial Game 3 at home, trailing the series 0-2, creating a strong 'desperation angle' for the team. Cleveland boasts an impressive 6-1 home record this postseason, demonstrating a significant home-court advantage where their offensive rating elevates to 117.6 points per 100 possessions. The spread has moved from an opening of -1.5 to the current -2.5, indicating sharp money is favoring the Cavaliers to cover. For this pick to hit, the Cavaliers need to win by 3 points or more, which is a strong possibility given their motivation and historical home performance.",
           "awayRecord": "53-29",
           "homeRecord": "52-30",
           "awayLast5": [
@@ -59,7 +35,31 @@
           "pick": "Under 215.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Eastern Conference Finals games are typically characterized by heightened defensive intensity, often leading to lower-scoring affairs. Historically, seven of the last eight home games between the Cavaliers and the Knicks have gone Under the total points line. The Knicks possess an elite playoff defense, ranking first in the league by allowing only 100.6 points per game this postseason. The Cavaliers' offense also struggled in Game 2, shooting just 39.0% from the field and 26.0% from three, suggesting a continued challenge against New York's stout defense.",
+          "rationale": "Both the New York Knicks and Cleveland Cavaliers play at a notably slow pace, with the Knicks being the slowest team over the last 25 games and the Cavaliers the second slowest over the last 5 games. The Knicks possess an elite defense, ranking 5th in the NBA in opponent points per game (110.1) and 7th in defensive rating (113.3). In Game 2, the Cavaliers struggled significantly on offense, shooting just 39% from the field and a dismal 26% from three-point range, resulting in a low-scoring affair. Given the defensive intensity typical of a pivotal playoff game, combined with both teams' deliberate pace and Cleveland's recent offensive struggles, the Under is a high-confidence play.",
+          "awayRecord": "53-29",
+          "homeRecord": "52-30",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "New York Knicks vs Cleveland Cavaliers",
+          "betType": "moneyline",
+          "pick": "New York Knicks +120",
+          "odds": "+120",
+          "confidence": "high",
+          "rationale": "The New York Knicks enter Game 3 with a commanding 2-0 series lead and are on an impressive nine-game playoff winning streak, with eight of those victories coming by double digits. They have also demonstrated strong performance on the road in the playoffs, holding a 4-1 record. Historically, the Knicks have dominated the Cavaliers in playoff series, winning all four previous matchups and holding a significant 14-2 head-to-head playoff advantage. Despite playing in a hostile road environment, the Knicks' superior recent form, defensive prowess, and overall series control make them a valuable underdog at +120.",
           "awayRecord": "53-29",
           "homeRecord": "52-30",
           "awayLast5": [
@@ -84,11 +84,11 @@
       "picks": [
         {
           "game": "Montreal Canadiens vs Carolina Hurricanes",
-          "betType": "spread",
-          "pick": "Montreal Canadiens +1.5",
-          "odds": "-150",
+          "betType": "moneyline",
+          "pick": "Montreal Canadiens",
+          "odds": "+176",
           "confidence": "high",
-          "rationale": "The Montreal Canadiens have demonstrated a significant edge over the Carolina Hurricanes this season, winning their last five head-to-head matchups, including a decisive 6-2 victory in Game 1 of this series. Despite Carolina's strong underlying possession metrics, Montreal has consistently found ways to win the 'high-danger chance' battle and boasts excellent goaltending from Jakub Dobes against the Hurricanes. Furthermore, sharp money indicators show that 91% of the money is on the Canadiens, despite only 36% of bets, suggesting professional bettors see value in Montreal as an underdog. This combination of recent dominance, strategic advantage, and sharp betting action makes Montreal +1.5 a high-confidence pick.",
+          "rationale": "The Montreal Canadiens have demonstrated significant recent success against the Hurricanes, winning their last five head-to-head matchups, including a decisive 6-2 victory in Game 1 of this series. Montreal also holds an impressive 12-2 record as road underdogs in their last 14 games and has not suffered back-to-back losses this postseason. Carolina's starting goaltender, Frederik Andersen, struggled in Game 1, allowing five goals on just 21 shots, which could be a vulnerability for the Hurricanes. These factors combined present a strong case for the Canadiens to pull off another upset.",
           "awayRecord": "48-24-10",
           "homeRecord": "53-22-7",
           "awayLast5": [
@@ -112,7 +112,31 @@
           "pick": "Over 6.5",
           "odds": "+114",
           "confidence": "medium",
-          "rationale": "Game 1 of this Eastern Conference Final saw a total of eight goals, easily cashing the Over on a lower line. While the verified total has adjusted to 6.5, there's significant public and sharp money consistently on the Over at previous totals of 5.5 and 6, indicating a market expectation for continued high scoring. Both teams possess offensive talent, and while Carolina will aim to tighten defensively, their aggressive offensive zone time and shot attempts often lead to chances, which Montreal has proven capable of converting. Given the offensive outburst in Game 1 and the market's movement towards a higher total, the Over 6.5 at plus money offers strong value.",
+          "rationale": "Game 1 of this series saw a total of 8 goals, easily surpassing the 6.5 line. Montreal's offense has been performing well, with their top line finding its stride, while Carolina is expected to come out with increased offensive aggression at home to rebound from their Game 1 loss. Historical trends also support a higher-scoring game, as the 5.5 line has been covered in 6 of Montreal's last 10 games and 12 of Carolina's last 20 home games. With both teams likely pushing the pace, the Over 6.5 at plus money offers strong value.",
+          "awayRecord": "48-24-10",
+          "homeRecord": "53-22-7",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Montreal Canadiens vs Carolina Hurricanes",
+          "betType": "spread",
+          "pick": "Carolina Hurricanes -1.5",
+          "odds": "+120",
+          "confidence": "medium",
+          "rationale": "Despite losing Game 1, the Carolina Hurricanes were previously on a nine-game winning streak, including sweeping their first two playoff series. They are a formidable home team, boasting a 7-1 record in their last eight home games, and will be highly motivated to deliver a strong bounce-back performance to even the series. While Montreal has shown resilience, the Hurricanes' overall dominance prior to Game 1 and their home-ice advantage suggest they are capable of a convincing victory to cover the spread.",
           "awayRecord": "48-24-10",
           "homeRecord": "53-22-7",
           "awayLast5": [
@@ -133,34 +157,10 @@
         {
           "game": "Montreal Canadiens vs Carolina Hurricanes",
           "betType": "prop",
-          "pick": "Juraj Slafkovsky Over 0.5 Points",
-          "odds": "-150",
-          "confidence": "high",
-          "rationale": "Juraj Slafkovsky delivered a standout performance in Game 1, tallying three points (two goals, one assist) and significantly contributing to his line's five-on-five possession. He has been in exceptional form recently, averaging an elite 4.06 points per 60 minutes over his last six games. Slafkovsky is an active member of the Montreal Canadiens' top line, playing alongside Nick Suzuki and Cole Caufield, a trio that consistently generates offensive opportunities. His recent surge in production and pivotal role in Montreal's offense make him a strong candidate to record at least one point in Game 2.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "53-22-7",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Montreal Canadiens vs Carolina Hurricanes",
-          "betType": "moneyline",
-          "pick": "Carolina Hurricanes (-210)",
-          "odds": "-210",
+          "pick": "Jake Evans Over 0.5 Assists",
+          "odds": "+260",
           "confidence": "medium",
-          "rationale": "The Carolina Hurricanes, despite their Game 1 loss, finished the regular season as the top team in the Eastern Conference with a 53-22-7 record and swept their first two playoff series. They are a fully healthy squad with dominant underlying metrics, leading the NHL in offensive zone time and 5-on-5 shot attempts percentage. Coming off a surprising 6-2 defeat at home, Carolina will be highly motivated to even the series on their home ice, a common bounce-back scenario for elite teams in the playoffs. Their overall season-long dominance and a strong desire for redemption make the Hurricanes moneyline a high-confidence pick.",
+          "rationale": "Jake Evans is an active player for the Montreal Canadiens and has demonstrated a strong trend in his assist production following a win. In his last four games after a victory, Evans has consistently recorded over 0.5 assists, averaging 1.25 helpers per contest. Given Montreal's offensive momentum from Game 1 and Evans' consistent playmaking in favorable situations, this prop offers excellent value at +260 odds.",
           "awayRecord": "48-24-10",
           "homeRecord": "53-22-7",
           "awayLast5": [
@@ -181,10 +181,10 @@
         {
           "game": "Montreal Canadiens vs Carolina Hurricanes",
           "betType": "prop",
-          "pick": "Sean Walker Over 1.5 Shots on Goal",
-          "odds": "-160",
+          "pick": "Ivan Demidov Over 0.5 Points",
+          "odds": "+102",
           "confidence": "medium",
-          "rationale": "Carolina Hurricanes defenseman Sean Walker has a compelling trend of exceeding 1.5 shots on goal following a loss, achieving this in all five such instances and averaging 3.4 shots per game. With the Hurricanes coming off a 6-2 defeat in Game 1, they are expected to increase their offensive pressure and direct more pucks towards the net. Walker is an active and confirmed player for the Carolina Hurricanes, projected to be in the lineup for Game 2. This strong situational performance, coupled with the team's anticipated offensive push, makes this a high-confidence player prop.",
+          "rationale": "Ivan Demidov is confirmed active for the Montreal Canadiens and is positioned in a key offensive role, skating on the second attack line alongside productive players like Jake Evans and Alex Newhook. Crucially, Demidov also features on Montreal's primary powerplay unit, which provides him with ample opportunities to generate points from high-danger scoring areas. With the Canadiens' offense clicking and Demidov's significant role in their attack, he is well-placed to record at least one point in Game 2 at favorable plus-money odds.",
           "awayRecord": "48-24-10",
           "homeRecord": "53-22-7",
           "awayLast5": [
@@ -208,108 +208,12 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Houston Astros @ Chicago Cubs",
-          "betType": "moneyline",
-          "pick": "Houston Astros",
-          "odds": "+136",
-          "confidence": "high",
-          "rationale": "The Chicago Cubs are in a significant slump, having lost six consecutive games and struggling mightily at the plate, scoring two runs or fewer in eight of their last twelve outings. Despite lineup changes, their offensive woes are deep-seated. Houston's starter, Kai-Wei Teng, has been effective in his recent starts, including a five-scoreless-inning performance against the Rangers. While the Astros have a poor road record, their offense features dangerous hitters like Yordan Alvarez. Given the Cubs' current struggles and the value offered at +136, the Astros moneyline presents a high-confidence opportunity.",
-          "awayRecord": "21-31",
-          "homeRecord": "29-22",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Washington Nationals @ Atlanta Braves",
-          "betType": "moneyline",
-          "pick": "Atlanta Braves",
-          "odds": "-162",
-          "confidence": "high",
-          "rationale": "The Atlanta Braves are a dominant team with a 36-16 record and a red-hot offense, having scored 40 runs in their last six victories. They face Washington Nationals starter Jake Irvin, who has struggled with a 5.79 ERA and a 1.48 WHIP, and is prone to allowing hard contact. In contrast, Braves starter Grant Holmes has been reliable with a 3-1 record and a 3.80 ERA. The Braves also boast one of MLB's most effective bullpens (3.08 ERA, 1.13 WHIP), providing a significant late-game advantage. This pitching and offensive mismatch, combined with the Braves playing at home, creates a strong edge for Atlanta.",
-          "awayRecord": "25-27",
-          "homeRecord": "36-16",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Los Angeles Dodgers @ Milwaukee Brewers",
-          "betType": "moneyline",
-          "pick": "Milwaukee Brewers",
-          "odds": "+150",
-          "confidence": "high",
-          "rationale": "The Milwaukee Brewers boast a strong pitching staff, with Jacob Misiorowski having not allowed a run in May and Kyle Harrison posting an impressive 1.77 ERA. This rotation depth is a significant advantage. Conversely, the Los Angeles Dodgers' bullpen is severely compromised with key relievers Edwin Diaz and Evan Phillips missing, making them vulnerable in late innings. Additionally, Dodgers infielder Max Muncy is injured, further weakening their lineup. With the Brewers playing at home and their offense showing good form, they are well-positioned to capitalize on the Dodgers' pitching woes.",
-          "awayRecord": "31-20",
-          "homeRecord": "30-18",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Athletics @ San Diego Padres",
-          "betType": "spread",
-          "pick": "San Diego Padres -1.5",
-          "odds": "+130",
-          "confidence": "medium",
-          "rationale": "The San Diego Padres are coming off a convincing 7-3 victory over the Athletics yesterday, where they also covered the -1.5 spread. This win continues a strong head-to-head trend, as the Padres have won four of their last five matchups against the Athletics, covering the runline in four of those games. Despite some key injuries, Padres starter Lucas Giolito had a solid first outing for the team, and their offense, featuring Miguel Andujar and Xander Bogaerts, has proven capable. With home-field advantage and recent momentum, the Padres are in a good position to secure another comfortable win.",
-          "awayRecord": "26-25",
-          "homeRecord": "30-20",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
           "game": "St. Louis Cardinals @ Cincinnati Reds",
-          "betType": "total",
-          "pick": "Over 9.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "Both starting pitchers in this doubleheader opener have shown vulnerability against their opponent. Cincinnati's Chris Paddack carries a 7.07 ERA and previously allowed five runs in less than five innings against the Cardinals this season. St. Louis's Leahy, while typically a reliever, has a 6.30 ERA in his career appearances against the Reds. With a doubleheader taxing both bullpens and key offensive players like Elly De La Cruz for the Reds and Alec Burleson for the Cardinals performing well, a high-scoring affair is anticipated. The combination of struggling starters and bullpen fatigue points to the Over 9.5 being a strong play.",
+          "betType": "moneyline",
+          "pick": "St. Louis Cardinals",
+          "odds": "-102",
+          "confidence": "high",
+          "rationale": "The St. Louis Cardinals are a strong moneyline pick against the Cincinnati Reds, primarily due to the Reds' starting pitcher, Chris Paddack, who holds a concerning 7.07 ERA this season. The Cardinals' offense features Jordan Walker, who is performing exceptionally well with a .295 batting average and 13 home runs, providing significant offensive firepower. While Cincinnati is on a two-game winning streak, Paddack's struggles at home against a capable Cardinals lineup make St. Louis a favorable value. The Cardinals also boast a solid 15-8 road record, demonstrating their ability to win away from home.",
           "awayRecord": "29-21",
           "homeRecord": "26-25",
           "awayLast5": [
@@ -326,6 +230,104 @@
             "W",
             "L"
           ]
+        },
+        {
+          "game": "Houston Astros @ Chicago Cubs",
+          "betType": "moneyline",
+          "pick": "Chicago Cubs",
+          "odds": "-162",
+          "confidence": "high",
+          "rationale": "The Chicago Cubs are a high-confidence moneyline pick, showing significant sharp money movement in their favor from an opening line of -143 to the current -162. The Cubs possess a superior pitching staff with a 4.07 ERA, notably better than the Astros' 5.28 ERA, and starter Colin Rea has a strong 2.66 ERA at home. The Astros have a poor 9-17 road record, making it challenging for them to compete against a motivated Cubs team at Wrigley Field, where Chicago's offense averages 4.85 runs per game. This combination of sharp line movement, pitching advantage, and home-field offensive prowess points to a Cubs victory.",
+          "awayRecord": "22-31",
+          "homeRecord": "29-23",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Houston Astros @ Chicago Cubs",
+          "betType": "prop",
+          "pick": "Yordan Alvarez Over 1.5 Total Bases",
+          "odds": "+119",
+          "confidence": "high",
+          "rationale": "Yordan Alvarez is an excellent player prop bet, given his outstanding offensive production this season, including 15 home runs and a 1.017 OPS. He faces Cubs starter Colin Rea, who has a tendency to allow hits, surrendering 10.15 hits per nine innings. Alvarez's impressive .601 slugging percentage makes him a strong candidate to achieve at least two total bases, especially at favorable plus-money odds. The Astros' lineup, despite their overall road record, maintains a respectable .267 batting average away from home, indicating opportunities for Alvarez to get on base and contribute.",
+          "propPlayer": "Yordan Alvarez",
+          "propTeam": "Houston Astros",
+          "awayRecord": "22-31",
+          "homeRecord": "29-23",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Cleveland Guardians @ Philadelphia Phillies",
+          "betType": "moneyline",
+          "pick": "Cleveland Guardians",
+          "odds": "-124",
+          "confidence": "medium",
+          "rationale": "The Cleveland Guardians are a high-confidence moneyline pick, riding an impressive 9-1 streak over their last ten games and seven consecutive wins. Despite facing Phillies ace Zack Wheeler, sharp money is leaning towards Cleveland, indicating a market overreaction to Wheeler's presence. The Guardians' bullpen has been exceptionally dominant, allowing only two earned runs over its past 18 innings, providing a significant late-game advantage. Furthermore, the Phillies have a poor 7-21 home run line record and have struggled in day games, adding to the Guardians' overall appeal.",
+          "awayRecord": "31-22",
+          "homeRecord": "25-26",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Colorado Rockies @ Arizona Diamondbacks",
+          "betType": "spread",
+          "pick": "Arizona Diamondbacks -1.5",
+          "odds": "+116",
+          "confidence": "medium",
+          "rationale": "The Arizona Diamondbacks are a high-confidence pick to cover the -1.5 spread against the Colorado Rockies. Arizona boasts a strong 16-10 home record and has been in excellent recent form, winning four of their last five games. They face Rockies starter Michael Lorenzen, who carries a concerning 7.03 ERA, presenting a significant advantage for the Diamondbacks' offense. Furthermore, Arizona's pitching rotation has shown dramatic improvement since early May, posting a 2.48 ERA over their last 16 starts. With the Rockies struggling on the road (10-17) and the Diamondbacks leading the season series 3-2, Arizona is well-positioned for a multi-run victory.",
+          "awayRecord": "20-32",
+          "homeRecord": "26-24",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
         }
       ]
     },
@@ -333,14 +335,14 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "San Jose Earthquakes @ Portland Timbers",
+          "game": "Toronto FC @ Chicago Fire FC",
           "betType": "moneyline",
-          "pick": "San Jose Earthquakes",
-          "odds": "+150",
+          "pick": "Chicago Fire FC",
+          "odds": "-200",
           "confidence": "high",
-          "rationale": "San Jose Earthquakes boast a significantly better overall record this season (9-2-3) compared to Portland Timbers (4-2-7). Furthermore, San Jose has been dominant in recent head-to-head matchups, remaining unbeaten in their last three encounters with Portland, which includes a 1-1 draw in their most recent game. While Portland has secured two consecutive home wins, San Jose's superior season form, with 6 wins, 2 losses, and 2 draws in their last 10 league games, provides a strong foundation for an away victory or at least a draw, making the +150 moneyline a valuable play.",
-          "awayRecord": "9-2-3",
-          "homeRecord": "4-2-7"
+          "rationale": "Chicago Fire FC is in strong form, boasting a 7-2-4 record and coming off back-to-back MLS wins, including a 2-0 away victory against CF Montréal. Conversely, Toronto FC is struggling, having lost successive MLS games and failing to win any of their last five matches. Historically, Chicago has not lost to Toronto in their past seven meetings, with their last encounter ending in a 2-2 draw. Given Chicago's current momentum and their historical dominance over Toronto, they are well-positioned to secure a home win.",
+          "awayRecord": "3-5-5",
+          "homeRecord": "7-2-4"
         },
         {
           "game": "FC Dallas @ Colorado Rapids",
@@ -348,52 +350,39 @@
           "pick": "FC Dallas",
           "odds": "+188",
           "confidence": "high",
-          "rationale": "FC Dallas carries strong momentum into this match, having secured two consecutive MLS road wins, including a recent 3-2 victory. In contrast, Colorado Rapids have struggled significantly at home, experiencing back-to-back MLS home losses. Dallas also demonstrates superior recent form with a 5-3-2 record in their last 10 league games, outperforming Colorado's 3-6-1 record. The last head-to-head encounter saw Dallas claim a decisive 3-1 home win, further supporting their potential for an upset on the road.",
+          "rationale": "FC Dallas enters this match in superior form, having won their last two MLS road games, including a 3-2 victory over San Jose Earthquakes. In contrast, Colorado Rapids have lost their last two home appearances and hold a poor recent record of 3 wins, 6 losses, and 1 draw in their last 10 league games. Furthermore, Dallas has consistently covered the +0.25 line in 7 of their last 10 games and in 2 consecutive road games, indicating their strength as road underdogs. This current form and betting trend favor FC Dallas for an upset victory.",
           "awayRecord": "6-4-4",
           "homeRecord": "5-1-8"
         },
         {
+          "game": "Vancouver Whitecaps @ San Diego FC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "The head-to-head history between Vancouver Whitecaps and San Diego FC strongly suggests a high-scoring match, with all 3 previous matchups exceeding 1.5 goals and 2 out of 3 going over 3.5 goals. San Diego FC's most recent home game was a 3-3 draw, demonstrating their propensity for open, high-scoring contests. Vancouver Whitecaps also possess a potent offense, having scored 30 goals in 13 games this season. These factors, combined with the favorable plus odds, make the Over 3.5 a confident pick.",
+          "awayRecord": "9-2-2",
+          "homeRecord": "4-5-5"
+        },
+        {
           "game": "Houston Dynamo FC @ LA Galaxy",
           "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "+125",
-          "confidence": "high",
-          "rationale": "The LA Galaxy have shown a strong tendency for low-scoring games at home, with their last 10 home matches all finishing with Under 3.5 goals. This trend is further reinforced by the head-to-head history between LA Galaxy and Houston Dynamo, where 9 out of their last 10 encounters also went Under 3.5 goals. Despite the market favoring the Over 2.5, these consistent historical patterns, especially the LA Galaxy's home performance, indicate significant value in betting the Under 2.5 goals at plus money.",
+          "pick": "Over 2.5",
+          "odds": "-185",
+          "confidence": "medium",
+          "rationale": "The head-to-head record between LA Galaxy and Houston Dynamo FC frequently features goals, with 67% of their previous 33 meetings going over 2.5 goals and averaging 3.5 goals per match. The LA Galaxy is currently on an MLS-best scoring streak of 23 consecutive matches, and Gabriel Pec is in excellent form, contributing to five goals in their last three road games. Although the Galaxy's top scorer, João Klauss, is injured, Pec's current form and the historical high-scoring trend between these teams strongly indicate this match will exceed 2.5 goals.",
           "awayRecord": "7-0-6",
           "homeRecord": "5-4-5"
         },
         {
-          "game": "Toronto FC @ Chicago Fire FC",
-          "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-165",
-          "confidence": "medium",
-          "rationale": "While Chicago Fire are in better recent form, the head-to-head history between these two teams suggests a tendency towards lower-scoring affairs, with 53% of their last 10 H2H matches going Under 3.5 goals. Chicago's average goals scored (2.1) and conceded (1.3) in their last 10 league games, combined with Toronto's 1.8 goals scored per game, point to a game that is likely to stay below the 3.5 goal mark. The -165 odds for the Under 3.5, while juiced, align with both historical and recent scoring trends for both teams.",
-          "awayRecord": "3-5-5",
-          "homeRecord": "7-2-4"
-        },
-        {
-          "game": "Real Salt Lake @ Minnesota United FC",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-165",
-          "confidence": "medium",
-          "rationale": "Real Salt Lake enters this match in excellent offensive form, having scored two or more goals in nine of their last 12 contests. Their overall season record of 8-1-4 also reflects a strong attacking presence within the league. Despite playing away from home, RSL's consistent goal-scoring ability, combined with the market heavily favoring the Over 2.5 at -165, suggests a high-scoring affair. This pick aligns with Real Salt Lake's recent offensive output and the implied expectation of goals from the oddsmakers.",
-          "awayRecord": "8-1-4",
-          "homeRecord": "6-3-5"
-        }
-      ]
-    },
-    {
-      "sport": "UFC",
-      "picks": [
-        {
-          "game": "Mohammad Fahmi vs Assem Ghanem",
+          "game": "New England Revolution @ Charlotte FC",
           "betType": "moneyline",
-          "pick": "Assem Ghanem",
-          "odds": "+108",
-          "confidence": "high",
-          "rationale": "Assem Ghanem maintains an undefeated professional record of 7-0, showcasing consistent success throughout his career. He recently secured a dominant unanimous decision victory in May 2025, advancing in the PFL MENA Featherweight Tournament and demonstrating his ability to control fights. Mohammad Fahmi, despite a respectable 4-1 record, suffered his first professional loss via D'arce Choke in his last fight in December 2025. Ghanem's perfect record and recent tournament success indicate strong form and a high level of confidence coming into this bout. Given Ghanem's undefeated status and recent dominant performance against Fahmi's recent loss, Ghanem at +108 offers excellent value as a high-confidence underdog pick."
+          "pick": "New England Revolution",
+          "odds": "+290",
+          "confidence": "medium",
+          "rationale": "New England Revolution, despite an average away record of 1-1-3, holds a significant historical advantage over Charlotte FC, having won 6 of their 9 previous encounters. This includes a recent 1-0 victory on May 2, 2026. The Revolution's overall form this season is 'Very Good' with an 8-1-4 record, placing them 6th in the MLS standings. Given their strong head-to-head record and solid overall performance, New England presents excellent value as an underdog at +290.",
+          "awayRecord": "8-1-4",
+          "homeRecord": "5-3-6"
         }
       ]
     }
