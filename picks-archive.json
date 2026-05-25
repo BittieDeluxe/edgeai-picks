@@ -767,7 +767,7 @@
             "pick": "San Antonio Spurs +7.5 (-112)",
             "odds": "-112",
             "confidence": "medium",
-            "result": "?",
+            "result": "L",
             "score": "San Antonio Spurs 113, Oklahoma City Thunder 122"
           },
           {
@@ -785,7 +785,7 @@
             "pick": "Oklahoma City Thunder -7.5 (-108)",
             "odds": "-108",
             "confidence": "medium",
-            "result": "?",
+            "result": "W",
             "score": "San Antonio Spurs 113, Oklahoma City Thunder 122"
           }
         ]
@@ -873,26 +873,6 @@
         ]
       }
     ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-05-19",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-05-18",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-05-17",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-05-16",
-    "sports": [],
     "playerProps": []
   },
   {
@@ -1443,8 +1423,8 @@
             "pick": "Julian Champagnie Over 1.5 Three-Pointers Made",
             "odds": "-150",
             "confidence": "medium",
-            "result": "?",
-            "score": "Julian Champagnie: \"Three-Pointers Made\" not auto-gradeable"
+            "result": "W",
+            "score": "Julian Champagnie: 2-8 Three-Pointers Made (line 1.5)"
           }
         ]
       },
@@ -1516,7 +1496,7 @@
             "pick": "Pittsburgh Pirates -1.5 (-144)",
             "odds": "-144",
             "confidence": "high",
-            "result": "?",
+            "result": "W",
             "score": "Colorado Rockies 1, Pittsburgh Pirates 3"
           },
           {
@@ -1837,7 +1817,7 @@
             "pick": "Philadelphia Phillies -1.5 (-140)",
             "odds": "-140",
             "confidence": "high",
-            "result": "?",
+            "result": "W",
             "score": "Colorado Rockies 0, Philadelphia Phillies 6"
           },
           {
@@ -2125,8 +2105,8 @@
             "pick": "Over 3.5",
             "odds": "+105",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "ended R5"
           },
           {
             "game": "Sean Brady vs Joaquin Buckley",
@@ -2134,8 +2114,8 @@
             "pick": "Sean Brady",
             "odds": "-170",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Sean Brady won"
           },
           {
             "game": "Jim Miller vs Jared Gordon",
@@ -2143,8 +2123,8 @@
             "pick": "Jim Miller",
             "odds": "+235",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Jim Miller won"
           }
         ]
       }
@@ -2634,7 +2614,7 @@
             "pick": "San Diego Padres -1.5 (+146)",
             "odds": "+146",
             "confidence": "high",
-            "result": "?",
+            "result": "W",
             "score": "San Diego Padres 5, San Francisco Giants 1"
           },
           {
@@ -3842,7 +3822,7 @@
             "pick": "Montreal Canadiens +1.5 (-180)",
             "odds": "-180",
             "confidence": "medium",
-            "result": "?",
+            "result": "W",
             "score": "Montreal Canadiens 3, Tampa Bay Lightning 2"
           }
         ]
@@ -4776,8 +4756,8 @@
             "pick": "Rodolfo Vieira",
             "odds": "-300",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Eric McConico won"
           },
           {
             "game": "Youssef Zalal @ Aljamain Sterling",
@@ -4785,8 +4765,8 @@
             "pick": "Youssef Zalal",
             "odds": "-135",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Aljamain Sterling won"
           },
           {
             "game": "Victor Valenzuela @ Max Griffin",
@@ -4794,8 +4774,8 @@
             "pick": "Victor Valenzuela",
             "odds": "-130",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Victor Valenzuela won"
           }
         ]
       }
@@ -4883,7 +4863,7 @@
             "odds": "+170",
             "confidence": "high",
             "result": "L",
-            "score": "Edmonton Oilers 4, Anaheim Ducks 7"
+            "score": "Edmonton Oilers 4, Anaheim Ducks 6"
           },
           {
             "game": "Vegas Golden Knights @ Utah Mammoth",
@@ -4901,7 +4881,7 @@
             "odds": "-155",
             "confidence": "medium",
             "result": "W",
-            "score": "Edmonton Oilers 4, Anaheim Ducks 7"
+            "score": "Edmonton Oilers 4, Anaheim Ducks 6"
           }
         ]
       },

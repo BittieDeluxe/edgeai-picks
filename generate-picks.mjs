@@ -3,9 +3,6 @@ import { writeFileSync, readFileSync } from 'fs';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const ODDS_API_KEY   = process.env.ODDS_API_KEY;
 
-if (!GEMINI_API_KEY) { console.error('GEMINI_API_KEY is not set'); process.exit(1); }
-if (!ODDS_API_KEY)   { console.error('ODDS_API_KEY is not set');   process.exit(1); }
-
 // ─── Season calendar ───────────────────────────────────────────────────────
 const SEASON_MONTHS = {
   NBA:      [10, 11, 12, 1, 2, 3, 4, 5, 6],
@@ -27,7 +24,7 @@ const ESPN_MAP = {
   NFL:      { sport: 'football',   league: 'nfl' },
   NCAAB:    { sport: 'basketball', league: 'mens-college-basketball' },
   MLS:      { sport: 'soccer',     league: 'usa.1' },
-  UFC:      null,
+  UFC:      { sport: 'mma', league: 'ufc' },
   UCL:      { sport: 'soccer',     league: 'uefa.champions' },
   UEL:      { sport: 'soccer',     league: 'uefa.europa' },
   WORLDCUP: { sport: 'soccer',     league: 'fifa.world' },
@@ -356,14 +353,25 @@ If ${sport} has no games today, return {"picks": []}.`;
 
 // ─── Player prop grading ──────────────────────────────────────────────────
 const PROP_STAT_KEYS = {
-  'points': 'PTS', 'rebounds': 'REB', 'assists': 'AST',
-  'steals': 'STL', 'blocks': 'BLK',
-  'three pointers': '3PT', 'three-pointers': '3PT', 'threes': '3PT',
-  'turnovers': 'TO',
-  'goals': 'G', 'nhl assists': 'A', 'saves': 'SV',
+  'points': 'PTS', 'point': 'PTS',
+  'rebounds': 'REB', 'rebound': 'REB',
+  'assists': 'AST', 'assist': 'AST',
+  'steals': 'STL', 'steal': 'STL',
+  'blocks': 'BLK', 'block': 'BLK',
+  'three pointers': '3PT', 'three-pointers': '3PT',
+  'three pointers made': '3PT', 'three-pointers made': '3PT',
+  'threes': '3PT', 'threes made': '3PT', '3-pointers made': '3PT',
+  'turnovers': 'TO', 'turnover': 'TO',
+  'goals': 'G', 'goal': 'G',
+  'nhl assists': 'A',
+  'saves': 'SV', 'save': 'SV',
   'shots': 'SOG', 'shots on goal': 'SOG',
-  'hits': 'H', 'home runs': 'HR', 'rbis': 'RBI', 'rbi': 'RBI',
-  'strikeouts': 'K', 'walks': 'BB', 'runs': 'R',
+  'hits': 'H', 'hit': 'H',
+  'home runs': 'HR', 'home run': 'HR',
+  'rbis': 'RBI', 'rbi': 'RBI',
+  'strikeouts': 'K', 'strikeout': 'K',
+  'walks': 'BB', 'walk': 'BB',
+  'runs': 'R', 'run': 'R',
   'runs batted in': 'RBI', 'earned runs': 'ER', 'innings pitched': 'IP',
 };
 
@@ -503,7 +511,10 @@ function gradeOnePick(pick, event) {
     if (lastWord(homeName) === pickedKey)      result = homeWon ? 'W' : 'L';
     else if (lastWord(awayName) === pickedKey) result = awayWon ? 'W' : 'L';
   } else if (pick.betType === 'spread') {
-    const m = text.match(/^(.+?)\s+([+-][\d.]+)$/);
+    const cleanText = text
+      .replace(/\s+\([+-]?\d+\)$/, '')
+      .trim();
+    const m = cleanText.match(/^(.+?)\s+([+-][\d.]+)$/);
     if (m) {
       const pickedKey = lastWord(m[1].trim());
       const spread = parseFloat(m[2]);
@@ -520,6 +531,65 @@ function gradeOnePick(pick, event) {
   }
 
   return { result, score: scoreStr };
+}
+
+function findMatchingUFCFight(gameName, events) {
+  const norm = (gameName ?? '').replace(/ vs\. /gi, ' vs ').replace(/ @ /g, ' vs ').toLowerCase();
+  const parts = norm.split(' vs ');
+  if (parts.length !== 2) return null;
+  const aKey = lastWord(parts[0]);
+  const bKey = lastWord(parts[1]);
+  for (const ev of events) {
+    for (const comp of ev.competitions ?? []) {
+      const competitors = comp.competitors ?? [];
+      if (competitors.length !== 2) continue;
+      const names = competitors.map(c => (c.athlete?.displayName ?? '').toLowerCase());
+      const lasts = names.map(lastWord);
+      if (lasts.includes(aKey) && lasts.includes(bKey)) {
+        return { comp, names };
+      }
+    }
+  }
+  return null;
+}
+
+function gradeUFCPick(pick, fight) {
+  const { comp } = fight;
+  const competitors = comp.competitors ?? [];
+  const winner = competitors.find(c => c.winner === true);
+  const winnerName = winner?.athlete?.displayName ?? '';
+  const scoreStr = winner ? `${winnerName} won` : 'no winner';
+  const text = pick.pick.trim();
+
+  if (pick.betType === 'moneyline') {
+    const cleanText = text
+      .replace(/\s+ML$/i, '')
+      .replace(/\s+\([+-]?\d+\)$/, '')
+      .replace(/\s+[+-]\d+$/, '')
+      .trim();
+    if (!winner) return { result: '?', score: scoreStr };
+    const pickedKey = lastWord(cleanText.toLowerCase());
+    const winnerKey = lastWord(winnerName.toLowerCase());
+    const result = pickedKey === winnerKey ? 'W' : 'L';
+    return { result, score: scoreStr };
+  }
+
+  if (pick.betType === 'total') {
+    const m = text.match(/^(Over|Under)\s+([\d.]+)/i);
+    if (!m) return { result: '?', score: scoreStr };
+    const line = parseFloat(m[2]);
+    const period = comp.status?.period;
+    if (typeof period !== 'number') return { result: '?', score: scoreStr };
+    // UFC totals are rounds completed. A 3-round fight ending in R3 = 2.5+ rounds.
+    // ESPN's `period` reports the round the fight ENDED in. We can't get the
+    // exact time, so use the period as a conservative integer round count and
+    // grade only when it's unambiguously over or under the line.
+    if (period > line) return { result: 'W', score: `ended R${period}` };
+    if (period < line) return { result: 'L', score: `ended R${period}` };
+    return { result: '?', score: `ended R${period} (push-region)` };
+  }
+
+  return { result: '?', score: scoreStr };
 }
 
 async function gradePicksForDate(picksData) {
@@ -560,7 +630,20 @@ async function gradePicksForDate(picksData) {
       console.log(`  ${sportData.sport} grading: ${events.length} completed events (${eventsA.length} + ${eventsB.length} raw)`);
     } catch { /* graceful — picks get '?' */ }
 
+    const isUFC = sportData.sport === 'UFC';
+
     const gradedPicks = await Promise.all(sportData.picks.map(async pick => {
+      if (isUFC) {
+        const fight = findMatchingUFCFight(pick.game, events);
+        if (!fight) {
+          console.log(`  No UFC fight match: ${pick.game}`);
+          return { game: pick.game, betType: pick.betType, pick: pick.pick, odds: pick.odds, confidence: pick.confidence, result: '?', score: '' };
+        }
+        const { result, score } = gradeUFCPick(pick, fight);
+        console.log(`  ${pick.pick}: ${result} (${score})`);
+        return { game: pick.game, betType: pick.betType, pick: pick.pick, odds: pick.odds, confidence: pick.confidence, result, score };
+      }
+
       const event = findMatchingEvent(pick.game, events);
       if (!event) {
         console.log(`  No match found: ${pick.game}`);
@@ -838,4 +921,12 @@ async function main() {
   console.log(`\nWrote ${sports.length} sport(s) to daily-picks.json`);
 }
 
-main().catch(err => { console.error(err); process.exit(1); });
+// Only auto-run main() when this file is the entry point (not when imported).
+const isEntryPoint = import.meta.url === `file://${process.argv[1]}`;
+if (isEntryPoint) {
+  if (!GEMINI_API_KEY) { console.error('GEMINI_API_KEY is not set'); process.exit(1); }
+  if (!ODDS_API_KEY)   { console.error('ODDS_API_KEY is not set');   process.exit(1); }
+  main().catch(err => { console.error(err); process.exit(1); });
+}
+
+export { gradePicksForDate };
