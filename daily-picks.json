@@ -1,127 +1,127 @@
 {
-  "date": "2026-05-25",
-  "generatedAt": "2026-05-25T21:15:56.145Z",
+  "date": "2026-05-26",
+  "generatedAt": "2026-05-26T21:50:48.123Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "New York Knicks vs Cleveland Cavaliers",
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
           "betType": "spread",
-          "pick": "New York Knicks -2.5",
-          "odds": "-110",
+          "pick": "San Antonio Spurs +4.5",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "The New York Knicks are on a historic 10-game playoff winning streak, with all wins coming by double digits, and have covered the spread in every road game this postseason. They have consistently beaten the Cleveland Cavaliers by an average of 13.3 points in the first three games of this series, far exceeding the -2.5 spread. Both teams are fully healthy, but New York's superior form and momentum make them a strong pick to cover this modest spread.",
-          "awayRecord": "53-29",
-          "homeRecord": "52-30",
+          "rationale": "The San Antonio Spurs are coming off a dominant 103-82 victory in Game 4, where they held the Oklahoma City Thunder to just 33% shooting. The Thunder are significantly hampered by injuries, with Ajay Mitchell ruled out and Jalen Williams questionable, impacting their offensive flow and secondary scoring. Victor Wembanyama's exceptional play, including 33 points in Game 4, and the Spurs' overall rebounding advantage further bolster their chances to keep this game close. Public betting trends also show a strong lean towards the Spurs on both the spread and moneyline, indicating sharp money is on the underdog.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
           "awayLast5": [
             "W",
             "W",
-            "W",
-            "W",
+            "L",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
-            "L",
+            "W",
+            "W",
             "L"
           ]
         },
         {
-          "game": "New York Knicks vs Cleveland Cavaliers",
-          "betType": "moneyline",
-          "pick": "New York Knicks (-135)",
-          "odds": "-135",
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "total",
+          "pick": "Under 217.5",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Game 4 of this series saw a drastic drop in scoring, with the final total reaching only 185 points (103-82). The Oklahoma City Thunder's offense has been suppressed due to key injuries to Ajay Mitchell (out) and the questionable status of Jalen Williams, which limits their ball-handling and shot creation. San Antonio's defense, spearheaded by Victor Wembanyama's rim protection, made crucial adjustments in Game 4 to limit Shai Gilgeous-Alexander and perimeter shooting, holding OKC to an inefficient 33% from the field. With the Thunder's offensive struggles and the Spurs' elite postseason defensive rating, a lower-scoring affair is anticipated.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "prop",
+          "pick": "Victor Wembanyama Over 26.5 Points",
+          "odds": "N/A (verified line provided)",
           "confidence": "high",
-          "rationale": "New York leads the Eastern Conference Finals 3-0 and is one win away from the NBA Finals, riding a dominant 10-game postseason winning streak. The Cavaliers are facing elimination at home, a deficit no team in NBA history has overcome. With no significant injuries for either side, the Knicks' sustained high-level play and series control point to an outright victory.",
-          "awayRecord": "53-29",
-          "homeRecord": "52-30",
+          "rationale": "Victor Wembanyama has been a dominant force for the Spurs, averaging 30.3 points over his last four games and delivering a 33-point performance in Game 4. As the primary offensive weapon, he is expected to maintain a high scoring volume in this pivotal Game 5, especially given the Thunder's defensive focus on him. Wembanyama is active and a key player for the San Antonio Spurs, making this prop a strong play. His ability to score efficiently and consistently makes him a reliable option to exceed this point total.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
           "awayLast5": [
             "W",
             "W",
-            "W",
-            "W",
+            "L",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
-            "L",
+            "W",
+            "W",
             "L"
           ]
         },
         {
-          "game": "New York Knicks vs Cleveland Cavaliers",
-          "betType": "total",
-          "pick": "Over 218.5",
-          "odds": "-115",
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "moneyline",
+          "pick": "San Antonio Spurs (+142)",
+          "odds": "+142",
           "confidence": "medium",
-          "rationale": "The total line has seen upward movement, indicating sharp money on the Over. The Knicks have consistently put up high scores in this series (121, 109, 121), and the Cavaliers have also managed to score over 100 points in all three games despite their losses. The combined offensive efficiency of both teams, with the Knicks averaging 122.2 PPG in their last 10, and a model projection of 229.9 total points, indicates strong value for the Over.",
-          "awayRecord": "53-29",
-          "homeRecord": "52-30",
+          "rationale": "The San Antonio Spurs have demonstrated their capability to win on the road in this series, having secured a Game 1 victory in double overtime as significant underdogs. Their recent 103-82 blowout win in Game 4 showcased their defensive prowess and offensive potential, shifting momentum in the tied series. With the Oklahoma City Thunder battling key injuries to Ajay Mitchell (out) and Jalen Williams (questionable), the Spurs are in a strong position to capitalize on the Thunder's diminished roster. Significant public money on the Spurs moneyline further suggests a perceived edge for the underdog.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
           "awayLast5": [
             "W",
             "W",
-            "W",
-            "W",
+            "L",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
-            "L",
+            "W",
+            "W",
             "L"
           ]
         },
         {
-          "game": "New York Knicks vs Cleveland Cavaliers",
-          "betType": "spread",
-          "pick": "Cleveland Cavaliers +2.5",
-          "odds": "-110",
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "prop",
+          "pick": "Shai Gilgeous-Alexander Under 29.5 Points",
+          "odds": "N/A (verified line provided)",
           "confidence": "medium",
-          "rationale": "Despite trailing 3-0 in the series, the Cavaliers are playing on their home court in a must-win elimination game, which often brings out a heightened level of desperation and effort. While the Knicks have been dominant, the market is still giving Cleveland a home-court bump, suggesting a tighter contest than the previous games. Donovan Mitchell and James Harden are healthy and capable of leading a strong offensive performance to keep the game competitive and potentially cover the spread.",
-          "awayRecord": "53-29",
-          "homeRecord": "52-30",
+          "rationale": "Shai Gilgeous-Alexander struggled considerably in Game 4, managing only 19 points on 6-of-15 shooting against San Antonio's adjusted defense. The Thunder's offensive challenges are exacerbated by the absence of Ajay Mitchell and the questionable status of Jalen Williams, forcing Gilgeous-Alexander to shoulder an even heavier burden against a focused defense. The Spurs' strategy of limiting double teams and contesting perimeter shots has proven effective in containing his scoring output. Shai Gilgeous-Alexander is active and playing for the Oklahoma City Thunder in this game.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
           "awayLast5": [
             "W",
             "W",
-            "W",
-            "W",
+            "L",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Knicks vs Cleveland Cavaliers",
-          "betType": "total",
-          "pick": "Under 218.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "An elimination game often leads to a more defensive-minded approach, especially from the team fighting for its season, which could suppress scoring. The New York Knicks, despite their offensive efficiency, play at one of the slowest paces in the league (27th in NBA). The Cavaliers will likely attempt to slow the game down to limit New York's possessions and control the tempo, further contributing to a lower-scoring affair. This increased defensive intensity and slower pace could result in the total staying Under 218.5.",
-          "awayRecord": "53-29",
-          "homeRecord": "52-30",
-          "awayLast5": [
             "W",
             "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
             "L"
           ]
         }
@@ -131,123 +131,123 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
+          "game": "Colorado Avalanche @ Vegas Golden Knights",
           "betType": "moneyline",
-          "pick": "Carolina Hurricanes",
-          "odds": "-140",
+          "pick": "Vegas Golden Knights",
+          "odds": "-102",
           "confidence": "high",
-          "rationale": "The Carolina Hurricanes enter this Game 3 with a dominant 9-1 postseason record and are unbeaten on the road in the playoffs. They boast a fully healthy roster, which is a significant advantage in the Eastern Conference Final. In contrast, the Montreal Canadiens are without key forward Patrik Laine due to an abdominal injury, impacting their offensive depth and power play. The Hurricanes demonstrated their resilience by winning Game 2 in overtime after a Game 1 loss, showcasing their ability to adjust and perform under pressure. This strong form and health advantage make Carolina a solid moneyline pick.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
+          "rationale": "The Vegas Golden Knights hold a commanding 3-0 series lead and have been in excellent form, winning 8 of their last 10 games overall. Colorado is facing significant injury concerns with Nathan MacKinnon playing through a lower-body injury and Valeri Nichushkin a game-time decision, while Vegas's Mark Stone has returned and contributed immediately. The Avalanche are also making a risky goalie change to Mackenzie Blackwood, who has a history of being pulled in playoff games. Furthermore, public and sharp money appear to be leaning towards Vegas, with the moneyline moving in their favor, indicating confidence in their ability to close out the series at home.",
+          "awayRecord": "55-16-11",
+          "homeRecord": "39-26-17",
           "awayLast5": [
             "W",
             "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
             "W",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
+          "game": "Colorado Avalanche @ Vegas Golden Knights",
           "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-130",
+          "pick": "Under 6.5",
+          "odds": "-138",
           "confidence": "high",
-          "rationale": "The total has seen significant line movement towards the Over 5.5, shifting from an opening of -117 to the current -130, indicating sharp money on a higher-scoring game. While Game 2 was a tighter 3-2 contest, Game 1 of this series exploded for 8 goals with Montreal winning 6-2. Montreal's power play can be potent, and Carolina's offense, averaging 2.9 goals per game in the playoffs, is capable of contributing significantly. With the series tied 1-1 and both teams eager to gain an edge, an offensive battle is a strong possibility.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
+          "rationale": "The series has seen relatively tight scoring, with game totals of 6, 4, and 8 goals, averaging 6 goals per game, with two games going under 6.5. The Golden Knights have demonstrated strong defensive play throughout the series, effectively limiting Colorado's high-powered offense. Vegas's starting goaltender, Carter Hart, has consistently outplayed the Avalanche's netminders, contributing to lower scoring. With Colorado's offensive production potentially hampered by injuries to key players and a new starting goalie in Mackenzie Blackwood, a tighter, lower-scoring contest is a strong possibility.",
+          "awayRecord": "55-16-11",
+          "homeRecord": "39-26-17",
           "awayLast5": [
             "W",
             "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
             "W",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
+          "game": "Colorado Avalanche @ Vegas Golden Knights",
           "betType": "spread",
-          "pick": "Montreal Canadiens +1.5",
-          "odds": "-220",
+          "pick": "Vegas Golden Knights +1.5",
+          "odds": "-265",
           "confidence": "high",
-          "rationale": "The Montreal Canadiens have an impressive head-to-head trend against the Hurricanes, covering the +1.5 spread in all of their last five matchups. Even in their Game 2 overtime loss, they managed to cover this spread, demonstrating their ability to keep games close against Carolina. Playing at home in Game 3, the Canadiens have a perfect historical record in this specific playoff scenario when the series is tied 1-1, suggesting a strong performance is expected. Despite Patrik Laine's absence, Montreal's home-ice advantage and historical spread performance provide a strong edge for this pick.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
+          "rationale": "The Vegas Golden Knights have won all three games in this Western Conference Final series by at least a two-goal margin (4-2, 3-1, 5-3). Their recent form is exceptional, boasting 8 wins in their last 10 games, showcasing consistent performance. Colorado is struggling to find its footing in the series and is dealing with key injuries, including Nathan MacKinnon playing through a lower-body issue and Valeri Nichushkin being a game-time decision. Given Vegas's dominance in the series and their strong overall play, it is highly probable they will either win outright or lose by no more than one goal.",
+          "awayRecord": "55-16-11",
+          "homeRecord": "39-26-17",
           "awayLast5": [
             "W",
             "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
             "W",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
-          "betType": "prop",
-          "pick": "Logan Stankoven Over 0.5 Points",
-          "odds": "+105",
+          "game": "Colorado Avalanche @ Vegas Golden Knights",
+          "betType": "moneyline",
+          "pick": "Colorado Avalanche",
+          "odds": "-118",
           "confidence": "medium",
-          "rationale": "Logan Stankoven has been a pivotal offensive force for the Carolina Hurricanes throughout the postseason, leading the team in both expected goals (5) and actual goals (7). He is confirmed active and plays a crucial role as the second-line center and on the second power-play unit, providing ample opportunities for point production. Given Carolina's strong offensive capabilities and Stankoven's consistent performance, getting plus-money odds for him to record at least one point presents excellent value. His consistent offensive output makes this a high-confidence prop bet.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
+          "rationale": "Despite trailing 0-3 in the series, the Colorado Avalanche are the Presidents' Trophy winners, boasting an elite roster with significant playoff experience. Facing elimination, the team is expected to play with unparalleled desperation and focus to extend their season, a common catalyst for strong performances in do-or-die situations. Star players Nathan MacKinnon and Cale Makar are confirmed to play, with MacKinnon expected to be used normally despite his recent injury. This combination of talent, high stakes, and a proven track record makes the Avalanche a strong contender for an outright victory in Game 4.",
+          "awayRecord": "55-16-11",
+          "homeRecord": "39-26-17",
           "awayLast5": [
             "W",
             "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
             "W",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
+          "game": "Colorado Avalanche @ Vegas Golden Knights",
           "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "+176",
+          "pick": "Colorado Avalanche -1.5",
+          "odds": "+205",
           "confidence": "medium",
-          "rationale": "The Carolina Hurricanes finished the regular season with a superior 53-22-7 record compared to Montreal's 48-24-10, highlighting their overall strength. Their 9-1 playoff record and unbeaten road performance in the postseason underscore their ability to dominate opponents. With Carolina's full roster health and Montreal missing key offensive player Patrik Laine, the Hurricanes possess a significant talent advantage. This combination of superior form, health, and road dominance provides a strong foundation for Carolina to win by more than one goal, offering excellent value at +176 odds.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
+          "rationale": "In a do-or-die Game 4, the Presidents' Trophy-winning Colorado Avalanche will unleash extreme desperation and their formidable offensive talent. With Nathan MacKinnon and Cale Makar leading the charge, a team of their caliber is capable of a multi-goal outburst when their season is on the line. Despite the series deficit, Colorado's strong regular season record and playoff experience indicate their potential for a dominant performance. The attractive odds of +205 offer significant value for a team with the offensive firepower and motivation to secure a decisive victory to stay alive in the series.",
+          "awayRecord": "55-16-11",
+          "homeRecord": "39-26-17",
           "awayLast5": [
             "W",
             "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
             "W",
-            "L"
+            "W",
+            "W"
           ]
         }
       ]
@@ -256,62 +256,14 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Seattle Mariners @ Athletics",
+          "game": "Cincinnati Reds @ New York Mets",
           "betType": "moneyline",
-          "pick": "Athletics",
-          "odds": "-102",
+          "pick": "Cincinnati Reds",
+          "odds": "+102",
           "confidence": "high",
-          "rationale": "The Athletics present strong value with a 27-26 record and a 2-1 lead in the season series against the Mariners. Their starting pitcher, Aaron Civale, boasts a 5-1 record and a 3.31 ERA, significantly outperforming Seattle's Luis Castillo (1-5, 6.41 ERA). Furthermore, Oakland's offense ranks 5th in wRC+ over the last 30 days, while Seattle is 7th, providing a clear offensive edge. The Athletics have also won three of their last five games, demonstrating better recent form than the Mariners.",
-          "awayRecord": "25-29",
-          "homeRecord": "27-26",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ San Diego Padres",
-          "betType": "moneyline",
-          "pick": "San Diego Padres",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "The Padres, despite being home underdogs, hold a superior overall record of 31-21 compared to the Phillies' 26-27. San Diego also boasts better pitching metrics with a 3.84 team ERA and a 1.25 WHIP, against Philadelphia's 4.16 ERA and 1.33 WHIP. The pitching matchup favors San Diego's Randy Vasquez over an inconsistent Jesus Luzardo, and a significant 79.5% of the betting handle is on the Padres moneyline, indicating sharp money.",
-          "awayRecord": "26-27",
-          "homeRecord": "31-21",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Arizona Diamondbacks @ San Francisco Giants",
-          "betType": "moneyline",
-          "pick": "Arizona Diamondbacks",
-          "odds": "+150",
-          "confidence": "high",
-          "rationale": "The Arizona Diamondbacks have dominated the head-to-head matchups this season, winning all three previous encounters with scores of 12-2, 5-3, and 6-3. Arizona enters this game in strong recent form, having won four of their last five games and currently on a two-game winning streak. Despite the Giants being favored, the Diamondbacks' more trustworthy offense and strong historical performance against San Francisco make the plus-money value highly attractive.",
-          "awayRecord": "28-24",
-          "homeRecord": "22-31",
+          "rationale": "The Cincinnati Reds have a significant pitching advantage with Chase Burns (6-1, 1.83 ERA, 0.95 WHIP) on the mound against a New York Mets team that has not announced a starter and is struggling offensively. The Mets are 1-4 in their last 5 games and lost 7-2 to the Reds yesterday. The moneyline has seen sharp movement in Cincinnati's favor, climbing from -118 to -126, indicating professional money backing the Reds. Given the Mets' current offensive woes and key injuries to Francisco Lindor, Tylor Megill, and Justin Hagenman, the Reds are in a strong position to secure another victory.",
+          "awayRecord": "28-25",
+          "homeRecord": "22-32",
           "awayLast5": [
             "W",
             "W",
@@ -320,46 +272,46 @@
             "W"
           ],
           "homeLast5": [
+            "W",
             "L",
             "L",
             "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Miami Marlins @ Toronto Blue Jays",
-          "betType": "moneyline",
-          "pick": "Toronto Blue Jays",
-          "odds": "-152",
-          "confidence": "medium",
-          "rationale": "The Toronto Blue Jays are on a four-game winning streak, showing strong momentum as they return home. They have a significant pitching advantage with Trey Yesavage, who has been brilliant since returning from the injured list with a 1.07 ERA and no home runs allowed this season. In contrast, Miami's starter Janson Junk carries a 5.07 ERA. The Blue Jays' offense is also showing signs of waking up, further supporting a home victory.",
-          "awayRecord": "25-29",
-          "homeRecord": "25-28",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
             "L"
           ]
         },
         {
-          "game": "Colorado Rockies @ Los Angeles Dodgers",
+          "game": "New York Yankees @ Kansas City Royals",
           "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "-150",
-          "confidence": "medium",
-          "rationale": "The Dodgers are a dominant force with a 33-20 record and have won eight of their last ten games. The Rockies, conversely, are in last place at 20-34 and will start Tanner Gordon, who has a 6.59 ERA and a 1.50 WHIP, with his team holding an 0-7 record in his appearances. Los Angeles has also controlled the season series, winning three of four matchups, including decisive 12-3 and 7-1 victories. The significant pitching mismatch and the Dodgers' superior form make them a strong play on the run line.",
-          "awayRecord": "20-34",
-          "homeRecord": "33-20",
+          "pick": "New York Yankees -1.5",
+          "odds": "+108",
+          "confidence": "high",
+          "rationale": "The New York Yankees are on a 12-game winning streak against the Kansas City Royals, including a 4-3 victory yesterday. New York boasts a significant pitching advantage with Cam Schlittler (6-2, 1.50 ERA) facing a Royals team expected to use a bullpen game after their starter went deep yesterday. The line movement reflects confidence in the Yankees, with their runline moving from -1.5 (-120) to -1.5 (-125), and public betting heavily favoring New York with 89.2% of tickets and 84.3% of the money. The Royals have struggled as underdogs this season, winning only 37.5% of such games.",
+          "awayRecord": "32-22",
+          "homeRecord": "22-32",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "St. Louis Cardinals @ Milwaukee Brewers",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers",
+          "odds": "-146",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers are in excellent recent form, boasting a 7-3 record in their last 10 games, and they defeated the St. Louis Cardinals 5-1 yesterday. Milwaukee's starting pitcher, Jacob Misiorowski, is pitching exceptionally well with a 5-2 record, 1.83 ERA, 0.83 WHIP, and 12 strikeouts in his last outing. The Brewers are at home and have demonstrated superior recent performance and a dominant starting pitcher, making them a confident pick against the Cardinals.",
+          "awayRecord": "29-23",
+          "homeRecord": "31-20",
           "awayLast5": [
             "L",
             "L",
@@ -371,8 +323,58 @@
             "W",
             "W",
             "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Atlanta Braves @ Boston Red Sox",
+          "betType": "moneyline",
+          "pick": "Atlanta Braves",
+          "odds": "-118",
+          "confidence": "medium",
+          "rationale": "The Atlanta Braves have a strong head-to-head record against the Boston Red Sox in recent seasons, holding an 8-5 advantage in their last 13 matchups. The Braves are a significantly stronger team overall with a 36-18 season record compared to Boston's 22-30. The Red Sox are also 0-5 in their last 5 head-to-head games against the Braves, indicating recent dominance by Atlanta. Despite playing on the road, the Braves' superior form and historical advantage in recent contests make them a strong moneyline play.",
+          "awayRecord": "36-18",
+          "homeRecord": "22-30",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Cincinnati Reds @ New York Mets",
+          "betType": "prop",
+          "pick": "Chase Burns Over 6.5 Strikeouts",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "Cincinnati Reds pitcher Chase Burns has been outstanding this season, boasting a 1.83 ERA and an elite 9.76 K/9 rate over 59.0 innings pitched. He is confirmed active and starting for the Reds today. Burns is facing a struggling New York Mets offense that has a .643 team OPS and is missing key players due to injury, including Francisco Lindor. Given Burns' demonstrated ability to miss bats at an elite clip and the Mets' offensive struggles, he is well-positioned to exceed 6.5 strikeouts in this matchup.",
+          "propPlayer": "Chase Burns",
+          "propTeam": "Cincinnati Reds",
+          "awayRecord": "28-25",
+          "homeRecord": "22-32",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
             "W",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "L"
           ]
         }
       ]

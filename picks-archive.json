@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-05-25",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "New York Knicks vs Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "New York Knicks -2.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Knicks 130, Cleveland Cavaliers 93"
+          },
+          {
+            "game": "New York Knicks vs Cleveland Cavaliers",
+            "betType": "moneyline",
+            "pick": "New York Knicks (-135)",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Knicks 130, Cleveland Cavaliers 93"
+          },
+          {
+            "game": "New York Knicks vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Over 218.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Knicks 130, Cleveland Cavaliers 93"
+          },
+          {
+            "game": "New York Knicks vs Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers +2.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Knicks 130, Cleveland Cavaliers 93"
+          },
+          {
+            "game": "New York Knicks vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Under 218.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Knicks 130, Cleveland Cavaliers 93"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 3, Montreal Canadiens 2"
+          },
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Carolina Hurricanes 3, Montreal Canadiens 2"
+          },
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "spread",
+            "pick": "Montreal Canadiens +1.5",
+            "odds": "-220",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 3, Montreal Canadiens 2"
+          },
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "prop",
+            "pick": "Logan Stankoven Over 0.5 Points",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Logan Stankoven: not found in box score"
+          },
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+176",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Carolina Hurricanes 3, Montreal Canadiens 2"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Seattle Mariners @ Athletics",
+            "betType": "moneyline",
+            "pick": "Athletics",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Seattle Mariners 9, Athletics 2"
+          },
+          {
+            "game": "Philadelphia Phillies @ San Diego Padres",
+            "betType": "moneyline",
+            "pick": "San Diego Padres",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Phillies 3, San Diego Padres 0"
+          },
+          {
+            "game": "Arizona Diamondbacks @ San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks",
+            "odds": "+150",
+            "confidence": "high",
+            "result": "W",
+            "score": "Arizona Diamondbacks 6, San Francisco Giants 2"
+          },
+          {
+            "game": "Miami Marlins @ Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Toronto Blue Jays",
+            "odds": "-152",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Miami Marlins 8, Toronto Blue Jays 2"
+          },
+          {
+            "game": "Colorado Rockies @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-150",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Rockies 3, Los Angeles Dodgers 5"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-24",
     "sports": [
       {
