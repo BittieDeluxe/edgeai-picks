@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-05-26",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "San Antonio Spurs +4.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 114, Oklahoma City Thunder 127"
+          },
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "total",
+            "pick": "Under 217.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 114, Oklahoma City Thunder 127"
+          },
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "prop",
+            "pick": "Victor Wembanyama Over 26.5 Points",
+            "odds": "N/A (verified line provided)",
+            "confidence": "high",
+            "result": "L",
+            "score": "Victor Wembanyama: 20 Points (line 26.5)"
+          },
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "moneyline",
+            "pick": "San Antonio Spurs (+142)",
+            "odds": "+142",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 114, Oklahoma City Thunder 127"
+          },
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "prop",
+            "pick": "Shai Gilgeous-Alexander Under 29.5 Points",
+            "odds": "N/A (verified line provided)",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Shai Gilgeous-Alexander: 32 Points (line 29.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Colorado Avalanche @ Vegas Golden Knights",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Avalanche 1, Vegas Golden Knights 2"
+          },
+          {
+            "game": "Colorado Avalanche @ Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-138",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Avalanche 1, Vegas Golden Knights 2"
+          },
+          {
+            "game": "Colorado Avalanche @ Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Vegas Golden Knights +1.5",
+            "odds": "-265",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Avalanche 1, Vegas Golden Knights 2"
+          },
+          {
+            "game": "Colorado Avalanche @ Vegas Golden Knights",
+            "betType": "moneyline",
+            "pick": "Colorado Avalanche",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Avalanche 1, Vegas Golden Knights 2"
+          },
+          {
+            "game": "Colorado Avalanche @ Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Colorado Avalanche -1.5",
+            "odds": "+205",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Avalanche 1, Vegas Golden Knights 2"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cincinnati Reds @ New York Mets",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 7, New York Mets 2"
+          },
+          {
+            "game": "New York Yankees @ Kansas City Royals",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+108",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Yankees 15, Kansas City Royals 1"
+          },
+          {
+            "game": "St. Louis Cardinals @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-146",
+            "confidence": "high",
+            "result": "W",
+            "score": "St. Louis Cardinals 0, Milwaukee Brewers 6"
+          },
+          {
+            "game": "Atlanta Braves @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Braves 7, Boston Red Sox 6"
+          },
+          {
+            "game": "Cincinnati Reds @ New York Mets",
+            "betType": "prop",
+            "pick": "Chase Burns Over 6.5 Strikeouts",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chase Burns: 8 Strikeouts (line 6.5)"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-25",
     "sports": [
       {
