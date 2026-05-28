@@ -2,8 +2,9 @@ name: Generate Daily Picks
 
 on:
   schedule:
-    # 4 PM ET (EDT=UTC-4) = 20:00 UTC. Lines are fully posted by mid-afternoon.
-    - cron: '0 20 * * *'
+    # 1 PM ET (EDT=UTC-4) = 17:00 UTC. GitHub Actions can be queued 5-30 min,
+    # so picks typically land between 1:00 and 1:30 PM ET.
+    - cron: '0 17 * * *'
   workflow_dispatch: # Allow manual runs from the Actions tab
 
 jobs:

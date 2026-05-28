@@ -308,6 +308,32 @@ If ${sport} has no games today, return {"picks": []}.`;
       return true;
     });
 
+    // Sanity-check totals — Gemini occasionally hallucinates a soccer-style total
+    // (e.g. "Over 2.5") on an MLB game when its Google Search hits a different market.
+    // Drop totals that fall outside the realistic range for the sport.
+    const TOTAL_RANGES = {
+      NBA:      [180, 260],
+      NCAAB:    [110, 180],
+      NHL:      [3.5, 8.5],
+      MLB:      [5,   14],
+      NFL:      [30,  60],
+      MLS:      [1.5, 5.5],
+      UCL:      [1.5, 5.5],
+      UEL:      [1.5, 5.5],
+      WORLDCUP: [1.5, 5.5],
+    };
+    picks = picks.filter(p => {
+      if (p.betType !== 'total') return true;
+      const range = TOTAL_RANGES[sport];
+      if (!range) return true;
+      const m = (p.pick ?? '').match(/^(?:Over|Under)\s+([\d.]+)/i);
+      if (!m) return true;
+      const line = parseFloat(m[1]);
+      if (line >= range[0] && line <= range[1]) return true;
+      console.log(`  ✗ Dropping implausible ${sport} total: "${p.pick}" (line ${line} outside ${range[0]}–${range[1]})`);
+      return false;
+    });
+
     // Enforce realistic confidence distribution — Gemini marks everything high by default.
     // Downgrade to medium if: ML dogs longer than +200, flat totals (±115), lower-priority
     // picks (4 & 5), or NBA spreads (historically 45% win rate — not a reliable edge).
@@ -352,27 +378,51 @@ If ${sport} has no games today, return {"picks": []}.`;
 }
 
 // ─── Player prop grading ──────────────────────────────────────────────────
+// Per-sport prop-name → ESPN stat key. Values can be a string (one column)
+// or an array (sum across columns, e.g. NHL "points" = G + A).
+// ESPN exposes the stat key as `names` (NBA/MLB) or `labels` (NHL).
+const SPORT_PROP_STATS = {
+  NBA: {
+    'points': 'PTS', 'point': 'PTS',
+    'rebounds': 'REB', 'rebound': 'REB',
+    'assists': 'AST', 'assist': 'AST',
+    'steals': 'STL', 'steal': 'STL',
+    'blocks': 'BLK', 'block': 'BLK',
+    'three pointers': '3PT', 'three-pointers': '3PT',
+    'three pointers made': '3PT', 'three-pointers made': '3PT',
+    'threes': '3PT', 'threes made': '3PT', '3-pointers made': '3PT',
+    'turnovers': 'TO', 'turnover': 'TO',
+  },
+  NHL: {
+    'goals': 'G', 'goal': 'G',
+    'assists': 'A', 'assist': 'A',
+    'points': ['G', 'A'], 'point': ['G', 'A'],
+    'shots': 'S', 'shot': 'S',
+    'shots on goal': 'SOG', 'sog': 'SOG',
+    'saves': 'SV', 'save': 'SV',
+    'hits': 'HT', 'hit': 'HT',
+    'blocked shots': 'BS', 'blocks': 'BS', 'block': 'BS',
+    'penalty minutes': 'PIM', 'pim': 'PIM',
+  },
+  MLB: {
+    'hits': 'H', 'hit': 'H',
+    'home runs': 'HR', 'home run': 'HR',
+    'rbis': 'RBI', 'rbi': 'RBI', 'runs batted in': 'RBI',
+    'strikeouts': 'K', 'strikeout': 'K',
+    'walks': 'BB', 'walk': 'BB',
+    'runs': 'R', 'run': 'R',
+    'earned runs': 'ER',
+  },
+};
+
+// Back-compat union for cases that don't know the sport (e.g. legacy NBA playerProps grader)
 const PROP_STAT_KEYS = {
-  'points': 'PTS', 'point': 'PTS',
-  'rebounds': 'REB', 'rebound': 'REB',
-  'assists': 'AST', 'assist': 'AST',
-  'steals': 'STL', 'steal': 'STL',
-  'blocks': 'BLK', 'block': 'BLK',
-  'three pointers': '3PT', 'three-pointers': '3PT',
-  'three pointers made': '3PT', 'three-pointers made': '3PT',
-  'threes': '3PT', 'threes made': '3PT', '3-pointers made': '3PT',
-  'turnovers': 'TO', 'turnover': 'TO',
-  'goals': 'G', 'goal': 'G',
-  'nhl assists': 'A',
+  ...SPORT_PROP_STATS.NBA,
+  ...SPORT_PROP_STATS.MLB,
+  // NHL keys that don't conflict with NBA/MLB
+  'shots on goal': 'SOG', 'sog': 'SOG',
   'saves': 'SV', 'save': 'SV',
-  'shots': 'SOG', 'shots on goal': 'SOG',
-  'hits': 'H', 'hit': 'H',
-  'home runs': 'HR', 'home run': 'HR',
-  'rbis': 'RBI', 'rbi': 'RBI',
-  'strikeouts': 'K', 'strikeout': 'K',
-  'walks': 'BB', 'walk': 'BB',
-  'runs': 'R', 'run': 'R',
-  'runs batted in': 'RBI', 'earned runs': 'ER', 'innings pitched': 'IP',
+  'goals': 'G', 'goal': 'G',
 };
 
 function playerNameMatches(espnName, pickName) {
@@ -389,19 +439,29 @@ function playerNameMatches(espnName, pickName) {
 
 function findPlayerStat(summaryData, playerName, statKey) {
   const teams = summaryData.boxscore?.players ?? [];
+  // statKey may be a single string (e.g. 'PTS') or an array of stats to sum (e.g. ['G','A'] for NHL points)
+  const keys = Array.isArray(statKey) ? statKey : [statKey];
+
   for (const teamData of teams) {
     for (const statGroup of (teamData.statistics ?? [])) {
-      const colIndex = (statGroup.names ?? []).indexOf(statKey);
-      if (colIndex === -1) continue;
+      // ESPN uses `names` for NBA/MLB and `labels` for NHL. Fall back through both.
+      const cols = statGroup.names ?? statGroup.labels ?? [];
+      const indices = keys.map(k => cols.indexOf(k));
+      if (indices.some(i => i === -1)) continue;
+
       const athlete = (statGroup.athletes ?? []).find(a =>
         playerNameMatches(a.athlete?.displayName, playerName) ||
         playerNameMatches(a.athlete?.shortName, playerName)
       );
       if (!athlete) continue;
-      const raw = athlete.stats?.[colIndex] ?? '';
-      const value = parseFloat(raw);
-      if (isNaN(value)) continue;
-      return { value, display: raw };
+
+      const rawValues = indices.map(i => athlete.stats?.[i] ?? '');
+      const numericValues = rawValues.map(parseFloat);
+      if (numericValues.some(isNaN)) continue;
+
+      const total = numericValues.reduce((a, b) => a + b, 0);
+      const display = rawValues.length === 1 ? rawValues[0] : numericValues.join('+') + `=${total}`;
+      return { value: total, display };
     }
   }
   return null;
@@ -417,7 +477,8 @@ async function gradePropPick(pick, event, sport) {
   const [, playerName, direction, lineStr, rawStat] = m;
   const line = parseFloat(lineStr);
   const dir = direction.toLowerCase();
-  const statKey = PROP_STAT_KEYS[rawStat.toLowerCase().trim()];
+  const sportStats = SPORT_PROP_STATS[sport] ?? PROP_STAT_KEYS;
+  const statKey = sportStats[rawStat.toLowerCase().trim()];
 
   if (!statKey) {
     console.log(`  Prop stat not supported: "${rawStat}"`);
@@ -821,11 +882,12 @@ async function main() {
   function hasGradablePendingPicks(entry) {
     const gamePicksGradable = entry.sports.some(s => {
       if (!ESPN_MAP[s.sport]) return false;
+      const sportStats = SPORT_PROP_STATS[s.sport] ?? PROP_STAT_KEYS;
       return s.picks.some(p => {
         if (p.result !== '?') return false;
         if (p.betType === 'prop') {
           const m = p.pick.trim().match(/^.+?\s+(?:Over|Under)\s+[\d.]+\s+(.+)$/i);
-          return m ? !!PROP_STAT_KEYS[m[1].toLowerCase().trim()] : false;
+          return m ? !!sportStats[m[1].toLowerCase().trim()] : false;
         }
         return true;
       });
