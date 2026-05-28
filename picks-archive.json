@@ -1,1 +1,108 @@
-[]
+[
+  {
+    "date": "2026-05-27",
+    "sports": [
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "-152",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
+          },
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
+          },
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "spread",
+            "pick": "Montreal Canadiens +1.5",
+            "odds": "-196",
+            "confidence": "high",
+            "result": "L",
+            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
+          },
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+158",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
+          },
+          {
+            "game": "Carolina Hurricanes @ Montreal Canadiens",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "New York Yankees @ Kansas City Royals",
+            "betType": "moneyline",
+            "pick": "New York Yankees",
+            "odds": "-156",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Yankees 7, Kansas City Royals 0"
+          },
+          {
+            "game": "Colorado Rockies @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-166",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Rockies 1, Los Angeles Dodgers 4"
+          },
+          {
+            "game": "Atlanta Braves @ Boston Red Sox",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta Braves 0, Boston Red Sox 8"
+          },
+          {
+            "game": "Houston Astros @ Texas Rangers",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "+108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Astros 4, Texas Rangers 3"
+          },
+          {
+            "game": "Philadelphia Phillies @ San Diego Padres",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-194",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Phillies 3, San Diego Padres 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  }
+]

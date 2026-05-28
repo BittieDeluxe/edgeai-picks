@@ -1,127 +1,127 @@
 {
-  "date": "2026-05-27",
-  "generatedAt": "2026-05-27T22:01:18.753Z",
+  "date": "2026-05-28",
+  "generatedAt": "2026-05-28T19:33:31.016Z",
   "sports": [
     {
-      "sport": "NHL",
+      "sport": "NBA",
       "picks": [
         {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
+          "game": "Oklahoma City Thunder vs San Antonio Spurs",
+          "betType": "spread",
+          "pick": "San Antonio Spurs -3.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The San Antonio Spurs are playing at home in a must-win Game 6 of the Western Conference Finals, a situation where they have a strong 4-1 record coming off a playoff loss this season. Victor Wembanyama is expected to deliver a bounce-back performance after a subdued Game 5, with his coach emphasizing increased shot attempts. The Thunder are dealing with significant injuries to Jalen Williams (questionable) and Ajay Mitchell (out), which could limit their offensive depth. The line movement from an opening of Spurs -2.5 to the current -3.5 further suggests sharp money is backing San Antonio to cover.",
+          "awayRecord": "64-18",
+          "homeRecord": "62-20",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Oklahoma City Thunder vs San Antonio Spurs",
+          "betType": "total",
+          "pick": "Over 218.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "This Western Conference Finals series has consistently featured high-scoring games, with four out of the five matchups exceeding the total and the teams averaging 225.8 combined points per game. The Spurs, facing elimination at home, have gone Over the total in 5 of their 8 home playoff games this season. With Victor Wembanyama anticipated to be more aggressive offensively and the Thunder's ability to maintain scoring even with injuries, a high-scoring contest is highly probable.",
+          "awayRecord": "64-18",
+          "homeRecord": "62-20",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Oklahoma City Thunder vs San Antonio Spurs",
           "betType": "moneyline",
-          "pick": "Carolina Hurricanes",
-          "odds": "-152",
+          "pick": "San Antonio Spurs (-158)",
+          "odds": "-158",
           "confidence": "high",
-          "rationale": "The Carolina Hurricanes are the stronger team, boasting a 53-22-7 record overall and a dominant 9-1-0 record in their last 10 games, including a 10-1-0 playoff record. They lead the series 2-1 and have seen significant line movement in their favor, from -137 to -152, indicating sharp money. With a solid road record of 24-12-5, Carolina is well-positioned to take a commanding 3-1 series lead against a Canadiens team that has lost five of their seven home playoff games.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
+          "rationale": "The San Antonio Spurs are in a do-or-die Game 6 at home, a scenario where they have shown resilience with a 4-1 record coming off a playoff loss this postseason. Victor Wembanyama is expected to be highly motivated and deliver a dominant performance after his coach called for more shots following Game 5. The Thunder are contending with key injuries, including Jalen Williams being questionable, which could impact their ability to close out the series on the road. Given the home-court advantage and the Spurs' desperation, they are a strong pick to win outright and force a Game 7.",
+          "awayRecord": "64-18",
+          "homeRecord": "62-20",
           "awayLast5": [
+            "L",
             "W",
             "W",
             "L",
-            "W",
             "W"
           ],
           "homeLast5": [
-            "L",
-            "W",
             "W",
             "L",
+            "L",
+            "W",
             "L"
           ]
         },
         {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
-          "betType": "total",
-          "pick": "Under 5.5",
-          "odds": "-106",
-          "confidence": "medium",
-          "rationale": "The last two games in this Eastern Conference Final series have both ended with a score of 3-2 in overtime, resulting in a total of 5 goals and hitting the Under 5.5. Carolina's defense has been exceptional in the playoffs, allowing only 1.8 goals per game, and they held Montreal to just 13 shots in Game 3. This defensive prowess and Montreal's struggles to generate consistent offense against the Hurricanes strongly support another low-scoring affair.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
+          "game": "Oklahoma City Thunder vs San Antonio Spurs",
           "betType": "spread",
-          "pick": "Montreal Canadiens +1.5",
-          "odds": "-196",
-          "confidence": "high",
-          "rationale": "Despite losing the last two games in the series, the Montreal Canadiens covered the +1.5 spread in both instances, as they were 3-2 overtime losses. Playing at home, Montreal will be desperate to avoid falling into a 3-1 series deficit, which should fuel a resilient performance to keep the game close. With Patrik Laine sidelined for the Canadiens, their offensive output might be limited, but their determination to stay in the game makes the +1.5 spread a high-confidence pick.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
-          "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "+158",
+          "pick": "Oklahoma City Thunder +3.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "While the last two games were tight overtime victories, the Carolina Hurricanes have consistently dominated puck possession and shot generation throughout the series, outshooting Montreal 93-47 over three games. Carolina is a top offensive team, ranking second in the NHL with an average of 3.6 goals per game in the regular season, and they are looking to assert their dominance with a decisive victory to take a 3-1 series lead. Montreal's struggles at home in the playoffs, with five losses in seven games, further enhance the Hurricanes' chances of covering the -1.5 spread.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
+          "rationale": "The Oklahoma City Thunder, as the top-seeded team with a 64-18 record and defending champions, possess significant talent and experience. They have demonstrated remarkable resilience, not losing back-to-back playoff games in the last two seasons. Despite injuries to Ajay Mitchell (out) and Jalen Williams (questionable), the Thunder secured a convincing Game 5 victory, showcasing their depth. With two-time MVP Shai Gilgeous-Alexander leading the charge, OKC has the capability to keep this game close or even win on the road, as they have closed out two previous series this postseason away from home.",
+          "awayRecord": "64-18",
+          "homeRecord": "62-20",
           "awayLast5": [
+            "L",
             "W",
             "W",
             "L",
-            "W",
             "W"
           ],
           "homeLast5": [
-            "L",
-            "W",
             "W",
             "L",
+            "L",
+            "W",
             "L"
           ]
         },
         {
-          "game": "Carolina Hurricanes @ Montreal Canadiens",
+          "game": "Oklahoma City Thunder vs San Antonio Spurs",
           "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-114",
+          "pick": "Under 218.5",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "Despite two recent low-scoring games, the first game of this series saw a total of 8 goals, with Montreal winning 6-2, demonstrating both teams' offensive capabilities. The Hurricanes averaged 3.6 goals per game in the regular season, while the Canadiens averaged 3.4 goals per game. With Montreal facing a crucial home game to avoid a 3-1 deficit, they are expected to push offensively, potentially leading to a more open game with increased scoring opportunities for both sides, pushing the total Over 5.5.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "48-24-10",
+          "rationale": "While the series has seen high-scoring games, Game 4 in San Antonio resulted in a significantly lower total of 185 points, indicating the potential for a defensive battle. The Spurs boast a strong defense, ranking 3rd in Defensive Rating with 111.3, which could stifle the Thunder's offense. Playoff intensity often leads to tighter games with increased defensive effort and fewer easy scoring opportunities. Furthermore, the Thunder are missing key offensive contributors in Ajay Mitchell (out) and potentially Jalen Williams (questionable), which could depress their overall scoring output.",
+          "awayRecord": "64-18",
+          "homeRecord": "62-20",
           "awayLast5": [
+            "L",
             "W",
             "W",
             "L",
-            "W",
             "W"
           ],
           "homeLast5": [
-            "L",
-            "W",
             "W",
             "L",
+            "L",
+            "W",
             "L"
           ]
         }
@@ -131,122 +131,98 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "New York Yankees @ Kansas City Royals",
-          "betType": "moneyline",
-          "pick": "New York Yankees",
-          "odds": "-156",
-          "confidence": "high",
-          "rationale": "The New York Yankees enter this matchup on a three-game winning streak, demonstrating strong current form. They also boast a remarkable 12-game regular-season winning streak against the Kansas City Royals, a trend that includes a postseason victory and highlights their historical dominance in this matchup. Furthermore, Yankees' probable starter Cam Schlittler has been exceptional this season, holding a 1.50 ERA with 81 strikeouts and 7 wins, providing a significant pitching advantage. The Royals, conversely, have lost two straight and are 3-7 in their last ten games, compounded by key injuries such as Jonathan India being out for the season.",
-          "awayRecord": "33-22",
-          "homeRecord": "22-33",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Colorado Rockies @ Los Angeles Dodgers",
-          "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "-166",
-          "confidence": "high",
-          "rationale": "The Los Angeles Dodgers are a strong pick on the run line, primarily due to the dominant pitching of Shohei Ohtani, who boasts a 0.74 ERA and 0.84 WHIP with an elite strikeout rate. The Colorado Rockies' starter, Tomoyuki Sugano, has a respectable ERA but a low strikeout rate and a concerning FIP of 5.09, indicating potential regression. The Dodgers' offense is formidable, having scored 15 runs in their last game against the Rockies, and they are 25-1 when scoring 5 or more runs this season. Given the significant talent disparity and Ohtani's elite performance, a multi-run victory for the Dodgers is highly anticipated.",
-          "awayRecord": "20-36",
-          "homeRecord": "35-20",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
           "game": "Atlanta Braves @ Boston Red Sox",
           "betType": "spread",
           "pick": "Atlanta Braves -1.5",
-          "odds": "+130",
+          "odds": "+140",
           "confidence": "high",
-          "rationale": "The Atlanta Braves, with a strong 37-18 record, are significantly outperforming the Boston Red Sox, who sit at 22-31 and are currently on a four-game losing streak. While the Braves are dealing with some injuries, including Sean Murphy and Ronald Acuna Jr. day-to-day, the Red Sox are also missing key players like Tanner Houck and Triston Casas on the 60-day IL. Atlanta's superior overall team performance and Boston's recent struggles, combined with the favorable odds for the Braves on the run line, suggest they are well-positioned to secure a victory by more than one run.",
-          "awayRecord": "37-18",
-          "homeRecord": "22-31",
+          "rationale": "The Braves are in a strong bounce-back spot after yesterday's loss, boasting an impressive 27-11 record as betting favorites and the best road record in baseball. Atlanta sends ace Chris Sale (1.89 ERA) to the mound, providing a significant pitching advantage over the Red Sox. Boston's bullpen is weakened by Garrett Whitlock's injury, and the Red Sox have struggled as underdogs this season with a 6-17 record. The moneyline has also tightened in Atlanta's favor, with heavy public and sharp money on the Braves, further supporting this pick.",
+          "awayRecord": "37-19",
+          "homeRecord": "23-31",
           "awayLast5": [
             "W",
+            "L",
+            "L",
             "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Chicago Cubs @ Pittsburgh Pirates",
+          "betType": "spread",
+          "pick": "Pittsburgh Pirates -1.5",
+          "odds": "+122",
+          "confidence": "high",
+          "rationale": "The Pirates hold a clear pitching advantage with Paul Skenes (3.00 ERA) on the mound, who has an impressive 0.51 ERA in night games this season. In contrast, Cubs starter Colin Rea (4.83 ERA) is trending downwards, allowing 21 earned runs in his last 30 innings. Pittsburgh's offense is potent at home, boasting the best home batting average in MLB (.276). Furthermore, the Pirates have a strong trend of winning when coming off a loss and receiving favorable line movement, as they are here.",
+          "awayRecord": "30-26",
+          "homeRecord": "29-27",
+          "awayLast5": [
+            "L",
+            "L",
             "L",
             "L",
             "W"
           ],
           "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Toronto Blue Jays @ Baltimore Orioles",
+          "betType": "moneyline",
+          "pick": "Toronto Blue Jays (+108)",
+          "odds": "+108",
+          "confidence": "high",
+          "rationale": "The Blue Jays are drawing significant public support at plus money, with 67% of tickets on Toronto despite the Orioles being slight favorites. Toronto's team pitching profile is superior, and Orioles starter Chris Bassitt (5.51 ERA) has shown recent vulnerability, allowing 8 earned runs in his last two starts. Blue Jays starter Patrick Corbin (3.86 ERA) is coming off a strong outing, and the Blue Jays offense has favorable matchups against Bassitt, making the road underdog a valuable play.",
+          "awayRecord": "27-29",
+          "homeRecord": "26-30",
+          "awayLast5": [
             "W",
             "L",
             "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
             "L",
-            "L"
+            "W",
+            "W",
+            "W"
           ]
         },
         {
           "game": "Houston Astros @ Texas Rangers",
-          "betType": "total",
-          "pick": "Over 7.5",
-          "odds": "+108",
+          "betType": "spread",
+          "pick": "Houston Astros +1.5",
+          "odds": "-192",
           "confidence": "medium",
-          "rationale": "Despite the total line dropping from 8 to 7.5, creating a contrarian opportunity, the Houston Astros' offense has shown it can perform well in favorable matchups. Yordan Alvarez is a significant offensive threat for the Astros, hitting .303 with 18 home runs, and has a strong historical record against Jacob deGrom. Although deGrom is pitching for the Rangers, his ERA has risen in May, and he has allowed 12 home runs in 10 starts, including eight in his last four May starts. The Rangers' offense, featuring players like Jake Burger and Josh Jung, should also be able to generate runs against Mike Burrows, who has allowed 12 home runs in fewer innings. This combination of offensive potential and pitching vulnerabilities points to the Over.",
-          "awayRecord": "24-32",
-          "homeRecord": "25-29",
+          "rationale": "The Astros have demonstrated strong recent form, winning four of their last five games and holding a 2-1 series lead against the Rangers. Houston also has a favorable head-to-head record against Texas, going 17-13 in their last 30 matchups. While Spencer Arrighetti has a high walk rate, the Astros' offense has been more explosive this season, and the Rangers were recently swept by the Angels, indicating their own struggles. Taking the Astros with the +1.5 run line offers a solid cushion in what is expected to be a competitive divisional matchup.",
+          "awayRecord": "25-32",
+          "homeRecord": "25-30",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
             "L",
             "L",
             "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ San Diego Padres",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-194",
-          "confidence": "medium",
-          "rationale": "The verified total of 2.5 for this MLB game is exceptionally low, presenting a strong opportunity for the Over. The Philadelphia Phillies have already won the first two games of this series with scores of 3-0 and 4-3, demonstrating their ability to score at least three runs. While Phillies' starter Cristopher Sanchez has a strong 1.62 ERA, Padres' starter Walker Buehler carries a 5.05 ERA, offering offensive opportunities for Philadelphia. Furthermore, public betting trends show a significant lean towards the Over (70.7% of tickets and 64.6% of the money), suggesting that bettors anticipate more than 2.5 runs despite the unusually low line.",
-          "awayRecord": "28-27",
-          "homeRecord": "31-23",
-          "awayLast5": [
-            "L",
             "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
             "L"
           ]
         }
