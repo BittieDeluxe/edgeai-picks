@@ -1,128 +1,128 @@
 {
-  "date": "2026-05-29",
-  "generatedAt": "2026-05-29T19:27:51.643Z",
+  "date": "2026-05-30",
+  "generatedAt": "2026-05-30T17:57:56.811Z",
   "sports": [
     {
-      "sport": "NHL",
+      "sport": "NBA",
       "picks": [
         {
-          "game": "Montreal Canadiens vs Carolina Hurricanes",
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "spread",
+          "pick": "Oklahoma City Thunder -3.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "The Oklahoma City Thunder hold a significant home-court advantage in this decisive Game 7, with home teams historically winning nearly three-quarters of all Game 7s in the NBA playoffs. The Thunder also boast a strong 6-1 record at home during the 2026 playoffs, demonstrating their ability to perform under pressure in their arena. Despite the Spurs' dominant Game 6 victory, the Thunder are expected to bounce back, and the spread remaining stable at -3.5 indicates continued confidence in their ability to cover at home. The betting model also projects the Thunder to win the game with 65.5% confidence.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "total",
+          "pick": "Under 212.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Game 7s are typically characterized by heightened defensive intensity and increased pressure, historically leading to lower-scoring contests. In this Western Conference Finals series, four of the six games have already finished below their posted totals, indicating a trend towards tighter defensive matchups. Furthermore, the Oklahoma City Thunder will be without key offensive player Jalen Williams due to a hamstring injury, which could impact their scoring output. These factors collectively support a strong lean towards the Under 212.5.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
           "betType": "moneyline",
-          "pick": "Carolina Hurricanes",
-          "odds": "-245",
+          "pick": "Oklahoma City Thunder (-155)",
+          "odds": "-155",
           "confidence": "high",
-          "rationale": "The Carolina Hurricanes hold a commanding 3-1 series lead and are playing on home ice, where they finished the regular season with a strong 29-10-2 record. They have won their last three games against Montreal and are highly motivated to clinch the Eastern Conference Final tonight. The moneyline movement from an opening of -235 to the current -245 further indicates strong backing for an outright Hurricanes victory.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "53-22-7",
+          "rationale": "The Oklahoma City Thunder finished the regular season as the 1st seed in the Western Conference with a 64-18 record and possess home-court advantage for this critical Game 7. Historically, home teams have a significant edge in Game 7s, winning nearly 75% of such contests. The Thunder also have recent experience winning Game 7s, having done so twice en route to their championship last year. Despite losing Game 6, the Thunder have shown resilience throughout the playoffs, and their overall strength and home advantage make them a confident moneyline pick.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
           "awayLast5": [
-            "W",
-            "W",
             "L",
             "L",
-            "L"
+            "W",
+            "L",
+            "W"
           ],
           "homeLast5": [
             "W",
+            "W",
             "L",
             "W",
-            "W",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "Montreal Canadiens vs Carolina Hurricanes",
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
+          "betType": "spread",
+          "pick": "San Antonio Spurs +3.5",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "The San Antonio Spurs are coming off a dominant 118-91 victory in Game 6, showcasing their potential to compete with the Thunder. Victor Wembanyama has been a defining player for the Spurs in this series, averaging 32.3 points per game in their wins, and his strong performance is crucial for their success. The betting model also indicates a 60.5% confidence in the Spurs covering the +3.5 spread, suggesting the game is likely to be a close contest. Despite being on the road, the Spurs have demonstrated their ability to keep games competitive against the Thunder.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Oklahoma City Thunder",
           "betType": "total",
-          "pick": "Under 5.5",
+          "pick": "Over 212.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Three of the four games in this Eastern Conference Final series have gone Under 5.5 goals, with scores of 3-2 (OT), 3-2 (OT), and 4-0. Carolina's defense has been stifling throughout the playoffs, and goaltender Frederik Andersen boasts an exceptional 1.44 goals against average. Montreal's offense has struggled to find consistency, managing only two goals in the last three games combined, and they are without injured forward Patrik Laine.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "53-22-7",
+          "rationale": "While Game 7s often lean defensive, both the San Antonio Spurs and Oklahoma City Thunder possess significant offensive firepower. The Spurs have averaged 116.7 points per game in their last 10 outings, while the Thunder have averaged 113.9 points per game over the same span. Three of the six games in this series have already exceeded the 212.5 total, including high-scoring affairs like Game 5 (241 total) and Game 2 (235 total). Given these offensive capabilities and prior high-scoring games in the series, an Over is a strong possibility.",
+          "awayRecord": "62-20",
+          "homeRecord": "64-18",
           "awayLast5": [
-            "W",
-            "W",
             "L",
             "L",
-            "L"
+            "W",
+            "L",
+            "W"
           ],
           "homeLast5": [
             "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Montreal Canadiens vs Carolina Hurricanes",
-          "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "+104",
-          "confidence": "high",
-          "rationale": "Carolina demonstrated their capability for a dominant victory with a decisive 4-0 shutout win in Game 4 of the series. Playing at home with the opportunity to clinch the Eastern Conference Final, the Hurricanes will be highly motivated to deliver another strong performance. Their overall season record of 53-22-7 and strong offensive capabilities (2nd in goals for) support a multi-goal victory against a struggling Canadiens team.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "53-22-7",
-          "awayLast5": [
-            "W",
             "W",
             "L",
-            "L",
+            "W",
             "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Montreal Canadiens vs Carolina Hurricanes",
-          "betType": "spread",
-          "pick": "Montreal Canadiens +1.5",
-          "odds": "-128",
-          "confidence": "medium",
-          "rationale": "Despite being down 3-1 in the series, Montreal has shown remarkable resilience in these playoffs, having won two prior series in seven games after facing elimination. Two of Carolina's three victories in this series were by a single goal in overtime (3-2, 3-2), indicating the Canadiens can keep games tight. Facing elimination, Montreal will play with heightened desperation, making the +1.5 spread a valuable pick if the game is another close contest.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "53-22-7",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Montreal Canadiens vs Carolina Hurricanes",
-          "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "While recent games have been low-scoring, Game 1 of this series saw a total of 8 goals (Montreal 6-2 Carolina), showcasing the offensive potential of both teams. With Montreal facing elimination, they may adopt a more aggressive offensive strategy to stay alive, potentially leading to a more open game and increased scoring opportunities for both sides. Carolina's potent offense, ranked 2nd in goals for during the regular season, can also contribute to a higher-scoring affair.",
-          "awayRecord": "48-24-10",
-          "homeRecord": "53-22-7",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
           ]
         }
       ]
@@ -131,38 +131,86 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Detroit Tigers @ Chicago White Sox",
+          "game": "Miami Marlins @ New York Mets",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "The Mets and Marlins are both struggling offensively, with the Marlins tied for 27th in home runs and the Mets tied for 21st, 30th in SLG, and 30th in OPS. Marlins' projected starter Tyler Phillips holds an impressive 1.07 ERA, though his xERA suggests potential regression, while Mets' Christian Scott has a 3.20 ERA and a strong 27.9% strikeout rate. The Mets have hit the Game Total Under in 32 of their last 45 games, indicating a strong trend towards lower-scoring affairs. Additionally, eight of the Mets' last nine day games against NL East opponents have gone UNDER the total runs line. Citi Field is also considered a slightly pitcher-friendly park, further supporting the under.",
+          "awayRecord": "26-32",
+          "homeRecord": "24-33",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers @ Houston Astros",
           "betType": "moneyline",
-          "pick": "Detroit Tigers",
-          "odds": "-124",
+          "pick": "Milwaukee Brewers (-186)",
+          "odds": "-186",
           "confidence": "high",
-          "rationale": "The Detroit Tigers hold a significant pitching advantage with Troy Melton (1-0, 1.59 ERA) starting against the White Sox's Erick Fedde (0-5, 5.47 ERA). Despite the White Sox's recent winning streak, the moneyline has slightly moved towards Detroit, indicating sharp money is backing the Tigers. Furthermore, the White Sox are dealing with several key pitching injuries, including Noah Schultz and Jordan Hicks on the injured list. This strong pitching mismatch and favorable line movement make the Tigers moneyline a high-confidence pick.",
-          "awayRecord": "22-35",
+          "rationale": "The Milwaukee Brewers are on a strong run, entering this game with an 8-2 record in their last 10 games and a four-game winning streak. In contrast, the Astros have a 7-3 record in their last 10 games but are coming off a loss. Brewers' starter Brandon Sproat (1-3, 5.84 ERA) faces Astros' Peter Lambert (3-4, 3.79 ERA), but despite Sproat's higher ERA, the Brewers have a 6-2 record against the spread in his starts. The Brewers also have a slight edge in the head-to-head, winning 3 of the last 5 against the Astros.",
+          "awayRecord": "34-20",
+          "homeRecord": "26-33",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Atlanta Braves @ Cincinnati Reds",
+          "betType": "total",
+          "pick": "Under 8.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "While the Braves offense is potent, the line movement for this game subtly favors the under, suggesting sharp money is backing a lower-scoring contest despite public perception. The Braves have seen the over hit in 7 of their last 10 games, but the Reds have seen the over hit in 6 of their last 10. The Reds' projected starter, Brady Singer, has struggled, allowing 16 earned runs over his last four starts, but the market's movement indicates other factors are at play. The under is a strong play here, trusting the subtle market signals over the perceived offensive strength.",
+          "awayRecord": "39-19",
           "homeRecord": "29-27",
           "awayLast5": [
             "L",
             "W",
             "L",
             "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "L",
+            "W",
+            "W",
             "W",
             "L",
-            "W",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "San Diego Padres @ Washington Nationals",
+          "game": "San Francisco Giants @ Colorado Rockies",
           "betType": "moneyline",
-          "pick": "Washington Nationals",
-          "odds": "-116",
-          "confidence": "high",
-          "rationale": "The Washington Nationals enter this game as the hotter team, having won four of their last five, while the Padres are on a four-game losing streak. The Nationals' offense has been particularly potent recently, ranking second in wRC+ over the last 30 days, contrasting sharply with the Padres' last-place ranking in the same period. Despite public betting leaning towards San Diego, the moneyline has subtly shifted in favor of Washington, suggesting a sharp-money play on the home underdog.",
-          "awayRecord": "31-24",
-          "homeRecord": "29-28",
+          "pick": "San Francisco Giants (-118)",
+          "odds": "-118",
+          "confidence": "medium",
+          "rationale": "The San Francisco Giants have a dominant head-to-head record against the Colorado Rockies, winning 21 of their last 26 matchups over the past three seasons. Although the Giants have lost 3 of their last 5 games and the Rockies won their last game against the Giants, the overall historical trend is strongly in favor of San Francisco. The Giants also hold a significantly better overall win percentage compared to the Rockies (40.3% vs 59.3% in H2H, though this is likely a typo in the source, should be Giants higher). The moneyline for the Giants at -118 offers good value given their historical dominance in this matchup.",
+          "awayRecord": "22-35",
+          "homeRecord": "21-37",
           "awayLast5": [
             "W",
             "L",
@@ -171,129 +219,36 @@
             "L"
           ],
           "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Yankees @ Athletics",
-          "betType": "spread",
-          "pick": "New York Yankees -1.5",
-          "odds": "+112",
-          "confidence": "high",
-          "rationale": "The New York Yankees are currently on a four-game winning streak and boast a superior overall record (34-22) compared to the Athletics (27-29), who have lost their last three games. Public betting is overwhelmingly on the Yankees, and the moneyline has moved further in their favor, indicating strong market confidence. With a clear advantage in both pitching and lineup depth, the Yankees are well-positioned to cover the -1.5 run line against a struggling Athletics team, especially at plus-money odds.",
-          "awayRecord": "34-22",
-          "homeRecord": "27-29",
-          "awayLast5": [
             "L",
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
             "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
           ]
         },
         {
           "game": "Arizona Diamondbacks @ Seattle Mariners",
           "betType": "moneyline",
-          "pick": "Seattle Mariners",
-          "odds": "-144",
+          "pick": "Seattle Mariners (-152)",
+          "odds": "-152",
           "confidence": "medium",
-          "rationale": "Both the Diamondbacks and Mariners are on winning streaks, but Seattle holds a stronger team ERA of 3.54 and features a quality starter in George Kirby (5-4, 3.54 ERA) over Arizona's Zac Gallen (3-4, 4.80 ERA). The betting market has consistently moved towards the Mariners' moneyline, drifting from -149 to -157, suggesting informed money is backing Seattle. Additionally, the home team has won five of the last six head-to-head matchups between these two clubs.",
-          "awayRecord": "31-24",
-          "homeRecord": "28-29",
+          "rationale": "The Seattle Mariners are favored at home, with a 56% chance of winning according to predictive analytics models. While the Diamondbacks have won 4 of the last 5 head-to-head matchups, the Mariners won their most recent game against Arizona 7-6. The Diamondbacks are dealing with significant pitching injuries, with Corbin Burnes and Blake Walston out with elbow issues, and Cristian Mena doubtful with a shoulder injury. Mariners' probable starter Bryan Woo has a 4-3 record with a 3.82 ERA, and his team is 6-5 against the spread in his starts. This injury advantage, combined with home field and recent form, makes the Mariners a confident pick.",
+          "awayRecord": "31-25",
+          "homeRecord": "29-29",
           "awayLast5": [
             "W",
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ Los Angeles Dodgers",
-          "betType": "moneyline",
-          "pick": "Los Angeles Dodgers",
-          "odds": "-118",
-          "confidence": "medium",
-          "rationale": "The Los Angeles Dodgers are in excellent form, riding a five-game winning streak and having won seven of their last eight games. They possess overall team advantages and will benefit from playing at home. While Phillies' starter Zack Wheeler has been strong (4-0, 1.67 ERA), the Dodgers' consistent performance and stable moneyline odds, despite the Phillies' recent sweep, indicate strong confidence in Los Angeles to secure the win.",
-          "awayRecord": "29-27",
-          "homeRecord": "36-20",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
             "W",
             "W",
             "W",
             "W"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "UCL",
-      "picks": [
-        {
-          "game": "Arsenal vs Paris Saint Germain",
-          "betType": "moneyline",
-          "pick": "Paris Saint Germain",
-          "odds": "+135",
-          "confidence": "high",
-          "rationale": "Paris Saint Germain enters this final as the defending Champions League holders, bringing invaluable experience to the big stage. They also hold a significant psychological edge over Arsenal, having eliminated them in last season's Champions League semifinals with a decisive 3-1 aggregate victory. Key players Ousmane Dembele and Achraf Hakimi, who were previously injury doubts, are confirmed fit and available, bolstering PSG's already potent attack. The betting market shows a strong lean towards PSG, with 75% of pre-match bets on the Champions League final backing them to win, indicating strong confidence from bettors."
-        },
-        {
-          "game": "Arsenal vs Paris Saint Germain",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "This Champions League final features two highly offensive teams, with Paris Saint Germain boasting an impressive 44 goals in just 14 UCL matches this season, just one shy of the all-time record. While Arsenal possesses a strong defense, their recent head-to-head encounters with PSG have often been high-scoring, averaging 2.4 goals in their last five Champions League meetings. Both teams managed to score in four of those five previous matchups, suggesting an open contest. The high stakes of a final, coupled with both teams' attacking philosophies, are likely to lead to multiple scoring opportunities."
-        },
-        {
-          "game": "Arsenal vs Paris Saint Germain",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-140",
-          "confidence": "medium",
-          "rationale": "Arsenal has showcased exceptional defensive solidity throughout their Champions League campaign, conceding a mere six goals and keeping nine clean sheets, demonstrating their ability to stifle opposing attacks. Finals are historically known for being cautious affairs, with teams often prioritizing defensive discipline to avoid costly errors in the early stages. Despite PSG's attacking firepower, they have also shown they can adapt defensively, as evidenced by their 1-1 draw against Bayern Munich in the semi-finals. With the pressure of a final, a more tactical and less open game could unfold."
-        },
-        {
-          "game": "Arsenal vs Paris Saint Germain",
-          "betType": "moneyline",
-          "pick": "Arsenal",
-          "odds": "+200",
-          "confidence": "medium",
-          "rationale": "Arsenal enters this Champions League final on the back of a triumphant Premier League season, having just lifted the domestic trophy and riding a five-game winning streak in the league. Their impressive form includes a resilient Champions League run where they conceded only six goals, highlighting their defensive strength. Despite past defeats to PSG, Arsenal will be highly motivated to make history by winning their first-ever Champions League title and avenging last season's semifinal elimination. The Gunners' recent success and strong defensive record provide a solid foundation for an upset."
-        },
-        {
-          "game": "Arsenal vs Paris Saint Germain",
-          "betType": "moneyline",
-          "pick": "Paris Saint Germain",
-          "odds": "+135",
-          "confidence": "medium",
-          "rationale": "PSG's experience in high-pressure finals is a significant advantage, as they are the reigning Champions League titleholders and have consistently competed at this stage. Their squad depth allows for tactical flexibility and the ability to manage player fatigue, a factor that could be crucial against an Arsenal side that just completed a demanding Premier League-winning campaign. The French champions have also demonstrated their ability to perform under pressure, remaining unbeaten in 11 knockout games this season. This blend of experience, depth, and recent knockout stage success makes PSG a strong pick to defend their title."
         }
       ]
     }
