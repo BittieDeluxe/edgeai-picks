@@ -1,147 +1,22 @@
 {
-  "date": "2026-05-30",
-  "generatedAt": "2026-05-30T17:57:56.811Z",
+  "date": "2026-05-31",
+  "generatedAt": "2026-05-31T17:54:44.022Z",
   "sports": [
-    {
-      "sport": "NBA",
-      "picks": [
-        {
-          "game": "San Antonio Spurs vs Oklahoma City Thunder",
-          "betType": "spread",
-          "pick": "Oklahoma City Thunder -3.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "The Oklahoma City Thunder hold a significant home-court advantage in this decisive Game 7, with home teams historically winning nearly three-quarters of all Game 7s in the NBA playoffs. The Thunder also boast a strong 6-1 record at home during the 2026 playoffs, demonstrating their ability to perform under pressure in their arena. Despite the Spurs' dominant Game 6 victory, the Thunder are expected to bounce back, and the spread remaining stable at -3.5 indicates continued confidence in their ability to cover at home. The betting model also projects the Thunder to win the game with 65.5% confidence.",
-          "awayRecord": "62-20",
-          "homeRecord": "64-18",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "San Antonio Spurs vs Oklahoma City Thunder",
-          "betType": "total",
-          "pick": "Under 212.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Game 7s are typically characterized by heightened defensive intensity and increased pressure, historically leading to lower-scoring contests. In this Western Conference Finals series, four of the six games have already finished below their posted totals, indicating a trend towards tighter defensive matchups. Furthermore, the Oklahoma City Thunder will be without key offensive player Jalen Williams due to a hamstring injury, which could impact their scoring output. These factors collectively support a strong lean towards the Under 212.5.",
-          "awayRecord": "62-20",
-          "homeRecord": "64-18",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "San Antonio Spurs vs Oklahoma City Thunder",
-          "betType": "moneyline",
-          "pick": "Oklahoma City Thunder (-155)",
-          "odds": "-155",
-          "confidence": "high",
-          "rationale": "The Oklahoma City Thunder finished the regular season as the 1st seed in the Western Conference with a 64-18 record and possess home-court advantage for this critical Game 7. Historically, home teams have a significant edge in Game 7s, winning nearly 75% of such contests. The Thunder also have recent experience winning Game 7s, having done so twice en route to their championship last year. Despite losing Game 6, the Thunder have shown resilience throughout the playoffs, and their overall strength and home advantage make them a confident moneyline pick.",
-          "awayRecord": "62-20",
-          "homeRecord": "64-18",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "San Antonio Spurs vs Oklahoma City Thunder",
-          "betType": "spread",
-          "pick": "San Antonio Spurs +3.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "The San Antonio Spurs are coming off a dominant 118-91 victory in Game 6, showcasing their potential to compete with the Thunder. Victor Wembanyama has been a defining player for the Spurs in this series, averaging 32.3 points per game in their wins, and his strong performance is crucial for their success. The betting model also indicates a 60.5% confidence in the Spurs covering the +3.5 spread, suggesting the game is likely to be a close contest. Despite being on the road, the Spurs have demonstrated their ability to keep games competitive against the Thunder.",
-          "awayRecord": "62-20",
-          "homeRecord": "64-18",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "San Antonio Spurs vs Oklahoma City Thunder",
-          "betType": "total",
-          "pick": "Over 212.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "While Game 7s often lean defensive, both the San Antonio Spurs and Oklahoma City Thunder possess significant offensive firepower. The Spurs have averaged 116.7 points per game in their last 10 outings, while the Thunder have averaged 113.9 points per game over the same span. Three of the six games in this series have already exceeded the 212.5 total, including high-scoring affairs like Game 5 (241 total) and Game 2 (235 total). Given these offensive capabilities and prior high-scoring games in the series, an Over is a strong possibility.",
-          "awayRecord": "62-20",
-          "homeRecord": "64-18",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        }
-      ]
-    },
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Miami Marlins @ New York Mets",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "The Mets and Marlins are both struggling offensively, with the Marlins tied for 27th in home runs and the Mets tied for 21st, 30th in SLG, and 30th in OPS. Marlins' projected starter Tyler Phillips holds an impressive 1.07 ERA, though his xERA suggests potential regression, while Mets' Christian Scott has a 3.20 ERA and a strong 27.9% strikeout rate. The Mets have hit the Game Total Under in 32 of their last 45 games, indicating a strong trend towards lower-scoring affairs. Additionally, eight of the Mets' last nine day games against NL East opponents have gone UNDER the total runs line. Citi Field is also considered a slightly pitcher-friendly park, further supporting the under.",
-          "awayRecord": "26-32",
-          "homeRecord": "24-33",
+          "game": "San Francisco Giants @ Colorado Rockies",
+          "betType": "moneyline",
+          "pick": "Colorado Rockies (-104)",
+          "odds": "-104",
+          "confidence": "high",
+          "rationale": "The Colorado Rockies have won the first two games of this series against the Giants, showing strong home form. There is significant sharp reverse line movement favoring the Rockies, with 82% of moneyline dollars at DraftKings on them despite fewer bets, and 89% at Circa. Giants' starter Robbie Ray has struggled immensely in May with a 7.11 ERA and is 0-5 with a 6.84 ERA on the road. The Rockies, as a home dog off a win in a high-total game, have strong historical betting value.",
+          "awayRecord": "22-36",
+          "homeRecord": "22-37",
           "awayLast5": [
-            "W",
-            "W",
+            "L",
+            "L",
             "L",
             "L",
             "L"
@@ -155,24 +30,74 @@
           ]
         },
         {
-          "game": "Milwaukee Brewers @ Houston Astros",
+          "game": "Detroit Tigers @ Chicago White Sox",
           "betType": "moneyline",
-          "pick": "Milwaukee Brewers (-186)",
-          "odds": "-186",
+          "pick": "Chicago White Sox (-130)",
+          "odds": "-130",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers are on a strong run, entering this game with an 8-2 record in their last 10 games and a four-game winning streak. In contrast, the Astros have a 7-3 record in their last 10 games but are coming off a loss. Brewers' starter Brandon Sproat (1-3, 5.84 ERA) faces Astros' Peter Lambert (3-4, 3.79 ERA), but despite Sproat's higher ERA, the Brewers have a 6-2 record against the spread in his starts. The Brewers also have a slight edge in the head-to-head, winning 3 of the last 5 against the Astros.",
-          "awayRecord": "34-20",
-          "homeRecord": "26-33",
+          "rationale": "The White Sox have won the first two games of this series and boast a strong 19-11 home record, while the Tigers have the worst road record in MLB at 8-23. Sharp money is heavily on the White Sox, with line movement pushing them from -130 to -135, and receiving 90-95% of moneyline dollars at major sportsbooks. Tigers' starter Keider Montero is on a four-game losing streak and has failed to reach the sixth inning in three straight starts.",
+          "awayRecord": "22-37",
+          "homeRecord": "31-27",
           "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
             "L",
             "W",
             "W",
             "W",
             "W"
+          ]
+        },
+        {
+          "game": "Kansas City Royals @ Texas Rangers",
+          "betType": "moneyline",
+          "pick": "Texas Rangers (-112)",
+          "odds": "-112",
+          "confidence": "high",
+          "rationale": "The Texas Rangers are coming off a dramatic 7-6 walk-off win yesterday against the Royals, extending their winning streak to two games. Conversely, the Kansas City Royals are in a significant slump, having lost five straight games and 15 of their last 18. A key player for the Royals, Maikel Garcia, also left yesterday's game with a right hamstring strain, further weakening their lineup.",
+          "awayRecord": "22-36",
+          "homeRecord": "27-31",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
           ],
           "homeLast5": [
             "W",
             "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Philadelphia Phillies @ Los Angeles Dodgers",
+          "betType": "prop",
+          "pick": "Shohei Ohtani Over 1.5 Total Bases",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "Shohei Ohtani has been performing exceptionally well, with an impressive .897 OPS overall and an elite .907 OPS across 26 home games. He faces Phillies rookie starter Andrew Painter, who has struggled since returning from injuries and allows over a base hit per inning. The warm weather and winds blowing out to right-center at Dodger Stadium also favor extra-base hits. Ohtani is active and playing for the Dodgers today.",
+          "propPlayer": "Shohei Ohtani",
+          "propTeam": "Los Angeles Dodgers",
+          "awayRecord": "30-28",
+          "homeRecord": "37-21",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
             "W",
             "W",
             "L"
@@ -180,74 +105,26 @@
         },
         {
           "game": "Atlanta Braves @ Cincinnati Reds",
-          "betType": "total",
-          "pick": "Under 8.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "While the Braves offense is potent, the line movement for this game subtly favors the under, suggesting sharp money is backing a lower-scoring contest despite public perception. The Braves have seen the over hit in 7 of their last 10 games, but the Reds have seen the over hit in 6 of their last 10. The Reds' projected starter, Brady Singer, has struggled, allowing 16 earned runs over his last four starts, but the market's movement indicates other factors are at play. The under is a strong play here, trusting the subtle market signals over the perceived offensive strength.",
-          "awayRecord": "39-19",
-          "homeRecord": "29-27",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "San Francisco Giants @ Colorado Rockies",
           "betType": "moneyline",
-          "pick": "San Francisco Giants (-118)",
-          "odds": "-118",
+          "pick": "Atlanta Braves (+100)",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "The San Francisco Giants have a dominant head-to-head record against the Colorado Rockies, winning 21 of their last 26 matchups over the past three seasons. Although the Giants have lost 3 of their last 5 games and the Rockies won their last game against the Giants, the overall historical trend is strongly in favor of San Francisco. The Giants also hold a significantly better overall win percentage compared to the Rockies (40.3% vs 59.3% in H2H, though this is likely a typo in the source, should be Giants higher). The moneyline for the Giants at -118 offers good value given their historical dominance in this matchup.",
-          "awayRecord": "22-35",
-          "homeRecord": "21-37",
+          "rationale": "The Atlanta Braves send ace Spencer Strider to the mound, who is expected to perform well against a strikeout-prone Reds offense. Strider's ability to limit runs against such an opponent provides a significant pitching advantage for the Braves. The Braves also hold a strong overall record of 40-19, indicating superior team performance. This matchup strongly favors the Braves to secure a road victory at even money.",
+          "awayRecord": "40-19",
+          "homeRecord": "29-28",
           "awayLast5": [
             "W",
             "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Arizona Diamondbacks @ Seattle Mariners",
-          "betType": "moneyline",
-          "pick": "Seattle Mariners (-152)",
-          "odds": "-152",
-          "confidence": "medium",
-          "rationale": "The Seattle Mariners are favored at home, with a 56% chance of winning according to predictive analytics models. While the Diamondbacks have won 4 of the last 5 head-to-head matchups, the Mariners won their most recent game against Arizona 7-6. The Diamondbacks are dealing with significant pitching injuries, with Corbin Burnes and Blake Walston out with elbow issues, and Cristian Mena doubtful with a shoulder injury. Mariners' probable starter Bryan Woo has a 4-3 record with a 3.82 ERA, and his team is 6-5 against the spread in his starts. This injury advantage, combined with home field and recent form, makes the Mariners a confident pick.",
-          "awayRecord": "31-25",
-          "homeRecord": "29-29",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
             "W",
             "W",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
           ]
         }
       ]

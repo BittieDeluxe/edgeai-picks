@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-05-30",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -3.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
+          },
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "total",
+            "pick": "Under 212.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
+          },
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "moneyline",
+            "pick": "Oklahoma City Thunder (-155)",
+            "odds": "-155",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
+          },
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "San Antonio Spurs +3.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
+          },
+          {
+            "game": "San Antonio Spurs vs Oklahoma City Thunder",
+            "betType": "total",
+            "pick": "Over 212.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Miami Marlins @ New York Mets",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 1, New York Mets 6"
+          },
+          {
+            "game": "Milwaukee Brewers @ Houston Astros",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (-186)",
+            "odds": "-186",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 2, Houston Astros 9"
+          },
+          {
+            "game": "Atlanta Braves @ Cincinnati Reds",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Braves 5, Cincinnati Reds 2"
+          },
+          {
+            "game": "San Francisco Giants @ Colorado Rockies",
+            "betType": "moneyline",
+            "pick": "San Francisco Giants (-118)",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Francisco Giants 3, Colorado Rockies 8"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Seattle Mariners",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners (-152)",
+            "odds": "-152",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arizona Diamondbacks 1, Seattle Mariners 5"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-29",
     "sports": [
       {
