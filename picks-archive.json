@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-05-31",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Francisco Giants @ Colorado Rockies",
+            "betType": "moneyline",
+            "pick": "Colorado Rockies (-104)",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Francisco Giants 19, Colorado Rockies 6"
+          },
+          {
+            "game": "Detroit Tigers @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox (-130)",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Detroit Tigers 1, Chicago White Sox 2"
+          },
+          {
+            "game": "Kansas City Royals @ Texas Rangers",
+            "betType": "moneyline",
+            "pick": "Texas Rangers (-112)",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Kansas City Royals 3, Texas Rangers 6"
+          },
+          {
+            "game": "Philadelphia Phillies @ Los Angeles Dodgers",
+            "betType": "prop",
+            "pick": "Shohei Ohtani Over 1.5 Total Bases",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Shohei Ohtani: \"Total Bases\" not auto-gradeable"
+          },
+          {
+            "game": "Atlanta Braves @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves (+100)",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Braves 4, Cincinnati Reds 6"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-30",
     "sports": [
       {

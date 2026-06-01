@@ -1,122 +1,120 @@
 {
-  "date": "2026-05-31",
-  "generatedAt": "2026-05-31T17:54:44.022Z",
+  "date": "2026-06-01",
+  "generatedAt": "2026-06-01T20:50:36.718Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "San Francisco Giants @ Colorado Rockies",
+          "game": "Miami Marlins @ Washington Nationals",
           "betType": "moneyline",
-          "pick": "Colorado Rockies (-104)",
+          "pick": "Washington Nationals (-142)",
+          "odds": "-142",
+          "confidence": "high",
+          "rationale": "The Washington Nationals are facing a significantly depleted Miami Marlins team. The Marlins have multiple key pitchers on the injured list, including Eury Pérez (gracilis strain, expected to miss two months), Andrew Nardi (rib cage stress reaction, out until September), and Janson Junk (shin inflammation). Additionally, outfielder Griffin Conine is on the 60-day IL with a hamstring tear. While the Nationals also have injuries, the Marlins' pitching staff is particularly hit hard, which should give the Nationals an edge at home. The Nationals are 31-29, while the Marlins are 26-34, indicating better overall form for Washington.",
+          "awayRecord": "26-34",
+          "homeRecord": "31-29",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "San Francisco Giants @ Milwaukee Brewers",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers (-180)",
+          "odds": "-180",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers, with a strong 35-21 record, are hosting the struggling San Francisco Giants (23-36). The Giants are dealing with several key injuries, including starting pitcher Tyler Mahle (hamstring strain) and outfielders Heliot Ramos (quad strain) and Harrison Bader (plantar fasciitis). While the Brewers also have some pitchers on the IL like Brandon Woodruff, their rotation depth has been a strength, with Jacob Misiorowski leading the staff in strikeouts. The Brewers are at home and have a significant advantage in overall team performance and current health of key position players.",
+          "awayRecord": "23-36",
+          "homeRecord": "35-21",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Texas Rangers @ St. Louis Cardinals",
+          "betType": "moneyline",
+          "pick": "St. Louis Cardinals (-104)",
           "odds": "-104",
           "confidence": "high",
-          "rationale": "The Colorado Rockies have won the first two games of this series against the Giants, showing strong home form. There is significant sharp reverse line movement favoring the Rockies, with 82% of moneyline dollars at DraftKings on them despite fewer bets, and 89% at Circa. Giants' starter Robbie Ray has struggled immensely in May with a 7.11 ERA and is 0-5 with a 6.84 ERA on the road. The Rockies, as a home dog off a win in a high-total game, have strong historical betting value.",
-          "awayRecord": "22-36",
-          "homeRecord": "22-37",
+          "rationale": "The Texas Rangers are severely impacted by injuries to their core offensive players, with Corey Seager (back), Wyatt Langford (forearm), and Josh Smith (glute) all on the 10-day injured list. Evan Carter is also listed as day-to-day with a foot issue, further weakening their lineup. The Cardinals, despite some injuries to Ramón Urías and Lars Nootbaar, have a more stable lineup for this matchup. Given the significant offensive absences for the Rangers, the Cardinals at home present a strong value pick.",
+          "awayRecord": "28-31",
+          "homeRecord": "31-26",
           "awayLast5": [
             "L",
             "L",
-            "L",
-            "L",
-            "L"
+            "W",
+            "W",
+            "W"
           ],
           "homeLast5": [
             "L",
             "L",
-            "L",
             "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Detroit Tigers @ Chicago White Sox",
+          "game": "Colorado Rockies @ Los Angeles Angels",
           "betType": "moneyline",
-          "pick": "Chicago White Sox (-130)",
-          "odds": "-130",
-          "confidence": "high",
-          "rationale": "The White Sox have won the first two games of this series and boast a strong 19-11 home record, while the Tigers have the worst road record in MLB at 8-23. Sharp money is heavily on the White Sox, with line movement pushing them from -130 to -135, and receiving 90-95% of moneyline dollars at major sportsbooks. Tigers' starter Keider Montero is on a four-game losing streak and has failed to reach the sixth inning in three straight starts.",
-          "awayRecord": "22-37",
+          "pick": "Los Angeles Angels (-200)",
+          "odds": "-200",
+          "confidence": "medium",
+          "rationale": "The Colorado Rockies are struggling with a 22-38 record and have a lengthy injury list, including key players like Kris Bryant (lumbar degenerative disk disease), Jordan Beck (hamstring), and Mickey Moniak (ankle). Pitchers Jose Quintana (elbow sprain) and Chase Dollander (elbow sprain) are also sidelined. While the Angels also have injuries to Nolan Schanuel (ankle) and Yoán Moncada (knee), their overall roster appears less decimated. The Angels are at home and, despite their own struggles, face a team with even more significant personnel issues, making them a solid favorite.",
+          "awayRecord": "22-38",
+          "homeRecord": "23-37",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5 (+102)",
+          "odds": "+102",
+          "confidence": "medium",
+          "rationale": "The Los Angeles Dodgers (38-21) are a dominant team and are facing an Arizona Diamondbacks team with significant injuries. The Diamondbacks are missing key players like Lourdes Gurriel Jr. (hamstring), Carlos Santana (groin), and Corbin Burnes (elbow surgery). While the Dodgers have their own injuries to Teoscar Hernández (hamstring) and Tyler Glasnow (back spasms), their overall depth and recent performance (won Sunday's game 9-1) give them a clear advantage. The Dodgers' strong offense and pitching, even with some absences, should be able to cover the -1.5 spread against a hobbled Diamondbacks squad.",
+          "awayRecord": "38-21",
           "homeRecord": "31-27",
           "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Kansas City Royals @ Texas Rangers",
-          "betType": "moneyline",
-          "pick": "Texas Rangers (-112)",
-          "odds": "-112",
-          "confidence": "high",
-          "rationale": "The Texas Rangers are coming off a dramatic 7-6 walk-off win yesterday against the Royals, extending their winning streak to two games. Conversely, the Kansas City Royals are in a significant slump, having lost five straight games and 15 of their last 18. A key player for the Royals, Maikel Garcia, also left yesterday's game with a right hamstring strain, further weakening their lineup.",
-          "awayRecord": "22-36",
-          "homeRecord": "27-31",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ Los Angeles Dodgers",
-          "betType": "prop",
-          "pick": "Shohei Ohtani Over 1.5 Total Bases",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "Shohei Ohtani has been performing exceptionally well, with an impressive .897 OPS overall and an elite .907 OPS across 26 home games. He faces Phillies rookie starter Andrew Painter, who has struggled since returning from injuries and allows over a base hit per inning. The warm weather and winds blowing out to right-center at Dodger Stadium also favor extra-base hits. Ohtani is active and playing for the Dodgers today.",
-          "propPlayer": "Shohei Ohtani",
-          "propTeam": "Los Angeles Dodgers",
-          "awayRecord": "30-28",
-          "homeRecord": "37-21",
-          "awayLast5": [
             "W",
             "W",
             "W",
             "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ Cincinnati Reds",
-          "betType": "moneyline",
-          "pick": "Atlanta Braves (+100)",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "The Atlanta Braves send ace Spencer Strider to the mound, who is expected to perform well against a strikeout-prone Reds offense. Strider's ability to limit runs against such an opponent provides a significant pitching advantage for the Braves. The Braves also hold a strong overall record of 40-19, indicating superior team performance. This matchup strongly favors the Braves to secure a road victory at even money.",
-          "awayRecord": "40-19",
-          "homeRecord": "29-28",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
             "W"
           ],
           "homeLast5": [
