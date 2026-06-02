@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-06-01",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Miami Marlins @ Washington Nationals",
+            "betType": "moneyline",
+            "pick": "Washington Nationals (-142)",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "L",
+            "score": "Miami Marlins 7, Washington Nationals 3"
+          },
+          {
+            "game": "San Francisco Giants @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (-180)",
+            "odds": "-180",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Francisco Giants 2, Milwaukee Brewers 16"
+          },
+          {
+            "game": "Texas Rangers @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals (-104)",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Texas Rangers 2, St. Louis Cardinals 1"
+          },
+          {
+            "game": "Colorado Rockies @ Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Los Angeles Angels (-200)",
+            "odds": "-200",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Rockies 9, Los Angeles Angels 8"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5 (+102)",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Dodgers 1, Arizona Diamondbacks 4"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-05-31",
     "sports": [
       {
