@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-06-02",
+    "sports": [
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Vegas Golden Knights vs Carolina Hurricanes",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "-154",
+            "confidence": "high",
+            "result": "L",
+            "score": "Vegas Golden Knights 5, Carolina Hurricanes 4"
+          },
+          {
+            "game": "Vegas Golden Knights vs Carolina Hurricanes",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vegas Golden Knights 5, Carolina Hurricanes 4"
+          },
+          {
+            "game": "Vegas Golden Knights vs Carolina Hurricanes",
+            "betType": "spread",
+            "pick": "Vegas Golden Knights +1.5",
+            "odds": "-205",
+            "confidence": "high",
+            "result": "W",
+            "score": "Vegas Golden Knights 5, Carolina Hurricanes 4"
+          },
+          {
+            "game": "Vegas Golden Knights vs Carolina Hurricanes",
+            "betType": "prop",
+            "pick": "Carter Hart Over 28.5 Saves",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Carter Hart: 23 Saves (line 28.5)"
+          },
+          {
+            "game": "Vegas Golden Knights vs Carolina Hurricanes",
+            "betType": "prop",
+            "pick": "Logan Stankoven Over 0.5 Points",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Logan Stankoven: 0+0=0 Points (line 0.5)"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Diego Padres vs Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies",
+            "odds": "-210",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego Padres 2, Philadelphia Phillies 3"
+          },
+          {
+            "game": "Chicago White Sox vs Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox",
+            "odds": "-156",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago White Sox 4, Minnesota Twins 6"
+          },
+          {
+            "game": "Los Angeles Dodgers vs Arizona Diamondbacks",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Dodgers 6, Arizona Diamondbacks 5"
+          },
+          {
+            "game": "Kansas City Royals vs Cincinnati Reds",
+            "betType": "prop",
+            "pick": "Sal Stewart 2+ Total Bases",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Baltimore Orioles vs Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox",
+            "odds": "-142",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Baltimore Orioles 4, Boston Red Sox 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-01",
     "sports": [
       {
