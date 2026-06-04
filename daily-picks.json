@@ -1,67 +1,19 @@
 {
-  "date": "2026-06-03",
-  "generatedAt": "2026-06-03T20:13:18.157Z",
+  "date": "2026-06-04",
+  "generatedAt": "2026-06-04T19:14:22.168Z",
   "sports": [
     {
-      "sport": "NBA",
+      "sport": "NHL",
       "picks": [
         {
-          "game": "New York Knicks @ San Antonio Spurs",
+          "game": "Vegas Golden Knights @ Carolina Hurricanes",
           "betType": "spread",
-          "pick": "New York Knicks +4.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The New York Knicks enter Game 1 of the NBA Finals on an impressive 10-game winning streak, showcasing exceptional form and momentum. They have also been a dominant force against the spread, covering in 9 of their last 10 games. With Mitchell Robinson expected to play and bolster their league-leading playoff rebounding, the Knicks are well-equipped to keep this opening game competitive against the Spurs.",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "New York Knicks @ San Antonio Spurs",
-          "betType": "total",
-          "pick": "Over 217.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "Both the Knicks and Spurs have demonstrated a strong offensive rhythm recently, with New York averaging 123.8 PPG and San Antonio averaging 116.3 PPG over their last 10 games. The head-to-head history also points towards a higher-scoring affair, as their last five matchups averaged 232.4 total points, with three of those games going Over the total. The Knicks have gone Over in 6 of their last 10 games, and the Spurs in 8 of their last 10, further supporting the Over.",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "New York Knicks @ San Antonio Spurs",
-          "betType": "moneyline",
-          "pick": "San Antonio Spurs (-194)",
-          "odds": "-194",
+          "pick": "Vegas Golden Knights +1.5",
+          "odds": "-215",
           "confidence": "high",
-          "rationale": "The San Antonio Spurs hold a significant home-court advantage for Game 1 of the NBA Finals, a crucial factor in playoff series. They are coming off a hard-fought seven-game series victory in the Western Conference Finals, highlighting their resilience and ability to perform under pressure. Led by Victor Wembanyama, who is a strong contender for Finals MVP, the Spurs are the favorites to secure the opening win on their home floor.",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
+          "rationale": "The Vegas Golden Knights have demonstrated strong performance against the spread, covering in six consecutive games and holding an 8-2 ATS record in their last 10 contests. They secured a 5-4 victory in Game 1, indicating their ability to keep games tight or win outright even on the road. Vegas has won all three head-to-head matchups against Carolina this season, further supporting their capability to stay within a one-goal margin. The stability of the +1.5 line despite their Game 1 win suggests the market anticipates another closely contested game.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
           "awayLast5": [
             "W",
             "W",
@@ -70,46 +22,22 @@
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
-            "L",
             "W",
-            "W"
+            "W",
+            "W",
+            "L"
           ]
         },
         {
-          "game": "New York Knicks @ San Antonio Spurs",
-          "betType": "spread",
-          "pick": "San Antonio Spurs -4.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "While the Knicks have been excellent against the spread, the Spurs' home-court advantage in Game 1 of the Finals is a significant factor. San Antonio has won 6 of their last 10 games, including a two-game winning streak entering this series, demonstrating their ability to win convincingly. The impact of Victor Wembanyama at home could allow the Spurs to pull away and cover this spread, despite New York's strong ATS record.",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "New York Knicks @ San Antonio Spurs",
+          "game": "Vegas Golden Knights @ Carolina Hurricanes",
           "betType": "total",
-          "pick": "Under 217.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Game 1 of the NBA Finals often features heightened defensive intensity and nerves, which can lead to a lower-scoring contest as teams adjust to the championship stage. Despite recent offensive trends, both teams may prioritize defense early in the series. The pressure of the Finals could result in a tighter, more deliberate pace, potentially keeping the combined score below the projected total of 217.5 points.",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
+          "pick": "Over 5.5",
+          "odds": "-124",
+          "confidence": "high",
+          "rationale": "All three head-to-head meetings between the Golden Knights and Hurricanes this season have gone over 5.5 goals, with final totals of 7, 7, and 9 goals. Game 1 of the Stanley Cup Final continued this trend, ending in a high-scoring 5-4 affair. Both teams boast potent offenses and elite power-play units, with Vegas at 24.47% and Carolina at 24.90%, which can quickly drive up the score. Additionally, both teams rank highly in third-period goal scoring, suggesting offensive action will persist throughout the game.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
           "awayLast5": [
             "W",
             "W",
@@ -118,11 +46,83 @@
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
-            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Vegas Golden Knights @ Carolina Hurricanes",
+          "betType": "moneyline",
+          "pick": "Carolina Hurricanes (-164)",
+          "odds": "-164",
+          "confidence": "high",
+          "rationale": "The Carolina Hurricanes are known for their ability to bounce back from losses, holding the NHL's best regular-season points percentage (.759) in such scenarios. Playing on home ice after a Game 1 defeat, they will be highly motivated to even the series. Carolina outshot Vegas in Game 1 and, despite their 0-3 H2H record against the Golden Knights this season, their overall dominant regular season (53-22-7) and strong home record (29-10-2) position them for a strong performance.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
             "W",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Vegas Golden Knights @ Carolina Hurricanes",
+          "betType": "moneyline",
+          "pick": "Vegas Golden Knights (+136)",
+          "odds": "+136",
+          "confidence": "medium",
+          "rationale": "The Vegas Golden Knights enter Game 2 with significant momentum, having won seven consecutive playoff games, including their road victory in Game 1 of the Stanley Cup Final. They have also won all three head-to-head matchups against the Carolina Hurricanes this season, demonstrating a consistent ability to defeat them. Vegas's depth scoring, with players like Brett Howden leading the playoffs in goals and Tomas Hertl scoring the Game 1 winner, provides multiple offensive threats. Their composure in overcoming deficits further strengthens their case for an outright win.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Vegas Golden Knights @ Carolina Hurricanes",
+          "betType": "spread",
+          "pick": "Carolina Hurricanes -1.5",
+          "odds": "+172",
+          "confidence": "medium",
+          "rationale": "As the top seed in the Eastern Conference with a 53-22-7 regular season record and a formidable 29-10-2 home record, the Carolina Hurricanes are expected to deliver a strong response in Game 2. Following a surprising Game 1 loss where their goalie Frederik Andersen struggled, a return to his elite playoff form is anticipated. Coach Rod Brind'Amour is likely to emphasize their strong defensive structure and forechecking pressure, and if Carolina executes their game plan effectively, a multi-goal victory on home ice to even the series is a plausible outcome.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
           ]
         }
       ]
@@ -131,71 +131,95 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "San Diego Padres @ Philadelphia Phillies",
+          "game": "Toronto Blue Jays @ Atlanta Braves",
           "betType": "spread",
-          "pick": "Philadelphia Phillies -1.5",
-          "odds": "+102",
+          "pick": "Atlanta Braves -1.5",
+          "odds": "-114",
           "confidence": "high",
-          "rationale": "The Phillies hold a significant pitching advantage with Cristopher Sanchez (1.47 ERA, 44.2 scoreless innings) on the mound against the Padres' Walker Buehler (4.88 ERA). San Diego's offense has been anemic, going 0-27 with runners in scoring position over their last four games, and they were recently swept by the Phillies. Coupled with Philadelphia's recent dominance in head-to-head matchups, including winning the first two games of this series, the Phillies are well-positioned to cover the -1.5 run line at favorable odds.",
-          "awayRecord": "32-27",
-          "homeRecord": "31-29",
+          "rationale": "The Atlanta Braves are in excellent form (42-20) and have already secured the first two games of this series against the struggling Toronto Blue Jays (29-33), who have lost four straight. Atlanta ace Chris Sale (8-3, 2.01 ERA, 0.94 WHIP) is scheduled to pitch, while Toronto has an unconfirmed starter, creating a significant pitching mismatch. The Braves are looking to complete a sweep at home, and getting them at -1.5 for -114 offers strong value given their superior form and pitching advantage.",
+          "awayRecord": "29-33",
+          "homeRecord": "42-20",
           "awayLast5": [
-            "L",
             "W",
+            "L",
             "L",
             "L",
             "L"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
             "L",
+            "W",
             "W"
           ]
         },
         {
-          "game": "San Francisco Giants @ Milwaukee Brewers",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "+139",
-          "confidence": "high",
-          "rationale": "The Milwaukee Brewers are in excellent form, boasting a 37-21 record and a strong 21-11 home record, while the Giants are struggling at 23-38 overall and 11-22 on the road. Milwaukee has dominated the first two games of this series, outscoring San Francisco 24-5. Giants' starter Logan Webb has been inconsistent with a 4.82 ERA, making it likely the high-powered Brewers offense will secure another multi-run victory.",
-          "awayRecord": "23-38",
-          "homeRecord": "37-21",
+          "game": "Kansas City Royals @ Minnesota Twins",
+          "betType": "total",
+          "pick": "Under 9",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "The total for this game opened at 9 (even money) and has seen significant reverse line movement, shifting to 9 Over (-117) / Under (-103) despite 100% of public money on the Over. This indicates sharp money is heavily backing the Under. Royals starter Seth Lugo (2-4, 3.57 ERA) has a strong home-run suppression rate, which is a key factor in keeping the score low. Trusting the sharp money and Lugo's ability to limit runs makes the Under 9 a high-confidence play.",
+          "awayRecord": "24-38",
+          "homeRecord": "29-34",
           "awayLast5": [
             "L",
             "L",
             "W",
             "L",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "L",
             "W",
             "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Baltimore Orioles @ Boston Red Sox",
+          "betType": "total",
+          "pick": "Over 11.5",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Both starting pitchers, Trevor Rogers (2-6, 6.84 ERA) for the Orioles and Brayan Bello (2-5, 5.63 ERA) for the Red Sox, have struggled significantly this season. The Boston Red Sox offense is particularly strong against left-handed pitching, ranking seventh in MLB in OPS, which bodes poorly for the left-handed Rogers. While the verified total of 11.5 is high, the market has already shown a strong lean towards the over, with the total moving up from 10 to 10.5 with 100% of both dollars and tickets on the over. This combination of poor pitching and capable offenses, especially against a lefty, points to a high-scoring affair.",
+          "awayRecord": "29-33",
+          "homeRecord": "26-34",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Texas Rangers @ St. Louis Cardinals",
+          "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
           "betType": "moneyline",
-          "pick": "Texas Rangers (-104)",
-          "odds": "-104",
-          "confidence": "high",
-          "rationale": "The Texas Rangers are currently on a five-game winning streak and have already won the first two games of this road series against the Cardinals. A significant reverse line movement is evident, with the public heavily backing St. Louis (86-92% of bets), yet the moneyline has shifted towards Texas, indicating sharp money is on the Rangers. This strong situational trend and sharp money signal make the Rangers moneyline a high-confidence pick.",
-          "awayRecord": "30-31",
-          "homeRecord": "31-28",
+          "pick": "Los Angeles Dodgers",
+          "odds": "-132",
+          "confidence": "medium",
+          "rationale": "The Los Angeles Dodgers have a dominant head-to-head record against the Arizona Diamondbacks, winning 8 of their last 9 matchups and 17 of their last 29 games. The Dodgers also secured a decisive 7-0 victory in yesterday's game, demonstrating their current superiority. Furthermore, the Diamondbacks are significantly hampered by injuries, with numerous key players including Lourdes Gurriel Jr. (hamstring) and James McCann (quadricep) on the injured list. This combination of H2H dominance, recent form, and injury advantage makes the Dodgers moneyline a strong pick.",
+          "awayRecord": "40-22",
+          "homeRecord": "32-29",
           "awayLast5": [
+            "L",
             "W",
-            "W",
-            "W",
+            "L",
             "W",
             "W"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "L",
             "W",
             "L",
@@ -204,35 +228,27 @@
         },
         {
           "game": "Athletics @ Chicago Cubs",
-          "betType": "total",
-          "pick": "Over 8.5",
-          "odds": "-118",
+          "betType": "spread",
+          "pick": "Athletics +1.5",
+          "odds": "-170",
           "confidence": "medium",
-          "rationale": "Both starting pitchers, Jeffrey Springs (4.07 ERA) for the Athletics and Colin Rea (4.70 ERA) for the Cubs, have ERAs above 4.00, suggesting potential for runs. The total line movement is a key indicator: the line opened at 9 with the under juiced, then dropped to 8.5, but the over subsequently gained significant juice, signaling sharp money expects more runs at the lower total. With both bullpens also reported as shorthanded, a higher-scoring game is anticipated.",
-          "awayRecord": "29-31",
-          "homeRecord": "32-29",
+          "rationale": "The Chicago Cubs are currently in poor form, holding a 1-4 record in their last five games and losing to the Athletics yesterday. The Cubs are also dealing with several significant pitching injuries, including Justin Steele (left elbow) on the 60-day IL. While the Athletics are not a dominant team, their recent win against the Cubs and Chicago's struggles and injuries suggest they can keep this game close. Taking the Athletics at +1.5 runs provides a good cushion against a struggling home team.",
+          "awayRecord": "30-31",
+          "homeRecord": "32-30",
           "awayLast5": [
-            "L",
             "L",
             "W",
             "L",
+            "W",
             "W"
           ],
           "homeLast5": [
-            "W",
             "L",
             "W",
+            "L",
             "L",
             "L"
           ]
-        },
-        {
-          "game": "Los Angeles Angels @ Colorado Rockies",
-          "betType": "moneyline",
-          "pick": "Los Angeles Angels (-148)",
-          "odds": "-148",
-          "confidence": "medium",
-          "rationale": "The Los Angeles Angels possess a distinct pitching advantage with Walbert Urena (2.44 ERA) starting against the Colorado Rockies' Michael Lorenzen, who carries a struggling 7.22 ERA and 1.90 WHIP. Despite dropping the first two games of the series, the Angels are at home and are due for a bounce-back performance. The significant disparity in starting pitching quality provides a strong foundation for an Angels victory."
         }
       ]
     }

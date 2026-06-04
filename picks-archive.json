@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-06-03",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "New York Knicks @ San Antonio Spurs",
+            "betType": "spread",
+            "pick": "New York Knicks +4.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Knicks 105, San Antonio Spurs 95"
+          },
+          {
+            "game": "New York Knicks @ San Antonio Spurs",
+            "betType": "total",
+            "pick": "Over 217.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Knicks 105, San Antonio Spurs 95"
+          },
+          {
+            "game": "New York Knicks @ San Antonio Spurs",
+            "betType": "moneyline",
+            "pick": "San Antonio Spurs (-194)",
+            "odds": "-194",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Knicks 105, San Antonio Spurs 95"
+          },
+          {
+            "game": "New York Knicks @ San Antonio Spurs",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -4.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Knicks 105, San Antonio Spurs 95"
+          },
+          {
+            "game": "New York Knicks @ San Antonio Spurs",
+            "betType": "total",
+            "pick": "Under 217.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Knicks 105, San Antonio Spurs 95"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Diego Padres @ Philadelphia Phillies",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies -1.5",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Diego Padres 2, Philadelphia Phillies 3"
+          },
+          {
+            "game": "San Francisco Giants @ Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+139",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Francisco Giants 1, Milwaukee Brewers 0"
+          },
+          {
+            "game": "Texas Rangers @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "Texas Rangers (-104)",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Texas Rangers 3, St. Louis Cardinals 5"
+          },
+          {
+            "game": "Athletics @ Chicago Cubs",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Athletics 5, Chicago Cubs 4"
+          },
+          {
+            "game": "Los Angeles Angels @ Colorado Rockies",
+            "betType": "moneyline",
+            "pick": "Los Angeles Angels (-148)",
+            "odds": "-148",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Rockies 4, Los Angeles Angels 11"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-02",
     "sports": [
       {
