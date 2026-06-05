@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-06-04",
+    "sports": [
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Vegas Golden Knights @ Carolina Hurricanes",
+            "betType": "spread",
+            "pick": "Vegas Golden Knights +1.5",
+            "odds": "-215",
+            "confidence": "high",
+            "result": "W",
+            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
+          },
+          {
+            "game": "Vegas Golden Knights @ Carolina Hurricanes",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-124",
+            "confidence": "high",
+            "result": "W",
+            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
+          },
+          {
+            "game": "Vegas Golden Knights @ Carolina Hurricanes",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes (-164)",
+            "odds": "-164",
+            "confidence": "high",
+            "result": "W",
+            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
+          },
+          {
+            "game": "Vegas Golden Knights @ Carolina Hurricanes",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights (+136)",
+            "odds": "+136",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
+          },
+          {
+            "game": "Vegas Golden Knights @ Carolina Hurricanes",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+172",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Toronto Blue Jays @ Atlanta Braves",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "L",
+            "score": "Toronto Blue Jays 7, Atlanta Braves 2"
+          },
+          {
+            "game": "Kansas City Royals @ Minnesota Twins",
+            "betType": "total",
+            "pick": "Under 9",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kansas City Royals 8, Minnesota Twins 6"
+          },
+          {
+            "game": "Baltimore Orioles @ Boston Red Sox",
+            "betType": "total",
+            "pick": "Over 11.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Baltimore Orioles 8, Boston Red Sox 2"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
+            "betType": "moneyline",
+            "pick": "Los Angeles Dodgers",
+            "odds": "-132",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Dodgers 2, Arizona Diamondbacks 3"
+          },
+          {
+            "game": "Athletics @ Chicago Cubs",
+            "betType": "spread",
+            "pick": "Athletics +1.5",
+            "odds": "-170",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Athletics 6, Chicago Cubs 7"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-03",
     "sports": [
       {
