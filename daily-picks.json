@@ -1,129 +1,133 @@
 {
-  "date": "2026-06-05",
-  "generatedAt": "2026-06-05T18:54:49.863Z",
+  "date": "2026-06-06",
+  "generatedAt": "2026-06-06T18:01:36.081Z",
   "sports": [
     {
-      "sport": "NBA",
+      "sport": "NHL",
       "picks": [
         {
-          "game": "New York Knicks vs San Antonio Spurs",
-          "betType": "spread",
-          "pick": "San Antonio Spurs -6.5",
-          "odds": "-106",
-          "confidence": "medium",
-          "rationale": "The San Antonio Spurs are heavily favored after a surprising Game 1 loss at home, with the spread moving from -5.5 to -6.5, indicating strong market confidence in their bounce-back performance. Victor Wembanyama had an uncharacteristically poor shooting night in Game 1, hitting only 6-of-21 from the field, and is expected to significantly improve in Game 2. The Spurs finished the regular season with a dominant 62-20 record and a remarkable 30-4 run in their last 34 games, showcasing their ability to respond to adversity. New York's starters have accumulated heavy minutes throughout the playoffs, and fatigue could become a factor against San Antonio's deeper and younger rotation, especially in a crucial Game 2.",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Knicks vs San Antonio Spurs",
+          "game": "Carolina Hurricanes @ Vegas Golden Knights",
           "betType": "total",
-          "pick": "Over 216.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "Despite Game 1's lower scoring, both teams shot exceptionally poorly from three-point range, combining for just 22-of-79, suggesting a strong likelihood of positive regression in shooting percentages for Game 2. The San Antonio Spurs are projected to score 118 points in Game 2, which significantly contributes to the total. Both the Spurs (119.8 PPG, 3rd in NBA) and the Knicks (116.5 PPG, 10th in NBA) possess high-scoring offenses as evidenced by their regular season averages. With the Spurs expected to push the pace and both teams making offensive adjustments, the overall scoring should increase from the series opener.",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Knicks vs San Antonio Spurs",
-          "betType": "moneyline",
-          "pick": "San Antonio Spurs (-230)",
-          "odds": "-230",
+          "pick": "Over 5.5",
+          "odds": "-125",
           "confidence": "high",
-          "rationale": "The San Antonio Spurs are strong moneyline favorites at home, reflecting their overall season dominance and the expectation of a Game 2 victory after dropping the opener. They concluded the regular season with the second-best record in the Western Conference at 62-20 and have been a formidable force on their home court. The line movement on the spread, shifting from Spurs -5.5 to -6.5, further reinforces the market's confidence in a San Antonio win. Given Victor Wembanyama's anticipated bounce-back performance and the Spurs' established track record of success, a straight-up victory is highly probable.",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
+          "rationale": "Both games in this Stanley Cup Final series have gone over the 5.5 total, with Game 1 finishing 5-4 and Game 2 ending 4-3 in overtime (7 total goals). Public betting money is overwhelmingly on the Over, with 98% of bets and 93-94% of dollars on this side, yet the line has held steady, indicating confidence from oddsmakers. With offensive firepower from players like Marner, Eichel, Hall, and Stankoven on both sides, and a desperation factor for Vegas at home, another high-scoring contest is expected.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "W"
           ],
           "homeLast5": [
             "W",
-            "L",
+            "W",
             "W",
             "W",
             "L"
           ]
         },
         {
-          "game": "New York Knicks vs San Antonio Spurs",
-          "betType": "prop",
-          "pick": "Dylan Harper Over 4.5 Rebounds",
-          "odds": "N/A",
-          "confidence": "medium",
-          "rationale": "Dylan Harper demonstrated strong rebounding prowess in Game 1, securing 8 total rebounds, which is well above the 4.5 line. He is a crucial component of the Spurs' fast-paced offense, consistently crashing the boards to initiate transition plays. The Spurs' strategy to push the tempo creates more opportunities for rebounds throughout the game. Dylan Harper is an active player for the San Antonio Spurs, having played in Game 1 and being highlighted for his rebounding impact.",
-          "propPlayer": "Dylan Harper",
-          "propTeam": "San Antonio Spurs",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
+          "game": "Carolina Hurricanes @ Vegas Golden Knights",
+          "betType": "moneyline",
+          "pick": "Carolina Hurricanes",
+          "odds": "-108",
+          "confidence": "high",
+          "rationale": "The Carolina Hurricanes boast a superior regular-season record of 53-22-7 and an impressive 9-0-1 record in their last 10 road games. They have demonstrated their resilience by coming back from a multi-goal deficit to win Game 2 in overtime, showcasing their depth and ability to perform under pressure. Furthermore, key Vegas defenseman Brayden McNabb is uncertain to play after taking a puck to the face in Game 2, which could significantly weaken the Golden Knights' defensive structure and penalty kill.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "W"
           ],
           "homeLast5": [
             "W",
-            "L",
+            "W",
             "W",
             "W",
             "L"
           ]
         },
         {
-          "game": "New York Knicks vs San Antonio Spurs",
-          "betType": "prop",
-          "pick": "Karl-Anthony Towns Under 16.5 Points",
-          "odds": "N/A",
-          "confidence": "medium",
-          "rationale": "Karl-Anthony Towns scored 18 points in Game 1, but he faced significant difficulty finding open looks against San Antonio's effective drop protection defense. The Spurs' defensive scheme excels at limiting high-post opportunities and forcing Towns into heavily contested perimeter shots or passes. San Antonio is expected to intensify this defensive strategy in Game 2, further restricting his scoring avenues. Karl-Anthony Towns is an active player for the New York Knicks, as confirmed by his participation and performance in Game 1.",
-          "propPlayer": "Karl-Anthony Towns",
-          "propTeam": "New York Knicks",
-          "awayRecord": "53-29",
-          "homeRecord": "62-20",
+          "game": "Carolina Hurricanes @ Vegas Golden Knights",
+          "betType": "spread",
+          "pick": "Carolina Hurricanes -1.5",
+          "odds": "+230",
+          "confidence": "high",
+          "rationale": "Carolina's strong overall record (53-22-7) and consistent ability to generate 32.2 shots per game while allowing only 23.9 suggests they can control the pace and outwork opponents. The potential absence of Brayden McNabb for Vegas, a key defenseman and penalty killer, could further expose their defense, making it difficult to contain Carolina's offense. Given the Hurricanes' momentum from their Game 2 comeback and their statistical edge, a multi-goal victory at +230 odds offers significant value.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "W"
           ],
           "homeLast5": [
             "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Carolina Hurricanes @ Vegas Golden Knights",
+          "betType": "spread",
+          "pick": "Vegas Golden Knights +1.5",
+          "odds": "-285",
+          "confidence": "medium",
+          "rationale": "Despite Carolina's strengths, the Golden Knights have a formidable home-ice advantage, with goaltender Carter Hart boasting a .929 save percentage and 6.82 goals saved above expected in eight playoff games at T-Mobile Arena. Both games in this series have been decided by a single goal, indicating a tightly contested matchup where Vegas is likely to keep it close even if they lose. This pick provides a high-probability outcome, leveraging Vegas's home performance and the series' close nature.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
             "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Carolina Hurricanes @ Vegas Golden Knights",
+          "betType": "total",
+          "pick": "Under 5.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "While the first two games went over the total, both were tied 2-2 through two periods before late chaos pushed them over, suggesting the underlying flow of the game might not always favor high scoring. The total line has moved slightly toward the Under despite heavy public money on the Over, which can sometimes indicate sharp money taking the opposite side. Carter Hart's strong home playoff performance, where Vegas has conceded fewer than 30 shots in both Final games, could lead to a tighter, lower-scoring affair in Game 3.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
             "W",
             "W",
             "L"
@@ -135,121 +139,121 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "San Francisco Giants @ Chicago Cubs",
+          "game": "Cincinnati Reds vs St. Louis Cardinals",
           "betType": "moneyline",
-          "pick": "San Francisco Giants (+116)",
-          "odds": "+116",
+          "pick": "St. Louis Cardinals",
+          "odds": "-126",
           "confidence": "high",
-          "rationale": "The Giants are facing a Cubs team whose starting pitcher, Edward Cabrera, is returning from a blister injury and may have rust. San Francisco's starter, Robbie Ray, has struggled recently with a 9.00 ERA over his last four starts, but the Cubs offense has been particularly poor against left-handed pitching, ranking last in wRC+ and OPS over the past 30 days. Despite the public heavily backing the Cubs (73%), the line movement on the total has shifted downwards from 11.5 to 11.0, suggesting sharper money on a lower-scoring game which could favor the underdog. The Giants have also won their last two games against a strong Brewers team, indicating some positive momentum.",
-          "awayRecord": "25-38",
+          "rationale": "The St. Louis Cardinals are in strong form, having won their last two games, including a decisive 10-3 victory over the Reds yesterday. Cincinnati's offense is significantly weakened by the absence of Elly De La Cruz, who is on the 10-day injured list with a right hamstring strain, contributing to their recent offensive struggles. Reds starting pitcher Nick Lodolo has a high 5.20 ERA and has struggled with command, which is a concern against a Cardinals lineup that has scored 24 runs in three games against the Reds this season. The Cardinals also have a solid 66.7% win rate when favored this season, making them a confident pick at home.",
+          "awayRecord": "31-31",
+          "homeRecord": "33-28",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Chicago White Sox vs Philadelphia Phillies",
+          "betType": "total",
+          "pick": "Over 9.5",
+          "odds": "-124",
+          "confidence": "high",
+          "rationale": "This game is set up for a high-scoring affair, with Philadelphia Phillies starter Andrew Painter carrying a concerning 5.74 ERA and 1.52 WHIP this season. The Chicago White Sox offense has been particularly effective against right-handed pitching, ranking third in the league over the last 10 days. Furthermore, Citizens Bank Park is known as a positive run environment, and today's forecast includes high temperatures and winds blowing out, which will favor offensive production. The head-to-head history also supports the over, with 4 of the last 5 matchups between these teams hitting the over, including a 14-run game yesterday.",
+          "awayRecord": "33-30",
+          "homeRecord": "34-29",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Boston Red Sox vs New York Yankees",
+          "betType": "moneyline",
+          "pick": "Boston Red Sox",
+          "odds": "+102",
+          "confidence": "high",
+          "rationale": "The New York Yankees are without their star slugger Aaron Judge, who was placed on the 10-day injured list with a stress fracture in his ribs and is out indefinitely. This is a significant blow to the Yankees' offensive capabilities and overall team performance. The Boston Red Sox already demonstrated their ability to compete in this rivalry by defeating the Yankees 5-3 yesterday. With Judge sidelined, the Red Sox have a clear advantage to secure another victory, especially at favorable underdog odds.",
+          "awayRecord": "27-35",
+          "homeRecord": "37-26",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Baltimore Orioles vs Toronto Blue Jays",
+          "betType": "total",
+          "pick": "Over 8.5",
+          "odds": "-106",
+          "confidence": "medium",
+          "rationale": "The recent head-to-head matchups between the Orioles and Blue Jays strongly indicate a tendency for high-scoring games, with the Over hitting in 4 of their last 5 encounters. Yesterday's game between these two teams was a high-scoring affair, with the Orioles winning 13-3. While both starting pitchers, Kyle Bradish for the Orioles and Spencer Miles for the Blue Jays, have respectable ERAs, the consistent offensive output in this rivalry suggests that runs will be plentiful. The Orioles' last five H2H games have averaged 7.0 runs per match, with 80% hitting the over.",
+          "awayRecord": "31-33",
+          "homeRecord": "30-34",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Washington Nationals vs Arizona Diamondbacks",
+          "betType": "spread",
+          "pick": "Arizona Diamondbacks -1.5",
+          "odds": "+138",
+          "confidence": "medium",
+          "rationale": "The Arizona Diamondbacks are sending a strong starter to the mound in Eduardo Rodriguez, who holds an impressive 5-1 record and a 2.24 ERA this season. Teams with Rodriguez starting have a solid 9-3 record against the spread this season. Despite the Nationals' large 14-1 victory yesterday, such blowout wins often lead to a 'letdown' effect for the winning team, while the Diamondbacks will be highly motivated for a bounce-back performance at home. The Diamondbacks have also historically started strong at home against NL East opponents, leading after five innings in seven of their last eight day games.",
+          "awayRecord": "32-32",
           "homeRecord": "33-30",
           "awayLast5": [
             "W",
             "L",
             "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Chicago White Sox @ Philadelphia Phillies",
-          "betType": "moneyline",
-          "pick": "Chicago White Sox (+110)",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "There's significant reverse line movement favoring the White Sox, as the Phillies' moneyline has shrunk from -199 to -182 despite 71% of public money on Philadelphia, indicating sharp money on Chicago. White Sox starter Anthony Kay is in excellent form, boasting a 4-0 record with a 1.95 ERA and 27 strikeouts in May. While Phillies starter Jesús Luzardo has decent underlying metrics, Kay's recent performance offers real value for the White Sox. This pick capitalizes on the market's undervaluation of the White Sox and Kay's current pitching prowess.",
-          "awayRecord": "33-29",
-          "homeRecord": "33-29",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
             "L",
             "W"
           ],
           "homeLast5": [
             "W",
             "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Baltimore Orioles @ Toronto Blue Jays",
-          "betType": "total",
-          "pick": "Over 8 (-110)",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Both the Orioles and Blue Jays offenses have shown recent improvement, with Baltimore hitting .281 and Toronto hitting .275 over their last 10 games. While Blue Jays starter Trey Yesavage has been effective, Orioles starter Brandon Young allows plenty of traffic on the bases with a 1.37 WHIP. Both teams are evenly matched with identical 30-33 records and are looking to gain ground in the AL East, suggesting a competitive game. The over has also cashed in 35 of Baltimore's 63 games this season, and 30 of Toronto's 63 games.",
-          "awayRecord": "30-33",
-          "homeRecord": "30-33",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
             "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Kansas City Royals @ Minnesota Twins",
-          "betType": "moneyline",
-          "pick": "Minnesota Twins (-146)",
-          "odds": "-146",
-          "confidence": "medium",
-          "rationale": "The Twins are favored at home against the Royals, and despite both starters coming off poor outings, Minnesota's Zebby Matthews has impressive underlying peripherals (3.00 xERA, 3.72 xFIP) compared to Kansas City's Michael Wacha (3.97 xERA, 4.20 xFIP). The Twins are trying to claw back to .500 and keep pace in their division, adding to their motivation. While both bullpens have been unreliable, the Twins have a slight edge in recent head-to-head matchups, winning 3 of the last 5 against the Royals.",
-          "awayRecord": "25-38",
-          "homeRecord": "29-35",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Los Angeles Angels @ Los Angeles Dodgers",
-          "betType": "prop",
-          "pick": "Mike Trout Home Run",
-          "odds": "+164",
-          "confidence": "medium",
-          "rationale": "Mike Trout is active and expected back in the lineup for the Angels. Dodgers starter Roki Sasaki has shown a vulnerability to right-handed power, allowing a career 1.58 HR/9 and a 2.01 HR/9 this season. Dodger Stadium is an upgrade for hitters, and the weather conditions with wind blowing out at 8 mph further favor home runs. Trout has displayed excellent underlying power numbers this season, making this a strong value play.",
-          "awayRecord": "24-39",
-          "homeRecord": "40-23",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
             "W",
             "L"
           ]
