@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-06-06",
+    "sports": [
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes @ Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Vegas Golden Knights 5"
+          },
+          {
+            "game": "Carolina Hurricanes @ Vegas Golden Knights",
+            "betType": "moneyline",
+            "pick": "Carolina Hurricanes",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Carolina Hurricanes 4, Vegas Golden Knights 5"
+          },
+          {
+            "game": "Carolina Hurricanes @ Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+230",
+            "confidence": "high",
+            "result": "L",
+            "score": "Carolina Hurricanes 4, Vegas Golden Knights 5"
+          },
+          {
+            "game": "Carolina Hurricanes @ Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Vegas Golden Knights +1.5",
+            "odds": "-285",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Vegas Golden Knights 5"
+          },
+          {
+            "game": "Carolina Hurricanes @ Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Carolina Hurricanes 4, Vegas Golden Knights 5"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cincinnati Reds vs St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "-126",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 5, St. Louis Cardinals 6"
+          },
+          {
+            "game": "Chicago White Sox vs Philadelphia Phillies",
+            "betType": "total",
+            "pick": "Over 9.5",
+            "odds": "-124",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago White Sox 6, Philadelphia Phillies 3"
+          },
+          {
+            "game": "Boston Red Sox vs New York Yankees",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Baltimore Orioles vs Toronto Blue Jays",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Baltimore Orioles 4, Toronto Blue Jays 6"
+          },
+          {
+            "game": "Washington Nationals vs Arizona Diamondbacks",
+            "betType": "spread",
+            "pick": "Arizona Diamondbacks -1.5",
+            "odds": "+138",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Nationals 6, Arizona Diamondbacks 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-05",
     "sports": [
       {

@@ -1,259 +1,126 @@
 {
-  "date": "2026-06-06",
-  "generatedAt": "2026-06-06T18:01:36.081Z",
+  "date": "2026-06-07",
+  "generatedAt": "2026-06-07T17:58:32.593Z",
   "sports": [
-    {
-      "sport": "NHL",
-      "picks": [
-        {
-          "game": "Carolina Hurricanes @ Vegas Golden Knights",
-          "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-125",
-          "confidence": "high",
-          "rationale": "Both games in this Stanley Cup Final series have gone over the 5.5 total, with Game 1 finishing 5-4 and Game 2 ending 4-3 in overtime (7 total goals). Public betting money is overwhelmingly on the Over, with 98% of bets and 93-94% of dollars on this side, yet the line has held steady, indicating confidence from oddsmakers. With offensive firepower from players like Marner, Eichel, Hall, and Stankoven on both sides, and a desperation factor for Vegas at home, another high-scoring contest is expected.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "53-22-7",
-          "homeRecord": "39-26-17",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Carolina Hurricanes @ Vegas Golden Knights",
-          "betType": "moneyline",
-          "pick": "Carolina Hurricanes",
-          "odds": "-108",
-          "confidence": "high",
-          "rationale": "The Carolina Hurricanes boast a superior regular-season record of 53-22-7 and an impressive 9-0-1 record in their last 10 road games. They have demonstrated their resilience by coming back from a multi-goal deficit to win Game 2 in overtime, showcasing their depth and ability to perform under pressure. Furthermore, key Vegas defenseman Brayden McNabb is uncertain to play after taking a puck to the face in Game 2, which could significantly weaken the Golden Knights' defensive structure and penalty kill.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "53-22-7",
-          "homeRecord": "39-26-17",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Carolina Hurricanes @ Vegas Golden Knights",
-          "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "+230",
-          "confidence": "high",
-          "rationale": "Carolina's strong overall record (53-22-7) and consistent ability to generate 32.2 shots per game while allowing only 23.9 suggests they can control the pace and outwork opponents. The potential absence of Brayden McNabb for Vegas, a key defenseman and penalty killer, could further expose their defense, making it difficult to contain Carolina's offense. Given the Hurricanes' momentum from their Game 2 comeback and their statistical edge, a multi-goal victory at +230 odds offers significant value.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "53-22-7",
-          "homeRecord": "39-26-17",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Carolina Hurricanes @ Vegas Golden Knights",
-          "betType": "spread",
-          "pick": "Vegas Golden Knights +1.5",
-          "odds": "-285",
-          "confidence": "medium",
-          "rationale": "Despite Carolina's strengths, the Golden Knights have a formidable home-ice advantage, with goaltender Carter Hart boasting a .929 save percentage and 6.82 goals saved above expected in eight playoff games at T-Mobile Arena. Both games in this series have been decided by a single goal, indicating a tightly contested matchup where Vegas is likely to keep it close even if they lose. This pick provides a high-probability outcome, leveraging Vegas's home performance and the series' close nature.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "53-22-7",
-          "homeRecord": "39-26-17",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Carolina Hurricanes @ Vegas Golden Knights",
-          "betType": "total",
-          "pick": "Under 5.5",
-          "odds": "+105",
-          "confidence": "medium",
-          "rationale": "While the first two games went over the total, both were tied 2-2 through two periods before late chaos pushed them over, suggesting the underlying flow of the game might not always favor high scoring. The total line has moved slightly toward the Under despite heavy public money on the Over, which can sometimes indicate sharp money taking the opposite side. Carter Hart's strong home playoff performance, where Vegas has conceded fewer than 30 shots in both Final games, could lead to a tighter, lower-scoring affair in Game 3.",
-          "awayRecord": "53-22-7",
-          "homeRecord": "39-26-17",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        }
-      ]
-    },
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Cincinnati Reds vs St. Louis Cardinals",
+          "game": "Seattle Mariners @ Detroit Tigers",
+          "betType": "moneyline",
+          "pick": "Seattle Mariners",
+          "odds": "+110",
+          "confidence": "high",
+          "rationale": "The Seattle Mariners enter this game in excellent form, boasting an 8-2 straight-up record in their last 10 games and a 7-2 record when favored. Conversely, the Detroit Tigers have struggled as underdogs this season, with a 10-19 record. Seattle also holds a significant offensive advantage on the road, averaging 4.33 runs and 1.13 home runs per game compared to Detroit's 3.87 runs at home. While the moneyline has seen some movement towards Detroit, Seattle's overall superior form and offensive production make them a strong play.",
+          "awayRecord": "34-31",
+          "homeRecord": "26-39",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers @ Colorado Rockies",
+          "betType": "spread",
+          "pick": "Milwaukee Brewers -1.5",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers are currently in strong form, holding a 7-3 record over their last 10 games. They have already demonstrated their dominance in this series by defeating the Colorado Rockies 7-1 and 9-7 in extra innings. The Rockies, with a 24-41 record, are among the weakest teams in the league. Given Milwaukee's consistent performance and their previous decisive wins against Colorado, the Brewers are well-positioned to cover the -1.5 run line.",
+          "awayRecord": "39-23",
+          "homeRecord": "24-41",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Cincinnati Reds @ St. Louis Cardinals",
           "betType": "moneyline",
           "pick": "St. Louis Cardinals",
-          "odds": "-126",
+          "odds": "-152",
           "confidence": "high",
-          "rationale": "The St. Louis Cardinals are in strong form, having won their last two games, including a decisive 10-3 victory over the Reds yesterday. Cincinnati's offense is significantly weakened by the absence of Elly De La Cruz, who is on the 10-day injured list with a right hamstring strain, contributing to their recent offensive struggles. Reds starting pitcher Nick Lodolo has a high 5.20 ERA and has struggled with command, which is a concern against a Cardinals lineup that has scored 24 runs in three games against the Reds this season. The Cardinals also have a solid 66.7% win rate when favored this season, making them a confident pick at home.",
-          "awayRecord": "31-31",
-          "homeRecord": "33-28",
+          "rationale": "The St. Louis Cardinals are coming off a commanding 10-3 victory over the Cincinnati Reds in the previous game of this series. Key offensive player Lars Nootbaar also made a successful return to the Cardinals' lineup, contributing an RBI double in that win. The Cardinals have shown better recent form with a 5-5 record in their last 10 games. With Matthew Liberatore on the mound for St. Louis, they have a strong opportunity to secure another home victory against the Reds.",
+          "awayRecord": "31-32",
+          "homeRecord": "34-28",
           "awayLast5": [
-            "W",
             "L",
             "W",
+            "L",
             "L",
             "L"
           ],
           "homeLast5": [
-            "W",
             "L",
             "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Chicago White Sox vs Philadelphia Phillies",
-          "betType": "total",
-          "pick": "Over 9.5",
-          "odds": "-124",
-          "confidence": "high",
-          "rationale": "This game is set up for a high-scoring affair, with Philadelphia Phillies starter Andrew Painter carrying a concerning 5.74 ERA and 1.52 WHIP this season. The Chicago White Sox offense has been particularly effective against right-handed pitching, ranking third in the league over the last 10 days. Furthermore, Citizens Bank Park is known as a positive run environment, and today's forecast includes high temperatures and winds blowing out, which will favor offensive production. The head-to-head history also supports the over, with 4 of the last 5 matchups between these teams hitting the over, including a 14-run game yesterday.",
-          "awayRecord": "33-30",
-          "homeRecord": "34-29",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
             "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Boston Red Sox vs New York Yankees",
-          "betType": "moneyline",
-          "pick": "Boston Red Sox",
-          "odds": "+102",
-          "confidence": "high",
-          "rationale": "The New York Yankees are without their star slugger Aaron Judge, who was placed on the 10-day injured list with a stress fracture in his ribs and is out indefinitely. This is a significant blow to the Yankees' offensive capabilities and overall team performance. The Boston Red Sox already demonstrated their ability to compete in this rivalry by defeating the Yankees 5-3 yesterday. With Judge sidelined, the Red Sox have a clear advantage to secure another victory, especially at favorable underdog odds.",
-          "awayRecord": "27-35",
-          "homeRecord": "37-26",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Baltimore Orioles vs Toronto Blue Jays",
-          "betType": "total",
-          "pick": "Over 8.5",
-          "odds": "-106",
-          "confidence": "medium",
-          "rationale": "The recent head-to-head matchups between the Orioles and Blue Jays strongly indicate a tendency for high-scoring games, with the Over hitting in 4 of their last 5 encounters. Yesterday's game between these two teams was a high-scoring affair, with the Orioles winning 13-3. While both starting pitchers, Kyle Bradish for the Orioles and Spencer Miles for the Blue Jays, have respectable ERAs, the consistent offensive output in this rivalry suggests that runs will be plentiful. The Orioles' last five H2H games have averaged 7.0 runs per match, with 80% hitting the over.",
-          "awayRecord": "31-33",
-          "homeRecord": "30-34",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Washington Nationals vs Arizona Diamondbacks",
+          "game": "Los Angeles Angels @ Los Angeles Dodgers",
           "betType": "spread",
-          "pick": "Arizona Diamondbacks -1.5",
-          "odds": "+138",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "The Arizona Diamondbacks are sending a strong starter to the mound in Eduardo Rodriguez, who holds an impressive 5-1 record and a 2.24 ERA this season. Teams with Rodriguez starting have a solid 9-3 record against the spread this season. Despite the Nationals' large 14-1 victory yesterday, such blowout wins often lead to a 'letdown' effect for the winning team, while the Diamondbacks will be highly motivated for a bounce-back performance at home. The Diamondbacks have also historically started strong at home against NL East opponents, leading after five innings in seven of their last eight day games.",
-          "awayRecord": "32-32",
-          "homeRecord": "33-30",
+          "rationale": "The Los Angeles Dodgers have been dominant in this series, securing wins of 1-0 and 9-2 in the first two games against the Angels. The Angels are struggling, holding a 4-6 record in their last 10 games, and are missing key offensive talent like Jorge Soler due to injury. Additionally, Dodgers catcher Will Smith, who was scratched on June 6, is expected to return to the lineup, further strengthening their offense. Given the Dodgers' superior form and the Angels' current struggles, covering the -1.5 spread at even odds presents excellent value.",
+          "awayRecord": "24-41",
+          "homeRecord": "42-23",
           "awayLast5": [
+            "L",
+            "L",
             "W",
             "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
             "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Chicago White Sox @ Philadelphia Phillies",
+          "betType": "moneyline",
+          "pick": "Philadelphia Phillies",
+          "odds": "-350",
+          "confidence": "medium",
+          "rationale": "The Philadelphia Phillies are in strong recent form, having won 7 of their last 10 games. Their offense is potent, led by Kyle Schwarber, who boasts 23 home runs and 40 RBIs, and Brandon Marsh with an impressive .335 batting average. On the pitching side, Cristopher Sánchez has been excellent with a 1.46 ERA and 103 strikeouts. While the moneyline is heavily juiced, the Phillies' strong performance, offensive firepower, and home-field advantage against the Chicago White Sox make this a high-confidence moneyline pick.",
+          "awayRecord": "34-30",
+          "homeRecord": "34-30",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
             "L",
             "W"
           ],
           "homeLast5": [
             "W",
-            "L",
-            "L",
+            "W",
+            "W",
             "W",
             "L"
           ]
