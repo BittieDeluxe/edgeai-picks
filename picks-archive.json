@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-06-07",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Seattle Mariners @ Detroit Tigers",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Seattle Mariners 4, Detroit Tigers 5"
+          },
+          {
+            "game": "Milwaukee Brewers @ Colorado Rockies",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Milwaukee Brewers 12, Colorado Rockies 4"
+          },
+          {
+            "game": "Cincinnati Reds @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "-152",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 3, St. Louis Cardinals 5"
+          },
+          {
+            "game": "Los Angeles Angels @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Angels 13, Los Angeles Dodgers 5"
+          },
+          {
+            "game": "Chicago White Sox @ Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies",
+            "odds": "-350",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago White Sox 5, Philadelphia Phillies 9"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-06",
     "sports": [
       {
@@ -79,8 +135,8 @@
             "pick": "Boston Red Sox",
             "odds": "+102",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Boston Red Sox 1, New York Yankees 6"
           },
           {
             "game": "Baltimore Orioles vs Toronto Blue Jays",
