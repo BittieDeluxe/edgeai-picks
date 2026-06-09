@@ -1,127 +1,127 @@
 {
-  "date": "2026-06-08",
-  "generatedAt": "2026-06-08T19:15:22.939Z",
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T19:08:17.246Z",
   "sports": [
     {
-      "sport": "NBA",
+      "sport": "NHL",
       "picks": [
         {
-          "game": "San Antonio Spurs vs New York Knicks",
+          "game": "Carolina Hurricanes vs Vegas Golden Knights",
           "betType": "moneyline",
-          "pick": "New York Knicks",
-          "odds": "-130",
+          "pick": "Vegas Golden Knights",
+          "odds": "-104",
           "confidence": "high",
-          "rationale": "The New York Knicks are in dominant form, leading the NBA Finals 2-0 and returning home to Madison Square Garden with an impressive 13-game playoff winning streak. They boast a strong home playoff record of 14-2. Historically, no team has ever lost the NBA Finals after winning the first two games on the road, providing a significant situational advantage for New York. The Knicks have also won 4 of their last 5 head-to-head matchups against the Spurs.",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
+          "rationale": "Vegas holds a 2-1 series lead and benefits from home-ice advantage in Game 4. They have dominated recent head-to-head matchups, winning 4 of the last 5 against Carolina, and boast an impressive 8-2-0 record in their last 10 games, including a 6-1-0 mark in their last seven home games. The uncertainty surrounding Carolina's starting goaltender, with Frederik Andersen's recent struggles and 'maintenance day,' further tilts the advantage towards the Golden Knights. The -104 odds present solid value for the home team with momentum.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
           "awayLast5": [
-            "L",
             "W",
             "W",
             "L",
+            "W",
             "L"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "San Antonio Spurs vs New York Knicks",
+          "game": "Carolina Hurricanes vs Vegas Golden Knights",
+          "betType": "total",
+          "pick": "Over 5.5",
+          "odds": "-134",
+          "confidence": "high",
+          "rationale": "The scoring trend in this series and recent head-to-head history heavily favors the Over. All three Stanley Cup Final games have surpassed 5.5 goals, with an average of 7.8 goals per game in the 2025-26 matchups. Both teams possess strong offensive capabilities, with Vegas boasting the top playoff offense and both teams finding success on the power play. Carolina's potential goaltending instability could also contribute to a higher-scoring contest, making the Over a high-confidence play.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Carolina Hurricanes vs Vegas Golden Knights",
           "betType": "spread",
-          "pick": "New York Knicks -1.5",
-          "odds": "-118",
-          "confidence": "medium",
-          "rationale": "The New York Knicks have been exceptional against the spread recently, boasting a 5-0 ATS record in their last 5 games, indicating their consistent ability to cover lines. They are riding a 13-game playoff winning streak and hold a commanding 2-0 series lead, suggesting continued strong performance. While the spread has slightly moved from -2.5 to -1.5, the Knicks' overall dominance, especially at home, makes covering this small spread highly probable. Their average winning margin in their last 10 games is +17.7 points.",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
+          "pick": "Vegas Golden Knights +1.5",
+          "odds": "-265",
+          "confidence": "high",
+          "rationale": "Despite the heavily juiced odds, this pick is highly confident given the tight nature of the Stanley Cup Final, with Vegas currently leading 2-1. The Golden Knights have won 4 of the last 5 head-to-head matchups against Carolina, and even in their losses, the games have been decided by a single goal. With strong home-ice advantage and a competitive series, it is very likely Vegas will either win outright or lose by only one goal, making the +1.5 spread a secure option.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
           "awayLast5": [
-            "L",
             "W",
             "W",
             "L",
+            "W",
             "L"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "San Antonio Spurs vs New York Knicks",
-          "betType": "total",
-          "pick": "Under 216.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "The first two games of the NBA Finals have seen significantly lower scoring, with totals of 200 (105-95) and 209 (105-104), both comfortably below the 216.5 line. The New York Knicks possess a stout defense, limiting opponents to just 100.5 points per game over their last 10 contests. Historically, the head-to-head matchups between these two teams have shown a tendency towards the Under, with only 40% of their last five games going Over the total. This defensive intensity and recent scoring trends suggest a lower-scoring Game 3.",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "San Antonio Spurs vs New York Knicks",
+          "game": "Carolina Hurricanes vs Vegas Golden Knights",
           "betType": "moneyline",
-          "pick": "San Antonio Spurs",
-          "odds": "+110",
+          "pick": "Carolina Hurricanes",
+          "odds": "-115",
           "confidence": "medium",
-          "rationale": "Despite being down 0-2 in the series, the San Antonio Spurs have shown flashes of brilliance, holding double-digit leads in both prior Finals games, demonstrating their potential for an upset. Victor Wembanyama is a generational talent capable of single-handedly impacting a game, averaging 27.5 points and 10.5 rebounds in the Finals. Facing a must-win Game 3 on the road, the Spurs will play with extreme desperation, and the pressure on the Knicks at home, leading 2-0, could create an opening for an underdog victory.",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
+          "rationale": "Despite dropping Game 3 in double overtime, Carolina remains a formidable team with a superior regular-season record of 53-22-7 and a strong motivation to even the series at 2-2. They have a proven ability to win on the road, with 8 victories in their last 10 away games before the recent loss. The Hurricanes' aggressive forecheck and offensive depth provide a strong foundation for a bounce-back performance, making their moneyline a high-confidence play for a pivotal Game 4.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
           "awayLast5": [
-            "L",
             "W",
             "W",
             "L",
+            "W",
             "L"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "San Antonio Spurs vs New York Knicks",
-          "betType": "total",
-          "pick": "Over 216.5",
-          "odds": "-108",
+          "game": "Carolina Hurricanes vs Vegas Golden Knights",
+          "betType": "spread",
+          "pick": "Carolina Hurricanes -1.5",
+          "odds": "+210",
           "confidence": "medium",
-          "rationale": "While the first two Finals games were lower scoring, both the Knicks and Spurs possess high-powered offenses capable of exceeding this total. The Knicks average 118.2 points per game over their last 10, and the Spurs average 112.7 points over the same span, combining for over 230 points. The total line has also seen a slight upward movement from 215.5 to 216.5, suggesting some market expectation for more offensive output in Game 3. With the series shifting to New York, both teams might find a more comfortable offensive rhythm, leading to a higher-scoring affair.",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
+          "rationale": "Despite trailing in the series, the Carolina Hurricanes possess a significantly superior regular-season record (53-22-7) and are highly motivated to avoid a 3-1 series deficit after an 'excruciating' Game 3 loss. They have demonstrated strong offensive capabilities, ranking 2nd in goals for during the regular season, and have a solid road record, winning 8 of their last 10 away games before Game 3. If Carolina delivers a strong bounce-back performance, a multi-goal victory is certainly within their capabilities.",
+          "awayRecord": "53-22-7",
+          "homeRecord": "39-26-17",
           "awayLast5": [
-            "L",
             "W",
             "W",
             "L",
+            "W",
             "L"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "W"
           ]
         }
@@ -131,64 +131,40 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Seattle Mariners vs Baltimore Orioles",
-          "betType": "spread",
-          "pick": "Seattle Mariners -1.5",
-          "odds": "+138",
+          "game": "Washington Nationals @ San Francisco Giants",
+          "betType": "moneyline",
+          "pick": "Washington Nationals",
+          "odds": "+110",
           "confidence": "high",
-          "rationale": "The Seattle Mariners have a significant pitching advantage with Emerson Hancock (2.80 ERA, 0.95 WHIP) starting, while the Baltimore Orioles are forced to start rookie Trey Gibson due to Chris Bassitt's injury. The Mariners also boast the second-best bullpen in baseball, which should help secure a multi-run victory. Despite the Orioles' historical H2H edge, the current pitching mismatch strongly favors Seattle to win by at least two runs, making the plus-money run line an excellent value play.",
-          "awayRecord": "34-32",
-          "homeRecord": "31-35",
+          "rationale": "The Washington Nationals are a strong road team, holding an impressive 22-13 record away from home this season. Their offense is performing exceptionally well, ranking first in runs scored, fifth in OPS, and sixth in Weighted Runs Created Plus (wRC+) across MLB. They face Giants starter Adrian Houser, who carries a high 5.49 ERA and struggled in his last outing, allowing four runs in just 3.2 innings. Furthermore, significant line movement has favored Washington, with their moneyline shifting from +104 to -106, indicating sharp money backing the Nationals despite initial public sentiment for the Giants.",
+          "awayRecord": "34-33",
+          "homeRecord": "27-40",
           "awayLast5": [
-            "W",
-            "L",
             "L",
             "W",
-            "L"
+            "W",
+            "L",
+            "W"
           ],
           "homeLast5": [
-            "L",
             "W",
             "W",
             "L",
+            "W",
             "L"
           ]
         },
         {
-          "game": "Boston Red Sox vs Tampa Bay Rays",
+          "game": "Texas Rangers @ Kansas City Royals",
           "betType": "moneyline",
-          "pick": "Boston Red Sox (-112)",
-          "odds": "-112",
+          "pick": "Texas Rangers",
+          "odds": "-126",
           "confidence": "high",
-          "rationale": "The Boston Red Sox enter this matchup with strong recent road form, having won 6 of their last 7 away games. Conversely, the Tampa Bay Rays have been struggling, losing 5 of their last 6 games overall. This clear divergence in recent performance, coupled with the Red Sox being a slight underdog on the moneyline, presents a valuable opportunity for Boston to secure a road victory against a slumping Rays team.",
-          "awayRecord": "27-36",
-          "homeRecord": "37-25",
+          "rationale": "The Texas Rangers have demonstrated clear dominance over the Kansas City Royals this season, winning all three head-to-head matchups and outscoring them 22-11. Texas enters this game in good form, having won seven of their last nine contests. The Royals' offensive potential is significantly hampered by the questionable availability of key players like Witt, Perez, and Caglianone, and their pitching staff faces uncertainty with Stephen Kolek on bereavement. Reverse line movement, where the Rangers' moneyline moved from -118 to -122 despite heavy public betting on Kansas City, signals sharp money supporting Texas.",
+          "awayRecord": "32-33",
+          "homeRecord": "27-39",
           "awayLast5": [
-            "L",
             "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Yankees vs Cleveland Guardians",
-          "betType": "moneyline",
-          "pick": "Cleveland Guardians (+114)",
-          "odds": "+114",
-          "confidence": "high",
-          "rationale": "The Cleveland Guardians are a proven bounce-back team, holding a 19-10 record (66%) off a loss this season, making them the most profitable in MLB. Sharp reverse line movement on the Guardians' moneyline further indicates professional backing despite public sentiment favoring the Yankees. With Aaron Judge's injury concerns for New York and Cleveland's Gavin Williams (3.20 ERA) on the mound, the Guardians have a strong situational and pitching advantage at home.",
-          "awayRecord": "38-26",
-          "homeRecord": "37-30",
-          "awayLast5": [
-            "L",
             "L",
             "W",
             "L",
@@ -196,57 +172,81 @@
           ],
           "homeLast5": [
             "W",
-            "L",
+            "W",
             "L",
             "W",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Philadelphia Phillies vs Toronto Blue Jays",
+          "game": "Philadelphia Phillies @ Toronto Blue Jays",
           "betType": "spread",
           "pick": "Philadelphia Phillies -1.5",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "This game features a significant pitching mismatch, with the Phillies' Cristopher Sanchez boasting a stellar 1.46 ERA and 1.09 WHIP against the Blue Jays' Patrick Corbin (3.98 ERA, 1.38 WHIP). Philadelphia is in excellent form, having won four of its last five games and playing its best baseball of the season. Given Sanchez's dominance and the Phillies' offensive power (82 team home runs), a multi-run victory for Philadelphia is highly probable, offering strong value on the run line.",
-          "awayRecord": "35-30",
-          "homeRecord": "32-34",
+          "odds": "+110",
+          "confidence": "high",
+          "rationale": "The Philadelphia Phillies are in excellent recent form, boasting a 7-3 record over their last 10 games. They send Cristopher Sanchez to the mound, who is having a standout season with a 1.54 ERA and 113 strikeouts through 93.1 innings, ranking second among qualified MLB pitchers in ERA. This strong pitching advantage, coupled with the Phillies' consistent recent performance, provides a significant edge for them to secure a multi-run victory against the 32-35 Blue Jays. Kyle Schwarber is also a hot bat for the Phillies, slashing .357/.438/.595 with three homers in his last 11 games.",
+          "awayRecord": "36-30",
+          "homeRecord": "32-35",
           "awayLast5": [
             "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
             "W",
             "L",
             "W",
             "W"
-          ]
-        },
-        {
-          "game": "Houston Astros vs Los Angeles Angels",
-          "betType": "spread",
-          "pick": "Houston Astros -1.5",
-          "odds": "+122",
-          "confidence": "medium",
-          "rationale": "The Houston Astros hold a massive pitching advantage with Spencer Arrighetti (7-1, 1.94 ERA) facing the Angels' Grayson Rodriguez (2-2, 9.50 ERA). The Astros have been dominant in Arrighetti's starts, winning 8 of his 9 outings this season. Both sharp and public money are heavily backing Houston on the moneyline, and the plus-money odds on the run line provide exceptional value for the superior team with a significant pitching mismatch.",
-          "awayRecord": "30-37",
-          "homeRecord": "25-41",
-          "awayLast5": [
+          ],
+          "homeLast5": [
             "W",
             "L",
             "W",
             "W",
             "L"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers @ Athletics",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers",
+          "odds": "-104",
+          "confidence": "medium",
+          "rationale": "The Milwaukee Brewers are currently in strong form, holding a 7-3 record over their last 10 games. They are coming off an impressive 15-14 victory against the Athletics yesterday, showcasing their offensive firepower. While the Athletics' starter J. Ginn has a respectable 2.74 ERA, the Brewers' overall momentum and offensive capabilities make them a favorable pick at nearly even odds. Key hitter Jake Bauers has been exceptional for Milwaukee, slashing .286/.381/.531 with 12 homers and 43 RBI this season.",
+          "awayRecord": "41-23",
+          "homeRecord": "31-35",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
           ],
           "homeLast5": [
             "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Texas Rangers @ Kansas City Royals",
+          "betType": "total",
+          "pick": "Under 9.5",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "Despite previous high-scoring head-to-head games, the Kansas City Royals' offense is facing significant uncertainty due to potential injuries to key players such as Witt, Perez, and Caglianone. While Nathan Eovaldi has been inconsistent for the Rangers, Royals starter Stephen Kolek has demonstrated effectiveness in preventing runs at home. With both teams having a rest day on Monday, the bullpens should be fresh, further supporting a lower-scoring outcome. The Under 9.5 at plus money presents value, especially considering the Royals' potential offensive limitations.",
+          "awayRecord": "32-33",
+          "homeRecord": "27-39",
+          "awayLast5": [
             "W",
             "L",
+            "W",
             "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
             "W"
           ]
         }

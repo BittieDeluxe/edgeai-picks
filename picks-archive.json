@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-06-08",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "moneyline",
+            "pick": "New York Knicks",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Antonio Spurs 115, New York Knicks 111"
+          },
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "spread",
+            "pick": "New York Knicks -1.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 115, New York Knicks 111"
+          },
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "total",
+            "pick": "Under 216.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 115, New York Knicks 111"
+          },
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "moneyline",
+            "pick": "San Antonio Spurs",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 115, New York Knicks 111"
+          },
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "total",
+            "pick": "Over 216.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 115, New York Knicks 111"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Seattle Mariners vs Baltimore Orioles",
+            "betType": "spread",
+            "pick": "Seattle Mariners -1.5",
+            "odds": "+138",
+            "confidence": "high",
+            "result": "W",
+            "score": "Seattle Mariners 6, Baltimore Orioles 3"
+          },
+          {
+            "game": "Boston Red Sox vs Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox (-112)",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Red Sox 1, Tampa Bay Rays 3"
+          },
+          {
+            "game": "New York Yankees vs Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "Cleveland Guardians (+114)",
+            "odds": "+114",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Yankees 7, Cleveland Guardians 5"
+          },
+          {
+            "game": "Philadelphia Phillies vs Toronto Blue Jays",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies -1.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Phillies 5, Toronto Blue Jays 2"
+          },
+          {
+            "game": "Houston Astros vs Los Angeles Angels",
+            "betType": "spread",
+            "pick": "Houston Astros -1.5",
+            "odds": "+122",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Astros 5, Los Angeles Angels 4"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-07",
     "sports": [
       {
