@@ -1,134 +1,132 @@
 {
-  "date": "2026-06-10",
-  "generatedAt": "2026-06-10T19:28:59.167Z",
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-11T19:28:46.582Z",
   "sports": [
     {
-      "sport": "NBA",
+      "sport": "NHL",
       "picks": [
         {
-          "game": "San Antonio Spurs vs New York Knicks",
-          "betType": "spread",
-          "pick": "New York Knicks -2.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The New York Knicks are at home in Game 4 of the NBA Finals, leading the series 2-1, and are highly motivated after their 13-game playoff winning streak was snapped in Game 3. They boast a dominant 10-0 record in their ten playoff games prior to the Game 3 loss, showcasing their elite form and ability to win convincingly. With a healthy roster and a strong historical head-to-head advantage over the Spurs (4-1 in last 5, +9.0 ppg differential), the Knicks are poised to bounce back and cover the modest -2.5 spread at Madison Square Garden.",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "San Antonio Spurs vs New York Knicks",
+          "game": "Vegas Golden Knights vs Carolina Hurricanes",
           "betType": "total",
-          "pick": "Under 216.5",
-          "odds": "-110",
+          "pick": "Over 6.5",
+          "odds": "+110",
           "confidence": "medium",
-          "rationale": "Two of the three NBA Finals games between the Spurs and Knicks have gone under the 216.5 total, with scores of 200 and 209 points, indicating a trend towards tighter, more defensive contests in this high-stakes series. While Game 3 saw a higher score, the overall defensive intensity typically increases in the Finals, especially in a pivotal Game 4. Both teams are fully healthy, which often contributes to stronger defensive performances. Given the tight series and the importance of this game, a lower-scoring affair is a strong possibility.",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
+          "rationale": "All four games in this Stanley Cup Final series have gone over the total, with a remarkable average of 8.2 combined goals per game. The total line has already moved from an opening of 6 to the current 6.5, indicating sharp money on the over. Both teams possess skilled offenses and are generating significant shot volume, suggesting a continuation of this high-scoring trend. Carolina's expected starting goaltender, Brandon Bussi, while performing well in Game 4, is still relatively unproven in this high-pressure environment, and Vegas's Carter Hart has allowed at least four goals in every game of the series.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
           "awayLast5": [
             "W",
             "W",
             "L",
-            "L",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
+            "L",
             "W",
-            "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "San Antonio Spurs vs New York Knicks",
-          "betType": "prop",
-          "pick": "Victor Wembanyama Points + Rebounds Over 38.5",
-          "odds": "-114",
+          "game": "Vegas Golden Knights vs Carolina Hurricanes",
+          "betType": "moneyline",
+          "pick": "Carolina Hurricanes",
+          "odds": "-152",
           "confidence": "high",
-          "rationale": "Victor Wembanyama is active and has demonstrated an ascending trajectory in his Points + Rebounds totals throughout the Finals, recording 36 in Game 1, 38 in Game 2, and 40 in Game 3. He delivered his best Finals performance in Game 3 with 32 points and 8 rebounds, and SportsLine projects him for 40.5 combined points and rebounds in Game 4. Given his increasing impact and the Spurs' need for his production, Wembanyama is expected to exceed this line.",
-          "propPlayer": "Victor Wembanyama",
-          "propTeam": "San Antonio Spurs",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
+          "rationale": "The Carolina Hurricanes hold a significant situational advantage playing at home in this pivotal Game 5, with the series tied 2-2. Carolina has an impressive record of winning nine of their last ten home games following a road win, demonstrating their ability to bounce back effectively. Conversely, the Vegas Golden Knights have struggled on the road after a home loss, with a 1-7 record in their last eight such games. Furthermore, Carolina is expected to start Brandon Bussi in net, who performed well in Game 4, while Vegas's Carter Hart has been consistently allowing four or more goals per game in the series.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
           "awayLast5": [
             "W",
             "W",
             "L",
-            "L",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
+            "L",
             "W",
-            "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "San Antonio Spurs vs New York Knicks",
-          "betType": "prop",
-          "pick": "Jalen Brunson to Score 30+ Points",
-          "odds": "+130",
-          "confidence": "medium",
-          "rationale": "Jalen Brunson is active and has consistently been aggressive in the Finals, taking at least 25 shots in every game and averaging 27.3 points per game despite shooting below his regular-season efficiency. He scored 32 points in Game 3, demonstrating his capability to hit the 30-point mark. With the Knicks looking to rebound at home, Brunson is expected to maintain his high volume of shots and could see a positive regression in his shooting percentage, making 30+ points a valuable pick.",
-          "propPlayer": "Jalen Brunson",
-          "propTeam": "New York Knicks",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
+          "game": "Vegas Golden Knights vs Carolina Hurricanes",
+          "betType": "spread",
+          "pick": "Carolina Hurricanes -1.5",
+          "odds": "+164",
+          "confidence": "high",
+          "rationale": "Given the Carolina Hurricanes' strong home performance, especially after a road win (9-1 in their last 10), and the struggles of Vegas Golden Knights' goaltender Carter Hart, a multi-goal victory for Carolina is a strong possibility. The Hurricanes have been averaging 4.3 goals per game in this series, and their offense is clicking. With the series tied 2-2, Carolina will be looking to capitalize on home-ice advantage and Hart's recent form, who has allowed at least four goals in each of the first four games. The attractive odds for the -1.5 spread offer excellent value considering these factors.",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
           "awayLast5": [
             "W",
             "W",
             "L",
-            "L",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
+            "L",
             "W",
-            "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "San Antonio Spurs vs New York Knicks",
+          "game": "Vegas Golden Knights vs Carolina Hurricanes",
           "betType": "prop",
-          "pick": "Josh Hart Over 10.5 points",
-          "odds": "+100",
+          "pick": "Jordan Staal Anytime Goal Scorer",
+          "odds": "N/A",
           "confidence": "medium",
-          "rationale": "Josh Hart is active and showed strong scoring in Game 3, contributing 16 points for the Knicks. He has a notable home-court scoring advantage in the playoffs, averaging almost 13 points per game at Madison Square Garden on 46% shooting. With the Knicks emphasizing more off-ball activity and Karl-Anthony Towns operating as a passer, Hart is likely to find open looks. Projections for Game 4 place his scoring between 10.8 and 12+ points, making the Over 10.5 at even money a favorable bet.",
-          "propPlayer": "Josh Hart",
-          "propTeam": "New York Knicks",
-          "awayRecord": "62-20",
-          "homeRecord": "53-29",
+          "rationale": "Carolina Hurricanes forward Jordan Staal is in exceptional form, having scored five goals through the first four games of the Stanley Cup Final, finding the net in every game of the series. Staal is confirmed active and is expected to play a key role in Game 5. His consistent scoring in high-stakes situations makes him a prime candidate to score again. He is a veteran presence who thrives in front of the net, where he has done most of his damage in this series.",
+          "propPlayer": "Jordan Staal",
+          "propTeam": "Carolina Hurricanes",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
           "awayLast5": [
             "W",
             "W",
             "L",
-            "L",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Vegas Golden Knights vs Carolina Hurricanes",
+          "betType": "prop",
+          "pick": "Brett Howden Anytime Goal Scorer",
+          "odds": "N/A",
+          "confidence": "medium",
+          "rationale": "Brett Howden has been a significant offensive contributor for the Vegas Golden Knights in the playoffs, leading the team with 14 postseason goals. Crucially, Howden has scored in both of the previous games played in Carolina during this series. He is confirmed active and is expected to be a key offensive threat for Vegas. His ability to find the back of the net, particularly on the road against the Hurricanes, makes this a high-confidence pick.",
+          "propPlayer": "Brett Howden",
+          "propTeam": "Vegas Golden Knights",
+          "awayRecord": "39-26-17",
+          "homeRecord": "53-22-7",
+          "awayLast5": [
             "W",
             "W",
+            "L",
             "W",
             "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
           ]
         }
       ]
@@ -137,62 +135,110 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Arizona Diamondbacks @ Miami Marlins",
-          "betType": "total",
-          "pick": "Over 8.5",
+          "game": "St. Louis Cardinals vs New York Mets",
+          "betType": "moneyline",
+          "pick": "St. Louis Cardinals",
+          "odds": "+300",
+          "confidence": "medium",
+          "rationale": "The New York Mets are severely hampered by injuries to key players like Francisco Lindor, Jorge Polanco, Kodai Senga, and Luis Robert Jr., significantly weakening their lineup and pitching staff. In contrast, the St. Louis Cardinals are on a strong six-game winning streak, demonstrating excellent recent form. The Mets' offense is also ranked among the worst in baseball, further diminishing their chances against a surging Cardinals team. The Cardinals also boast a strong 39-26 ATS record, while the Mets are 6-17 ATS as home favorites, indicating a historical struggle to cover at home.",
+          "awayRecord": "37-28",
+          "homeRecord": "29-38",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Chicago Cubs vs Colorado Rockies",
+          "betType": "moneyline",
+          "pick": "Colorado Rockies",
+          "odds": "+114",
+          "confidence": "high",
+          "rationale": "The Colorado Rockies have already swept the first two games of this series against the Chicago Cubs, showing strong home performance. The Cubs are in a significant slump, with a 7-22 record recently and averaging only 3.2 runs per game during this period. Furthermore, Cubs starting pitcher Edward Cabrera has a high home run rate, which is particularly dangerous at hitter-friendly Coors Field. Despite public money heavily favoring the Cubs, sharp money has moved towards the Rockies, indicating professional bettors see value in the home underdog.",
+          "awayRecord": "34-34",
+          "homeRecord": "26-42",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Atlanta Braves vs Chicago White Sox",
+          "betType": "moneyline",
+          "pick": "Chicago White Sox",
+          "odds": "-102",
+          "confidence": "high",
+          "rationale": "The Chicago White Sox enter this game with significant momentum, having won the first two games of this series against the Atlanta Braves and boasting a 10-5 record in their last 15 games, including seven straight home wins. The Braves are without star outfielder Ronald Acuña Jr., who is on the 10-day IL with his second hamstring injury of the season, a major blow to their potent offense. While Braves pitcher Martin Perez has a better ERA, the White Sox's recent performance and home advantage, coupled with Acuña's absence, make them a strong value pick at near pick'em odds.",
+          "awayRecord": "45-23",
+          "homeRecord": "36-31",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers vs Pittsburgh Pirates",
+          "betType": "spread",
+          "pick": "Pittsburgh Pirates +1.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Pittsburgh Pirates are coming off an impressive comeback victory against the Los Angeles Dodgers on Wednesday, highlighted by Tyler Callihan's two home runs, suggesting a surge in team morale and offensive capability. The Dodgers will be without key catcher Will Smith, who is day-to-day with a neck issue and missed Wednesday's game, potentially impacting their offensive production and game calling. The Pirates have been playing compelling baseball recently, and getting 1.5 runs at home against a Dodgers team missing a crucial player offers good value.",
+          "awayRecord": "43-25",
+          "homeRecord": "35-33",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Seattle Mariners vs Baltimore Orioles",
+          "betType": "moneyline",
+          "pick": "Baltimore Orioles",
           "odds": "+100",
           "confidence": "medium",
-          "rationale": "The Miami Marlins offense is currently hot, having won six of their last seven games and scoring 10 runs on 15 hits in their series opener against Arizona. Marlins' starter Ryan Gusto carries a concerning 10.80 ERA and 3.00 WHIP through his limited major league innings, suggesting he is prone to giving up runs. While Diamondbacks' starter Ryne Nelson has a 4.60 ERA, Miami's in-form lineup is capable of contributing to the total. The total line has also seen movement from 8 to 8.5, with the Over now at even money, indicating potential sharp money on a higher-scoring game.",
-          "awayRecord": "34-32",
-          "homeRecord": "32-35",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ Chicago White Sox",
-          "betType": "spread",
-          "pick": "Atlanta Braves -1.5",
-          "odds": "+120",
-          "confidence": "high",
-          "rationale": "The Atlanta Braves, with a 45-22 record, are a significantly stronger team than the 35-31 Chicago White Sox. Braves' ace Spencer Strider (8-2, 2.61 ERA, 73 K) provides a substantial pitching advantage over White Sox' Grant Holmes (4-2, 3.86 ERA). Although Ronald Acuña Jr. is day-to-day with a hamstring injury, the Braves still possess a potent lineup. The White Sox are in poor recent form, with a 2-8 record in their last 10 games and against the spread, and have several key players on the injured list. The Braves have also won four of their last five head-to-head matchups against Chicago.",
-          "awayRecord": "45-22",
-          "homeRecord": "35-31",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ Toronto Blue Jays",
-          "betType": "spread",
-          "pick": "Philadelphia Phillies -1.5",
-          "odds": "+128",
-          "confidence": "high",
-          "rationale": "The Philadelphia Phillies are in strong recent form, boasting a 7-3 record over their last ten games and a 36-31 overall standing. The Toronto Blue Jays (33-35) are hampered by an extensive injury list, including several key pitchers. While Max Scherzer is expected to return for the Blue Jays, his 9.64 ERA this season is a significant concern, giving the Phillies' starter Jesús Luzardo (4.56 ERA) a clear advantage. The Phillies also took the previous meeting in this series, demonstrating their ability to compete effectively against Toronto.",
-          "awayRecord": "36-31",
-          "homeRecord": "33-35",
+          "rationale": "The Baltimore Orioles secured a decisive 7-2 victory over the Seattle Mariners in their previous game, demonstrating strong recent form at home. The Mariners are dealing with several key injuries, including J.P. Crawford (hand) and Cal Raleigh (oblique), which could hinder their offensive output. While the Orioles also have injuries, their recent win and the home-field advantage at even money present a favorable betting opportunity against a Mariners team that might be struggling with lineup depth.",
+          "awayRecord": "36-33",
+          "homeRecord": "32-37",
           "awayLast5": [
             "W",
             "L",
@@ -202,34 +248,10 @@
           ],
           "homeLast5": [
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
             "L",
             "W"
-          ]
-        },
-        {
-          "game": "Seattle Mariners @ Baltimore Orioles",
-          "betType": "moneyline",
-          "pick": "Seattle Mariners",
-          "odds": "-116",
-          "confidence": "medium",
-          "rationale": "The Seattle Mariners (36-32) hold an edge over the Baltimore Orioles (31-37), who are currently on a four-game losing streak. Mariners' starter Logan Gilbert (3.79 ERA) presents a more reliable option than Orioles' Trevor Rogers, who carries a high 6.15 ERA this season. While both teams have injuries, the Orioles are missing key players like Adley Rutschman (day-to-day) and Chris Bassitt (IL). The Mariners also secured a 6-5 extra-innings victory in the previous game of this series, carrying momentum into today's matchup.",
-          "awayRecord": "36-32",
-          "homeRecord": "31-37",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
           ]
         }
       ]
@@ -238,20 +260,14 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "South Africa vs Mexico",
-          "betType": "moneyline",
-          "pick": "Mexico",
-          "odds": "-235",
-          "confidence": "high",
-          "rationale": "Mexico enters this World Cup opener as co-hosts with a significant home advantage at Estadio Azteca, including the challenge of high altitude for visiting teams. El Tri is in 'sensational form,' boasting an undefeated streak of six matches and a record of six wins and two draws in their last eight games, including dominant victories and draws against strong opponents. Historically, Mexico holds a 2-1-1 head-to-head record against South Africa and has scored in all four previous encounters. South Africa, in contrast, has shown turbulent form and struggled for consistency in their preparations, with key wingers Thapelo Morena and Mohau Nkota sidelined by injury."
-        },
-        {
-          "game": "South Africa vs Mexico",
+          "game": "South Africa @ Mexico",
           "betType": "total",
           "pick": "Under 2.5",
-          "odds": "-145",
-          "confidence": "high",
-          "rationale": "Mexico's defense has been exceptionally strong leading up to the tournament, recording six clean sheets in their last eight matches. South Africa's offense has struggled for consistency, averaging only 0.8 goals per match in their last five head-to-head games and scoring just three goals in their last five overall matches. The only previous World Cup meeting between these two nations concluded in a 1-1 draw, suggesting a more cautious approach in such high-stakes opening games. Furthermore, predictions for this match often lean towards a low-scoring affair, with some analysts forecasting a 2-0 victory for Mexico."
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Mexico has demonstrated strong defensive capabilities recently, securing six clean sheets in their last eight matches across all competitions. South Africa's offensive output has been limited, as they are winless in their last five games and have averaged only 0.8 goals per match during that period. World Cup opening matches often tend to be cautious and low-scoring affairs, with teams prioritizing defensive solidity due to the high stakes and early tournament nerves. The historical head-to-head record between these two nations shows an average of 2.5 goals per game, with their only World Cup encounter in 2010 ending in a 1-1 draw.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
         }
       ]
     }

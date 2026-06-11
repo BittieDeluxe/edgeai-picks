@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-06-10",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "spread",
+            "pick": "New York Knicks -2.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 106, New York Knicks 107"
+          },
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "total",
+            "pick": "Under 216.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 106, New York Knicks 107"
+          },
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "prop",
+            "pick": "Victor Wembanyama Points + Rebounds Over 38.5",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "prop",
+            "pick": "Jalen Brunson to Score 30+ Points",
+            "odds": "+130",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "San Antonio Spurs vs New York Knicks",
+            "betType": "prop",
+            "pick": "Josh Hart Over 10.5 points",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Josh Hart: 6 points (line 10.5)"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Arizona Diamondbacks @ Miami Marlins",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Arizona Diamondbacks 0, Miami Marlins 8"
+          },
+          {
+            "game": "Atlanta Braves @ Chicago White Sox",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta Braves 1, Chicago White Sox 2"
+          },
+          {
+            "game": "Philadelphia Phillies @ Toronto Blue Jays",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies -1.5",
+            "odds": "+128",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Phillies 7, Toronto Blue Jays 4"
+          },
+          {
+            "game": "Seattle Mariners @ Baltimore Orioles",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners",
+            "odds": "-116",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Seattle Mariners 2, Baltimore Orioles 7"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "South Africa vs Mexico",
+            "betType": "moneyline",
+            "pick": "Mexico",
+            "odds": "-235",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "South Africa vs Mexico",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-09",
     "sports": [
       {
