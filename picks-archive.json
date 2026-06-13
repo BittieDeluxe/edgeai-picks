@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-06-12",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Miami Marlins vs Pittsburgh Pirates",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "+126",
+            "confidence": "high",
+            "result": "W",
+            "score": "Miami Marlins 8, Pittsburgh Pirates 3"
+          },
+          {
+            "game": "Detroit Tigers vs Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "Detroit Tigers",
+            "odds": "-146",
+            "confidence": "high",
+            "result": "L",
+            "score": "Detroit Tigers 2, Cleveland Guardians 3"
+          },
+          {
+            "game": "Arizona Diamondbacks vs Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks",
+            "odds": "-136",
+            "confidence": "high",
+            "result": "W",
+            "score": "Arizona Diamondbacks 5, Cincinnati Reds 2"
+          },
+          {
+            "game": "Atlanta Braves vs New York Mets",
+            "betType": "moneyline",
+            "pick": "New York Mets",
+            "odds": "-116",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Braves 5, New York Mets 7"
+          },
+          {
+            "game": "Colorado Rockies vs Athletics",
+            "betType": "spread",
+            "pick": "Athletics -1.5",
+            "odds": "-113",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Rockies 4, Athletics 6"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Bosnia-Herzegovina @ Canada",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "W",
+            "score": "Bosnia-Herzegovina 1, Canada 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-11",
     "sports": [
       {
