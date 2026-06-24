@@ -224,6 +224,20 @@ async function buildContext(sport, dateStr) {
   return { hasGames: true, structuredContext: lines.join('\n'), games: gameList };
 }
 
+// Robustly pull the {"picks":[...]} object out of Gemini's text, even when the
+// thinking model leaks a reasoning preamble before/around the JSON.
+function tryParsePicks(raw) {
+  // 1. Direct parse (clean JSON or already-stripped fences)
+  try { const p = JSON.parse(raw); if (p && Array.isArray(p.picks)) return p; } catch { }
+  // 2. Extract the substring from the first "{" to the last "}" and parse that
+  const start = raw.indexOf('{');
+  const end = raw.lastIndexOf('}');
+  if (start !== -1 && end > start) {
+    try { const p = JSON.parse(raw.slice(start, end + 1)); if (p && Array.isArray(p.picks)) return p; } catch { }
+  }
+  return null;
+}
+
 // ─── Gemini picks (Google Search grounding replaces Perplexity) ────────────
 async function getPicksForSport(sport, dateStr) {
   const { hasGames, structuredContext, games } = await buildContext(sport, dateStr);
@@ -285,21 +299,37 @@ If ${sport} has no games today, return {"picks": []}.`;
   };
 
   const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
-  const res = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`Gemini error for ${sport}: ${res.status} ${text}`);
+
+  // Gemini 2.5-flash is a thinking model and occasionally emits a reasoning
+  // narrative instead of (or wrapped around) the JSON. Retry a couple times —
+  // this only re-calls Gemini, so it costs no extra Odds API quota.
+  const MAX_ATTEMPTS = 3;
+  let parsed = null;
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    const res = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error(`Gemini error for ${sport}: ${res.status} ${text}`);
+    }
+
+    const json = await res.json();
+    const rawText = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
+    const sources = json.candidates?.[0]?.groundingMetadata?.groundingChunks?.length ?? 0;
+    // Strip markdown code fences if Gemini wraps the JSON anyway
+    const raw = rawText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim();
+    console.log(`  Attempt ${attempt}/${MAX_ATTEMPTS} — Search sources: ${sources} | Raw (first 300): ${raw.slice(0, 300)}`);
+
+    parsed = tryParsePicks(raw);
+    if (parsed) break;
+    console.error(`  Failed to parse picks JSON for ${sport} (attempt ${attempt}/${MAX_ATTEMPTS})`);
   }
 
-  const json = await res.json();
-  const rawText = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
-  const sources = json.candidates?.[0]?.groundingMetadata?.groundingChunks?.length ?? 0;
-  // Strip markdown code fences if Gemini wraps the JSON anyway
-  const raw = rawText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim();
-  console.log(`  Search sources: ${sources} | Raw (first 300): ${raw.slice(0, 300)}`);
+  if (!parsed) {
+    console.error(`Failed to parse picks JSON for ${sport} after ${MAX_ATTEMPTS} attempts — skipping`);
+    return { picks: [], games };
+  }
 
-  try {
-    const parsed = JSON.parse(raw);
+  {
     let picks = parsed.picks ?? [];
 
     // Drop heavy moneyline favourites
@@ -371,9 +401,6 @@ If ${sport} has no games today, return {"picks": []}.`;
     });
 
     return { picks, games };
-  } catch {
-    console.error(`Failed to parse picks JSON for ${sport}:`, raw.slice(0, 300));
-    return { picks: [], games };
   }
 }
 
