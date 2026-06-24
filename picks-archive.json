@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-06-23",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "New York Yankees @ Detroit Tigers",
+            "betType": "total",
+            "pick": "Under 7",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "P",
+            "score": "New York Yankees 4, Detroit Tigers 3"
+          },
+          {
+            "game": "Milwaukee Brewers @ Cincinnati Reds",
+            "betType": "total",
+            "pick": "Over 9",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Milwaukee Brewers 2, Cincinnati Reds 0"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Minnesota Twins",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Dodgers 12, Minnesota Twins 3"
+          },
+          {
+            "game": "Kansas City Royals @ Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays -1.5",
+            "odds": "+164",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kansas City Royals 12, Tampa Bay Rays 5"
+          },
+          {
+            "game": "Houston Astros @ Toronto Blue Jays",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Astros 9, Toronto Blue Jays 7"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Congo DR @ Colombia",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-150",
+            "confidence": "high",
+            "result": "W",
+            "score": "Congo DR 0, Colombia 1"
+          },
+          {
+            "game": "Congo DR @ Colombia",
+            "betType": "moneyline",
+            "pick": "Colombia",
+            "odds": "-190",
+            "confidence": "high",
+            "result": "W",
+            "score": "Congo DR 0, Colombia 1"
+          },
+          {
+            "game": "Croatia @ Panama",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-200",
+            "confidence": "high",
+            "result": "W",
+            "score": "Croatia 1, Panama 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-22",
     "sports": [],
     "playerProps": []

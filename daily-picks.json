@@ -1,113 +1,89 @@
 {
-  "date": "2026-06-23",
-  "generatedAt": "2026-06-24T00:19:29.902Z",
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-24T18:28:00.641Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "New York Yankees @ Detroit Tigers",
-          "betType": "total",
-          "pick": "Under 7",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The New York Yankees, despite their strong overall record, are on a three-game losing streak and will be facing a Detroit Tigers team that just upset them. The pitching matchup features Carlos Rodón for the Yankees and Casey Mize for the Tigers, both of whom are expected to keep runs at a premium. The Yankees boast the league's top-ranked ERA (3.37) and a stifling 1.18 WHIP, while Detroit's pitching staff also maintains a respectable 3.84 ERA. With a perfect weather forecast at Comerica Park and a strong pitching duel anticipated, runs will be hard to come by, favoring the Under.",
-          "awayRecord": "46-31",
-          "homeRecord": "34-44",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Milwaukee Brewers @ Cincinnati Reds",
-          "betType": "total",
-          "pick": "Over 9",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "The Cincinnati Reds' offense receives a significant boost with the activation of Elly De La Cruz, who returns after three weeks on the injured list with a strained hamstring. The Reds are coming off a dominant 12-0 victory against the Mets, showcasing their offensive potential. The game at Great American Ball Park is expected to have mostly clear skies and comfortable temperatures, with light winds blowing out to right field, which slightly improves home run chances. This combination of a key offensive return, recent scoring prowess, and favorable hitting conditions strongly points towards the Over.",
-          "awayRecord": "47-29",
-          "homeRecord": "37-40",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Los Angeles Dodgers @ Minnesota Twins",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The Los Angeles Dodgers are significantly impacted by key offensive injuries, with Kyle Tucker (lower back spasms) likely out for the series, Dalton Rushing (concussion protocol) also sidelined, and Will Smith (stiff neck) not traveling. The game at Target Field is experiencing periods of rain and was delayed, which can disrupt offensive rhythm and generally favors pitching. The pitching matchup features two strong left-handers, Justin Wrobleski (2.72 ERA) for the Dodgers and Kendry Rojas (1.26 ERA) for the Twins, both capable of limiting scoring. Head-to-head history between these teams also shows a trend of lower-scoring games.",
-          "awayRecord": "50-29",
-          "homeRecord": "38-42",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Kansas City Royals @ Tampa Bay Rays",
+          "game": "Boston Red Sox @ Colorado Rockies",
           "betType": "spread",
-          "pick": "Tampa Bay Rays -1.5",
-          "odds": "+164",
-          "confidence": "medium",
-          "rationale": "The Kansas City Royals are severely hampered by injuries, with Bobby Witt Jr. (MCL sprain) out of the lineup and Maikel Garcia (left hand muscle strain) placed on the 10-day injured list today. These are two critical offensive contributors for the Royals. The Tampa Bay Rays will play at home in their domed Tropicana Field, eliminating any weather concerns and providing a consistent environment. The Rays hold a better overall record (43-32) compared to the Royals (33-46), and have won 4 of their last 5 head-to-head matchups against Kansas City. With the Royals missing key offensive pieces, the Rays are in a strong position to secure a multi-run victory.",
-          "awayRecord": "33-46",
-          "homeRecord": "43-32",
+          "pick": "Boston Red Sox -1.5",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "Boston's Ranger Suarez (2.93 ERA, 1.12 WHIP) presents a significant pitching advantage over Colorado's Kyle Freeland (7.36 ERA, 1.58 WHIP), especially at Coors Field where Freeland's tendency to give up home runs is amplified. The Red Sox are 20-20 on the road this season, indicating they perform better away from home. Despite heavy public money on the Under, the Over juice on the total has improved, suggesting market confidence in scoring opportunities. This pitching mismatch and Freeland's struggles create a clear path for Boston to win by multiple runs.",
+          "awayRecord": "32-45",
+          "homeRecord": "31-49",
           "awayLast5": [
             "W",
             "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
             "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Arizona Diamondbacks @ St. Louis Cardinals",
+          "betType": "moneyline",
+          "pick": "St. Louis Cardinals",
+          "odds": "-116",
+          "confidence": "high",
+          "rationale": "Arizona is starting Mitch Bratt, who is making his first career MLB appearance, introducing significant uncertainty for the Diamondbacks. This factor has caused a substantial 30-cent reverse line movement, flipping the Cardinals from underdogs to favorites, indicating sharp money is backing St. Louis. The public consensus is also heavily on the Cardinals, with 98% of money and 83% of tickets. The Cardinals are projected to win 6-4, capitalizing on Bratt's debut.",
+          "awayRecord": "40-39",
+          "homeRecord": "42-35",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
             "L",
             "W"
           ],
           "homeLast5": [
             "L",
-            "W",
             "L",
             "W",
+            "W",
             "L"
+          ]
+        },
+        {
+          "game": "Cleveland Guardians @ Chicago White Sox",
+          "betType": "moneyline",
+          "pick": "Chicago White Sox",
+          "odds": "-104",
+          "confidence": "high",
+          "rationale": "The White Sox have a strong home record, winning 22 of their last 26 games at home and holding a 27-12 home record this season. They have already won the first two games of this series against the Guardians, who are struggling offensively without José Ramírez. Despite 88-90% of the public backing Cleveland, the moneyline has seen reverse line movement, shifting the White Sox from +104 to -102, signaling sharp action on Chicago. This combination of home-field advantage, recent series dominance, and line movement makes the White Sox a high-confidence pick.",
+          "awayRecord": "41-39",
+          "homeRecord": "41-37",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
           ]
         },
         {
           "game": "Houston Astros @ Toronto Blue Jays",
           "betType": "total",
-          "pick": "Under 8.5",
-          "odds": "-115",
+          "pick": "Over 8.5",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "The Houston Astros are dealing with a significant offensive absence as Jeremy Peña, a key player, is day-to-day with a hamstring injury and was out of the lineup for today's game. Astros starting pitcher Peter Lambert has been in excellent form, boasting a 3.23 ERA and allowing only one earned run over seven innings in his last outing. The game is being played in the climate-controlled Rogers Centre, a domed stadium, ensuring no weather interference. Furthermore, many of the recent head-to-head matchups between the Astros and Blue Jays have trended towards the Under.",
+          "rationale": "Houston's starter Mike Burrows carries a concerning 5.79 ERA and a 1.58 WHIP, with a high walk rate of 30 in 79.1 innings and 18 home runs allowed. This profile projects significant scoring opportunities for the Blue Jays. While Toronto's starter Trey Yesavage has been effective at limiting home runs, the Astros' lineup still possesses power. The total has been absorbing Over money, and the conditions are ripe for a higher-scoring game.",
           "awayRecord": "38-43",
           "homeRecord": "39-40",
           "awayLast5": [
@@ -124,6 +100,30 @@
             "W",
             "L"
           ]
+        },
+        {
+          "game": "Philadelphia Phillies @ Washington Nationals",
+          "betType": "total",
+          "pick": "Over 8.5",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "Both starting pitchers, Aaron Nola (5.71 ERA) for the Phillies and Miles Mikolas (5.47 ERA) for the Nationals, have ERAs above 5.00, suggesting vulnerability to scoring. Game 2 of this series already saw a combined 23 runs, demonstrating the offensive capabilities of both teams. The total has moved up to 9.5 in some markets, and the juice has consistently favored the Over, indicating market confidence in a high-scoring affair. With the verified line at 8.5, there is excellent value for the Over.",
+          "awayRecord": "43-36",
+          "homeRecord": "41-39",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
         }
       ]
     },
@@ -131,44 +131,88 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Congo DR @ Colombia",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-150",
-          "confidence": "high",
-          "rationale": "DR Congo demonstrated exceptional defensive resilience in their opening 1-1 draw against Portugal, holding a strong attacking side to just one goal despite minimal possession. They have kept four clean sheets in their last six matches, indicating a strong defensive unit. While Colombia has a potent offense, DR Congo's disciplined defensive shape and ability to frustrate technically gifted opponents suggest a low-scoring affair, making the Under 2.5 a confident pick.",
-          "awayRecord": "0-1-0",
-          "homeRecord": "1-0-0",
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Congo DR @ Colombia",
+          "game": "Qatar @ Bosnia-Herzegovina",
           "betType": "moneyline",
-          "pick": "Colombia",
-          "odds": "-190",
+          "pick": "Bosnia-Herzegovina (-270)",
+          "odds": "-270",
           "confidence": "high",
-          "rationale": "Colombia enters this match with strong momentum after a convincing 3-1 victory over Uzbekistan in their opening game and no reported injuries. They are ranked significantly higher than DR Congo (12th vs 43rd) and have a potent attack that has scored in all of their last six fixtures. While DR Congo showed defensive strength against Portugal, Colombia's overall quality and desire to secure a knockout stage spot make them a strong favorite to win.",
-          "awayRecord": "0-1-0",
-          "homeRecord": "1-0-0",
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Croatia @ Panama",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-200",
-          "confidence": "high",
-          "rationale": "The verified line of Under 2.5 at -200 represents a strong market consensus for a low-scoring game. Panama's key playmaker, Adalberto Carrasquilla, is ruled out due to injury, which significantly weakens their offensive capabilities. While Croatia will push for a win after their opening loss, Panama is expected to adopt a defensive posture, aiming to limit goals against a superior opponent.",
-          "awayRecord": "0-0-1",
-          "homeRecord": "0-0-1",
+          "rationale": "Bosnia-Herzegovina is in a must-win situation to advance, and they face a Qatar side that has been defensively vulnerable, conceding 6 goals to Canada and 7.80 expected goals (xG) across their first two matches. Qatar will also be missing two suspended starters, Assim Madibo and Homam Al-Amin, further weakening their defense. The moneyline has seen movement towards Bosnia, indicating sharp money backing them. Bosnia also holds a personnel advantage and a stronger aerial attack, which should allow them to dominate this crucial fixture.",
+          "awayRecord": "0-1-1",
+          "homeRecord": "0-1-1",
           "awayLast5": [
+            "L",
             "L"
           ],
           "homeLast5": [
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Qatar @ Bosnia-Herzegovina",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-155",
+          "confidence": "high",
+          "rationale": "Given Qatar's extremely porous defense, which has allowed 7.80 xG in two World Cup matches and suffered a 6-0 thrashing by Canada, a high-scoring game is anticipated. Both teams need a win to have a chance at advancing, which should lead to an open game with attacking intent. The 'Over 2.5' line has been heavily juiced, suggesting market confidence in goals. Bosnia's last two World Cup matches have also produced at least two goals, with one clearing over 3.5 goals.",
+          "awayRecord": "0-1-1",
+          "homeRecord": "0-1-1",
+          "awayLast5": [
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Brazil @ Scotland",
+          "betType": "moneyline",
+          "pick": "Brazil (-340)",
+          "odds": "-340",
+          "confidence": "high",
+          "rationale": "Brazil boasts a dominant head-to-head record against Scotland, with 8 wins and 2 draws in 10 historical meetings, and Scotland has never secured a victory against them. In World Cup clashes, Brazil is unbeaten in four encounters (3 wins, 1 draw). Scotland's recent attacking form is concerning, as they failed to register a single shot on target in their last match against Morocco. Despite Raphinha's hamstring injury for Brazil, their overall squad depth and historical dominance make them a strong pick.",
+          "awayRecord": "1-1-0",
+          "homeRecord": "1-0-1",
+          "awayLast5": [
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Canada @ Switzerland",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-140",
+          "confidence": "medium",
+          "rationale": "This match is for the top spot in Group B, with Canada holding a superior goal differential, meaning a draw would suffice for them to finish first. Both teams have shown defensive solidity in recent games, with Canada keeping 3 clean sheets in their last 6 matches and 10 of their last 12 games producing under 2.5 goals. Switzerland has conceded exactly once in six of their last eight matches, indicating a disciplined defense. The high stakes of the game are likely to lead to a more cautious, tactical affair, favoring fewer goals.",
+          "awayRecord": "1-1-0",
+          "homeRecord": "1-1-0",
+          "awayLast5": [
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "South Korea @ South Africa",
+          "betType": "moneyline",
+          "pick": "South Korea (-170)",
+          "odds": "-170",
+          "confidence": "medium",
+          "rationale": "South Korea enters this match significantly higher in the FIFA world rankings (24th) compared to South Africa (61st), indicating a clear talent advantage. South Africa is in poor form, being winless in their last six matches (0 wins, 4 draws, 2 losses) and struggling to score, with only 4 goals in that span. While there's no head-to-head history, South Korea's more potent attack, having scored 8 goals in their last six games, should be enough to overcome South Africa's recent struggles. South Korea's 1.5 points per game in recent form also significantly outpaces South Africa's 0.67 PPG.",
+          "awayRecord": "1-0-1",
+          "homeRecord": "0-1-1",
+          "homeLast5": [
+            "L",
             "L"
           ]
         }
