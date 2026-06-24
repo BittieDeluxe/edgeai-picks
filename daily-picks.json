@@ -1,6 +1,179 @@
 {
   "date": "2026-06-23",
-  "generatedAt": "2026-06-23T19:04:05.602Z",
-  "sports": [],
+  "generatedAt": "2026-06-24T00:19:29.902Z",
+  "sports": [
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "New York Yankees @ Detroit Tigers",
+          "betType": "total",
+          "pick": "Under 7",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "The New York Yankees, despite their strong overall record, are on a three-game losing streak and will be facing a Detroit Tigers team that just upset them. The pitching matchup features Carlos Rodón for the Yankees and Casey Mize for the Tigers, both of whom are expected to keep runs at a premium. The Yankees boast the league's top-ranked ERA (3.37) and a stifling 1.18 WHIP, while Detroit's pitching staff also maintains a respectable 3.84 ERA. With a perfect weather forecast at Comerica Park and a strong pitching duel anticipated, runs will be hard to come by, favoring the Under.",
+          "awayRecord": "46-31",
+          "homeRecord": "34-44",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers @ Cincinnati Reds",
+          "betType": "total",
+          "pick": "Over 9",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Cincinnati Reds' offense receives a significant boost with the activation of Elly De La Cruz, who returns after three weeks on the injured list with a strained hamstring. The Reds are coming off a dominant 12-0 victory against the Mets, showcasing their offensive potential. The game at Great American Ball Park is expected to have mostly clear skies and comfortable temperatures, with light winds blowing out to right field, which slightly improves home run chances. This combination of a key offensive return, recent scoring prowess, and favorable hitting conditions strongly points towards the Over.",
+          "awayRecord": "47-29",
+          "homeRecord": "37-40",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers @ Minnesota Twins",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "The Los Angeles Dodgers are significantly impacted by key offensive injuries, with Kyle Tucker (lower back spasms) likely out for the series, Dalton Rushing (concussion protocol) also sidelined, and Will Smith (stiff neck) not traveling. The game at Target Field is experiencing periods of rain and was delayed, which can disrupt offensive rhythm and generally favors pitching. The pitching matchup features two strong left-handers, Justin Wrobleski (2.72 ERA) for the Dodgers and Kendry Rojas (1.26 ERA) for the Twins, both capable of limiting scoring. Head-to-head history between these teams also shows a trend of lower-scoring games.",
+          "awayRecord": "50-29",
+          "homeRecord": "38-42",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Kansas City Royals @ Tampa Bay Rays",
+          "betType": "spread",
+          "pick": "Tampa Bay Rays -1.5",
+          "odds": "+164",
+          "confidence": "medium",
+          "rationale": "The Kansas City Royals are severely hampered by injuries, with Bobby Witt Jr. (MCL sprain) out of the lineup and Maikel Garcia (left hand muscle strain) placed on the 10-day injured list today. These are two critical offensive contributors for the Royals. The Tampa Bay Rays will play at home in their domed Tropicana Field, eliminating any weather concerns and providing a consistent environment. The Rays hold a better overall record (43-32) compared to the Royals (33-46), and have won 4 of their last 5 head-to-head matchups against Kansas City. With the Royals missing key offensive pieces, the Rays are in a strong position to secure a multi-run victory.",
+          "awayRecord": "33-46",
+          "homeRecord": "43-32",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Houston Astros @ Toronto Blue Jays",
+          "betType": "total",
+          "pick": "Under 8.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Houston Astros are dealing with a significant offensive absence as Jeremy Peña, a key player, is day-to-day with a hamstring injury and was out of the lineup for today's game. Astros starting pitcher Peter Lambert has been in excellent form, boasting a 3.23 ERA and allowing only one earned run over seven innings in his last outing. The game is being played in the climate-controlled Rogers Centre, a domed stadium, ensuring no weather interference. Furthermore, many of the recent head-to-head matchups between the Astros and Blue Jays have trended towards the Under.",
+          "awayRecord": "38-43",
+          "homeRecord": "39-40",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "WORLDCUP",
+      "picks": [
+        {
+          "game": "Congo DR @ Colombia",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-150",
+          "confidence": "high",
+          "rationale": "DR Congo demonstrated exceptional defensive resilience in their opening 1-1 draw against Portugal, holding a strong attacking side to just one goal despite minimal possession. They have kept four clean sheets in their last six matches, indicating a strong defensive unit. While Colombia has a potent offense, DR Congo's disciplined defensive shape and ability to frustrate technically gifted opponents suggest a low-scoring affair, making the Under 2.5 a confident pick.",
+          "awayRecord": "0-1-0",
+          "homeRecord": "1-0-0",
+          "homeLast5": [
+            "W"
+          ]
+        },
+        {
+          "game": "Congo DR @ Colombia",
+          "betType": "moneyline",
+          "pick": "Colombia",
+          "odds": "-190",
+          "confidence": "high",
+          "rationale": "Colombia enters this match with strong momentum after a convincing 3-1 victory over Uzbekistan in their opening game and no reported injuries. They are ranked significantly higher than DR Congo (12th vs 43rd) and have a potent attack that has scored in all of their last six fixtures. While DR Congo showed defensive strength against Portugal, Colombia's overall quality and desire to secure a knockout stage spot make them a strong favorite to win.",
+          "awayRecord": "0-1-0",
+          "homeRecord": "1-0-0",
+          "homeLast5": [
+            "W"
+          ]
+        },
+        {
+          "game": "Croatia @ Panama",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-200",
+          "confidence": "high",
+          "rationale": "The verified line of Under 2.5 at -200 represents a strong market consensus for a low-scoring game. Panama's key playmaker, Adalberto Carrasquilla, is ruled out due to injury, which significantly weakens their offensive capabilities. While Croatia will push for a win after their opening loss, Panama is expected to adopt a defensive posture, aiming to limit goals against a superior opponent.",
+          "awayRecord": "0-0-1",
+          "homeRecord": "0-0-1",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "L"
+          ]
+        }
+      ]
+    }
+  ],
   "playerProps": []
 }
