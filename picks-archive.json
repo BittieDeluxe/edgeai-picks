@@ -1,5 +1,102 @@
 [
   {
+    "date": "2026-06-25",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Seattle Mariners @ Pittsburgh Pirates",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners",
+            "odds": "+3000",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Seattle Mariners 1, Pittsburgh Pirates 5"
+          },
+          {
+            "game": "Athletics @ San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Athletics",
+            "odds": "+114",
+            "confidence": "high",
+            "result": "W",
+            "score": "Athletics 9, San Francisco Giants 6"
+          },
+          {
+            "game": "Houston Astros @ Detroit Tigers",
+            "betType": "moneyline",
+            "pick": "Houston Astros",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Houston Astros 2, Detroit Tigers 1"
+          },
+          {
+            "game": "Philadelphia Phillies @ Washington Nationals",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies -1.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Phillies 10, Washington Nationals 5"
+          },
+          {
+            "game": "New York Yankees @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "New York Yankees",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Yankees 3, Boston Red Sox 6"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Netherlands @ Tunisia",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Netherlands 3, Tunisia 1"
+          },
+          {
+            "game": "Germany @ Ecuador",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+135",
+            "confidence": "high",
+            "result": "L",
+            "score": "Germany 1, Ecuador 2"
+          },
+          {
+            "game": "Australia @ Paraguay",
+            "betType": "total",
+            "pick": "Under 1.5",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Australia 0, Paraguay 0"
+          },
+          {
+            "game": "Sweden @ Japan",
+            "betType": "moneyline",
+            "pick": "Sweden",
+            "odds": "+300",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sweden 1, Japan 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-24",
     "sports": [
       {

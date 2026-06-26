@@ -1,94 +1,70 @@
 {
-  "date": "2026-06-25",
-  "generatedAt": "2026-06-25T19:02:12.120Z",
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T18:23:50.301Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Seattle Mariners @ Pittsburgh Pirates",
+          "game": "Philadelphia Phillies @ New York Mets",
           "betType": "moneyline",
-          "pick": "Seattle Mariners",
-          "odds": "+3000",
-          "confidence": "medium",
-          "rationale": "The Seattle Mariners present a clear pitching advantage with Bryce Miller on the mound, who boasts an impressive 1.58 ERA and 0.70 WHIP across 40 innings this season. Conversely, Pirates starter Bubba Chandler has struggled with a 4.62 ERA and a 2-7 record. Seattle has won 4 of their last 5 games with Miller starting. Despite Pittsburgh's recent 11-1 blowout win, the pitching matchup for this rubber match heavily favors Seattle, making the Mariners a strong play.",
-          "awayRecord": "41-40",
-          "homeRecord": "40-40",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Athletics @ San Francisco Giants",
-          "betType": "moneyline",
-          "pick": "Athletics",
-          "odds": "+114",
+          "pick": "Philadelphia Phillies",
+          "odds": "+116",
           "confidence": "high",
-          "rationale": "The Athletics at +114 moneyline offers value in this matchup. While specific injury and recent form data for both teams for today's game were not explicitly detailed, the line movement suggests a potential edge. The Giants have had some bullpen concerns, and if the A's can get to their starter early, they have a good chance to pull off the upset. This pick leans on the value of the plus-money underdog in a divisional rivalry where anything can happen.",
-          "awayRecord": "38-42",
-          "homeRecord": "33-46",
+          "rationale": "The Phillies are sending ace Zack Wheeler (7-1, 2.12 ERA) to the mound, who has been dominant this season, allowing two runs or fewer in nine of his eleven starts, including a recent win against the Mets. The Mets, on the other hand, are forced to start Zach Thornton, who was just recalled from Triple-A and gave up four runs in 4.1 innings in his MLB debut. The Mets' pitching staff is thin due to recent transactions, while the Phillies are on a strong trajectory, making them a clear favorite despite the verified line's slight discrepancy with other sportsbooks. The model predicts a Phillies win with 60.2% confidence.",
+          "awayRecord": "45-36",
+          "homeRecord": "34-47",
           "awayLast5": [
             "W",
             "L",
-            "L",
-            "L",
-            "L"
+            "W",
+            "W",
+            "W"
           ],
           "homeLast5": [
             "L",
             "L",
             "L",
-            "W",
-            "W"
+            "L",
+            "L"
           ]
         },
         {
           "game": "Houston Astros @ Detroit Tigers",
           "betType": "moneyline",
           "pick": "Houston Astros",
-          "odds": "+102",
+          "odds": "-104",
           "confidence": "high",
-          "rationale": "The Houston Astros are showing reverse line movement, with the line creeping towards them despite heavy public betting on the Detroit Tigers. While Detroit's Troy Melton has been excellent with a 2.56 ERA and 0.95 WHIP, Houston's Tatsuya Imai carries a 6.15 ERA, but his last start showed a high strikeout ceiling. The Astros have won their last two games against the Tigers by 4-2 scores and have won four consecutive series. This pick is primarily driven by the sharp money indicated by the reverse line movement and Houston's recent overall form.",
-          "awayRecord": "39-43",
-          "homeRecord": "34-46",
+          "rationale": "The Houston Astros are in excellent recent form, boasting a 7-3 record in their last 10 games and closing in on the AL West lead. They face a struggling Detroit Tigers team that has lost three straight and is well behind in their division. While Tigers' starter Keider Montero has a respectable 3.68 ERA, Astros' Spencer Arrighetti has a better 3.13 ERA and the Astros offense is playing well. The Astros are playing good baseball in June and have momentum on their side.",
+          "awayRecord": "40-43",
+          "homeRecord": "34-47",
           "awayLast5": [
-            "L",
             "W",
             "L",
+            "W",
             "W",
             "W"
           ],
           "homeLast5": [
             "W",
             "W",
-            "W",
+            "L",
             "L",
             "L"
           ]
         },
         {
-          "game": "Philadelphia Phillies @ Washington Nationals",
-          "betType": "spread",
-          "pick": "Philadelphia Phillies -1.5",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "The Philadelphia Phillies are a strong play on the run line with Cristopher Sanchez starting, who holds an impressive 1.80 ERA and 1.09 WHIP this season. The Phillies have won 11 of 16 games with Sanchez on the mound and have won two consecutive games in this series. Washington's starter, Cade Cavalli, has a 4.07 ERA, presenting a clear pitching mismatch. Public money is heavily on the Phillies, with 95-97% of moneyline dollars backing them, and the -1.5 spread at -102 offers excellent value.",
-          "awayRecord": "44-36",
-          "homeRecord": "41-40",
+          "game": "Arizona Diamondbacks @ Tampa Bay Rays",
+          "betType": "moneyline",
+          "pick": "Tampa Bay Rays",
+          "odds": "-174",
+          "confidence": "high",
+          "rationale": "The Tampa Bay Rays are sending Nick Martinez (6-2, 2.73 ERA) to the mound, who has been consistently strong, and his team is 4-2 when he starts as the moneyline favorite. In contrast, Arizona's Zac Gallen (3-6, 6.10 ERA) was shelled in his last outing, giving up nine earned runs in just four innings. The Diamondbacks have also struggled as underdogs against AL opponents, trailing after five innings in seven of their last eight such games. The Rays' pitching staff also boasts a solid 3.31 ERA over their last 10 games.",
+          "awayRecord": "41-39",
+          "homeRecord": "45-33",
           "awayLast5": [
-            "W",
-            "W",
+            "L",
+            "L",
             "L",
             "W",
             "W"
@@ -96,32 +72,58 @@
           "homeLast5": [
             "W",
             "L",
-            "W",
             "L",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
           "game": "New York Yankees @ Boston Red Sox",
-          "betType": "moneyline",
-          "pick": "New York Yankees",
-          "odds": "-110",
+          "betType": "prop",
+          "pick": "Paul Goldschmidt Over 1.5 Total Bases",
+          "odds": "+114",
           "confidence": "medium",
-          "rationale": "The New York Yankees are a strong moneyline play with Cam Schlittler (8-3, 1.71 ERA) on the mound, who has been one of the best pitchers in baseball this season. The Yankees have the best record in the American League (48-31) and have won two consecutive games. Boston's starter, Connelly Early, has a 3.64 ERA, and the Red Sox have already lost to Schlittler twice this season. The Red Sox also have a poor home record of 12-25, further solidifying the Yankees as the confident pick.",
-          "awayRecord": "48-31",
-          "homeRecord": "32-46",
+          "rationale": "Paul Goldschmidt of the New York Yankees is in exceptional form, hitting .353 with eight home runs in June and exceeding 1.5 total bases in four of his last five games. He also boasts impressive splits against left-handed pitching, hitting over .400 with an over .800 slugging percentage, which is significant against Red Sox starter Payton Tolle. While Tolle has shown strikeout potential, he has also allowed 10 earned runs in his last three starts, and the Yankees lineup, despite some injuries, has high strikeout rates which could lead to more pitches seen and opportunities for Goldschmidt.",
+          "propPlayer": "Paul Goldschmidt",
+          "propTeam": "New York Yankees",
+          "awayRecord": "48-32",
+          "homeRecord": "33-46",
           "awayLast5": [
             "L",
             "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Miami Marlins @ St. Louis Cardinals",
+          "betType": "moneyline",
+          "pick": "Miami Marlins",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "The Miami Marlins are starting Max Meyer, who is undefeated at 8-0 with an impressive 2.79 ERA, and the Marlins have a strong 12-4 record in his starts. While the Cardinals' lineup has been hot against righties recently, Meyer has proven capable, and the Cardinals' projected starter Michael McGreevy has struggled against the Marlins in past matchups, giving up four runs in each of his two previous starts against them. Furthermore, the Marlins' bullpen has been significantly better in the last two weeks, ranking third best in ERA, while the Cardinals' bullpen ranks third highest.",
+          "awayRecord": "42-39",
+          "homeRecord": "42-36",
+          "awayLast5": [
+            "W",
+            "W",
             "L",
             "W",
             "W"
           ],
           "homeLast5": [
-            "W",
-            "L",
             "L",
             "W",
+            "W",
+            "L",
             "L"
           ]
         }
@@ -131,35 +133,53 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Netherlands @ Tunisia",
+          "game": "France @ Norway",
+          "betType": "moneyline",
+          "pick": "France",
+          "odds": "-270",
+          "confidence": "high",
+          "rationale": "France enters this match in excellent form, having secured two dominant wins in the World Cup group stage with a combined score of 6-1 against Senegal and Iraq. [16, 22] Historically, France holds a strong head-to-head advantage over Norway, winning 7 of their 15 previous encounters, including a decisive 4-0 victory in their last meeting in 2014. [2, 23] With both teams already qualified, France, led by top scorer Kylian Mbappé, will be motivated to win and secure the top spot in Group I, leveraging their superior attacking talent. [16]",
+          "awayRecord": "2-0-0",
+          "homeRecord": "2-0-0",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Spain @ Uruguay",
+          "betType": "moneyline",
+          "pick": "Spain",
+          "odds": "-155",
+          "confidence": "high",
+          "rationale": "Spain boasts a historically dominant record against Uruguay, remaining undefeated in all 10 previous meetings with 5 wins and 5 draws. [3] Their current World Cup form is strong, highlighted by a 4-0 victory over Saudi Arabia and a 0-0 draw against Cape Verde, demonstrating a robust defense that has conceded an average of just 0.4 goals per game in their last five matches. [13] Uruguay, despite two draws in the group stage, has never managed a victory against Spain, positioning Spain as the clear favorite to win and clinch first place in Group H. [6, 17]",
+          "awayRecord": "1-1-0",
+          "homeRecord": "0-2-0",
+          "awayLast5": [
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Belgium @ New Zealand",
           "betType": "total",
           "pick": "Over 3.5",
-          "odds": "+105",
-          "confidence": "medium",
-          "rationale": "The Netherlands is in strong scoring form, having netted 7 goals in their first two World Cup matches, including a 5-1 victory over Sweden. Tunisia, already eliminated from the tournament, has demonstrated significant defensive vulnerabilities, conceding 9 goals in their two group stage games (0-4 vs Japan, 1-5 vs Sweden). The Netherlands averages 2.0 goals per match in their last six outings, while Tunisia has averaged just 0.33 goals scored and 2.5 conceded in the same period, including three heavy defeats. Given Tunisia's poor defensive record and lack of stakes, the Netherlands is expected to push for a dominant win, leading to a high-scoring affair.",
-          "awayRecord": "1-1-0",
-          "homeRecord": "0-0-2",
-          "awayLast5": [
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Germany @ Ecuador",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "+135",
+          "odds": "-125",
           "confidence": "high",
-          "rationale": "Germany has already secured the top spot in Group E and is guaranteed to advance to the knockout rounds, which may lead to squad rotation and a less aggressive attacking approach. Ecuador's recent matches have consistently been low-scoring, with thirteen of their last 15 games featuring under 2.5 goals. In their World Cup group stage matches, Ecuador has only scored one goal and managed a 0-0 draw against Curaçao. Despite Germany's offensive capabilities, Ecuador's defensive focus combined with Germany's potential for rotation makes the Under 2.5 a valuable play at plus odds.",
-          "awayRecord": "2-0-0",
+          "rationale": "New Zealand has displayed significant defensive vulnerabilities recently, conceding an average of 2.2 goals per game and a total of 11 goals in their last five matches, including a 3-1 loss to Egypt in the current World Cup group stage. [9] Belgium, despite drawing their first two group games, possesses a potent attacking lineup and will be highly motivated to secure a decisive victory to improve their goal difference and enhance their qualification prospects. [43] Given New Zealand's defensive struggles and Belgium's need for goals, this match is poised to be a higher-scoring affair. [9]",
+          "awayRecord": "0-2-0",
           "homeRecord": "0-1-1",
           "awayLast5": [
-            "W",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "L",
@@ -167,38 +187,38 @@
           ]
         },
         {
-          "game": "Australia @ Paraguay",
+          "game": "Iran @ Egypt",
           "betType": "total",
           "pick": "Under 1.5",
-          "odds": "+120",
-          "confidence": "high",
-          "rationale": "Both Australia and Paraguay are level on points and battling for second place, suggesting a cautious and tactical match where neither team will want to overcommit. Paraguay will be without their key attacker Miguel Almiron due to suspension, significantly diminishing their offensive threat. Australia has struggled to score multiple goals, doing so in only two of their last ten matches, and six of their last eight World Cup games have produced under 2.5 goals. Historically, only two of Paraguay's last eight World Cup qualifying or finals games saw both teams score, further supporting a low-scoring outcome.",
-          "awayRecord": "1-0-1",
-          "homeRecord": "1-0-1",
-          "awayLast5": [
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Sweden @ Japan",
-          "betType": "moneyline",
-          "pick": "Sweden",
-          "odds": "+300",
+          "odds": "+130",
           "confidence": "medium",
-          "rationale": "Sweden enters this match in strong recent form, having won 4 of their last 5 overall matches, including a dominant 5-1 victory over Tunisia in the World Cup. While Japan is currently ahead in the group, their overall recent form is mixed with only 1 win and 3 losses in their last 5 games. Head-to-head history shows Sweden with a slight edge, holding a 2-1-2 record in five previous meetings and being unbeaten in the last four encounters. Given Sweden's current momentum and the attractive +300 odds, they represent significant value in this crucial group stage decider.",
-          "awayRecord": "1-0-1",
+          "rationale": "This match is a crucial competitive encounter for both Egypt and Iran, with both teams vying for a spot in the last-32, which often leads to a more cautious and defensive approach. [1] Their limited head-to-head history includes a 1-1 draw in a 2000 friendly, suggesting a tendency for tight contests. [1] Egypt has demonstrated solid defensive capabilities, conceding an average of only 0.8 goals per game in their recent form. [10] Given the high stakes and the historical and recent defensive trends, a low-scoring game with fewer than two goals is a strong expectation. [10, 45]",
+          "awayRecord": "0-2-0",
           "homeRecord": "1-1-0",
           "awayLast5": [
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Saudi Arabia @ Cape Verde",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-150",
+          "confidence": "medium",
+          "rationale": "The recent head-to-head matchup between Saudi Arabia and Cape Verde in the current World Cup group stage resulted in a 0-0 draw, indicating a strong defensive emphasis from both teams. [13, 34] Both sides have struggled to find the back of the net in the tournament, with Saudi Arabia losing 4-0 to Spain and Cape Verde also failing to score against Spain. [13, 34] Considering their recent low-scoring encounter and general offensive struggles, a tight, defensive game with limited goals is highly anticipated. [13, 34]",
+          "awayRecord": "0-1-1",
+          "homeRecord": "0-2-0",
+          "awayLast5": [
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
             "L"
           ]
         }
