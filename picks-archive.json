@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-06-26",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Philadelphia Phillies @ New York Mets",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies",
+            "odds": "+116",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Phillies 2, New York Mets 1"
+          },
+          {
+            "game": "Houston Astros @ Detroit Tigers",
+            "betType": "moneyline",
+            "pick": "Houston Astros",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Astros 0, Detroit Tigers 8"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-174",
+            "confidence": "high",
+            "result": "W",
+            "score": "Arizona Diamondbacks 1, Tampa Bay Rays 6"
+          },
+          {
+            "game": "New York Yankees @ Boston Red Sox",
+            "betType": "prop",
+            "pick": "Paul Goldschmidt Over 1.5 Total Bases",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Paul Goldschmidt: \"Total Bases\" not auto-gradeable"
+          },
+          {
+            "game": "Miami Marlins @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 4, St. Louis Cardinals 0"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "France @ Norway",
+            "betType": "moneyline",
+            "pick": "France",
+            "odds": "-270",
+            "confidence": "high",
+            "result": "W",
+            "score": "France 4, Norway 1"
+          },
+          {
+            "game": "Spain @ Uruguay",
+            "betType": "moneyline",
+            "pick": "Spain",
+            "odds": "-155",
+            "confidence": "high",
+            "result": "W",
+            "score": "Spain 1, Uruguay 0"
+          },
+          {
+            "game": "Belgium @ New Zealand",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "W",
+            "score": "Belgium 5, New Zealand 1"
+          },
+          {
+            "game": "Iran @ Egypt",
+            "betType": "total",
+            "pick": "Under 1.5",
+            "odds": "+130",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Iran 1, Egypt 1"
+          },
+          {
+            "game": "Saudi Arabia @ Cape Verde",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-150",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Saudi Arabia 0, Cape Verde 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-25",
     "sports": [
       {
@@ -1913,112 +2019,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Houston Astros 5, Texas Rangers 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-05-27",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Carolina Hurricanes @ Montreal Canadiens",
-            "betType": "moneyline",
-            "pick": "Carolina Hurricanes",
-            "odds": "-152",
-            "confidence": "high",
-            "result": "W",
-            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
-          },
-          {
-            "game": "Carolina Hurricanes @ Montreal Canadiens",
-            "betType": "total",
-            "pick": "Under 5.5",
-            "odds": "-106",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
-          },
-          {
-            "game": "Carolina Hurricanes @ Montreal Canadiens",
-            "betType": "spread",
-            "pick": "Montreal Canadiens +1.5",
-            "odds": "-196",
-            "confidence": "high",
-            "result": "L",
-            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
-          },
-          {
-            "game": "Carolina Hurricanes @ Montreal Canadiens",
-            "betType": "spread",
-            "pick": "Carolina Hurricanes -1.5",
-            "odds": "+158",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
-          },
-          {
-            "game": "Carolina Hurricanes @ Montreal Canadiens",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Carolina Hurricanes 4, Montreal Canadiens 0"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "New York Yankees @ Kansas City Royals",
-            "betType": "moneyline",
-            "pick": "New York Yankees",
-            "odds": "-156",
-            "confidence": "high",
-            "result": "W",
-            "score": "New York Yankees 7, Kansas City Royals 0"
-          },
-          {
-            "game": "Colorado Rockies @ Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5",
-            "odds": "-166",
-            "confidence": "high",
-            "result": "W",
-            "score": "Colorado Rockies 1, Los Angeles Dodgers 4"
-          },
-          {
-            "game": "Atlanta Braves @ Boston Red Sox",
-            "betType": "spread",
-            "pick": "Atlanta Braves -1.5",
-            "odds": "+130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Atlanta Braves 0, Boston Red Sox 8"
-          },
-          {
-            "game": "Houston Astros @ Texas Rangers",
-            "betType": "total",
-            "pick": "Over 7.5",
-            "odds": "+108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Houston Astros 4, Texas Rangers 3"
-          },
-          {
-            "game": "Philadelphia Phillies @ San Diego Padres",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-194",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Phillies 3, San Diego Padres 0"
           }
         ]
       }
