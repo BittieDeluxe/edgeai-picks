@@ -1,5 +1,102 @@
 [
   {
+    "date": "2026-06-27",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Philadelphia Phillies @ New York Mets",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Phillies 2, New York Mets 6"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Tampa Bay Rays",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arizona Diamondbacks 2, Tampa Bay Rays 4"
+          },
+          {
+            "game": "Kansas City Royals @ Chicago White Sox",
+            "betType": "total",
+            "pick": "Over 8",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kansas City Royals 1, Chicago White Sox 2"
+          },
+          {
+            "game": "Washington Nationals @ Baltimore Orioles",
+            "betType": "spread",
+            "pick": "Washington Nationals +1.5",
+            "odds": "-132",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Washington Nationals 4, Baltimore Orioles 3"
+          },
+          {
+            "game": "Atlanta Braves @ San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves",
+            "odds": "+112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Braves 0, San Francisco Giants 5"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "England @ Panama",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "England 2, Panama 0"
+          },
+          {
+            "game": "Uzbekistan @ Congo DR",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-155",
+            "confidence": "high",
+            "result": "L",
+            "score": "Uzbekistan 1, Congo DR 3"
+          },
+          {
+            "game": "Austria @ Algeria",
+            "betType": "total",
+            "pick": "Under 1.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Austria 3, Algeria 3"
+          },
+          {
+            "game": "Portugal @ Colombia",
+            "betType": "moneyline",
+            "pick": "Colombia",
+            "odds": "+250",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Portugal 0, Colombia 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-26",
     "sports": [
       {
@@ -1922,103 +2019,6 @@
             "confidence": "medium",
             "result": "?",
             "score": ""
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-05-28",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "Oklahoma City Thunder vs San Antonio Spurs",
-            "betType": "spread",
-            "pick": "San Antonio Spurs -3.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Oklahoma City Thunder 91, San Antonio Spurs 118"
-          },
-          {
-            "game": "Oklahoma City Thunder vs San Antonio Spurs",
-            "betType": "total",
-            "pick": "Over 218.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Oklahoma City Thunder 91, San Antonio Spurs 118"
-          },
-          {
-            "game": "Oklahoma City Thunder vs San Antonio Spurs",
-            "betType": "moneyline",
-            "pick": "San Antonio Spurs (-158)",
-            "odds": "-158",
-            "confidence": "high",
-            "result": "W",
-            "score": "Oklahoma City Thunder 91, San Antonio Spurs 118"
-          },
-          {
-            "game": "Oklahoma City Thunder vs San Antonio Spurs",
-            "betType": "spread",
-            "pick": "Oklahoma City Thunder +3.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Oklahoma City Thunder 91, San Antonio Spurs 118"
-          },
-          {
-            "game": "Oklahoma City Thunder vs San Antonio Spurs",
-            "betType": "total",
-            "pick": "Under 218.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Oklahoma City Thunder 91, San Antonio Spurs 118"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Atlanta Braves @ Boston Red Sox",
-            "betType": "spread",
-            "pick": "Atlanta Braves -1.5",
-            "odds": "+140",
-            "confidence": "high",
-            "result": "W",
-            "score": "Atlanta Braves 10, Boston Red Sox 2"
-          },
-          {
-            "game": "Chicago Cubs @ Pittsburgh Pirates",
-            "betType": "spread",
-            "pick": "Pittsburgh Pirates -1.5",
-            "odds": "+122",
-            "confidence": "high",
-            "result": "L",
-            "score": "Chicago Cubs 7, Pittsburgh Pirates 2"
-          },
-          {
-            "game": "Toronto Blue Jays @ Baltimore Orioles",
-            "betType": "moneyline",
-            "pick": "Toronto Blue Jays (+108)",
-            "odds": "+108",
-            "confidence": "high",
-            "result": "W",
-            "score": "Toronto Blue Jays 2, Baltimore Orioles 1"
-          },
-          {
-            "game": "Houston Astros @ Texas Rangers",
-            "betType": "spread",
-            "pick": "Houston Astros +1.5",
-            "odds": "-192",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Houston Astros 5, Texas Rangers 1"
           }
         ]
       }

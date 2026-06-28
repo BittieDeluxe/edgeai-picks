@@ -1,201 +1,128 @@
 {
-  "date": "2026-06-27",
-  "generatedAt": "2026-06-27T17:55:43.015Z",
+  "date": "2026-06-28",
+  "generatedAt": "2026-06-28T17:58:47.354Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Philadelphia Phillies @ New York Mets",
-          "betType": "moneyline",
-          "pick": "Philadelphia Phillies",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "The Philadelphia Phillies are in strong recent form, having won four straight games and six of their last seven overall. They also hold a significant head-to-head advantage over the Mets, winning seven of their last eight meetings. The New York Mets, conversely, are struggling with a seven-game losing streak and possess one of the league's worst offenses, ranking 29th in OPS. Mets' starter Christian Scott is also making his first start off the injured list, and his secondary pitches are considered among the bottom third in MLB, which could be exploited by Phillies' power hitters like Bryce Harper and Kyle Schwarber.",
-          "awayRecord": "46-36",
-          "homeRecord": "34-48",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
           "game": "Arizona Diamondbacks @ Tampa Bay Rays",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "This matchup strongly profiles as a low-scoring game, with the Arizona Diamondbacks going 8-1 to the under in their last nine road games and the Tampa Bay Rays hitting the under in 14 of their last 20 contests. Both teams are expected to employ bullpen-heavy strategies, as Arizona starts rookie Jose Cabrera in just his second MLB appearance and Tampa Bay is likely to use an opener. The Rays have also historically dominated this head-to-head, winning six of the last seven matchups and consistently limiting Arizona's scuffling road offense. These combined trends and pitching plans point towards a tightly contested, low-scoring affair.",
-          "awayRecord": "41-40",
-          "homeRecord": "46-33",
+          "betType": "spread",
+          "pick": "Tampa Bay Rays -1.5",
+          "odds": "-154",
+          "confidence": "high",
+          "rationale": "The Tampa Bay Rays are in excellent form, riding a four-game winning streak and looking to complete a home sweep against the Diamondbacks. Rays starting pitcher Drew Rasmussen boasts a strong 2.62 ERA and 0.88 WHIP, while Arizona's Merrill Kelly is struggling with a 5.71 ERA. Historically, the Rays have dominated this matchup, winning 9 of their last 10 against the Diamondbacks and covering the run line in 8 of their last 9 head-to-head contests. The Diamondbacks have also lost their last seven road games against American League opponents.",
+          "awayRecord": "41-41",
+          "homeRecord": "47-33",
           "awayLast5": [
             "L",
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
             "L"
           ],
           "homeLast5": [
             "L",
-            "L",
+            "W",
             "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Kansas City Royals @ Chicago White Sox",
-          "betType": "total",
-          "pick": "Over 8",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "This game presents a strong case for the over, as both teams have been trending towards higher-scoring outcomes, with the total going OVER in 7 of Kansas City's last 8 games and 5 of Chicago White Sox's last 5 games against the Royals. The White Sox offense is currently hot, coming off a dominant 22-1 victory, and both clubs feature bottom-10 bullpens and poor defensive metrics, which are conducive to more runs being scored. Furthermore, Royals' starting pitcher Michael Wacha has struggled recently, allowing three or more earned runs in four of his last five starts, further supporting a higher offensive output.",
-          "awayRecord": "34-49",
+          "game": "Miami Marlins @ St. Louis Cardinals",
+          "betType": "moneyline",
+          "pick": "Miami Marlins",
+          "odds": "+104",
+          "confidence": "high",
+          "rationale": "The Miami Marlins are playing exceptional baseball in June, holding an 18-5 record this month and having already secured their first season-series win over the Cardinals since 2016. Miami's offense is locked in, led by Otto Lopez's .336 batting average, and their pitching staff has stifled St. Louis in the first two games of the series. The Marlins have a strong head-to-head record against the Cardinals, winning 5 of their last 6 meetings and their last four visits to St. Louis. With Tyler Phillips (3.09 ERA) on the mound for Miami against Kyle Leahy (4.24 ERA) for St. Louis, the Marlins have a pitching edge.",
+          "awayRecord": "44-39",
           "homeRecord": "42-38",
           "awayLast5": [
+            "L",
             "W",
             "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
             "L",
             "L",
             "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
           ]
         },
         {
-          "game": "Washington Nationals @ Baltimore Orioles",
+          "game": "Philadelphia Phillies @ New York Mets",
           "betType": "spread",
-          "pick": "Washington Nationals +1.5",
-          "odds": "-132",
-          "confidence": "medium",
-          "rationale": "Despite their current four-game losing streak, the Washington Nationals have demonstrated resilience on the road with a respectable 24-17 record and have covered the run line in 13 of their last 14 games as road underdogs following a loss. Nationals' starting pitcher Foster Griffin has been a consistent performer this season, boasting an 8-2 record and a 3.15 ERA, including a strong 7.1-inning, 9-strikeout outing in his most recent start. While the Baltimore Orioles are favored, the Nationals have a history of keeping games close, making the run line value for the underdog attractive given Griffin's form and the team's road covering trend.",
-          "awayRecord": "41-42",
-          "homeRecord": "39-44",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ San Francisco Giants",
-          "betType": "moneyline",
-          "pick": "Atlanta Braves",
-          "odds": "+112",
-          "confidence": "medium",
-          "rationale": "The Atlanta Braves, despite some recent stumbles, remain one of the National League's premier powerhouses with a 49-31 record and an impressive 25-17 road record. While Giants' starter Logan Webb is known for being tough at home, the Braves' potent righty-heavy lineup, led by Matt Olson and Ozzie Albies, is well-equipped to generate offense against his contact-inducing style. Conversely, the San Francisco Giants' lineup is thin and ranks in the bottom half of the league in runs scored, further hampered by injuries to key players like Luis Arraez and Heliot Ramos, which should benefit Braves starter Bryce Elder. The Braves also have a strong trend of covering the run line in their last 11 Saturday games as road underdogs.",
-          "awayRecord": "49-31",
-          "homeRecord": "33-48",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        }
-      ]
-    },
-    {
-      "sport": "WORLDCUP",
-      "picks": [
-        {
-          "game": "England @ Panama",
-          "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-130",
+          "pick": "Philadelphia Phillies -1.5",
+          "odds": "+104",
           "confidence": "high",
-          "rationale": "England, having already secured qualification, may opt to rotate their squad, potentially impacting their offensive output. Panama has been eliminated from the tournament and has failed to score in their first two World Cup matches, losing 1-0 to both Ghana and Croatia. England's defense has been formidable, allowing only 0.66 expected goals per game over their last 10 international matches. The line movement for the Under 3.5 has shifted from -130 to -135 or -141 in some sportsbooks, indicating a consensus towards a lower-scoring affair.",
-          "awayRecord": "1-1-0",
-          "homeRecord": "0-0-2",
+          "rationale": "The Philadelphia Phillies face a Mets team that will be utilizing a bullpen game after heavily taxing their relievers in the previous day's contest. Phillies starter Jesus Luzardo has historically dominated the Mets, holding a 5-1 record with a 2.37 ERA in his last eight starts against them, and his underlying metrics suggest positive regression is likely. The Mets' offense has been one of the worst in the league this season, ranking near the bottom in runs, hits, batting average, slugging, and OPS. Furthermore, 11 of the Phillies' last 14 wins have been by two or more runs, making the run line an attractive option.",
+          "awayRecord": "46-37",
+          "homeRecord": "35-48",
           "awayLast5": [
-            "L",
-            "W"
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
           ],
           "homeLast5": [
             "L",
-            "L"
+            "L",
+            "L",
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Uzbekistan @ Congo DR",
+          "game": "Seattle Mariners @ Cleveland Guardians",
           "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-155",
-          "confidence": "high",
-          "rationale": "Uzbekistan has been effectively eliminated from the tournament with zero points and a -7 goal differential, suggesting a lack of offensive threat. DR Congo, while needing a win to advance, has seen six of their last seven games finish under 2.5 goals and has conceded only two goals in the tournament so far. Both teams have shown inconsistencies in scoring, with DR Congo failing to score in three of their last six matches. The verified odds for Under 2.5 at -155 are more favorable than current market offerings, indicating value in this pick.",
-          "awayRecord": "0-0-2",
-          "homeRecord": "0-1-1",
+          "pick": "Under 6.5",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "This rubber match features two strong starting pitchers in Emerson Hancock (3.60 ERA, 1.02 WHIP) and Gavin Williams (3.82 ERA, 9-4 record). Both offenses have been struggling significantly, with the Mariners scoring three runs or fewer in four of their last five games and both teams batting below .231. The Guardians are also without star third baseman José Ramírez due to injury, further hindering their offensive production. The total has seen significant line movement, dropping from an opening of 7.5 runs to 6.5, indicating sharp money on the Under.",
+          "awayRecord": "42-42",
+          "homeRecord": "43-40",
           "awayLast5": [
+            "W",
             "L",
+            "L",
+            "W",
             "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Austria @ Algeria",
+          "game": "Los Angeles Dodgers @ San Diego Padres",
           "betType": "total",
-          "pick": "Under 1.5",
-          "odds": "+110",
+          "pick": "Over 8",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Both Austria and Algeria are on three points, and a draw would likely see both teams advance to the knockout stage, incentivizing a cautious approach. The betting market heavily favors a draw, with no player having better than +500 odds to score, suggesting a low-scoring game is anticipated. Austria is also without key midfielder Christoph Baumgartner, who is ruled out due to a thigh injury, further limiting their attacking options. The verified odds of Under 1.5 at +110 offer significant value compared to current market prices.",
-          "awayRecord": "1-0-1",
-          "homeRecord": "1-0-1",
+          "rationale": "Despite the Padres' overall offensive struggles, the pitching matchup points towards a higher-scoring affair. Dodgers starter Emmet Sheehan has been inconsistent with a 5.32 ERA and a 1.30 WHIP, and the Dodgers have lost his last four starts. While Padres starter Michael King has a solid ERA, his advanced metrics suggest some shakiness. The Dodgers boast the league's best offense, capable of putting up runs against any pitcher, and they just scored 15 runs in the previous game. Both teams combined for 8 and 18 runs in the previous two games, and the Over has hit in the Dodgers' last five road games against NL opponents.",
+          "awayRecord": "53-30",
+          "homeRecord": "43-38",
           "awayLast5": [
+            "W",
+            "W",
+            "W",
             "L",
             "W"
           ],
           "homeLast5": [
             "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Portugal @ Colombia",
-          "betType": "moneyline",
-          "pick": "Colombia",
-          "odds": "+250",
-          "confidence": "medium",
-          "rationale": "Colombia currently leads Group K with a perfect record of two wins, and a draw in this match would secure them the top spot. Portugal needs a victory to claim first place, which may force them to adopt a more aggressive, risk-taking strategy that could expose their defense. Colombia's defense has been highly disciplined, allowing only three shots on target in their first two matches, demonstrating their ability to contain strong offenses. Playing at home, Colombia possesses potent attacking threats like Luis Diaz and James Rodriguez, who can capitalize on counter-attacking opportunities.",
-          "awayRecord": "1-1-0",
-          "homeRecord": "2-0-0",
-          "awayLast5": [
+            "W",
+            "W",
             "W",
             "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W"
           ]
         }
       ]
