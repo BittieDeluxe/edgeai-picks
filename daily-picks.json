@@ -1,125 +1,202 @@
 {
-  "date": "2026-06-28",
-  "generatedAt": "2026-06-28T17:58:47.354Z",
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-29T18:59:03.464Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Arizona Diamondbacks @ Tampa Bay Rays",
-          "betType": "spread",
-          "pick": "Tampa Bay Rays -1.5",
-          "odds": "-154",
-          "confidence": "high",
-          "rationale": "The Tampa Bay Rays are in excellent form, riding a four-game winning streak and looking to complete a home sweep against the Diamondbacks. Rays starting pitcher Drew Rasmussen boasts a strong 2.62 ERA and 0.88 WHIP, while Arizona's Merrill Kelly is struggling with a 5.71 ERA. Historically, the Rays have dominated this matchup, winning 9 of their last 10 against the Diamondbacks and covering the run line in 8 of their last 9 head-to-head contests. The Diamondbacks have also lost their last seven road games against American League opponents.",
-          "awayRecord": "41-41",
-          "homeRecord": "47-33",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Miami Marlins @ St. Louis Cardinals",
-          "betType": "moneyline",
-          "pick": "Miami Marlins",
-          "odds": "+104",
-          "confidence": "high",
-          "rationale": "The Miami Marlins are playing exceptional baseball in June, holding an 18-5 record this month and having already secured their first season-series win over the Cardinals since 2016. Miami's offense is locked in, led by Otto Lopez's .336 batting average, and their pitching staff has stifled St. Louis in the first two games of the series. The Marlins have a strong head-to-head record against the Cardinals, winning 5 of their last 6 meetings and their last four visits to St. Louis. With Tyler Phillips (3.09 ERA) on the mound for Miami against Kyle Leahy (4.24 ERA) for St. Louis, the Marlins have a pitching edge.",
-          "awayRecord": "44-39",
-          "homeRecord": "42-38",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ New York Mets",
-          "betType": "spread",
-          "pick": "Philadelphia Phillies -1.5",
-          "odds": "+104",
-          "confidence": "high",
-          "rationale": "The Philadelphia Phillies face a Mets team that will be utilizing a bullpen game after heavily taxing their relievers in the previous day's contest. Phillies starter Jesus Luzardo has historically dominated the Mets, holding a 5-1 record with a 2.37 ERA in his last eight starts against them, and his underlying metrics suggest positive regression is likely. The Mets' offense has been one of the worst in the league this season, ranking near the bottom in runs, hits, batting average, slugging, and OPS. Furthermore, 11 of the Phillies' last 14 wins have been by two or more runs, making the run line an attractive option.",
-          "awayRecord": "46-37",
-          "homeRecord": "35-48",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Seattle Mariners @ Cleveland Guardians",
+          "game": "Los Angeles Dodgers @ Athletics",
           "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "This rubber match features two strong starting pitchers in Emerson Hancock (3.60 ERA, 1.02 WHIP) and Gavin Williams (3.82 ERA, 9-4 record). Both offenses have been struggling significantly, with the Mariners scoring three runs or fewer in four of their last five games and both teams batting below .231. The Guardians are also without star third baseman José Ramírez due to injury, further hindering their offensive production. The total has seen significant line movement, dropping from an opening of 7.5 runs to 6.5, indicating sharp money on the Under.",
-          "awayRecord": "42-42",
-          "homeRecord": "43-40",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Los Angeles Dodgers @ San Diego Padres",
-          "betType": "total",
-          "pick": "Over 8",
+          "pick": "Over 10.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Despite the Padres' overall offensive struggles, the pitching matchup points towards a higher-scoring affair. Dodgers starter Emmet Sheehan has been inconsistent with a 5.32 ERA and a 1.30 WHIP, and the Dodgers have lost his last four starts. While Padres starter Michael King has a solid ERA, his advanced metrics suggest some shakiness. The Dodgers boast the league's best offense, capable of putting up runs against any pitcher, and they just scored 15 runs in the previous game. Both teams combined for 8 and 18 runs in the previous two games, and the Over has hit in the Dodgers' last five road games against NL opponents.",
-          "awayRecord": "53-30",
-          "homeRecord": "43-38",
+          "rationale": "The total for this game opened at 9.5 and quickly jumped to 10.5, indicating significant early market action favoring a higher-scoring game. Dodgers starter Eric Lauer, despite a good ERA with Los Angeles, has allowed 16 home runs this season, and the Athletics possess power hitters like Kurtz and Langeliers who can capitalize. While Athletics starter Gage Jump has an impressive 2.04 ERA, his limited 35.1-inning sample against a deep Dodgers lineup, including Shohei Ohtani, presents a significant challenge. The Dodgers' superior offense and the potential for runs against both starters, especially with Lauer's home run tendencies, make the Over a strong play.",
+          "awayRecord": "54-30",
+          "homeRecord": "40-44",
           "awayLast5": [
             "W",
             "W",
+            "L",
             "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Pittsburgh Pirates @ Philadelphia Phillies",
+          "betType": "moneyline",
+          "pick": "Pittsburgh Pirates (+176)",
+          "odds": "+176",
+          "confidence": "high",
+          "rationale": "The moneyline for this game saw significant reverse line movement, initially moving towards the Phillies with heavy public money, but then shifting back towards the Pirates overnight, a strong indicator of sharp action. Phillies starter Aaron Nola has struggled with home run issues and carries a 5.58 ERA, which is concerning against a Pittsburgh lineup that ranks well above average in slugging and power production. Conversely, Pirates starter Braxton Ashcraft has been in strong form, boasting a 5-1 record over his last seven starts. Despite the Phillies' earlier season sweep, the current pitching matchup and sharp money signals provide excellent value on the Pirates at this underdog price.",
+          "awayRecord": "42-42",
+          "homeRecord": "47-37",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
             "L",
             "W"
           ],
           "homeLast5": [
             "W",
             "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Texas Rangers @ Cleveland Guardians",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-104",
+          "confidence": "medium",
+          "rationale": "The total for this game opened at 8 and quickly dropped to 7.5, reflecting immediate market confidence in a lower-scoring outcome due to the strong pitching matchup. Despite overwhelming public money (89% of tickets and 88% of dollars) on the Over, the line has remained at 7.5, with the Under still available at a favorable -105, which is a classic sharp money indicator. Guardians starter Parker Messick has been excellent this season with a 2.67 ERA and 101 strikeouts over 94.1 innings, while Rangers starter Tyler Alexander also holds a respectable 2.62 ERA. This pitching duel, combined with the clear reverse line movement, strongly supports the Under.",
+          "awayRecord": "42-42",
+          "homeRecord": "44-40",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Angels @ Seattle Mariners",
+          "betType": "spread",
+          "pick": "Seattle Mariners -1.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "There is a significant starting pitching mismatch in this game, with Angels starter Ryan Johnson holding an alarming 8.84 ERA and 1.71 WHIP, having allowed five home runs in just 19.1 innings. He faces a Mariners lineup capable of capitalizing on mistakes, while Seattle counters with George Kirby, who has a more solid 3.94 ERA. The Angels are in a 'deeply difficult stretch' and are without their 'most recognizable offensive contributor,' further weakening their chances. Laying -1.5 at plus money against a struggling team with such a poor starting pitcher presents a clear value opportunity for the Mariners to win by multiple runs.",
+          "awayRecord": "36-49",
+          "homeRecord": "42-43",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "San Francisco Giants @ Arizona Diamondbacks",
+          "betType": "moneyline",
+          "pick": "Arizona Diamondbacks (-136)",
+          "odds": "-136",
+          "confidence": "medium",
+          "rationale": "The Arizona Diamondbacks have dominated the head-to-head matchups this season, winning all six previous meetings against the San Francisco Giants. This overwhelming historical trend is further supported by a significant pitching advantage, with Diamondbacks starter Eduardo Rodriguez boasting an impressive 2.27 ERA compared to Giants starter Tyler Mahle's 5.49 ERA and struggles with walks. The Diamondbacks' lineup has also shown a propensity to perform well against left-handed pitching like Mahle. The moneyline movement also saw overnight sharp action consolidate on Arizona, making the Diamondbacks a high-confidence play.",
+          "awayRecord": "35-48",
+          "homeRecord": "41-42",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "WORLDCUP",
+      "picks": [
+        {
+          "game": "Paraguay @ Germany",
+          "betType": "moneyline",
+          "pick": "Germany (-290)",
+          "odds": "-290",
+          "confidence": "high",
+          "rationale": "Germany enters this Round of 32 match as a significant favorite, having topped Group E and showcasing strong offensive capabilities, including a dominant 7-1 victory in the group stage. Their recent form is impressive with five wins in their last six matches, averaging 2.5 points per game and scoring 18 goals. While Paraguay has shown defensive resilience, Germany's overall quality and attacking prowess are expected to prevail against the 37th-ranked team. The -290 moneyline reflects Germany's high probability of advancing to the next round.",
+          "awayLast5": [
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Paraguay @ Germany",
+          "betType": "total",
+          "pick": "Over 2.5 (-145)",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "Germany's offense has been prolific, scoring 10 goals in their three group-stage matches and averaging three goals per game over their last six outings. Their head-to-head history with Paraguay also suggests higher-scoring affairs, with an average of 3.0 goals per game across their three meetings. Despite Paraguay's recent defensive improvements, Germany's attacking talent, featuring players like Kai Havertz and Deniz Undav, is well-positioned to contribute to a game exceeding 2.5 total goals.",
+          "awayLast5": [
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Morocco @ Netherlands",
+          "betType": "moneyline",
+          "pick": "Netherlands (+125)",
+          "odds": "+125",
+          "confidence": "high",
+          "rationale": "The Netherlands finished as the top team in Group F with an unbeaten record, scoring 10 goals in their three group matches and demonstrating strong offensive momentum. Historically, the Netherlands holds a 2-1 head-to-head advantage over Morocco, including a 2-1 victory in their only prior World Cup encounter. Despite Morocco's strong group stage performance, the Netherlands' consistent attacking threat and favorable historical record make them a valuable pick at +125 to win this Round of 32 clash.",
+          "awayLast5": [
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Morocco @ Netherlands",
+          "betType": "total",
+          "pick": "Over 2.5 (+120)",
+          "odds": "+120",
+          "confidence": "medium",
+          "rationale": "Both the Netherlands and Morocco have shown significant offensive capabilities in the group stage, with the Netherlands scoring 10 goals and Morocco netting 6. The Netherlands has been involved in several high-scoring games, averaging 2.17 goals scored per match in their last six, while Morocco averages 2.67 goals per match in their recent form. Their limited head-to-head history also suggests an average of 3.0 goals per game, indicating a propensity for open and attacking football. Given both teams' recent form, the Over 2.5 at plus odds presents a strong betting opportunity.",
+          "awayLast5": [
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
             "W",
             "W",
             "L"

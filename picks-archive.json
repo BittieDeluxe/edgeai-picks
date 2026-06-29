@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-06-28",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Arizona Diamondbacks @ Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays -1.5",
+            "odds": "-154",
+            "confidence": "high",
+            "result": "W",
+            "score": "Arizona Diamondbacks 1, Tampa Bay Rays 5"
+          },
+          {
+            "game": "Miami Marlins @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "+104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Miami Marlins 1, St. Louis Cardinals 2"
+          },
+          {
+            "game": "Philadelphia Phillies @ New York Mets",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies -1.5",
+            "odds": "+104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Phillies 5, New York Mets 4"
+          },
+          {
+            "game": "Seattle Mariners @ Cleveland Guardians",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Seattle Mariners 5, Cleveland Guardians 6"
+          },
+          {
+            "game": "Los Angeles Dodgers @ San Diego Padres",
+            "betType": "total",
+            "pick": "Over 8",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Dodgers 4, San Diego Padres 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-27",
     "sports": [
       {
@@ -1863,162 +1919,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Arizona Diamondbacks 1, Seattle Mariners 5"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-05-29",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Montreal Canadiens vs Carolina Hurricanes",
-            "betType": "moneyline",
-            "pick": "Carolina Hurricanes",
-            "odds": "-245",
-            "confidence": "high",
-            "result": "W",
-            "score": "Montreal Canadiens 1, Carolina Hurricanes 6"
-          },
-          {
-            "game": "Montreal Canadiens vs Carolina Hurricanes",
-            "betType": "total",
-            "pick": "Under 5.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Montreal Canadiens 1, Carolina Hurricanes 6"
-          },
-          {
-            "game": "Montreal Canadiens vs Carolina Hurricanes",
-            "betType": "spread",
-            "pick": "Carolina Hurricanes -1.5",
-            "odds": "+104",
-            "confidence": "high",
-            "result": "W",
-            "score": "Montreal Canadiens 1, Carolina Hurricanes 6"
-          },
-          {
-            "game": "Montreal Canadiens vs Carolina Hurricanes",
-            "betType": "spread",
-            "pick": "Montreal Canadiens +1.5",
-            "odds": "-128",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Montreal Canadiens 1, Carolina Hurricanes 6"
-          },
-          {
-            "game": "Montreal Canadiens vs Carolina Hurricanes",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Montreal Canadiens 1, Carolina Hurricanes 6"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Detroit Tigers @ Chicago White Sox",
-            "betType": "moneyline",
-            "pick": "Detroit Tigers",
-            "odds": "-124",
-            "confidence": "high",
-            "result": "L",
-            "score": "Detroit Tigers 3, Chicago White Sox 4"
-          },
-          {
-            "game": "San Diego Padres @ Washington Nationals",
-            "betType": "moneyline",
-            "pick": "Washington Nationals",
-            "odds": "-116",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Diego Padres 7, Washington Nationals 5"
-          },
-          {
-            "game": "New York Yankees @ Athletics",
-            "betType": "spread",
-            "pick": "New York Yankees -1.5",
-            "odds": "+112",
-            "confidence": "high",
-            "result": "W",
-            "score": "New York Yankees 8, Athletics 2"
-          },
-          {
-            "game": "Arizona Diamondbacks @ Seattle Mariners",
-            "betType": "moneyline",
-            "pick": "Seattle Mariners",
-            "odds": "-144",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Arizona Diamondbacks 6, Seattle Mariners 7"
-          },
-          {
-            "game": "Philadelphia Phillies @ Los Angeles Dodgers",
-            "betType": "moneyline",
-            "pick": "Los Angeles Dodgers",
-            "odds": "-118",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Phillies 2, Los Angeles Dodgers 4"
-          }
-        ]
-      },
-      {
-        "sport": "UCL",
-        "picks": [
-          {
-            "game": "Arsenal vs Paris Saint Germain",
-            "betType": "moneyline",
-            "pick": "Paris Saint Germain",
-            "odds": "+135",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Arsenal vs Paris Saint Germain",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Arsenal vs Paris Saint Germain",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-140",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Arsenal vs Paris Saint Germain",
-            "betType": "moneyline",
-            "pick": "Arsenal",
-            "odds": "+200",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Arsenal vs Paris Saint Germain",
-            "betType": "moneyline",
-            "pick": "Paris Saint Germain",
-            "odds": "+135",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
           }
         ]
       }
