@@ -1,128 +1,112 @@
 {
-  "date": "2026-06-29",
-  "generatedAt": "2026-06-29T18:59:03.464Z",
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T18:29:30.530Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Los Angeles Dodgers @ Athletics",
-          "betType": "total",
-          "pick": "Over 10.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The total for this game opened at 9.5 and quickly jumped to 10.5, indicating significant early market action favoring a higher-scoring game. Dodgers starter Eric Lauer, despite a good ERA with Los Angeles, has allowed 16 home runs this season, and the Athletics possess power hitters like Kurtz and Langeliers who can capitalize. While Athletics starter Gage Jump has an impressive 2.04 ERA, his limited 35.1-inning sample against a deep Dodgers lineup, including Shohei Ohtani, presents a significant challenge. The Dodgers' superior offense and the potential for runs against both starters, especially with Lauer's home run tendencies, make the Over a strong play.",
-          "awayRecord": "54-30",
-          "homeRecord": "40-44",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
           "game": "Pittsburgh Pirates @ Philadelphia Phillies",
-          "betType": "moneyline",
-          "pick": "Pittsburgh Pirates (+176)",
-          "odds": "+176",
+          "betType": "spread",
+          "pick": "Philadelphia Phillies -1.5",
+          "odds": "+160",
           "confidence": "high",
-          "rationale": "The moneyline for this game saw significant reverse line movement, initially moving towards the Phillies with heavy public money, but then shifting back towards the Pirates overnight, a strong indicator of sharp action. Phillies starter Aaron Nola has struggled with home run issues and carries a 5.58 ERA, which is concerning against a Pittsburgh lineup that ranks well above average in slugging and power production. Conversely, Pirates starter Braxton Ashcraft has been in strong form, boasting a 5-1 record over his last seven starts. Despite the Phillies' earlier season sweep, the current pitching matchup and sharp money signals provide excellent value on the Pirates at this underdog price.",
-          "awayRecord": "42-42",
-          "homeRecord": "47-37",
+          "rationale": "The Philadelphia Phillies hold a significant pitching advantage with Cristopher Sanchez (9-3, 2.13 ERA), who ranks fourth in MLB and boasts an elite 0.95 ERA at home. He faces Pittsburgh's Bubba Chandler (3-7, 4.42 ERA), who has shown inconsistency and command issues. The Phillies have a strong 23-20 home record and a favorable head-to-head record against the Pirates in Philadelphia, winning three of their last four matchups. This pitching mismatch and home advantage provide a strong edge for the Phillies to cover the run line.",
+          "awayRecord": "43-42",
+          "homeRecord": "47-38",
           "awayLast5": [
             "W",
+            "L",
+            "L",
             "W",
-            "L",
-            "L",
             "W"
           ],
           "homeLast5": [
             "W",
             "W",
-            "W",
             "L",
-            "W"
+            "W",
+            "L"
           ]
         },
         {
           "game": "Texas Rangers @ Cleveland Guardians",
           "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-104",
+          "pick": "Under 8",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "The total for this game opened at 8 and quickly dropped to 7.5, reflecting immediate market confidence in a lower-scoring outcome due to the strong pitching matchup. Despite overwhelming public money (89% of tickets and 88% of dollars) on the Over, the line has remained at 7.5, with the Under still available at a favorable -105, which is a classic sharp money indicator. Guardians starter Parker Messick has been excellent this season with a 2.67 ERA and 101 strikeouts over 94.1 innings, while Rangers starter Tyler Alexander also holds a respectable 2.62 ERA. This pitching duel, combined with the clear reverse line movement, strongly supports the Under.",
-          "awayRecord": "42-42",
-          "homeRecord": "44-40",
+          "rationale": "This game features a premier pitching matchup between the Rangers' Jacob deGrom (6-5, 3.55 ERA) and the Guardians' Tanner Bibee (2-8, 3.78 ERA), both of whom have strong historical performances against their respective opponents. DeGrom has been particularly sharp in June with a 1.69 ERA over his last three starts, and Bibee has allowed two earned runs or fewer in three of his last four outings. Furthermore, both teams are missing key offensive players, including José Ramírez for Cleveland and Wyatt Langford and Danny Jansen for Texas, which points to a low-scoring affair. The line movement on the total also indicates sharp money on the under.",
+          "awayRecord": "43-42",
+          "homeRecord": "44-41",
           "awayLast5": [
-            "L",
+            "W",
             "W",
             "W",
             "W",
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
             "W",
-            "W"
+            "W",
+            "L"
           ]
         },
         {
-          "game": "Los Angeles Angels @ Seattle Mariners",
+          "game": "Milwaukee Brewers @ Cincinnati Reds",
           "betType": "spread",
-          "pick": "Seattle Mariners -1.5",
-          "odds": "+105",
+          "pick": "Milwaukee Brewers -1.5",
+          "odds": "+120",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers have dominated the Cincinnati Reds this season, holding a perfect 4-0 head-to-head record and winning the series opener 5-3. Milwaukee boasts a strong 51-31 overall record and an impressive 27-17 mark at home, while the Reds have a poor 19-49 record in their last 68 games against the Brewers. Brewers' starter Brandon Sproat recently shut down the Reds with six scoreless innings and 10 strikeouts, giving Milwaukee a significant pitching advantage. The Brewers have also covered the run line in six consecutive Tuesday games against National League opponents."
+        },
+        {
+          "game": "Los Angeles Dodgers @ Athletics",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "There is a significant starting pitching mismatch in this game, with Angels starter Ryan Johnson holding an alarming 8.84 ERA and 1.71 WHIP, having allowed five home runs in just 19.1 innings. He faces a Mariners lineup capable of capitalizing on mistakes, while Seattle counters with George Kirby, who has a more solid 3.94 ERA. The Angels are in a 'deeply difficult stretch' and are without their 'most recognizable offensive contributor,' further weakening their chances. Laying -1.5 at plus money against a struggling team with such a poor starting pitcher presents a clear value opportunity for the Mariners to win by multiple runs.",
-          "awayRecord": "36-49",
-          "homeRecord": "42-43",
+          "rationale": "The Los Angeles Dodgers are in excellent form, having won three consecutive games and six of their last seven on this road trip, including a 9-4 victory yesterday against the Athletics. They face an Athletics team that has lost three straight and seven of their last nine games. The pitching matchup heavily favors the Dodgers with Justin Wrobleski (9-2, 2.71 ERA) against Jeffrey Springs (3-7, 5.52 ERA), whose underlying metrics suggest significant regression. Additionally, the Athletics' bullpen has been a disaster at home with an ERA above six, while the Dodgers' bullpen has been reliable on the road, further solidifying the Dodgers' advantage.",
+          "awayRecord": "55-30",
+          "homeRecord": "40-45",
           "awayLast5": [
             "W",
-            "W",
             "L",
+            "W",
             "W",
             "W"
           ],
           "homeLast5": [
-            "L",
-            "L",
             "W",
+            "W",
+            "L",
             "L",
             "L"
           ]
         },
         {
-          "game": "San Francisco Giants @ Arizona Diamondbacks",
+          "game": "Washington Nationals @ Boston Red Sox",
           "betType": "moneyline",
-          "pick": "Arizona Diamondbacks (-136)",
-          "odds": "-136",
+          "pick": "Washington Nationals",
+          "odds": "+110",
           "confidence": "medium",
-          "rationale": "The Arizona Diamondbacks have dominated the head-to-head matchups this season, winning all six previous meetings against the San Francisco Giants. This overwhelming historical trend is further supported by a significant pitching advantage, with Diamondbacks starter Eduardo Rodriguez boasting an impressive 2.27 ERA compared to Giants starter Tyler Mahle's 5.49 ERA and struggles with walks. The Diamondbacks' lineup has also shown a propensity to perform well against left-handed pitching like Mahle. The moneyline movement also saw overnight sharp action consolidate on Arizona, making the Diamondbacks a high-confidence play.",
-          "awayRecord": "35-48",
-          "homeRecord": "41-42",
+          "rationale": "The Washington Nationals offer strong value as road underdogs, despite having a better overall record (43-43) than the Boston Red Sox (37-46). Washington boasts an impressive 26-18 road record this season and has won nine of their last ten games as road underdogs following a road loss. Nationals' starter Cade Cavalli has been consistently effective, holding opponents to three earned runs or fewer in eight straight starts. Conversely, the Red Sox have struggled at home, losing 12 of their last 17 games as favorites after a home win, making the Nationals a high-confidence pick at plus money.",
+          "awayRecord": "43-43",
+          "homeRecord": "37-46",
           "awayLast5": [
-            "W",
             "L",
             "L",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L",
-            "L",
-            "L"
+            "W",
+            "W",
+            "W"
           ]
         }
       ]
@@ -131,75 +115,93 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Paraguay @ Germany",
-          "betType": "moneyline",
-          "pick": "Germany (-290)",
-          "odds": "-290",
+          "game": "Norway @ Ivory Coast",
+          "betType": "total",
+          "pick": "Over 1.5",
+          "odds": "-220",
           "confidence": "high",
-          "rationale": "Germany enters this Round of 32 match as a significant favorite, having topped Group E and showcasing strong offensive capabilities, including a dominant 7-1 victory in the group stage. Their recent form is impressive with five wins in their last six matches, averaging 2.5 points per game and scoring 18 goals. While Paraguay has shown defensive resilience, Germany's overall quality and attacking prowess are expected to prevail against the 37th-ranked team. The -290 moneyline reflects Germany's high probability of advancing to the next round.",
+          "rationale": "Norway's key attacking players, Erling Haaland and Martin Odegaard, return to the starting lineup after being strategically rested, significantly boosting their offensive threat. Both teams have shown a propensity for higher-scoring games, with Norway's World Cup matches averaging five goals and Ivory Coast's recent matches frequently exceeding 2.5 goals. The verified line of Over 1.5 at -220 reflects this expectation, and with the knockout stage intensity, both teams will be pushing for goals. Ivory Coast also has a doubtful player in Wilfried Singo (hamstring), which could further impact their defense.",
           "awayLast5": [
             "L",
             "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "L",
             "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Paraguay @ Germany",
+          "game": "Sweden @ France",
           "betType": "total",
-          "pick": "Over 2.5 (-145)",
-          "odds": "-145",
-          "confidence": "high",
-          "rationale": "Germany's offense has been prolific, scoring 10 goals in their three group-stage matches and averaging three goals per game over their last six outings. Their head-to-head history with Paraguay also suggests higher-scoring affairs, with an average of 3.0 goals per game across their three meetings. Despite Paraguay's recent defensive improvements, Germany's attacking talent, featuring players like Kai Havertz and Deniz Undav, is well-positioned to contribute to a game exceeding 2.5 total goals.",
-          "awayLast5": [
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Morocco @ Netherlands",
-          "betType": "moneyline",
-          "pick": "Netherlands (+125)",
-          "odds": "+125",
-          "confidence": "high",
-          "rationale": "The Netherlands finished as the top team in Group F with an unbeaten record, scoring 10 goals in their three group matches and demonstrating strong offensive momentum. Historically, the Netherlands holds a 2-1 head-to-head advantage over Morocco, including a 2-1 victory in their only prior World Cup encounter. Despite Morocco's strong group stage performance, the Netherlands' consistent attacking threat and favorable historical record make them a valuable pick at +125 to win this Round of 32 clash.",
-          "awayLast5": [
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Morocco @ Netherlands",
-          "betType": "total",
-          "pick": "Over 2.5 (+120)",
-          "odds": "+120",
+          "pick": "Over 3.5",
+          "odds": "+105",
           "confidence": "medium",
-          "rationale": "Both the Netherlands and Morocco have shown significant offensive capabilities in the group stage, with the Netherlands scoring 10 goals and Morocco netting 6. The Netherlands has been involved in several high-scoring games, averaging 2.17 goals scored per match in their last six, while Morocco averages 2.67 goals per match in their recent form. Their limited head-to-head history also suggests an average of 3.0 goals per game, indicating a propensity for open and attacking football. Given both teams' recent form, the Over 2.5 at plus odds presents a strong betting opportunity.",
+          "rationale": "France has been in prolific scoring form, netting two or more goals in 15 of their last 16 matches. Sweden's recent form also points to high-scoring affairs, with seven of their last nine international games seeing over 3.5 goals and both teams scoring in their last nine. The head-to-head history further supports this, with 75% of their last four meetings exceeding 2.5 goals. With Sweden missing defender Isak Hien due to a hamstring injury, France's attack should find opportunities to contribute to a high-scoring contest.",
+          "awayLast5": [
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Ecuador @ Mexico",
+          "betType": "total",
+          "pick": "Under 1.5",
+          "odds": "+135",
+          "confidence": "high",
+          "rationale": "Mexico has been defensively stout, keeping five clean sheets in their last six matches and conceding only one goal during that span. Ecuador also boasts a strong defensive record, having conceded only five goals in 18 qualifiers and not allowing two or more goals in their last 26 games. Furthermore, two of the last three head-to-head encounters between these teams have ended in goalless draws, indicating a history of tight, low-scoring affairs. The high odds for the Under 1.5 at +135 present significant value given these defensive trends and the knockout stage pressure.",
           "awayLast5": [
             "W",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L"
+            "W"
+          ]
+        },
+        {
+          "game": "Norway @ Ivory Coast",
+          "betType": "moneyline",
+          "pick": "Norway",
+          "odds": "-235",
+          "confidence": "medium",
+          "rationale": "Norway sees the return of star players Erling Haaland and Martin Odegaard to the starting lineup after they were strategically rested, providing a significant boost to their attacking prowess. The Opta supercomputer also projects Norway as the clear favorites to advance in this Round of 32 clash. While Ivory Coast has a slight edge in the overall head-to-head record, this is their first competitive meeting, and Norway's full-strength squad is expected to dominate. Ivory Coast also has a doubtful player in Wilfried Singo (hamstring), which could further weaken their defense against a potent Norwegian attack.",
+          "awayLast5": [
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Sweden @ France",
+          "betType": "moneyline",
+          "pick": "France",
+          "odds": "-350",
+          "confidence": "medium",
+          "rationale": "France enters this Round of 32 match with impeccable form, having won all three of their group stage games and scoring 2+ goals in 15 of their last 16 matches. Their head-to-head record against Sweden is dominant, with France winning 12 of 23 meetings and four of their last five encounters. Sweden, on the other hand, is missing key defender Isak Hien due to injury, which will further challenge their ability to contain France's potent offense led by Kylian Mbappe. Despite some minor injury concerns for France, William Saliba is expected to return to bolster their defense.",
+          "awayLast5": [
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W"
           ]
         }
       ]

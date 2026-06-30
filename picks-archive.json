@@ -1,5 +1,102 @@
 [
   {
+    "date": "2026-06-29",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Dodgers @ Athletics",
+            "betType": "total",
+            "pick": "Over 10.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Dodgers 9, Athletics 4"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates (+176)",
+            "odds": "+176",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Pirates 11, Philadelphia Phillies 7"
+          },
+          {
+            "game": "Texas Rangers @ Cleveland Guardians",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Texas Rangers 6, Cleveland Guardians 3"
+          },
+          {
+            "game": "Los Angeles Angels @ Seattle Mariners",
+            "betType": "spread",
+            "pick": "Seattle Mariners -1.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Angels 2, Seattle Mariners 6"
+          },
+          {
+            "game": "San Francisco Giants @ Arizona Diamondbacks",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks (-136)",
+            "odds": "-136",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Francisco Giants 4, Arizona Diamondbacks 5"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Paraguay @ Germany",
+            "betType": "moneyline",
+            "pick": "Germany (-290)",
+            "odds": "-290",
+            "confidence": "high",
+            "result": "L",
+            "score": "Paraguay 1, Germany 1"
+          },
+          {
+            "game": "Paraguay @ Germany",
+            "betType": "total",
+            "pick": "Over 2.5 (-145)",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "L",
+            "score": "Paraguay 1, Germany 1"
+          },
+          {
+            "game": "Morocco @ Netherlands",
+            "betType": "moneyline",
+            "pick": "Netherlands (+125)",
+            "odds": "+125",
+            "confidence": "high",
+            "result": "L",
+            "score": "Morocco 1, Netherlands 1"
+          },
+          {
+            "game": "Morocco @ Netherlands",
+            "betType": "total",
+            "pick": "Over 2.5 (+120)",
+            "odds": "+120",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Morocco 1, Netherlands 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-28",
     "sports": [
       {
@@ -1813,112 +1910,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Atlanta Braves 4, Cincinnati Reds 6"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-05-30",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "San Antonio Spurs vs Oklahoma City Thunder",
-            "betType": "spread",
-            "pick": "Oklahoma City Thunder -3.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
-          },
-          {
-            "game": "San Antonio Spurs vs Oklahoma City Thunder",
-            "betType": "total",
-            "pick": "Under 212.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
-          },
-          {
-            "game": "San Antonio Spurs vs Oklahoma City Thunder",
-            "betType": "moneyline",
-            "pick": "Oklahoma City Thunder (-155)",
-            "odds": "-155",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
-          },
-          {
-            "game": "San Antonio Spurs vs Oklahoma City Thunder",
-            "betType": "spread",
-            "pick": "San Antonio Spurs +3.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
-          },
-          {
-            "game": "San Antonio Spurs vs Oklahoma City Thunder",
-            "betType": "total",
-            "pick": "Over 212.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Antonio Spurs 111, Oklahoma City Thunder 103"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Miami Marlins @ New York Mets",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Miami Marlins 1, New York Mets 6"
-          },
-          {
-            "game": "Milwaukee Brewers @ Houston Astros",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers (-186)",
-            "odds": "-186",
-            "confidence": "high",
-            "result": "L",
-            "score": "Milwaukee Brewers 2, Houston Astros 9"
-          },
-          {
-            "game": "Atlanta Braves @ Cincinnati Reds",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Atlanta Braves 5, Cincinnati Reds 2"
-          },
-          {
-            "game": "San Francisco Giants @ Colorado Rockies",
-            "betType": "moneyline",
-            "pick": "San Francisco Giants (-118)",
-            "odds": "-118",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Francisco Giants 3, Colorado Rockies 8"
-          },
-          {
-            "game": "Arizona Diamondbacks @ Seattle Mariners",
-            "betType": "moneyline",
-            "pick": "Seattle Mariners (-152)",
-            "odds": "-152",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Arizona Diamondbacks 1, Seattle Mariners 5"
           }
         ]
       }
