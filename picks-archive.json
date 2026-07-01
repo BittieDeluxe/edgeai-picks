@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-06-30",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Pittsburgh Pirates @ Philadelphia Phillies",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies -1.5",
+            "odds": "+160",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Pirates 0, Philadelphia Phillies 8"
+          },
+          {
+            "game": "Texas Rangers @ Cleveland Guardians",
+            "betType": "total",
+            "pick": "Under 8",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Texas Rangers 4, Cleveland Guardians 2"
+          },
+          {
+            "game": "Milwaukee Brewers @ Cincinnati Reds",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 2, Milwaukee Brewers 7"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Athletics",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Dodgers 9, Athletics 3"
+          },
+          {
+            "game": "Washington Nationals @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Washington Nationals",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Washington Nationals 8, Boston Red Sox 1"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Norway @ Ivory Coast",
+            "betType": "total",
+            "pick": "Over 1.5",
+            "odds": "-220",
+            "confidence": "high",
+            "result": "W",
+            "score": "Norway 2, Ivory Coast 1"
+          },
+          {
+            "game": "Sweden @ France",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sweden 0, France 3"
+          },
+          {
+            "game": "Ecuador @ Mexico",
+            "betType": "total",
+            "pick": "Under 1.5",
+            "odds": "+135",
+            "confidence": "high",
+            "result": "L",
+            "score": "Ecuador 0, Mexico 2"
+          },
+          {
+            "game": "Norway @ Ivory Coast",
+            "betType": "moneyline",
+            "pick": "Norway",
+            "odds": "-235",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Norway 2, Ivory Coast 1"
+          },
+          {
+            "game": "Sweden @ France",
+            "betType": "moneyline",
+            "pick": "France",
+            "odds": "-350",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sweden 0, France 3"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-29",
     "sports": [
       {
@@ -1854,62 +1960,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Los Angeles Dodgers 1, Arizona Diamondbacks 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-05-31",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "San Francisco Giants @ Colorado Rockies",
-            "betType": "moneyline",
-            "pick": "Colorado Rockies (-104)",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Francisco Giants 19, Colorado Rockies 6"
-          },
-          {
-            "game": "Detroit Tigers @ Chicago White Sox",
-            "betType": "moneyline",
-            "pick": "Chicago White Sox (-130)",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "W",
-            "score": "Detroit Tigers 1, Chicago White Sox 2"
-          },
-          {
-            "game": "Kansas City Royals @ Texas Rangers",
-            "betType": "moneyline",
-            "pick": "Texas Rangers (-112)",
-            "odds": "-112",
-            "confidence": "high",
-            "result": "W",
-            "score": "Kansas City Royals 3, Texas Rangers 6"
-          },
-          {
-            "game": "Philadelphia Phillies @ Los Angeles Dodgers",
-            "betType": "prop",
-            "pick": "Shohei Ohtani Over 1.5 Total Bases",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "?",
-            "score": "Shohei Ohtani: \"Total Bases\" not auto-gradeable"
-          },
-          {
-            "game": "Atlanta Braves @ Cincinnati Reds",
-            "betType": "moneyline",
-            "pick": "Atlanta Braves (+100)",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Atlanta Braves 4, Cincinnati Reds 6"
           }
         ]
       }

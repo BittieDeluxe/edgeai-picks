@@ -1,19 +1,19 @@
 {
-  "date": "2026-06-30",
-  "generatedAt": "2026-06-30T18:29:30.530Z",
+  "date": "2026-07-01",
+  "generatedAt": "2026-07-01T18:55:12.767Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Pittsburgh Pirates @ Philadelphia Phillies",
+          "game": "Detroit Tigers vs New York Yankees",
           "betType": "spread",
-          "pick": "Philadelphia Phillies -1.5",
-          "odds": "+160",
+          "pick": "Detroit Tigers -2.5",
+          "odds": "-106",
           "confidence": "high",
-          "rationale": "The Philadelphia Phillies hold a significant pitching advantage with Cristopher Sanchez (9-3, 2.13 ERA), who ranks fourth in MLB and boasts an elite 0.95 ERA at home. He faces Pittsburgh's Bubba Chandler (3-7, 4.42 ERA), who has shown inconsistency and command issues. The Phillies have a strong 23-20 home record and a favorable head-to-head record against the Pirates in Philadelphia, winning three of their last four matchups. This pitching mismatch and home advantage provide a strong edge for the Phillies to cover the run line.",
-          "awayRecord": "43-42",
-          "homeRecord": "47-38",
+          "rationale": "The New York Yankees are in a significant slump, having lost their last six games and eight of their last ten. They are also heavily impacted by injuries to key players like Aaron Judge, Max Fried, Trent Grisham, Ryan McMahon, and Jazz Chisholm Jr.. The Detroit Tigers, despite their overall record, just defeated the Yankees 9-3 yesterday, indicating current strong form against this particular opponent. The betting line has shifted to favor the Tigers as significant road favorites, reflecting the Yankees' struggles and injury woes.",
+          "awayRecord": "37-49",
+          "homeRecord": "48-37",
           "awayLast5": [
             "W",
             "L",
@@ -22,78 +22,94 @@
             "W"
           ],
           "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Washington Nationals vs Boston Red Sox",
+          "betType": "spread",
+          "pick": "Washington Nationals -6.5",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The Washington Nationals have been dominant against the Boston Red Sox recently, winning their last two matchups by scores of 8-1 and 6-3. The Red Sox are severely hampered by pitching injuries, with Johan Oviedo and Tanner Houck on the 60-day IL, and rookie starter Connelly Early leaving his last game with elbow discomfort and undergoing testing today. These injuries significantly weaken Boston's pitching staff, making them vulnerable to a high-scoring Nationals offense. The large spread, while daunting, reflects the significant disparity in current form and health between the two teams.",
+          "awayRecord": "44-43",
+          "homeRecord": "37-47",
+          "awayLast5": [
+            "L",
             "W",
             "W",
             "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
             "W",
             "L"
           ]
         },
         {
-          "game": "Texas Rangers @ Cleveland Guardians",
+          "game": "San Diego Padres vs Chicago Cubs",
           "betType": "total",
-          "pick": "Under 8",
-          "odds": "-114",
-          "confidence": "medium",
-          "rationale": "This game features a premier pitching matchup between the Rangers' Jacob deGrom (6-5, 3.55 ERA) and the Guardians' Tanner Bibee (2-8, 3.78 ERA), both of whom have strong historical performances against their respective opponents. DeGrom has been particularly sharp in June with a 1.69 ERA over his last three starts, and Bibee has allowed two earned runs or fewer in three of his last four outings. Furthermore, both teams are missing key offensive players, including José Ramírez for Cleveland and Wyatt Langford and Danny Jansen for Texas, which points to a low-scoring affair. The line movement on the total also indicates sharp money on the under.",
-          "awayRecord": "43-42",
-          "homeRecord": "44-41",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Milwaukee Brewers @ Cincinnati Reds",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "+120",
+          "pick": "Over 13.5",
+          "odds": "-118",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers have dominated the Cincinnati Reds this season, holding a perfect 4-0 head-to-head record and winning the series opener 5-3. Milwaukee boasts a strong 51-31 overall record and an impressive 27-17 mark at home, while the Reds have a poor 19-49 record in their last 68 games against the Brewers. Brewers' starter Brandon Sproat recently shut down the Reds with six scoreless innings and 10 strikeouts, giving Milwaukee a significant pitching advantage. The Brewers have also covered the run line in six consecutive Tuesday games against National League opponents."
-        },
-        {
-          "game": "Los Angeles Dodgers @ Athletics",
-          "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "The Los Angeles Dodgers are in excellent form, having won three consecutive games and six of their last seven on this road trip, including a 9-4 victory yesterday against the Athletics. They face an Athletics team that has lost three straight and seven of their last nine games. The pitching matchup heavily favors the Dodgers with Justin Wrobleski (9-2, 2.71 ERA) against Jeffrey Springs (3-7, 5.52 ERA), whose underlying metrics suggest significant regression. Additionally, the Athletics' bullpen has been a disaster at home with an ERA above six, while the Dodgers' bullpen has been reliable on the road, further solidifying the Dodgers' advantage.",
-          "awayRecord": "55-30",
-          "homeRecord": "40-45",
+          "rationale": "The Chicago Cubs have a significant number of pitchers on the injured list, including multiple starters and relievers, which could compromise their pitching depth for today's game. While the Cubs have been winning recently, the exceptionally high total of 13.5 suggests oddsmakers anticipate a high-scoring affair, likely due to these pitching concerns. The Padres, despite their recent losing streak, have the offensive capability to contribute to a high total against a potentially weakened Cubs pitching staff, setting the stage for a run-heavy game.",
+          "awayRecord": "43-41",
+          "homeRecord": "48-38",
           "awayLast5": [
             "W",
             "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
             "W",
             "W",
             "W"
+          ]
+        },
+        {
+          "game": "New York Mets vs Toronto Blue Jays",
+          "betType": "moneyline",
+          "pick": "New York Mets",
+          "odds": "-104",
+          "confidence": "medium",
+          "rationale": "The New York Mets defeated the Toronto Blue Jays 3-0 in their last matchup, demonstrating an ability to win this series. The Blue Jays are currently struggling, having lost their last game and seven of their last ten, and are dealing with a significant injury concern as Vladimir Guerrero Jr. was scratched from the lineup yesterday with back tightness. Despite the Mets' own struggles, the Blue Jays' recent form and key injury make the Mets, as slight underdogs, a valuable pick in this matchup.",
+          "awayRecord": "36-50",
+          "homeRecord": "40-46",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
             "L",
             "L",
+            "L",
+            "W",
             "L"
           ]
         },
         {
-          "game": "Washington Nationals @ Boston Red Sox",
+          "game": "Pittsburgh Pirates vs Philadelphia Phillies",
           "betType": "moneyline",
-          "pick": "Washington Nationals",
-          "odds": "+110",
+          "pick": "Philadelphia Phillies",
+          "odds": "-126",
           "confidence": "medium",
-          "rationale": "The Washington Nationals offer strong value as road underdogs, despite having a better overall record (43-43) than the Boston Red Sox (37-46). Washington boasts an impressive 26-18 road record this season and has won nine of their last ten games as road underdogs following a road loss. Nationals' starter Cade Cavalli has been consistently effective, holding opponents to three earned runs or fewer in eight straight starts. Conversely, the Red Sox have struggled at home, losing 12 of their last 17 games as favorites after a home win, making the Nationals a high-confidence pick at plus money.",
+          "rationale": "The Philadelphia Phillies are in excellent form, having won 7 of their last 10 games, including a dominant 8-0 victory over the Pittsburgh Pirates yesterday. Phillies pitcher Cristopher Sanchez delivered a stellar performance, allowing only three hits over seven scoreless innings for his tenth win of the season. The Phillies offense is also clicking, with Trea Turner hitting safely in eight straight games and Justin Crawford contributing significantly. Given their strong pitching and hitting, the Phillies are well-positioned to secure another win against the Pirates.",
           "awayRecord": "43-43",
-          "homeRecord": "37-46",
+          "homeRecord": "48-38",
           "awayLast5": [
             "L",
             "L",
@@ -103,9 +119,9 @@
           ],
           "homeLast5": [
             "W",
+            "L",
             "W",
-            "W",
-            "W",
+            "L",
             "W"
           ]
         }
@@ -115,48 +131,12 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Norway @ Ivory Coast",
-          "betType": "total",
-          "pick": "Over 1.5",
-          "odds": "-220",
+          "game": "Senegal vs Belgium",
+          "betType": "moneyline",
+          "pick": "Belgium",
+          "odds": "+110",
           "confidence": "high",
-          "rationale": "Norway's key attacking players, Erling Haaland and Martin Odegaard, return to the starting lineup after being strategically rested, significantly boosting their offensive threat. Both teams have shown a propensity for higher-scoring games, with Norway's World Cup matches averaging five goals and Ivory Coast's recent matches frequently exceeding 2.5 goals. The verified line of Over 1.5 at -220 reflects this expectation, and with the knockout stage intensity, both teams will be pushing for goals. Ivory Coast also has a doubtful player in Wilfried Singo (hamstring), which could further impact their defense.",
-          "awayLast5": [
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Sweden @ France",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+105",
-          "confidence": "medium",
-          "rationale": "France has been in prolific scoring form, netting two or more goals in 15 of their last 16 matches. Sweden's recent form also points to high-scoring affairs, with seven of their last nine international games seeing over 3.5 goals and both teams scoring in their last nine. The head-to-head history further supports this, with 75% of their last four meetings exceeding 2.5 goals. With Sweden missing defender Isak Hien due to a hamstring injury, France's attack should find opportunities to contribute to a high-scoring contest.",
-          "awayLast5": [
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Ecuador @ Mexico",
-          "betType": "total",
-          "pick": "Under 1.5",
-          "odds": "+135",
-          "confidence": "high",
-          "rationale": "Mexico has been defensively stout, keeping five clean sheets in their last six matches and conceding only one goal during that span. Ecuador also boasts a strong defensive record, having conceded only five goals in 18 qualifiers and not allowing two or more goals in their last 26 games. Furthermore, two of the last three head-to-head encounters between these teams have ended in goalless draws, indicating a history of tight, low-scoring affairs. The high odds for the Under 1.5 at +135 present significant value given these defensive trends and the knockout stage pressure.",
+          "rationale": "Belgium enters this knockout match with a significant advantage as Senegal's starting goalkeeper, Édouard Mendy, is out due to a knee injury, forcing Mory Diaw into goal. Belgium has shown strong recent form, remaining unbeaten in their last six matches with three wins and three draws, and their offense exploded for five goals in their final group stage game. With a fully fit squad and superior individual quality, Belgium is well-positioned to secure a victory. The +110 odds offer excellent value for a team with such clear advantages in a crucial World Cup fixture.",
           "awayLast5": [
             "W",
             "L",
@@ -164,44 +144,44 @@
           ],
           "homeLast5": [
             "W",
-            "W",
-            "W"
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Norway @ Ivory Coast",
-          "betType": "moneyline",
-          "pick": "Norway",
-          "odds": "-235",
-          "confidence": "medium",
-          "rationale": "Norway sees the return of star players Erling Haaland and Martin Odegaard to the starting lineup after they were strategically rested, providing a significant boost to their attacking prowess. The Opta supercomputer also projects Norway as the clear favorites to advance in this Round of 32 clash. While Ivory Coast has a slight edge in the overall head-to-head record, this is their first competitive meeting, and Norway's full-strength squad is expected to dominate. Ivory Coast also has a doubtful player in Wilfried Singo (hamstring), which could further weaken their defense against a potent Norwegian attack.",
+          "game": "Senegal vs Belgium",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The 'Over 2.5 Goals' pick is strongly supported by Senegal's recent World Cup performance, where their tournament fixtures have averaged a staggering 4.67 combined goals per match, and their last six World Cup games have all exceeded 2.5 goals. The absence of Senegal's starting goalkeeper, Édouard Mendy, due to injury further increases the likelihood of goals being conceded by their defense. Belgium's offense also demonstrated its potency by scoring five goals in their last group stage match, indicating their ability to contribute significantly to the total. Furthermore, line movement has shifted towards the Over, suggesting sharp money anticipates a high-scoring affair.",
           "awayLast5": [
-            "L",
             "W",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "W",
             "L",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "Sweden @ France",
-          "betType": "moneyline",
-          "pick": "France",
-          "odds": "-350",
-          "confidence": "medium",
-          "rationale": "France enters this Round of 32 match with impeccable form, having won all three of their group stage games and scoring 2+ goals in 15 of their last 16 matches. Their head-to-head record against Sweden is dominant, with France winning 12 of 23 meetings and four of their last five encounters. Sweden, on the other hand, is missing key defender Isak Hien due to injury, which will further challenge their ability to contain France's potent offense led by Kylian Mbappe. Despite some minor injury concerns for France, William Saliba is expected to return to bolster their defense.",
+          "game": "Senegal vs Belgium",
+          "betType": "prop",
+          "pick": "Kevin De Bruyne Anytime Goalscorer",
+          "odds": "+300",
+          "confidence": "high",
+          "rationale": "Kevin De Bruyne is an active and key player for Belgium, expected to start this crucial knockout game. He has demonstrated a high offensive output in the tournament, being tied for the most shots among all players with 16, which significantly increases his chances of finding the back of the net. With Senegal's starting goalkeeper Édouard Mendy sidelined due to injury, their defense is expected to be more vulnerable, creating more scoring opportunities for Belgium's attackers. The +300 odds present strong value for a player of De Bruyne's caliber and shot volume in a favorable matchup.",
           "awayLast5": [
+            "W",
             "L",
-            "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
-            "W",
-            "W"
+            "L",
+            "L"
           ]
         }
       ]
