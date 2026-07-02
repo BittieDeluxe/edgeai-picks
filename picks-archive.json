@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-07-01",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Detroit Tigers vs New York Yankees",
+            "betType": "spread",
+            "pick": "Detroit Tigers -2.5",
+            "odds": "-106",
+            "confidence": "high",
+            "result": "W",
+            "score": "Detroit Tigers 6, New York Yankees 2"
+          },
+          {
+            "game": "Washington Nationals vs Boston Red Sox",
+            "betType": "spread",
+            "pick": "Washington Nationals -6.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Washington Nationals 10, Boston Red Sox 2"
+          },
+          {
+            "game": "San Diego Padres vs Chicago Cubs",
+            "betType": "total",
+            "pick": "Over 13.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego Padres 3, Chicago Cubs 23"
+          },
+          {
+            "game": "New York Mets vs Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "New York Mets",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Mets 3, Toronto Blue Jays 9"
+          },
+          {
+            "game": "Pittsburgh Pirates vs Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies",
+            "odds": "-126",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Pittsburgh Pirates 6, Philadelphia Phillies 10"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Senegal vs Belgium",
+            "betType": "moneyline",
+            "pick": "Belgium",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Senegal 2, Belgium 3"
+          },
+          {
+            "game": "Senegal vs Belgium",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Senegal 2, Belgium 3"
+          },
+          {
+            "game": "Senegal vs Belgium",
+            "betType": "prop",
+            "pick": "Kevin De Bruyne Anytime Goalscorer",
+            "odds": "+300",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-06-30",
     "sports": [
       {
@@ -1904,62 +1992,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Baltimore Orioles 4, Boston Red Sox 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-01",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Miami Marlins @ Washington Nationals",
-            "betType": "moneyline",
-            "pick": "Washington Nationals (-142)",
-            "odds": "-142",
-            "confidence": "high",
-            "result": "L",
-            "score": "Miami Marlins 7, Washington Nationals 3"
-          },
-          {
-            "game": "San Francisco Giants @ Milwaukee Brewers",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers (-180)",
-            "odds": "-180",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Francisco Giants 2, Milwaukee Brewers 16"
-          },
-          {
-            "game": "Texas Rangers @ St. Louis Cardinals",
-            "betType": "moneyline",
-            "pick": "St. Louis Cardinals (-104)",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Texas Rangers 2, St. Louis Cardinals 1"
-          },
-          {
-            "game": "Colorado Rockies @ Los Angeles Angels",
-            "betType": "moneyline",
-            "pick": "Los Angeles Angels (-200)",
-            "odds": "-200",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Colorado Rockies 9, Los Angeles Angels 8"
-          },
-          {
-            "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5 (+102)",
-            "odds": "+102",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Dodgers 1, Arizona Diamondbacks 4"
           }
         ]
       }

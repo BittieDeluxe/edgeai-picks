@@ -1,115 +1,115 @@
 {
-  "date": "2026-07-01",
-  "generatedAt": "2026-07-01T18:55:12.767Z",
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T18:22:24.214Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Detroit Tigers vs New York Yankees",
+          "game": "Cincinnati Reds @ Milwaukee Brewers",
           "betType": "spread",
-          "pick": "Detroit Tigers -2.5",
-          "odds": "-106",
+          "pick": "Milwaukee Brewers -1.5",
+          "odds": "+134",
           "confidence": "high",
-          "rationale": "The New York Yankees are in a significant slump, having lost their last six games and eight of their last ten. They are also heavily impacted by injuries to key players like Aaron Judge, Max Fried, Trent Grisham, Ryan McMahon, and Jazz Chisholm Jr.. The Detroit Tigers, despite their overall record, just defeated the Yankees 9-3 yesterday, indicating current strong form against this particular opponent. The betting line has shifted to favor the Tigers as significant road favorites, reflecting the Yankees' struggles and injury woes.",
-          "awayRecord": "37-49",
-          "homeRecord": "48-37",
+          "rationale": "The Milwaukee Brewers are in dominant form, having swept the first three games of this series against the Reds, outscoring them 16-7. Their starting pitcher, Jacob Misiorowski, boasts an impressive 1.45 ERA and has a strong track record of neutralizing Cincinnati's hitters. Furthermore, Milwaukee's overall pitching staff is significantly stronger with a 3.37 ERA compared to Cincinnati's 4.62 ERA. Public betting data shows a strong consensus on the Brewers, with up to 94% of money and 80% of bets backing them, indicating sharp money alignment.",
+          "awayRecord": "39-46",
+          "homeRecord": "53-31",
           "awayLast5": [
             "W",
             "L",
             "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Tampa Bay Rays @ Kansas City Royals",
+          "betType": "spread",
+          "pick": "Tampa Bay Rays -1.5",
+          "odds": "+126",
+          "confidence": "high",
+          "rationale": "The Tampa Bay Rays enter this game on a formidable seven-game winning streak and have consistently dominated the Kansas City Royals. They have won the first two games of this series by scores of 10-4 and 4-0, and have covered the -1.5 spread in their last four consecutive matchups against Kansas City. Rays starter Ian Seymour recently delivered a stellar performance, throwing 6.2 hitless innings against the Royals. The public is heavily backing the Rays, with 93% of money and 95% of bets supporting Tampa Bay, reinforcing confidence in this pick.",
+          "awayRecord": "50-33",
+          "homeRecord": "35-52",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
             "W",
             "W"
           ],
           "homeLast5": [
             "L",
             "L",
-            "L",
+            "W",
             "L",
             "L"
           ]
         },
         {
-          "game": "Washington Nationals vs Boston Red Sox",
+          "game": "Los Angeles Angels @ Seattle Mariners",
           "betType": "spread",
-          "pick": "Washington Nationals -6.5",
-          "odds": "-120",
+          "pick": "Seattle Mariners -1.5",
+          "odds": "+110",
           "confidence": "high",
-          "rationale": "The Washington Nationals have been dominant against the Boston Red Sox recently, winning their last two matchups by scores of 8-1 and 6-3. The Red Sox are severely hampered by pitching injuries, with Johan Oviedo and Tanner Houck on the 60-day IL, and rookie starter Connelly Early leaving his last game with elbow discomfort and undergoing testing today. These injuries significantly weaken Boston's pitching staff, making them vulnerable to a high-scoring Nationals offense. The large spread, while daunting, reflects the significant disparity in current form and health between the two teams.",
-          "awayRecord": "44-43",
-          "homeRecord": "37-47",
+          "rationale": "The Seattle Mariners have taken control of this series, winning the first two games against the Angels by margins of four and five runs. Seattle's pitching staff holds a significant advantage with a 3.69 ERA compared to the Angels' 4.63 ERA. Mariners starter Bryce Miller has been exceptional this season with a 1.97 ERA and has historically limited the Angels' offense, which is also hampered by key injuries to Mike Trout and Adam Frazier. Public betting is overwhelmingly in favor of Seattle, with up to 94% of money and 89% of bets on the Mariners.",
+          "awayRecord": "36-51",
+          "homeRecord": "44-43",
           "awayLast5": [
             "L",
             "W",
             "W",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
+            "L",
+            "L",
             "W",
-            "W",
-            "W",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "San Diego Padres vs Chicago Cubs",
+          "game": "Miami Marlins @ Colorado Rockies",
           "betType": "total",
-          "pick": "Over 13.5",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "The Chicago Cubs have a significant number of pitchers on the injured list, including multiple starters and relievers, which could compromise their pitching depth for today's game. While the Cubs have been winning recently, the exceptionally high total of 13.5 suggests oddsmakers anticipate a high-scoring affair, likely due to these pitching concerns. The Padres, despite their recent losing streak, have the offensive capability to contribute to a high total against a potentially weakened Cubs pitching staff, setting the stage for a run-heavy game.",
-          "awayRecord": "43-41",
-          "homeRecord": "48-38",
+          "pick": "Over 12.5",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "This game is being played at Coors Field, a notorious hitter's park, and the forecast calls for hot temperatures (90-91°F) with winds blowing out, which are ideal conditions for offense. Both starting pitchers, Ryan Gusto for the Marlins (5.06 ERA) and Michael Lorenzen for the Rockies (6.78 ERA), have struggled significantly this season. The Marlins' offense has been potent in this series, scoring 27 runs in the first three games, while the Rockies' team ERA is a high 5.60. These factors strongly suggest a high-scoring contest, making the Over 12.5 a confident pick.",
+          "awayRecord": "46-41",
+          "homeRecord": "34-53",
           "awayLast5": [
             "W",
             "L",
-            "L",
-            "L",
+            "W",
+            "W",
             "L"
           ],
           "homeLast5": [
+            "W",
             "L",
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "New York Mets vs Toronto Blue Jays",
-          "betType": "moneyline",
-          "pick": "New York Mets",
-          "odds": "-104",
+          "game": "St. Louis Cardinals @ Atlanta Braves",
+          "betType": "total",
+          "pick": "Under 9",
+          "odds": "-115",
           "confidence": "medium",
-          "rationale": "The New York Mets defeated the Toronto Blue Jays 3-0 in their last matchup, demonstrating an ability to win this series. The Blue Jays are currently struggling, having lost their last game and seven of their last ten, and are dealing with a significant injury concern as Vladimir Guerrero Jr. was scratched from the lineup yesterday with back tightness. Despite the Mets' own struggles, the Blue Jays' recent form and key injury make the Mets, as slight underdogs, a valuable pick in this matchup.",
-          "awayRecord": "36-50",
-          "homeRecord": "40-46",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Pittsburgh Pirates vs Philadelphia Phillies",
-          "betType": "moneyline",
-          "pick": "Philadelphia Phillies",
-          "odds": "-126",
-          "confidence": "medium",
-          "rationale": "The Philadelphia Phillies are in excellent form, having won 7 of their last 10 games, including a dominant 8-0 victory over the Pittsburgh Pirates yesterday. Phillies pitcher Cristopher Sanchez delivered a stellar performance, allowing only three hits over seven scoreless innings for his tenth win of the season. The Phillies offense is also clicking, with Trea Turner hitting safely in eight straight games and Justin Crawford contributing significantly. Given their strong pitching and hitting, the Phillies are well-positioned to secure another win against the Pirates.",
-          "awayRecord": "43-43",
-          "homeRecord": "48-38",
+          "rationale": "Despite the warm weather, both the Cardinals and Braves offenses have been in a slump, with the Braves recording a .479 OPS and the Cardinals a .451 OPS over their last five games. The first two games of this series were low-scoring affairs, with totals of eight and six runs, both staying under nine. Both starting pitchers, Dustin May (Cardinals) and Hurston Waldrep (Braves), present uncertainties; May is returning from injury, and Waldrep is making his first MLB start after elbow surgery, potentially leading to conservative pitch counts. These combined factors point to a lower-scoring game, making the Under 9 a strong play with push protection.",
+          "awayRecord": "44-39",
+          "homeRecord": "50-34",
           "awayLast5": [
             "L",
             "L",
@@ -120,7 +120,7 @@
           "homeLast5": [
             "W",
             "L",
-            "W",
+            "L",
             "L",
             "W"
           ]
@@ -131,56 +131,92 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Senegal vs Belgium",
-          "betType": "moneyline",
-          "pick": "Belgium",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "Belgium enters this knockout match with a significant advantage as Senegal's starting goalkeeper, Édouard Mendy, is out due to a knee injury, forcing Mory Diaw into goal. Belgium has shown strong recent form, remaining unbeaten in their last six matches with three wins and three draws, and their offense exploded for five goals in their final group stage game. With a fully fit squad and superior individual quality, Belgium is well-positioned to secure a victory. The +110 odds offer excellent value for a team with such clear advantages in a crucial World Cup fixture.",
-          "awayLast5": [
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Senegal vs Belgium",
+          "game": "Austria @ Spain",
           "betType": "total",
           "pick": "Over 2.5",
-          "odds": "-120",
+          "odds": "-150",
           "confidence": "high",
-          "rationale": "The 'Over 2.5 Goals' pick is strongly supported by Senegal's recent World Cup performance, where their tournament fixtures have averaged a staggering 4.67 combined goals per match, and their last six World Cup games have all exceeded 2.5 goals. The absence of Senegal's starting goalkeeper, Édouard Mendy, due to injury further increases the likelihood of goals being conceded by their defense. Belgium's offense also demonstrated its potency by scoring five goals in their last group stage match, indicating their ability to contribute significantly to the total. Furthermore, line movement has shifted towards the Over, suggesting sharp money anticipates a high-scoring affair.",
+          "rationale": "Historically, matches between Spain and Austria have often been high-scoring, with past results including 9-0, 5-4, and 6-3, suggesting a tendency for open play when these teams meet. While Spain has maintained a flawless defensive record in the World Cup so far, they are missing key attacking wingers Nico Williams and Yeremy Pino, which might lead to a less dominant but still potent attack. Austria's recent form shows they can both score and concede, netting 13 goals but allowing 7 in their last six matches, including a 3-3 draw with Algeria. The absence of left-back Phillipp Mwene for Austria could further weaken their defense, contributing to a higher-scoring game. Given these factors, the Over 2.5 total is a strong play.",
           "awayLast5": [
-            "W",
             "L",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
             "W",
-            "L",
+            "W",
             "L"
           ]
         },
         {
-          "game": "Senegal vs Belgium",
-          "betType": "prop",
-          "pick": "Kevin De Bruyne Anytime Goalscorer",
-          "odds": "+300",
+          "game": "Croatia @ Portugal",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-140",
           "confidence": "high",
-          "rationale": "Kevin De Bruyne is an active and key player for Belgium, expected to start this crucial knockout game. He has demonstrated a high offensive output in the tournament, being tied for the most shots among all players with 16, which significantly increases his chances of finding the back of the net. With Senegal's starting goalkeeper Édouard Mendy sidelined due to injury, their defense is expected to be more vulnerable, creating more scoring opportunities for Belgium's attackers. The +300 odds present strong value for a player of De Bruyne's caliber and shot volume in a favorable matchup.",
+          "rationale": "The head-to-head history between Portugal and Croatia strongly supports a high-scoring encounter, with both teams finding the net in each of their last six meetings and over 2.5 goals occurring in four of their last five matchups. Portugal's recent form demonstrates their attacking prowess, having scored five goals against Uzbekistan and two goals against both Nigeria and Chile in recent games. Croatia also shows a propensity for goals, with recent results including a 2-1 win over Ghana and Slovenia, and a 2-4 loss to England. Both squads feature elite attacking talent like Cristiano Ronaldo and Luka Modric, and a knockout stage match often encourages more aggressive play if a team falls behind, aligning with predictions for a 'goal-rich, open affair'.",
           "awayLast5": [
             "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
             "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Algeria @ Switzerland",
+          "betType": "moneyline",
+          "pick": "Switzerland (-110)",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "Switzerland enters this Round of 32 match in strong form, having won their group with seven points (2 wins, 1 draw) and scoring seven goals while conceding only three. Algeria faces a significant setback with their top scorer, Mohamed Amoura, ruled out due to a thigh strain, which severely diminishes their offensive capabilities. While Algeria's coach has intimate knowledge of the Swiss team, Switzerland's organized approach and defensive solidity should provide a decisive edge against an Algerian side that conceded seven goals in their three group games. Switzerland's historical 2-0 head-to-head record, albeit from older friendlies, further supports their advantage in this first competitive meeting.",
+          "awayLast5": [
+            "L",
+            "W",
             "L"
           ],
           "homeLast5": [
             "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Algeria @ Switzerland",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-150",
+          "confidence": "medium",
+          "rationale": "The betting market already favors the Under 2.5 at -150, reflecting expectations for a low-scoring affair in this knockout match. Switzerland is renowned for its disciplined and defensively sound style of play, which typically results in fewer goals, especially in the cautious environment of knockout rounds. Algeria's attack will be significantly hampered by the confirmed absence of their top scorer, Mohamed Amoura, due to injury. Furthermore, a strong trend in the current World Cup Round of 32 shows that three of the first ten matches ended in regulation draws, and nine of ten went under 1.5 goals in the first half, indicating a prevalent cautious approach. These factors combine to make the Under 2.5 a high-confidence pick.",
+          "awayLast5": [
             "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Austria @ Spain",
+          "betType": "moneyline",
+          "pick": "Spain (-340)",
+          "odds": "-340",
+          "confidence": "medium",
+          "rationale": "Spain holds a significant historical advantage over Austria, having won 9 of their 16 previous encounters. Despite the confirmed absences of key attacking wingers Nico Williams and Yeremy Pino, Spain still boasts a deep and talented squad. La Roja has demonstrated exceptional defensive solidity in the tournament, not conceding a single goal in their World Cup campaign thus far. Austria is dealing with a defensive blow, as starting left-back Phillipp Mwene is ruled out due to injury, which Spain's attack can exploit. Spain's consistent form, remaining unbeaten in their last six matches, further solidifies their position as the clear favorite to win this Round of 32 clash.",
+          "awayLast5": [
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
             "L"
           ]
         }
