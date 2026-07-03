@@ -1,127 +1,127 @@
 {
-  "date": "2026-07-02",
-  "generatedAt": "2026-07-02T18:22:24.214Z",
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-03T18:07:52.533Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Cincinnati Reds @ Milwaukee Brewers",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "+134",
+          "game": "New York Mets vs Atlanta Braves",
+          "betType": "moneyline",
+          "pick": "New York Mets (+104)",
+          "odds": "+104",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers are in dominant form, having swept the first three games of this series against the Reds, outscoring them 16-7. Their starting pitcher, Jacob Misiorowski, boasts an impressive 1.45 ERA and has a strong track record of neutralizing Cincinnati's hitters. Furthermore, Milwaukee's overall pitching staff is significantly stronger with a 3.37 ERA compared to Cincinnati's 4.62 ERA. Public betting data shows a strong consensus on the Brewers, with up to 94% of money and 80% of bets backing them, indicating sharp money alignment.",
-          "awayRecord": "39-46",
-          "homeRecord": "53-31",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays @ Kansas City Royals",
-          "betType": "spread",
-          "pick": "Tampa Bay Rays -1.5",
-          "odds": "+126",
-          "confidence": "high",
-          "rationale": "The Tampa Bay Rays enter this game on a formidable seven-game winning streak and have consistently dominated the Kansas City Royals. They have won the first two games of this series by scores of 10-4 and 4-0, and have covered the -1.5 spread in their last four consecutive matchups against Kansas City. Rays starter Ian Seymour recently delivered a stellar performance, throwing 6.2 hitless innings against the Royals. The public is heavily backing the Rays, with 93% of money and 95% of bets supporting Tampa Bay, reinforcing confidence in this pick.",
-          "awayRecord": "50-33",
-          "homeRecord": "35-52",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Los Angeles Angels @ Seattle Mariners",
-          "betType": "spread",
-          "pick": "Seattle Mariners -1.5",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "The Seattle Mariners have taken control of this series, winning the first two games against the Angels by margins of four and five runs. Seattle's pitching staff holds a significant advantage with a 3.69 ERA compared to the Angels' 4.63 ERA. Mariners starter Bryce Miller has been exceptional this season with a 1.97 ERA and has historically limited the Angels' offense, which is also hampered by key injuries to Mike Trout and Adam Frazier. Public betting is overwhelmingly in favor of Seattle, with up to 94% of money and 89% of bets on the Mariners.",
+          "rationale": "Despite a significant gap in the standings, the betting market shows reverse line movement, with Atlanta's moneyline drifting from -122 to -116 while the Mets moved from +102 to -104, indicating sharp money on New York. The Mets' starting pitcher, Christian Scott, boasts a 3.20 ERA and 10.6 strikeouts per nine innings, giving them a pitching edge over Atlanta's Grant Holmes, who has a 3.96 ERA and 4.3 walks per nine innings. Atlanta is also without key offensive player Ronald Acuña Jr. (hamstring) and has a thinned bullpen, while their offense has struggled, batting just .193 over their last 10 games. The Mets have shown they can compete, winning two of three against Atlanta in June.",
           "awayRecord": "36-51",
-          "homeRecord": "44-43",
+          "homeRecord": "50-35",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers vs Arizona Diamondbacks",
+          "betType": "spread",
+          "pick": "Milwaukee Brewers -1.5 (+112)",
+          "odds": "+112",
+          "confidence": "high",
+          "rationale": "The Brewers enter this matchup with a significant pitching advantage, as Kyle Harrison (8-1 record) faces rookie José Cabrera. Milwaukee's strong bullpen and overall run prevention further support this pick, especially against an Arizona lineup thinned by injuries. The Brewers are 53-32 and lead the NL Central, showcasing a balanced offense that consistently creates scoring opportunities. The line movement for the Brewers' moneyline has seen consistent public backing, with as high as 93% of tickets and 84% of dollars on Milwaukee.",
+          "awayRecord": "53-32",
+          "homeRecord": "43-43",
           "awayLast5": [
             "L",
             "W",
             "W",
-            "L",
+            "W",
             "L"
           ],
           "homeLast5": [
-            "W",
             "L",
             "L",
             "W",
-            "W"
+            "W",
+            "L"
           ]
         },
         {
-          "game": "Miami Marlins @ Colorado Rockies",
-          "betType": "total",
-          "pick": "Over 12.5",
+          "game": "San Francisco Giants vs Colorado Rockies",
+          "betType": "spread",
+          "pick": "San Francisco Giants -1.5 (-102)",
           "odds": "-102",
-          "confidence": "medium",
-          "rationale": "This game is being played at Coors Field, a notorious hitter's park, and the forecast calls for hot temperatures (90-91°F) with winds blowing out, which are ideal conditions for offense. Both starting pitchers, Ryan Gusto for the Marlins (5.06 ERA) and Michael Lorenzen for the Rockies (6.78 ERA), have struggled significantly this season. The Marlins' offense has been potent in this series, scoring 27 runs in the first three games, while the Rockies' team ERA is a high 5.60. These factors strongly suggest a high-scoring contest, making the Over 12.5 a confident pick.",
-          "awayRecord": "46-41",
-          "homeRecord": "34-53",
+          "confidence": "high",
+          "rationale": "Logan Webb, the Giants' starter, has a 1.06 WHIP and has allowed only five home runs over 90.1 innings, providing a clear pitching advantage over Colorado's Ryan Feltner and the Rockies' team ERA of 5.58. Despite Coors Field's offensive reputation, Webb's strong form is expected to limit Colorado's scoring. San Francisco is projected to win 8-5, covering the run line, with Luis Arraez, Casey Schmitt, and Rafael Devers expected to perform well against Feltner. Public betting has shown significant backing for the Giants, with as high as 92% of tickets on San Francisco at one point.",
+          "awayRecord": "36-50",
+          "homeRecord": "35-53",
           "awayLast5": [
             "W",
+            "W",
             "L",
-            "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
+            "L",
+            "L",
+            "L",
             "W",
-            "L",
-            "L",
-            "L",
             "W"
           ]
         },
         {
-          "game": "St. Louis Cardinals @ Atlanta Braves",
-          "betType": "total",
-          "pick": "Under 9",
-          "odds": "-115",
+          "game": "Tampa Bay Rays vs Houston Astros",
+          "betType": "moneyline",
+          "pick": "Tampa Bay Rays (-108)",
+          "odds": "-108",
           "confidence": "medium",
-          "rationale": "Despite the warm weather, both the Cardinals and Braves offenses have been in a slump, with the Braves recording a .479 OPS and the Cardinals a .451 OPS over their last five games. The first two games of this series were low-scoring affairs, with totals of eight and six runs, both staying under nine. Both starting pitchers, Dustin May (Cardinals) and Hurston Waldrep (Braves), present uncertainties; May is returning from injury, and Waldrep is making his first MLB start after elbow surgery, potentially leading to conservative pitch counts. These combined factors point to a lower-scoring game, making the Under 9 a strong play with push protection.",
-          "awayRecord": "44-39",
-          "homeRecord": "50-34",
+          "rationale": "The Tampa Bay Rays are on a season-high eight-game winning streak, indicating strong recent form. Rays starter Nick Martinez holds a 7-2 record with a 2.66 ERA and a 1.15 WHIP over 94.2 innings, providing a solid pitching advantage. Line movement has favored Tampa Bay, with their moneyline tightening and public backing as high as 90% of tickets and 76% of dollars on the Rays. Houston's team ERA of 4.77 further supports the Rays' moneyline pick.",
+          "awayRecord": "51-33",
+          "homeRecord": "43-46",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Toronto Blue Jays vs Seattle Mariners",
+          "betType": "moneyline",
+          "pick": "Toronto Blue Jays (+136)",
+          "odds": "+136",
+          "confidence": "medium",
+          "rationale": "The Blue Jays have a significant pitching advantage with Dylan Cease, who has 128 strikeouts in 83.1 innings, contrasting sharply with Luis Castillo's 4.93 ERA for the Mariners. Despite being on the road, the market has shown a lean towards Toronto, with their moneyline moving from -126 to -124, and public money consistently favoring the Over, suggesting offensive potential. Cease's team has won 61.5% of his starts when favored, and the Mariners have a 4-9 ATS record in Castillo's starts. The projected final score of Blue Jays 5, Mariners 3 further supports a Toronto victory.",
+          "awayRecord": "41-46",
+          "homeRecord": "45-43",
           "awayLast5": [
             "L",
             "L",
             "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
+            "L",
+            "L",
             "W",
-            "L",
-            "L",
-            "L",
+            "W",
             "W"
           ]
         }
@@ -131,93 +131,93 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Austria @ Spain",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-150",
+          "game": "Egypt @ Australia",
+          "betType": "moneyline",
+          "pick": "Egypt (+150)",
+          "odds": "+150",
           "confidence": "high",
-          "rationale": "Historically, matches between Spain and Austria have often been high-scoring, with past results including 9-0, 5-4, and 6-3, suggesting a tendency for open play when these teams meet. While Spain has maintained a flawless defensive record in the World Cup so far, they are missing key attacking wingers Nico Williams and Yeremy Pino, which might lead to a less dominant but still potent attack. Austria's recent form shows they can both score and concede, netting 13 goals but allowing 7 in their last six matches, including a 3-3 draw with Algeria. The absence of left-back Phillipp Mwene for Austria could further weaken their defense, contributing to a higher-scoring game. Given these factors, the Over 2.5 total is a strong play.",
+          "rationale": "Egypt enters their first-ever World Cup knockout match with strong momentum, having gone unbeaten in the group stage (W1, D2) and scoring five goals, an improvement from their previous World Cup appearances. Mohamed Salah, despite a hamstring injury, is confirmed to start, providing a significant offensive threat. Historically, Australia has never defeated Egypt in their prior two encounters (1 Egypt win, 1 draw). Australia, on the other hand, has struggled offensively, scoring only two goals in their group stage matches, and is without key injured players Jacob Italiano and Mathew Leckie.",
           "awayLast5": [
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
             "L",
             "L",
             "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L"
           ]
         },
         {
-          "game": "Croatia @ Portugal",
+          "game": "Cape Verde @ Argentina",
           "betType": "total",
           "pick": "Over 2.5",
-          "odds": "-140",
+          "odds": "-160",
           "confidence": "high",
-          "rationale": "The head-to-head history between Portugal and Croatia strongly supports a high-scoring encounter, with both teams finding the net in each of their last six meetings and over 2.5 goals occurring in four of their last five matchups. Portugal's recent form demonstrates their attacking prowess, having scored five goals against Uzbekistan and two goals against both Nigeria and Chile in recent games. Croatia also shows a propensity for goals, with recent results including a 2-1 win over Ghana and Slovenia, and a 2-4 loss to England. Both squads feature elite attacking talent like Cristiano Ronaldo and Luka Modric, and a knockout stage match often encourages more aggressive play if a team falls behind, aligning with predictions for a 'goal-rich, open affair'.",
-          "awayLast5": [
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Algeria @ Switzerland",
-          "betType": "moneyline",
-          "pick": "Switzerland (-110)",
-          "odds": "-110",
-          "confidence": "high",
-          "rationale": "Switzerland enters this Round of 32 match in strong form, having won their group with seven points (2 wins, 1 draw) and scoring seven goals while conceding only three. Algeria faces a significant setback with their top scorer, Mohamed Amoura, ruled out due to a thigh strain, which severely diminishes their offensive capabilities. While Algeria's coach has intimate knowledge of the Swiss team, Switzerland's organized approach and defensive solidity should provide a decisive edge against an Algerian side that conceded seven goals in their three group games. Switzerland's historical 2-0 head-to-head record, albeit from older friendlies, further supports their advantage in this first competitive meeting.",
+          "rationale": "Argentina enters this knockout match with a perfect group stage record, scoring eight goals in three games and averaging 3.00 goals per match over their last six. They are expected to field their full-strength lineup, including the in-form Lionel Messi, who leads the Golden Boot race with six goals. While Cape Verde has shown strong defensive organization with three draws in the group stage, they face a significant step up in offensive quality against the reigning champions. Argentina's consistent high-scoring performances in the group stage (3-0, 2-0, 3-1) suggest they have the firepower to push this game over the total, even against a disciplined defense.",
           "awayLast5": [
             "L",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Algeria @ Switzerland",
+          "game": "Ghana @ Colombia",
           "betType": "total",
           "pick": "Under 2.5",
-          "odds": "-150",
-          "confidence": "medium",
-          "rationale": "The betting market already favors the Under 2.5 at -150, reflecting expectations for a low-scoring affair in this knockout match. Switzerland is renowned for its disciplined and defensively sound style of play, which typically results in fewer goals, especially in the cautious environment of knockout rounds. Algeria's attack will be significantly hampered by the confirmed absence of their top scorer, Mohamed Amoura, due to injury. Furthermore, a strong trend in the current World Cup Round of 32 shows that three of the first ten matches ended in regulation draws, and nine of ten went under 1.5 goals in the first half, indicating a prevalent cautious approach. These factors combine to make the Under 2.5 a high-confidence pick.",
-          "awayLast5": [
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Austria @ Spain",
-          "betType": "moneyline",
-          "pick": "Spain (-340)",
-          "odds": "-340",
-          "confidence": "medium",
-          "rationale": "Spain holds a significant historical advantage over Austria, having won 9 of their 16 previous encounters. Despite the confirmed absences of key attacking wingers Nico Williams and Yeremy Pino, Spain still boasts a deep and talented squad. La Roja has demonstrated exceptional defensive solidity in the tournament, not conceding a single goal in their World Cup campaign thus far. Austria is dealing with a defensive blow, as starting left-back Phillipp Mwene is ruled out due to injury, which Spain's attack can exploit. Spain's consistent form, remaining unbeaten in their last six matches, further solidifies their position as the clear favorite to win this Round of 32 clash.",
+          "odds": "-130",
+          "confidence": "high",
+          "rationale": "This match is expected to be a low-scoring affair, with Colombia possessing a strong defense and Ghana employing a disciplined low block. Colombia has conceded only one goal in their group stage matches and averages 0.83 goals conceded per game over their last six. Ghana, despite their defensive solidity, has been described as 'blunt going forward' and is not expected to score against Colombia's robust defense. Four of Ghana's last five matches have gone under 2.5 goals, and Colombia's matches have also seen a trend of low scoring, with a prediction of a 'low-event game that Colombia wins by a single goal'.",
           "awayLast5": [
             "L",
             "L",
             "W"
           ],
           "homeLast5": [
+            "L",
             "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Ghana @ Colombia",
+          "betType": "moneyline",
+          "pick": "Colombia (-235)",
+          "odds": "-235",
+          "confidence": "medium",
+          "rationale": "Colombia enters this Round of 32 match in excellent form, boasting a 4-1-1 (W-D-L) record in their last six games and topping their group. They face a Ghana side ranked significantly lower (65th vs 11th) that has struggled offensively, with their attack described as 'blunt going forward'. Colombia has no fresh injury concerns and is expected to field a strong lineup, while Ghana has a questionable Antoine Semenyo and a backup goalkeeper. Given Colombia's superior form, defensive solidity, and higher ranking, they are strongly favored to win this match.",
+          "awayLast5": [
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Egypt @ Australia",
+          "betType": "total",
+          "pick": "Under 1.5",
+          "odds": "+125",
+          "confidence": "medium",
+          "rationale": "This Round of 32 match features two teams with a history of low-scoring World Cup games and defensive solidity. Australia has kept clean sheets in four of their last six World Cup matches and their offensive output has been minimal, scoring only two goals in the group stage. Egypt, while having an improved attack, has historically played in 'tight, low-scoring games' at the World Cup. Furthermore, Mohamed Salah is playing through a hamstring injury, which could limit his effectiveness. Given Australia's 'low-event by design' tactical approach and Egypt's historical trend, a tightly contested match with few goals is anticipated.",
+          "awayLast5": [
+            "L",
             "W",
             "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W"
           ]
         }
       ]

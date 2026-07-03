@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-02",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cincinnati Reds @ Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+134",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cincinnati Reds 7, Milwaukee Brewers 2"
+          },
+          {
+            "game": "Tampa Bay Rays @ Kansas City Royals",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays -1.5",
+            "odds": "+126",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 5, Kansas City Royals 2"
+          },
+          {
+            "game": "Los Angeles Angels @ Seattle Mariners",
+            "betType": "spread",
+            "pick": "Seattle Mariners -1.5",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Angels 0, Seattle Mariners 1"
+          },
+          {
+            "game": "Miami Marlins @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 12.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 4, Colorado Rockies 14"
+          },
+          {
+            "game": "St. Louis Cardinals @ Atlanta Braves",
+            "betType": "total",
+            "pick": "Under 9",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "St. Louis Cardinals 11, Atlanta Braves 5"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Austria @ Spain",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-150",
+            "confidence": "high",
+            "result": "W",
+            "score": "Austria 0, Spain 3"
+          },
+          {
+            "game": "Croatia @ Portugal",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "W",
+            "score": "Croatia 1, Portugal 2"
+          },
+          {
+            "game": "Algeria @ Switzerland",
+            "betType": "moneyline",
+            "pick": "Switzerland (-110)",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Algeria 0, Switzerland 2"
+          },
+          {
+            "game": "Algeria @ Switzerland",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-150",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Algeria 0, Switzerland 2"
+          },
+          {
+            "game": "Austria @ Spain",
+            "betType": "moneyline",
+            "pick": "Spain (-340)",
+            "odds": "-340",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Austria 0, Spain 3"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-01",
     "sports": [
       {
@@ -1886,112 +1992,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Colorado Rockies 4, Los Angeles Angels 11"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-02",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "moneyline",
-            "pick": "Carolina Hurricanes",
-            "odds": "-154",
-            "confidence": "high",
-            "result": "L",
-            "score": "Vegas Golden Knights 5, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "total",
-            "pick": "Under 5.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Vegas Golden Knights 5, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "spread",
-            "pick": "Vegas Golden Knights +1.5",
-            "odds": "-205",
-            "confidence": "high",
-            "result": "W",
-            "score": "Vegas Golden Knights 5, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "prop",
-            "pick": "Carter Hart Over 28.5 Saves",
-            "odds": "N/A",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Carter Hart: 23 Saves (line 28.5)"
-          },
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "prop",
-            "pick": "Logan Stankoven Over 0.5 Points",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Logan Stankoven: 0+0=0 Points (line 0.5)"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "San Diego Padres vs Philadelphia Phillies",
-            "betType": "moneyline",
-            "pick": "Philadelphia Phillies",
-            "odds": "-210",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Diego Padres 2, Philadelphia Phillies 3"
-          },
-          {
-            "game": "Chicago White Sox vs Minnesota Twins",
-            "betType": "moneyline",
-            "pick": "Chicago White Sox",
-            "odds": "-156",
-            "confidence": "high",
-            "result": "L",
-            "score": "Chicago White Sox 4, Minnesota Twins 6"
-          },
-          {
-            "game": "Los Angeles Dodgers vs Arizona Diamondbacks",
-            "betType": "moneyline",
-            "pick": "Arizona Diamondbacks",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Los Angeles Dodgers 6, Arizona Diamondbacks 5"
-          },
-          {
-            "game": "Kansas City Royals vs Cincinnati Reds",
-            "betType": "prop",
-            "pick": "Sal Stewart 2+ Total Bases",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Baltimore Orioles vs Boston Red Sox",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox",
-            "odds": "-142",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Baltimore Orioles 4, Boston Red Sox 2"
           }
         ]
       }
