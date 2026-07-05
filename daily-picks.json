@@ -1,76 +1,52 @@
 {
-  "date": "2026-07-04",
-  "generatedAt": "2026-07-04T17:56:24.492Z",
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-05T17:56:18.613Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Minnesota Twins @ New York Yankees",
-          "betType": "total",
-          "pick": "Under 12.5",
-          "odds": "-122",
-          "confidence": "high",
-          "rationale": "The total for this game is set unusually high at 12.5, despite clear signals pointing towards a lower-scoring affair. The Yankees are starting Brendan Beck, a recall, which suggests a bullpen game and a pitching downgrade from their original starter. Furthermore, line movement analysis for this matchup on July 4th indicated the total opened at 9.5 and was bet down to 9.5 or 10 at various books, with a strong lean towards the Under. A projected score of Twins 6, Yankees 5 also supports the Under, making the Under 12.5 a high-value pick.",
-          "awayRecord": "42-47",
-          "homeRecord": "49-38",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Detroit Tigers @ Texas Rangers",
-          "betType": "total",
-          "pick": "Under 8",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "The total for this game has seen significant line movement, dropping from an opening of 8.0 to 7.5, indicating sharp money on the Under. Globe Life Field is known as a pitcher-friendly park, which further supports a lower-scoring environment. The pitching matchup features Kumar Rocker, who has shown improved control, against Flaherty, who has a 4.18 ERA against the Rangers. A projected final score of Tigers 4, Rangers 3 aligns with the Under.",
-          "awayRecord": "38-50",
-          "homeRecord": "45-43",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays @ Houston Astros",
+          "game": "New York Mets @ Atlanta Braves",
           "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "-108",
+          "pick": "New York Mets",
+          "odds": "-117",
           "confidence": "high",
-          "rationale": "Despite the moneyline opening as a pick'em, sharp money has quietly sided with the Tampa Bay Rays, pushing the line slightly in their favor. The Rays are currently on the longest active win streak in the majors and have a dominant 9-1 record in their last 10 games, while the Astros are struggling at 1-3 in their last four. Rays starter Drew Rasmussen has been exceptional, posting a 0.82 ERA in his last five June starts, giving Tampa Bay a significant pitching advantage. The Rays also boast a strong 30-15 record (67%) with a 17% ROI against teams with a sub-.500 record.",
-          "awayRecord": "52-33",
-          "homeRecord": "43-47",
+          "rationale": "Despite the Mets' poor record, the moneyline has drifted towards them, indicating sharp money. Mets starter Nolan McLean boasts a 3.78 ERA with a strong bat-missing profile and has held opponents to a .205 average, including a 1-0 record with a 3.27 ERA in two previous starts against the Braves, both resulting in Mets wins. The Braves are also dealing with significant injuries to key hitters Ronald Acuña Jr. and Ha-Seong Kim. The Mets' offense has historically performed well against Braves starter Martín Pérez, with a .328 batting average in 77 combined plate appearances.",
+          "awayRecord": "36-53",
+          "homeRecord": "52-35",
           "awayLast5": [
+            "L",
             "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
             "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Baltimore Orioles @ Cincinnati Reds",
+          "betType": "moneyline",
+          "pick": "Baltimore Orioles",
+          "odds": "-116",
+          "confidence": "high",
+          "rationale": "The Orioles enter this game on a three-game winning streak, having already taken the first two games of this series against the Reds. Cincinnati has been struggling at home, losing their last six games at Great American Ball Park. Historically, the road team has dominated this matchup, winning nine of the last ten games between these two clubs. Orioles starter Kyle Bradish (3.77 ERA) has been effective since returning from injury, providing a more reliable option than Reds starter Nick Lodolo (5.05 ERA), despite Lodolo's recent improvements.",
+          "awayRecord": "42-48",
+          "homeRecord": "40-48",
+          "awayLast5": [
+            "L",
+            "L",
             "W",
             "W",
             "W"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "L",
             "W",
             "L",
@@ -78,43 +54,67 @@
           ]
         },
         {
-          "game": "Milwaukee Brewers @ Arizona Diamondbacks",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "+105",
+          "game": "Minnesota Twins @ New York Yankees",
+          "betType": "moneyline",
+          "pick": "Minnesota Twins",
+          "odds": "-135",
+          "confidence": "high",
+          "rationale": "The New York Yankees are in a significant slump, having lost eight of their last nine games, and their offense has struggled considerably since Aaron Judge's injury. Conversely, the Minnesota Twins have been playing well, winning four of their last six games, including an 11-4 rout of the Yankees yesterday. Twins ace Joe Ryan, an All-Star with a 3.61 ERA, is on the mound, while Yankees starter Ryan Weathers carries a 4.08 ERA. Furthermore, the Yankees have a poor track record in day games after playing the previous day, losing their last eight and failing to cover the run line in their last nine as favorites in such situations.",
+          "awayRecord": "43-47",
+          "homeRecord": "49-39",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Miami Marlins @ Athletics",
+          "betType": "moneyline",
+          "pick": "Miami Marlins",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "The Milwaukee Brewers present a strong betting opportunity on the run line due to a clear pitching mismatch and the Diamondbacks' injury woes. Brewers starter Brandon Woodruff has a favorable matchup against Merrill Kelly, whose team has a poor 2-6 record when he starts as an underdog. Arizona's lineup depth is thinned by multiple injuries, including key players like Corbin Carroll and Jordan Lawlar. The Brewers have demonstrated their ability to cover this spread against Arizona this season, with recent wins of 7-4, 13-1, and 13-2.",
-          "awayRecord": "54-32",
-          "homeRecord": "43-44",
+          "rationale": "The Miami Marlins are a significantly better team with a 48-42 record and a +23 run differential, compared to the Athletics' 41-48 record and -71 run differential, representing a 94-run quality gap. Miami has already won the first two games of this series convincingly (12-5, 7-2) and are 7-3 in their last ten games. The Athletics are severely hampered by injuries, missing key offensive players like Brent Rooker (out for season) and potentially Shea Langeliers. Despite Athletics starter Gage Jump's recent strong form, the Marlins' overall team superiority and the Athletics' significant injury woes make the Marlins moneyline at even odds a high-value pick.",
+          "awayRecord": "48-42",
+          "homeRecord": "41-48",
           "awayLast5": [
             "W",
-            "W",
-            "W",
             "L",
+            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
             "L",
-            "W",
+            "L",
             "W",
             "L",
             "L"
           ]
         },
         {
-          "game": "Toronto Blue Jays @ Seattle Mariners",
+          "game": "San Francisco Giants @ Colorado Rockies",
           "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-108",
+          "pick": "Over 13",
+          "odds": "-106",
           "confidence": "medium",
-          "rationale": "This game features two offenses missing important contributors, with Seattle potentially without Rodríguez and Robles. The pitching matchup highlights Toronto's Cease, known for his strikeout ability, and Seattle's Castillo, who has shown significant improvement with a 2.33 ERA across his last five appearances despite a higher season ERA. The total opened at 7 and held steady, with a projected 3-2 Blue Jays victory, suggesting a low-scoring game. The current line of 7.5 offers an even better value for the Under.",
-          "awayRecord": "42-46",
-          "homeRecord": "45-44",
+          "rationale": "This game is being played at Coors Field, which is widely known as the most hitter-friendly park in Major League Baseball, leading to a high total of 13 runs. Both starting pitchers, Tyler Mahle for the Giants (5.67 ERA) and Tanner Gordon for the Rockies (6.69 ERA), have struggled significantly this season. Mahle has shown command issues since returning from injury, and Gordon has been inconsistent, inviting plenty of scoring opportunities. The recent head-to-head matchup on Friday saw the Rockies hammer the Giants 15-3, indicating the offensive potential when these two teams meet at altitude with vulnerable pitching.",
+          "awayRecord": "37-51",
+          "homeRecord": "36-54",
           "awayLast5": [
             "L",
-            "W",
             "L",
             "W",
+            "L",
             "W"
           ],
           "homeLast5": [
@@ -131,63 +131,103 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Morocco @ Canada",
+          "game": "England @ Mexico",
           "betType": "moneyline",
-          "pick": "Morocco (+165)",
-          "odds": "+165",
-          "confidence": "high",
-          "rationale": "Morocco holds a dominant head-to-head record against Canada, having never lost in four previous meetings, including a 2-1 victory in the 2022 World Cup group stage. The Atlas Lions are in excellent recent form, with four wins and two draws in their last six actual play matches. Despite a reported injury to key forward Ismael Saibari during today's game, Morocco's overall team strength and historical edge make them a strong value pick at +165, especially considering Polymarket's implied probability of Morocco being favorites. Canada, while motivated as co-hosts with Alphonso Davies returning from injury, faces a formidable opponent with a proven track record against them.",
+          "pick": "Mexico",
+          "odds": "+210",
+          "confidence": "medium",
+          "rationale": "Mexico is playing at home in the Estadio Azteca, which is 2,200 meters above sea level, a significant advantage that causes opponents to fatigue quicker. El Tri is in exceptional form, having won their last six matches and not conceded a single goal in the current World Cup, including a dominant 2-0 win over Ecuador in the Round of 32. Historically, Mexico is unbeaten against England on home soil, with two wins and one draw in three previous encounters. England also has injury concerns with Reece James doubtful and Declan Rice managing a hamstring issue, potentially impacting their performance.",
           "awayLast5": [
             "W",
             "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Morocco @ Canada",
+          "game": "Norway @ Brazil",
           "betType": "total",
-          "pick": "Under 1.5 (-165)",
-          "odds": "-165",
+          "pick": "Over 2.5",
+          "odds": "-150",
           "confidence": "high",
-          "rationale": "Morocco's key forward Ismael Saibari, a top scorer with three goals in four matches, suffered an injury during today's game against Canada and was forced off, significantly weakening Morocco's attack. Canada's captain Alphonso Davies is returning from a hamstring injury and may not be at full match fitness, potentially limiting Canada's offensive output. Both teams played tight, low-scoring games in the Round of 32, with Morocco drawing 1-1 against the Netherlands and Canada winning 1-0 against South Africa. World Cup knockout matches are often cautious and defensive, leading to fewer goals, and the bookmakers' odds of -165 for Under 1.5 reflect this expectation.",
+          "rationale": "Both Brazil and Norway have demonstrated strong offensive capabilities in the current World Cup, with five of Brazil's last six tournament matches seeing over 2.5 goals, and all four of Norway's matches exceeding 2.5 goals. While Brazil faces injuries to Lucas Paquetá and a limited Raphinha, their remaining attacking talent, including Vinicius Jr. and a potentially returning Neymar, is still potent. Norway, led by prolific scorer Erling Haaland, has also consistently found the back of the net, and their defense has shown vulnerabilities, conceding four goals to France. This Round of 16 clash is expected to be an open contest with goals from both sides.",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
             "W",
             "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "France @ Paraguay",
-          "betType": "total",
-          "pick": "Over 2.5 (-160)",
-          "odds": "-160",
-          "confidence": "high",
-          "rationale": "France boasts an incredibly potent offense, having scored 16 goals in their last five matches and consistently netting at least three goals in all their 2026 World Cup victories so far. Historically, two of their five head-to-head matchups against Paraguay were high-scoring affairs, with results of 7-3 and 5-0. While Paraguay has shown defensive solidity at times, their last six matches have seen them concede an average of 1.17 goals per game, and France's attacking prowess is expected to break through. Even with Paraguay's defensive approach, France's consistent goal-scoring makes the Over 2.5 a strong high-confidence pick.",
-          "awayLast5": [
-            "W",
-            "W",
             "W",
             "W"
           ],
           "homeLast5": [
             "W",
-            "L",
+            "W",
             "W",
             "L"
+          ]
+        },
+        {
+          "game": "England @ Mexico",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-175",
+          "confidence": "high",
+          "rationale": "Mexico has been exceptionally strong defensively in the current World Cup, maintaining a 100% record and not conceding a single goal in their four matches. The match is being played at Estadio Azteca in Mexico City, where the high altitude (2,200 meters above sea level) is known to cause fatigue and can lead to lower-scoring games. England is facing injury concerns with Reece James doubtful and Declan Rice managing a hamstring issue, which could hinder their offensive output. Given Mexico's defensive prowess and the challenging environmental conditions, a tight, low-scoring contest is highly anticipated.",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Norway @ Brazil",
+          "betType": "prop",
+          "pick": "Erling Haaland Anytime Goalscorer",
+          "odds": "N/A",
+          "confidence": "medium",
+          "rationale": "Erling Haaland is a prolific striker and is currently in the Golden Boot race with five goals in four appearances in the current World Cup. While Norway faces a tough opponent in Brazil, Brazil is dealing with significant midfield injuries, with Lucas Paquetá ruled out and Casemiro questionable, which could expose their defense more than usual. Norway's head coach is expected to keep faith with a side that includes Haaland, ensuring plenty of attacking opportunities for the star striker. Haaland's ability to create and finish chances makes him a strong candidate to score in this crucial Round of 16 match.",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "England @ Mexico",
+          "betType": "prop",
+          "pick": "Raul Jimenez Anytime Goalscorer",
+          "odds": "N/A",
+          "confidence": "medium",
+          "rationale": "Mexico is in exceptional form, winning their last six matches and scoring 14 goals in the process, including a 2-0 victory over Ecuador in the Round of 32. Raul Jimenez has been a key contributor to Mexico's offense in the current World Cup, having scored two goals in the tournament. Playing at home in the Estadio Azteca, Mexico will be looking to capitalize on their strong offensive momentum against an England side that has shown some defensive vulnerabilities and is dealing with injury concerns to key defenders like Reece James. Jimenez is expected to be a central figure in Mexico's attack, increasing his chances of finding the back of the net.",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W"
           ]
         }
       ]

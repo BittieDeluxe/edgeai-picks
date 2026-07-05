@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-07-04",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Minnesota Twins @ New York Yankees",
+            "betType": "total",
+            "pick": "Under 12.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Minnesota Twins 11, New York Yankees 4"
+          },
+          {
+            "game": "Detroit Tigers @ Texas Rangers",
+            "betType": "total",
+            "pick": "Under 8",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Tigers 3, Texas Rangers 0"
+          },
+          {
+            "game": "Tampa Bay Rays @ Houston Astros",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Rays 8, Houston Astros 10"
+          },
+          {
+            "game": "Milwaukee Brewers @ Arizona Diamondbacks",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Milwaukee Brewers 3, Arizona Diamondbacks 4"
+          },
+          {
+            "game": "Toronto Blue Jays @ Seattle Mariners",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Toronto Blue Jays 0, Seattle Mariners 11"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Morocco @ Canada",
+            "betType": "moneyline",
+            "pick": "Morocco (+165)",
+            "odds": "+165",
+            "confidence": "high",
+            "result": "W",
+            "score": "Morocco 3, Canada 0"
+          },
+          {
+            "game": "Morocco @ Canada",
+            "betType": "total",
+            "pick": "Under 1.5 (-165)",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "L",
+            "score": "Morocco 3, Canada 0"
+          },
+          {
+            "game": "France @ Paraguay",
+            "betType": "total",
+            "pick": "Over 2.5 (-160)",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "L",
+            "score": "France 1, Paraguay 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-03",
     "sports": [
       {
@@ -1886,112 +1974,6 @@
             "confidence": "medium",
             "result": "?",
             "score": ""
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-04",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Vegas Golden Knights @ Carolina Hurricanes",
-            "betType": "spread",
-            "pick": "Vegas Golden Knights +1.5",
-            "odds": "-215",
-            "confidence": "high",
-            "result": "W",
-            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights @ Carolina Hurricanes",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-124",
-            "confidence": "high",
-            "result": "W",
-            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights @ Carolina Hurricanes",
-            "betType": "moneyline",
-            "pick": "Carolina Hurricanes (-164)",
-            "odds": "-164",
-            "confidence": "high",
-            "result": "W",
-            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights @ Carolina Hurricanes",
-            "betType": "moneyline",
-            "pick": "Vegas Golden Knights (+136)",
-            "odds": "+136",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights @ Carolina Hurricanes",
-            "betType": "spread",
-            "pick": "Carolina Hurricanes -1.5",
-            "odds": "+172",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Vegas Golden Knights 3, Carolina Hurricanes 4"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Toronto Blue Jays @ Atlanta Braves",
-            "betType": "spread",
-            "pick": "Atlanta Braves -1.5",
-            "odds": "-114",
-            "confidence": "high",
-            "result": "L",
-            "score": "Toronto Blue Jays 7, Atlanta Braves 2"
-          },
-          {
-            "game": "Kansas City Royals @ Minnesota Twins",
-            "betType": "total",
-            "pick": "Under 9",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Kansas City Royals 8, Minnesota Twins 6"
-          },
-          {
-            "game": "Baltimore Orioles @ Boston Red Sox",
-            "betType": "total",
-            "pick": "Over 11.5",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Baltimore Orioles 8, Boston Red Sox 2"
-          },
-          {
-            "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
-            "betType": "moneyline",
-            "pick": "Los Angeles Dodgers",
-            "odds": "-132",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Dodgers 2, Arizona Diamondbacks 3"
-          },
-          {
-            "game": "Athletics @ Chicago Cubs",
-            "betType": "spread",
-            "pick": "Athletics +1.5",
-            "odds": "-170",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Athletics 6, Chicago Cubs 7"
           }
         ]
       }
