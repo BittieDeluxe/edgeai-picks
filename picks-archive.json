@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-05",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "New York Mets @ Atlanta Braves",
+            "betType": "moneyline",
+            "pick": "New York Mets",
+            "odds": "-117",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Mets 10, Atlanta Braves 9"
+          },
+          {
+            "game": "Baltimore Orioles @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Baltimore Orioles",
+            "odds": "-116",
+            "confidence": "high",
+            "result": "L",
+            "score": "Baltimore Orioles 2, Cincinnati Reds 3"
+          },
+          {
+            "game": "Minnesota Twins @ New York Yankees",
+            "betType": "moneyline",
+            "pick": "Minnesota Twins",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Twins 6, New York Yankees 1"
+          },
+          {
+            "game": "Miami Marlins @ Athletics",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 9, Athletics 8"
+          },
+          {
+            "game": "San Francisco Giants @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 13",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "P",
+            "score": "San Francisco Giants 6, Colorado Rockies 7"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "England @ Mexico",
+            "betType": "moneyline",
+            "pick": "Mexico",
+            "odds": "+210",
+            "confidence": "medium",
+            "result": "L",
+            "score": "England 3, Mexico 2"
+          },
+          {
+            "game": "Norway @ Brazil",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-150",
+            "confidence": "high",
+            "result": "W",
+            "score": "Norway 2, Brazil 1"
+          },
+          {
+            "game": "England @ Mexico",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "L",
+            "score": "England 3, Mexico 2"
+          },
+          {
+            "game": "Norway @ Brazil",
+            "betType": "prop",
+            "pick": "Erling Haaland Anytime Goalscorer",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "England @ Mexico",
+            "betType": "prop",
+            "pick": "Raul Jimenez Anytime Goalscorer",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-04",
     "sports": [
       {
@@ -1868,112 +1974,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Washington Nationals 6, Arizona Diamondbacks 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-05",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "New York Knicks vs San Antonio Spurs",
-            "betType": "spread",
-            "pick": "San Antonio Spurs -6.5",
-            "odds": "-106",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New York Knicks 105, San Antonio Spurs 104"
-          },
-          {
-            "game": "New York Knicks vs San Antonio Spurs",
-            "betType": "total",
-            "pick": "Over 216.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New York Knicks 105, San Antonio Spurs 104"
-          },
-          {
-            "game": "New York Knicks vs San Antonio Spurs",
-            "betType": "moneyline",
-            "pick": "San Antonio Spurs (-230)",
-            "odds": "-230",
-            "confidence": "high",
-            "result": "L",
-            "score": "New York Knicks 105, San Antonio Spurs 104"
-          },
-          {
-            "game": "New York Knicks vs San Antonio Spurs",
-            "betType": "prop",
-            "pick": "Dylan Harper Over 4.5 Rebounds",
-            "odds": "N/A",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Dylan Harper: 6 Rebounds (line 4.5)"
-          },
-          {
-            "game": "New York Knicks vs San Antonio Spurs",
-            "betType": "prop",
-            "pick": "Karl-Anthony Towns Under 16.5 Points",
-            "odds": "N/A",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Karl-Anthony Towns: 21 Points (line 16.5)"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "San Francisco Giants @ Chicago Cubs",
-            "betType": "moneyline",
-            "pick": "San Francisco Giants (+116)",
-            "odds": "+116",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Francisco Giants 18, Chicago Cubs 3"
-          },
-          {
-            "game": "Chicago White Sox @ Philadelphia Phillies",
-            "betType": "moneyline",
-            "pick": "Chicago White Sox (+110)",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Chicago White Sox 6, Philadelphia Phillies 8"
-          },
-          {
-            "game": "Baltimore Orioles @ Toronto Blue Jays",
-            "betType": "total",
-            "pick": "Over 8 (-110)",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Baltimore Orioles 13, Toronto Blue Jays 3"
-          },
-          {
-            "game": "Kansas City Royals @ Minnesota Twins",
-            "betType": "moneyline",
-            "pick": "Minnesota Twins (-146)",
-            "odds": "-146",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Kansas City Royals 3, Minnesota Twins 5"
-          },
-          {
-            "game": "Los Angeles Angels @ Los Angeles Dodgers",
-            "betType": "prop",
-            "pick": "Mike Trout Home Run",
-            "odds": "+164",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
           }
         ]
       }
