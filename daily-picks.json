@@ -1,119 +1,119 @@
 {
-  "date": "2026-07-07",
-  "generatedAt": "2026-07-07T18:55:12.454Z",
+  "date": "2026-07-08",
+  "generatedAt": "2026-07-08T18:13:18.308Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Milwaukee Brewers @ St. Louis Cardinals",
+          "game": "Athletics @ Detroit Tigers",
           "betType": "moneyline",
-          "pick": "Milwaukee Brewers (-142)",
-          "odds": "-142",
+          "pick": "Detroit Tigers",
+          "odds": "-134",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers hold a significant pitching advantage with Jacob Misiorowski, an NL Cy Young favorite boasting a 1.47 ERA, taking the mound against a likely opener or less established pitcher for the Cardinals. The Brewers' offense is also in strong form, with a 42.2% hard-hit rate and a 105 wRC+ over their last seven games. Milwaukee has dominated the season series with a 5-1 record against St. Louis. The line movement, with the Brewers' moneyline shifting from -170 to as high as -210 in some markets, indicates sharp money backing Milwaukee.",
-          "awayRecord": "56-33",
-          "homeRecord": "47-41",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Chicago Cubs @ Baltimore Orioles",
-          "betType": "moneyline",
-          "pick": "Chicago Cubs (-102)",
-          "odds": "-102",
-          "confidence": "high",
-          "rationale": "The Chicago Cubs present a strong value pick due to the pitching matchup and historical head-to-head performance. Cubs starter Matthew Boyd has shown improved recent form, allowing only five runs in his last 15.2 innings and previously throwing seven shutout innings against the Orioles. Conversely, Orioles starter Shane Baz struggled in his last outing against the Cubs, giving up five runs in just 2.1 innings. The Cubs also boast a dominant 5-1 record against the Orioles in their last six matchups over the past three seasons.",
-          "awayRecord": "50-40",
-          "homeRecord": "42-49",
+          "rationale": "The Detroit Tigers hold a significant pitching advantage with Troy Melton (2.05 ERA, 0.80 WHIP) taking the mound against Jeffrey Springs (5.79 ERA), who has struggled recently, allowing six or more earned runs in three of his last four starts. Detroit is also in superior recent form, having won five of their last six games, while the Athletics have lost eight of their last nine. The Tigers secured a 6-2 victory against the Athletics in the previous game of this series. This combination of strong pitching, recent performance, and home-field advantage makes the Tigers a high-confidence pick.",
+          "awayRecord": "41-50",
+          "homeRecord": "41-50",
           "awayLast5": [
             "W",
-            "W",
             "L",
             "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ Pittsburgh Pirates",
-          "betType": "total",
-          "pick": "Over 9 (-105)",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "Despite Paul Skenes starting for the Pirates, he is currently on a six-start losing streak and has given up 11 runs in his last two outings, suggesting a vulnerability. Both the Braves and Pirates offenses have been performing well against right-handed pitching recently, ranking in the top-8 over the last 10 days. The Pirates have a strong home trend towards the Over, cashing in 30 of their last 45 home games. Furthermore, the total line has moved from an opening of 7.5 or 8 runs to 9, with the Over still attracting action, indicating confidence in a high-scoring affair.",
-          "awayRecord": "52-37",
-          "homeRecord": "46-45",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
             "L",
             "L"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
+            "W",
             "W",
             "W"
-          ]
-        },
-        {
-          "game": "New York Yankees @ Tampa Bay Rays",
-          "betType": "moneyline",
-          "pick": "Tampa Bay Rays (-120)",
-          "odds": "-120",
-          "confidence": "medium",
-          "rationale": "The Tampa Bay Rays are well-positioned for a bounce-back win at home against a struggling Yankees lineup. The Yankees are severely hampered by injuries to key power hitters Aaron Judge and Giancarlo Stanton, both on the 10-day IL, significantly impacting their offense. Rays starter Ian Seymour's swing-and-miss profile is a strong fit against a Yankees lineup that has been prone to whiffs. Conversely, Yankees starter Will Warren struggles against low-whiff lineups, which the Rays are, attacking a key weakness. The Rays, despite a recent three-game skid, are motivated to turn things around at Tropicana Field.",
-          "awayRecord": "50-40",
-          "homeRecord": "52-36",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
           ]
         },
         {
           "game": "Philadelphia Phillies @ Cincinnati Reds",
+          "betType": "moneyline",
+          "pick": "Cincinnati Reds",
+          "odds": "-142",
+          "confidence": "high",
+          "rationale": "The Cincinnati Reds boast a significant pitching advantage with All-Star Chase Burns (10-1, 2.40 ERA) starting, while the Philadelphia Phillies are scheduled for a bullpen game. Burns has been exceptional, including a prior outing against the Phillies where he struck out nine, showcasing a strong 31.8% strikeout rate against left-handed batters. The Phillies' offense performs considerably worse on the road, with a 78 wRC+ compared to their 106 wRC+ at home. Additionally, the Reds' bullpen has shown strong recent form, posting a 3.63 FIP over the last week.",
+          "awayRecord": "51-41",
+          "homeRecord": "41-49",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "New York Yankees @ Tampa Bay Rays",
           "betType": "total",
-          "pick": "Under 9 (-114)",
-          "odds": "-114",
-          "confidence": "medium",
-          "rationale": "The Phillies are coming off an embarrassing 15-1 loss where their ace, Cristopher Sanchez, allowed nine earned runs, which could impact team morale and offensive rhythm. Philadelphia's lineup has historically struggled against left-handed pitching, batting a mere .223 this season. Reds starter Andrew Abbott has been effective at limiting hits, allowing under 5.5 hits in 10 of his last 12 starts, including a strong outing against the Phillies in May. With Zack Wheeler, who boasts a 2.36 ERA, on the mound for the Phillies, a lower-scoring game is anticipated despite the hitter-friendly Great American Ball Park.",
+          "pick": "Under 7.5",
+          "odds": "-122",
+          "confidence": "high",
+          "rationale": "This matchup features two strong starting pitchers in Gerrit Cole (4.01 ERA, but improving) and Shane McClanahan (3.05 ERA), both known for their ability to limit opposing offenses. The game is being played indoors at Tropicana Field, a venue historically known for suppressing run-scoring, which negates any potential weather effects. McClanahan's high ground-ball rate (75th percentile) is particularly effective against a Yankees lineup that tends to rely on fly balls and power. The total opening and remaining at 7.5 further reinforces the expectation of a low-scoring contest.",
           "awayRecord": "50-41",
-          "homeRecord": "41-48",
+          "homeRecord": "53-36",
           "awayLast5": [
             "W",
             "L",
+            "L",
             "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Boston Red Sox @ Chicago White Sox",
+          "betType": "moneyline",
+          "pick": "Boston Red Sox",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "The Boston Red Sox are in excellent form, having won four consecutive games and eight of their last ten, positioning themselves well in the Wild Card race. Red Sox starter Jake Bennett (3-3, 3.10 ERA) has been performing dominantly, allowing two runs or fewer in five of his seven starts and boasting a 2.09 xERA over the past month. While White Sox starter Davis Martin has a strong home ERA, the Red Sox offense has been potent, with a 106 wRC+ over their last 15 games. Boston also holds a favorable head-to-head record against Chicago, winning five of their last six meetings, including an 8-1 victory yesterday.",
+          "awayRecord": "41-48",
+          "homeRecord": "47-43",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Los Angeles Angels @ Texas Rangers",
+          "betType": "spread",
+          "pick": "Los Angeles Angels +1.5",
+          "odds": "-170",
+          "confidence": "medium",
+          "rationale": "Despite the Angels' overall struggles and recent losing streak, there is significant reverse line movement on their run line, indicating sharp money is backing them. Angels starter Walbert Ureña (3.03 ERA) is in strong form, having carried a no-hitter into the sixth inning in his last outing. Although the Angels typically struggle against left-handed pitching, Rangers starter MacKenzie Gore has an overall ERA of 4.31, despite better home splits. The Angels also swept the Rangers in their previous series this season, demonstrating their capability to compete effectively against them. This suggests a potentially close, lower-scoring game, making the +1.5 run line a valuable pick.",
+          "awayRecord": "36-56",
+          "homeRecord": "46-45",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
             "L",
             "L"
           ],
@@ -131,44 +131,44 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Colombia @ Switzerland",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-160",
+          "game": "Morocco @ France",
+          "betType": "moneyline",
+          "pick": "France",
+          "odds": "-175",
           "confidence": "high",
-          "rationale": "The total goals market has seen significant sharp money backing the Under, pushing the line from -138 to -160, indicating strong market confidence in a low-scoring affair. Both Colombia and Switzerland have demonstrated formidable defenses in the current World Cup, with Colombia conceding only one goal and Switzerland just three across their four matches each. Furthermore, both teams are grappling with crucial attacking injuries; Colombia's starting striker Jhon Córdoba is out for the tournament, and Switzerland is missing key playmaker Johan Manzambi, along with Djibril Sow and Ruben Vargas, severely limiting their offensive firepower. This combination of defensive strength, key absences, and line movement strongly supports a tight, low-scoring contest.",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
+          "rationale": "France enters this quarter-final in dominant form, having won all six of their World Cup matches so far, scoring 14 goals and conceding only two. Their head-to-head record against Morocco is also strong, with France winning four of their six meetings, including a 2-0 victory in the 2022 World Cup semi-final. Morocco is dealing with significant injuries, with key attacker Ismail Al-Saïbari ruled out and defender Shadi Riad struggling for fitness, which weakens their challenge. Given France's superior form, historical dominance, and Morocco's injury woes, France is well-positioned to secure a victory."
         },
         {
-          "game": "Colombia @ Switzerland",
-          "betType": "moneyline",
-          "pick": "Colombia",
-          "odds": "+135",
+          "game": "Morocco @ France",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "Colombia is considered the clear betting favorite and is favored to advance to the quarterfinals, reflecting their strong position in this matchup. Their head-to-head record against Switzerland is also favorable, including a 2-0 victory in their only previous World Cup encounter and a 3-1 win in their most recent meeting. While Colombia is without striker Jhon Córdoba, their defense has been exceptional in the World Cup, securing three clean sheets and conceding just one goal in four games. Conversely, Switzerland faces significant challenges with key attacking players Johan Manzambi, Djibril Sow, and Ruben Vargas all confirmed out due to injury, which will severely hinder their ability to penetrate Colombia's solid backline.",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
+          "rationale": "France boasts a formidable defense, having conceded only two goals across their six World Cup matches to date. The most recent competitive encounter between these two nations, the 2022 World Cup semi-final, ended with a 2-0 scoreline, indicating a low-scoring affair. Morocco's attack is hampered by the absence of key forward Ismail Al-Saïbari, who is ruled out due to injury, and the questionable status of defender Shadi Riad. These factors collectively point towards a tightly contested match with fewer than 2.5 goals."
+        },
+        {
+          "game": "Morocco @ France",
+          "betType": "prop",
+          "pick": "Kylian Mbappé Anytime Goalscorer",
+          "odds": "N/A",
+          "confidence": "high",
+          "rationale": "Kylian Mbappé is in sensational form, currently leading the Golden Boot race in the World Cup with seven goals. He demonstrated his scoring prowess by converting a penalty in France's last-16 victory against Paraguay. As France's primary offensive threat, Mbappé is consistently involved in goal-scoring opportunities and is expected to start this crucial quarter-final match. His consistent performance and importance to the French attack make him a strong candidate to score."
+        },
+        {
+          "game": "Morocco @ France",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "France has showcased a potent offense throughout the tournament, scoring 14 goals in six matches, averaging 2.33 goals per game. Morocco has also demonstrated their attacking capabilities, netting 11 goals in six matches, including a convincing 3-0 victory over Canada and a 4-2 win against Haiti in recent World Cup fixtures. Both teams have shown a propensity for higher-scoring games in this tournament, suggesting that despite a tight previous encounter, this match could see more offensive action."
+        },
+        {
+          "game": "Morocco @ France",
+          "betType": "moneyline",
+          "pick": "Morocco",
+          "odds": "+475",
+          "confidence": "medium",
+          "rationale": "Morocco enters this quarter-final on an extraordinary 34-match unbeaten international run, highlighting their exceptional consistency and resilience. As reigning Africa Cup of Nations champions, they possess a winning mentality and a squad with game-changing talents such as Achraf Hakimi, Brahim Díaz, and Azzedine Ounahi. Despite France's strong record, Morocco's proven ability to perform on the biggest stage and their current momentum provide a compelling case for an upset at attractive odds."
         }
       ]
     }
