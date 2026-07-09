@@ -1,174 +1,121 @@
 {
-  "date": "2026-07-08",
-  "generatedAt": "2026-07-08T18:13:18.308Z",
+  "date": "2026-07-09",
+  "generatedAt": "2026-07-09T18:46:08.193Z",
   "sports": [
-    {
-      "sport": "MLB",
-      "picks": [
-        {
-          "game": "Athletics @ Detroit Tigers",
-          "betType": "moneyline",
-          "pick": "Detroit Tigers",
-          "odds": "-134",
-          "confidence": "high",
-          "rationale": "The Detroit Tigers hold a significant pitching advantage with Troy Melton (2.05 ERA, 0.80 WHIP) taking the mound against Jeffrey Springs (5.79 ERA), who has struggled recently, allowing six or more earned runs in three of his last four starts. Detroit is also in superior recent form, having won five of their last six games, while the Athletics have lost eight of their last nine. The Tigers secured a 6-2 victory against the Athletics in the previous game of this series. This combination of strong pitching, recent performance, and home-field advantage makes the Tigers a high-confidence pick.",
-          "awayRecord": "41-50",
-          "homeRecord": "41-50",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ Cincinnati Reds",
-          "betType": "moneyline",
-          "pick": "Cincinnati Reds",
-          "odds": "-142",
-          "confidence": "high",
-          "rationale": "The Cincinnati Reds boast a significant pitching advantage with All-Star Chase Burns (10-1, 2.40 ERA) starting, while the Philadelphia Phillies are scheduled for a bullpen game. Burns has been exceptional, including a prior outing against the Phillies where he struck out nine, showcasing a strong 31.8% strikeout rate against left-handed batters. The Phillies' offense performs considerably worse on the road, with a 78 wRC+ compared to their 106 wRC+ at home. Additionally, the Reds' bullpen has shown strong recent form, posting a 3.63 FIP over the last week.",
-          "awayRecord": "51-41",
-          "homeRecord": "41-49",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Yankees @ Tampa Bay Rays",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-122",
-          "confidence": "high",
-          "rationale": "This matchup features two strong starting pitchers in Gerrit Cole (4.01 ERA, but improving) and Shane McClanahan (3.05 ERA), both known for their ability to limit opposing offenses. The game is being played indoors at Tropicana Field, a venue historically known for suppressing run-scoring, which negates any potential weather effects. McClanahan's high ground-ball rate (75th percentile) is particularly effective against a Yankees lineup that tends to rely on fly balls and power. The total opening and remaining at 7.5 further reinforces the expectation of a low-scoring contest.",
-          "awayRecord": "50-41",
-          "homeRecord": "53-36",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Boston Red Sox @ Chicago White Sox",
-          "betType": "moneyline",
-          "pick": "Boston Red Sox",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "The Boston Red Sox are in excellent form, having won four consecutive games and eight of their last ten, positioning themselves well in the Wild Card race. Red Sox starter Jake Bennett (3-3, 3.10 ERA) has been performing dominantly, allowing two runs or fewer in five of his seven starts and boasting a 2.09 xERA over the past month. While White Sox starter Davis Martin has a strong home ERA, the Red Sox offense has been potent, with a 106 wRC+ over their last 15 games. Boston also holds a favorable head-to-head record against Chicago, winning five of their last six meetings, including an 8-1 victory yesterday.",
-          "awayRecord": "41-48",
-          "homeRecord": "47-43",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Los Angeles Angels @ Texas Rangers",
-          "betType": "spread",
-          "pick": "Los Angeles Angels +1.5",
-          "odds": "-170",
-          "confidence": "medium",
-          "rationale": "Despite the Angels' overall struggles and recent losing streak, there is significant reverse line movement on their run line, indicating sharp money is backing them. Angels starter Walbert Ureña (3.03 ERA) is in strong form, having carried a no-hitter into the sixth inning in his last outing. Although the Angels typically struggle against left-handed pitching, Rangers starter MacKenzie Gore has an overall ERA of 4.31, despite better home splits. The Angels also swept the Rangers in their previous series this season, demonstrating their capability to compete effectively against them. This suggests a potentially close, lower-scoring game, making the +1.5 run line a valuable pick.",
-          "awayRecord": "36-56",
-          "homeRecord": "46-45",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        }
-      ]
-    },
     {
       "sport": "WORLDCUP",
       "picks": [
         {
           "game": "Morocco @ France",
           "betType": "moneyline",
-          "pick": "France",
-          "odds": "-175",
+          "pick": "France (-165)",
+          "odds": "-165",
           "confidence": "high",
-          "rationale": "France enters this quarter-final in dominant form, having won all six of their World Cup matches so far, scoring 14 goals and conceding only two. Their head-to-head record against Morocco is also strong, with France winning four of their six meetings, including a 2-0 victory in the 2022 World Cup semi-final. Morocco is dealing with significant injuries, with key attacker Ismail Al-Saïbari ruled out and defender Shadi Riad struggling for fitness, which weakens their challenge. Given France's superior form, historical dominance, and Morocco's injury woes, France is well-positioned to secure a victory."
+          "rationale": "France enters this quarterfinal with a perfect 6-0 record in the 2026 World Cup, demonstrating dominant form with 17 goals scored and only 3 conceded. Historically, France holds a strong head-to-head advantage over Morocco, including a 2-0 victory in their most recent competitive meeting at the 2022 World Cup semi-final. Morocco is significantly hampered by the absence of their star forward Ismael Saibari due to injury, who was their top scorer in the group stage. Despite the absence of Tchouaméni, France's overall squad depth and offensive firepower, led by Mbappé, make them a clear favorite to win in regular time.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
         },
         {
           "game": "Morocco @ France",
           "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "France boasts a formidable defense, having conceded only two goals across their six World Cup matches to date. The most recent competitive encounter between these two nations, the 2022 World Cup semi-final, ended with a 2-0 scoreline, indicating a low-scoring affair. Morocco's attack is hampered by the absence of key forward Ismail Al-Saïbari, who is ruled out due to injury, and the questionable status of defender Shadi Riad. These factors collectively point towards a tightly contested match with fewer than 2.5 goals."
+          "pick": "Under 2.5 (-115)",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Public and sharp money are heavily backing the Under 2.5 goals, with the line moving from -120 to -115 (and even -125 in some markets), indicating a belief in a low-scoring affair. Morocco's defensive resilience has been a hallmark of their tournament run, and they will likely adopt a compact defensive strategy, especially without their key attacker Ismael Saibari. Quarterfinal matches often feature increased caution and tactical battles, leading to fewer goals. France can win this match without needing to score many goals, as seen in their 1-0 victory over Paraguay in the Round of 16.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
         },
         {
           "game": "Morocco @ France",
           "betType": "prop",
-          "pick": "Kylian Mbappé Anytime Goalscorer",
-          "odds": "N/A",
+          "pick": "Kylian Mbappé Anytime Goal",
+          "odds": "-110",
           "confidence": "high",
-          "rationale": "Kylian Mbappé is in sensational form, currently leading the Golden Boot race in the World Cup with seven goals. He demonstrated his scoring prowess by converting a penalty in France's last-16 victory against Paraguay. As France's primary offensive threat, Mbappé is consistently involved in goal-scoring opportunities and is expected to start this crucial quarter-final match. His consistent performance and importance to the French attack make him a strong candidate to score."
+          "rationale": "Kylian Mbappé has been France's most prolific scorer in the tournament, with seven goals, and he is also the designated penalty taker. His central role in France's attack ensures a high volume of shots and scoring opportunities against any opponent. Even against a defensively strong Morocco, Mbappé's individual brilliance and ability to create chances make him a constant threat to find the back of the net. Mbappé is active and expected to start for France.",
+          "propPlayer": "Kylian Mbappé",
+          "propTeam": "France",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Morocco @ France",
+          "betType": "prop",
+          "pick": "Ousmane Dembélé Anytime Goal",
+          "odds": "+195",
+          "confidence": "medium",
+          "rationale": "Ousmane Dembélé has been a significant offensive contributor for France, tallying four goals and two assists across five World Cup matches. With much of Morocco's defensive attention focused on containing Kylian Mbappé, Dembélé is likely to find more space and opportunities on the wing. His strong form, including 14 shots and five shots on goal in the tournament, provides good value at nearly 2-to-1 odds. Dembélé is an active player for France and expected to play a key role in the attack.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
         },
         {
           "game": "Morocco @ France",
           "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-105",
+          "pick": "Over 2.5 (+105)",
+          "odds": "+105",
           "confidence": "medium",
-          "rationale": "France has showcased a potent offense throughout the tournament, scoring 14 goals in six matches, averaging 2.33 goals per game. Morocco has also demonstrated their attacking capabilities, netting 11 goals in six matches, including a convincing 3-0 victory over Canada and a 4-2 win against Haiti in recent World Cup fixtures. Both teams have shown a propensity for higher-scoring games in this tournament, suggesting that despite a tight previous encounter, this match could see more offensive action."
-        },
-        {
-          "game": "Morocco @ France",
-          "betType": "moneyline",
-          "pick": "Morocco",
-          "odds": "+475",
-          "confidence": "medium",
-          "rationale": "Morocco enters this quarter-final on an extraordinary 34-match unbeaten international run, highlighting their exceptional consistency and resilience. As reigning Africa Cup of Nations champions, they possess a winning mentality and a squad with game-changing talents such as Achraf Hakimi, Brahim Díaz, and Azzedine Ounahi. Despite France's strong record, Morocco's proven ability to perform on the biggest stage and their current momentum provide a compelling case for an upset at attractive odds."
+          "rationale": "France's offensive prowess is undeniable, scoring at least three goals in all five of their prior World Cup matches, showcasing a consistently high-scoring attack. Their average of 2.83 goals per game in the tournament indicates a strong potential for multiple goals. While Morocco possesses a strong defense, France's attacking trio of Mbappé, Dembélé, and Olise is capable of breaking down even the most resolute backlines, making the Over 2.5 an attractive proposition at plus odds. The absence of Tchouaméni in midfield for France might also slightly open up the game, potentially leading to more end-to-end action.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
         }
       ]
     }

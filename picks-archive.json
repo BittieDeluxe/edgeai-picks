@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-08",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Athletics @ Detroit Tigers",
+            "betType": "moneyline",
+            "pick": "Detroit Tigers",
+            "odds": "-134",
+            "confidence": "high",
+            "result": "W",
+            "score": "Athletics 1, Detroit Tigers 6"
+          },
+          {
+            "game": "Philadelphia Phillies @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Phillies 5, Cincinnati Reds 11"
+          },
+          {
+            "game": "New York Yankees @ Tampa Bay Rays",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Yankees 0, Tampa Bay Rays 3"
+          },
+          {
+            "game": "Boston Red Sox @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Boston Red Sox 5, Chicago White Sox 0"
+          },
+          {
+            "game": "Los Angeles Angels @ Texas Rangers",
+            "betType": "spread",
+            "pick": "Los Angeles Angels +1.5",
+            "odds": "-170",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Angels 13, Texas Rangers 1"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Morocco @ France",
+            "betType": "moneyline",
+            "pick": "France",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Morocco @ France",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Morocco @ France",
+            "betType": "prop",
+            "pick": "Kylian Mbappé Anytime Goalscorer",
+            "odds": "N/A",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Morocco @ France",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Morocco @ France",
+            "betType": "moneyline",
+            "pick": "Morocco",
+            "odds": "+475",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-07",
     "sports": [
       {
@@ -1864,112 +1970,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Texas Rangers 3, Kansas City Royals 5"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-08",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "moneyline",
-            "pick": "New York Knicks",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Antonio Spurs 115, New York Knicks 111"
-          },
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "spread",
-            "pick": "New York Knicks -1.5",
-            "odds": "-118",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Antonio Spurs 115, New York Knicks 111"
-          },
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "total",
-            "pick": "Under 216.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Antonio Spurs 115, New York Knicks 111"
-          },
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "moneyline",
-            "pick": "San Antonio Spurs",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Antonio Spurs 115, New York Knicks 111"
-          },
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "total",
-            "pick": "Over 216.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Antonio Spurs 115, New York Knicks 111"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Seattle Mariners vs Baltimore Orioles",
-            "betType": "spread",
-            "pick": "Seattle Mariners -1.5",
-            "odds": "+138",
-            "confidence": "high",
-            "result": "W",
-            "score": "Seattle Mariners 6, Baltimore Orioles 3"
-          },
-          {
-            "game": "Boston Red Sox vs Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox (-112)",
-            "odds": "-112",
-            "confidence": "high",
-            "result": "L",
-            "score": "Boston Red Sox 1, Tampa Bay Rays 3"
-          },
-          {
-            "game": "New York Yankees vs Cleveland Guardians",
-            "betType": "moneyline",
-            "pick": "Cleveland Guardians (+114)",
-            "odds": "+114",
-            "confidence": "high",
-            "result": "L",
-            "score": "New York Yankees 7, Cleveland Guardians 5"
-          },
-          {
-            "game": "Philadelphia Phillies vs Toronto Blue Jays",
-            "betType": "spread",
-            "pick": "Philadelphia Phillies -1.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Phillies 5, Toronto Blue Jays 2"
-          },
-          {
-            "game": "Houston Astros vs Los Angeles Angels",
-            "betType": "spread",
-            "pick": "Houston Astros -1.5",
-            "odds": "+122",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Houston Astros 5, Los Angeles Angels 4"
           }
         ]
       }
