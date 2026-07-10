@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-09",
+    "sports": [
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Morocco @ France",
+            "betType": "moneyline",
+            "pick": "France (-165)",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "W",
+            "score": "Morocco 0, France 2"
+          },
+          {
+            "game": "Morocco @ France",
+            "betType": "total",
+            "pick": "Under 2.5 (-115)",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Morocco 0, France 2"
+          },
+          {
+            "game": "Morocco @ France",
+            "betType": "prop",
+            "pick": "Kylian Mbappé Anytime Goal",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Morocco @ France",
+            "betType": "prop",
+            "pick": "Ousmane Dembélé Anytime Goal",
+            "odds": "+195",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Morocco @ France",
+            "betType": "total",
+            "pick": "Over 2.5 (+105)",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Morocco 0, France 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-08",
     "sports": [
       {
@@ -61,8 +117,8 @@
             "pick": "France",
             "odds": "-175",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Morocco 0, France 2"
           },
           {
             "game": "Morocco @ France",
@@ -70,8 +126,8 @@
             "pick": "Under 2.5",
             "odds": "-120",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Morocco 0, France 2"
           },
           {
             "game": "Morocco @ France",
@@ -88,8 +144,8 @@
             "pick": "Over 2.5",
             "odds": "-105",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Morocco 0, France 2"
           },
           {
             "game": "Morocco @ France",
@@ -97,8 +153,8 @@
             "pick": "Morocco",
             "odds": "+475",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Morocco 0, France 2"
           }
         ]
       }
@@ -1864,112 +1920,6 @@
             "confidence": "high",
             "result": "W",
             "score": "South Africa 0, Mexico 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-09",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Carolina Hurricanes vs Vegas Golden Knights",
-            "betType": "moneyline",
-            "pick": "Vegas Golden Knights",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Carolina Hurricanes 5, Vegas Golden Knights 3"
-          },
-          {
-            "game": "Carolina Hurricanes vs Vegas Golden Knights",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-134",
-            "confidence": "high",
-            "result": "W",
-            "score": "Carolina Hurricanes 5, Vegas Golden Knights 3"
-          },
-          {
-            "game": "Carolina Hurricanes vs Vegas Golden Knights",
-            "betType": "spread",
-            "pick": "Vegas Golden Knights +1.5",
-            "odds": "-265",
-            "confidence": "high",
-            "result": "L",
-            "score": "Carolina Hurricanes 5, Vegas Golden Knights 3"
-          },
-          {
-            "game": "Carolina Hurricanes vs Vegas Golden Knights",
-            "betType": "moneyline",
-            "pick": "Carolina Hurricanes",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Carolina Hurricanes 5, Vegas Golden Knights 3"
-          },
-          {
-            "game": "Carolina Hurricanes vs Vegas Golden Knights",
-            "betType": "spread",
-            "pick": "Carolina Hurricanes -1.5",
-            "odds": "+210",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Carolina Hurricanes 5, Vegas Golden Knights 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Washington Nationals @ San Francisco Giants",
-            "betType": "moneyline",
-            "pick": "Washington Nationals",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Washington Nationals 6, San Francisco Giants 3"
-          },
-          {
-            "game": "Texas Rangers @ Kansas City Royals",
-            "betType": "moneyline",
-            "pick": "Texas Rangers",
-            "odds": "-126",
-            "confidence": "high",
-            "result": "L",
-            "score": "Texas Rangers 3, Kansas City Royals 5"
-          },
-          {
-            "game": "Philadelphia Phillies @ Toronto Blue Jays",
-            "betType": "spread",
-            "pick": "Philadelphia Phillies -1.5",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia Phillies 2, Toronto Blue Jays 3"
-          },
-          {
-            "game": "Milwaukee Brewers @ Athletics",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers",
-            "odds": "-104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Milwaukee Brewers 5, Athletics 7"
-          },
-          {
-            "game": "Texas Rangers @ Kansas City Royals",
-            "betType": "total",
-            "pick": "Under 9.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Texas Rangers 3, Kansas City Royals 5"
           }
         ]
       }

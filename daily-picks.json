@@ -1,22 +1,147 @@
 {
-  "date": "2026-07-09",
-  "generatedAt": "2026-07-09T18:46:08.193Z",
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-10T18:17:13.041Z",
   "sports": [
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "Boston Red Sox @ New York Mets",
+          "betType": "moneyline",
+          "pick": "Boston Red Sox",
+          "odds": "+126",
+          "confidence": "high",
+          "rationale": "The Boston Red Sox are on an impressive 8-game winning streak and have won 8 of their last 10 games, indicating strong recent form. They are sending Sonny Gray to the mound, who is considered the better starting pitcher in this matchup against Nolan McLean. Despite significant injuries to key players, Boston's offense has found a workable structure, and their road record is better than their overall record. The line movement has kept this game tight, but the Red Sox at plus money offer excellent value given their current momentum and pitching advantage.",
+          "awayRecord": "43-48",
+          "homeRecord": "40-54",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Angels @ Minnesota Twins",
+          "betType": "total",
+          "pick": "Over 9.5",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "The Los Angeles Angels are starting Grayson Rodriguez, who carries an alarming 8.18 ERA and 1.83 WHIP this season, presenting a clear opportunity for the Minnesota Twins offense. The Angels' bullpen has also struggled to protect leads consistently, which can contribute to a higher scoring game. The Twins have a strong season-long trend of hitting the Over, doing so in 54 of their 87 games (54-33). The pitching matchup and team trends strongly point towards a high-scoring affair, making the Over 9.5 a high-confidence pick.",
+          "awayRecord": "37-57",
+          "homeRecord": "46-48",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Kansas City Royals @ Baltimore Orioles",
+          "betType": "spread",
+          "pick": "Baltimore Orioles -1.5",
+          "odds": "+136",
+          "confidence": "high",
+          "rationale": "The Baltimore Orioles have a significant pitching advantage with Brandon Young (7-2, 3.38 ERA) starting against the Royals' Luinder Avila (4-3, 5.05 ERA). The Kansas City Royals are severely hampered by injuries, missing key offensive players like Vinnie Pasquantino, Maikel Garcia, and Kyle Isbel. Baltimore is playing at home, and the run line at +136 offers better value than the moneyline, as the Orioles have a clear path to a multi-run victory given the pitching and injury disparities. The Orioles' home setup and power profile further support a margin win.",
+          "awayRecord": "38-56",
+          "homeRecord": "43-51",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Chicago Cubs @ Cincinnati Reds",
+          "betType": "total",
+          "pick": "Over 10",
+          "odds": "-122",
+          "confidence": "medium",
+          "rationale": "This game features Hunter Greene starting for the Reds, who has an extremely high 21.60 ERA in his limited appearances this season. While Cubs starter Shota Imanaga has a decent ERA, he has shown susceptibility to home runs, which is a significant concern in the hitter-friendly Great American Ball Park. The Cubs possess a complete lineup capable of exploiting Greene's struggles and the park's tendencies. The combination of a struggling Reds pitcher, a hitter-friendly environment, and a strong Cubs offense points towards a high-scoring affair, making the Over 10 a high-confidence pick.",
+          "awayRecord": "52-41",
+          "homeRecord": "42-50",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Colorado Rockies @ San Francisco Giants",
+          "betType": "spread",
+          "pick": "San Francisco Giants -1.5",
+          "odds": "+155",
+          "confidence": "medium",
+          "rationale": "The San Francisco Giants hold a distinct pitching advantage with Robbie Ray on the mound against the Colorado Rockies' Tanner Gordon. The Rockies have a dismal road record of 16-32 this season, indicating their consistent struggles away from home. The Giants convincingly won the previous game in the series 8-2, demonstrating their ability to generate offense against Colorado. Oracle Park also helps suppress offense, which could aid Ray in a strong outing. Betting on the Giants to cover the -1.5 spread at +155 offers excellent value, as their pitching superiority and the Rockies' road woes suggest a multi-run victory for San Francisco.",
+          "awayRecord": "38-57",
+          "homeRecord": "39-54",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        }
+      ]
+    },
     {
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Morocco @ France",
+          "game": "Belgium @ Spain",
           "betType": "moneyline",
-          "pick": "France (-165)",
-          "odds": "-165",
+          "pick": "Spain",
+          "odds": "-160",
           "confidence": "high",
-          "rationale": "France enters this quarterfinal with a perfect 6-0 record in the 2026 World Cup, demonstrating dominant form with 17 goals scored and only 3 conceded. Historically, France holds a strong head-to-head advantage over Morocco, including a 2-0 victory in their most recent competitive meeting at the 2022 World Cup semi-final. Morocco is significantly hampered by the absence of their star forward Ismael Saibari due to injury, who was their top scorer in the group stage. Despite the absence of Tchouaméni, France's overall squad depth and offensive firepower, led by Mbappé, make them a clear favorite to win in regular time.",
+          "rationale": "Spain enters this quarterfinal match in exceptional form, remaining unbeaten in 35 consecutive games and having not conceded a single goal throughout the 2026 World Cup tournament. Their defensive solidity is further highlighted by goalkeeper Unai Simón's World Cup-record 609-minute shutout streak. Historically, Spain has dominated Belgium, winning their last five encounters with an aggregate score of 13-1, showcasing a clear historical advantage. Furthermore, Belgium is significantly hampered by the absence of key midfielder Amadou Onana due to an ACL injury, which weakens their midfield against a strong Spanish side.",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
@@ -24,21 +149,21 @@
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "Morocco @ France",
+          "game": "Belgium @ Spain",
           "betType": "total",
-          "pick": "Under 2.5 (-115)",
-          "odds": "-115",
+          "pick": "Under 2.5",
+          "odds": "+115",
           "confidence": "medium",
-          "rationale": "Public and sharp money are heavily backing the Under 2.5 goals, with the line moving from -120 to -115 (and even -125 in some markets), indicating a belief in a low-scoring affair. Morocco's defensive resilience has been a hallmark of their tournament run, and they will likely adopt a compact defensive strategy, especially without their key attacker Ismael Saibari. Quarterfinal matches often feature increased caution and tactical battles, leading to fewer goals. France can win this match without needing to score many goals, as seen in their 1-0 victory over Paraguay in the Round of 16.",
+          "rationale": "Spain has demonstrated an impenetrable defense throughout this World Cup, keeping five clean sheets and conceding only one goal in their last six matches across all competitions. While Belgium has shown attacking prowess recently, Spain's ability to shut down opponents, especially in crucial knockout stages, is well-documented. The head-to-head history, despite Spain's dominance in wins, includes several low-scoring affairs, with Spain winning 2-0 multiple times. In a high-stakes quarterfinal match, both teams are likely to prioritize defensive solidity, leading to a tighter contest with fewer goals.",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
@@ -46,23 +171,21 @@
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "Morocco @ France",
+          "game": "Belgium @ Spain",
           "betType": "prop",
-          "pick": "Kylian Mbappé Anytime Goal",
-          "odds": "-110",
+          "pick": "Mikel Oyarzabal Anytime Goalscorer",
+          "odds": "-105",
           "confidence": "high",
-          "rationale": "Kylian Mbappé has been France's most prolific scorer in the tournament, with seven goals, and he is also the designated penalty taker. His central role in France's attack ensures a high volume of shots and scoring opportunities against any opponent. Even against a defensively strong Morocco, Mbappé's individual brilliance and ability to create chances make him a constant threat to find the back of the net. Mbappé is active and expected to start for France.",
-          "propPlayer": "Kylian Mbappé",
-          "propTeam": "France",
+          "rationale": "Mikel Oyarzabal is a key attacking player for Spain and is in excellent form, boasting 24 goal involvements in his last 18 national team appearances. He is confirmed active and expected to start for Spain in this quarterfinal match. Spain's offense has been scoring consistently in the tournament, with 9 goals in 5 games. Given Spain's offensive strength and Oyarzabal's recent scoring prowess, he is a strong candidate to find the back of the net.",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
@@ -70,21 +193,21 @@
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "Morocco @ France",
+          "game": "Belgium @ Spain",
           "betType": "prop",
-          "pick": "Ousmane Dembélé Anytime Goal",
-          "odds": "+195",
+          "pick": "Lamine Yamal Anytime Goalscorer",
+          "odds": "+145",
           "confidence": "medium",
-          "rationale": "Ousmane Dembélé has been a significant offensive contributor for France, tallying four goals and two assists across five World Cup matches. With much of Morocco's defensive attention focused on containing Kylian Mbappé, Dembélé is likely to find more space and opportunities on the wing. His strong form, including 14 shots and five shots on goal in the tournament, provides good value at nearly 2-to-1 odds. Dembélé is an active player for France and expected to play a key role in the attack.",
+          "rationale": "Lamine Yamal is a dynamic and active attacker for Spain, confirmed to be on the squad and expected to start in the quarterfinal. Spain's offense has been potent throughout the tournament, and Yamal is a significant part of their attacking threat. His inclusion in the starting lineup provides ample opportunity to impact the score sheet. Given Spain's overall offensive strength and Yamal's role, he has a good chance to score at favorable odds.",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
@@ -92,21 +215,21 @@
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "Morocco @ France",
-          "betType": "total",
-          "pick": "Over 2.5 (+105)",
-          "odds": "+105",
+          "game": "Belgium @ Spain",
+          "betType": "prop",
+          "pick": "Charles De Ketelaere Anytime Goalscorer",
+          "odds": "+360",
           "confidence": "medium",
-          "rationale": "France's offensive prowess is undeniable, scoring at least three goals in all five of their prior World Cup matches, showcasing a consistently high-scoring attack. Their average of 2.83 goals per game in the tournament indicates a strong potential for multiple goals. While Morocco possesses a strong defense, France's attacking trio of Mbappé, Dembélé, and Olise is capable of breaking down even the most resolute backlines, making the Over 2.5 an attractive proposition at plus odds. The absence of Tchouaméni in midfield for France might also slightly open up the game, potentially leading to more end-to-end action.",
+          "rationale": "Charles De Ketelaere is in good form for Belgium, having scored a brace in their convincing 4-1 victory over the USMNT in the Round of 16. He is confirmed active and expected to start ahead of Romelu Lukaku, indicating his importance in Belgium's attacking setup. Despite Spain's formidable defense, Belgium has shown significant attacking power, scoring 12 goals in their last three World Cup matches. At +360 odds, this offers good value for a player in form and starting for an attacking team, even against a tough opponent.",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
@@ -114,7 +237,7 @@
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ]
         }
       ]
