@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-10",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Boston Red Sox @ New York Mets",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox",
+            "odds": "+126",
+            "confidence": "high",
+            "result": "W",
+            "score": "Boston Red Sox 6, New York Mets 2"
+          },
+          {
+            "game": "Los Angeles Angels @ Minnesota Twins",
+            "betType": "total",
+            "pick": "Over 9.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Angels 4, Minnesota Twins 3"
+          },
+          {
+            "game": "Kansas City Royals @ Baltimore Orioles",
+            "betType": "spread",
+            "pick": "Baltimore Orioles -1.5",
+            "odds": "+136",
+            "confidence": "high",
+            "result": "W",
+            "score": "Kansas City Royals 3, Baltimore Orioles 5"
+          },
+          {
+            "game": "Chicago Cubs @ Cincinnati Reds",
+            "betType": "total",
+            "pick": "Over 10",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Cubs 0, Cincinnati Reds 4"
+          },
+          {
+            "game": "Colorado Rockies @ San Francisco Giants",
+            "betType": "spread",
+            "pick": "San Francisco Giants -1.5",
+            "odds": "+155",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Rockies 4, San Francisco Giants 3"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Belgium @ Spain",
+            "betType": "moneyline",
+            "pick": "Spain",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "W",
+            "score": "Belgium 1, Spain 2"
+          },
+          {
+            "game": "Belgium @ Spain",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Belgium 1, Spain 2"
+          },
+          {
+            "game": "Belgium @ Spain",
+            "betType": "prop",
+            "pick": "Mikel Oyarzabal Anytime Goalscorer",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Belgium @ Spain",
+            "betType": "prop",
+            "pick": "Lamine Yamal Anytime Goalscorer",
+            "odds": "+145",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Belgium @ Spain",
+            "betType": "prop",
+            "pick": "Charles De Ketelaere Anytime Goalscorer",
+            "odds": "+360",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-09",
     "sports": [
       {
@@ -1798,126 +1904,6 @@
             "pick": "Under 2.5",
             "odds": "-110",
             "confidence": "medium",
-            "result": "W",
-            "score": "South Africa 0, Mexico 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-10",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "spread",
-            "pick": "New York Knicks -2.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Antonio Spurs 106, New York Knicks 107"
-          },
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "total",
-            "pick": "Under 216.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Antonio Spurs 106, New York Knicks 107"
-          },
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "prop",
-            "pick": "Victor Wembanyama Points + Rebounds Over 38.5",
-            "odds": "-114",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "prop",
-            "pick": "Jalen Brunson to Score 30+ Points",
-            "odds": "+130",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "San Antonio Spurs vs New York Knicks",
-            "betType": "prop",
-            "pick": "Josh Hart Over 10.5 points",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Josh Hart: 6 points (line 10.5)"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Arizona Diamondbacks @ Miami Marlins",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Arizona Diamondbacks 0, Miami Marlins 8"
-          },
-          {
-            "game": "Atlanta Braves @ Chicago White Sox",
-            "betType": "spread",
-            "pick": "Atlanta Braves -1.5",
-            "odds": "+120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Atlanta Braves 1, Chicago White Sox 2"
-          },
-          {
-            "game": "Philadelphia Phillies @ Toronto Blue Jays",
-            "betType": "spread",
-            "pick": "Philadelphia Phillies -1.5",
-            "odds": "+128",
-            "confidence": "high",
-            "result": "W",
-            "score": "Philadelphia Phillies 7, Toronto Blue Jays 4"
-          },
-          {
-            "game": "Seattle Mariners @ Baltimore Orioles",
-            "betType": "moneyline",
-            "pick": "Seattle Mariners",
-            "odds": "-116",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Seattle Mariners 2, Baltimore Orioles 7"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "South Africa vs Mexico",
-            "betType": "moneyline",
-            "pick": "Mexico",
-            "odds": "-235",
-            "confidence": "high",
-            "result": "W",
-            "score": "South Africa 0, Mexico 2"
-          },
-          {
-            "game": "South Africa vs Mexico",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-145",
-            "confidence": "high",
             "result": "W",
             "score": "South Africa 0, Mexico 2"
           }

@@ -1,128 +1,128 @@
 {
-  "date": "2026-07-10",
-  "generatedAt": "2026-07-10T18:17:13.041Z",
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T17:46:36.365Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Boston Red Sox @ New York Mets",
+          "game": "Toronto Blue Jays @ San Diego Padres",
           "betType": "moneyline",
-          "pick": "Boston Red Sox",
-          "odds": "+126",
+          "pick": "Toronto Blue Jays",
+          "odds": "-104",
           "confidence": "high",
-          "rationale": "The Boston Red Sox are on an impressive 8-game winning streak and have won 8 of their last 10 games, indicating strong recent form. They are sending Sonny Gray to the mound, who is considered the better starting pitcher in this matchup against Nolan McLean. Despite significant injuries to key players, Boston's offense has found a workable structure, and their road record is better than their overall record. The line movement has kept this game tight, but the Red Sox at plus money offer excellent value given their current momentum and pitching advantage.",
-          "awayRecord": "43-48",
-          "homeRecord": "40-54",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Los Angeles Angels @ Minnesota Twins",
-          "betType": "total",
-          "pick": "Over 9.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "The Los Angeles Angels are starting Grayson Rodriguez, who carries an alarming 8.18 ERA and 1.83 WHIP this season, presenting a clear opportunity for the Minnesota Twins offense. The Angels' bullpen has also struggled to protect leads consistently, which can contribute to a higher scoring game. The Twins have a strong season-long trend of hitting the Over, doing so in 54 of their 87 games (54-33). The pitching matchup and team trends strongly point towards a high-scoring affair, making the Over 9.5 a high-confidence pick.",
-          "awayRecord": "37-57",
+          "rationale": "The Blue Jays are in significantly better recent form, winning three of their last four games, including a dominant 10-0 shutout victory over the Giants. In contrast, the San Diego Padres are struggling, having lost eleven of their last fourteen games and falling to the Blue Jays in yesterday's matchup. Blue Jays starter Trey Yesavage has been pitching exceptionally well, allowing two or fewer earned runs in his last three consecutive starts, and the Padres lineup is inexperienced against him. This combination of strong recent performance, pitching advantage, and head-to-head dominance makes the Blue Jays a high-confidence pick.",
+          "awayRecord": "45-49",
           "homeRecord": "46-48",
           "awayLast5": [
             "L",
             "L",
-            "L",
             "W",
-            "L"
+            "W",
+            "W"
           ],
           "homeLast5": [
+            "L",
             "W",
             "W",
-            "W",
-            "W",
+            "L",
             "L"
           ]
         },
         {
-          "game": "Kansas City Royals @ Baltimore Orioles",
-          "betType": "spread",
-          "pick": "Baltimore Orioles -1.5",
-          "odds": "+136",
+          "game": "Los Angeles Angels @ Minnesota Twins",
+          "betType": "moneyline",
+          "pick": "Minnesota Twins",
+          "odds": "-172",
           "confidence": "high",
-          "rationale": "The Baltimore Orioles have a significant pitching advantage with Brandon Young (7-2, 3.38 ERA) starting against the Royals' Luinder Avila (4-3, 5.05 ERA). The Kansas City Royals are severely hampered by injuries, missing key offensive players like Vinnie Pasquantino, Maikel Garcia, and Kyle Isbel. Baltimore is playing at home, and the run line at +136 offers better value than the moneyline, as the Orioles have a clear path to a multi-run victory given the pitching and injury disparities. The Orioles' home setup and power profile further support a margin win.",
-          "awayRecord": "38-56",
-          "homeRecord": "43-51",
+          "rationale": "The Minnesota Twins hold a significant pitching advantage with Joe Ryan (6-5, 2.85 ERA, 1.04 WHIP) on the mound, who is in excellent form after delivering back-to-back shutouts. Conversely, Angels starter Ryan Johnson has a high 6.99 ERA and 1.55 WHIP, particularly struggling on the road. The Twins have a strong historical record against the Angels at home, winning five of their last six meetings in Minnesota. Additionally, the Twins are motivated by their wild-card race and have a 6-4 record in their last 10 games, while the Angels are 2-8.",
+          "awayRecord": "38-57",
+          "homeRecord": "46-49",
           "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
             "W",
             "W",
             "W",
             "L",
             "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
           ]
         },
         {
           "game": "Chicago Cubs @ Cincinnati Reds",
-          "betType": "total",
-          "pick": "Over 10",
-          "odds": "-122",
-          "confidence": "medium",
-          "rationale": "This game features Hunter Greene starting for the Reds, who has an extremely high 21.60 ERA in his limited appearances this season. While Cubs starter Shota Imanaga has a decent ERA, he has shown susceptibility to home runs, which is a significant concern in the hitter-friendly Great American Ball Park. The Cubs possess a complete lineup capable of exploiting Greene's struggles and the park's tendencies. The combination of a struggling Reds pitcher, a hitter-friendly environment, and a strong Cubs offense points towards a high-scoring affair, making the Over 10 a high-confidence pick.",
-          "awayRecord": "52-41",
-          "homeRecord": "42-50",
+          "betType": "moneyline",
+          "pick": "Chicago Cubs",
+          "odds": "-104",
+          "confidence": "high",
+          "rationale": "The Chicago Cubs are entering this game with strong momentum, boasting an 8-2 record in their last 10 games and currently on a three-game winning streak. Their offense is hot, highlighted by Pete Crow-Armstrong's eight-game hitting streak and his status as the first 20-20 player in MLB this season. The Cincinnati Reds, on the other hand, are in poor form, having lost seven of their last ten games. Despite some pitching injuries for the Cubs, their superior recent performance and offensive firepower provide a clear edge against a struggling Reds team.",
+          "awayRecord": "52-42",
+          "homeRecord": "43-50",
           "awayLast5": [
+            "W",
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
-            "W",
             "L"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
             "W",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Colorado Rockies @ San Francisco Giants",
-          "betType": "spread",
-          "pick": "San Francisco Giants -1.5",
-          "odds": "+155",
+          "game": "Seattle Mariners @ Tampa Bay Rays",
+          "betType": "moneyline",
+          "pick": "Tampa Bay Rays",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "The San Francisco Giants hold a distinct pitching advantage with Robbie Ray on the mound against the Colorado Rockies' Tanner Gordon. The Rockies have a dismal road record of 16-32 this season, indicating their consistent struggles away from home. The Giants convincingly won the previous game in the series 8-2, demonstrating their ability to generate offense against Colorado. Oracle Park also helps suppress offense, which could aid Ray in a strong outing. Betting on the Giants to cover the -1.5 spread at +155 offers excellent value, as their pitching superiority and the Rockies' road woes suggest a multi-run victory for San Francisco.",
-          "awayRecord": "38-57",
-          "homeRecord": "39-54",
+          "rationale": "The Seattle Mariners are currently in a significant slump, evidenced by their 1-4 record in their last five games and a low .193 team batting average. Their recent offensive struggles make them vulnerable, especially against a strong opponent. The Tampa Bay Rays, with an impressive 55-37 overall record, are a superior team and are well-positioned to capitalize on the Mariners' poor form. The Mariners' struggles, including a recent 8-4 loss, highlight their current difficulties.",
+          "awayRecord": "47-48",
+          "homeRecord": "55-37",
           "awayLast5": [
             "W",
             "L",
-            "W",
+            "L",
             "L",
             "L"
           ],
           "homeLast5": [
             "L",
             "W",
-            "L",
+            "W",
             "L",
             "W"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers @ Pittsburgh Pirates",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers",
+          "odds": "-130",
+          "confidence": "medium",
+          "rationale": "The Milwaukee Brewers are in strong recent form, holding a 7-3 record over their last 10 games, demonstrating consistent performance. They have a significant betting trend as favorites, with a 156-94 record (+21.5 units) when the moneyline is -110 or higher. Furthermore, the Brewers possess one of the best bullpens in the league, which is a critical advantage, especially in a doubleheader scenario. Despite some pitching injuries, the Brewers' overall team strength, recent success, and bullpen depth give them a clear edge over the Pirates, who are 5-5 in their last 10 games.",
+          "awayRecord": "59-34",
+          "homeRecord": "47-47",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
           ]
         }
       ]
@@ -131,39 +131,39 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Belgium @ Spain",
-          "betType": "moneyline",
-          "pick": "Spain",
-          "odds": "-160",
-          "confidence": "high",
-          "rationale": "Spain enters this quarterfinal match in exceptional form, remaining unbeaten in 35 consecutive games and having not conceded a single goal throughout the 2026 World Cup tournament. Their defensive solidity is further highlighted by goalkeeper Unai Simón's World Cup-record 609-minute shutout streak. Historically, Spain has dominated Belgium, winning their last five encounters with an aggregate score of 13-1, showcasing a clear historical advantage. Furthermore, Belgium is significantly hampered by the absence of key midfielder Amadou Onana due to an ACL injury, which weakens their midfield against a strong Spanish side.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Belgium @ Spain",
+          "game": "England @ Norway",
           "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "+115",
-          "confidence": "medium",
-          "rationale": "Spain has demonstrated an impenetrable defense throughout this World Cup, keeping five clean sheets and conceding only one goal in their last six matches across all competitions. While Belgium has shown attacking prowess recently, Spain's ability to shut down opponents, especially in crucial knockout stages, is well-documented. The head-to-head history, despite Spain's dominance in wins, includes several low-scoring affairs, with Spain winning 2-0 multiple times. In a high-stakes quarterfinal match, both teams are likely to prioritize defensive solidity, leading to a tighter contest with fewer goals.",
+          "pick": "Over 2.5",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "Both England and Norway have demonstrated strong offensive capabilities in recent matches, with England scoring 11 goals in their last 5 and Norway netting 12 goals in their last 5. The betting market shows significant movement towards the Over, with 84% of bets and 87% of money placed on Over 2.5 goals. Furthermore, England faces defensive challenges with Jarell Quansah suspended and Reece James and Marc Guehi doubtful due to hamstring issues, which could lead to more scoring opportunities for Norway. Given the attacking form of both sides and England's defensive concerns, a high-scoring encounter is highly probable.",
           "awayLast5": [
             "W",
             "W",
             "W",
             "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Switzerland @ Argentina",
+          "betType": "moneyline",
+          "pick": "Argentina",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "Argentina holds a dominant historical advantage over Switzerland, remaining unbeaten in all seven previous meetings, including two World Cup clashes. Argentina is in exceptional form, having won their last five matches, including a thrilling 3-2 comeback victory against Egypt in the Round of 16. Switzerland will be significantly hampered by the absence of key midfielder Johan Manzambi, who is out with a knee injury and was a standout performer with 3 goals and 2 assists. The public betting overwhelmingly favors Argentina, with 85-91% of bets and money placed on their moneyline.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
             "L"
           ],
           "homeLast5": [
@@ -171,43 +171,43 @@
             "W",
             "W",
             "W",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Belgium @ Spain",
-          "betType": "prop",
-          "pick": "Mikel Oyarzabal Anytime Goalscorer",
+          "game": "England @ Norway",
+          "betType": "moneyline",
+          "pick": "England",
           "odds": "-105",
           "confidence": "high",
-          "rationale": "Mikel Oyarzabal is a key attacking player for Spain and is in excellent form, boasting 24 goal involvements in his last 18 national team appearances. He is confirmed active and expected to start for Spain in this quarterfinal match. Spain's offense has been scoring consistently in the tournament, with 9 goals in 5 games. Given Spain's offensive strength and Oyarzabal's recent scoring prowess, he is a strong candidate to find the back of the net.",
+          "rationale": "England boasts a strong historical head-to-head record against Norway, winning 7 of their 12 all-time encounters. The Three Lions are in excellent form, winning 4 of their last 5 matches, and displayed resilience in their 3-2 Round of 16 victory over Mexico despite playing with a man disadvantage. While Norway achieved a significant upset against Brazil, England's overall squad depth, tactical prowess, and the form of key players like Jude Bellingham and Harry Kane provide a solid foundation for a win. The odds reflect England as a slight favorite, and their experience in major tournaments should see them through.",
           "awayLast5": [
             "W",
             "W",
             "W",
             "L",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "W",
             "W",
+            "L",
             "W",
-            "W",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Belgium @ Spain",
-          "betType": "prop",
-          "pick": "Lamine Yamal Anytime Goalscorer",
-          "odds": "+145",
+          "game": "Switzerland @ Argentina",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-165",
           "confidence": "medium",
-          "rationale": "Lamine Yamal is a dynamic and active attacker for Spain, confirmed to be on the squad and expected to start in the quarterfinal. Spain's offense has been potent throughout the tournament, and Yamal is a significant part of their attacking threat. His inclusion in the starting lineup provides ample opportunity to impact the score sheet. Given Spain's overall offensive strength and Yamal's role, he has a good chance to score at favorable odds.",
+          "rationale": "Despite public betting leaning towards the Over, the line movement for Switzerland vs. Argentina has shifted significantly towards the Under 2.5, indicating sharp money. Switzerland is known for its disciplined and compact defensive style, which has seen them concede only 3 goals in their last 5 matches and not trail at any point during the 2026 World Cup cycle. The absence of key attacking midfielder Johan Manzambi for Switzerland further diminishes their offensive threat, making a lower-scoring affair more likely. Argentina, while potent, may find it challenging to break down a well-organized Swiss defense without Manzambi's creative influence opening up the game.",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "L",
+            "W",
             "L"
           ],
           "homeLast5": [
@@ -215,29 +215,29 @@
             "W",
             "W",
             "W",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Belgium @ Spain",
-          "betType": "prop",
-          "pick": "Charles De Ketelaere Anytime Goalscorer",
-          "odds": "+360",
+          "game": "England @ Norway",
+          "betType": "moneyline",
+          "pick": "Norway",
+          "odds": "+260",
           "confidence": "medium",
-          "rationale": "Charles De Ketelaere is in good form for Belgium, having scored a brace in their convincing 4-1 victory over the USMNT in the Round of 16. He is confirmed active and expected to start ahead of Romelu Lukaku, indicating his importance in Belgium's attacking setup. Despite Spain's formidable defense, Belgium has shown significant attacking power, scoring 12 goals in their last three World Cup matches. At +360 odds, this offers good value for a player in form and starting for an attacking team, even against a tough opponent.",
+          "rationale": "Norway enters this match with significant momentum after a stunning 2-1 upset victory over tournament favorite Brazil in the Round of 16, with Erling Haaland scoring a brace. England faces defensive concerns, including the suspension of Jarell Quansah and doubts over Reece James and Marc Guehi due to hamstring issues, which Norway's potent attack, led by Haaland, can exploit. While England has a strong historical record, Norway's recent form (4 wins in last 5) and the modest lean of public money towards them suggest value in an upset. This pick offers excellent value given Norway's recent performance against a top-ranked team.",
           "awayLast5": [
             "W",
             "W",
             "W",
             "L",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "W",
             "W",
+            "L",
             "W",
-            "W",
-            "L"
+            "W"
           ]
         }
       ]
