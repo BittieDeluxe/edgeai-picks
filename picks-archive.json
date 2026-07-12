@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-11",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Toronto Blue Jays @ San Diego Padres",
+            "betType": "moneyline",
+            "pick": "Toronto Blue Jays",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Toronto Blue Jays 7, San Diego Padres 8"
+          },
+          {
+            "game": "Los Angeles Angels @ Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Minnesota Twins",
+            "odds": "-172",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Angels 3, Minnesota Twins 5"
+          },
+          {
+            "game": "Chicago Cubs @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Chicago Cubs",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago Cubs 5, Cincinnati Reds 3"
+          },
+          {
+            "game": "Seattle Mariners @ Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Seattle Mariners 1, Tampa Bay Rays 6"
+          },
+          {
+            "game": "Milwaukee Brewers @ Pittsburgh Pirates",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Milwaukee Brewers 6, Pittsburgh Pirates 7"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "England @ Norway",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "W",
+            "score": "England 2, Norway 1"
+          },
+          {
+            "game": "Switzerland @ Argentina",
+            "betType": "moneyline",
+            "pick": "Argentina",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "W",
+            "score": "Switzerland 1, Argentina 3"
+          },
+          {
+            "game": "England @ Norway",
+            "betType": "moneyline",
+            "pick": "England",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "W",
+            "score": "England 2, Norway 1"
+          },
+          {
+            "game": "Switzerland @ Argentina",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-165",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Switzerland 1, Argentina 3"
+          },
+          {
+            "game": "England @ Norway",
+            "betType": "moneyline",
+            "pick": "Norway",
+            "odds": "+260",
+            "confidence": "medium",
+            "result": "L",
+            "score": "England 2, Norway 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-10",
     "sports": [
       {
@@ -1786,126 +1892,6 @@
             "confidence": "high",
             "result": "W",
             "score": "Bosnia-Herzegovina 1, Canada 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-11",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Vegas Golden Knights 2, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "moneyline",
-            "pick": "Carolina Hurricanes",
-            "odds": "-152",
-            "confidence": "high",
-            "result": "W",
-            "score": "Vegas Golden Knights 2, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "spread",
-            "pick": "Carolina Hurricanes -1.5",
-            "odds": "+164",
-            "confidence": "high",
-            "result": "W",
-            "score": "Vegas Golden Knights 2, Carolina Hurricanes 4"
-          },
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "prop",
-            "pick": "Jordan Staal Anytime Goal Scorer",
-            "odds": "N/A",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Vegas Golden Knights vs Carolina Hurricanes",
-            "betType": "prop",
-            "pick": "Brett Howden Anytime Goal Scorer",
-            "odds": "N/A",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "St. Louis Cardinals vs New York Mets",
-            "betType": "moneyline",
-            "pick": "St. Louis Cardinals",
-            "odds": "+300",
-            "confidence": "medium",
-            "result": "L",
-            "score": "St. Louis Cardinals 4, New York Mets 5"
-          },
-          {
-            "game": "Chicago Cubs vs Colorado Rockies",
-            "betType": "moneyline",
-            "pick": "Colorado Rockies",
-            "odds": "+114",
-            "confidence": "high",
-            "result": "L",
-            "score": "Chicago Cubs 9, Colorado Rockies 3"
-          },
-          {
-            "game": "Atlanta Braves vs Chicago White Sox",
-            "betType": "moneyline",
-            "pick": "Chicago White Sox",
-            "odds": "-102",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Los Angeles Dodgers vs Pittsburgh Pirates",
-            "betType": "spread",
-            "pick": "Pittsburgh Pirates +1.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Dodgers 8, Pittsburgh Pirates 6"
-          },
-          {
-            "game": "Seattle Mariners vs Baltimore Orioles",
-            "betType": "moneyline",
-            "pick": "Baltimore Orioles",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Mariners 5, Baltimore Orioles 7"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "South Africa @ Mexico",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "South Africa 0, Mexico 2"
           }
         ]
       }

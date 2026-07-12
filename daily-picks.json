@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-11",
-  "generatedAt": "2026-07-11T17:46:36.365Z",
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-12T17:52:04.338Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Toronto Blue Jays @ San Diego Padres",
+          "game": "Boston Red Sox @ New York Mets",
           "betType": "moneyline",
-          "pick": "Toronto Blue Jays",
-          "odds": "-104",
+          "pick": "Boston Red Sox",
+          "odds": "+116",
           "confidence": "high",
-          "rationale": "The Blue Jays are in significantly better recent form, winning three of their last four games, including a dominant 10-0 shutout victory over the Giants. In contrast, the San Diego Padres are struggling, having lost eleven of their last fourteen games and falling to the Blue Jays in yesterday's matchup. Blue Jays starter Trey Yesavage has been pitching exceptionally well, allowing two or fewer earned runs in his last three consecutive starts, and the Padres lineup is inexperienced against him. This combination of strong recent performance, pitching advantage, and head-to-head dominance makes the Blue Jays a high-confidence pick.",
-          "awayRecord": "45-49",
-          "homeRecord": "46-48",
+          "rationale": "The Red Sox are on an impressive eight-game winning streak, having swept their last two series on the road and aiming for a third. Rookie left-hander Payton Tolle, Boston's scheduled starter, is coming off a dominant outing where he pitched six scoreless innings. In contrast, the Mets' offense has been anemic, scoring only two runs in the first two games of this series and struggling with runners in scoring position. Key Mets player Bo Bichette is also dealing with an ankle injury, further hindering their offensive capabilities.",
+          "awayRecord": "45-48",
+          "homeRecord": "40-56",
           "awayLast5": [
-            "L",
-            "L",
+            "W",
+            "W",
             "W",
             "W",
             "W"
@@ -30,64 +30,16 @@
           ]
         },
         {
-          "game": "Los Angeles Angels @ Minnesota Twins",
-          "betType": "moneyline",
-          "pick": "Minnesota Twins",
-          "odds": "-172",
+          "game": "Athletics @ Chicago White Sox",
+          "betType": "spread",
+          "pick": "Chicago White Sox -1.5",
+          "odds": "+146",
           "confidence": "high",
-          "rationale": "The Minnesota Twins hold a significant pitching advantage with Joe Ryan (6-5, 2.85 ERA, 1.04 WHIP) on the mound, who is in excellent form after delivering back-to-back shutouts. Conversely, Angels starter Ryan Johnson has a high 6.99 ERA and 1.55 WHIP, particularly struggling on the road. The Twins have a strong historical record against the Angels at home, winning five of their last six meetings in Minnesota. Additionally, the Twins are motivated by their wild-card race and have a 6-4 record in their last 10 games, while the Angels are 2-8.",
-          "awayRecord": "38-57",
-          "homeRecord": "46-49",
+          "rationale": "The Chicago White Sox are coming off a dominant 14-1 victory over the Athletics just two days ago. The Athletics are in poor form, having lost four of their last five games, and are missing key first baseman Nick Kurtz due to a thumb injury. This recent head-to-head blowout, coupled with the Athletics' struggles and injury, gives the White Sox a significant advantage to win by more than one run.",
+          "awayRecord": "41-54",
+          "homeRecord": "49-45",
           "awayLast5": [
             "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Chicago Cubs @ Cincinnati Reds",
-          "betType": "moneyline",
-          "pick": "Chicago Cubs",
-          "odds": "-104",
-          "confidence": "high",
-          "rationale": "The Chicago Cubs are entering this game with strong momentum, boasting an 8-2 record in their last 10 games and currently on a three-game winning streak. Their offense is hot, highlighted by Pete Crow-Armstrong's eight-game hitting streak and his status as the first 20-20 player in MLB this season. The Cincinnati Reds, on the other hand, are in poor form, having lost seven of their last ten games. Despite some pitching injuries for the Cubs, their superior recent performance and offensive firepower provide a clear edge against a struggling Reds team.",
-          "awayRecord": "52-42",
-          "homeRecord": "43-50",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Seattle Mariners @ Tampa Bay Rays",
-          "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "The Seattle Mariners are currently in a significant slump, evidenced by their 1-4 record in their last five games and a low .193 team batting average. Their recent offensive struggles make them vulnerable, especially against a strong opponent. The Tampa Bay Rays, with an impressive 55-37 overall record, are a superior team and are well-positioned to capitalize on the Mariners' poor form. The Mariners' struggles, including a recent 8-4 loss, highlight their current difficulties.",
-          "awayRecord": "47-48",
-          "homeRecord": "55-37",
-          "awayLast5": [
-            "W",
             "L",
             "L",
             "L",
@@ -95,149 +47,82 @@
           ],
           "homeLast5": [
             "L",
-            "W",
-            "W",
             "L",
+            "L",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Milwaukee Brewers @ Pittsburgh Pirates",
+          "game": "Atlanta Braves @ St. Louis Cardinals",
           "betType": "moneyline",
-          "pick": "Milwaukee Brewers",
+          "pick": "St. Louis Cardinals",
           "odds": "-130",
-          "confidence": "medium",
-          "rationale": "The Milwaukee Brewers are in strong recent form, holding a 7-3 record over their last 10 games, demonstrating consistent performance. They have a significant betting trend as favorites, with a 156-94 record (+21.5 units) when the moneyline is -110 or higher. Furthermore, the Brewers possess one of the best bullpens in the league, which is a critical advantage, especially in a doubleheader scenario. Despite some pitching injuries, the Brewers' overall team strength, recent success, and bullpen depth give them a clear edge over the Pirates, who are 5-5 in their last 10 games.",
-          "awayRecord": "59-34",
-          "homeRecord": "47-47",
+          "confidence": "high",
+          "rationale": "The St. Louis Cardinals have demonstrated recent superiority over the Atlanta Braves, winning their last two head-to-head matchups by identical 2-1 scores. The Cardinals also hold a 4-1 record in their last five games against the Braves. Atlanta is struggling, having lost four of their last five overall games, and is without outfielder Mike Yastrzemski due to elbow inflammation.",
+          "awayRecord": "54-40",
+          "homeRecord": "50-44",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
             "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
             "W",
             "W",
             "L",
             "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "WORLDCUP",
-      "picks": [
+        },
         {
-          "game": "England @ Norway",
+          "game": "Arizona Diamondbacks @ Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Arizona Diamondbacks +1.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Arizona Diamondbacks are currently on a three-game winning streak, with all three victories coming against the Los Angeles Dodgers in this series. The Dodgers, despite their strong overall record, are in a significant slump, having lost their last three games to the Diamondbacks and four of their last five overall. While the Diamondbacks are missing Zac Gallen, their recent performance against the Dodgers, who are also missing Will Smith, suggests they can keep this game close or even win outright.",
+          "awayRecord": "48-47",
+          "homeRecord": "61-35",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Cleveland Guardians @ Miami Marlins",
           "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-145",
-          "confidence": "high",
-          "rationale": "Both England and Norway have demonstrated strong offensive capabilities in recent matches, with England scoring 11 goals in their last 5 and Norway netting 12 goals in their last 5. The betting market shows significant movement towards the Over, with 84% of bets and 87% of money placed on Over 2.5 goals. Furthermore, England faces defensive challenges with Jarell Quansah suspended and Reece James and Marc Guehi doubtful due to hamstring issues, which could lead to more scoring opportunities for Norway. Given the attacking form of both sides and England's defensive concerns, a high-scoring encounter is highly probable.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Switzerland @ Argentina",
-          "betType": "moneyline",
-          "pick": "Argentina",
-          "odds": "-145",
-          "confidence": "high",
-          "rationale": "Argentina holds a dominant historical advantage over Switzerland, remaining unbeaten in all seven previous meetings, including two World Cup clashes. Argentina is in exceptional form, having won their last five matches, including a thrilling 3-2 comeback victory against Egypt in the Round of 16. Switzerland will be significantly hampered by the absence of key midfielder Johan Manzambi, who is out with a knee injury and was a standout performer with 3 goals and 2 assists. The public betting overwhelmingly favors Argentina, with 85-91% of bets and money placed on their moneyline.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "England @ Norway",
-          "betType": "moneyline",
-          "pick": "England",
-          "odds": "-105",
-          "confidence": "high",
-          "rationale": "England boasts a strong historical head-to-head record against Norway, winning 7 of their 12 all-time encounters. The Three Lions are in excellent form, winning 4 of their last 5 matches, and displayed resilience in their 3-2 Round of 16 victory over Mexico despite playing with a man disadvantage. While Norway achieved a significant upset against Brazil, England's overall squad depth, tactical prowess, and the form of key players like Jude Bellingham and Harry Kane provide a solid foundation for a win. The odds reflect England as a slight favorite, and their experience in major tournaments should see them through.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Switzerland @ Argentina",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-165",
+          "pick": "Over 9.5",
+          "odds": "-104",
           "confidence": "medium",
-          "rationale": "Despite public betting leaning towards the Over, the line movement for Switzerland vs. Argentina has shifted significantly towards the Under 2.5, indicating sharp money. Switzerland is known for its disciplined and compact defensive style, which has seen them concede only 3 goals in their last 5 matches and not trail at any point during the 2026 World Cup cycle. The absence of key attacking midfielder Johan Manzambi for Switzerland further diminishes their offensive threat, making a lower-scoring affair more likely. Argentina, while potent, may find it challenging to break down a well-organized Swiss defense without Manzambi's creative influence opening up the game.",
+          "rationale": "Both the Guardians and Marlins offenses have shown recent power, with Miami hitting 19 home runs and slugging .521 in their last 10 games, and Cleveland hitting 14 home runs with a .406 slugging percentage in the same span. The Marlins' pitching staff has a 4.45 ERA over their last 10 outings, while the Guardians' staff holds a 3.43 ERA, but both have allowed a significant number of home runs. With two offenses in good form and pitching that has shown vulnerability, especially from the Marlins, this game has a high probability of exceeding the 9.5 total.",
+          "awayRecord": "50-46",
+          "homeRecord": "52-44",
           "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "England @ Norway",
-          "betType": "moneyline",
-          "pick": "Norway",
-          "odds": "+260",
-          "confidence": "medium",
-          "rationale": "Norway enters this match with significant momentum after a stunning 2-1 upset victory over tournament favorite Brazil in the Round of 16, with Erling Haaland scoring a brace. England faces defensive concerns, including the suspension of Jarell Quansah and doubts over Reece James and Marc Guehi due to hamstring issues, which Norway's potent attack, led by Haaland, can exploit. While England has a strong historical record, Norway's recent form (4 wins in last 5) and the modest lean of public money towards them suggest value in an upset. This pick offers excellent value given Norway's recent performance against a top-ranked team.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
           ]
         }
       ]
