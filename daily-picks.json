@@ -1,129 +1,33 @@
 {
-  "date": "2026-07-12",
-  "generatedAt": "2026-07-12T17:52:04.338Z",
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T18:26:28.351Z",
   "sports": [
     {
-      "sport": "MLB",
+      "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Boston Red Sox @ New York Mets",
-          "betType": "moneyline",
-          "pick": "Boston Red Sox",
-          "odds": "+116",
-          "confidence": "high",
-          "rationale": "The Red Sox are on an impressive eight-game winning streak, having swept their last two series on the road and aiming for a third. Rookie left-hander Payton Tolle, Boston's scheduled starter, is coming off a dominant outing where he pitched six scoreless innings. In contrast, the Mets' offense has been anemic, scoring only two runs in the first two games of this series and struggling with runners in scoring position. Key Mets player Bo Bichette is also dealing with an ankle injury, further hindering their offensive capabilities.",
-          "awayRecord": "45-48",
-          "homeRecord": "40-56",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Athletics @ Chicago White Sox",
-          "betType": "spread",
-          "pick": "Chicago White Sox -1.5",
-          "odds": "+146",
-          "confidence": "high",
-          "rationale": "The Chicago White Sox are coming off a dominant 14-1 victory over the Athletics just two days ago. The Athletics are in poor form, having lost four of their last five games, and are missing key first baseman Nick Kurtz due to a thumb injury. This recent head-to-head blowout, coupled with the Athletics' struggles and injury, gives the White Sox a significant advantage to win by more than one run.",
-          "awayRecord": "41-54",
-          "homeRecord": "49-45",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ St. Louis Cardinals",
-          "betType": "moneyline",
-          "pick": "St. Louis Cardinals",
-          "odds": "-130",
-          "confidence": "high",
-          "rationale": "The St. Louis Cardinals have demonstrated recent superiority over the Atlanta Braves, winning their last two head-to-head matchups by identical 2-1 scores. The Cardinals also hold a 4-1 record in their last five games against the Braves. Atlanta is struggling, having lost four of their last five overall games, and is without outfielder Mike Yastrzemski due to elbow inflammation.",
-          "awayRecord": "54-40",
-          "homeRecord": "50-44",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Arizona Diamondbacks @ Los Angeles Dodgers",
-          "betType": "spread",
-          "pick": "Arizona Diamondbacks +1.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "The Arizona Diamondbacks are currently on a three-game winning streak, with all three victories coming against the Los Angeles Dodgers in this series. The Dodgers, despite their strong overall record, are in a significant slump, having lost their last three games to the Diamondbacks and four of their last five overall. While the Diamondbacks are missing Zac Gallen, their recent performance against the Dodgers, who are also missing Will Smith, suggests they can keep this game close or even win outright.",
-          "awayRecord": "48-47",
-          "homeRecord": "61-35",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Cleveland Guardians @ Miami Marlins",
+          "game": "Spain @ France",
           "betType": "total",
-          "pick": "Over 9.5",
-          "odds": "-104",
+          "pick": "Under 2.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Both the Guardians and Marlins offenses have shown recent power, with Miami hitting 19 home runs and slugging .521 in their last 10 games, and Cleveland hitting 14 home runs with a .406 slugging percentage in the same span. The Marlins' pitching staff has a 4.45 ERA over their last 10 outings, while the Guardians' staff holds a 3.43 ERA, but both have allowed a significant number of home runs. With two offenses in good form and pitching that has shown vulnerability, especially from the Marlins, this game has a high probability of exceeding the 9.5 total.",
-          "awayRecord": "50-46",
-          "homeRecord": "52-44",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
+          "rationale": "Both France and Spain boast exceptional defensive records in this World Cup, with Spain keeping six clean sheets prior to their quarter-final and France recording four consecutive clean sheets. Semi-final matches are historically cagey and low-scoring due to the high stakes, further supported by 23 of 28 knockout first halves going under 1.5 goals in this tournament. The market initially favored Under 2.5 at -155, and the current -110 odds offer good value for a game projected to be 1-0 in favor of France."
+        },
+        {
+          "game": "Spain @ France",
+          "betType": "moneyline",
+          "pick": "Spain (+225)",
+          "odds": "+225",
+          "confidence": "medium",
+          "rationale": "Spain presents significant value as an underdog, having won three of their last four head-to-head encounters against France, including a 5-4 victory in 2025 and a 2-1 win in 2024. Their defensive solidity in the World Cup, with six clean sheets prior to the quarter-finals, demonstrates their ability to stifle opponents. Furthermore, the line movement from an implied opening of +380 to the current +225 suggests growing market confidence in Spain's chances."
+        },
+        {
+          "game": "Spain @ France",
+          "betType": "moneyline",
+          "pick": "France (+135)",
+          "odds": "+135",
+          "confidence": "medium",
+          "rationale": "France has been dominant in this World Cup, winning all six of their matches with an impressive +14 goal differential and four consecutive clean sheets in the knockout stages. Historically, France holds a perfect record in World Cup knockout appearances as the listed favorite since 2006. While recent head-to-head favors Spain, France's current tournament form, combined with the confirmed fitness of key player Kylian Mbappe, who has 8 goals in the tournament, makes them a strong contender to win."
         }
       ]
     }

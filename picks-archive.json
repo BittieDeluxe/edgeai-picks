@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-12",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Boston Red Sox @ New York Mets",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox",
+            "odds": "+116",
+            "confidence": "high",
+            "result": "W",
+            "score": "Boston Red Sox 3, New York Mets 2"
+          },
+          {
+            "game": "Athletics @ Chicago White Sox",
+            "betType": "spread",
+            "pick": "Chicago White Sox -1.5",
+            "odds": "+146",
+            "confidence": "high",
+            "result": "W",
+            "score": "Athletics 1, Chicago White Sox 9"
+          },
+          {
+            "game": "Atlanta Braves @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta Braves 4, St. Louis Cardinals 3"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Arizona Diamondbacks +1.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arizona Diamondbacks 5, Los Angeles Dodgers 3"
+          },
+          {
+            "game": "Cleveland Guardians @ Miami Marlins",
+            "betType": "total",
+            "pick": "Over 9.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Guardians 5, Miami Marlins 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-11",
     "sports": [
       {
@@ -1826,76 +1882,6 @@
   {
     "date": "2026-06-13",
     "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-12",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Miami Marlins vs Pittsburgh Pirates",
-            "betType": "moneyline",
-            "pick": "Miami Marlins",
-            "odds": "+126",
-            "confidence": "high",
-            "result": "W",
-            "score": "Miami Marlins 8, Pittsburgh Pirates 3"
-          },
-          {
-            "game": "Detroit Tigers vs Cleveland Guardians",
-            "betType": "moneyline",
-            "pick": "Detroit Tigers",
-            "odds": "-146",
-            "confidence": "high",
-            "result": "L",
-            "score": "Detroit Tigers 2, Cleveland Guardians 3"
-          },
-          {
-            "game": "Arizona Diamondbacks vs Cincinnati Reds",
-            "betType": "moneyline",
-            "pick": "Arizona Diamondbacks",
-            "odds": "-136",
-            "confidence": "high",
-            "result": "W",
-            "score": "Arizona Diamondbacks 5, Cincinnati Reds 2"
-          },
-          {
-            "game": "Atlanta Braves vs New York Mets",
-            "betType": "moneyline",
-            "pick": "New York Mets",
-            "odds": "-116",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Atlanta Braves 5, New York Mets 7"
-          },
-          {
-            "game": "Colorado Rockies vs Athletics",
-            "betType": "spread",
-            "pick": "Athletics -1.5",
-            "odds": "-113",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Colorado Rockies 4, Athletics 6"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Bosnia-Herzegovina @ Canada",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-140",
-            "confidence": "high",
-            "result": "W",
-            "score": "Bosnia-Herzegovina 1, Canada 1"
-          }
-        ]
-      }
-    ],
     "playerProps": []
   }
 ]
