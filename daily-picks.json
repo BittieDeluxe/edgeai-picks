@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-13",
-  "generatedAt": "2026-07-13T18:26:28.351Z",
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-14T17:56:16.643Z",
   "sports": [
     {
       "sport": "WORLDCUP",
@@ -9,25 +9,111 @@
           "game": "Spain @ France",
           "betType": "total",
           "pick": "Under 2.5",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "Spain's defensive record in the tournament is exceptional, having conceded only one goal across six matches and keeping six consecutive clean sheets. This defensive solidity, coupled with the typically cautious nature of a World Cup semi-final, strongly suggests a low-scoring affair. Historically, Spain's World Cup knockout matches since 2010 have seen under 2.5 goals in seven out of nine instances. Both teams will prioritize not conceding, making goals a premium in this high-stakes encounter.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Spain @ France",
+          "betType": "moneyline",
+          "pick": "France",
+          "odds": "+145",
+          "confidence": "high",
+          "rationale": "France enters this semi-final with a perfect 6-0 record in the tournament, showcasing exceptional form and winning all their matches. Their attack, spearheaded by Kylian Mbappé, who has 8 goals, has scored 16 goals in six matches. While Spain's defense is formidable, France's ability to create and convert chances, even against elite defenses, gives them an edge. France is expected to field a strong lineup with Mbappé and Tchouaméni.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Spain @ France",
+          "betType": "moneyline",
+          "pick": "Spain",
+          "odds": "+220",
+          "confidence": "medium",
+          "rationale": "Spain boasts an impressive national-record 36-game unbeaten streak and has conceded only one goal throughout the current World Cup campaign. They have also demonstrated a knack for winning against France in recent high-stakes encounters, including the 2025 Nations League semi-final (5-4) and the 2024 European Championship semi-final (2-1). The significant line movement towards Spain from an opening of +380 to the current +220 suggests increased market confidence in their ability to pull off the upset. Their defensive resilience and recent head-to-head success against France make Spain at +220 a compelling high-confidence pick.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Spain @ France",
+          "betType": "total",
+          "pick": "Over 2.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Both France and Spain boast exceptional defensive records in this World Cup, with Spain keeping six clean sheets prior to their quarter-final and France recording four consecutive clean sheets. Semi-final matches are historically cagey and low-scoring due to the high stakes, further supported by 23 of 28 knockout first halves going under 1.5 goals in this tournament. The market initially favored Under 2.5 at -155, and the current -110 odds offer good value for a game projected to be 1-0 in favor of France."
+          "rationale": "Despite both teams' strong defenses, recent head-to-head matchups between Spain and France have been surprisingly high-scoring, with the last two semi-finals seeing 5-4 and 2-1 scorelines. France's potent attack has netted 16 goals in six matches, while Spain has scored 11. Key offensive players like Kylian Mbappé (8 goals) and Ousmane Dembélé (5 goals) for France, along with Spain's Lamine Yamal and Mikel Oyarzabal, possess the quality to break down even the best defenses. This offensive firepower could lead to a more open game than anticipated for a semi-final.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
         },
         {
           "game": "Spain @ France",
-          "betType": "moneyline",
-          "pick": "Spain (+225)",
-          "odds": "+225",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "Spain presents significant value as an underdog, having won three of their last four head-to-head encounters against France, including a 5-4 victory in 2025 and a 2-1 win in 2024. Their defensive solidity in the World Cup, with six clean sheets prior to the quarter-finals, demonstrates their ability to stifle opponents. Furthermore, the line movement from an implied opening of +380 to the current +225 suggests growing market confidence in Spain's chances."
-        },
-        {
-          "game": "Spain @ France",
-          "betType": "moneyline",
-          "pick": "France (+135)",
-          "odds": "+135",
-          "confidence": "medium",
-          "rationale": "France has been dominant in this World Cup, winning all six of their matches with an impressive +14 goal differential and four consecutive clean sheets in the knockout stages. Historically, France holds a perfect record in World Cup knockout appearances as the listed favorite since 2006. While recent head-to-head favors Spain, France's current tournament form, combined with the confirmed fitness of key player Kylian Mbappe, who has 8 goals in the tournament, makes them a strong contender to win."
+          "rationale": "France has demonstrated formidable defensive capabilities, recording four consecutive clean sheets in the knockout rounds of this tournament and conceding only two goals overall. While both teams possess potent attacks, their defensive discipline and the immense pressure of a World Cup semi-final are likely to lead to a tightly contested match with limited scoring opportunities. The expected return of Aurélien Tchouaméni to France's midfield will further bolster their defensive balance. This tactical battle is set to be a low-scoring affair.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
         }
       ]
     }

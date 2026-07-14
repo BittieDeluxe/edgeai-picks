@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-07-13",
+    "sports": [
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Spain @ France",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Spain @ France",
+            "betType": "moneyline",
+            "pick": "Spain (+225)",
+            "odds": "+225",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Spain @ France",
+            "betType": "moneyline",
+            "pick": "France (+135)",
+            "odds": "+135",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-12",
     "sports": [
       {
@@ -1876,11 +1914,6 @@
   },
   {
     "date": "2026-06-14",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-13",
     "sports": [],
     "playerProps": []
   }
