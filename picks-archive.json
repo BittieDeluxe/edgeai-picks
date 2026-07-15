@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-14",
+    "sports": [
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Spain @ France",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Spain 2, France 0"
+          },
+          {
+            "game": "Spain @ France",
+            "betType": "moneyline",
+            "pick": "France",
+            "odds": "+145",
+            "confidence": "high",
+            "result": "L",
+            "score": "Spain 2, France 0"
+          },
+          {
+            "game": "Spain @ France",
+            "betType": "moneyline",
+            "pick": "Spain",
+            "odds": "+220",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Spain 2, France 0"
+          },
+          {
+            "game": "Spain @ France",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Spain 2, France 0"
+          },
+          {
+            "game": "Spain @ France",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Spain 2, France 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-13",
     "sports": [
       {
@@ -11,8 +67,8 @@
             "pick": "Under 2.5",
             "odds": "-110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Spain 2, France 0"
           },
           {
             "game": "Spain @ France",
@@ -20,8 +76,8 @@
             "pick": "Spain (+225)",
             "odds": "+225",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Spain 2, France 0"
           },
           {
             "game": "Spain @ France",
@@ -29,8 +85,8 @@
             "pick": "France (+135)",
             "odds": "+135",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Spain 2, France 0"
           }
         ]
       }
@@ -1909,11 +1965,6 @@
   },
   {
     "date": "2026-06-15",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-14",
     "sports": [],
     "playerProps": []
   }

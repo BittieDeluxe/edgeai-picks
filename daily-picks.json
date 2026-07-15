@@ -1,117 +1,138 @@
 {
-  "date": "2026-07-14",
-  "generatedAt": "2026-07-14T17:56:16.643Z",
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-15T18:00:37.751Z",
   "sports": [
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Toronto FC @ CF Montreal",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-175",
+          "confidence": "high",
+          "rationale": "Both Toronto FC and CF Montreal have demonstrated a strong propensity for high-scoring matches this season. Montreal has seen Over 2.5 goals in 7 of their last 10 matches and Over 1.5 goals in 30 of their last 31 games across all competitions. Toronto FC's games have also frequently gone Over 2.5 goals, occurring in 8 of their last 10 and in their previous three MLS fixtures, with both teams scoring in their last 12 consecutive matches. Head-to-head history further supports this trend, as five of their last six encounters have featured both teams scoring, and four of those saw Over 2.5 goals, including a seven-goal thriller the last time they met at Saputo Stadium. Given Toronto's defensive fragility, having conceded in 12 straight games, and Montreal's consistent attacking output, the Over 2.5 at -175 is a high-confidence play."
+        },
+        {
+          "game": "Toronto FC @ CF Montreal",
+          "betType": "moneyline",
+          "pick": "CF Montreal",
+          "odds": "-105",
+          "confidence": "high",
+          "rationale": "CF Montreal enters this Canadian Classique with a significant advantage due to Toronto FC's dismal form and extensive injury list. Toronto FC is currently on an eight-game winless streak in MLS, including five consecutive losses across all competitions, and has lost five of their last six away league matches. Compounding their struggles, Toronto FC is missing a substantial number of key players due to injury, including Lazar Stefanovic, Markus Cimermancic, Matheus Pereira de Souza, Jules-Anthony Vilsaint, Deandre Christopher Kerr, Theodor Corbeanu, Josh Sargent, Djordje Mihailovic, Henry Wingo, Richie Laryea, Benjamin Kuscevic, and Jonathan Osorio. In contrast, CF Montreal has recently gained match fitness and confidence from winning both legs of their Canadian Championship quarterfinal ties. Playing at home at Saputo Stadium, where they have won three of their last five MLS games, Montreal at -105 offers excellent value against a severely depleted and struggling Toronto side."
+        }
+      ]
+    },
     {
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "Spain @ France",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "Spain's defensive record in the tournament is exceptional, having conceded only one goal across six matches and keeping six consecutive clean sheets. This defensive solidity, coupled with the typically cautious nature of a World Cup semi-final, strongly suggests a low-scoring affair. Historically, Spain's World Cup knockout matches since 2010 have seen under 2.5 goals in seven out of nine instances. Both teams will prioritize not conceding, making goals a premium in this high-stakes encounter.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Spain @ France",
+          "game": "Argentina @ England",
           "betType": "moneyline",
-          "pick": "France",
-          "odds": "+145",
+          "pick": "England (+165)",
+          "odds": "+165",
           "confidence": "high",
-          "rationale": "France enters this semi-final with a perfect 6-0 record in the tournament, showcasing exceptional form and winning all their matches. Their attack, spearheaded by Kylian Mbappé, who has 8 goals, has scored 16 goals in six matches. While Spain's defense is formidable, France's ability to create and convert chances, even against elite defenses, gives them an edge. France is expected to field a strong lineup with Mbappé and Tchouaméni.",
+          "rationale": "England holds a favorable head-to-head record against Argentina in World Cup matches, with three wins to Argentina's two. Argentina has shown vulnerabilities in their recent knockout stage games, requiring extra time against Cape Verde and Switzerland, and overcoming a two-goal deficit against Egypt. England enters this semifinal with key players Jude Bellingham and Harry Kane in exceptional scoring form, each having netted six goals in the tournament, and Declan Rice is confirmed fit to anchor the midfield. The slight line movement towards England also suggests growing confidence in their ability to secure a victory in regulation time.",
           "awayLast5": [
             "W",
             "W",
             "W",
             "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Spain @ France",
-          "betType": "moneyline",
-          "pick": "Spain",
-          "odds": "+220",
-          "confidence": "medium",
-          "rationale": "Spain boasts an impressive national-record 36-game unbeaten streak and has conceded only one goal throughout the current World Cup campaign. They have also demonstrated a knack for winning against France in recent high-stakes encounters, including the 2025 Nations League semi-final (5-4) and the 2024 European Championship semi-final (2-1). The significant line movement towards Spain from an opening of +380 to the current +220 suggests increased market confidence in their ability to pull off the upset. Their defensive resilience and recent head-to-head success against France make Spain at +220 a compelling high-confidence pick.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Spain @ France",
+          "game": "Argentina @ England",
           "betType": "total",
           "pick": "Over 2.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Despite both teams' strong defenses, recent head-to-head matchups between Spain and France have been surprisingly high-scoring, with the last two semi-finals seeing 5-4 and 2-1 scorelines. France's potent attack has netted 16 goals in six matches, while Spain has scored 11. Key offensive players like Kylian Mbappé (8 goals) and Ousmane Dembélé (5 goals) for France, along with Spain's Lamine Yamal and Mikel Oyarzabal, possess the quality to break down even the best defenses. This offensive firepower could lead to a more open game than anticipated for a semi-final.",
+          "odds": "+150",
+          "confidence": "high",
+          "rationale": "Both Argentina and England possess formidable attacking talent, with Lionel Messi leading the Golden Boot race with eight goals, and Harry Kane and Jude Bellingham each contributing six goals for England. Argentina has consistently found the back of the net, scoring in all six of their World Cup matches, while England has scored in five of their six fixtures. Furthermore, both teams have exhibited defensive vulnerabilities throughout the tournament; Argentina has not kept a clean sheet in their last four matches, and England has yet to record one in the knockout stage. This combination of potent offenses and permeable defenses points towards a high-scoring encounter.",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
             "W",
             "W",
             "W",
             "W",
             "W"
-          ]
-        },
-        {
-          "game": "Spain @ France",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "France has demonstrated formidable defensive capabilities, recording four consecutive clean sheets in the knockout rounds of this tournament and conceding only two goals overall. While both teams possess potent attacks, their defensive discipline and the immense pressure of a World Cup semi-final are likely to lead to a tightly contested match with limited scoring opportunities. The expected return of Aurélien Tchouaméni to France's midfield will further bolster their defensive balance. This tactical battle is set to be a low-scoring affair.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Argentina @ England",
+          "betType": "prop",
+          "pick": "Lionel Messi Anytime Goalscorer",
+          "odds": "+145",
+          "confidence": "high",
+          "rationale": "Lionel Messi is the driving force behind Argentina's offense and currently leads the World Cup with eight goals, showcasing his exceptional form and importance to the team. He is confirmed active and expected to start for Argentina in this crucial semifinal clash. Given Argentina's reliance on his individual brilliance, including his prowess from set-pieces and penalties, Messi is a prime candidate to score at any point during the match. The odds of +145 offer good value for a player of his caliber in such a high-stakes game.",
+          "awayLast5": [
             "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Argentina @ England",
+          "betType": "prop",
+          "pick": "Harry Kane Anytime Goalscorer",
+          "odds": "+180",
+          "confidence": "medium",
+          "rationale": "Harry Kane is a prolific goalscorer and a central figure in England's attacking strategy, having already registered six goals in the tournament. He is confirmed active and will lead the line for England in their starting lineup. Argentina's fullbacks, Nahuel Molina and Nicolas Tagliafico, have been identified as potential defensive weaknesses that England's pacy wingers could exploit to create scoring opportunities. Kane's clinical finishing and ability to convert chances make him a strong contender to score, especially with service from players like Jude Bellingham.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Argentina @ England",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "-165",
+          "confidence": "medium",
+          "rationale": "Despite the attacking talent on display, World Cup semifinals are often tight, cagey affairs where teams prioritize defensive solidity. The verified line for Under 2.5 has seen money come in, moving the Over from +130 to +150 while the Under remains at -165, indicating sharp action on fewer goals. Both teams have a lot to lose, and a cautious approach, especially in the early stages, is probable. While both teams have scored consistently, the immense pressure of a semifinal could lead to a more conservative game plan, limiting clear-cut scoring chances and potentially resulting in a low-scoring outcome.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
             "W"
           ]
         }
