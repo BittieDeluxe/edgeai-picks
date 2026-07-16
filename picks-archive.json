@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-07-15",
+    "sports": [
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Toronto FC @ CF Montreal",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Toronto FC @ CF Montreal",
+            "betType": "moneyline",
+            "pick": "CF Montreal",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Argentina @ England",
+            "betType": "moneyline",
+            "pick": "England (+165)",
+            "odds": "+165",
+            "confidence": "high",
+            "result": "L",
+            "score": "Argentina 2, England 1"
+          },
+          {
+            "game": "Argentina @ England",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "+150",
+            "confidence": "high",
+            "result": "W",
+            "score": "Argentina 2, England 1"
+          },
+          {
+            "game": "Argentina @ England",
+            "betType": "prop",
+            "pick": "Lionel Messi Anytime Goalscorer",
+            "odds": "+145",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Argentina @ England",
+            "betType": "prop",
+            "pick": "Harry Kane Anytime Goalscorer",
+            "odds": "+180",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Argentina @ England",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-165",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Argentina 2, England 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-14",
     "sports": [
       {
@@ -1960,11 +2039,6 @@
   },
   {
     "date": "2026-06-16",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-15",
     "sports": [],
     "playerProps": []
   }

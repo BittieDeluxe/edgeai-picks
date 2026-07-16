@@ -1,140 +1,184 @@
 {
-  "date": "2026-07-15",
-  "generatedAt": "2026-07-15T18:00:37.751Z",
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T17:58:43.467Z",
   "sports": [
     {
-      "sport": "MLS",
+      "sport": "MLB",
       "picks": [
         {
-          "game": "Toronto FC @ CF Montreal",
+          "game": "New York Mets vs Philadelphia Phillies",
           "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-175",
-          "confidence": "high",
-          "rationale": "Both Toronto FC and CF Montreal have demonstrated a strong propensity for high-scoring matches this season. Montreal has seen Over 2.5 goals in 7 of their last 10 matches and Over 1.5 goals in 30 of their last 31 games across all competitions. Toronto FC's games have also frequently gone Over 2.5 goals, occurring in 8 of their last 10 and in their previous three MLS fixtures, with both teams scoring in their last 12 consecutive matches. Head-to-head history further supports this trend, as five of their last six encounters have featured both teams scoring, and four of those saw Over 2.5 goals, including a seven-goal thriller the last time they met at Saputo Stadium. Given Toronto's defensive fragility, having conceded in 12 straight games, and Montreal's consistent attacking output, the Over 2.5 at -175 is a high-confidence play."
+          "pick": "Under 9.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The total opened at 10 and has seen significant line movement towards the Under, now sitting at 9.5 with the Under juiced, indicating sharp money. Christian Scott, despite returning from injury, holds a respectable 3.17 ERA for the Mets, while Aaron Nola of the Phillies has shown excellent recent form with a 0.94 WHIP and an 18:0 K:BB ratio over his last three starts, despite a high season ERA. The Mets' offense has been among the least productive in the league, particularly on the road. Furthermore, four of the last five head-to-head matchups between these two teams have gone Under the current 9.5 total.",
+          "awayRecord": "40-57",
+          "homeRecord": "54-43",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
         },
         {
-          "game": "Toronto FC @ CF Montreal",
+          "game": "New York Mets vs Philadelphia Phillies",
           "betType": "moneyline",
-          "pick": "CF Montreal",
-          "odds": "-105",
+          "pick": "Philadelphia Phillies",
+          "odds": "-130",
           "confidence": "high",
-          "rationale": "CF Montreal enters this Canadian Classique with a significant advantage due to Toronto FC's dismal form and extensive injury list. Toronto FC is currently on an eight-game winless streak in MLS, including five consecutive losses across all competitions, and has lost five of their last six away league matches. Compounding their struggles, Toronto FC is missing a substantial number of key players due to injury, including Lazar Stefanovic, Markus Cimermancic, Matheus Pereira de Souza, Jules-Anthony Vilsaint, Deandre Christopher Kerr, Theodor Corbeanu, Josh Sargent, Djordje Mihailovic, Henry Wingo, Richie Laryea, Benjamin Kuscevic, and Jonathan Osorio. In contrast, CF Montreal has recently gained match fitness and confidence from winning both legs of their Canadian Championship quarterfinal ties. Playing at home at Saputo Stadium, where they have won three of their last five MLS games, Montreal at -105 offers excellent value against a severely depleted and struggling Toronto side."
+          "rationale": "The Philadelphia Phillies enter this game with a significantly better record of 54-43 and are firmly in the playoff race, while the New York Mets are 40-57 and in last place. The Phillies also benefit from playing at home in Citizens Bank Park. Although Mets starter Christian Scott has a lower ERA, Phillies starter Aaron Nola has demonstrated strong recent command and the Phillies boast superior lineup depth and bullpen strength. Historically, the Phillies have dominated recent head-to-head matchups, winning four of the last five games against the Mets.",
+          "awayRecord": "40-57",
+          "homeRecord": "54-43",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "New York Mets vs Philadelphia Phillies",
+          "betType": "spread",
+          "pick": "Philadelphia Phillies -1.5",
+          "odds": "+150",
+          "confidence": "high",
+          "rationale": "This pick offers a favorable payout at +150, aligning with the Phillies' strong position as a playoff contender playing at home against a struggling Mets team. Philadelphia has a clear motivation advantage, aiming to keep pace in the NL East. If Aaron Nola maintains his recent improved form and the Phillies' offense capitalizes on the Mets' weaker bullpen and Christian Scott's return from injury, a multi-run victory is highly plausible. The Phillies have won four of their last five against the Mets, demonstrating their ability to secure decisive wins in this rivalry.",
+          "awayRecord": "40-57",
+          "homeRecord": "54-43",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "New York Mets vs Philadelphia Phillies",
+          "betType": "prop",
+          "pick": "Juan Soto Over 1.5 Total Bases",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "Juan Soto is confirmed active and is the New York Mets' most potent offensive threat, known for his elite on-base skills and power. He has a history of performing well at Citizens Bank Park, suggesting comfort in this venue. Soto can achieve over 1.5 total bases with just one extra-base hit (a double or home run) or two singles, making this prop attainable even if the Mets' overall offense struggles. Given his consistent production and ability to hit for power, this prop presents a strong value.",
+          "awayRecord": "40-57",
+          "homeRecord": "54-43",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "New York Mets vs Philadelphia Phillies",
+          "betType": "spread",
+          "pick": "New York Mets +1.5",
+          "odds": "-182",
+          "confidence": "medium",
+          "rationale": "Despite the Mets' poor record, Christian Scott has been an effective starter with a 3.17 ERA, providing a solid foundation for a competitive game. Aaron Nola's season-long ERA of 5.75 suggests he can be vulnerable, even with recent improvements. The +1.5 run line is a strong play in MLB, as approximately a quarter of all games are decided by a single run. As the road team, the Mets will bat in the ninth inning regardless of the score, meaning a one-run walk-off victory for the Phillies would still result in this spread cashing for New York.",
+          "awayRecord": "40-57",
+          "homeRecord": "54-43",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
         }
       ]
     },
     {
-      "sport": "WORLDCUP",
+      "sport": "MLS",
       "picks": [
         {
-          "game": "Argentina @ England",
+          "game": "Vancouver Whitecaps @ Chicago Fire FC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "Both Vancouver Whitecaps (2.43 G/M) and Chicago Fire FC (1.93 G/M) have demonstrated strong offensive capabilities this season, leading to a high average of goals per game. Historically, 43% of their head-to-head matchups have seen over 3.5 goals, indicating a propensity for higher-scoring affairs. Despite some attacking injuries for Vancouver, the offensive output of both teams and the favorable plus-money odds make the Over 3.5 an attractive play. This match is expected to be an open contest with both sides finding the back of the net multiple times.",
+          "awayRecord": "10-2-2",
+          "homeRecord": "8-2-4"
+        },
+        {
+          "game": "Sporting Kansas City @ St. Louis CITY SC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The rivalry between St. Louis CITY SC and Sporting Kansas City has historically produced high-scoring matches, with 80% of their last ten encounters seeing over 2.5 goals and 60% going over 3.5 goals. Sporting Kansas City's defense has been particularly vulnerable this season, conceding an average of 2.57 goals per game. St. Louis CITY SC also has a strong home scoring record. This combination of factors, including SKC's defensive struggles and the historical trend, points towards an exciting, high-scoring affair.",
+          "awayRecord": "3-2-9",
+          "homeRecord": "4-4-6"
+        },
+        {
+          "game": "Sporting Kansas City @ St. Louis CITY SC",
           "betType": "moneyline",
-          "pick": "England (+165)",
-          "odds": "+165",
+          "pick": "St. Louis CITY SC",
+          "odds": "-260",
           "confidence": "high",
-          "rationale": "England holds a favorable head-to-head record against Argentina in World Cup matches, with three wins to Argentina's two. Argentina has shown vulnerabilities in their recent knockout stage games, requiring extra time against Cape Verde and Switzerland, and overcoming a two-goal deficit against Egypt. England enters this semifinal with key players Jude Bellingham and Harry Kane in exceptional scoring form, each having netted six goals in the tournament, and Declan Rice is confirmed fit to anchor the midfield. The slight line movement towards England also suggests growing confidence in their ability to secure a victory in regulation time.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
+          "rationale": "St. Louis CITY SC enters this rivalry match in significantly better form, boasting a 'Good' overall record and a strong home performance with three wins in their last five overall matches. In contrast, Sporting Kansas City is in 'Very Poor' form, sitting near the bottom of the league and struggling both at home and away. St. Louis has also won 3 of the last 5 head-to-head matchups against Sporting Kansas City. Despite some injuries for St. Louis, their home advantage in a rivalry game against a struggling opponent makes them a confident moneyline pick.",
+          "awayRecord": "3-2-9",
+          "homeRecord": "4-4-6"
         },
         {
-          "game": "Argentina @ England",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "+150",
-          "confidence": "high",
-          "rationale": "Both Argentina and England possess formidable attacking talent, with Lionel Messi leading the Golden Boot race with eight goals, and Harry Kane and Jude Bellingham each contributing six goals for England. Argentina has consistently found the back of the net, scoring in all six of their World Cup matches, while England has scored in five of their six fixtures. Furthermore, both teams have exhibited defensive vulnerabilities throughout the tournament; Argentina has not kept a clean sheet in their last four matches, and England has yet to record one in the knockout stage. This combination of potent offenses and permeable defenses points towards a high-scoring encounter.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Argentina @ England",
-          "betType": "prop",
-          "pick": "Lionel Messi Anytime Goalscorer",
-          "odds": "+145",
-          "confidence": "high",
-          "rationale": "Lionel Messi is the driving force behind Argentina's offense and currently leads the World Cup with eight goals, showcasing his exceptional form and importance to the team. He is confirmed active and expected to start for Argentina in this crucial semifinal clash. Given Argentina's reliance on his individual brilliance, including his prowess from set-pieces and penalties, Messi is a prime candidate to score at any point during the match. The odds of +145 offer good value for a player of his caliber in such a high-stakes game.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Argentina @ England",
-          "betType": "prop",
-          "pick": "Harry Kane Anytime Goalscorer",
-          "odds": "+180",
+          "game": "Portland Timbers @ Seattle Sounders FC",
+          "betType": "moneyline",
+          "pick": "Portland Timbers",
+          "odds": "+490",
           "confidence": "medium",
-          "rationale": "Harry Kane is a prolific goalscorer and a central figure in England's attacking strategy, having already registered six goals in the tournament. He is confirmed active and will lead the line for England in their starting lineup. Argentina's fullbacks, Nahuel Molina and Nicolas Tagliafico, have been identified as potential defensive weaknesses that England's pacy wingers could exploit to create scoring opportunities. Kane's clinical finishing and ability to convert chances make him a strong contender to score, especially with service from players like Jude Bellingham.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
+          "rationale": "Despite Seattle's better overall record, the Portland Timbers have an exceptional historical record at Lumen Field, being unbeaten in 10 regular season away games against the Sounders from May 2017 to October 2025, with 5 wins and 5 draws. Furthermore, Seattle Sounders are dealing with a significant injury crisis, with several key defensive players like Yeimar Gómez Andrade, Kim Kee-hee, Alex Roldan, and Cristian Roldan all ruled out. This combination of Portland's historical dominance in Seattle and the Sounders' extensive injury list creates a strong value play for the underdog Timbers at +490.",
+          "awayRecord": "4-2-8",
+          "homeRecord": "7-3-3"
         },
         {
-          "game": "Argentina @ England",
+          "game": "Portland Timbers @ Seattle Sounders FC",
           "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-165",
+          "pick": "Over 3.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Despite the attacking talent on display, World Cup semifinals are often tight, cagey affairs where teams prioritize defensive solidity. The verified line for Under 2.5 has seen money come in, moving the Over from +130 to +150 while the Under remains at -165, indicating sharp action on fewer goals. Both teams have a lot to lose, and a cautious approach, especially in the early stages, is probable. While both teams have scored consistently, the immense pressure of a semifinal could lead to a more conservative game plan, limiting clear-cut scoring chances and potentially resulting in a low-scoring outcome.",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
+          "rationale": "The Cascadia Cup rivalry often leads to open and high-scoring matches, with 60% of their head-to-head encounters seeing over 2.5 goals and both teams scoring in 68% of matches. Seattle Sounders are severely hampered by injuries to several key defensive players, which is likely to weaken their backline significantly. While Portland also has injuries, their away form has been poor defensively, conceding 2.00 goals per game overall. This confluence of factors, particularly Seattle's defensive woes due to injuries and the historical high-scoring nature of this derby, makes the Over 3.5 total at -110 a high-confidence pick.",
+          "awayRecord": "4-2-8",
+          "homeRecord": "7-3-3"
         }
       ]
     }
