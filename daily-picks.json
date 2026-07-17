@@ -1,45 +1,45 @@
 {
-  "date": "2026-07-16",
-  "generatedAt": "2026-07-16T17:58:43.467Z",
+  "date": "2026-07-17",
+  "generatedAt": "2026-07-17T17:57:48.578Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "New York Mets vs Philadelphia Phillies",
-          "betType": "total",
-          "pick": "Under 9.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The total opened at 10 and has seen significant line movement towards the Under, now sitting at 9.5 with the Under juiced, indicating sharp money. Christian Scott, despite returning from injury, holds a respectable 3.17 ERA for the Mets, while Aaron Nola of the Phillies has shown excellent recent form with a 0.94 WHIP and an 18:0 K:BB ratio over his last three starts, despite a high season ERA. The Mets' offense has been among the least productive in the league, particularly on the road. Furthermore, four of the last five head-to-head matchups between these two teams have gone Under the current 9.5 total.",
-          "awayRecord": "40-57",
-          "homeRecord": "54-43",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "New York Mets vs Philadelphia Phillies",
+          "game": "Tampa Bay Rays @ Boston Red Sox",
           "betType": "moneyline",
-          "pick": "Philadelphia Phillies",
-          "odds": "-130",
+          "pick": "Tampa Bay Rays",
+          "odds": "+102",
           "confidence": "high",
-          "rationale": "The Philadelphia Phillies enter this game with a significantly better record of 54-43 and are firmly in the playoff race, while the New York Mets are 40-57 and in last place. The Phillies also benefit from playing at home in Citizens Bank Park. Although Mets starter Christian Scott has a lower ERA, Phillies starter Aaron Nola has demonstrated strong recent command and the Phillies boast superior lineup depth and bullpen strength. Historically, the Phillies have dominated recent head-to-head matchups, winning four of the last five games against the Mets.",
-          "awayRecord": "40-57",
-          "homeRecord": "54-43",
+          "rationale": "The Tampa Bay Rays, despite being road underdogs, hold a superior season record of 56-38 and a distinct offensive advantage over the Red Sox. They have dominated recent head-to-head matchups, winning four of their last five and four straight against Boston. While the Red Sox are on a nine-game winning streak, their offense ranks last in MLB in home runs per game and average exit velocity, making them vulnerable. The Rays' ability to generate runs and apply pressure on the basepaths further solidifies their value on the moneyline.",
+          "awayRecord": "56-38",
+          "homeRecord": "46-48",
           "awayLast5": [
             "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers @ New York Yankees",
+          "betType": "total",
+          "pick": "Over 9",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "The total for this game has seen significant line movement towards the Over, indicating strong market confidence in a higher-scoring contest. Both starting pitchers, Roki Sasaki for the Dodgers and Gerrit Cole for the Yankees, have shown vulnerabilities, with Sasaki specifically noted for 'home-run problems'. The Yankees' offense has been particularly potent recently, smashing 18 home runs in their last 10 games and boasting a .455 slugging percentage. Additionally, concerns surrounding both bullpens suggest that late-game scoring opportunities will likely contribute to the Over hitting.",
+          "awayRecord": "61-36",
+          "homeRecord": "54-42",
+          "awayLast5": [
+            "L",
             "W",
             "L",
             "L",
@@ -48,68 +48,44 @@
           "homeLast5": [
             "L",
             "W",
-            "L",
+            "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "New York Mets vs Philadelphia Phillies",
-          "betType": "spread",
-          "pick": "Philadelphia Phillies -1.5",
-          "odds": "+150",
+          "game": "Pittsburgh Pirates @ Cleveland Guardians",
+          "betType": "moneyline",
+          "pick": "Pittsburgh Pirates",
+          "odds": "-118",
           "confidence": "high",
-          "rationale": "This pick offers a favorable payout at +150, aligning with the Phillies' strong position as a playoff contender playing at home against a struggling Mets team. Philadelphia has a clear motivation advantage, aiming to keep pace in the NL East. If Aaron Nola maintains his recent improved form and the Phillies' offense capitalizes on the Mets' weaker bullpen and Christian Scott's return from injury, a multi-run victory is highly plausible. The Phillies have won four of their last five against the Mets, demonstrating their ability to secure decisive wins in this rivalry.",
-          "awayRecord": "40-57",
-          "homeRecord": "54-43",
+          "rationale": "The Pittsburgh Pirates enter this game with strong momentum, having won three consecutive games and sweeping their last series before the All-Star break. Their offense has been hot, batting near .300 as a team over the last 10 games, and they have scored 131 more runs than Cleveland this season. The Cleveland Guardians are severely hampered by the absence of All-Star third baseman José Ramírez due to hand surgery, which significantly weakens their lineup. Despite Gavin Williams' recent strong outing, Pittsburgh's offensive edge and Cleveland's key injury make the Pirates a high-confidence moneyline play.",
+          "awayRecord": "50-47",
+          "homeRecord": "51-46",
           "awayLast5": [
-            "W",
-            "W",
             "L",
             "L",
-            "L"
+            "W",
+            "W",
+            "W"
           ],
           "homeLast5": [
             "L",
             "W",
-            "L",
+            "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "New York Mets vs Philadelphia Phillies",
-          "betType": "prop",
-          "pick": "Juan Soto Over 1.5 Total Bases",
-          "odds": "+110",
-          "confidence": "medium",
-          "rationale": "Juan Soto is confirmed active and is the New York Mets' most potent offensive threat, known for his elite on-base skills and power. He has a history of performing well at Citizens Bank Park, suggesting comfort in this venue. Soto can achieve over 1.5 total bases with just one extra-base hit (a double or home run) or two singles, making this prop attainable even if the Mets' overall offense struggles. Given his consistent production and ability to hit for power, this prop presents a strong value.",
-          "awayRecord": "40-57",
-          "homeRecord": "54-43",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "New York Mets vs Philadelphia Phillies",
+          "game": "Miami Marlins @ Milwaukee Brewers",
           "betType": "spread",
-          "pick": "New York Mets +1.5",
-          "odds": "-182",
+          "pick": "Milwaukee Brewers -1.5",
+          "odds": "+158",
           "confidence": "medium",
-          "rationale": "Despite the Mets' poor record, Christian Scott has been an effective starter with a 3.17 ERA, providing a solid foundation for a competitive game. Aaron Nola's season-long ERA of 5.75 suggests he can be vulnerable, even with recent improvements. The +1.5 run line is a strong play in MLB, as approximately a quarter of all games are decided by a single run. As the road team, the Mets will bat in the ninth inning regardless of the score, meaning a one-run walk-off victory for the Phillies would still result in this spread cashing for New York.",
-          "awayRecord": "40-57",
-          "homeRecord": "54-43",
+          "rationale": "The Milwaukee Brewers, despite a recent three-game losing streak, hold a commanding 59-37 record and lead the NL Central. They have a strong offensive unit, ranking fourth in MLB with 5.09 runs per game, and have already taken two of three games from the Marlins this season. The Marlins are also on a three-game skid, and their bullpen is currently dealing with several injuries, which Milwaukee's potent lineup can exploit. With Logan Henderson pitching effectively for the Brewers against Sandy Alcantara, Milwaukee is well-positioned to secure a multi-run victory at home.",
+          "awayRecord": "52-45",
+          "homeRecord": "59-37",
           "awayLast5": [
             "W",
             "W",
@@ -121,8 +97,32 @@
             "L",
             "W",
             "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "San Diego Padres @ Kansas City Royals",
+          "betType": "spread",
+          "pick": "San Diego Padres -1.5",
+          "odds": "+128",
+          "confidence": "medium",
+          "rationale": "The San Diego Padres are entering this game with positive momentum, having won two straight and four of their last seven games, contrasting sharply with the Kansas City Royals' five-game losing streak. Padres' starter Michael King (3.41 ERA) presents a significant pitching advantage over Royals' starter Seth Lugo (4.56 ERA), who has struggled recently, allowing 18 earned runs in his last 19.1 innings. Furthermore, the Royals possess the worst bullpen in the league with a 5.33 ERA, making them vulnerable to late-game scoring, and their last nine losses have all been by multiple runs.",
+          "awayRecord": "48-48",
+          "homeRecord": "38-59",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
             "W",
             "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
           ]
         }
       ]
@@ -131,54 +131,65 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "Vancouver Whitecaps @ Chicago Fire FC",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+105",
-          "confidence": "medium",
-          "rationale": "Both Vancouver Whitecaps (2.43 G/M) and Chicago Fire FC (1.93 G/M) have demonstrated strong offensive capabilities this season, leading to a high average of goals per game. Historically, 43% of their head-to-head matchups have seen over 3.5 goals, indicating a propensity for higher-scoring affairs. Despite some attacking injuries for Vancouver, the offensive output of both teams and the favorable plus-money odds make the Over 3.5 an attractive play. This match is expected to be an open contest with both sides finding the back of the net multiple times.",
-          "awayRecord": "10-2-2",
-          "homeRecord": "8-2-4"
-        },
-        {
-          "game": "Sporting Kansas City @ St. Louis CITY SC",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The rivalry between St. Louis CITY SC and Sporting Kansas City has historically produced high-scoring matches, with 80% of their last ten encounters seeing over 2.5 goals and 60% going over 3.5 goals. Sporting Kansas City's defense has been particularly vulnerable this season, conceding an average of 2.57 goals per game. St. Louis CITY SC also has a strong home scoring record. This combination of factors, including SKC's defensive struggles and the historical trend, points towards an exciting, high-scoring affair.",
-          "awayRecord": "3-2-9",
-          "homeRecord": "4-4-6"
-        },
-        {
-          "game": "Sporting Kansas City @ St. Louis CITY SC",
+          "game": "Atlanta United FC vs Nashville SC",
           "betType": "moneyline",
-          "pick": "St. Louis CITY SC",
-          "odds": "-260",
+          "pick": "Nashville SC",
+          "odds": "-210",
           "confidence": "high",
-          "rationale": "St. Louis CITY SC enters this rivalry match in significantly better form, boasting a 'Good' overall record and a strong home performance with three wins in their last five overall matches. In contrast, Sporting Kansas City is in 'Very Poor' form, sitting near the bottom of the league and struggling both at home and away. St. Louis has also won 3 of the last 5 head-to-head matchups against Sporting Kansas City. Despite some injuries for St. Louis, their home advantage in a rivalry game against a struggling opponent makes them a confident moneyline pick.",
+          "rationale": "Nashville SC is in exceptional form, leading the MLS table with a 10-3-1 record and boasting an impressive 6-1-0 record at home. Conversely, Atlanta United FC is struggling significantly, ranking 28th in the league with a 3-2-9 record and a poor 1-1-4 away record. While Nashville has several questionable players, their overall dominance and strong home advantage against a weak Atlanta side make them a high-confidence pick. The moneyline has seen slight movement towards Atlanta, but Nashville remains a strong favorite, reflecting their superior performance.",
           "awayRecord": "3-2-9",
-          "homeRecord": "4-4-6"
+          "homeRecord": "10-3-1"
         },
         {
-          "game": "Portland Timbers @ Seattle Sounders FC",
-          "betType": "moneyline",
-          "pick": "Portland Timbers",
-          "odds": "+490",
-          "confidence": "medium",
-          "rationale": "Despite Seattle's better overall record, the Portland Timbers have an exceptional historical record at Lumen Field, being unbeaten in 10 regular season away games against the Sounders from May 2017 to October 2025, with 5 wins and 5 draws. Furthermore, Seattle Sounders are dealing with a significant injury crisis, with several key defensive players like Yeimar Gómez Andrade, Kim Kee-hee, Alex Roldan, and Cristian Roldan all ruled out. This combination of Portland's historical dominance in Seattle and the Sounders' extensive injury list creates a strong value play for the underdog Timbers at +490.",
-          "awayRecord": "4-2-8",
-          "homeRecord": "7-3-3"
+          "game": "Atlanta United FC vs Nashville SC",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "Nashville SC's home games have consistently been high-scoring, with the Over 2.5 goal line being covered in 12 of their last 15 home matches. Nashville has scored 31 goals this season, averaging 2.21 goals per match at home, demonstrating strong offensive output. Although Atlanta United FC is struggling, their matches have also seen goals, with the Over 2.5 covered in 3 of their last 5 games. The line movement further supports this pick, as money has come in on the Over, moving the odds from -150 to -160.",
+          "awayRecord": "3-2-9",
+          "homeRecord": "10-3-1"
         },
         {
-          "game": "Portland Timbers @ Seattle Sounders FC",
+          "game": "LAFC vs LA Galaxy",
           "betType": "total",
           "pick": "Over 3.5",
-          "odds": "-110",
+          "odds": "+130",
+          "confidence": "high",
+          "rationale": "The 'El Trafico' rivalry between LAFC and LA Galaxy is renowned for high-scoring encounters, with all of their last 5 head-to-head matches ending with Over 2.5 Goals. Historically, 58% of their 26 head-to-head matches have gone Over 3.5 goals, indicating a strong trend for offensive fireworks. Both teams have demonstrated goal-scoring ability this season, with LAFC netting 24 goals and LA Galaxy scoring 22 goals. The high expected goals (xG) profile for both teams further suggests an open game with plenty of scoring opportunities.",
+          "awayRecord": "7-3-5",
+          "homeRecord": "5-5-5"
+        },
+        {
+          "game": "LAFC vs LA Galaxy",
+          "betType": "moneyline",
+          "pick": "LA Galaxy",
+          "odds": "+195",
           "confidence": "medium",
-          "rationale": "The Cascadia Cup rivalry often leads to open and high-scoring matches, with 60% of their head-to-head encounters seeing over 2.5 goals and both teams scoring in 68% of matches. Seattle Sounders are severely hampered by injuries to several key defensive players, which is likely to weaken their backline significantly. While Portland also has injuries, their away form has been poor defensively, conceding 2.00 goals per game overall. This confluence of factors, particularly Seattle's defensive woes due to injuries and the historical high-scoring nature of this derby, makes the Over 3.5 total at -110 a high-confidence pick.",
-          "awayRecord": "4-2-8",
-          "homeRecord": "7-3-3"
+          "rationale": "LA Galaxy enters this rivalry match in strong recent form, having won 4 of their last 5 games, including notable victories. LAFC, while a strong team, is significantly impacted by multiple key leg injuries to Amin Boudri, Igor Jesus, Sergi Palencia, and Timothy Tillman. The head-to-head history is closely contested, with LA Galaxy holding a slight edge with 11 wins in 27 meetings. With 75% of public bets on LAFC, the LA Galaxy moneyline at +195 offers considerable value as a home underdog.",
+          "awayRecord": "7-3-5",
+          "homeRecord": "5-5-5"
+        }
+      ]
+    },
+    {
+      "sport": "WORLDCUP",
+      "picks": [
+        {
+          "game": "England @ France",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "The third-place playoff often features less defensive intensity, and both teams have key attackers motivated by the Golden Boot race, including Kylian Mbappé (8 goals), Harry Kane (6 goals), and Jude Bellingham (6 goals). Expected squad rotation and a focus on offensive play are likely to contribute to a higher-scoring game. France has scored 23 goals and England 18 goals in the tournament, demonstrating their attacking prowess. Experts also lean towards a higher-scoring affair, making the Over 3.5 a strong play."
+        },
+        {
+          "game": "England @ France",
+          "betType": "moneyline",
+          "pick": "France",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "France possesses greater squad depth, which will be beneficial given the expected rotation in this consolation match. England appeared 'flat and heavy-legged' in their semi-final loss, suggesting potential fatigue. This match also marks Didier Deschamps' final game as France manager, providing an emotional incentive for the team to secure a victory. Furthermore, France defeated England 2-1 in their most recent World Cup encounter in 2022, and they are ranked higher globally (3rd vs 4th)."
         }
       ]
     }

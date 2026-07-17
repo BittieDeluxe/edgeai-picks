@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-16",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "New York Mets vs Philadelphia Phillies",
+            "betType": "total",
+            "pick": "Under 9.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Mets 4, Philadelphia Phillies 1"
+          },
+          {
+            "game": "New York Mets vs Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Mets 4, Philadelphia Phillies 1"
+          },
+          {
+            "game": "New York Mets vs Philadelphia Phillies",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies -1.5",
+            "odds": "+150",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Mets 4, Philadelphia Phillies 1"
+          },
+          {
+            "game": "New York Mets vs Philadelphia Phillies",
+            "betType": "prop",
+            "pick": "Juan Soto Over 1.5 Total Bases",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Juan Soto: \"Total Bases\" not auto-gradeable"
+          },
+          {
+            "game": "New York Mets vs Philadelphia Phillies",
+            "betType": "spread",
+            "pick": "New York Mets +1.5",
+            "odds": "-182",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Mets 4, Philadelphia Phillies 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Vancouver Whitecaps @ Chicago Fire FC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Sporting Kansas City @ St. Louis CITY SC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sporting Kansas City 2, St. Louis CITY SC 3"
+          },
+          {
+            "game": "Sporting Kansas City @ St. Louis CITY SC",
+            "betType": "moneyline",
+            "pick": "St. Louis CITY SC",
+            "odds": "-260",
+            "confidence": "high",
+            "result": "W",
+            "score": "Sporting Kansas City 2, St. Louis CITY SC 3"
+          },
+          {
+            "game": "Portland Timbers @ Seattle Sounders FC",
+            "betType": "moneyline",
+            "pick": "Portland Timbers",
+            "odds": "+490",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Portland Timbers 5, Seattle Sounders FC 1"
+          },
+          {
+            "game": "Portland Timbers @ Seattle Sounders FC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Portland Timbers 5, Seattle Sounders FC 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-15",
     "sports": [
       {
@@ -2034,11 +2140,6 @@
   },
   {
     "date": "2026-06-17",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-16",
     "sports": [],
     "playerProps": []
   }
