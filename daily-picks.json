@@ -1,76 +1,100 @@
 {
-  "date": "2026-07-17",
-  "generatedAt": "2026-07-17T17:57:48.578Z",
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-18T16:17:07.321Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Tampa Bay Rays @ Boston Red Sox",
-          "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "+102",
+          "game": "New York Mets @ Philadelphia Phillies",
+          "betType": "spread",
+          "pick": "New York Mets +1.5",
+          "odds": "-142",
           "confidence": "high",
-          "rationale": "The Tampa Bay Rays, despite being road underdogs, hold a superior season record of 56-38 and a distinct offensive advantage over the Red Sox. They have dominated recent head-to-head matchups, winning four of their last five and four straight against Boston. While the Red Sox are on a nine-game winning streak, their offense ranks last in MLB in home runs per game and average exit velocity, making them vulnerable. The Rays' ability to generate runs and apply pressure on the basepaths further solidifies their value on the moneyline.",
-          "awayRecord": "56-38",
-          "homeRecord": "46-48",
+          "rationale": "The Philadelphia Phillies are heavily favored, with 88% of moneyline bets and 80% of run-line bets on them, which often indicates a public overreaction and potential value on the underdog. [5] Despite Phillies starter Jesús Luzardo's strong recent form (4-0, 2.28 ERA in his last seven starts), the Mets just took the series opener. [5, 13] The Mets have also covered the run line in 6 of their last 10 games and are on a two-game ATS winning streak, suggesting they can keep games close even against a favored opponent. [25]",
+          "awayRecord": "41-57",
+          "homeRecord": "54-44",
           "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
             "W",
             "L",
             "W",
             "W",
             "L"
-          ],
-          "homeLast5": [
+          ]
+        },
+        {
+          "game": "Baltimore Orioles @ Houston Astros",
+          "betType": "prop",
+          "pick": "Spencer Arrighetti Over 4.5 Hits Allowed",
+          "odds": "+120",
+          "confidence": "high",
+          "rationale": "Astros pitcher Spencer Arrighetti is projected to allow over 4.5 hits, with a projected probability of 52-53% compared to the implied probability of 45.45% at +120 odds, indicating strong value. [15] Arrighetti has a history of giving up hits, having allowed five or more in several recent outings against various teams. [15] The Baltimore Orioles are currently on a five-game winning streak, suggesting their offense is in good form and capable of capitalizing on Arrighetti's tendencies. [24, 37] Arrighetti's fastball vulnerability and walk rate often lead to traffic on the bases, increasing opportunities for hits. [15]",
+          "awayRecord": "47-51",
+          "homeRecord": "47-52",
+          "awayLast5": [
             "W",
             "W",
             "W",
             "W",
             "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
           ]
         },
         {
           "game": "Los Angeles Dodgers @ New York Yankees",
-          "betType": "total",
-          "pick": "Over 9",
-          "odds": "-114",
-          "confidence": "medium",
-          "rationale": "The total for this game has seen significant line movement towards the Over, indicating strong market confidence in a higher-scoring contest. Both starting pitchers, Roki Sasaki for the Dodgers and Gerrit Cole for the Yankees, have shown vulnerabilities, with Sasaki specifically noted for 'home-run problems'. The Yankees' offense has been particularly potent recently, smashing 18 home runs in their last 10 games and boasting a .455 slugging percentage. Additionally, concerns surrounding both bullpens suggest that late-game scoring opportunities will likely contribute to the Over hitting.",
-          "awayRecord": "61-36",
-          "homeRecord": "54-42",
+          "betType": "prop",
+          "pick": "Emmet Sheehan Over 5.5 Strikeouts",
+          "odds": "-101",
+          "confidence": "high",
+          "rationale": "Dodgers pitcher Emmet Sheehan is a strong candidate for over 5.5 strikeouts, with a projected probability of 55-57% compared to the implied probability of 50.25% at -101 odds. [6] The New York Yankees are significantly hampered by key offensive injuries, including Aaron Judge (stress fracture) and Giancarlo Stanton, which could lead to more strikeout opportunities for opposing pitchers. [27] This favorable matchup against a weakened Yankees lineup, combined with the value in the odds, makes this a high-confidence prop bet. [6]",
+          "awayRecord": "62-36",
+          "homeRecord": "54-43",
           "awayLast5": [
-            "L",
             "W",
             "L",
             "L",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
-            "L",
             "W",
             "W",
             "W",
-            "W"
+            "W",
+            "L"
           ]
         },
         {
-          "game": "Pittsburgh Pirates @ Cleveland Guardians",
+          "game": "Tampa Bay Rays @ Boston Red Sox",
           "betType": "moneyline",
-          "pick": "Pittsburgh Pirates",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "The Pittsburgh Pirates enter this game with strong momentum, having won three consecutive games and sweeping their last series before the All-Star break. Their offense has been hot, batting near .300 as a team over the last 10 games, and they have scored 131 more runs than Cleveland this season. The Cleveland Guardians are severely hampered by the absence of All-Star third baseman José Ramírez due to hand surgery, which significantly weakens their lineup. Despite Gavin Williams' recent strong outing, Pittsburgh's offensive edge and Cleveland's key injury make the Pirates a high-confidence moneyline play.",
-          "awayRecord": "50-47",
-          "homeRecord": "51-46",
+          "pick": "Boston Red Sox (-110)",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Boston Red Sox are currently on an impressive 11-game winning streak, demonstrating exceptional recent form. [39] They have been highly profitable for bettors, hitting the moneyline in 16 of their last 18 games with a 61% ROI. [30] Playing at home, the Red Sox hold a significant advantage, and their starting pitcher, Patrick Sandoval, boasts a solid 2.08 ERA. [30] While the Rays have a good overall record, the Red Sox's current momentum and home-field performance make them a strong pick at these odds.",
+          "awayRecord": "56-40",
+          "homeRecord": "48-48",
           "awayLast5": [
-            "L",
-            "L",
             "W",
             "W",
-            "W"
+            "L",
+            "L",
+            "L"
           ],
           "homeLast5": [
-            "L",
+            "W",
             "W",
             "W",
             "W",
@@ -78,97 +102,28 @@
           ]
         },
         {
-          "game": "Miami Marlins @ Milwaukee Brewers",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "+158",
-          "confidence": "medium",
-          "rationale": "The Milwaukee Brewers, despite a recent three-game losing streak, hold a commanding 59-37 record and lead the NL Central. They have a strong offensive unit, ranking fourth in MLB with 5.09 runs per game, and have already taken two of three games from the Marlins this season. The Marlins are also on a three-game skid, and their bullpen is currently dealing with several injuries, which Milwaukee's potent lineup can exploit. With Logan Henderson pitching effectively for the Brewers against Sandy Alcantara, Milwaukee is well-positioned to secure a multi-run victory at home.",
-          "awayRecord": "52-45",
-          "homeRecord": "59-37",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "San Diego Padres @ Kansas City Royals",
-          "betType": "spread",
-          "pick": "San Diego Padres -1.5",
-          "odds": "+128",
-          "confidence": "medium",
-          "rationale": "The San Diego Padres are entering this game with positive momentum, having won two straight and four of their last seven games, contrasting sharply with the Kansas City Royals' five-game losing streak. Padres' starter Michael King (3.41 ERA) presents a significant pitching advantage over Royals' starter Seth Lugo (4.56 ERA), who has struggled recently, allowing 18 earned runs in his last 19.1 innings. Furthermore, the Royals possess the worst bullpen in the league with a 5.33 ERA, making them vulnerable to late-game scoring, and their last nine losses have all been by multiple runs.",
-          "awayRecord": "48-48",
-          "homeRecord": "38-59",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "Atlanta United FC vs Nashville SC",
+          "game": "St. Louis Cardinals @ Arizona Diamondbacks",
           "betType": "moneyline",
-          "pick": "Nashville SC",
-          "odds": "-210",
-          "confidence": "high",
-          "rationale": "Nashville SC is in exceptional form, leading the MLS table with a 10-3-1 record and boasting an impressive 6-1-0 record at home. Conversely, Atlanta United FC is struggling significantly, ranking 28th in the league with a 3-2-9 record and a poor 1-1-4 away record. While Nashville has several questionable players, their overall dominance and strong home advantage against a weak Atlanta side make them a high-confidence pick. The moneyline has seen slight movement towards Atlanta, but Nashville remains a strong favorite, reflecting their superior performance.",
-          "awayRecord": "3-2-9",
-          "homeRecord": "10-3-1"
-        },
-        {
-          "game": "Atlanta United FC vs Nashville SC",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-160",
-          "confidence": "high",
-          "rationale": "Nashville SC's home games have consistently been high-scoring, with the Over 2.5 goal line being covered in 12 of their last 15 home matches. Nashville has scored 31 goals this season, averaging 2.21 goals per match at home, demonstrating strong offensive output. Although Atlanta United FC is struggling, their matches have also seen goals, with the Over 2.5 covered in 3 of their last 5 games. The line movement further supports this pick, as money has come in on the Over, moving the odds from -150 to -160.",
-          "awayRecord": "3-2-9",
-          "homeRecord": "10-3-1"
-        },
-        {
-          "game": "LAFC vs LA Galaxy",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+130",
-          "confidence": "high",
-          "rationale": "The 'El Trafico' rivalry between LAFC and LA Galaxy is renowned for high-scoring encounters, with all of their last 5 head-to-head matches ending with Over 2.5 Goals. Historically, 58% of their 26 head-to-head matches have gone Over 3.5 goals, indicating a strong trend for offensive fireworks. Both teams have demonstrated goal-scoring ability this season, with LAFC netting 24 goals and LA Galaxy scoring 22 goals. The high expected goals (xG) profile for both teams further suggests an open game with plenty of scoring opportunities.",
-          "awayRecord": "7-3-5",
-          "homeRecord": "5-5-5"
-        },
-        {
-          "game": "LAFC vs LA Galaxy",
-          "betType": "moneyline",
-          "pick": "LA Galaxy",
-          "odds": "+195",
+          "pick": "St. Louis Cardinals (+100)",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "LA Galaxy enters this rivalry match in strong recent form, having won 4 of their last 5 games, including notable victories. LAFC, while a strong team, is significantly impacted by multiple key leg injuries to Amin Boudri, Igor Jesus, Sergi Palencia, and Timothy Tillman. The head-to-head history is closely contested, with LA Galaxy holding a slight edge with 11 wins in 27 meetings. With 75% of public bets on LAFC, the LA Galaxy moneyline at +195 offers considerable value as a home underdog.",
-          "awayRecord": "7-3-5",
-          "homeRecord": "5-5-5"
+          "rationale": "The St. Louis Cardinals defeated the Arizona Diamondbacks 5-4 in the previous game, ending Arizona's four-game winning streak. [9, 45] The Diamondbacks are dealing with several key injuries, including starting pitcher Zac Gallen and outfielder Tommy Troy, which could impact their performance. [2, 27] Despite Merrill Kelly's (ARI) recent strong outings, the Diamondbacks' defense committed errors leading to unearned runs in the last game, indicating potential vulnerabilities. [45, 46] At even money, the Cardinals present a valuable opportunity given their recent win and Arizona's injury concerns.",
+          "awayRecord": "51-45",
+          "homeRecord": "49-48",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
         }
       ]
     },
@@ -179,17 +134,45 @@
           "game": "England @ France",
           "betType": "total",
           "pick": "Over 3.5",
-          "odds": "+110",
+          "odds": "+115",
           "confidence": "medium",
-          "rationale": "The third-place playoff often features less defensive intensity, and both teams have key attackers motivated by the Golden Boot race, including Kylian Mbappé (8 goals), Harry Kane (6 goals), and Jude Bellingham (6 goals). Expected squad rotation and a focus on offensive play are likely to contribute to a higher-scoring game. France has scored 23 goals and England 18 goals in the tournament, demonstrating their attacking prowess. Experts also lean towards a higher-scoring affair, making the Over 3.5 a strong play."
+          "rationale": "Third-place playoff matches historically tend to be more open and high-scoring, as the pressure of the final is off and teams often rotate or play with more attacking freedom. Both Kylian Mbappe for France and Harry Kane and Jude Bellingham for England are actively chasing the Golden Boot, providing strong individual motivation for goals. Head-to-head history between these two nations shows an average of 2.78 goals per game in their last nine meetings, with 67% of their last three encounters going over 2.5 goals. Furthermore, England has seen both teams score in all four of their knockout matches in this tournament, indicating a propensity for high-scoring games.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
         },
         {
           "game": "England @ France",
           "betType": "moneyline",
           "pick": "France",
-          "odds": "-110",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "France possesses greater squad depth, which will be beneficial given the expected rotation in this consolation match. England appeared 'flat and heavy-legged' in their semi-final loss, suggesting potential fatigue. This match also marks Didier Deschamps' final game as France manager, providing an emotional incentive for the team to secure a victory. Furthermore, France defeated England 2-1 in their most recent World Cup encounter in 2022, and they are ranked higher globally (3rd vs 4th)."
+          "rationale": "France enters this match with superior recent form, boasting a 2.50 points-per-game average over their last six matches compared to England's 1.83. England is significantly impacted by injuries and fatigue, with key midfielder Jordan Henderson definitively ruled out due to a broken wrist, Declan Rice expected to be rested due to ongoing fitness issues, and Reece James doubtful after an injury in the semi-final. In their recent head-to-head encounters, France holds a slight edge with five wins to England's three and one draw in nine recorded meetings. The market also favors France, indicating a belief in their stronger position for this bronze medal match.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
         }
       ]
     }

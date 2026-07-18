@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-07-17",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Tampa Bay Rays @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Rays 0, Boston Red Sox 10"
+          },
+          {
+            "game": "Los Angeles Dodgers @ New York Yankees",
+            "betType": "total",
+            "pick": "Over 9",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Dodgers 2, New York Yankees 1"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Miami Marlins @ Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+158",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Miami Marlins 1, Milwaukee Brewers 2"
+          },
+          {
+            "game": "San Diego Padres @ Kansas City Royals",
+            "betType": "spread",
+            "pick": "San Diego Padres -1.5",
+            "odds": "+128",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Diego Padres 6, Kansas City Royals 7"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Atlanta United FC vs Nashville SC",
+            "betType": "moneyline",
+            "pick": "Nashville SC",
+            "odds": "-210",
+            "confidence": "high",
+            "result": "W",
+            "score": "Atlanta United FC 0, Nashville SC 1"
+          },
+          {
+            "game": "Atlanta United FC vs Nashville SC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta United FC 0, Nashville SC 1"
+          },
+          {
+            "game": "LAFC vs LA Galaxy",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "L",
+            "score": "LAFC 3, LA Galaxy 0"
+          },
+          {
+            "game": "LAFC vs LA Galaxy",
+            "betType": "moneyline",
+            "pick": "LA Galaxy",
+            "odds": "+195",
+            "confidence": "medium",
+            "result": "L",
+            "score": "LAFC 3, LA Galaxy 0"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "England @ France",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "England @ France",
+            "betType": "moneyline",
+            "pick": "France",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-16",
     "sports": [
       {
@@ -2135,11 +2255,6 @@
   },
   {
     "date": "2026-06-18",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-17",
     "sports": [],
     "playerProps": []
   }
