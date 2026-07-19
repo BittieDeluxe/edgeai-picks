@@ -1,128 +1,128 @@
 {
-  "date": "2026-07-18",
-  "generatedAt": "2026-07-18T17:47:21.027Z",
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-19T16:52:58.596Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Washington Nationals vs Athletics",
+          "game": "Tampa Bay Rays @ Boston Red Sox",
           "betType": "moneyline",
-          "pick": "Washington Nationals",
+          "pick": "Boston Red Sox (-126)",
           "odds": "-126",
           "confidence": "high",
-          "rationale": "The Athletics are currently on a 10-game losing streak and are significantly impacted by multiple key injuries, including Nick Kurtz (thumb), Zack Gelof (knee), and Brent Rooker (knee). This severely depletes their offensive and defensive capabilities. Washington's starting pitcher, Zack Littell, holds a respectable 7-6 record with a 4.90 ERA, providing a stable presence on the mound. Given the Athletics' deep slump and extensive injury list, the Nationals are well-positioned to secure a victory on the road. The combination of a struggling opponent and a solid starting pitcher for Washington creates a strong betting opportunity.",
-          "awayRecord": "49-49",
-          "homeRecord": "41-56",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "St. Louis Cardinals vs Arizona Diamondbacks",
-          "betType": "moneyline",
-          "pick": "St. Louis Cardinals",
-          "odds": "-102",
-          "confidence": "high",
-          "rationale": "The Arizona Diamondbacks are facing significant challenges due to pitching injuries, with key starter Zac Gallen (elbow inflammation) seeking a second opinion and Michael Soroka (lower body injury) only scheduled for a bullpen session. Additionally, position players like Tommy Troy (AC joint) and Jordan Lawlar (hamstring) are on the injured list, further weakening their lineup. The St. Louis Cardinals, with a relatively healthier roster, are in a prime position to capitalize on these widespread Diamondbacks absences. This substantial injury advantage for the Cardinals makes their moneyline a high-confidence pick.",
-          "awayRecord": "51-45",
+          "rationale": "The Boston Red Sox are on an impressive 12-game winning streak, including a 7-6 victory over the Tampa Bay Rays yesterday and a doubleheader sweep on July 17. Boston's recent form shows a dominant 10-0 straight-up record in their last 10 games, while the Rays are struggling with a 4-game losing streak. The probable pitching matchup features Boston's Sonny Gray (11-1, 2.54 ERA) against Tampa Bay's Shane McClanahan (8-5, 2.83 ERA), giving the Red Sox a slight edge with their ace. Given their current momentum and strong home performance, the Red Sox moneyline at -126 is a high-confidence pick.",
+          "awayRecord": "56-41",
           "homeRecord": "49-48",
           "awayLast5": [
-            "L",
-            "W",
             "W",
             "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Texas Rangers vs Atlanta Braves",
-          "betType": "spread",
-          "pick": "Texas Rangers +1.5",
-          "odds": "-184",
-          "confidence": "high",
-          "rationale": "The Atlanta Braves are starting Owen Murphy, who is making his MLB debut, which often presents an unpredictable and potentially vulnerable situation for a team. The Braves are also significantly hampered by the absence of superstar Ronald Acuña Jr. (hamstring), impacting their offensive production. Despite missing Corey Seager, the Texas Rangers' offense has been potent recently, hitting 17 home runs in their last 10 games. Given the uncertainty surrounding Atlanta's debut pitcher and their own key injury, taking the Rangers with the +1.5 run line offers excellent value and a strong chance to cover.",
-          "awayRecord": "49-48",
-          "homeRecord": "56-40",
-          "awayLast5": [
-            "W",
-            "W",
             "L",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
             "W",
-            "L",
-            "L",
+            "W",
+            "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Miami Marlins vs Milwaukee Brewers",
+          "game": "Los Angeles Dodgers @ New York Yankees",
           "betType": "total",
-          "pick": "Under 8",
-          "odds": "-114",
-          "confidence": "medium",
-          "rationale": "Both the Miami Marlins and Milwaukee Brewers enter this contest on three-game losing streaks, suggesting recent offensive struggles for both clubs. The Brewers' pitching staff, despite some injuries, has maintained a collective 4.24 ERA over their last 10 games, indicating an ability to limit opposing offenses. Key offensive players like Sal Frelick (shoulder soreness) for the Brewers and Owen Caissie (calf) for the Marlins are either day-to-day or on the injured list, further dampening offensive expectations. These factors combine to create a strong lean towards the Under 8 total, as runs are likely to be at a premium.",
-          "awayRecord": "52-46",
-          "homeRecord": "60-37",
+          "pick": "Under 9",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "This matchup features two strong starting pitchers in Yoshinobu Yamamoto (2.85 ERA, 0.91 WHIP) for the Dodgers and Cam Schlittler (2.05 ERA) for the Yankees in Game 1 of a doubleheader. While Yamamoto had a recent rough outing, both pitchers generally boast excellent ERAs and WHIPs, indicating a potential low-scoring contest. The New York Yankees offense is currently in a 'deep slump,' having lost 7 of their last 8 home games. The combination of elite pitching and a struggling Yankees lineup supports the Under 9 total at -118.",
+          "awayRecord": "62-36",
+          "homeRecord": "54-43",
           "awayLast5": [
             "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Miami Marlins @ Milwaukee Brewers",
+          "betType": "moneyline",
+          "pick": "Miami Marlins (+110)",
+          "odds": "+110",
+          "confidence": "high",
+          "rationale": "Despite the Milwaukee Brewers winning yesterday's game and the last five head-to-head matchups against the Marlins, Miami has demonstrated strong performance on the road, winning 5 of their last 7 away games. The Brewers are currently dealing with several significant injuries, including Frelick on the 10-day IL and Woodruff undergoing shoulder surgery. These key absences could impact Milwaukee's performance, offering value for the Marlins at plus-money odds of +110 against a hobbled home team.",
+          "awayRecord": "52-47",
+          "homeRecord": "61-37",
+          "awayLast5": [
+            "L",
             "L",
             "L",
             "L",
             "L"
           ],
           "homeLast5": [
+            "L",
+            "L",
+            "L",
             "W",
-            "L",
-            "L",
-            "L",
             "W"
           ]
         },
         {
-          "game": "New York Mets vs Philadelphia Phillies",
+          "game": "Texas Rangers @ Atlanta Braves",
           "betType": "moneyline",
-          "pick": "New York Mets",
-          "odds": "-126",
+          "pick": "Texas Rangers (-122)",
+          "odds": "-122",
           "confidence": "medium",
-          "rationale": "The Philadelphia Phillies are severely impacted by significant injuries to key players, with Adolis García (lat) and Brad Keller (UCL tear) both out for the season, weakening their lineup and pitching depth. In contrast, the New York Mets' offense has been performing well, batting .265 with 16 home runs over their last 10 games. While Juan Soto is listed as day-to-day, the Mets' overall offensive momentum and the Phillies' extensive injury woes create a clear advantage. The Phillies' recent hitting insights, with a .218 batting average and 8 home runs in their last 10 games, further support the Mets' superior form.",
-          "awayRecord": "41-57",
-          "homeRecord": "54-44",
+          "rationale": "The Texas Rangers secured a 7-6 victory over the Atlanta Braves yesterday, evening the series at one game apiece and building momentum for today's rubber match. Rangers starter Nathan Eovaldi (9-7, 4.04 ERA) is set to return from an illness, providing a veteran presence on the mound against Atlanta's Grant Holmes (5-4, 3.61 ERA). With Ronald Acuña Jr. of the Braves potentially still limited or just returning from rehab, the Rangers' offense, which showed life yesterday, has a good opportunity to clinch the series on the road at -122.",
+          "awayRecord": "50-48",
+          "homeRecord": "56-41",
           "awayLast5": [
             "W",
             "L",
-            "L",
+            "W",
             "L",
             "W"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "L",
             "W",
             "W",
             "L"
+          ]
+        },
+        {
+          "game": "Minnesota Twins @ Chicago Cubs",
+          "betType": "moneyline",
+          "pick": "Minnesota Twins (+144)",
+          "odds": "+144",
+          "confidence": "medium",
+          "rationale": "The Chicago Cubs are facing extensive injury concerns, particularly within their pitching staff, with numerous key players like Hoby Milner, Ben Brown, Edward Cabrera, Daniel Palencia, Jameson Taillon, and Justin Steele all on the injured list. While some are nearing a return, the sheer volume of pitching absences significantly weakens the Cubs' overall strength. The Minnesota Twins, despite their sub-.500 record, are in a favorable position to capitalize on this depleted Cubs roster. The generous moneyline odds of +144 for the Twins present excellent value for an upset against a team with such profound injury challenges.",
+          "awayRecord": "49-50",
+          "homeRecord": "55-43",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
           ]
         }
       ]
@@ -131,17 +131,17 @@
       "sport": "WORLDCUP",
       "picks": [
         {
-          "game": "England vs France",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+115",
-          "confidence": "medium",
-          "rationale": "The World Cup third-place playoff historically features more open and high-scoring football, as teams play with less pressure and often rotate squads. Both England and France possess potent attacking talent, with Kylian Mbappe (8 goals), Harry Kane (6 goals), and Jude Bellingham (6 goals) all motivated by the Golden Boot race. England has seen 'Both Teams to Score Yes' in all four of their 2026 knockout matches, highlighting their offensive capabilities and defensive vulnerabilities. The historical expected goals (xG) for this fixture sits around 3.76, strongly suggesting a contest with multiple goals.",
+          "game": "Argentina @ Spain",
+          "betType": "moneyline",
+          "pick": "Spain (+125)",
+          "odds": "+125",
+          "confidence": "high",
+          "rationale": "Spain enters the final with exceptional defensive form, having conceded only one goal across seven World Cup matches and securing six consecutive wins after an initial draw. Their momentum is strong, highlighted by a convincing 2-0 victory over France in the semi-finals. While Argentina has relied on extra time in three straight knockout games, Spain's disciplined approach and defensive solidity give them a significant edge to win in regulation. Key players Lamine Yamal and Pedro Porro, despite minor doubts, are expected to be fit for the crucial match.",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
@@ -149,21 +149,21 @@
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "England vs France",
-          "betType": "moneyline",
-          "pick": "France",
-          "odds": "-120",
+          "game": "Argentina @ Spain",
+          "betType": "total",
+          "pick": "Under 2.5 (-150)",
+          "odds": "-150",
           "confidence": "high",
-          "rationale": "France is the favored side, with significant sharp money backing them, as indicated by the moneyline movement from +125 to -120 and 76% of the betting handle on France. France holds a strong recent head-to-head record against England, winning their last World Cup encounter 2-1 in 2022 and limiting England to just one win in their last nine overall meetings. England faces notable injury and rest concerns, with Jordan Henderson definitively out, Declan Rice being rested, and Reece James doubtful. Additionally, France has benefited from an extra day of rest compared to England, which could be a crucial factor in this late-tournament match.",
+          "rationale": "Spain's defense has been outstanding throughout the tournament, allowing just one goal in seven games, which strongly indicates a low-scoring affair. World Cup finals are historically tight and cautious matches, with both teams often prioritizing defensive solidity over expansive attacking play. The bookmakers' odds also favor the Under 2.5, reflecting the expectation of a closely contested game. This defensive prowess from Spain, combined with the high stakes, points towards fewer goals.",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
@@ -171,7 +171,73 @@
             "W",
             "W",
             "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Argentina @ Spain",
+          "betType": "prop",
+          "pick": "Lionel Messi Anytime Goalscorer",
+          "odds": "N/A",
+          "confidence": "high",
+          "rationale": "Lionel Messi is confirmed active and a pivotal player for Argentina in today's final. He has been in phenomenal form throughout the tournament, leading with 8 goals and 4 assists. Even at 39, Messi remains the most influential player for Argentina, consistently delivering match-winning impacts. Given the high stakes of the World Cup Final, Messi will undoubtedly be central to Argentina's attack and is highly likely to find the back of the net.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Argentina @ Spain",
+          "betType": "moneyline",
+          "pick": "Argentina (+270)",
+          "odds": "+270",
+          "confidence": "medium",
+          "rationale": "As defending champions, Argentina has maintained a perfect 10-0-0 record in the tournament, consistently finding ways to win, even if it meant going to extra time in three knockout games. The head-to-head record between these two nations is perfectly even over 14 previous encounters, with six wins apiece and two draws, indicating a balanced rivalry. With Lionel Messi's exceptional form and ability to produce moments of brilliance, Argentina offers significant value as an underdog in this World Cup Final.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Argentina @ Spain",
+          "betType": "total",
+          "pick": "Over 2.5 (+140)",
+          "odds": "+140",
+          "confidence": "medium",
+          "rationale": "Despite Spain's strong defense, Argentina's recent tournament matches have been notably high-scoring, with their last five games featuring scores like 2-1, 3-1, 3-2, 3-2, and 3-1. Argentina's potent attack, spearheaded by Lionel Messi, has scored 29 goals this season, demonstrating their offensive capability. If Argentina manages to break through Spain's formidable defense, and Spain's own attacking talent responds, the game could open up, as seen in their 6-1 friendly match in 2018.",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
           ]
         }
       ]
