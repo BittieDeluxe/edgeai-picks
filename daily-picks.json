@@ -1,128 +1,128 @@
 {
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T16:52:58.596Z",
+  "generatedAt": "2026-07-19T17:50:41.343Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Tampa Bay Rays @ Boston Red Sox",
+          "game": "Detroit Tigers @ Los Angeles Angels",
           "betType": "moneyline",
-          "pick": "Boston Red Sox (-126)",
-          "odds": "-126",
+          "pick": "Detroit Tigers (-138)",
+          "odds": "-138",
           "confidence": "high",
-          "rationale": "The Boston Red Sox are on an impressive 12-game winning streak, including a 7-6 victory over the Tampa Bay Rays yesterday and a doubleheader sweep on July 17. Boston's recent form shows a dominant 10-0 straight-up record in their last 10 games, while the Rays are struggling with a 4-game losing streak. The probable pitching matchup features Boston's Sonny Gray (11-1, 2.54 ERA) against Tampa Bay's Shane McClanahan (8-5, 2.83 ERA), giving the Red Sox a slight edge with their ace. Given their current momentum and strong home performance, the Red Sox moneyline at -126 is a high-confidence pick.",
-          "awayRecord": "56-41",
-          "homeRecord": "49-48",
+          "rationale": "The Detroit Tigers have been playing well recently, holding a 24-14 record since June 1st, which is the second-best in MLB. They have also won the first two games of this series against the Angels, including a 7-0 shutout yesterday. Tigers' starting pitcher Casey Mize has a strong 2.43 ERA during day games, and the Angels' starter Ryan Johnson has a high 6.75 ERA, with the Angels holding a 1-8 record in his nine appearances this season. The Tigers' bullpen also has an edge with a 3.83 ERA (10th in MLB) compared to the Angels' 4.58 ERA (24th). This strong pitching matchup, recent form, and series dominance make the Tigers a confident pick.",
+          "awayRecord": "46-52",
+          "homeRecord": "38-61",
           "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
             "W",
             "L",
             "L",
             "L",
             "L"
+          ]
+        },
+        {
+          "game": "Cincinnati Reds @ Colorado Rockies",
+          "betType": "moneyline",
+          "pick": "Cincinnati Reds (-164)",
+          "odds": "-164",
+          "confidence": "high",
+          "rationale": "Sharp money is heavily backing the Cincinnati Reds, with the moneyline moving from -135 to -165, and 92% of moneyline dollars on the Reds at DraftKings. Historically, Sunday road favorites facing a below .500 team and receiving line movement in their favor have a 61% win rate with a 6% ROI this season. Reds' starter Hunter Greene bounced back in his last start with 7 scoreless innings and 12 strikeouts, while Rockies' starter Ryan Feltner has a 5.23 ERA in two July starts. The Rockies also have a poor record of 13-26 (.333) after a win this season, which is the lowest in MLB.",
+          "awayRecord": "44-53",
+          "homeRecord": "40-60",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Los Angeles Dodgers @ New York Yankees",
+          "game": "Pittsburgh Pirates @ Cleveland Guardians",
           "betType": "total",
-          "pick": "Under 9",
-          "odds": "-118",
+          "pick": "Under 6.5 (-120)",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "This matchup features two strong starting pitchers in Yoshinobu Yamamoto (2.85 ERA, 0.91 WHIP) for the Dodgers and Cam Schlittler (2.05 ERA) for the Yankees in Game 1 of a doubleheader. While Yamamoto had a recent rough outing, both pitchers generally boast excellent ERAs and WHIPs, indicating a potential low-scoring contest. The New York Yankees offense is currently in a 'deep slump,' having lost 7 of their last 8 home games. The combination of elite pitching and a struggling Yankees lineup supports the Under 9 total at -118.",
-          "awayRecord": "62-36",
-          "homeRecord": "54-43",
+          "rationale": "The total for this game has seen significant reverse line movement, opening at 7.5 runs and being bet down to 7, despite 71% of public tickets on the Over, indicating sharp money on the Under. Pirates' starter Paul Skenes boasts an impressive 3.57 ERA, 1.02 WHIP, and 130 strikeouts in 108.1 innings, allowing little traffic on base. Guardians' starter Joey Cantillo also has a decent 3.56 ERA, and both bullpens are likely to be somewhat taxed after a Saturday doubleheader. Given the strong pitching and the sharp money movement, an under 6.5 is a confident play.",
+          "awayRecord": "51-48",
+          "homeRecord": "52-47",
           "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
             "W",
             "W",
             "W",
             "W",
             "L"
-          ]
-        },
-        {
-          "game": "Miami Marlins @ Milwaukee Brewers",
-          "betType": "moneyline",
-          "pick": "Miami Marlins (+110)",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "Despite the Milwaukee Brewers winning yesterday's game and the last five head-to-head matchups against the Marlins, Miami has demonstrated strong performance on the road, winning 5 of their last 7 away games. The Brewers are currently dealing with several significant injuries, including Frelick on the 10-day IL and Woodruff undergoing shoulder surgery. These key absences could impact Milwaukee's performance, offering value for the Marlins at plus-money odds of +110 against a hobbled home team.",
-          "awayRecord": "52-47",
-          "homeRecord": "61-37",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
           ],
           "homeLast5": [
-            "L",
-            "L",
-            "L",
             "W",
+            "W",
+            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Texas Rangers @ Atlanta Braves",
-          "betType": "moneyline",
-          "pick": "Texas Rangers (-122)",
+          "game": "San Francisco Giants @ Seattle Mariners",
+          "betType": "total",
+          "pick": "Under 7 (-122)",
           "odds": "-122",
           "confidence": "medium",
-          "rationale": "The Texas Rangers secured a 7-6 victory over the Atlanta Braves yesterday, evening the series at one game apiece and building momentum for today's rubber match. Rangers starter Nathan Eovaldi (9-7, 4.04 ERA) is set to return from an illness, providing a veteran presence on the mound against Atlanta's Grant Holmes (5-4, 3.61 ERA). With Ronald Acuña Jr. of the Braves potentially still limited or just returning from rehab, the Rangers' offense, which showed life yesterday, has a good opportunity to clinch the series on the road at -122.",
-          "awayRecord": "50-48",
-          "homeRecord": "56-41",
+          "rationale": "The total has gone under 7.5 in both games of this series so far, with a 7-0 Giants win and a 4-3 Mariners win. Both starting pitchers, Robbie Ray (Giants) and Logan Gilbert (Mariners), are in strong recent form, with Ray allowing four earned runs across his last four combined starts and Gilbert holding three of his past five opponents to one or no earned runs. T-Mobile Park is known as a pitcher-friendly environment, and the Mariners' lineup is among the worst in the league, ranking bottom-five in batting average (.227) and OPS (.684). This combination of strong pitching, park factors, and weak offense points to a low-scoring affair.",
+          "awayRecord": "42-56",
+          "homeRecord": "49-50",
           "awayLast5": [
-            "W",
             "L",
             "W",
-            "L",
-            "W"
+            "W",
+            "W",
+            "L"
           ],
           "homeLast5": [
             "L",
             "L",
             "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Minnesota Twins @ Chicago Cubs",
+          "game": "Baltimore Orioles @ Houston Astros",
           "betType": "moneyline",
-          "pick": "Minnesota Twins (+144)",
-          "odds": "+144",
+          "pick": "Baltimore Orioles (+106)",
+          "odds": "+106",
           "confidence": "medium",
-          "rationale": "The Chicago Cubs are facing extensive injury concerns, particularly within their pitching staff, with numerous key players like Hoby Milner, Ben Brown, Edward Cabrera, Daniel Palencia, Jameson Taillon, and Justin Steele all on the injured list. While some are nearing a return, the sheer volume of pitching absences significantly weakens the Cubs' overall strength. The Minnesota Twins, despite their sub-.500 record, are in a favorable position to capitalize on this depleted Cubs roster. The generous moneyline odds of +144 for the Twins present excellent value for an upset against a team with such profound injury challenges.",
-          "awayRecord": "49-50",
-          "homeRecord": "55-43",
+          "rationale": "The Houston Astros are dealing with significant injuries, with shortstop Jeremy Pena (hamstring cramp) and first baseman Christian Walker (hip tightness) both departing early from Saturday's game and listed as day-to-day. Pena has a history of injury issues this season, and Walker's recent performance has scuffled. The Orioles have a 3-2 record in their last 5 games against the Astros. With key offensive players potentially out or limited for Houston, the Orioles present good value as slight underdogs.",
+          "awayRecord": "48-51",
+          "homeRecord": "47-53",
           "awayLast5": [
-            "L",
             "W",
             "W",
             "W",
-            "L"
+            "W",
+            "W"
           ],
           "homeLast5": [
             "L",
             "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "L"
           ]
         }
       ]
@@ -136,7 +136,7 @@
           "pick": "Spain (+125)",
           "odds": "+125",
           "confidence": "high",
-          "rationale": "Spain enters the final with exceptional defensive form, having conceded only one goal across seven World Cup matches and securing six consecutive wins after an initial draw. Their momentum is strong, highlighted by a convincing 2-0 victory over France in the semi-finals. While Argentina has relied on extra time in three straight knockout games, Spain's disciplined approach and defensive solidity give them a significant edge to win in regulation. Key players Lamine Yamal and Pedro Porro, despite minor doubts, are expected to be fit for the crucial match.",
+          "rationale": "Spain enters the final on an impressive 37-game unbeaten streak, demonstrating exceptional consistency and top form. Their defensive record in the tournament is outstanding, having conceded only one goal in seven matches, including a dominant 2-0 semifinal win over France. Spain has a full squad available with no major injury concerns, and key attacking players like Lamine Yamal and Pedro Porro are confirmed fit and expected to start. While Argentina is the defending champion, Spain's current tactical prowess and defensive solidity provide a strong edge in this high-stakes final.",
           "awayLast5": [
             "W",
             "W",
@@ -155,10 +155,10 @@
         {
           "game": "Argentina @ Spain",
           "betType": "total",
-          "pick": "Under 2.5 (-150)",
+          "pick": "Under 2.5",
           "odds": "-150",
           "confidence": "high",
-          "rationale": "Spain's defense has been outstanding throughout the tournament, allowing just one goal in seven games, which strongly indicates a low-scoring affair. World Cup finals are historically tight and cautious matches, with both teams often prioritizing defensive solidity over expansive attacking play. The bookmakers' odds also favor the Under 2.5, reflecting the expectation of a closely contested game. This defensive prowess from Spain, combined with the high stakes, points towards fewer goals.",
+          "rationale": "Spain's impenetrable defense has been a hallmark of their World Cup campaign, allowing only a single goal throughout seven matches. The betting line movement for the total has seen the Under shift from -145 to -150 or even -160, indicating that sharp money is backing a low-scoring affair. World Cup finals are historically tight, cautious contests, with both teams prioritizing defensive solidity to avoid early mistakes. Despite Argentina's attacking talent, Spain's ability to control the tempo and stifle opposition attacks suggests goals will be at a premium.",
           "awayLast5": [
             "W",
             "W",
@@ -178,9 +178,9 @@
           "game": "Argentina @ Spain",
           "betType": "prop",
           "pick": "Lionel Messi Anytime Goalscorer",
-          "odds": "N/A",
+          "odds": "+130",
           "confidence": "high",
-          "rationale": "Lionel Messi is confirmed active and a pivotal player for Argentina in today's final. He has been in phenomenal form throughout the tournament, leading with 8 goals and 4 assists. Even at 39, Messi remains the most influential player for Argentina, consistently delivering match-winning impacts. Given the high stakes of the World Cup Final, Messi will undoubtedly be central to Argentina's attack and is highly likely to find the back of the net.",
+          "rationale": "Lionel Messi has been Argentina's most influential player, directly contributing to a goal (scoring or assisting) in every single match for Argentina in this World Cup, with 8 goals and 5 assists. He is confirmed active and expected to lead Argentina's attack in the final. Despite Spain's strong defense, Messi's individual brilliance and ability to create scoring opportunities from difficult situations make him a constant threat. Given his pivotal role and exceptional form, odds of +130 for an anytime goal are good value for a player of his caliber in a final.",
           "awayLast5": [
             "W",
             "W",
@@ -198,11 +198,11 @@
         },
         {
           "game": "Argentina @ Spain",
-          "betType": "moneyline",
-          "pick": "Argentina (+270)",
-          "odds": "+270",
+          "betType": "prop",
+          "pick": "Mikel Oyarzabal Anytime Goalscorer",
+          "odds": "+170",
           "confidence": "medium",
-          "rationale": "As defending champions, Argentina has maintained a perfect 10-0-0 record in the tournament, consistently finding ways to win, even if it meant going to extra time in three knockout games. The head-to-head record between these two nations is perfectly even over 14 previous encounters, with six wins apiece and two draws, indicating a balanced rivalry. With Lionel Messi's exceptional form and ability to produce moments of brilliance, Argentina offers significant value as an underdog in this World Cup Final.",
+          "rationale": "Mikel Oyarzabal is a key attacking player for Spain and is expected to lead the line in the final. He scored in Spain's 2-0 semifinal victory over France, demonstrating his ability to perform in crucial matches. Spain has scored 17 goals in the tournament, and Oyarzabal has contributed to their offensive success, making him a strong candidate to find the net. With Spain's strong form and offensive capabilities, Oyarzabal at +170 offers good value as an anytime goalscorer.",
           "awayLast5": [
             "W",
             "W",
@@ -220,11 +220,11 @@
         },
         {
           "game": "Argentina @ Spain",
-          "betType": "total",
-          "pick": "Over 2.5 (+140)",
-          "odds": "+140",
+          "betType": "prop",
+          "pick": "Lamine Yamal Anytime Goalscorer",
+          "odds": "+230",
           "confidence": "medium",
-          "rationale": "Despite Spain's strong defense, Argentina's recent tournament matches have been notably high-scoring, with their last five games featuring scores like 2-1, 3-1, 3-2, 3-2, and 3-1. Argentina's potent attack, spearheaded by Lionel Messi, has scored 29 goals this season, demonstrating their offensive capability. If Argentina manages to break through Spain's formidable defense, and Spain's own attacking talent responds, the game could open up, as seen in their 6-1 friendly match in 2018.",
+          "rationale": "Lamine Yamal, despite earlier fitness concerns, is confirmed available and expected to start for Spain in the final. He is a rising star and a significant part of Spain's attacking threat, known for his ability to create chances and score. Spain's offensive strategy involves multiple attacking options, and Yamal's presence on the wing provides a dynamic threat against Argentina's defense. At +230, Yamal presents an appealing long-shot opportunity for an anytime goal, given his talent and confirmed active status in a high-scoring Spanish attack.",
           "awayLast5": [
             "W",
             "W",
