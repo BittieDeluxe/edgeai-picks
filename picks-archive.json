@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-19",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Detroit Tigers @ Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Detroit Tigers (-138)",
+            "odds": "-138",
+            "confidence": "high",
+            "result": "L",
+            "score": "Detroit Tigers 2, Los Angeles Angels 3"
+          },
+          {
+            "game": "Cincinnati Reds @ Colorado Rockies",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds (-164)",
+            "odds": "-164",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 9, Colorado Rockies 6"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Cleveland Guardians",
+            "betType": "total",
+            "pick": "Under 6.5 (-120)",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Pittsburgh Pirates 7, Cleveland Guardians 1"
+          },
+          {
+            "game": "San Francisco Giants @ Seattle Mariners",
+            "betType": "total",
+            "pick": "Under 7 (-122)",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Francisco Giants 3, Seattle Mariners 6"
+          },
+          {
+            "game": "Baltimore Orioles @ Houston Astros",
+            "betType": "moneyline",
+            "pick": "Baltimore Orioles (+106)",
+            "odds": "+106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Baltimore Orioles 5, Houston Astros 2"
+          }
+        ]
+      },
+      {
+        "sport": "WORLDCUP",
+        "picks": [
+          {
+            "game": "Argentina @ Spain",
+            "betType": "moneyline",
+            "pick": "Spain (+125)",
+            "odds": "+125",
+            "confidence": "high",
+            "result": "W",
+            "score": "Argentina 0, Spain 1"
+          },
+          {
+            "game": "Argentina @ Spain",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-150",
+            "confidence": "high",
+            "result": "W",
+            "score": "Argentina 0, Spain 1"
+          },
+          {
+            "game": "Argentina @ Spain",
+            "betType": "prop",
+            "pick": "Lionel Messi Anytime Goalscorer",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Argentina @ Spain",
+            "betType": "prop",
+            "pick": "Mikel Oyarzabal Anytime Goalscorer",
+            "odds": "+170",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Argentina @ Spain",
+            "betType": "prop",
+            "pick": "Lamine Yamal Anytime Goalscorer",
+            "odds": "+230",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-18",
     "sports": [
       {
@@ -2324,11 +2430,6 @@
   },
   {
     "date": "2026-06-20",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-19",
     "sports": [],
     "playerProps": []
   }
