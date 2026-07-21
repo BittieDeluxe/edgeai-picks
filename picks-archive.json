@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-20",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "New York Mets @ Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+160",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Mets 3, Milwaukee Brewers 8"
+          },
+          {
+            "game": "San Diego Padres @ Atlanta Braves",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5",
+            "odds": "+158",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Diego Padres 2, Atlanta Braves 3"
+          },
+          {
+            "game": "Miami Marlins @ Houston Astros",
+            "betType": "total",
+            "pick": "Over 9",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 5, Houston Astros 8"
+          },
+          {
+            "game": "Detroit Tigers @ Chicago Cubs",
+            "betType": "moneyline",
+            "pick": "Chicago Cubs (-118)",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Tigers 8, Chicago Cubs 6"
+          },
+          {
+            "game": "Chicago White Sox @ Texas Rangers",
+            "betType": "spread",
+            "pick": "Texas Rangers -1.5",
+            "odds": "+132",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago White Sox 10, Texas Rangers 3"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-19",
     "sports": [
       {
@@ -2425,11 +2481,6 @@
   },
   {
     "date": "2026-06-21",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-20",
     "sports": [],
     "playerProps": []
   }
