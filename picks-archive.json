@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-21",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Detroit Tigers @ Chicago Cubs",
+            "betType": "moneyline",
+            "pick": "Detroit Tigers",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Detroit Tigers 2, Chicago Cubs 11"
+          },
+          {
+            "game": "Tampa Bay Rays @ Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 12, Toronto Blue Jays 2"
+          },
+          {
+            "game": "Minnesota Twins @ Cleveland Guardians",
+            "betType": "spread",
+            "pick": "Cleveland Guardians -1.5",
+            "odds": "+134",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Twins 2, Cleveland Guardians 5"
+          },
+          {
+            "game": "Chicago White Sox @ Texas Rangers",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago White Sox 0, Texas Rangers 10"
+          },
+          {
+            "game": "Pittsburgh Pirates @ New York Yankees",
+            "betType": "total",
+            "pick": "Over 9.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "New York City FC @ Columbus Crew SC",
+            "betType": "moneyline",
+            "pick": "Columbus Crew SC",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New York Red Bulls @ Philadelphia Union",
+            "betType": "moneyline",
+            "pick": "New York Red Bulls",
+            "odds": "+330",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Vancouver Whitecaps FC @ FC Cincinnati",
+            "betType": "moneyline",
+            "pick": "Vancouver Whitecaps FC",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Toronto FC @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Chicago Fire @ Inter Miami CF",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-20",
     "sports": [
       {
@@ -2476,11 +2582,6 @@
   },
   {
     "date": "2026-06-22",
-    "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-21",
     "sports": [],
     "playerProps": []
   }

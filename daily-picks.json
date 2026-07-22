@@ -1,113 +1,17 @@
 {
-  "date": "2026-07-21",
-  "generatedAt": "2026-07-21T18:10:31.743Z",
+  "date": "2026-07-22",
+  "generatedAt": "2026-07-22T18:02:25.978Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Detroit Tigers @ Chicago Cubs",
-          "betType": "moneyline",
-          "pick": "Detroit Tigers",
-          "odds": "+102",
-          "confidence": "high",
-          "rationale": "The Detroit Tigers hold a significant pitching advantage with Framber Valdez (4.10 ERA) facing Chicago's David Peterson (6.45 ERA), who has struggled considerably this season. Detroit is also in better recent form, having won seven of their last ten games and taking the series opener 8-6 in extra innings. Peterson's high ERA and WHIP (1.64) suggest he will give up traffic, and the Cubs may even use an opener, indicating a lack of confidence in him. At plus money, the Tigers present strong value given the pitching mismatch and their current momentum.",
-          "awayRecord": "47-53",
-          "homeRecord": "56-44",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays @ Toronto Blue Jays",
-          "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "-110",
-          "confidence": "high",
-          "rationale": "The Tampa Bay Rays have dominated their head-to-head matchups against the Blue Jays this season, boasting a 6-1 record, including a decisive 7-1 victory in Monday's series opener. Toronto's offense has been in a severe slump, being outscored 22-6 since the All-Star break and losing five of their last six games. While Rays starter Drew Rasmussen had a couple of rough outings before the break, he is now rested, and the Rays are the superior team with a much better overall record. This makes the Rays a high-confidence pick at a favorable moneyline.",
-          "awayRecord": "57-42",
-          "homeRecord": "46-54",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Minnesota Twins @ Cleveland Guardians",
-          "betType": "spread",
-          "pick": "Cleveland Guardians -1.5",
-          "odds": "+134",
-          "confidence": "high",
-          "rationale": "The Cleveland Guardians enter this game with significant momentum after a dominant 13-4 win in the series opener, featuring seven home runs. Guardians starter Parker Messick has been a reliable ace this season with an 8-5 record and a 2.73 ERA, offering strong control and durability. Conversely, Twins rookie Kendry Rojas, making only his third start, carries a concerning 1.60 WHIP and a high walk rate that Cleveland's hot offense can exploit. With public money heavily backing the Guardians, they are well-positioned to secure another convincing victory.",
-          "awayRecord": "49-52",
-          "homeRecord": "53-48",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Chicago White Sox @ Texas Rangers",
-          "betType": "total",
-          "pick": "Over 8.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "This game features two starting pitchers with elevated ERAs: Noah Schultz (5.60 ERA) for the White Sox and Kumar Rocker (4.40 ERA) for the Rangers, both of whom have shown susceptibility to allowing runs. The White Sox offense is currently hot, having scored 34 runs over their last five games, including a 10-3 win against Texas in the series opener. With both teams demonstrating offensive capability and pitching struggles, the Over 8.5 runs is a strong play. The line movement has also slightly favored the Over, indicating sharp money.",
-          "awayRecord": "53-46",
-          "homeRecord": "50-50",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
           "game": "Pittsburgh Pirates @ New York Yankees",
-          "betType": "total",
-          "pick": "Over 9.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The total for this game has seen upward line movement, suggesting expectations for a higher-scoring affair. Pirates' rookie starter Bubba Chandler possesses a high 4.77 ERA and a league-leading walk rate of 5.25 per nine innings, which is a significant concern in the hitter-friendly Yankee Stadium. The Pirates' offense is potent, ranking in the top three in wRC+, runs scored, and OPS, capable of capitalizing on any pitching mistakes. Additionally, Pittsburgh's bullpen has a shaky 4.38 ERA, increasing the likelihood of late-game runs.",
+          "betType": "spread",
+          "pick": "New York Yankees -1.5",
+          "odds": "+119",
+          "confidence": "high",
+          "rationale": "The Yankees hold a significant pitching advantage in Game 1 with Gerrit Cole (3.93 ERA) facing Mitch Keller (5.14 ERA) for the Pirates. New York has also dominated recent head-to-head matchups, including an 8-5 victory over the Pirates on July 20th. Line movement indicates sharp money backing the Yankees, with the runline shortening and 99% of moneyline cash on New York. Additionally, moderate winds blowing out at Yankee Stadium favor the stronger offensive team, further supporting a multi-run victory for the Yankees.",
           "awayRecord": "52-49",
           "homeRecord": "56-44",
           "awayLast5": [
@@ -124,6 +28,102 @@
             "W",
             "W"
           ]
+        },
+        {
+          "game": "New York Mets @ Milwaukee Brewers",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers",
+          "odds": "-158",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers boast a strong 63-38 record and have been excellent at home, winning 6 of their last 7 games. They also hold a dominant 10-5 head-to-head record against the Mets in their last 15 matchups, including winning 4 of the last 5 at home. The Mets are struggling at 43-59 and are dealing with key injuries, including Francisco Lindor being questionable with a hand injury. Milwaukee's offense has significantly outperformed the Mets' recently, with a 109 wRC+ and .732 OPS over the last week.",
+          "awayRecord": "43-59",
+          "homeRecord": "63-38",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Washington Nationals @ Colorado Rockies",
+          "betType": "spread",
+          "pick": "Washington Nationals -1.5",
+          "odds": "+110",
+          "confidence": "high",
+          "rationale": "The Nationals face a struggling Rockies team (41-62) that is significantly impacted by injuries to key players like Kris Bryant and Zac Veen. Washington has a clear pitching advantage with Cade Cavalli (3.78 ERA) against rookie Gabriel Hughes. Public betting trends show strong backing for the Nationals on both the moneyline (91-95%) and run line (92%). While Coors Field is known for offense, the Nationals' stronger overall team profile and bullpen advantage should allow them to cover the spread.",
+          "awayRecord": "51-51",
+          "homeRecord": "41-62",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers @ Philadelphia Phillies",
+          "betType": "moneyline",
+          "pick": "Los Angeles Dodgers",
+          "odds": "-120",
+          "confidence": "medium",
+          "rationale": "The Dodgers have been in strong form, winning all seven games started by Eric Lauer this season, despite his elevated ERA. Conversely, the Phillies have lost four straight games with Aaron Nola on the mound, who has a 5.68 ERA this season and a 6.50 ERA in his last six starts. Line movement indicates sharp money on the Dodgers, with their moneyline shifting from a pick'em to -120 and attracting 80-98% of moneyline bets. The Dodgers also hold a 3-2 head-to-head advantage in their last five matchups against the Phillies.",
+          "awayRecord": "64-38",
+          "homeRecord": "56-46",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Tampa Bay Rays @ Toronto Blue Jays",
+          "betType": "prop",
+          "pick": "George Springer Over 1.5 Total Bases",
+          "odds": "+130",
+          "confidence": "medium",
+          "rationale": "George Springer has a favorable historical matchup against Rays starter Griffin Jax, with a 3-for-7 record and two home runs in previous encounters. Springer has also shown good recent form, recording at least one hit in five of his last six games, including an extra-base hit in the previous game. Jax has an elevated 4.08 ERA and allowed seven runs in his last outing, indicating potential vulnerability. The plus-money odds of +130 offer excellent value for this player prop given the strong head-to-head history and recent performance.",
+          "awayRecord": "58-42",
+          "homeRecord": "46-55",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
         }
       ]
     },
@@ -131,44 +131,54 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "New York City FC @ Columbus Crew SC",
+          "game": "Vancouver Whitecaps @ FC Cincinnati",
           "betType": "moneyline",
-          "pick": "Columbus Crew SC",
-          "odds": "-105",
+          "pick": "Vancouver Whitecaps",
+          "odds": "-125",
           "confidence": "high",
-          "rationale": "Columbus Crew SC holds a significant home advantage against New York City FC, remaining unbeaten in their last 12 home encounters with 9 wins and 3 draws. New York City FC is severely hampered by injuries, with key players like Alonso Martinez, Andrew Baiera, Keaton Parks, Talles Magno, Malachi Jones, Kevin O'Toole, Hannes Wolf, and Maxi Moralez all listed as injured or doubtful. The Crew are in better recent form, being unbeaten in their last four matches across all competitions, while NYCFC has no wins in their last three games and has lost consecutive away fixtures. This combination of home dominance, NYCFC's extensive injury list, and superior recent form makes Columbus Crew SC a high-confidence pick at -105."
-        },
-        {
-          "game": "New York Red Bulls @ Philadelphia Union",
-          "betType": "moneyline",
-          "pick": "New York Red Bulls",
-          "odds": "+330",
-          "confidence": "medium",
-          "rationale": "The Philadelphia Union are in dismal form, sitting at the bottom of the Eastern Conference with no wins in their last eight games and failing to secure a home victory in six fixtures this season. Conversely, the New York Red Bulls enter this match in excellent form, boasting a four-game unbeaten streak and having collected 13 points from their last 15 available. They have also secured back-to-back away wins, demonstrating strong road performance. Despite both teams having significant injury lists, Philadelphia's overall struggles and the Red Bulls' current momentum provide substantial value for the +330 moneyline."
-        },
-        {
-          "game": "Vancouver Whitecaps FC @ FC Cincinnati",
-          "betType": "moneyline",
-          "pick": "Vancouver Whitecaps FC",
-          "odds": "-130",
-          "confidence": "high",
-          "rationale": "Vancouver Whitecaps FC are in strong current form, having won 3 of their last 5 matches and currently leading the Western Conference with 32 points from 14 games. Historically, FC Cincinnati has never defeated Vancouver Whitecaps FC in their three previous head-to-head matchups, with Vancouver securing one win and two draws. The Whitecaps' overall record of 10 wins, 2 draws, and 2 losses, coupled with a solid away form of 3 wins, 2 draws, and 1 loss, further reinforces their strength. Given their superior form, conference-leading position, and favorable head-to-head record, the Whitecaps at -130 is a high-confidence pick."
+          "rationale": "Vancouver Whitecaps are in excellent form, sitting atop the Western Conference with 10 wins, 2 draws, and 2 losses in 14 games, scoring 34 goals and conceding only 12. FC Cincinnati, while having a recent 6-2 home win, have been inconsistent with a 5-5-5 record this season and have conceded 37 goals in 15 games. Historically, Vancouver has not lost to Cincinnati in their last three encounters, with one win and two draws. Several key Vancouver players are listed as injured, including Kenji Cabrera, Emmanuel Sabbi, Cheikh Sabaly, Ralph Priso-Mbongue, and Belal Halbouni, but despite these absences, Vancouver's strong overall form and defensive solidity should prevail against an inconsistent Cincinnati side.",
+          "awayRecord": "10-2-2",
+          "homeRecord": "5-5-5"
         },
         {
           "game": "Toronto FC @ New England Revolution",
           "betType": "moneyline",
           "pick": "New England Revolution",
-          "odds": "-120",
-          "confidence": "medium",
-          "rationale": "New England Revolution exhibits excellent home form this season, with an impressive record of 7 wins, 0 draws, and only 1 loss. In stark contrast, Toronto FC is struggling significantly, positioned 12th in the Eastern Conference and showing a poor recent form of 3 losses and 2 draws in their last 5 games. The head-to-head history also favors New England, who have won 17 of their 43 encounters against Toronto FC's 11 wins. As the 4th-placed team in the Eastern Conference, New England's strong overall performance and dominant home record make the -120 moneyline a high-confidence selection."
+          "odds": "+105",
+          "confidence": "high",
+          "rationale": "New England Revolution boasts an excellent home record with 7 wins, 0 draws, and 1 loss this season, placing them 9th overall in the MLS table. Toronto FC, in contrast, has a poor overall record of 3 wins, 6 draws, and 6 losses. While New England recently lost 3-0 to Nashville SC, their home form remains a significant advantage. Toronto FC's struggles on the road and New England's strong performance at home make the Revolution a confident pick at favorable odds.",
+          "awayRecord": "3-6-6",
+          "homeRecord": "8-1-5"
         },
         {
-          "game": "Chicago Fire @ Inter Miami CF",
+          "game": "FC Dallas @ Portland Timbers",
+          "betType": "moneyline",
+          "pick": "FC Dallas",
+          "odds": "+170",
+          "confidence": "high",
+          "rationale": "FC Dallas has demonstrated excellent away form this season with 4 wins, 0 draws, and 2 losses, contributing to their overall good record of 7 wins, 4 draws, and 4 losses. Portland Timbers, on the other hand, have a poor overall form with 5 wins, 2 draws, and 8 losses, and their home form is only average with 3 wins, 1 draw, and 2 losses. FC Dallas has also scored 30 goals this season, indicating a strong offensive presence. Given Dallas's superior away performance and Portland's struggles, the road team presents strong value.",
+          "awayRecord": "7-4-4",
+          "homeRecord": "4-2-8"
+        },
+        {
+          "game": "Red Bull New York @ Philadelphia Union",
           "betType": "total",
           "pick": "Over 3.5",
-          "odds": "-120",
+          "odds": "+115",
           "confidence": "medium",
-          "rationale": "Matches between Inter Miami CF and Chicago Fire have consistently been high-scoring affairs, with an average of 3.60 goals per game in their head-to-head history. A significant 70% of their direct matchups have seen over 2.5 goals, and 56% have exceeded 3.5 goals. Both teams demonstrate strong offensive capabilities this season, with Inter Miami scoring 39 goals and Chicago Fire netting 27 goals. Given this historical trend of high-scoring contests and their current attacking prowess, betting on Over 3.5 goals at -120 is a high-confidence pick."
+          "rationale": "Philadelphia Union has a concerning defensive record, conceding 10 goals in their last 4 matches and sitting at 1-4-10 overall. Red Bull New York, despite their middling record, have shown an ability to score, with 25 goals this season. Given Philadelphia's defensive vulnerabilities and the favorable odds for the over, a high-scoring affair is anticipated. This pick capitalizes on Philadelphia's porous defense and the potential for both teams to find the back of the net.",
+          "awayRecord": "6-4-5",
+          "homeRecord": "1-4-10"
+        },
+        {
+          "game": "Minnesota United FC @ Sporting Kansas City",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+130",
+          "confidence": "medium",
+          "rationale": "Minnesota United has been involved in several high-scoring games recently, with their last five matches including a 3-2 win, a 2-2 draw, a 0-1 loss, a 1-2 loss, and a 1-1 draw. Their overall form shows an average of 2.29 goals per game, with 40% of their matches seeing both teams score. Sporting Kansas City has a poor defensive record, conceding 39 goals in 14 games, indicating a high likelihood of goals. With both teams having a propensity for goals and defensive weaknesses, the Over 3.5 at +130 offers excellent value.",
+          "awayRecord": "6-4-5",
+          "homeRecord": "3-2-9"
         }
       ]
     }
