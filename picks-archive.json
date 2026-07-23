@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-22",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Pittsburgh Pirates @ New York Yankees",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+119",
+            "confidence": "high",
+            "result": "L",
+            "score": "Pittsburgh Pirates 5, New York Yankees 3"
+          },
+          {
+            "game": "New York Mets @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-158",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Mets 3, Milwaukee Brewers 4"
+          },
+          {
+            "game": "Washington Nationals @ Colorado Rockies",
+            "betType": "spread",
+            "pick": "Washington Nationals -1.5",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Washington Nationals 8, Colorado Rockies 0"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Los Angeles Dodgers",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Dodgers 9, Philadelphia Phillies 5"
+          },
+          {
+            "game": "Tampa Bay Rays @ Toronto Blue Jays",
+            "betType": "prop",
+            "pick": "George Springer Over 1.5 Total Bases",
+            "odds": "+130",
+            "confidence": "medium",
+            "result": "?",
+            "score": "George Springer: \"Total Bases\" not auto-gradeable"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Vancouver Whitecaps @ FC Cincinnati",
+            "betType": "moneyline",
+            "pick": "Vancouver Whitecaps",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "L",
+            "score": "Vancouver Whitecaps 3, FC Cincinnati 4"
+          },
+          {
+            "game": "Toronto FC @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+105",
+            "confidence": "high",
+            "result": "L",
+            "score": "Toronto FC 0, New England Revolution 0"
+          },
+          {
+            "game": "FC Dallas @ Portland Timbers",
+            "betType": "moneyline",
+            "pick": "FC Dallas",
+            "odds": "+170",
+            "confidence": "high",
+            "result": "L",
+            "score": "FC Dallas 2, Portland Timbers 2"
+          },
+          {
+            "game": "Red Bull New York @ Philadelphia Union",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Red Bull New York 1, Philadelphia Union 3"
+          },
+          {
+            "game": "Minnesota United FC @ Sporting Kansas City",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+130",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota United FC 1, Sporting Kansas City 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-21",
     "sports": [
       {
@@ -47,8 +153,8 @@
             "pick": "Over 9.5",
             "odds": "-110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Pittsburgh Pirates 5, New York Yankees 3"
           }
         ]
       },
@@ -88,8 +194,8 @@
             "pick": "New England Revolution",
             "odds": "-120",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Toronto FC 0, New England Revolution 0"
           },
           {
             "game": "Chicago Fire @ Inter Miami CF",
@@ -2578,11 +2684,6 @@
         ]
       }
     ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-22",
-    "sports": [],
     "playerProps": []
   }
 ]
