@@ -1,96 +1,72 @@
 {
-  "date": "2026-07-23",
-  "generatedAt": "2026-07-23T18:07:32.615Z",
+  "date": "2026-07-24",
+  "generatedAt": "2026-07-24T18:11:44.610Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "San Diego Padres @ Atlanta Braves",
-          "betType": "spread",
-          "pick": "Atlanta Braves -2.5",
-          "odds": "+154",
-          "confidence": "high",
-          "rationale": "The Atlanta Braves, with ace Chris Sale (10-6, 2.06 ERA) starting, face the struggling Padres' pitcher Griffin Canning (1-8, 6.67 ERA), presenting a significant pitching mismatch. Atlanta has won two of the first three games in this series and is motivated to secure the series victory at home. The Braves are heavy favorites, and their strong offensive capabilities against a vulnerable starter should allow them to win by at least three runs, offering excellent value at +154.",
-          "awayRecord": "50-52",
-          "homeRecord": "59-42",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays @ Toronto Blue Jays",
-          "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "-116",
-          "confidence": "high",
-          "rationale": "The Tampa Bay Rays have been dominant against the Blue Jays this season, holding an 8-1 head-to-head record and outscoring them 23-5 in the first three games of this series. Toronto's offense is in a severe slump, averaging a league-worst 3.94 runs per game and scoring two or fewer runs in 12 of their last 19 contests. Despite Shane Bieber's recent strong outing, the Rays' overall superior form and offensive struggles of the Blue Jays make Tampa Bay a confident moneyline pick.",
-          "awayRecord": "59-42",
-          "homeRecord": "46-56",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Arizona Diamondbacks @ St. Louis Cardinals",
-          "betType": "moneyline",
-          "pick": "Arizona Diamondbacks",
-          "odds": "-104",
-          "confidence": "high",
-          "rationale": "The Arizona Diamondbacks are showing strong recent form, with starter Brandon Pfaadt (4-1, 4.58 ERA) boasting a 2.30 ERA across three July starts and the team holding a 4-0 record in his last four outings. Conversely, the St. Louis Cardinals have struggled, going 3-7 in Michael McGreevy's last ten starts and losing four of their last five games. Significant sharp reverse line movement has been observed, with the line shifting towards the Diamondbacks despite public money on the Cardinals, indicating professional bettors favor Arizona.",
-          "awayRecord": "53-49",
-          "homeRecord": "52-49",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
           "game": "Kansas City Royals @ Detroit Tigers",
+          "betType": "spread",
+          "pick": "Detroit Tigers -1.5",
+          "odds": "+118",
+          "confidence": "high",
+          "rationale": "The Detroit Tigers hold a significant pitching advantage with Tarik Skubal (2.83 ERA) on the mound against a Kansas City Royals bullpen game, led by opener Beck Way. The Royals' relief corps has been in poor form, exhibiting a 5.27 xERA and allowing 3.09 home runs per nine innings over the last week. Furthermore, the Tigers have demonstrated strong recent form, hitting the moneyline in 14 of their last 19 games. This clear pitching mismatch and the struggling Royals bullpen provide a strong foundation for the Tigers to cover the spread.",
+          "awayRecord": "43-61",
+          "homeRecord": "49-54",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Arizona Diamondbacks @ Washington Nationals",
+          "betType": "moneyline",
+          "pick": "Arizona Diamondbacks (+110)",
+          "odds": "+110",
+          "confidence": "high",
+          "rationale": "The Arizona Diamondbacks possess a distinct starting pitching advantage with Eduardo Rodriguez (8-3, 2.62 ERA) facing Washington's Carson Palmquist (0-1, 8.74 ERA). Rodriguez's team has performed well in his starts, covering the spread in 13 of 20 games and winning 77.8% of his starts when favored. Arizona enters this game on a three-game winning streak, having scored at least six runs in each of those victories. Despite being on the road, the Diamondbacks' superior pitching and recent offensive momentum make them a high-confidence moneyline pick.",
+          "awayRecord": "54-49",
+          "homeRecord": "52-51",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "New York Yankees @ Philadelphia Phillies",
           "betType": "total",
           "pick": "Under 8.5",
-          "odds": "-112",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "This matchup features a notable pitching advantage for the Detroit Tigers with Troy Melton (1.80 ERA) on the mound, while Kansas City's Randy Dobnak has also shown strong run-prevention capabilities. Comerica Park is generally not conducive to high-scoring games, further supporting an Under play. Despite public betting leaning towards the Over, the strong starting pitching and park factors suggest a lower-scoring affair, making the Under 8.5 at -112 a high-confidence pick.",
-          "awayRecord": "43-60",
-          "homeRecord": "48-54",
+          "rationale": "This game features a strong pitching matchup between Jesus Luzardo (3.44 ERA) for the Phillies and Will Warren (3.99 ERA) for the Yankees, suggesting a lower-scoring affair. The Yankees have a notable trend of playing to the under in road games, with 31 of their 51 away contests going under the total. The total line itself has seen movement downward from its opening of 8.5, indicating sharp money favoring fewer runs. These factors collectively point to a high-confidence play on the Under 8.5.",
+          "awayRecord": "57-45",
+          "homeRecord": "56-47",
           "awayLast5": [
-            "W",
             "L",
             "W",
             "W",
+            "L",
             "W"
           ],
           "homeLast5": [
@@ -98,32 +74,101 @@
             "L",
             "W",
             "L",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "San Diego Padres @ Atlanta Braves",
-          "betType": "total",
-          "pick": "Under 9.5",
-          "odds": "+104",
+          "game": "Cleveland Guardians @ Tampa Bay Rays",
+          "betType": "moneyline",
+          "pick": "Tampa Bay Rays (-130)",
+          "odds": "-130",
           "confidence": "medium",
-          "rationale": "With Atlanta's ace Chris Sale (2.06 ERA) starting, the Padres' scoring opportunities are expected to be limited. Although San Diego's starter Griffin Canning (6.67 ERA) has struggled, the market consensus for this game's total is consistently around 8 or 8.5 runs, making the verified line of 9.5 a full run higher than expected. This discrepancy, combined with Sale's dominance, provides significant value on the Under 9.5 at plus money.",
-          "awayRecord": "50-52",
-          "homeRecord": "59-42",
+          "rationale": "The Tampa Bay Rays boast the best home record in the American League at 35-15, contributing to their strong 59-43 overall record. They hold a significant pitching advantage with Shane McClanahan (3.16 ERA), who recently delivered a strong scoreless outing. In contrast, Guardians starter Joey Cantillo (3.74 ERA) has struggled with command, issuing 52 walks this season, which could lead to big innings. Despite a recent dip in form, the Rays' dominant home performance and McClanahan's reliability against Cantillo's control issues make the Rays moneyline a high-confidence pick.",
+          "awayRecord": "54-50",
+          "homeRecord": "59-43",
           "awayLast5": [
             "L",
             "W",
-            "L",
             "W",
+            "L",
             "L"
           ],
           "homeLast5": [
             "L",
             "W",
             "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Houston Astros @ Chicago White Sox",
+          "betType": "total",
+          "pick": "Over 8.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The total for this game has seen significant market action, with analysis suggesting the Over 8.5 is the sharper play. The Houston Astros' offense is in good form, coming off a series sweep against Miami and extending their winning streak to three games. Both teams have shown a tendency for higher-scoring games, with Houston's first-five road totals going over in 28 of 47 games and Chicago's full-game totals going over in 57 of 99 games. These offensive trends and line movement support a high-confidence pick on the Over 8.5.",
+          "awayRecord": "50-54",
+          "homeRecord": "54-47",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
             "L",
             "W"
           ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Atlanta United FC @ New England Revolution",
+          "betType": "moneyline",
+          "pick": "New England Revolution",
+          "odds": "+100",
+          "confidence": "high",
+          "rationale": "New England Revolution boasts a very strong home record this season with 7 wins, 1 draw, and 1 loss, placing them 4th in the Eastern Conference. They also hold a significant head-to-head advantage over Atlanta United, having won their last four meetings, scoring seven goals and conceding only two. Atlanta United is struggling at 28th overall in MLS and 14th in the Eastern Conference, compounded by multiple key injuries including Pedro Amador, Jay Fortune, and Sergio Santos being out. This combination of New England's strong home form, H2H dominance, and Atlanta's poor form and injury woes makes the Revolution a high-confidence pick."
+        },
+        {
+          "game": "Seattle Sounders FC @ Philadelphia Union",
+          "betType": "moneyline",
+          "pick": "Philadelphia Union",
+          "odds": "+105",
+          "confidence": "high",
+          "rationale": "Philadelphia Union recently snapped a nine-match winless streak with a crucial 3-1 home victory against the New York Red Bulls, which was their first home win of the 2026 season. In contrast, Seattle Sounders are in a significant slump, having lost four consecutive matches, including their last game 3-1 to Austin FC. Seattle is also severely hampered by injuries and suspensions, with nine senior players unavailable, including key players Ragen and Pedro de la Vega. The betting line movement, with Philadelphia's moneyline shifting from +115 to +105, further indicates sharp money backing the Union at home."
+        },
+        {
+          "game": "Chicago Fire @ New York City FC",
+          "betType": "moneyline",
+          "pick": "New York City FC",
+          "odds": "+138",
+          "confidence": "high",
+          "rationale": "New York City FC holds a dominant head-to-head record against Chicago Fire, winning 13 of their 24 previous encounters, including three of the last five matchups. NYCFC enters this game with a recent 2-1 away win against Columbus Crew, while Chicago Fire suffered a 2-4 loss to Inter Miami CF in their last outing. Chicago Fire is also dealing with several unavailable players, including Christopher Cupps, André Franco, and Chris Mueller, weakening their squad. Despite playing on short rest, NYCFC's historical dominance and Chicago's current struggles and injuries give them a significant edge at home."
+        },
+        {
+          "game": "FC Cincinnati @ Columbus Crew SC",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-130",
+          "confidence": "medium",
+          "rationale": "Both FC Cincinnati and Columbus Crew SC are playing on just one day of rest, which often leads to more conservative play and fewer goals. Columbus Crew SC is significantly impacted by injuries to key attacking players, with Wessam Abou Ali, Andre Gomes, and Brooks Lennon all ruled out. While FC Cincinnati recently had a high-scoring game, their overall form has been inconsistent, and they are known for defensive prowess in recent seasons despite some recent defensive lapses. The combination of short rest, Columbus's offensive injuries, and Cincinnati's potential to revert to a more structured defensive approach supports the Under 3.5 total."
+        },
+        {
+          "game": "Charlotte FC @ New York Red Bulls",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-165",
+          "confidence": "medium",
+          "rationale": "Charlotte FC will be without David Schnegg due to a red card suspension and Aron John due to an upper body injury, impacting their defensive and overall squad depth. Both teams are on short rest, having played on July 22, which typically contributes to lower-scoring affairs as fatigue sets in. The verified line for Under 3.5 at -165 indicates a strong market expectation for a tight, low-scoring contest. Given the short turnaround, Charlotte's absences, and the general trend of MLS games on limited rest, this total is a high-confidence play."
         }
       ]
     }
