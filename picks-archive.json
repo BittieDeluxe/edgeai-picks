@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-24",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Kansas City Royals @ Detroit Tigers",
+            "betType": "spread",
+            "pick": "Detroit Tigers -1.5",
+            "odds": "+118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Kansas City Royals 1, Detroit Tigers 2"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Washington Nationals",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks (+110)",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Arizona Diamondbacks 3, Washington Nationals 2"
+          },
+          {
+            "game": "New York Yankees @ Philadelphia Phillies",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Yankees 1, Philadelphia Phillies 0"
+          },
+          {
+            "game": "Cleveland Guardians @ Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays (-130)",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Guardians 3, Tampa Bay Rays 11"
+          },
+          {
+            "game": "Houston Astros @ Chicago White Sox",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Astros 9, Chicago White Sox 5"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Atlanta United FC @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Seattle Sounders FC @ Philadelphia Union",
+            "betType": "moneyline",
+            "pick": "Philadelphia Union",
+            "odds": "+105",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Chicago Fire @ New York City FC",
+            "betType": "moneyline",
+            "pick": "New York City FC",
+            "odds": "+138",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "FC Cincinnati @ Columbus Crew SC",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Charlotte FC @ New York Red Bulls",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-165",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-23",
     "sports": [
       {
@@ -2542,112 +2648,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Sweden 1, Japan 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-24",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Boston Red Sox @ Colorado Rockies",
-            "betType": "spread",
-            "pick": "Boston Red Sox -1.5",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Boston Red Sox 6, Colorado Rockies 8"
-          },
-          {
-            "game": "Arizona Diamondbacks @ St. Louis Cardinals",
-            "betType": "moneyline",
-            "pick": "St. Louis Cardinals",
-            "odds": "-116",
-            "confidence": "high",
-            "result": "L",
-            "score": "Arizona Diamondbacks 9, St. Louis Cardinals 4"
-          },
-          {
-            "game": "Cleveland Guardians @ Chicago White Sox",
-            "betType": "moneyline",
-            "pick": "Chicago White Sox",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Cleveland Guardians 4, Chicago White Sox 3"
-          },
-          {
-            "game": "Houston Astros @ Toronto Blue Jays",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Houston Astros 3, Toronto Blue Jays 1"
-          },
-          {
-            "game": "Philadelphia Phillies @ Washington Nationals",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Phillies 5, Washington Nationals 4"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Qatar @ Bosnia-Herzegovina",
-            "betType": "moneyline",
-            "pick": "Bosnia-Herzegovina (-270)",
-            "odds": "-270",
-            "confidence": "high",
-            "result": "W",
-            "score": "Qatar 1, Bosnia-Herzegovina 3"
-          },
-          {
-            "game": "Qatar @ Bosnia-Herzegovina",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-155",
-            "confidence": "high",
-            "result": "W",
-            "score": "Qatar 1, Bosnia-Herzegovina 3"
-          },
-          {
-            "game": "Brazil @ Scotland",
-            "betType": "moneyline",
-            "pick": "Brazil (-340)",
-            "odds": "-340",
-            "confidence": "high",
-            "result": "W",
-            "score": "Brazil 3, Scotland 0"
-          },
-          {
-            "game": "Canada @ Switzerland",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-140",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Canada 1, Switzerland 2"
-          },
-          {
-            "game": "South Korea @ South Africa",
-            "betType": "moneyline",
-            "pick": "South Korea (-170)",
-            "odds": "-170",
-            "confidence": "medium",
-            "result": "L",
-            "score": "South Korea 0, South Africa 1"
           }
         ]
       }
