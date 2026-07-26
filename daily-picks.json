@@ -1,28 +1,28 @@
 {
   "date": "2026-07-26",
-  "generatedAt": "2026-07-26T17:11:07.873Z",
+  "generatedAt": "2026-07-26T17:55:12.531Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Arizona Diamondbacks @ Washington Nationals",
+          "game": "Atlanta Braves @ Baltimore Orioles",
           "betType": "moneyline",
-          "pick": "Washington Nationals (+100)",
-          "odds": "+100",
+          "pick": "Baltimore Orioles (-136)",
+          "odds": "-136",
           "confidence": "high",
-          "rationale": "The Nationals are a sharp play in this rubber match, with reverse line movement favoring them despite the public leaning towards Arizona. Washington's moneyline has shifted from +105 to -105 at DraftKings, and they are receiving a higher percentage of money than bets, indicating sharp action. The Nationals also boast a stronger offense, hitting .253 with 574 runs scored compared to the Diamondbacks' .242 average and 472 runs, and they hit .269 against left-handed pitching, which is second-best in MLB. With Arizona's starter Kohl Drake making only his second career start and Washington's Miles Mikolas having a 5.60 ERA, a high-scoring game is expected, which favors the home underdog.",
-          "awayRecord": "55-50",
-          "homeRecord": "53-52",
+          "rationale": "The Baltimore Orioles are in excellent recent form, boasting a 7-3 record in their last 10 games. They also have a favorable head-to-head record against the Braves, winning 3 of the last 5 matchups. The Braves are significantly hampered by injuries to key offensive players Ronald Acuña Jr. and Sean Murphy, who are both on rehab assignments. This combination of strong recent performance and Atlanta's injury woes gives the Orioles a clear edge at home.",
+          "awayRecord": "61-43",
+          "homeRecord": "51-54",
           "awayLast5": [
-            "W",
+            "L",
             "W",
             "W",
             "W",
             "L"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "L",
             "W",
             "L",
@@ -30,12 +30,36 @@
           ]
         },
         {
+          "game": "Chicago Cubs @ Pittsburgh Pirates",
+          "betType": "moneyline",
+          "pick": "Pittsburgh Pirates (-132)",
+          "odds": "-132",
+          "confidence": "high",
+          "rationale": "Sharp money is heavily backing the Pittsburgh Pirates, with their moneyline shifting from -120 to -130. The Pirates are a strong bounce-back team, holding a 30-21 record (59%) after a loss this season. Their starting pitcher, Braxton Ashcraft, has a solid 4-1 record with a 3.68 ERA at home, while Cubs starter Jameson Taillon struggles on the road with a 6.21 ERA. These factors, combined with the Pirates looking to avoid a sweep, indicate a high-confidence pick.",
+          "awayRecord": "59-45",
+          "homeRecord": "53-52",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
           "game": "Toronto Blue Jays @ Boston Red Sox",
           "betType": "moneyline",
-          "pick": "Boston Red Sox (-142)",
-          "odds": "-142",
+          "pick": "Boston Red Sox (-130)",
+          "odds": "-130",
           "confidence": "high",
-          "rationale": "The Red Sox are a strong pick here, showing significant line movement from -130 to -145, indicating sharp money is backing Boston. They have been performing well, with a 53-50 record and recently had a 15-game winning streak in July. Blue Jays starter Kevin Gausman has struggled, going 0-7 in his last seven starts with a 6.75 ERA in July, while Red Sox starter Ranger Suarez has a solid 3.15 ERA. Boston's bullpen also holds a significant advantage with a 3.07 ERA (2nd in MLB) compared to Toronto's 3.86 ERA (10th), and the Blue Jays are last in MLB hitting against lefties at .216.",
+          "rationale": "The Boston Red Sox are experiencing significant sharp money movement, with their moneyline shifting from -130 to -145. This movement is supported by 83% of moneyline bets and 89% of moneyline dollars at DraftKings favoring Boston. Historically, Sunday home favorites priced at -150 or less have a strong 70-43 (62%) record this season with an 11% ROI. With Red Sox starter Ranger Suarez holding a solid 3.15 ERA against Blue Jays' Kevin Gausman's 4.51 ERA, Boston has a pitching advantage to close out the series.",
           "awayRecord": "48-57",
           "homeRecord": "53-50",
           "awayLast5": [
@@ -55,11 +79,11 @@
         },
         {
           "game": "Los Angeles Dodgers @ New York Mets",
-          "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5 (+108)",
-          "odds": "+108",
-          "confidence": "high",
-          "rationale": "The Dodgers, with the best record in baseball at 67-38, are looking for a sweep against the struggling Mets (43-62). Despite both starters having high ERAs, the Dodgers' offense has significantly outproduced the Mets, scoring 543 runs compared to New York's 424. Line movement on the total has shifted towards the Over, but sharp money is also on the Dodgers' run line, with 74.1% of the public laying 1.5 runs. Additionally, Dodgers sluggers Kyle Tucker and Shohei Ohtani have strong historical numbers against Mets starter Freddy Peralta.",
+          "betType": "moneyline",
+          "pick": "Los Angeles Dodgers (-104)",
+          "odds": "-104",
+          "confidence": "medium",
+          "rationale": "The Los Angeles Dodgers have a dominant head-to-head record against the New York Mets, winning 14 of their last 20 encounters and the last three consecutive games in April 2026. The Mets are severely impacted by the absence of star slugger Juan Soto, who is on the 10-day IL with a significant calf strain. While the Dodgers have some injuries, their overall team strength and historical dominance over the Mets, especially winning 4 of the last 5 H2H away games, gives them the edge in this matchup.",
           "awayRecord": "67-38",
           "homeRecord": "43-62",
           "awayLast5": [
@@ -78,36 +102,12 @@
           ]
         },
         {
-          "game": "Cincinnati Reds @ St. Louis Cardinals",
-          "betType": "moneyline",
-          "pick": "St. Louis Cardinals (-132)",
-          "odds": "-132",
-          "confidence": "medium",
-          "rationale": "The Cardinals are favored at home against the Reds, with line movement showing St. Louis's moneyline opening at -136 and holding steady. The Cardinals have a better overall record against the spread this season at 58-43, compared to the Reds' 48-55. St. Louis starter Kyle Leahy holds a respectable 7-4 record with a 3.60 ERA, which is better than Cincinnati's Andrew Abbott at 5-6 with a 3.92 ERA. The SportsGrid model also projects the Cardinals to win with 56.4% confidence.",
-          "awayRecord": "48-55",
-          "homeRecord": "53-51",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
           "game": "New York Yankees @ Philadelphia Phillies",
-          "betType": "moneyline",
-          "pick": "Philadelphia Phillies (-184)",
-          "odds": "-184",
+          "betType": "total",
+          "pick": "Under 8 (-114)",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "The Phillies are a strong home favorite, despite losing to the Yankees yesterday. The Yankees have several key players injured, including Cody Bellinger (hamstring), Aaron Judge (rib stress fracture), and Giancarlo Stanton (calf strain), which significantly impacts their offensive power. The Phillies have won two of the last three head-to-head meetings between these teams. With the Yankees' lineup compromised, Philadelphia is in a strong position to secure a win at home.",
+          "rationale": "The first two games of this series were notably low-scoring, with the Yankees winning 1-0 and 3-1. Philadelphia's starting pitcher, Cristopher Sanchez, has been dominant this season with a 2.65 ERA and a 1.19 WHIP, and the current Yankees roster has struggled against him, batting only .200. While Yankees starter Will Warren has a higher ERA, 55 of the Yankees' 101 games this season have gone under the total, indicating a trend towards lower-scoring affairs. This strong pitching matchup and recent series trend make the Under 8 a high-confidence play.",
           "awayRecord": "59-45",
           "homeRecord": "56-49",
           "awayLast5": [
