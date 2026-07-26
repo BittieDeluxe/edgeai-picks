@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-07-25",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Colorado Rockies @ Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Rockies 5, Milwaukee Brewers 8"
+          },
+          {
+            "game": "San Diego Padres @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "San Diego Padres (+120)",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego Padres 7, Miami Marlins 2"
+          },
+          {
+            "game": "Houston Astros @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox (-120)",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Astros 4, Chicago White Sox 1"
+          },
+          {
+            "game": "Los Angeles Angels @ San Francisco Giants",
+            "betType": "total",
+            "pick": "Under 9",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Angels 2, San Francisco Giants 9"
+          },
+          {
+            "game": "Cleveland Guardians @ Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays (-120)",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Guardians 0, Tampa Bay Rays 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Seattle Sounders FC @ Philadelphia Union",
+            "betType": "moneyline",
+            "pick": "Philadelphia Union",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "W",
+            "score": "Seattle Sounders FC 0, Philadelphia Union 1"
+          },
+          {
+            "game": "Atlanta United FC @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Atlanta United FC 1, New England Revolution 4"
+          },
+          {
+            "game": "FC Dallas @ San Diego FC",
+            "betType": "moneyline",
+            "pick": "FC Dallas",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "L",
+            "score": "FC Dallas 0, San Diego FC 1"
+          },
+          {
+            "game": "Charlotte FC @ Red Bull New York",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-145",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Charlotte FC 2, Red Bull New York 0"
+          },
+          {
+            "game": "Real Salt Lake @ Portland Timbers",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Real Salt Lake 1, Portland Timbers 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-24",
     "sports": [
       {
@@ -61,8 +167,8 @@
             "pick": "New England Revolution",
             "odds": "+100",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Atlanta United FC 1, New England Revolution 4"
           },
           {
             "game": "Seattle Sounders FC @ Philadelphia Union",
@@ -70,8 +176,8 @@
             "pick": "Philadelphia Union",
             "odds": "+105",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Seattle Sounders FC 0, Philadelphia Union 1"
           },
           {
             "game": "Chicago Fire @ New York City FC",
@@ -2551,103 +2657,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Saudi Arabia 0, Cape Verde 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-25",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Seattle Mariners @ Pittsburgh Pirates",
-            "betType": "moneyline",
-            "pick": "Seattle Mariners",
-            "odds": "+3000",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Seattle Mariners 1, Pittsburgh Pirates 5"
-          },
-          {
-            "game": "Athletics @ San Francisco Giants",
-            "betType": "moneyline",
-            "pick": "Athletics",
-            "odds": "+114",
-            "confidence": "high",
-            "result": "W",
-            "score": "Athletics 9, San Francisco Giants 6"
-          },
-          {
-            "game": "Houston Astros @ Detroit Tigers",
-            "betType": "moneyline",
-            "pick": "Houston Astros",
-            "odds": "+102",
-            "confidence": "high",
-            "result": "W",
-            "score": "Houston Astros 2, Detroit Tigers 1"
-          },
-          {
-            "game": "Philadelphia Phillies @ Washington Nationals",
-            "betType": "spread",
-            "pick": "Philadelphia Phillies -1.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Phillies 10, Washington Nationals 5"
-          },
-          {
-            "game": "New York Yankees @ Boston Red Sox",
-            "betType": "moneyline",
-            "pick": "New York Yankees",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New York Yankees 3, Boston Red Sox 6"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Netherlands @ Tunisia",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Netherlands 3, Tunisia 1"
-          },
-          {
-            "game": "Germany @ Ecuador",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+135",
-            "confidence": "high",
-            "result": "L",
-            "score": "Germany 1, Ecuador 2"
-          },
-          {
-            "game": "Australia @ Paraguay",
-            "betType": "total",
-            "pick": "Under 1.5",
-            "odds": "+120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Australia 0, Paraguay 0"
-          },
-          {
-            "game": "Sweden @ Japan",
-            "betType": "moneyline",
-            "pick": "Sweden",
-            "odds": "+300",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Sweden 1, Japan 1"
           }
         ]
       }

@@ -1,184 +1,129 @@
 {
-  "date": "2026-07-25",
-  "generatedAt": "2026-07-25T17:51:56.042Z",
+  "date": "2026-07-26",
+  "generatedAt": "2026-07-26T17:11:07.873Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Colorado Rockies @ Milwaukee Brewers",
+          "game": "Arizona Diamondbacks @ Washington Nationals",
+          "betType": "moneyline",
+          "pick": "Washington Nationals (+100)",
+          "odds": "+100",
+          "confidence": "high",
+          "rationale": "The Nationals are a sharp play in this rubber match, with reverse line movement favoring them despite the public leaning towards Arizona. Washington's moneyline has shifted from +105 to -105 at DraftKings, and they are receiving a higher percentage of money than bets, indicating sharp action. The Nationals also boast a stronger offense, hitting .253 with 574 runs scored compared to the Diamondbacks' .242 average and 472 runs, and they hit .269 against left-handed pitching, which is second-best in MLB. With Arizona's starter Kohl Drake making only his second career start and Washington's Miles Mikolas having a 5.60 ERA, a high-scoring game is expected, which favors the home underdog.",
+          "awayRecord": "55-50",
+          "homeRecord": "53-52",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Toronto Blue Jays @ Boston Red Sox",
+          "betType": "moneyline",
+          "pick": "Boston Red Sox (-142)",
+          "odds": "-142",
+          "confidence": "high",
+          "rationale": "The Red Sox are a strong pick here, showing significant line movement from -130 to -145, indicating sharp money is backing Boston. They have been performing well, with a 53-50 record and recently had a 15-game winning streak in July. Blue Jays starter Kevin Gausman has struggled, going 0-7 in his last seven starts with a 6.75 ERA in July, while Red Sox starter Ranger Suarez has a solid 3.15 ERA. Boston's bullpen also holds a significant advantage with a 3.07 ERA (2nd in MLB) compared to Toronto's 3.86 ERA (10th), and the Blue Jays are last in MLB hitting against lefties at .216.",
+          "awayRecord": "48-57",
+          "homeRecord": "53-50",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers @ New York Mets",
           "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "-105",
+          "pick": "Los Angeles Dodgers -1.5 (+108)",
+          "odds": "+108",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers, with a strong 64-39 record, are heavy home favorites against the struggling Colorado Rockies (42-63). The Brewers have dominated the head-to-head matchups recently, holding a 10-6 record in the last three seasons and sweeping the Rockies earlier this year. Line movement has consistently favored Milwaukee, with their moneyline shifting from -245 to -258, indicating sharp money on the home side. While Rockies' Hunter Goodman has been hitting well, the overall team mismatch and home-field advantage make the Brewers a strong pick to cover the run line.",
-          "awayRecord": "42-63",
-          "homeRecord": "64-39",
+          "rationale": "The Dodgers, with the best record in baseball at 67-38, are looking for a sweep against the struggling Mets (43-62). Despite both starters having high ERAs, the Dodgers' offense has significantly outproduced the Mets, scoring 543 runs compared to New York's 424. Line movement on the total has shifted towards the Over, but sharp money is also on the Dodgers' run line, with 74.1% of the public laying 1.5 runs. Additionally, Dodgers sluggers Kyle Tucker and Shohei Ohtani have strong historical numbers against Mets starter Freddy Peralta.",
+          "awayRecord": "67-38",
+          "homeRecord": "43-62",
           "awayLast5": [
             "L",
-            "L",
             "W",
-            "L",
+            "W",
+            "W",
             "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
             "L",
             "W",
+            "L",
+            "L",
             "L"
           ]
         },
         {
-          "game": "San Diego Padres @ Miami Marlins",
+          "game": "Cincinnati Reds @ St. Louis Cardinals",
           "betType": "moneyline",
-          "pick": "San Diego Padres (+120)",
-          "odds": "+120",
-          "confidence": "high",
-          "rationale": "The Miami Marlins are currently on a significant 10-game losing streak, with all games decided by three runs or fewer, indicating a team struggling to close out games. Critically, Miami has a poor 10-17 record against left-handed starting pitchers this season, a stark contrast to their 42-35 record against righties. Padres' probable starter JP Sears is a left-hander, which directly exploits this Marlins' weakness. The total line has also dropped from 8.5 to 8, suggesting expectations for a lower-scoring game, which can favor the underdog in close contests.",
-          "awayRecord": "51-53",
-          "homeRecord": "52-52",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Houston Astros @ Chicago White Sox",
-          "betType": "moneyline",
-          "pick": "Chicago White Sox (-120)",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "The Chicago White Sox present a strong value play as home favorites against the Houston Astros. The public is heavily backing the Astros due to their recent four-game winning streak, but sharp money has moved the White Sox moneyline from -153 to -129, while Houston's has drifted. Chicago is projected to have a pitching advantage with their command-oriented starter (Burke) facing Houston's Hunter Brown, who has documented command issues. This creates a contrarian betting opportunity where the underlying fundamentals favor the White Sox despite public perception.",
-          "awayRecord": "51-54",
-          "homeRecord": "54-48",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Los Angeles Angels @ San Francisco Giants",
-          "betType": "total",
-          "pick": "Under 9",
-          "odds": "-105",
+          "pick": "St. Louis Cardinals (-132)",
+          "odds": "-132",
           "confidence": "medium",
-          "rationale": "The total of 9 runs for the Angels-Giants game is set too high given the pitching matchup and park factors. San Francisco's probable starter, Logan Webb, holds a significant pitching advantage and is known for his ground-ball approach, which plays well in the pitcher-friendly Oracle Park. The Angels' offense will likely struggle to generate significant runs against Webb, even with Shohei Ohtani scheduled for a bullpen session, his impact is not guaranteed. The line movement on the total has been volatile, but the overall pitching matchup strongly points to a lower-scoring affair.",
-          "awayRecord": "41-63",
-          "homeRecord": "43-60",
+          "rationale": "The Cardinals are favored at home against the Reds, with line movement showing St. Louis's moneyline opening at -136 and holding steady. The Cardinals have a better overall record against the spread this season at 58-43, compared to the Reds' 48-55. St. Louis starter Kyle Leahy holds a respectable 7-4 record with a 3.60 ERA, which is better than Cincinnati's Andrew Abbott at 5-6 with a 3.92 ERA. The SportsGrid model also projects the Cardinals to win with 56.4% confidence.",
+          "awayRecord": "48-55",
+          "homeRecord": "53-51",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
             "L",
+            "W",
+            "W",
+            "W",
             "L"
           ],
           "homeLast5": [
             "L",
-            "L",
+            "W",
             "L",
             "L",
             "W"
           ]
         },
         {
-          "game": "Cleveland Guardians @ Tampa Bay Rays",
+          "game": "New York Yankees @ Philadelphia Phillies",
           "betType": "moneyline",
-          "pick": "Tampa Bay Rays (-120)",
-          "odds": "-120",
+          "pick": "Philadelphia Phillies (-184)",
+          "odds": "-184",
           "confidence": "medium",
-          "rationale": "Despite both teams entering on a three-game losing streak, the Tampa Bay Rays hold a distinct pitching advantage with Nick Martinez (9-2, 2.59 ERA) starting against Cleveland's Tanner Bibee (4-9, 3.86 ERA). The Rays also boast a superior overall record at 60-43 compared to the Guardians' 54-51. Tampa Bay's offense has shown recent power, hitting 12 home runs and slugging .427 over their last 10 games. This combination of better starting pitching and a capable offense at home gives the Rays a strong edge to break their losing streak.",
-          "awayRecord": "54-51",
-          "homeRecord": "60-43",
+          "rationale": "The Phillies are a strong home favorite, despite losing to the Yankees yesterday. The Yankees have several key players injured, including Cody Bellinger (hamstring), Aaron Judge (rib stress fracture), and Giancarlo Stanton (calf strain), which significantly impacts their offensive power. The Phillies have won two of the last three head-to-head meetings between these teams. With the Yankees' lineup compromised, Philadelphia is in a strong position to secure a win at home.",
+          "awayRecord": "59-45",
+          "homeRecord": "56-49",
           "awayLast5": [
             "W",
+            "L",
             "W",
-            "L",
-            "L",
-            "L"
+            "W",
+            "W"
           ],
           "homeLast5": [
             "W",
-            "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "L",
+            "L"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "Seattle Sounders FC @ Philadelphia Union",
-          "betType": "moneyline",
-          "pick": "Philadelphia Union",
-          "odds": "-125",
-          "confidence": "high",
-          "rationale": "Philadelphia Union snapped a nine-match winless streak with a convincing 3-1 home victory over New York Red Bulls last week, boosting team morale significantly [35]. Seattle Sounders are severely hampered by injuries and suspensions, with nine senior players confirmed out or questionable, including key figures like Jordan Morris and both Roldan brothers, along with a center-back suspended [35, 45, 47]. Seattle is also in a poor run of form, having lost four consecutive matches [35, 47]. The betting line has seen movement towards Philadelphia, indicating sharp money backing the home side [14].",
-          "awayRecord": "7-3-5",
-          "homeRecord": "2-4-10"
-        },
-        {
-          "game": "Atlanta United FC @ New England Revolution",
-          "betType": "moneyline",
-          "pick": "New England Revolution",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "Atlanta United FC is in dreadful form this season, holding a 3-3-10 record overall and a very poor 1-2-5 away record [5, 8]. They are also significantly impacted by injuries, with multiple key players like Paulo Díaz, Jay Fortune, and Sergio Santos out [2, 43]. Furthermore, Atlanta is in the midst of a six-game road stretch due to stadium unavailability, adding to their travel fatigue [30]. New England Revolution boasts a strong 8-2-5 record and is playing at home, making the +110 moneyline an excellent value against a struggling and depleted Atlanta side.",
-          "awayRecord": "3-3-10",
-          "homeRecord": "8-2-5"
-        },
-        {
-          "game": "FC Dallas @ San Diego FC",
-          "betType": "moneyline",
-          "pick": "FC Dallas",
-          "odds": "+100",
-          "confidence": "high",
-          "rationale": "FC Dallas enters this match with a strong 7-5-4 overall record and an impressive 4-0-2 away record, demonstrating their capability on the road [23]. Key offensive players like Petar Musa, who has 12 goals this season, are in excellent form, and Anderson Julio and Bernard Kamungo have recently returned from injury, bolstering the squad [22]. San Diego FC, in contrast, has a losing record of 4-5-7 and is missing a key player in Marcus Ingvartsen due to injury [43]. The even moneyline for FC Dallas as the away favorite against a weaker, injured opponent presents significant value.",
-          "awayRecord": "7-5-4",
-          "homeRecord": "4-5-7"
-        },
-        {
-          "game": "Charlotte FC @ Red Bull New York",
-          "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-145",
-          "confidence": "medium",
-          "rationale": "New York Red Bulls are missing key attacking players Cameron Harper and Lewis Morgan due to injury, which will likely impact their offensive output [43]. Head-to-head history between these two teams shows a trend towards lower-scoring games, with the total going under in five of their previous seven encounters [42]. Both teams have been described as being in 'flaky form' and a preview suggests anticipating a 'surprisingly cautious' game, further supporting an under bet [42]. Despite a slight line movement on the total, the Under 3.5 at -145 reflects a market expectation for fewer goals.",
-          "awayRecord": "6-4-6",
-          "homeRecord": "6-4-6"
-        },
-        {
-          "game": "Real Salt Lake @ Portland Timbers",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "Real Salt Lake, despite a good overall record, recently suffered a 3-1 road loss to LAFC, indicating a propensity for higher-scoring games, especially away from home where their form is average (1-2-3) [17, 21]. Portland Timbers are coming off an 'astounding 5-1 win' against Seattle Sounders, showcasing their offensive capabilities [22]. Real Salt Lake also has a significant list of injured and suspended players, including several defensive absences, which could lead to a more open game [43]. Given these recent high-scoring results and RSL's defensive vulnerabilities, the Over 3.5 at even money (+100) is an attractive proposition.",
-          "awayRecord": "8-2-5",
-          "homeRecord": "5-3-8"
         }
       ]
     }
