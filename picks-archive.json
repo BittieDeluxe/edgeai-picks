@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-26",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Atlanta Braves @ Baltimore Orioles",
+            "betType": "moneyline",
+            "pick": "Baltimore Orioles (-136)",
+            "odds": "-136",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta Braves 3, Baltimore Orioles 2"
+          },
+          {
+            "game": "Chicago Cubs @ Pittsburgh Pirates",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates (-132)",
+            "odds": "-132",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago Cubs 7, Pittsburgh Pirates 8"
+          },
+          {
+            "game": "Toronto Blue Jays @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox (-130)",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Toronto Blue Jays 1, Boston Red Sox 6"
+          },
+          {
+            "game": "Los Angeles Dodgers @ New York Mets",
+            "betType": "moneyline",
+            "pick": "Los Angeles Dodgers (-104)",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Dodgers 3, New York Mets 8"
+          },
+          {
+            "game": "New York Yankees @ Philadelphia Phillies",
+            "betType": "total",
+            "pick": "Under 8 (-114)",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Yankees 4, Philadelphia Phillies 11"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-25",
     "sports": [
       {
@@ -2551,112 +2607,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Portugal 0, Colombia 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-26",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Philadelphia Phillies @ New York Mets",
-            "betType": "moneyline",
-            "pick": "Philadelphia Phillies",
-            "odds": "+116",
-            "confidence": "high",
-            "result": "W",
-            "score": "Philadelphia Phillies 2, New York Mets 1"
-          },
-          {
-            "game": "Houston Astros @ Detroit Tigers",
-            "betType": "moneyline",
-            "pick": "Houston Astros",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Houston Astros 0, Detroit Tigers 8"
-          },
-          {
-            "game": "Arizona Diamondbacks @ Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-174",
-            "confidence": "high",
-            "result": "W",
-            "score": "Arizona Diamondbacks 1, Tampa Bay Rays 6"
-          },
-          {
-            "game": "New York Yankees @ Boston Red Sox",
-            "betType": "prop",
-            "pick": "Paul Goldschmidt Over 1.5 Total Bases",
-            "odds": "+114",
-            "confidence": "medium",
-            "result": "?",
-            "score": "Paul Goldschmidt: \"Total Bases\" not auto-gradeable"
-          },
-          {
-            "game": "Miami Marlins @ St. Louis Cardinals",
-            "betType": "moneyline",
-            "pick": "Miami Marlins",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Miami Marlins 4, St. Louis Cardinals 0"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "France @ Norway",
-            "betType": "moneyline",
-            "pick": "France",
-            "odds": "-270",
-            "confidence": "high",
-            "result": "W",
-            "score": "France 4, Norway 1"
-          },
-          {
-            "game": "Spain @ Uruguay",
-            "betType": "moneyline",
-            "pick": "Spain",
-            "odds": "-155",
-            "confidence": "high",
-            "result": "W",
-            "score": "Spain 1, Uruguay 0"
-          },
-          {
-            "game": "Belgium @ New Zealand",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-125",
-            "confidence": "high",
-            "result": "W",
-            "score": "Belgium 5, New Zealand 1"
-          },
-          {
-            "game": "Iran @ Egypt",
-            "betType": "total",
-            "pick": "Under 1.5",
-            "odds": "+130",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Iran 1, Egypt 1"
-          },
-          {
-            "game": "Saudi Arabia @ Cape Verde",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-150",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Saudi Arabia 0, Cape Verde 0"
           }
         ]
       }

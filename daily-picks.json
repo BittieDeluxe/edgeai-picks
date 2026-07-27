@@ -1,128 +1,128 @@
 {
-  "date": "2026-07-26",
-  "generatedAt": "2026-07-26T17:55:12.531Z",
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-27T18:18:00.498Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Atlanta Braves @ Baltimore Orioles",
+          "game": "Philadelphia Phillies @ Miami Marlins",
           "betType": "moneyline",
-          "pick": "Baltimore Orioles (-136)",
-          "odds": "-136",
+          "pick": "Philadelphia Phillies (-108)",
+          "odds": "-108",
           "confidence": "high",
-          "rationale": "The Baltimore Orioles are in excellent recent form, boasting a 7-3 record in their last 10 games. They also have a favorable head-to-head record against the Braves, winning 3 of the last 5 matchups. The Braves are significantly hampered by injuries to key offensive players Ronald Acuña Jr. and Sean Murphy, who are both on rehab assignments. This combination of strong recent performance and Atlanta's injury woes gives the Orioles a clear edge at home.",
-          "awayRecord": "61-43",
-          "homeRecord": "51-54",
+          "rationale": "Philadelphia's ace, Zack Wheeler, boasts a dominant 2.16 ERA and has been exceptional against the Marlins this season, allowing just one run in 12 innings across two starts. The Miami Marlins' offense is in a severe slump, evidenced by their 1-9 record in their last ten games and a prolonged losing streak since July 9th. Despite some market movement, the significant pitching mismatch in favor of Wheeler against a struggling Marlins lineup provides a strong edge for the Phillies on the moneyline.",
+          "awayRecord": "57-49",
+          "homeRecord": "52-54",
           "awayLast5": [
             "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
             "L",
             "L",
-            "W",
             "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Chicago Cubs @ Pittsburgh Pirates",
-          "betType": "moneyline",
-          "pick": "Pittsburgh Pirates (-132)",
-          "odds": "-132",
-          "confidence": "high",
-          "rationale": "Sharp money is heavily backing the Pittsburgh Pirates, with their moneyline shifting from -120 to -130. The Pirates are a strong bounce-back team, holding a 30-21 record (59%) after a loss this season. Their starting pitcher, Braxton Ashcraft, has a solid 4-1 record with a 3.68 ERA at home, while Cubs starter Jameson Taillon struggles on the road with a 6.21 ERA. These factors, combined with the Pirates looking to avoid a sweep, indicate a high-confidence pick.",
-          "awayRecord": "59-45",
-          "homeRecord": "53-52",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
             "W"
           ],
           "homeLast5": [
             "L",
-            "W",
+            "L",
             "L",
             "L",
             "L"
           ]
         },
         {
-          "game": "Toronto Blue Jays @ Boston Red Sox",
+          "game": "Atlanta Braves @ New York Mets",
           "betType": "moneyline",
-          "pick": "Boston Red Sox (-130)",
-          "odds": "-130",
+          "pick": "Atlanta Braves (-162)",
+          "odds": "-162",
           "confidence": "high",
-          "rationale": "The Boston Red Sox are experiencing significant sharp money movement, with their moneyline shifting from -130 to -145. This movement is supported by 83% of moneyline bets and 89% of moneyline dollars at DraftKings favoring Boston. Historically, Sunday home favorites priced at -150 or less have a strong 70-43 (62%) record this season with an 11% ROI. With Red Sox starter Ranger Suarez holding a solid 3.15 ERA against Blue Jays' Kevin Gausman's 4.51 ERA, Boston has a pitching advantage to close out the series.",
-          "awayRecord": "48-57",
-          "homeRecord": "53-50",
+          "rationale": "The Atlanta Braves receive a substantial boost with the return of Ronald Acuña Jr. from the injured list, a player whose presence significantly enhances their offensive output, as seen in their 37-16 record when he plays. Conversely, the New York Mets are severely hampered by the absence of Juan Soto, who is on the 10-day IL with a Grade 2 calf strain and is expected to miss significant time, severely weakening their lineup. With the Braves holding a superior overall record and a clear advantage in offensive firepower, especially with Acuña's return and Soto's absence, Atlanta is a confident pick.",
+          "awayRecord": "62-43",
+          "homeRecord": "44-62",
           "awayLast5": [
-            "L",
-            "L",
+            "W",
+            "W",
             "W",
             "L",
             "W"
           ],
           "homeLast5": [
             "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Toronto Blue Jays @ Washington Nationals",
+          "betType": "moneyline",
+          "pick": "Washington Nationals (-142)",
+          "odds": "-142",
+          "confidence": "high",
+          "rationale": "Toronto's starting pitcher, Max Scherzer, has struggled immensely this season, returning from the injured list with a 1-4 record and a high 10.23 ERA, making him a vulnerable option. The Washington Nationals, in contrast, boast one of MLB's top offenses, ranking first in OPS and runs scored, and second in Weighted Runs Created Plus (wRC+). The Nationals have also covered the run line in their last four games, and the home team has won six of the last seven head-to-head matchups, reinforcing the strong position of Washington in this contest.",
+          "awayRecord": "48-58",
+          "homeRecord": "54-52",
+          "awayLast5": [
+            "L",
             "W",
             "L",
             "W",
             "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Los Angeles Dodgers @ New York Mets",
+          "game": "New York Yankees @ Chicago White Sox",
           "betType": "moneyline",
-          "pick": "Los Angeles Dodgers (-104)",
-          "odds": "-104",
+          "pick": "New York Yankees (-134)",
+          "odds": "-134",
           "confidence": "medium",
-          "rationale": "The Los Angeles Dodgers have a dominant head-to-head record against the New York Mets, winning 14 of their last 20 encounters and the last three consecutive games in April 2026. The Mets are severely impacted by the absence of star slugger Juan Soto, who is on the 10-day IL with a significant calf strain. While the Dodgers have some injuries, their overall team strength and historical dominance over the Mets, especially winning 4 of the last 5 H2H away games, gives them the edge in this matchup.",
-          "awayRecord": "67-38",
-          "homeRecord": "43-62",
+          "rationale": "Yankees starter Max Fried has been in excellent form, holding a 2.97 ERA and a 0.96 WHIP, and delivered a strong performance in his last outing with no earned runs allowed. Chicago White Sox pitcher Noah Schultz, however, has a concerning 6.04 ERA, struggles with command, and exhibits a high barrel rate and fly-ball rate, which is a poor matchup against the Yankees' powerful offense. Despite some key injuries to New York's lineup, their significant pitching advantage and favorable offensive matchup against Schultz provide a clear edge.",
+          "awayRecord": "59-46",
+          "homeRecord": "55-49",
           "awayLast5": [
             "L",
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "L",
             "W",
             "L",
             "L",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "New York Yankees @ Philadelphia Phillies",
+          "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
           "betType": "total",
-          "pick": "Under 8 (-114)",
-          "odds": "-114",
+          "pick": "Over 9",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "The first two games of this series were notably low-scoring, with the Yankees winning 1-0 and 3-1. Philadelphia's starting pitcher, Cristopher Sanchez, has been dominant this season with a 2.65 ERA and a 1.19 WHIP, and the current Yankees roster has struggled against him, batting only .200. While Yankees starter Will Warren has a higher ERA, 55 of the Yankees' 101 games this season have gone under the total, indicating a trend towards lower-scoring affairs. This strong pitching matchup and recent series trend make the Under 8 a high-confidence play.",
-          "awayRecord": "59-45",
-          "homeRecord": "56-49",
+          "rationale": "Both starting pitchers, Merrill Kelly (5.12 ERA) for Arizona and Mitch Keller (4.90 ERA) for Pittsburgh, have demonstrated significant struggles throughout the season, indicating a high probability of runs being scored. The Pittsburgh Pirates' offense is potent, ranking third in OPS and second in runs scored across MLB, and they are particularly effective against right-handed pitching. Furthermore, a strong trend shows that each of the Pirates' last six games after playing the previous day have gone OVER the total runs line, supporting a high-scoring outcome for this matchup.",
+          "awayRecord": "55-51",
+          "homeRecord": "54-52",
           "awayLast5": [
             "W",
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
             "L",
             "L",
             "L",
-            "L"
+            "W"
           ]
         }
       ]
