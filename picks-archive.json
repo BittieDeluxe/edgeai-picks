@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-27",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Philadelphia Phillies @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies (-108)",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Phillies 7, Miami Marlins 8"
+          },
+          {
+            "game": "Atlanta Braves @ New York Mets",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves (-162)",
+            "odds": "-162",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta Braves 3, New York Mets 14"
+          },
+          {
+            "game": "Toronto Blue Jays @ Washington Nationals",
+            "betType": "moneyline",
+            "pick": "Washington Nationals (-142)",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "L",
+            "score": "Toronto Blue Jays 3, Washington Nationals 2"
+          },
+          {
+            "game": "New York Yankees @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "New York Yankees (-134)",
+            "odds": "-134",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Yankees 9, Chicago White Sox 5"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+            "betType": "total",
+            "pick": "Over 9",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Arizona Diamondbacks 2, Pittsburgh Pirates 3"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-26",
     "sports": [
       {
@@ -2510,103 +2566,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Los Angeles Dodgers 4, San Diego Padres 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-27",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Philadelphia Phillies @ New York Mets",
-            "betType": "moneyline",
-            "pick": "Philadelphia Phillies",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia Phillies 2, New York Mets 6"
-          },
-          {
-            "game": "Arizona Diamondbacks @ Tampa Bay Rays",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Arizona Diamondbacks 2, Tampa Bay Rays 4"
-          },
-          {
-            "game": "Kansas City Royals @ Chicago White Sox",
-            "betType": "total",
-            "pick": "Over 8",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Kansas City Royals 1, Chicago White Sox 2"
-          },
-          {
-            "game": "Washington Nationals @ Baltimore Orioles",
-            "betType": "spread",
-            "pick": "Washington Nationals +1.5",
-            "odds": "-132",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Washington Nationals 4, Baltimore Orioles 3"
-          },
-          {
-            "game": "Atlanta Braves @ San Francisco Giants",
-            "betType": "moneyline",
-            "pick": "Atlanta Braves",
-            "odds": "+112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Atlanta Braves 0, San Francisco Giants 5"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "England @ Panama",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "W",
-            "score": "England 2, Panama 0"
-          },
-          {
-            "game": "Uzbekistan @ Congo DR",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-155",
-            "confidence": "high",
-            "result": "L",
-            "score": "Uzbekistan 1, Congo DR 3"
-          },
-          {
-            "game": "Austria @ Algeria",
-            "betType": "total",
-            "pick": "Under 1.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Austria 3, Algeria 3"
-          },
-          {
-            "game": "Portugal @ Colombia",
-            "betType": "moneyline",
-            "pick": "Colombia",
-            "odds": "+250",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Portugal 0, Colombia 0"
           }
         ]
       }

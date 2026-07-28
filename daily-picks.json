@@ -1,124 +1,124 @@
 {
-  "date": "2026-07-27",
-  "generatedAt": "2026-07-27T18:18:00.498Z",
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T18:06:32.886Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Philadelphia Phillies @ Miami Marlins",
-          "betType": "moneyline",
-          "pick": "Philadelphia Phillies (-108)",
-          "odds": "-108",
+          "game": "Boston Red Sox @ Athletics",
+          "betType": "spread",
+          "pick": "Boston Red Sox -1.5",
+          "odds": "+106",
           "confidence": "high",
-          "rationale": "Philadelphia's ace, Zack Wheeler, boasts a dominant 2.16 ERA and has been exceptional against the Marlins this season, allowing just one run in 12 innings across two starts. The Miami Marlins' offense is in a severe slump, evidenced by their 1-9 record in their last ten games and a prolonged losing streak since July 9th. Despite some market movement, the significant pitching mismatch in favor of Wheeler against a struggling Marlins lineup provides a strong edge for the Phillies on the moneyline.",
-          "awayRecord": "57-49",
-          "homeRecord": "52-54",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ New York Mets",
-          "betType": "moneyline",
-          "pick": "Atlanta Braves (-162)",
-          "odds": "-162",
-          "confidence": "high",
-          "rationale": "The Atlanta Braves receive a substantial boost with the return of Ronald Acuña Jr. from the injured list, a player whose presence significantly enhances their offensive output, as seen in their 37-16 record when he plays. Conversely, the New York Mets are severely hampered by the absence of Juan Soto, who is on the 10-day IL with a Grade 2 calf strain and is expected to miss significant time, severely weakening their lineup. With the Braves holding a superior overall record and a clear advantage in offensive firepower, especially with Acuña's return and Soto's absence, Atlanta is a confident pick.",
-          "awayRecord": "62-43",
+          "rationale": "The Red Sox are in excellent recent form, winning 8 of their last 10 games and holding a 2-game winning streak. They face an Athletics team on a 3-game losing skid, whose pitching staff has a high 6.72 ERA over their last 10 games. The Athletics are severely hampered by significant injuries to key hitters Shea Langeliers (season-ending surgery) and Nick Kurtz. Boston's starting pitcher Jake Bennett (2.58 ERA) has a clear advantage over Gage Jump (4.42 ERA), and public money is heavily backing the Red Sox, with the line moving in their favor.",
+          "awayRecord": "55-50",
           "homeRecord": "44-62",
           "awayLast5": [
-            "W",
-            "W",
+            "L",
             "W",
             "L",
+            "W",
             "W"
           ],
           "homeLast5": [
+            "L",
             "W",
             "L",
             "L",
-            "L",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "Toronto Blue Jays @ Washington Nationals",
-          "betType": "moneyline",
-          "pick": "Washington Nationals (-142)",
-          "odds": "-142",
+          "game": "Milwaukee Brewers @ San Francisco Giants",
+          "betType": "total",
+          "pick": "Under 8",
+          "odds": "-122",
           "confidence": "high",
-          "rationale": "Toronto's starting pitcher, Max Scherzer, has struggled immensely this season, returning from the injured list with a 1-4 record and a high 10.23 ERA, making him a vulnerable option. The Washington Nationals, in contrast, boast one of MLB's top offenses, ranking first in OPS and runs scored, and second in Weighted Runs Created Plus (wRC+). The Nationals have also covered the run line in their last four games, and the home team has won six of the last seven head-to-head matchups, reinforcing the strong position of Washington in this contest.",
-          "awayRecord": "48-58",
-          "homeRecord": "54-52",
+          "rationale": "The Milwaukee Brewers have a strong pitching advantage with Logan Henderson (3.05 ERA) facing Landen Roupp (3.93 ERA). Oracle Park is known to reduce the value of fly-ball contact, which generally favors lower-scoring games. The Giants have struggled to produce consistent scoring, especially against teams that control the strike zone. Public money has shown gradual movement towards the Under, and the total of 7.5 runs (from search, verified line is 8) with under juice further supports this pick.",
+          "awayRecord": "66-40",
+          "homeRecord": "45-61",
           "awayLast5": [
-            "L",
             "W",
             "L",
+            "W",
             "W",
             "L"
           ],
           "homeLast5": [
             "L",
             "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Seattle Mariners @ Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "+112",
+          "confidence": "high",
+          "rationale": "The Los Angeles Dodgers are a dominant team with a 67-39 record, facing a Seattle Mariners team that has struggled on the road, losing 7 of their last 8 away games. The pitching matchup heavily favors the Dodgers, with Justin Wrobleski (11-2, 2.62 ERA) starting against Luis Castillo (3-9, 4.85 ERA). The Dodgers have also won 9 of their last 10 head-to-head matchups against the Mariners. Public money is overwhelmingly on the Dodgers, and the line has moved in their favor, indicating sharp action.",
+          "awayRecord": "52-55",
+          "homeRecord": "67-39",
+          "awayLast5": [
+            "L",
+            "L",
             "L",
             "W",
-            "W"
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
           ]
         },
         {
           "game": "New York Yankees @ Chicago White Sox",
-          "betType": "moneyline",
-          "pick": "New York Yankees (-134)",
-          "odds": "-134",
+          "betType": "total",
+          "pick": "Under 8",
+          "odds": "-120",
           "confidence": "medium",
-          "rationale": "Yankees starter Max Fried has been in excellent form, holding a 2.97 ERA and a 0.96 WHIP, and delivered a strong performance in his last outing with no earned runs allowed. Chicago White Sox pitcher Noah Schultz, however, has a concerning 6.04 ERA, struggles with command, and exhibits a high barrel rate and fly-ball rate, which is a poor matchup against the Yankees' powerful offense. Despite some key injuries to New York's lineup, their significant pitching advantage and favorable offensive matchup against Schultz provide a clear edge.",
-          "awayRecord": "59-46",
-          "homeRecord": "55-49",
+          "rationale": "The Yankees will have Gerrit Cole on the mound, who is expected to limit the White Sox's scoring opportunities. While the Yankees' offense is potent, they are missing key slugger Aaron Judge due to a rib injury, which reduces their overall offensive power. The White Sox are also dealing with injuries to Kyle Teel and Tyler Gilbert. The betting market has shown a clear lean towards the Under, with the total for Under 8 having significant juice. This combination of a strong Yankees starter, a weakened Yankees lineup, and White Sox injuries points to a lower-scoring affair.",
+          "awayRecord": "60-46",
+          "homeRecord": "55-50",
           "awayLast5": [
-            "L",
             "W",
             "W",
             "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
             "L",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
           ]
         },
         {
-          "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
-          "betType": "total",
-          "pick": "Over 9",
+          "game": "Philadelphia Phillies @ Miami Marlins",
+          "betType": "moneyline",
+          "pick": "Miami Marlins",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Both starting pitchers, Merrill Kelly (5.12 ERA) for Arizona and Mitch Keller (4.90 ERA) for Pittsburgh, have demonstrated significant struggles throughout the season, indicating a high probability of runs being scored. The Pittsburgh Pirates' offense is potent, ranking third in OPS and second in runs scored across MLB, and they are particularly effective against right-handed pitching. Furthermore, a strong trend shows that each of the Pirates' last six games after playing the previous day have gone OVER the total runs line, supporting a high-scoring outcome for this matchup.",
-          "awayRecord": "55-51",
-          "homeRecord": "54-52",
+          "rationale": "The Miami Marlins snapped a significant 12-game losing streak by winning Monday's opener against the Phillies 8-7, which should provide a considerable confidence boost. They will send Sandy Alcantara (4.01 ERA) to the mound at home, who typically performs well in Miami, against Aaron Nola (PHI), who is having a difficult season. Despite heavy public money on the Phillies, the moneyline has moved towards Miami, suggesting sharp action on the home underdog. Furthermore, the Marlins have won each of their last nine games against National League opponents following a home win.",
+          "awayRecord": "57-50",
+          "homeRecord": "53-54",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
             "L",
+            "L",
+            "L",
+            "W",
             "L"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "L",
             "L",
             "L",
