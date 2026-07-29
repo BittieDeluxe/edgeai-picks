@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-28",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Boston Red Sox @ Athletics",
+            "betType": "spread",
+            "pick": "Boston Red Sox -1.5",
+            "odds": "+106",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Red Sox 3, Athletics 4"
+          },
+          {
+            "game": "Milwaukee Brewers @ San Francisco Giants",
+            "betType": "total",
+            "pick": "Under 8",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 8, San Francisco Giants 2"
+          },
+          {
+            "game": "Seattle Mariners @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "+112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Seattle Mariners 7, Los Angeles Dodgers 6"
+          },
+          {
+            "game": "New York Yankees @ Chicago White Sox",
+            "betType": "total",
+            "pick": "Under 8",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Yankees 3, Chicago White Sox 2"
+          },
+          {
+            "game": "Philadelphia Phillies @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Phillies 0, Miami Marlins 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-27",
     "sports": [
       {
@@ -2510,62 +2566,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Morocco 1, Netherlands 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-28",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Arizona Diamondbacks @ Tampa Bay Rays",
-            "betType": "spread",
-            "pick": "Tampa Bay Rays -1.5",
-            "odds": "-154",
-            "confidence": "high",
-            "result": "W",
-            "score": "Arizona Diamondbacks 1, Tampa Bay Rays 5"
-          },
-          {
-            "game": "Miami Marlins @ St. Louis Cardinals",
-            "betType": "moneyline",
-            "pick": "Miami Marlins",
-            "odds": "+104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Miami Marlins 1, St. Louis Cardinals 2"
-          },
-          {
-            "game": "Philadelphia Phillies @ New York Mets",
-            "betType": "spread",
-            "pick": "Philadelphia Phillies -1.5",
-            "odds": "+104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia Phillies 5, New York Mets 4"
-          },
-          {
-            "game": "Seattle Mariners @ Cleveland Guardians",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Seattle Mariners 5, Cleveland Guardians 6"
-          },
-          {
-            "game": "Los Angeles Dodgers @ San Diego Padres",
-            "betType": "total",
-            "pick": "Over 8",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Dodgers 4, San Diego Padres 2"
           }
         ]
       }
