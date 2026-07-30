@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-29",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arizona Diamondbacks 3, Pittsburgh Pirates 0"
+          },
+          {
+            "game": "Toronto Blue Jays @ Washington Nationals",
+            "betType": "spread",
+            "pick": "Washington Nationals -1.5",
+            "odds": "+154",
+            "confidence": "high",
+            "result": "L",
+            "score": "Toronto Blue Jays 5, Washington Nationals 2"
+          },
+          {
+            "game": "Colorado Rockies @ San Diego Padres",
+            "betType": "spread",
+            "pick": "San Diego Padres -1.5",
+            "odds": "+126",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Rockies 1, San Diego Padres 3"
+          },
+          {
+            "game": "Texas Rangers @ Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays -1.5",
+            "odds": "+152",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Texas Rangers 0, Tampa Bay Rays 3"
+          },
+          {
+            "game": "Cleveland Guardians @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds (+114)",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Guardians 6, Cincinnati Reds 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-28",
     "sports": [
       {
@@ -2469,103 +2525,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Sweden 0, France 3"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-06-29",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Los Angeles Dodgers @ Athletics",
-            "betType": "total",
-            "pick": "Over 10.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Los Angeles Dodgers 9, Athletics 4"
-          },
-          {
-            "game": "Pittsburgh Pirates @ Philadelphia Phillies",
-            "betType": "moneyline",
-            "pick": "Pittsburgh Pirates (+176)",
-            "odds": "+176",
-            "confidence": "high",
-            "result": "W",
-            "score": "Pittsburgh Pirates 11, Philadelphia Phillies 7"
-          },
-          {
-            "game": "Texas Rangers @ Cleveland Guardians",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Texas Rangers 6, Cleveland Guardians 3"
-          },
-          {
-            "game": "Los Angeles Angels @ Seattle Mariners",
-            "betType": "spread",
-            "pick": "Seattle Mariners -1.5",
-            "odds": "+105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Los Angeles Angels 2, Seattle Mariners 6"
-          },
-          {
-            "game": "San Francisco Giants @ Arizona Diamondbacks",
-            "betType": "moneyline",
-            "pick": "Arizona Diamondbacks (-136)",
-            "odds": "-136",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Francisco Giants 4, Arizona Diamondbacks 5"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Paraguay @ Germany",
-            "betType": "moneyline",
-            "pick": "Germany (-290)",
-            "odds": "-290",
-            "confidence": "high",
-            "result": "L",
-            "score": "Paraguay 1, Germany 1"
-          },
-          {
-            "game": "Paraguay @ Germany",
-            "betType": "total",
-            "pick": "Over 2.5 (-145)",
-            "odds": "-145",
-            "confidence": "high",
-            "result": "L",
-            "score": "Paraguay 1, Germany 1"
-          },
-          {
-            "game": "Morocco @ Netherlands",
-            "betType": "moneyline",
-            "pick": "Netherlands (+125)",
-            "odds": "+125",
-            "confidence": "high",
-            "result": "L",
-            "score": "Morocco 1, Netherlands 1"
-          },
-          {
-            "game": "Morocco @ Netherlands",
-            "betType": "total",
-            "pick": "Over 2.5 (+120)",
-            "odds": "+120",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Morocco 1, Netherlands 1"
           }
         ]
       }

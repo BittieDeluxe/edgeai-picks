@@ -1,126 +1,126 @@
 {
-  "date": "2026-07-29",
-  "generatedAt": "2026-07-29T18:01:25.381Z",
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-30T18:09:17.851Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
-          "betType": "total",
-          "pick": "Under 5.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "Both starting pitchers are in excellent form for this matchup; Eduardo Rodriguez of the Diamondbacks holds a 2.64 ERA, while Jared Jones of the Pirates has a 3.72 ERA and has allowed three runs or fewer in his last four starts. The head-to-head history strongly supports a low-scoring game, with the Under hitting in 7 of the last 9 meetings between these teams and 3 of 5 this season. Given the strong pitching and historical trends, the low total of 5.5 is well-justified for this contest.",
-          "awayRecord": "56-52",
-          "homeRecord": "55-53",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Toronto Blue Jays @ Washington Nationals",
-          "betType": "spread",
-          "pick": "Washington Nationals -1.5",
-          "odds": "+154",
-          "confidence": "high",
-          "rationale": "The Washington Nationals are in strong recent form, having won their last three games and scoring 23 runs in that span. They face a Toronto Blue Jays team that ranks 30th in the league for runs scored this season and is dealing with a potential injury to Vladimir Guerrero Jr.. Nationals' starter Zack Littell has been effective, allowing two earned runs or fewer in four of his last five outings, while Blue Jays' starter Trey Yesavage has given up three or more earned runs in his last three starts. This combination of offensive disparity, pitching advantage, and Blue Jays' injury concerns makes the Nationals a confident pick to cover the spread.",
-          "awayRecord": "49-59",
-          "homeRecord": "55-53",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Colorado Rockies @ San Diego Padres",
-          "betType": "spread",
-          "pick": "San Diego Padres -1.5",
-          "odds": "+126",
-          "confidence": "high",
-          "rationale": "The San Diego Padres are playing well, having won their last three games and holding a dominant 4-1 record in their last five head-to-head matchups against the Rockies. The Colorado Rockies have struggled on the road with a 25-30 record and have lost five of their last seven games overall. Padres' starter Griffin Canning has a respectable 3.68 ERA over 11 starts, providing a solid foundation against a struggling Rockies lineup. Playing at home where they are 27-24, the Padres are in a strong position to secure a multi-run victory.",
-          "awayRecord": "42-66",
-          "homeRecord": "54-53",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Texas Rangers @ Tampa Bay Rays",
-          "betType": "spread",
-          "pick": "Tampa Bay Rays -1.5",
-          "odds": "+152",
-          "confidence": "medium",
-          "rationale": "The Tampa Bay Rays boast a strong 62-44 overall record and a superior team ERA of 3.51 compared to the Rangers' 4.30. Texas Rangers' starter MacKenzie Gore has been in poor form, posting a 1-2 record with a high 7.66 ERA in his five July starts. While Rays' starter Ian Seymour's numbers are modest, he has performed serviceably at home. The Rays' overall team strength and the Rangers' starting pitcher's recent struggles provide a clear edge for Tampa Bay to win by more than one run.",
-          "awayRecord": "55-52",
-          "homeRecord": "62-44",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Cleveland Guardians @ Cincinnati Reds",
+          "game": "Texas Rangers vs Tampa Bay Rays",
           "betType": "moneyline",
-          "pick": "Cincinnati Reds (+114)",
-          "odds": "+114",
-          "confidence": "medium",
-          "rationale": "The Cincinnati Reds enter this game with better recent form, holding a 6-4 record in their last 10 games, while the Guardians are 3-7 in the same span. Reds' starting pitcher Brady Singer has demonstrated a significant home-field advantage, boasting a 2.98 ERA when pitching in Cincinnati, a marked improvement over his overall 4.53 ERA. Conversely, Guardians' starter Joey Cantillo has struggled on the road this season. These factors, combined with the Reds' recent win in a head-to-head matchup, make them a strong value play at home.",
+          "pick": "Tampa Bay Rays",
+          "odds": "-164",
+          "confidence": "high",
+          "rationale": "The Tampa Bay Rays are in excellent form, winning 4 of their last 5 games and allowing only 7 runs in that span, establishing themselves as one of the hottest teams in baseball. They hold a strong head-to-head record against the Rangers, particularly when playing at home. Rays' starter Shane McClanahan is pitching exceptionally well, boasting a 3.09 ERA and an impressive 7-1 home record with a 1.88 ERA, while Rangers' starter Cole Winn has struggled with a 5.94 ERA. Furthermore, the Rangers' offense is severely hampered by significant injuries to key players like Corey Seager and Josh Jung and has been particularly ineffective against left-handed pitching, scoring just one run per game in their last five outings.",
+          "awayRecord": "55-53",
+          "homeRecord": "63-44",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Boston Red Sox vs Athletics",
+          "betType": "spread",
+          "pick": "Boston Red Sox -1.5",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "The Boston Red Sox possess a significant pitching advantage with Sonny Gray, who is enjoying a dominant season on the mound. The Athletics are severely impacted by a multitude of injuries, including key players like Brent Rooker and Shea Langeliers, with Langeliers out for the remainder of the season due to surgery. The Red Sox currently lead the series 2-1 and are demonstrating superior overall form. Furthermore, betting line movement indicates substantial public and sharp money gravitating towards the Red Sox on both the moneyline and run line, reinforcing the value of laying -1.5 runs with Boston.",
+          "awayRecord": "56-51",
+          "homeRecord": "45-63",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Miami Marlins vs New York Mets",
+          "betType": "moneyline",
+          "pick": "Miami Marlins",
+          "odds": "+110",
+          "confidence": "high",
+          "rationale": "The Miami Marlins are entering this contest on a three-game winning streak, showcasing strong recent form, while the New York Mets are struggling and have fallen to last place in the National League East. The Mets' offense is significantly weakened by the absence of star hitter Juan Soto, who is on the 10-day injured list with a Grade 2 left calf strain and is expected to miss significant time. Despite a majority of public money favoring the Mets, the moneyline has remained flat or even softened, indicating that sharper money is backing the Marlins. Marlins starter Eury Perez is a capable pitcher, and the Mets' depleted lineup is expected to struggle to generate offense against him.",
           "awayRecord": "55-54",
-          "homeRecord": "50-56",
+          "homeRecord": "46-63",
           "awayLast5": [
             "L",
             "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Washington Nationals vs Atlanta Braves",
+          "betType": "total",
+          "pick": "Over 9.5",
+          "odds": "-122",
+          "confidence": "medium",
+          "rationale": "The total of 9.5 runs is highly appealing given the pitching matchup and recent trends. Nationals starter Jake Irvin is returning from the 60-day injured list with a high ERA (5.23/5.27) and an uncertain workload, creating a clear opportunity for the strong Braves offense to score runs. Both Nationals games and Braves home team totals have consistently leaned towards higher-scoring outcomes, with Washington games producing 60 overs against 44 unders, and Atlanta home totals going over in 34 of 52 decisions. Additionally, Nationals hitter James Wood is in excellent form with 30 home runs and has a favorable matchup against Braves pitcher Grant Holmes, who has a high home run per nine innings rate against left-handed hitters.",
+          "awayRecord": "55-54",
+          "homeRecord": "63-45",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Seattle Mariners vs Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "+128",
+          "confidence": "medium",
+          "rationale": "The Los Angeles Dodgers are a dominant team, holding the best record in the National League at 68-40. Mariners starting pitcher Bryan Woo has exhibited significant struggles on the road this season, posting an alarming 8.70 ERA in his last six away starts and allowing 29 earned runs in just 30 innings. This poor road performance, combined with a potential disruption to his routine from being pushed up in the rotation, creates a highly favorable matchup for the potent Dodgers offense. While Dodgers starter Roki Sasaki's overall ERA is 4.75, he is coming off two strong outings, allowing only one earned run over 12.2 innings.",
+          "awayRecord": "53-56",
+          "homeRecord": "68-40",
+          "awayLast5": [
+            "L",
+            "W",
             "L",
             "W",
             "L"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
+            "L",
             "L",
             "W"
           ]
