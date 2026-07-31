@@ -1,129 +1,154 @@
 {
-  "date": "2026-07-30",
-  "generatedAt": "2026-07-30T18:09:17.851Z",
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-31T18:14:52.975Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Texas Rangers vs Tampa Bay Rays",
+          "game": "Pittsburgh Pirates @ Cincinnati Reds",
           "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "-164",
-          "confidence": "high",
-          "rationale": "The Tampa Bay Rays are in excellent form, winning 4 of their last 5 games and allowing only 7 runs in that span, establishing themselves as one of the hottest teams in baseball. They hold a strong head-to-head record against the Rangers, particularly when playing at home. Rays' starter Shane McClanahan is pitching exceptionally well, boasting a 3.09 ERA and an impressive 7-1 home record with a 1.88 ERA, while Rangers' starter Cole Winn has struggled with a 5.94 ERA. Furthermore, the Rangers' offense is severely hampered by significant injuries to key players like Corey Seager and Josh Jung and has been particularly ineffective against left-handed pitching, scoring just one run per game in their last five outings.",
-          "awayRecord": "55-53",
-          "homeRecord": "63-44",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Boston Red Sox vs Athletics",
-          "betType": "spread",
-          "pick": "Boston Red Sox -1.5",
+          "pick": "Pittsburgh Pirates",
           "odds": "-118",
           "confidence": "high",
-          "rationale": "The Boston Red Sox possess a significant pitching advantage with Sonny Gray, who is enjoying a dominant season on the mound. The Athletics are severely impacted by a multitude of injuries, including key players like Brent Rooker and Shea Langeliers, with Langeliers out for the remainder of the season due to surgery. The Red Sox currently lead the series 2-1 and are demonstrating superior overall form. Furthermore, betting line movement indicates substantial public and sharp money gravitating towards the Red Sox on both the moneyline and run line, reinforcing the value of laying -1.5 runs with Boston.",
-          "awayRecord": "56-51",
-          "homeRecord": "45-63",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Miami Marlins vs New York Mets",
-          "betType": "moneyline",
-          "pick": "Miami Marlins",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "The Miami Marlins are entering this contest on a three-game winning streak, showcasing strong recent form, while the New York Mets are struggling and have fallen to last place in the National League East. The Mets' offense is significantly weakened by the absence of star hitter Juan Soto, who is on the 10-day injured list with a Grade 2 left calf strain and is expected to miss significant time. Despite a majority of public money favoring the Mets, the moneyline has remained flat or even softened, indicating that sharper money is backing the Marlins. Marlins starter Eury Perez is a capable pitcher, and the Mets' depleted lineup is expected to struggle to generate offense against him.",
-          "awayRecord": "55-54",
-          "homeRecord": "46-63",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Washington Nationals vs Atlanta Braves",
-          "betType": "total",
-          "pick": "Over 9.5",
-          "odds": "-122",
-          "confidence": "medium",
-          "rationale": "The total of 9.5 runs is highly appealing given the pitching matchup and recent trends. Nationals starter Jake Irvin is returning from the 60-day injured list with a high ERA (5.23/5.27) and an uncertain workload, creating a clear opportunity for the strong Braves offense to score runs. Both Nationals games and Braves home team totals have consistently leaned towards higher-scoring outcomes, with Washington games producing 60 overs against 44 unders, and Atlanta home totals going over in 34 of 52 decisions. Additionally, Nationals hitter James Wood is in excellent form with 30 home runs and has a favorable matchup against Braves pitcher Grant Holmes, who has a high home run per nine innings rate against left-handed hitters.",
-          "awayRecord": "55-54",
-          "homeRecord": "63-45",
+          "rationale": "The Pirates are favored against a struggling Hunter Greene, who holds a 7.06 ERA and has given up significant runs in recent starts. Pittsburgh's starter, Paul Skenes (3.65 ERA), is expected to bounce back from a recent outing against a Reds offense that has scored only 3.1 runs per game against right-handers in their last 10 games. The Pirates also boast the 4th-best offense in baseball, providing a strong offensive advantage in this matchup.",
+          "awayRecord": "55-55",
+          "homeRecord": "51-57",
           "awayLast5": [
             "W",
             "W",
             "L",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
+            "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "Seattle Mariners vs Los Angeles Dodgers",
+          "game": "Philadelphia Phillies @ Baltimore Orioles",
           "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "+128",
+          "pick": "Baltimore Orioles +1.5",
+          "odds": "-142",
+          "confidence": "high",
+          "rationale": "The Phillies are in poor recent form, having lost three straight and four of their last five games, including a sweep. Baltimore's starter, Brandon Young, has been effective with a 3.13 ERA since his promotion, contrasting with Philadelphia's Andrew Painter, who has a 7.06 ERA and struggles with walks and limiting contact. The Orioles have also played .500 ball over their last five games and hold a respectable 29-27 home record, making them a solid play to keep the game close or win outright.",
+          "awayRecord": "57-52",
+          "homeRecord": "53-56",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Texas Rangers @ Houston Astros",
+          "betType": "moneyline",
+          "pick": "Houston Astros",
+          "odds": "+114",
+          "confidence": "high",
+          "rationale": "The Astros are currently the hotter team, riding a three-game winning streak and having won eight of their last nine games, while the Rangers have dropped two straight. Houston's starter, Hunter Brown (3.45 ERA), has been sharp since returning from injury with a low .192 opponent average, and the Rangers are without star shortstop Corey Seager. Furthermore, Rangers starter Nathan Eovaldi has historically struggled against current Astros hitters, allowing a .541 slugging percentage and .878 OPS.",
+          "awayRecord": "55-54",
+          "homeRecord": "55-55",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "San Francisco Giants @ San Diego Padres",
+          "betType": "moneyline",
+          "pick": "San Diego Padres",
+          "odds": "-138",
           "confidence": "medium",
-          "rationale": "The Los Angeles Dodgers are a dominant team, holding the best record in the National League at 68-40. Mariners starting pitcher Bryan Woo has exhibited significant struggles on the road this season, posting an alarming 8.70 ERA in his last six away starts and allowing 29 earned runs in just 30 innings. This poor road performance, combined with a potential disruption to his routine from being pushed up in the rotation, creates a highly favorable matchup for the potent Dodgers offense. While Dodgers starter Roki Sasaki's overall ERA is 4.75, he is coming off two strong outings, allowing only one earned run over 12.2 innings.",
-          "awayRecord": "53-56",
-          "homeRecord": "68-40",
+          "rationale": "The Padres have a clear pitching advantage with Bradgley Rodriguez (2-2, 2.33 ERA), who boasts a strong contact-management profile. The Giants, on the other hand, have struggled with consistent road offense and are sending Carson Whisenhunt (4.60 ERA) to the mound. Despite a Giants win yesterday, the Padres had won five straight prior to that and have a strong home record, with their home team totals going under in 32 of 54 decisions, indicating a solid pitching performance is expected.",
+          "awayRecord": "47-62",
+          "homeRecord": "55-54",
           "awayLast5": [
             "L",
             "W",
             "L",
             "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Minnesota Twins @ Seattle Mariners",
+          "betType": "total",
+          "pick": "Over 8",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "Minnesota road games have a strong tendency to go over the total, doing so in 33 of 51 decisions, and their road team totals have gone over in 32 of 53 games. Twins starter Zebby Matthews carries a high 5.21 ERA, which should allow Seattle to generate significant offense. While Mariners' Bryce Miller has strong home splits, the Twins offense has been aggressive on the road, creating a credible path for both teams to contribute to a higher-scoring game and exceed the total of 8 runs.",
+          "awayRecord": "55-55",
+          "homeRecord": "53-57",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
             "L",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
           ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Toronto FC @ New York City FC",
+          "betType": "moneyline",
+          "pick": "New York City FC",
+          "odds": "-150",
+          "confidence": "high",
+          "rationale": "New York City FC is in superior form, having won their last two league games and remaining undefeated in their last three home matches. Toronto FC, conversely, is struggling significantly, winless in their last 11 outings and with a poor away record of six losses in their past ten road games. Head-to-head history heavily favors NYCFC, who have secured five consecutive victories against Toronto, including a dominant 3-1 win in their most recent home encounter. Despite a lengthy injury list for NYCFC, their consistent performance and historical dominance in this fixture at home make them a strong moneyline pick.",
+          "awayRecord": "3-7-7",
+          "homeRecord": "7-4-6"
+        },
+        {
+          "game": "Toronto FC @ New York City FC",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-150",
+          "confidence": "high",
+          "rationale": "Recent form indicates a propensity for goals in both teams' matches; NYCFC's last home game resulted in a 3-1 victory, and Toronto's last match was a 2-1 loss. New York City FC has consistently found the net, scoring in their last six games, and their matches have often been open affairs. Toronto FC's defense has been leaky, conceding an average of 2.0 goals per game in their last ten league outings. Furthermore, historical head-to-head data shows that 62% of the previous 29 meetings between these two clubs have gone Over 2.5 goals. The line movement from an opening of -140 to the current -150 for Over 2.5 also suggests sharp money is backing a higher-scoring game.",
+          "awayRecord": "3-7-7",
+          "homeRecord": "7-4-6"
         }
       ]
     }
