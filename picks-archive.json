@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-07-31",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Pittsburgh Pirates @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Pittsburgh Pirates 7, Cincinnati Reds 8"
+          },
+          {
+            "game": "Philadelphia Phillies @ Baltimore Orioles",
+            "betType": "spread",
+            "pick": "Baltimore Orioles +1.5",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Phillies 4, Baltimore Orioles 6"
+          },
+          {
+            "game": "Texas Rangers @ Houston Astros",
+            "betType": "moneyline",
+            "pick": "Houston Astros",
+            "odds": "+114",
+            "confidence": "high",
+            "result": "W",
+            "score": "Texas Rangers 2, Houston Astros 11"
+          },
+          {
+            "game": "San Francisco Giants @ San Diego Padres",
+            "betType": "moneyline",
+            "pick": "San Diego Padres",
+            "odds": "-138",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Francisco Giants 0, San Diego Padres 7"
+          },
+          {
+            "game": "Minnesota Twins @ Seattle Mariners",
+            "betType": "total",
+            "pick": "Over 8",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "P",
+            "score": "Minnesota Twins 5, Seattle Mariners 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Toronto FC @ New York City FC",
+            "betType": "moneyline",
+            "pick": "New York City FC",
+            "odds": "-150",
+            "confidence": "high",
+            "result": "L",
+            "score": "Toronto FC 1, New York City FC 1"
+          },
+          {
+            "game": "Toronto FC @ New York City FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-150",
+            "confidence": "high",
+            "result": "L",
+            "score": "Toronto FC 1, New York City FC 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-30",
     "sports": [
       {
@@ -2387,94 +2466,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Austria 0, Spain 3"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-01",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Detroit Tigers vs New York Yankees",
-            "betType": "spread",
-            "pick": "Detroit Tigers -2.5",
-            "odds": "-106",
-            "confidence": "high",
-            "result": "W",
-            "score": "Detroit Tigers 6, New York Yankees 2"
-          },
-          {
-            "game": "Washington Nationals vs Boston Red Sox",
-            "betType": "spread",
-            "pick": "Washington Nationals -6.5",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Washington Nationals 10, Boston Red Sox 2"
-          },
-          {
-            "game": "San Diego Padres vs Chicago Cubs",
-            "betType": "total",
-            "pick": "Over 13.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Diego Padres 3, Chicago Cubs 23"
-          },
-          {
-            "game": "New York Mets vs Toronto Blue Jays",
-            "betType": "moneyline",
-            "pick": "New York Mets",
-            "odds": "-104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New York Mets 3, Toronto Blue Jays 9"
-          },
-          {
-            "game": "Pittsburgh Pirates vs Philadelphia Phillies",
-            "betType": "moneyline",
-            "pick": "Philadelphia Phillies",
-            "odds": "-126",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Pittsburgh Pirates 6, Philadelphia Phillies 10"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Senegal vs Belgium",
-            "betType": "moneyline",
-            "pick": "Belgium",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Senegal 2, Belgium 3"
-          },
-          {
-            "game": "Senegal vs Belgium",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Senegal 2, Belgium 3"
-          },
-          {
-            "game": "Senegal vs Belgium",
-            "betType": "prop",
-            "pick": "Kevin De Bruyne Anytime Goalscorer",
-            "odds": "+300",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
           }
         ]
       }
