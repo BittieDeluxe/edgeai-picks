@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-08-01",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Pittsburgh Pirates @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds",
+            "odds": "+106",
+            "confidence": "high",
+            "result": "L",
+            "score": "Pittsburgh Pirates 4, Cincinnati Reds 1"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "Cleveland Guardians",
+            "odds": "-164",
+            "confidence": "high",
+            "result": "L",
+            "score": "Arizona Diamondbacks 12, Cleveland Guardians 8"
+          },
+          {
+            "game": "Milwaukee Brewers @ Los Angeles Angels",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+134",
+            "confidence": "high",
+            "result": "W",
+            "score": "Milwaukee Brewers 3, Los Angeles Angels 1"
+          },
+          {
+            "game": "Philadelphia Phillies @ Baltimore Orioles",
+            "betType": "moneyline",
+            "pick": "Baltimore Orioles",
+            "odds": "+128",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Phillies 5, Baltimore Orioles 0"
+          },
+          {
+            "game": "Chicago White Sox @ Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-158",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago White Sox 0, Tampa Bay Rays 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Atlanta United FC vs Philadelphia Union",
+            "betType": "moneyline",
+            "pick": "Philadelphia Union",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "W",
+            "score": "Atlanta United FC 2, Philadelphia Union 3"
+          },
+          {
+            "game": "Houston Dynamo FC vs Sporting Kansas City",
+            "betType": "moneyline",
+            "pick": "Houston Dynamo FC",
+            "odds": "+115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Houston Dynamo FC 2, Sporting Kansas City 0"
+          },
+          {
+            "game": "Austin FC vs Colorado Rapids",
+            "betType": "moneyline",
+            "pick": "Austin FC",
+            "odds": "+330",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Austin FC 0, Colorado Rapids 1"
+          },
+          {
+            "game": "Columbus Crew vs Inter Miami CF",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Columbus Crew 2, Inter Miami CF 2"
+          },
+          {
+            "game": "Nashville SC vs D.C. United",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Nashville SC 2, D.C. United 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-07-31",
     "sports": [
       {
@@ -2360,112 +2466,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Egypt 1, Australia 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-02",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Cincinnati Reds @ Milwaukee Brewers",
-            "betType": "spread",
-            "pick": "Milwaukee Brewers -1.5",
-            "odds": "+134",
-            "confidence": "high",
-            "result": "L",
-            "score": "Cincinnati Reds 7, Milwaukee Brewers 2"
-          },
-          {
-            "game": "Tampa Bay Rays @ Kansas City Royals",
-            "betType": "spread",
-            "pick": "Tampa Bay Rays -1.5",
-            "odds": "+126",
-            "confidence": "high",
-            "result": "W",
-            "score": "Tampa Bay Rays 5, Kansas City Royals 2"
-          },
-          {
-            "game": "Los Angeles Angels @ Seattle Mariners",
-            "betType": "spread",
-            "pick": "Seattle Mariners -1.5",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Los Angeles Angels 0, Seattle Mariners 1"
-          },
-          {
-            "game": "Miami Marlins @ Colorado Rockies",
-            "betType": "total",
-            "pick": "Over 12.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Miami Marlins 4, Colorado Rockies 14"
-          },
-          {
-            "game": "St. Louis Cardinals @ Atlanta Braves",
-            "betType": "total",
-            "pick": "Under 9",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "St. Louis Cardinals 11, Atlanta Braves 5"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Austria @ Spain",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-150",
-            "confidence": "high",
-            "result": "W",
-            "score": "Austria 0, Spain 3"
-          },
-          {
-            "game": "Croatia @ Portugal",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-140",
-            "confidence": "high",
-            "result": "W",
-            "score": "Croatia 1, Portugal 2"
-          },
-          {
-            "game": "Algeria @ Switzerland",
-            "betType": "moneyline",
-            "pick": "Switzerland (-110)",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Algeria 0, Switzerland 2"
-          },
-          {
-            "game": "Algeria @ Switzerland",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-150",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Algeria 0, Switzerland 2"
-          },
-          {
-            "game": "Austria @ Spain",
-            "betType": "moneyline",
-            "pick": "Spain (-340)",
-            "odds": "-340",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Austria 0, Spain 3"
           }
         ]
       }

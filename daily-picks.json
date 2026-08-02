@@ -1,76 +1,28 @@
 {
-  "date": "2026-08-01",
-  "generatedAt": "2026-08-01T17:53:27.279Z",
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-02T17:53:58.728Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Pittsburgh Pirates @ Cincinnati Reds",
-          "betType": "moneyline",
-          "pick": "Cincinnati Reds",
-          "odds": "+106",
-          "confidence": "high",
-          "rationale": "The Cincinnati Reds are in significantly better recent form, with a 7-3 record in their last 10 games, while the Pittsburgh Pirates are on a four-game losing streak and are 3-7 in their last 10. Reds' starter Andrew Abbott has been pitching well recently, allowing two or fewer earned runs in his last two starts, contrasting with Pirates' starter Braxton Ashcraft's struggles, who has given up 17 earned runs in his last four outings. Despite Ashcraft's historical success against the Reds, his current poor form and Cincinnati's momentum make the Reds a strong value play as home underdogs, especially after winning the first two games of this series.",
-          "awayRecord": "55-56",
-          "homeRecord": "52-57",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Arizona Diamondbacks @ Cleveland Guardians",
-          "betType": "moneyline",
-          "pick": "Cleveland Guardians",
-          "odds": "-164",
-          "confidence": "high",
-          "rationale": "The Cleveland Guardians are starting their ace, Parker Messick (8-6, 2.59 ERA), who has been consistently dominant this season and recently, allowing only five runs (four earned) over his last four starts. The Arizona Diamondbacks counter with rookie Kohl Drake (0-0, 5.00 ERA), who has struggled in his limited MLB appearances, including allowing four earned runs in his last outing. This significant pitching mismatch heavily favors the Guardians, despite the Diamondbacks winning Game 1 of the series. The Guardians' strong pitching at home should overcome their recent offensive struggles.",
-          "awayRecord": "58-52",
-          "homeRecord": "56-55",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
           "game": "Milwaukee Brewers @ Los Angeles Angels",
           "betType": "spread",
           "pick": "Milwaukee Brewers -1.5",
-          "odds": "+134",
+          "odds": "-126",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers are a top-tier team with a 68-41 record, boasting the NL's best pitching staff and a strong 32-21 road record. They defeated the struggling Los Angeles Angels 6-2 in the previous game, demonstrating their superiority. While Angels' starter Jose Soriano has a decent ERA, his higher xERA suggests potential regression, whereas Brewers' starter Robert Gasser's xERA is significantly better than his actual ERA, indicating he is due for improved performance. The Brewers' overall team strength, recent head-to-head victory, and favorable underlying pitching metrics support them covering the run line.",
-          "awayRecord": "68-41",
-          "homeRecord": "42-68",
+          "rationale": "The Milwaukee Brewers, holding the best record in MLB at 69-41, are on a strong run, having won the first two games of this series and boasting a 6-4 record in their last ten outings. They face a struggling Los Angeles Angels team that has lost five consecutive games and six straight at home, managing only 3.0 runs per game in their last ten. Milwaukee's ace, Jacob Misiorowski (11-4, 1.58 ERA, <0.80 WHIP), is a dominant force with a 40.57% strikeout rate, presenting a significant challenge for the Angels' offense, especially against rookie Walbert Ureña. The Brewers have consistently covered the run line in their last seven games as favorites against the Angels, and Los Angeles' bullpen is likely fatigued after a bullpen game on Saturday, further solidifying the expectation of a multi-run victory for Milwaukee.",
+          "awayRecord": "69-41",
+          "homeRecord": "42-69",
           "awayLast5": [
-            "W",
             "L",
             "W",
             "L",
+            "W",
             "W"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "L",
             "L",
             "L",
@@ -78,107 +30,100 @@
           ]
         },
         {
-          "game": "Philadelphia Phillies @ Baltimore Orioles",
+          "game": "Miami Marlins @ New York Mets",
           "betType": "moneyline",
-          "pick": "Baltimore Orioles",
-          "odds": "+128",
+          "pick": "Miami Marlins (-120)",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The Miami Marlins are actively competing for a wild card spot, while the New York Mets are out of contention and have been dismantling their roster, including trading A.J. Minter. Miami holds a substantial pitching advantage with Sandy Alcantara (11-6, 3.82 ERA), who has been in elite form with a sub-3.00 ERA over his last eleven starts, facing Robert Stock, who is making his first MLB appearance of 2026 with a career 4.90 ERA. The Marlins have an impressive historical trend, winning their last eleven Sunday day games as road favorites against National League opponents, while the Mets have lost seven of their last eight as home underdogs. This confluence of pitching disparity, team motivation, and historical trends makes the Marlins a high-confidence pick.",
+          "awayRecord": "57-55",
+          "homeRecord": "47-65",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Pittsburgh Pirates @ Cincinnati Reds",
+          "betType": "moneyline",
+          "pick": "Cincinnati Reds (-230)",
+          "odds": "-230",
+          "confidence": "high",
+          "rationale": "The Cincinnati Reds boast a significant pitching advantage with Chase Burns (12-1, 2.40 ERA, 1.00 WHIP), who has been a breakout star and holds a 5-0 record with a 2.98 ERA in his last nine starts. He faces Pittsburgh's Mitch Keller (6-7, 4.83 ERA, 1.31 WHIP), who has been struggling and allows considerable traffic on the bases. Cincinnati is in superior recent form, winning seven of their last ten games, contrasting with Pittsburgh's four-game skid and a meager .229 batting average over their last ten. Furthermore, the Pirates are without key offensive player Ryan O'Hearn due to a quad strain, weakening their lineup against a strong pitcher in a hitter-friendly Great American Ball Park.",
+          "awayRecord": "56-56",
+          "homeRecord": "52-58",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "New York Yankees @ Chicago Cubs",
+          "betType": "moneyline",
+          "pick": "New York Yankees (-116)",
+          "odds": "-116",
           "confidence": "medium",
-          "rationale": "The Philadelphia Phillies are in a slump, currently on a four-game losing streak and holding a 2-8 record in their last 10 games. Their starting pitcher, Cristopher Sánchez, despite a strong season ERA, has posted a concerning 6.65 ERA across his four July starts. Conversely, the Baltimore Orioles' offense has been hot, particularly at home and against left-handed pitching, and their starter Shane Baz has shown significant improvement recently. The Orioles already won the series opener, and the Phillies' recent struggles combined with the Orioles' offensive surge make them an attractive underdog pick.",
-          "awayRecord": "57-53",
-          "homeRecord": "54-56",
+          "rationale": "The New York Yankees feature ace Gerrit Cole, who is in excellent form with a 2.97 ERA over his last five starts, providing a significant pitching edge over Chicago's Colin Rea, whose advanced metrics (8th percentile xERA) are concerning. Despite the Cubs winning two of the first three games in this series, strong winds blowing in at over 20 miles per hour at Wrigley Field are expected to suppress power, which benefits Cole's pitching style and could hinder the Cubs' offense. The Cubs also have numerous pitchers on the 60-day injured list, potentially straining their bullpen if Rea struggles early. This combination of elite pitching, favorable weather conditions, and opponent's bullpen concerns makes the Yankees a strong play.",
+          "awayRecord": "62-49",
+          "homeRecord": "63-48",
           "awayLast5": [
             "W",
             "L",
             "L",
-            "L",
+            "W",
             "L"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
             "W",
+            "L",
             "W"
           ]
         },
         {
           "game": "Chicago White Sox @ Tampa Bay Rays",
-          "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "-158",
+          "betType": "total",
+          "pick": "Under 8.5",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "The Tampa Bay Rays have a formidable home record of 40-17 and boast key offensive players like Junior Caminero and Jonathan Aranda who are performing at a high level. Although their ace Shane McClanahan is on the 15-day IL, his absence is expected to be short-term, minimizing its long-term impact. The Chicago White Sox are significantly hampered by injuries to key position players, including catcher Kyle Teel and outfielder Austin Hays, which will likely suppress their offensive output. The Rays' strong home advantage, potent offense, and more stable pitching situation give them a clear edge over the injury-riddled White Sox.",
-          "awayRecord": "58-51",
-          "homeRecord": "64-45",
+          "rationale": "The recent games in this series have been low-scoring, with results of 6-1 and 1-0, indicating both offenses are struggling to produce runs consistently. Tropicana Field is a known pitcher-friendly park with a fixed roof, eliminating weather as a factor and generally suppressing run production. Both starting pitchers, Anthony Kay (4.25 ERA) and Griffin Jax (3.74 ERA), have shown capabilities to limit runs, with Jax particularly effective at limiting baserunners. The 'Unders with Soft Starters and Neutral Winds' betting system also applies here, suggesting that after two games, pitching staffs have adjusted, and run production will remain low.",
+          "awayRecord": "58-52",
+          "homeRecord": "65-45",
           "awayLast5": [
             "L",
-            "L",
             "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
             "W",
             "W",
             "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "Atlanta United FC vs Philadelphia Union",
-          "betType": "moneyline",
-          "pick": "Philadelphia Union",
-          "odds": "-165",
-          "confidence": "high",
-          "rationale": "Philadelphia Union enters this match with a fully healthy squad, providing a significant advantage in both depth and quality. In stark contrast, Atlanta United FC is severely depleted, with four key players officially OUT due to injury or international duty, including Paulo Díaz and Sergio Santos. Atlanta's poor record of 3-3-11 further highlights their struggles, especially on the road against a healthy opponent. This combination of a healthy home team facing a heavily injured and struggling away team makes Philadelphia a strong favorite at -165.",
-          "awayRecord": "3-3-11",
-          "homeRecord": "3-4-10"
-        },
-        {
-          "game": "Houston Dynamo FC vs Sporting Kansas City",
-          "betType": "moneyline",
-          "pick": "Houston Dynamo FC",
-          "odds": "+115",
-          "confidence": "high",
-          "rationale": "Houston Dynamo FC boasts a significantly better record (8-2-6) compared to Sporting Kansas City (4-2-11), indicating superior recent form. Sporting Kansas City is severely impacted by injuries, with three key players (Diego Borges, Taylor Calheira, Justin Reynolds) officially OUT for this match. While Houston also has two players out, their overall team performance and the extent of Sporting KC's absences give them a clear edge on the road. The +115 moneyline offers excellent value for a team in much better form facing a depleted opponent.",
-          "awayRecord": "8-2-6",
-          "homeRecord": "4-2-11"
-        },
-        {
-          "game": "Austin FC vs Colorado Rapids",
-          "betType": "moneyline",
-          "pick": "Austin FC",
-          "odds": "+330",
-          "confidence": "medium",
-          "rationale": "Colorado Rapids are severely hampered by an extensive injury list and a suspension, with six players officially OUT, including starting goalkeeper Zack Steffen (shoulder surgery, out 5-6 months) and Rob Holding (suspension). Austin FC, while having two players out, faces a significantly less depleted squad. Despite Colorado's home advantage, their numerous absences, particularly in critical defensive positions, make the -145 moneyline highly questionable. Austin FC at +330 presents substantial value for an upset given the significant personnel disadvantages for the Rapids.",
-          "awayRecord": "4-5-8",
-          "homeRecord": "6-1-10"
-        },
-        {
-          "game": "Columbus Crew vs Inter Miami CF",
-          "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Inter Miami CF is facing a significant number of key absences for this match, with Lionel Messi, Ian Fray, Telasco Segovia, and Tadeo Allende all officially OUT, and Germán Berterame's status uncertain after a recent head injury. These are crucial offensive and defensive players for Miami, severely blunting their attacking prowess. While Columbus Crew also has Wessam Abou Ali out, Miami's widespread unavailability suggests a lower-scoring affair than the high total of 3.5 implies. This makes the Under 3.5 at -110 a valuable play.",
-          "awayRecord": "5-4-8",
-          "homeRecord": "11-4-2"
-        },
-        {
-          "game": "Nashville SC vs D.C. United",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "-118",
-          "confidence": "medium",
-          "rationale": "Nashville SC is dealing with a substantial injury list, including five players OUT (Chris Applewhite, Cristian Espinoza, Alex Muyl, Joe Willis, Patrick Yazbek) and two questionable (Reed Baker-Whiting, Warren Madrigal). These absences will significantly impact their offensive output. D.C. United also has two players out (Jordan Farr, Gabe Segal). Given the number of key attacking absences for Nashville and D.C. United's generally lower-scoring tendencies, a tight, low-scoring match is highly probable. The Under 2.5 at -118 reflects this expectation for a game with depleted attacking options.",
-          "awayRecord": "12-3-2",
-          "homeRecord": "5-7-5"
         }
       ]
     }
