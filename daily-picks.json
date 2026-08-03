@@ -1,127 +1,127 @@
 {
-  "date": "2026-08-02",
-  "generatedAt": "2026-08-02T17:53:58.728Z",
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T18:43:07.463Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Milwaukee Brewers @ Los Angeles Angels",
+          "game": "San Diego Padres @ Arizona Diamondbacks",
+          "betType": "moneyline",
+          "pick": "Arizona Diamondbacks",
+          "odds": "-112",
+          "confidence": "high",
+          "rationale": "The Arizona Diamondbacks are displaying strong sharp reverse line movement, with their moneyline shifting in their favor despite a relatively even public betting split. Arizona's starting pitcher, Brandon Pfaadt, has been in excellent form, boasting a 1.88 ERA across his five July starts, and the Diamondbacks have won all six of his recent outings. Furthermore, the Diamondbacks hold a solid 31-22 home record, providing a significant advantage over the Padres' 26-29 road performance. This confluence of sharp money, a hot starting pitcher, and home-field advantage makes the Diamondbacks a high-confidence play.",
+          "awayRecord": "58-54",
+          "homeRecord": "59-53",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers @ Chicago Cubs",
+          "betType": "moneyline",
+          "pick": "Chicago Cubs",
+          "odds": "+110",
+          "confidence": "high",
+          "rationale": "There is clear sharp reverse line movement favoring the Chicago Cubs, as their moneyline has moved from +110 to +105 despite the Los Angeles Dodgers receiving 75% of the public's moneyline bets. The Cubs' offense is currently hot, with five players recording an OPS over .800 in the last two weeks, and they face a Dodgers starter in Justin Wrobleski who has reportedly been overperforming and susceptible to hard contact this season. Cubs starter Matthew Boyd has also been in stellar form, posting a 1.67 ERA in his five July starts. This strong pitching and hitting form, coupled with the Dodgers recently being swept, gives the Cubs a significant edge.",
+          "awayRecord": "69-43",
+          "homeRecord": "63-49",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Francisco Giants @ Texas Rangers",
+          "betType": "moneyline",
+          "pick": "San Francisco Giants",
+          "odds": "+106",
+          "confidence": "high",
+          "rationale": "Despite the public leaning towards the Texas Rangers, the betting line has moved in favor of the San Francisco Giants, indicating sharp money is backing the road underdog. The Giants are sending ace Logan Webb to the mound, who has a solid 3.93 ERA and 1.12 WHIP over 119 innings, contrasting with Rangers starter Cal Quantrill's higher ERA and limited starts. While the Giants have struggled on the road after a loss, the Rangers are on a five-game losing streak and have consistently trailed after the third and fifth innings in recent games against National League opponents. This sharp line movement and pitching mismatch create a compelling case for the Giants.",
+          "awayRecord": "47-65",
+          "homeRecord": "55-57",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Toronto Blue Jays @ Houston Astros",
           "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "-126",
-          "confidence": "high",
-          "rationale": "The Milwaukee Brewers, holding the best record in MLB at 69-41, are on a strong run, having won the first two games of this series and boasting a 6-4 record in their last ten outings. They face a struggling Los Angeles Angels team that has lost five consecutive games and six straight at home, managing only 3.0 runs per game in their last ten. Milwaukee's ace, Jacob Misiorowski (11-4, 1.58 ERA, <0.80 WHIP), is a dominant force with a 40.57% strikeout rate, presenting a significant challenge for the Angels' offense, especially against rookie Walbert Ureña. The Brewers have consistently covered the run line in their last seven games as favorites against the Angels, and Los Angeles' bullpen is likely fatigued after a bullpen game on Saturday, further solidifying the expectation of a multi-run victory for Milwaukee.",
-          "awayRecord": "69-41",
-          "homeRecord": "42-69",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Miami Marlins @ New York Mets",
-          "betType": "moneyline",
-          "pick": "Miami Marlins (-120)",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "The Miami Marlins are actively competing for a wild card spot, while the New York Mets are out of contention and have been dismantling their roster, including trading A.J. Minter. Miami holds a substantial pitching advantage with Sandy Alcantara (11-6, 3.82 ERA), who has been in elite form with a sub-3.00 ERA over his last eleven starts, facing Robert Stock, who is making his first MLB appearance of 2026 with a career 4.90 ERA. The Marlins have an impressive historical trend, winning their last eleven Sunday day games as road favorites against National League opponents, while the Mets have lost seven of their last eight as home underdogs. This confluence of pitching disparity, team motivation, and historical trends makes the Marlins a high-confidence pick.",
-          "awayRecord": "57-55",
-          "homeRecord": "47-65",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Pittsburgh Pirates @ Cincinnati Reds",
-          "betType": "moneyline",
-          "pick": "Cincinnati Reds (-230)",
-          "odds": "-230",
-          "confidence": "high",
-          "rationale": "The Cincinnati Reds boast a significant pitching advantage with Chase Burns (12-1, 2.40 ERA, 1.00 WHIP), who has been a breakout star and holds a 5-0 record with a 2.98 ERA in his last nine starts. He faces Pittsburgh's Mitch Keller (6-7, 4.83 ERA, 1.31 WHIP), who has been struggling and allows considerable traffic on the bases. Cincinnati is in superior recent form, winning seven of their last ten games, contrasting with Pittsburgh's four-game skid and a meager .229 batting average over their last ten. Furthermore, the Pirates are without key offensive player Ryan O'Hearn due to a quad strain, weakening their lineup against a strong pitcher in a hitter-friendly Great American Ball Park.",
-          "awayRecord": "56-56",
-          "homeRecord": "52-58",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Yankees @ Chicago Cubs",
-          "betType": "moneyline",
-          "pick": "New York Yankees (-116)",
-          "odds": "-116",
+          "pick": "Houston Astros -1.5",
+          "odds": "+149",
           "confidence": "medium",
-          "rationale": "The New York Yankees feature ace Gerrit Cole, who is in excellent form with a 2.97 ERA over his last five starts, providing a significant pitching edge over Chicago's Colin Rea, whose advanced metrics (8th percentile xERA) are concerning. Despite the Cubs winning two of the first three games in this series, strong winds blowing in at over 20 miles per hour at Wrigley Field are expected to suppress power, which benefits Cole's pitching style and could hinder the Cubs' offense. The Cubs also have numerous pitchers on the 60-day injured list, potentially straining their bullpen if Rea struggles early. This combination of elite pitching, favorable weather conditions, and opponent's bullpen concerns makes the Yankees a strong play.",
-          "awayRecord": "62-49",
-          "homeRecord": "63-48",
+          "rationale": "The Houston Astros enter this game on a strong six-game winning streak and have already won two of the first three meetings against the Blue Jays this season. Despite both starting pitchers, Shane Bieber and Cristian Javier, having high ERAs, the Astros' offense is in better form, and public backing remains heavily on Houston. The Astros have also shown a profitable trend against the run line when betting the over on total runs, suggesting their offense can cover the spread. Their recent winning momentum and historical edge against Toronto make the Astros -1.5 a confident pick.",
+          "awayRecord": "52-60",
+          "homeRecord": "58-55",
           "awayLast5": [
+            "L",
             "W",
-            "L",
-            "L",
+            "W",
             "W",
             "L"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
-            "L",
+            "W",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Chicago White Sox @ Tampa Bay Rays",
+          "game": "Tampa Bay Rays @ Colorado Rockies",
           "betType": "total",
-          "pick": "Under 8.5",
-          "odds": "-114",
+          "pick": "Over 11.5",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "The recent games in this series have been low-scoring, with results of 6-1 and 1-0, indicating both offenses are struggling to produce runs consistently. Tropicana Field is a known pitcher-friendly park with a fixed roof, eliminating weather as a factor and generally suppressing run production. Both starting pitchers, Anthony Kay (4.25 ERA) and Griffin Jax (3.74 ERA), have shown capabilities to limit runs, with Jax particularly effective at limiting baserunners. The 'Unders with Soft Starters and Neutral Winds' betting system also applies here, suggesting that after two games, pitching staffs have adjusted, and run production will remain low.",
-          "awayRecord": "58-52",
-          "homeRecord": "65-45",
+          "rationale": "This game is being played at Coors Field, which is widely recognized as one of the most hitter-friendly ballparks in MLB, consistently leading to higher-scoring affairs. The high total of 11.5 runs reflects this expectation, and with Rays' starter Shane McClanahan on the 15-day IL, their pitching depth may be tested. Both teams have shown recent offensive struggles, with the Rays dropping two of three and the Rockies losing four of their last five, which could lead to an aggressive approach at the plate to break out of slumps. The inherent Coors Field effect, combined with potential pitching vulnerabilities, strongly favors the Over.",
+          "awayRecord": "65-46",
+          "homeRecord": "45-67",
           "awayLast5": [
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
             "W",
             "L"
           ],
           "homeLast5": [
             "L",
-            "W",
-            "W",
             "L",
+            "W",
+            "W",
             "W"
           ]
         }
