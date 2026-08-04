@@ -1,91 +1,115 @@
 {
-  "date": "2026-08-03",
-  "generatedAt": "2026-08-03T18:43:07.463Z",
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T18:22:54.878Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "San Diego Padres @ Arizona Diamondbacks",
+          "game": "Washington Nationals vs Philadelphia Phillies",
+          "betType": "spread",
+          "pick": "Philadelphia Phillies -1.5",
+          "odds": "-136",
+          "confidence": "high",
+          "rationale": "The Philadelphia Phillies are on a three-game winning streak, including a dominant 6-3 victory over the Nationals on Monday. Philadelphia's starting pitcher, LHP Jesus Luzardo, boasts a strong 9-5 record with a 3.57 ERA, a significant advantage over Washington's RHP Zack Littell (7-8, 4.94 ERA). Nationals outfielder James Wood, a key offensive contributor, is dealing with left side discomfort and is undergoing imaging, which could hinder their lineup. Furthermore, the Phillies recently acquired three-time batting champion Luis Arraez, further strengthening their already potent offense.",
+          "awayRecord": "55-59",
+          "homeRecord": "60-53",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "St. Louis Cardinals vs New York Yankees",
+          "betType": "total",
+          "pick": "Under 8.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Despite a high-scoring game yesterday, the St. Louis Cardinals have been struggling offensively over the past 30 days, posting an MLB-low .214 batting average and 70 wRC+. The New York Yankees' bullpen features reliable arms in David Bednar, Brent Headrick, and Paul Blackburn, who were not heavily utilized in Monday's game and are fresh for tonight. While Yankees starter Ryan Weathers has a respectable 3.99 ERA, Cardinals starter Hunter Dobbins is known for keeping the ball on the ground with a 45.5% ground-ball rate. Additionally, the Yankees' lineup is currently depleted due to injuries to key players like Aaron Judge and Giancarlo Stanton, which should limit their offensive output.",
+          "awayRecord": "56-57",
+          "homeRecord": "63-50",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Miami Marlins vs Atlanta Braves",
+          "betType": "moneyline",
+          "pick": "Atlanta Braves",
+          "odds": "-138",
+          "confidence": "high",
+          "rationale": "The Atlanta Braves are in excellent form, riding a five-game winning streak and holding a 7-3 record over their last ten games. They also possess a strong home advantage with a 36-20 record at Truist Park. Although both starting pitchers, Ryan Gusto for the Marlins and Grant Holmes for the Braves, are not expected to pitch deep into the game, Atlanta's bullpen ranks 5th in MLB with a 3.70 xERA, superior to Miami's 11th-ranked bullpen (3.83 xERA). The Braves also hold a commanding 5-2 lead in the season series against the Marlins, indicating a consistent edge.",
+          "awayRecord": "58-55",
+          "homeRecord": "67-45",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "San Francisco Giants vs Texas Rangers",
+          "betType": "spread",
+          "pick": "San Francisco Giants +1.5",
+          "odds": "-126",
+          "confidence": "medium",
+          "rationale": "The Texas Rangers are in a significant slump, having lost a season-high six consecutive games and failing to hold a lead in their last 40 innings. Their recent struggles are further highlighted by committing five errors in their Monday loss to the Giants. While the Giants were sellers at the trade deadline, they demonstrated their ability to win against this struggling Rangers team with a 5-1 victory on Monday. Given the Rangers' current poor form and defensive issues, taking the Giants with the run line offers strong value.",
+          "awayRecord": "48-65",
+          "homeRecord": "55-58",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "San Diego Padres vs Arizona Diamondbacks",
           "betType": "moneyline",
           "pick": "Arizona Diamondbacks",
-          "odds": "-112",
-          "confidence": "high",
-          "rationale": "The Arizona Diamondbacks are displaying strong sharp reverse line movement, with their moneyline shifting in their favor despite a relatively even public betting split. Arizona's starting pitcher, Brandon Pfaadt, has been in excellent form, boasting a 1.88 ERA across his five July starts, and the Diamondbacks have won all six of his recent outings. Furthermore, the Diamondbacks hold a solid 31-22 home record, providing a significant advantage over the Padres' 26-29 road performance. This confluence of sharp money, a hot starting pitcher, and home-field advantage makes the Diamondbacks a high-confidence play.",
-          "awayRecord": "58-54",
-          "homeRecord": "59-53",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Los Angeles Dodgers @ Chicago Cubs",
-          "betType": "moneyline",
-          "pick": "Chicago Cubs",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "There is clear sharp reverse line movement favoring the Chicago Cubs, as their moneyline has moved from +110 to +105 despite the Los Angeles Dodgers receiving 75% of the public's moneyline bets. The Cubs' offense is currently hot, with five players recording an OPS over .800 in the last two weeks, and they face a Dodgers starter in Justin Wrobleski who has reportedly been overperforming and susceptible to hard contact this season. Cubs starter Matthew Boyd has also been in stellar form, posting a 1.67 ERA in his five July starts. This strong pitching and hitting form, coupled with the Dodgers recently being swept, gives the Cubs a significant edge.",
-          "awayRecord": "69-43",
-          "homeRecord": "63-49",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "San Francisco Giants @ Texas Rangers",
-          "betType": "moneyline",
-          "pick": "San Francisco Giants",
-          "odds": "+106",
-          "confidence": "high",
-          "rationale": "Despite the public leaning towards the Texas Rangers, the betting line has moved in favor of the San Francisco Giants, indicating sharp money is backing the road underdog. The Giants are sending ace Logan Webb to the mound, who has a solid 3.93 ERA and 1.12 WHIP over 119 innings, contrasting with Rangers starter Cal Quantrill's higher ERA and limited starts. While the Giants have struggled on the road after a loss, the Rangers are on a five-game losing streak and have consistently trailed after the third and fifth innings in recent games against National League opponents. This sharp line movement and pitching mismatch create a compelling case for the Giants.",
-          "awayRecord": "47-65",
-          "homeRecord": "55-57",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Toronto Blue Jays @ Houston Astros",
-          "betType": "spread",
-          "pick": "Houston Astros -1.5",
-          "odds": "+149",
+          "odds": "-116",
           "confidence": "medium",
-          "rationale": "The Houston Astros enter this game on a strong six-game winning streak and have already won two of the first three meetings against the Blue Jays this season. Despite both starting pitchers, Shane Bieber and Cristian Javier, having high ERAs, the Astros' offense is in better form, and public backing remains heavily on Houston. The Astros have also shown a profitable trend against the run line when betting the over on total runs, suggesting their offense can cover the spread. Their recent winning momentum and historical edge against Toronto make the Astros -1.5 a confident pick.",
-          "awayRecord": "52-60",
-          "homeRecord": "58-55",
+          "rationale": "The Arizona Diamondbacks are playing well, having won 5 of their last 6 games and securing a 5-1 victory over the Padres in the series opener on Monday. Arizona's starting pitcher, LHP Eduardo Rodriguez, has an impressive 10-3 record and a 2.48 ERA, which is a significant advantage over Padres' RHP Randy Vasquez (6-6, 4.45 ERA). The Diamondbacks are highly motivated as they are currently tied for the final NL Wild Card spot. They also hold a 4-3 season series lead against the Padres, reinforcing their home advantage.",
+          "awayRecord": "58-55",
+          "homeRecord": "60-53",
           "awayLast5": [
             "L",
             "W",
@@ -97,31 +121,7 @@
             "W",
             "W",
             "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays @ Colorado Rockies",
-          "betType": "total",
-          "pick": "Over 11.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "This game is being played at Coors Field, which is widely recognized as one of the most hitter-friendly ballparks in MLB, consistently leading to higher-scoring affairs. The high total of 11.5 runs reflects this expectation, and with Rays' starter Shane McClanahan on the 15-day IL, their pitching depth may be tested. Both teams have shown recent offensive struggles, with the Rays dropping two of three and the Rockies losing four of their last five, which could lead to an aggressive approach at the plate to break out of slumps. The inherent Coors Field effect, combined with potential pitching vulnerabilities, strongly favors the Over.",
-          "awayRecord": "65-46",
-          "homeRecord": "45-67",
-          "awayLast5": [
-            "W",
-            "W",
             "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
             "W"
           ]
         }

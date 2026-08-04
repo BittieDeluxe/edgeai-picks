@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-03",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Diego Padres @ Arizona Diamondbacks",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego Padres 1, Arizona Diamondbacks 5"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Chicago Cubs",
+            "betType": "moneyline",
+            "pick": "Chicago Cubs",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Dodgers 5, Chicago Cubs 10"
+          },
+          {
+            "game": "San Francisco Giants @ Texas Rangers",
+            "betType": "moneyline",
+            "pick": "San Francisco Giants",
+            "odds": "+106",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Francisco Giants 5, Texas Rangers 1"
+          },
+          {
+            "game": "Toronto Blue Jays @ Houston Astros",
+            "betType": "spread",
+            "pick": "Houston Astros -1.5",
+            "odds": "+149",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Toronto Blue Jays 3, Houston Astros 1"
+          },
+          {
+            "game": "Tampa Bay Rays @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 11.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tampa Bay Rays 13, Colorado Rockies 9"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-02",
     "sports": [
       {
@@ -2328,94 +2384,6 @@
             "confidence": "medium",
             "result": "?",
             "score": ""
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-04",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Minnesota Twins @ New York Yankees",
-            "betType": "total",
-            "pick": "Under 12.5",
-            "odds": "-122",
-            "confidence": "high",
-            "result": "L",
-            "score": "Minnesota Twins 11, New York Yankees 4"
-          },
-          {
-            "game": "Detroit Tigers @ Texas Rangers",
-            "betType": "total",
-            "pick": "Under 8",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Detroit Tigers 3, Texas Rangers 0"
-          },
-          {
-            "game": "Tampa Bay Rays @ Houston Astros",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-108",
-            "confidence": "high",
-            "result": "L",
-            "score": "Tampa Bay Rays 8, Houston Astros 10"
-          },
-          {
-            "game": "Milwaukee Brewers @ Arizona Diamondbacks",
-            "betType": "spread",
-            "pick": "Milwaukee Brewers -1.5",
-            "odds": "+105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Milwaukee Brewers 3, Arizona Diamondbacks 4"
-          },
-          {
-            "game": "Toronto Blue Jays @ Seattle Mariners",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Toronto Blue Jays 0, Seattle Mariners 11"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Morocco @ Canada",
-            "betType": "moneyline",
-            "pick": "Morocco (+165)",
-            "odds": "+165",
-            "confidence": "high",
-            "result": "W",
-            "score": "Morocco 3, Canada 0"
-          },
-          {
-            "game": "Morocco @ Canada",
-            "betType": "total",
-            "pick": "Under 1.5 (-165)",
-            "odds": "-165",
-            "confidence": "high",
-            "result": "L",
-            "score": "Morocco 3, Canada 0"
-          },
-          {
-            "game": "France @ Paraguay",
-            "betType": "total",
-            "pick": "Over 2.5 (-160)",
-            "odds": "-160",
-            "confidence": "high",
-            "result": "L",
-            "score": "France 1, Paraguay 0"
           }
         ]
       }
