@@ -1,19 +1,43 @@
 {
-  "date": "2026-08-04",
-  "generatedAt": "2026-08-04T18:22:54.878Z",
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T18:14:50.935Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Washington Nationals vs Philadelphia Phillies",
+          "game": "San Diego Padres @ Arizona Diamondbacks",
           "betType": "spread",
-          "pick": "Philadelphia Phillies -1.5",
-          "odds": "-136",
+          "pick": "San Diego Padres -1.5",
+          "odds": "+126",
           "confidence": "high",
-          "rationale": "The Philadelphia Phillies are on a three-game winning streak, including a dominant 6-3 victory over the Nationals on Monday. Philadelphia's starting pitcher, LHP Jesus Luzardo, boasts a strong 9-5 record with a 3.57 ERA, a significant advantage over Washington's RHP Zack Littell (7-8, 4.94 ERA). Nationals outfielder James Wood, a key offensive contributor, is dealing with left side discomfort and is undergoing imaging, which could hinder their lineup. Furthermore, the Phillies recently acquired three-time batting champion Luis Arraez, further strengthening their already potent offense.",
-          "awayRecord": "55-59",
-          "homeRecord": "60-53",
+          "rationale": "The San Diego Padres have a clear starting pitching advantage with newly acquired Casey Mize making his debut, while Arizona's Mitch Bratt holds a 5.23 ERA. San Diego has won 9 of their last 11 games against National League opponents and has covered the run line in 9 of their last 10 road games against NL opponents. Public money has heavily favored the Padres on the moneyline, reaching as high as 94% of dollars wagered, indicating sharp action. The Padres also hold a 4-1 record in their last 5 head-to-head matchups against the Diamondbacks.",
+          "awayRecord": "59-55",
+          "homeRecord": "60-54",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Athletics @ Cincinnati Reds",
+          "betType": "moneyline",
+          "pick": "Cincinnati Reds (-146)",
+          "odds": "-146",
+          "confidence": "high",
+          "rationale": "The Cincinnati Reds are in strong recent form, winning four of their last five games, including the series opener against the Athletics. Conversely, the Athletics have lost six straight games. Public money has consistently backed Cincinnati on the moneyline, reaching as high as 94% of dollars wagered. The Reds also hold a significant team pitching edge with a 4.40 ERA and 1.41 WHIP compared to the Athletics' 5.42 ERA and 1.50 WHIP.",
+          "awayRecord": "45-68",
+          "homeRecord": "54-58",
           "awayLast5": [
             "L",
             "L",
@@ -22,107 +46,83 @@
             "L"
           ],
           "homeLast5": [
-            "L",
-            "L",
             "W",
+            "W",
+            "L",
             "W",
             "W"
           ]
         },
         {
-          "game": "St. Louis Cardinals vs New York Yankees",
+          "game": "Pittsburgh Pirates @ Milwaukee Brewers",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers (-127)",
+          "odds": "-127",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers boast a strong home record of 37-21 and a dominant overall record of 70-43, placing them atop the NL Central. They have a significant pitching advantage with Kyle Harrison, who is lined up to return and start, while the Pirates' Mitch Keller is on the 60-day injured list. The Brewers have the deeper lineup and a stronger late-game structure, which is crucial in close matchups. Public money has shifted between both sides, but the Brewers remain a modest home favorite at a reasonable price.",
+          "awayRecord": "57-58",
+          "homeRecord": "70-43",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Angels @ Baltimore Orioles",
           "betType": "total",
-          "pick": "Under 8.5",
+          "pick": "Under 8",
           "odds": "-115",
           "confidence": "medium",
-          "rationale": "Despite a high-scoring game yesterday, the St. Louis Cardinals have been struggling offensively over the past 30 days, posting an MLB-low .214 batting average and 70 wRC+. The New York Yankees' bullpen features reliable arms in David Bednar, Brent Headrick, and Paul Blackburn, who were not heavily utilized in Monday's game and are fresh for tonight. While Yankees starter Ryan Weathers has a respectable 3.99 ERA, Cardinals starter Hunter Dobbins is known for keeping the ball on the ground with a 45.5% ground-ball rate. Additionally, the Yankees' lineup is currently depleted due to injuries to key players like Aaron Judge and Giancarlo Stanton, which should limit their offensive output.",
-          "awayRecord": "56-57",
-          "homeRecord": "63-50",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Miami Marlins vs Atlanta Braves",
-          "betType": "moneyline",
-          "pick": "Atlanta Braves",
-          "odds": "-138",
-          "confidence": "high",
-          "rationale": "The Atlanta Braves are in excellent form, riding a five-game winning streak and holding a 7-3 record over their last ten games. They also possess a strong home advantage with a 36-20 record at Truist Park. Although both starting pitchers, Ryan Gusto for the Marlins and Grant Holmes for the Braves, are not expected to pitch deep into the game, Atlanta's bullpen ranks 5th in MLB with a 3.70 xERA, superior to Miami's 11th-ranked bullpen (3.83 xERA). The Braves also hold a commanding 5-2 lead in the season series against the Marlins, indicating a consistent edge.",
-          "awayRecord": "58-55",
-          "homeRecord": "67-45",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "San Francisco Giants vs Texas Rangers",
-          "betType": "spread",
-          "pick": "San Francisco Giants +1.5",
-          "odds": "-126",
-          "confidence": "medium",
-          "rationale": "The Texas Rangers are in a significant slump, having lost a season-high six consecutive games and failing to hold a lead in their last 40 innings. Their recent struggles are further highlighted by committing five errors in their Monday loss to the Giants. While the Giants were sellers at the trade deadline, they demonstrated their ability to win against this struggling Rangers team with a 5-1 victory on Monday. Given the Rangers' current poor form and defensive issues, taking the Giants with the run line offers strong value.",
-          "awayRecord": "48-65",
+          "rationale": "Both starting pitchers, Reid Detmers for the Angels and Trevor Rogers for the Orioles, have been in good form, with Detmers allowing only three runs in his last 16 innings and Rogers giving up two runs or less in seven of his last eight starts. Both teams have struggled against left-handed pitching recently, averaging just 4.7 runs per game combined in their last five games against southpaws. The Angels and Orioles have also gone 6-0-1 to the under in their last seven games combined, and their previous game had only four total runs.",
+          "awayRecord": "43-70",
           "homeRecord": "55-58",
           "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
             "W",
             "L",
             "L",
-            "L",
             "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
           ]
         },
         {
-          "game": "San Diego Padres vs Arizona Diamondbacks",
-          "betType": "moneyline",
-          "pick": "Arizona Diamondbacks",
-          "odds": "-116",
+          "game": "Detroit Tigers @ Seattle Mariners",
+          "betType": "total",
+          "pick": "Over 7.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "The Arizona Diamondbacks are playing well, having won 5 of their last 6 games and securing a 5-1 victory over the Padres in the series opener on Monday. Arizona's starting pitcher, LHP Eduardo Rodriguez, has an impressive 10-3 record and a 2.48 ERA, which is a significant advantage over Padres' RHP Randy Vasquez (6-6, 4.45 ERA). The Diamondbacks are highly motivated as they are currently tied for the final NL Wild Card spot. They also hold a 4-3 season series lead against the Padres, reinforcing their home advantage.",
-          "awayRecord": "58-55",
-          "homeRecord": "60-53",
+          "rationale": "The Detroit Tigers offense is currently on a hot streak, entering this game on a four-game winning streak and coming off an 8-0 victory in the series opener. Seattle's probable starter, Bryan Woo, has struggled recently with an ERA above 4.50, including a 6.75 ERA in his last disaster stretch. The Mariners' offense has also shown the ability to put up runs, going over the total in seven of their last ten games. With Detroit likely deploying a bullpen game, and both teams trending towards high-scoring affairs, the over is a strong play.",
+          "awayRecord": "55-58",
+          "homeRecord": "55-59",
           "awayLast5": [
             "L",
             "W",
             "W",
             "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "W",
+            "W",
+            "L"
           ]
         }
       ]
