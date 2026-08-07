@@ -1,69 +1,69 @@
 {
-  "date": "2026-08-05",
-  "generatedAt": "2026-08-05T18:14:50.935Z",
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-07T17:40:33.758Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "San Diego Padres @ Arizona Diamondbacks",
+          "game": "Athletics vs Boston Red Sox",
           "betType": "spread",
-          "pick": "San Diego Padres -1.5",
-          "odds": "+126",
+          "pick": "Boston Red Sox -1.5",
+          "odds": "-126",
           "confidence": "high",
-          "rationale": "The San Diego Padres have a clear starting pitching advantage with newly acquired Casey Mize making his debut, while Arizona's Mitch Bratt holds a 5.23 ERA. San Diego has won 9 of their last 11 games against National League opponents and has covered the run line in 9 of their last 10 road games against NL opponents. Public money has heavily favored the Padres on the moneyline, reaching as high as 94% of dollars wagered, indicating sharp action. The Padres also hold a 4-1 record in their last 5 head-to-head matchups against the Diamondbacks.",
-          "awayRecord": "59-55",
-          "homeRecord": "60-54",
+          "rationale": "The Boston Red Sox are on an impressive eight-game winning streak and boast a potent offense that has averaged 8.33 runs per game over the last week. They face an Athletics team in horrendous form, having lost eight straight and batting a dismal 67 wRC+ in the last week. Red Sox starter Payton Tolle (3.30 ERA, 2.62 xERA) is in strong form, while Athletics starter Jack Perkins (6.72 ERA, 5.64 FIP) has struggled significantly, allowing 2.45 HR/9. With the Athletics also dealing with numerous key injuries, Boston is well-positioned to cover the run line at home.",
+          "awayRecord": "45-70",
+          "homeRecord": "63-51",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
             "L",
-            "W"
+            "L",
+            "L",
+            "L",
+            "L"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L",
             "W",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Athletics @ Cincinnati Reds",
+          "game": "Minnesota Twins vs Milwaukee Brewers",
           "betType": "moneyline",
-          "pick": "Cincinnati Reds (-146)",
-          "odds": "-146",
+          "pick": "Milwaukee Brewers (-166)",
+          "odds": "-166",
           "confidence": "high",
-          "rationale": "The Cincinnati Reds are in strong recent form, winning four of their last five games, including the series opener against the Athletics. Conversely, the Athletics have lost six straight games. Public money has consistently backed Cincinnati on the moneyline, reaching as high as 94% of dollars wagered. The Reds also hold a significant team pitching edge with a 4.40 ERA and 1.41 WHIP compared to the Athletics' 5.42 ERA and 1.50 WHIP.",
-          "awayRecord": "45-68",
-          "homeRecord": "54-58",
+          "rationale": "The Milwaukee Brewers hold an excellent 39-21 home record this season and are in first place in the NL Central. They send Shane Drohan (3.48 ERA) to the mound, who faces Minnesota's Zebby Matthews, a right-hander with a concerning 5.22 ERA overall and a 7.33 ERA on the road. The Brewers' offense ranks fifth in baseball, while the Twins possess the fifth-worst bullpen ERA, creating a significant advantage for Milwaukee. This pitching mismatch and Milwaukee's strong home performance make the moneyline a high-confidence play.",
+          "awayRecord": "57-59",
+          "homeRecord": "72-43",
           "awayLast5": [
             "L",
             "L",
             "L",
             "L",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
             "L",
+            "L",
+            "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Pittsburgh Pirates @ Milwaukee Brewers",
+          "game": "Houston Astros vs San Diego Padres",
           "betType": "moneyline",
-          "pick": "Milwaukee Brewers (-127)",
-          "odds": "-127",
+          "pick": "San Diego Padres (-114)",
+          "odds": "-114",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers boast a strong home record of 37-21 and a dominant overall record of 70-43, placing them atop the NL Central. They have a significant pitching advantage with Kyle Harrison, who is lined up to return and start, while the Pirates' Mitch Keller is on the 60-day injured list. The Brewers have the deeper lineup and a stronger late-game structure, which is crucial in close matchups. Public money has shifted between both sides, but the Brewers remain a modest home favorite at a reasonable price.",
-          "awayRecord": "57-58",
-          "homeRecord": "70-43",
+          "rationale": "The San Diego Padres present a strong pitching advantage with Robbie Ray (3.08 ERA, 2.02 WAR) on the mound, who has allowed just six earned runs over his last eight starts and holds a seven-game winning streak. Houston counters with Ronel Blanco (7.36 ERA), who is still building back from Tommy John surgery and has shown command issues with eight walks and five home runs allowed in limited innings. The Padres' offense has also been hot, averaging 5.6 runs over their last 20 games, and Petco Park's pitcher-friendly environment further benefits Ray.",
+          "awayRecord": "59-57",
+          "homeRecord": "60-56",
           "awayLast5": [
-            "L",
+            "W",
             "W",
             "L",
             "W",
@@ -71,45 +71,45 @@
           ],
           "homeLast5": [
             "W",
-            "W",
             "L",
+            "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "Los Angeles Angels @ Baltimore Orioles",
-          "betType": "total",
-          "pick": "Under 8",
-          "odds": "-115",
+          "game": "Detroit Tigers vs San Francisco Giants",
+          "betType": "moneyline",
+          "pick": "Detroit Tigers (-128)",
+          "odds": "-128",
           "confidence": "medium",
-          "rationale": "Both starting pitchers, Reid Detmers for the Angels and Trevor Rogers for the Orioles, have been in good form, with Detmers allowing only three runs in his last 16 innings and Rogers giving up two runs or less in seven of his last eight starts. Both teams have struggled against left-handed pitching recently, averaging just 4.7 runs per game combined in their last five games against southpaws. The Angels and Orioles have also gone 6-0-1 to the under in their last seven games combined, and their previous game had only four total runs.",
-          "awayRecord": "43-70",
-          "homeRecord": "55-58",
+          "rationale": "The Detroit Tigers are in excellent recent form, boasting a 5-1 record in their last six games and scoring eight or more runs in seven of their last eight outings. Their starting pitcher, Keider Montero, has been strong with an 8-6 record, 3.17 ERA, and a 1.00 WHIP, including a 2.45 ERA on the road. The San Francisco Giants, conversely, are struggling with a 1-5 record in their last six games and enter this matchup without a confirmed starting pitcher, having thinned their rotation at the trade deadline. This clear pitching and form advantage for Detroit, coupled with the Giants' uncertainty, makes the Tigers moneyline a confident pick.",
+          "awayRecord": "56-59",
+          "homeRecord": "48-67",
           "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
             "W",
             "W",
-            "L",
+            "W",
             "L",
             "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Detroit Tigers @ Seattle Mariners",
-          "betType": "total",
-          "pick": "Over 7.5",
-          "odds": "-110",
+          "game": "Chicago Cubs vs Kansas City Royals",
+          "betType": "spread",
+          "pick": "Chicago Cubs -1.5",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "The Detroit Tigers offense is currently on a hot streak, entering this game on a four-game winning streak and coming off an 8-0 victory in the series opener. Seattle's probable starter, Bryan Woo, has struggled recently with an ERA above 4.50, including a 6.75 ERA in his last disaster stretch. The Mariners' offense has also shown the ability to put up runs, going over the total in seven of their last ten games. With Detroit likely deploying a bullpen game, and both teams trending towards high-scoring affairs, the over is a strong play.",
-          "awayRecord": "55-58",
-          "homeRecord": "55-59",
+          "rationale": "The Chicago Cubs are on a four-game winning streak, having scored 25 runs in those victories, and are firmly in the playoff race. They are sending newly acquired Kevin Gausman to the mound, whose 3.52 FIP suggests he has pitched better than his 4.38 ERA indicates, and he closed his Toronto tenure strong. The Kansas City Royals' offense has struggled recently, scoring three runs or fewer in three of their last four games. With the Cubs' hot offense, especially against left-handed pitching, and their strong road run line covering record (9-0 in last 9 road games after a win), they are well-positioned to cover the spread against Daniel Lynch IV.",
+          "awayRecord": "67-49",
+          "homeRecord": "48-68",
           "awayLast5": [
             "L",
             "W",
@@ -124,6 +124,27 @@
             "W",
             "L"
           ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Houston Dynamo @ New England Revolution",
+          "betType": "moneyline",
+          "pick": "New England Revolution",
+          "odds": "+135",
+          "confidence": "high",
+          "rationale": "New England Revolution boasts an impressive home record this season, securing 7 wins, 0 draws, and 1 loss at Gillette Stadium, accumulating 21 points. Historically, the Revolution have dominated Houston at home, winning their last five encounters and conceding only one goal. Houston Dynamo, despite a recent five-game unbeaten streak, has an underwhelming away record of three wins and four losses in eight road games, compounded by the absence of key defender Antonio Carlos due to injury. These factors strongly favor a New England victory at home."
+        },
+        {
+          "game": "Houston Dynamo @ New England Revolution",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-140",
+          "confidence": "high",
+          "rationale": "The head-to-head matchups between New England and Houston frequently result in high-scoring affairs, with three of their last three competitive meetings seeing between three and six goals. Furthermore, 60% of their overall head-to-head games have surpassed 2.5 goals. New England's home games this season have also shown a propensity for goals, with 7 out of their last 10 home matches going over 2.5 goals, while averaging 2.10 goals scored per game. Houston's defensive solidity on the road is further compromised by the injury to Antonio Carlos, suggesting a higher likelihood of goals conceded."
         }
       ]
     }

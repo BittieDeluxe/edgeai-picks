@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-05",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Diego Padres @ Arizona Diamondbacks",
+            "betType": "spread",
+            "pick": "San Diego Padres -1.5",
+            "odds": "+126",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Diego Padres 4, Arizona Diamondbacks 10"
+          },
+          {
+            "game": "Athletics @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds (-146)",
+            "odds": "-146",
+            "confidence": "high",
+            "result": "W",
+            "score": "Athletics 2, Cincinnati Reds 3"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (-127)",
+            "odds": "-127",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Pirates 2, Milwaukee Brewers 4"
+          },
+          {
+            "game": "Los Angeles Angels @ Baltimore Orioles",
+            "betType": "total",
+            "pick": "Under 8",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Angels 2, Baltimore Orioles 5"
+          },
+          {
+            "game": "Detroit Tigers @ Seattle Mariners",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Tigers 2, Seattle Mariners 4"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-04",
     "sports": [
       {
@@ -2255,85 +2311,6 @@
             "confidence": "high",
             "result": "L",
             "score": "Colombia 0, Switzerland 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-06",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Colorado Rockies vs Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5",
-            "odds": "-115",
-            "confidence": "high",
-            "result": "L",
-            "score": "Colorado Rockies 7, Los Angeles Dodgers 8"
-          },
-          {
-            "game": "New York Yankees vs Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "L",
-            "score": "New York Yankees 5, Tampa Bay Rays 1"
-          },
-          {
-            "game": "Arizona Diamondbacks vs San Diego Padres",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Arizona Diamondbacks 8, San Diego Padres 0"
-          },
-          {
-            "game": "Milwaukee Brewers vs St. Louis Cardinals",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Milwaukee Brewers 4, St. Louis Cardinals 3"
-          },
-          {
-            "game": "Houston Astros vs Washington Nationals",
-            "betType": "moneyline",
-            "pick": "Houston Astros",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Houston Astros 11, Washington Nationals 12"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Spain @ Portugal",
-            "betType": "moneyline",
-            "pick": "Spain (-105)",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "W",
-            "score": "Spain 1, Portugal 0"
-          },
-          {
-            "game": "Spain @ Portugal",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Spain 1, Portugal 0"
           }
         ]
       }
