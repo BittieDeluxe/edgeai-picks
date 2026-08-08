@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-08-07",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Athletics vs Boston Red Sox",
+            "betType": "spread",
+            "pick": "Boston Red Sox -1.5",
+            "odds": "-126",
+            "confidence": "high",
+            "result": "W",
+            "score": "Athletics 1, Boston Red Sox 13"
+          },
+          {
+            "game": "Minnesota Twins vs Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (-166)",
+            "odds": "-166",
+            "confidence": "high",
+            "result": "L",
+            "score": "Minnesota Twins 8, Milwaukee Brewers 6"
+          },
+          {
+            "game": "Houston Astros vs San Diego Padres",
+            "betType": "moneyline",
+            "pick": "San Diego Padres (-114)",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Astros 6, San Diego Padres 3"
+          },
+          {
+            "game": "Detroit Tigers vs San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Detroit Tigers (-128)",
+            "odds": "-128",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Tigers 2, San Francisco Giants 5"
+          },
+          {
+            "game": "Chicago Cubs vs Kansas City Royals",
+            "betType": "spread",
+            "pick": "Chicago Cubs -1.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago Cubs 6, Kansas City Royals 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Houston Dynamo @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+135",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Houston Dynamo @ New England Revolution",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-05",
     "sports": [
       {
@@ -2232,85 +2311,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Morocco 0, France 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-07",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Milwaukee Brewers @ St. Louis Cardinals",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers (-142)",
-            "odds": "-142",
-            "confidence": "high",
-            "result": "W",
-            "score": "Milwaukee Brewers 4, St. Louis Cardinals 3"
-          },
-          {
-            "game": "Chicago Cubs @ Baltimore Orioles",
-            "betType": "moneyline",
-            "pick": "Chicago Cubs (-102)",
-            "odds": "-102",
-            "confidence": "high",
-            "result": "W",
-            "score": "Chicago Cubs 5, Baltimore Orioles 2"
-          },
-          {
-            "game": "Atlanta Braves @ Pittsburgh Pirates",
-            "betType": "total",
-            "pick": "Over 9 (-105)",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Atlanta Braves 4, Pittsburgh Pirates 12"
-          },
-          {
-            "game": "New York Yankees @ Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays (-120)",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Yankees 4, Tampa Bay Rays 6"
-          },
-          {
-            "game": "Philadelphia Phillies @ Cincinnati Reds",
-            "betType": "total",
-            "pick": "Under 9 (-114)",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Phillies 4, Cincinnati Reds 1"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Colombia @ Switzerland",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-160",
-            "confidence": "high",
-            "result": "W",
-            "score": "Colombia 0, Switzerland 0"
-          },
-          {
-            "game": "Colombia @ Switzerland",
-            "betType": "moneyline",
-            "pick": "Colombia",
-            "odds": "+135",
-            "confidence": "high",
-            "result": "L",
-            "score": "Colombia 0, Switzerland 0"
           }
         ]
       }

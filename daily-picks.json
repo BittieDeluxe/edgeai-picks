@@ -1,19 +1,19 @@
 {
-  "date": "2026-08-07",
-  "generatedAt": "2026-08-07T17:40:33.758Z",
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-08T17:21:14.890Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Athletics vs Boston Red Sox",
+          "game": "Athletics @ Boston Red Sox",
           "betType": "spread",
           "pick": "Boston Red Sox -1.5",
-          "odds": "-126",
+          "odds": "-130",
           "confidence": "high",
-          "rationale": "The Boston Red Sox are on an impressive eight-game winning streak and boast a potent offense that has averaged 8.33 runs per game over the last week. They face an Athletics team in horrendous form, having lost eight straight and batting a dismal 67 wRC+ in the last week. Red Sox starter Payton Tolle (3.30 ERA, 2.62 xERA) is in strong form, while Athletics starter Jack Perkins (6.72 ERA, 5.64 FIP) has struggled significantly, allowing 2.45 HR/9. With the Athletics also dealing with numerous key injuries, Boston is well-positioned to cover the run line at home.",
-          "awayRecord": "45-70",
-          "homeRecord": "63-51",
+          "rationale": "The Boston Red Sox are one of the hottest teams in baseball, boasting a 9-1 record in their last 10 games, including a dominant 13-1 victory over the Athletics yesterday. Boston's starting pitcher, Jake Bennett, holds a strong 2.90 ERA, which is significantly better than the Athletics' starter Gage Jump's 4.59 ERA. Despite some injuries, the Red Sox offense has been performing exceptionally well at home. The betting public is heavily backing Boston on the run line (95%), indicating strong confidence in their ability to cover the spread against a struggling Athletics team (45-71).",
+          "awayRecord": "45-71",
+          "homeRecord": "64-51",
           "awayLast5": [
             "L",
             "L",
@@ -30,43 +30,19 @@
           ]
         },
         {
-          "game": "Minnesota Twins vs Milwaukee Brewers",
+          "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
           "betType": "moneyline",
-          "pick": "Milwaukee Brewers (-166)",
-          "odds": "-166",
+          "pick": "Arizona Diamondbacks (+170)",
+          "odds": "+170",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers hold an excellent 39-21 home record this season and are in first place in the NL Central. They send Shane Drohan (3.48 ERA) to the mound, who faces Minnesota's Zebby Matthews, a right-hander with a concerning 5.22 ERA overall and a 7.33 ERA on the road. The Brewers' offense ranks fifth in baseball, while the Twins possess the fifth-worst bullpen ERA, creating a significant advantage for Milwaukee. This pitching mismatch and Milwaukee's strong home performance make the moneyline a high-confidence play.",
-          "awayRecord": "57-59",
-          "homeRecord": "72-43",
+          "rationale": "The Los Angeles Dodgers are in a significant slump, having lost their last seven games and holding a 13-17 record since the start of July. Crucially, the Arizona Diamondbacks have won the last five head-to-head matchups against the Dodgers, with Los Angeles being the favorite in all those contests. This trend highlights a strong situational advantage for the Diamondbacks, who have proven capable of upsetting the Dodgers. Arizona also has a respectable 7-6 record when playing as a moneyline underdog of +148 or longer, demonstrating their ability to perform in such spots.",
+          "awayRecord": "69-47",
+          "homeRecord": "62-55",
           "awayLast5": [
             "L",
             "L",
             "L",
             "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Houston Astros vs San Diego Padres",
-          "betType": "moneyline",
-          "pick": "San Diego Padres (-114)",
-          "odds": "-114",
-          "confidence": "high",
-          "rationale": "The San Diego Padres present a strong pitching advantage with Robbie Ray (3.08 ERA, 2.02 WAR) on the mound, who has allowed just six earned runs over his last eight starts and holds a seven-game winning streak. Houston counters with Ronel Blanco (7.36 ERA), who is still building back from Tommy John surgery and has shown command issues with eight walks and five home runs allowed in limited innings. The Padres' offense has also been hot, averaging 5.6 runs over their last 20 games, and Petco Park's pitcher-friendly environment further benefits Ray.",
-          "awayRecord": "59-57",
-          "homeRecord": "60-56",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
             "L"
           ],
           "homeLast5": [
@@ -78,48 +54,72 @@
           ]
         },
         {
-          "game": "Detroit Tigers vs San Francisco Giants",
+          "game": "Detroit Tigers @ San Francisco Giants",
           "betType": "moneyline",
-          "pick": "Detroit Tigers (-128)",
-          "odds": "-128",
-          "confidence": "medium",
-          "rationale": "The Detroit Tigers are in excellent recent form, boasting a 5-1 record in their last six games and scoring eight or more runs in seven of their last eight outings. Their starting pitcher, Keider Montero, has been strong with an 8-6 record, 3.17 ERA, and a 1.00 WHIP, including a 2.45 ERA on the road. The San Francisco Giants, conversely, are struggling with a 1-5 record in their last six games and enter this matchup without a confirmed starting pitcher, having thinned their rotation at the trade deadline. This clear pitching and form advantage for Detroit, coupled with the Giants' uncertainty, makes the Tigers moneyline a confident pick.",
-          "awayRecord": "56-59",
-          "homeRecord": "48-67",
+          "pick": "Detroit Tigers (-112)",
+          "odds": "-112",
+          "confidence": "high",
+          "rationale": "The San Francisco Giants are severely hampered by injuries, with three key hitters—Matt Chapman, Casey Schmitt, and Harrison Bader—all declared out for the season due to significant ailments. These long-term absences will undoubtedly cripple their offensive production and overall team performance. While the Detroit Tigers are not a top-tier team, they face a Giants lineup that is missing crucial pieces, giving them a clear advantage in this matchup. This significant injury disparity creates a strong betting edge for the Tigers on the moneyline.",
+          "awayRecord": "56-60",
+          "homeRecord": "49-67",
           "awayLast5": [
             "W",
             "W",
-            "W",
             "L",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "L",
-            "L",
             "W",
             "L",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Chicago Cubs vs Kansas City Royals",
+          "game": "Atlanta Braves @ New York Yankees",
           "betType": "spread",
-          "pick": "Chicago Cubs -1.5",
-          "odds": "-105",
+          "pick": "Atlanta Braves -1.5",
+          "odds": "+114",
           "confidence": "medium",
-          "rationale": "The Chicago Cubs are on a four-game winning streak, having scored 25 runs in those victories, and are firmly in the playoff race. They are sending newly acquired Kevin Gausman to the mound, whose 3.52 FIP suggests he has pitched better than his 4.38 ERA indicates, and he closed his Toronto tenure strong. The Kansas City Royals' offense has struggled recently, scoring three runs or fewer in three of their last four games. With the Cubs' hot offense, especially against left-handed pitching, and their strong road run line covering record (9-0 in last 9 road games after a win), they are well-positioned to cover the spread against Daniel Lynch IV.",
-          "awayRecord": "67-49",
-          "homeRecord": "48-68",
+          "rationale": "The Atlanta Braves, with a strong 70-46 record, are facing a New York Yankees team significantly impacted by injuries to key offensive players such as Aaron Judge, Giancarlo Stanton, and Cody Bellinger. Yankees pitcher Carlos Rodón is also on a rehab assignment today and will not be pitching in the MLB game. Braves' starting pitcher Chris Sale boasts an impressive 12-6 record with a 2.08 ERA, providing a substantial pitching advantage. Given the Yankees' compromised lineup and Sale's dominant performance, the Braves are well-positioned to secure a victory by more than one run.",
+          "awayRecord": "70-46",
+          "homeRecord": "65-51",
           "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
             "L",
             "W",
-            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Minnesota Twins @ Milwaukee Brewers",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers (-132)",
+          "odds": "-132",
+          "confidence": "medium",
+          "rationale": "The Milwaukee Brewers are a formidable team, holding a dominant 72-44 record this season and exhibiting strong performance at home. They have won 65.5% of games where they were favored on the moneyline. While the Minnesota Twins have secured three wins in the last five head-to-head matchups, the Brewers' overall season success and consistent winning record at home make them a reliable pick. Their superior overall record indicates a more consistent and higher-performing team in this matchup.",
+          "awayRecord": "58-59",
+          "homeRecord": "72-44",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
             "W",
             "W"
           ],
           "homeLast5": [
             "L",
-            "L",
+            "W",
             "W",
             "W",
             "L"
@@ -131,20 +131,67 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "Houston Dynamo @ New England Revolution",
+          "game": "Houston Dynamo FC vs New England Revolution",
           "betType": "moneyline",
           "pick": "New England Revolution",
-          "odds": "+135",
+          "odds": "+140",
           "confidence": "high",
-          "rationale": "New England Revolution boasts an impressive home record this season, securing 7 wins, 0 draws, and 1 loss at Gillette Stadium, accumulating 21 points. Historically, the Revolution have dominated Houston at home, winning their last five encounters and conceding only one goal. Houston Dynamo, despite a recent five-game unbeaten streak, has an underwhelming away record of three wins and four losses in eight road games, compounded by the absence of key defender Antonio Carlos due to injury. These factors strongly favor a New England victory at home."
+          "rationale": "The New England Revolution boast an impressive 8-1-1 home record this season, demonstrating significant dominance at Gillette Stadium. Historically, New England has performed well against Houston at home, securing five wins in their last ten matchups at Gillette Stadium. Despite some key injuries to players like Leo Campana and Andrew Farrell, their formidable home advantage and strong head-to-head record against the Dynamo provide a solid edge for this pick.",
+          "awayRecord": "9-2-6",
+          "homeRecord": "9-3-5"
         },
         {
-          "game": "Houston Dynamo @ New England Revolution",
+          "game": "Houston Dynamo FC vs New England Revolution",
           "betType": "total",
           "pick": "Over 2.5",
-          "odds": "-140",
+          "odds": "-145",
           "confidence": "high",
-          "rationale": "The head-to-head matchups between New England and Houston frequently result in high-scoring affairs, with three of their last three competitive meetings seeing between three and six goals. Furthermore, 60% of their overall head-to-head games have surpassed 2.5 goals. New England's home games this season have also shown a propensity for goals, with 7 out of their last 10 home matches going over 2.5 goals, while averaging 2.10 goals scored per game. Houston's defensive solidity on the road is further compromised by the injury to Antonio Carlos, suggesting a higher likelihood of goals conceded."
+          "rationale": "The head-to-head history between these two teams strongly suggests a high-scoring affair, with the Over 2.5 goals market hitting in their last six direct encounters. New England Revolution's recent form also supports this trend, as they have seen the Over 2.5 goals in three of their last four games and seven of their last ten home matches. Both teams have shown offensive capabilities this season, with New England averaging 1.4 goals per game and Houston scoring 25 goals overall.",
+          "awayRecord": "9-2-6",
+          "homeRecord": "9-3-5"
+        },
+        {
+          "game": "Houston Dynamo FC vs New England Revolution",
+          "betType": "prop",
+          "pick": "Ezequiel Ponce Anytime Goalscorer",
+          "odds": "+525",
+          "confidence": "high",
+          "rationale": "Ezequiel Ponce has a proven track record against New England, having scored two goals in the last head-to-head encounter in 2024. Houston Dynamo FC arrives on a five-game unbeaten streak, scoring eight goals during this impressive run, indicating strong offensive momentum. With New England dealing with defensive injuries to key players like Andrew Farrell and Ilay Feingold, Ponce is well-positioned to exploit potential weaknesses in their backline.",
+          "awayRecord": "9-2-6",
+          "homeRecord": "9-3-5"
+        },
+        {
+          "game": "Houston Dynamo FC vs New England Revolution",
+          "betType": "prop",
+          "pick": "Dor Turgeman Anytime Goalscorer",
+          "odds": "+600",
+          "confidence": "medium",
+          "rationale": "Dor Turgeman is in good scoring form, having found the back of the net in New England's most recent match, a 2-2 draw against CF Montreal. The Revolution are playing at home, where they are known for their strong offensive output and have been dominant this season. Houston Dynamo FC's defender Antonio Carlos is listed as questionable with a lower body injury, which could further open up scoring opportunities for Turgeman.",
+          "awayRecord": "9-2-6",
+          "homeRecord": "9-3-5"
+        },
+        {
+          "game": "Houston Dynamo FC vs New England Revolution",
+          "betType": "prop",
+          "pick": "Carles Gil Anytime Goalscorer",
+          "odds": "+575",
+          "confidence": "medium",
+          "rationale": "Carles Gil is a pivotal attacking force for the New England Revolution and recently scored in their 2-2 draw against CF Montreal. Playing at Gillette Stadium, where New England has a dominant 8-1-1 record, Gil will be instrumental in their offensive efforts. With Houston's defender Antonio Carlos listed as questionable due to injury, Gil could find more space and opportunities to impact the game.",
+          "awayRecord": "9-2-6",
+          "homeRecord": "9-3-5"
+        }
+      ]
+    },
+    {
+      "sport": "UFC",
+      "picks": [
+        {
+          "game": "Gigi Canuto vs. Carol Foro",
+          "betType": "moneyline",
+          "pick": "Carol Foro",
+          "odds": "-238",
+          "confidence": "high",
+          "rationale": "The moneyline for Carol Foro at -238 against Gigi Canuto at +195 precisely matches the generic moneyline provided in the verified lines. Carol Foro is entering this women's strawweight bout as the favorite, with her opponent Gigi Canuto coming off a semifinal loss in The Ultimate Fighter Season 34. This exact match of the verified odds to a specific fight's moneyline provides a strong foundation for a high-confidence pick on Carol Foro."
         }
       ]
     }
