@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-08-08",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Athletics @ Boston Red Sox",
+            "betType": "spread",
+            "pick": "Boston Red Sox -1.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Athletics 7, Boston Red Sox 3"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks (+170)",
+            "odds": "+170",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Dodgers 2, Arizona Diamondbacks 1"
+          },
+          {
+            "game": "Detroit Tigers @ San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Detroit Tigers (-112)",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Detroit Tigers 8, San Francisco Giants 0"
+          },
+          {
+            "game": "Atlanta Braves @ New York Yankees",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Braves 4, New York Yankees 5"
+          },
+          {
+            "game": "Minnesota Twins @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (-132)",
+            "odds": "-132",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Twins 3, Milwaukee Brewers 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Houston Dynamo FC vs New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+140",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Dynamo FC 2, New England Revolution 0"
+          },
+          {
+            "game": "Houston Dynamo FC vs New England Revolution",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "L",
+            "score": "Houston Dynamo FC 2, New England Revolution 0"
+          },
+          {
+            "game": "Houston Dynamo FC vs New England Revolution",
+            "betType": "prop",
+            "pick": "Ezequiel Ponce Anytime Goalscorer",
+            "odds": "+525",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Houston Dynamo FC vs New England Revolution",
+            "betType": "prop",
+            "pick": "Dor Turgeman Anytime Goalscorer",
+            "odds": "+600",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Houston Dynamo FC vs New England Revolution",
+            "betType": "prop",
+            "pick": "Carles Gil Anytime Goalscorer",
+            "odds": "+575",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "UFC",
+        "picks": [
+          {
+            "game": "Gigi Canuto vs. Carol Foro",
+            "betType": "moneyline",
+            "pick": "Carol Foro",
+            "odds": "-238",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carol Foro won"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-07",
     "sports": [
       {
@@ -2202,112 +2322,6 @@
             "betType": "total",
             "pick": "Over 2.5 (+105)",
             "odds": "+105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Morocco 0, France 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-08",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Athletics @ Detroit Tigers",
-            "betType": "moneyline",
-            "pick": "Detroit Tigers",
-            "odds": "-134",
-            "confidence": "high",
-            "result": "W",
-            "score": "Athletics 1, Detroit Tigers 6"
-          },
-          {
-            "game": "Philadelphia Phillies @ Cincinnati Reds",
-            "betType": "moneyline",
-            "pick": "Cincinnati Reds",
-            "odds": "-142",
-            "confidence": "high",
-            "result": "W",
-            "score": "Philadelphia Phillies 5, Cincinnati Reds 11"
-          },
-          {
-            "game": "New York Yankees @ Tampa Bay Rays",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-122",
-            "confidence": "high",
-            "result": "W",
-            "score": "New York Yankees 0, Tampa Bay Rays 3"
-          },
-          {
-            "game": "Boston Red Sox @ Chicago White Sox",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Boston Red Sox 5, Chicago White Sox 0"
-          },
-          {
-            "game": "Los Angeles Angels @ Texas Rangers",
-            "betType": "spread",
-            "pick": "Los Angeles Angels +1.5",
-            "odds": "-170",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Los Angeles Angels 13, Texas Rangers 1"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Morocco @ France",
-            "betType": "moneyline",
-            "pick": "France",
-            "odds": "-175",
-            "confidence": "high",
-            "result": "W",
-            "score": "Morocco 0, France 2"
-          },
-          {
-            "game": "Morocco @ France",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Morocco 0, France 2"
-          },
-          {
-            "game": "Morocco @ France",
-            "betType": "prop",
-            "pick": "Kylian Mbappé Anytime Goalscorer",
-            "odds": "N/A",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Morocco @ France",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Morocco 0, France 2"
-          },
-          {
-            "game": "Morocco @ France",
-            "betType": "moneyline",
-            "pick": "Morocco",
-            "odds": "+475",
             "confidence": "medium",
             "result": "L",
             "score": "Morocco 0, France 2"

@@ -1,76 +1,100 @@
 {
-  "date": "2026-08-08",
-  "generatedAt": "2026-08-08T17:21:14.890Z",
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-09T17:21:58.306Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Athletics @ Boston Red Sox",
-          "betType": "spread",
-          "pick": "Boston Red Sox -1.5",
-          "odds": "-130",
-          "confidence": "high",
-          "rationale": "The Boston Red Sox are one of the hottest teams in baseball, boasting a 9-1 record in their last 10 games, including a dominant 13-1 victory over the Athletics yesterday. Boston's starting pitcher, Jake Bennett, holds a strong 2.90 ERA, which is significantly better than the Athletics' starter Gage Jump's 4.59 ERA. Despite some injuries, the Red Sox offense has been performing exceptionally well at home. The betting public is heavily backing Boston on the run line (95%), indicating strong confidence in their ability to cover the spread against a struggling Athletics team (45-71).",
-          "awayRecord": "45-71",
-          "homeRecord": "64-51",
+          "game": "Atlanta Braves @ New York Yankees",
+          "betType": "total",
+          "pick": "Under 8.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "The New York Yankees are starting Cam Schlittler, who boasts a strong 2.26 ERA and 0.95 WHIP with elite strikeout numbers, while Braves starter Grant Holmes has also been effective recently with a 2.52 ERA over his last eight appearances. Both games in this series have been low-scoring, with scores of 3-2 (10 innings) and 5-4. The Yankees are significantly hampered offensively by the absence of Aaron Judge, Cody Bellinger, and Giancarlo Stanton, which impacts their run production. Furthermore, the Yankees have a strong tendency to hit the UNDER, doing so in 55.8% of their games in 2026.",
+          "awayRecord": "70-47",
+          "homeRecord": "66-51",
           "awayLast5": [
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
             "L",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W",
-            "W",
-            "W",
+            "L",
             "W",
             "W"
           ]
         },
         {
-          "game": "Los Angeles Dodgers @ Arizona Diamondbacks",
+          "game": "Tampa Bay Rays @ Seattle Mariners",
           "betType": "moneyline",
-          "pick": "Arizona Diamondbacks (+170)",
-          "odds": "+170",
+          "pick": "Tampa Bay Rays",
+          "odds": "-102",
           "confidence": "high",
-          "rationale": "The Los Angeles Dodgers are in a significant slump, having lost their last seven games and holding a 13-17 record since the start of July. Crucially, the Arizona Diamondbacks have won the last five head-to-head matchups against the Dodgers, with Los Angeles being the favorite in all those contests. This trend highlights a strong situational advantage for the Diamondbacks, who have proven capable of upsetting the Dodgers. Arizona also has a respectable 7-6 record when playing as a moneyline underdog of +148 or longer, demonstrating their ability to perform in such spots.",
-          "awayRecord": "69-47",
-          "homeRecord": "62-55",
+          "rationale": "The Tampa Bay Rays are in excellent form, having won five games in a row and 14 of their past 18, including a 5-0 record in their last five road games. They are looking to complete a sweep against the Seattle Mariners, who have dropped three straight games and are 3-7 over their last ten. While the Rays' starting pitcher for today is unannounced, their bullpen demonstrated strong performance in Saturday's 3-2 victory after a late scratch. In contrast, Mariners starter Emerson Hancock has struggled, losing his past two starts and failing to secure a win in his last four outings.",
+          "awayRecord": "70-46",
+          "homeRecord": "56-62",
           "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
             "L",
-            "L",
+            "W",
             "L",
             "L",
             "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
           ]
         },
         {
           "game": "Detroit Tigers @ San Francisco Giants",
           "betType": "moneyline",
-          "pick": "Detroit Tigers (-112)",
-          "odds": "-112",
+          "pick": "Detroit Tigers",
+          "odds": "-119",
           "confidence": "high",
-          "rationale": "The San Francisco Giants are severely hampered by injuries, with three key hitters—Matt Chapman, Casey Schmitt, and Harrison Bader—all declared out for the season due to significant ailments. These long-term absences will undoubtedly cripple their offensive production and overall team performance. While the Detroit Tigers are not a top-tier team, they face a Giants lineup that is missing crucial pieces, giving them a clear advantage in this matchup. This significant injury disparity creates a strong betting edge for the Tigers on the moneyline.",
-          "awayRecord": "56-60",
-          "homeRecord": "49-67",
+          "rationale": "The Detroit Tigers enter this game with a notable 4-game winning streak against the San Francisco Giants, a trend that is currently active. Conversely, the Giants are on a 4-game losing streak specifically against the Tigers. Historically, the Tigers hold a slight edge in the all-time regular season head-to-head record against the Giants (17-14). This combination of recent form and historical dominance in this specific matchup provides a strong advantage for the Tigers.",
+          "awayRecord": "57-60",
+          "homeRecord": "49-68",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Chicago Cubs @ Kansas City Royals",
+          "betType": "spread",
+          "pick": "Chicago Cubs -1.5",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "The Chicago Cubs (68-50) are a significantly stronger team this season compared to the Kansas City Royals (49-69). The Cubs also maintain a favorable all-time head-to-head record against the Royals, winning 22 of their 40 matchups (55.0%). While the Royals secured a win in their last meeting in July 2025, the Cubs' overall superior season performance and historical advantage make them a strong candidate to win by more than one run in this contest.",
+          "awayRecord": "68-50",
+          "homeRecord": "49-69",
           "awayLast5": [
             "W",
             "W",
-            "L",
+            "W",
             "W",
             "L"
           ],
           "homeLast5": [
-            "L",
+            "W",
             "W",
             "L",
             "L",
@@ -79,119 +103,29 @@
         },
         {
           "game": "Atlanta Braves @ New York Yankees",
-          "betType": "spread",
-          "pick": "Atlanta Braves -1.5",
-          "odds": "+114",
+          "betType": "prop",
+          "pick": "Cam Schlittler Over 6.5 Pitcher Strikeouts",
+          "odds": "-117",
           "confidence": "medium",
-          "rationale": "The Atlanta Braves, with a strong 70-46 record, are facing a New York Yankees team significantly impacted by injuries to key offensive players such as Aaron Judge, Giancarlo Stanton, and Cody Bellinger. Yankees pitcher Carlos Rodón is also on a rehab assignment today and will not be pitching in the MLB game. Braves' starting pitcher Chris Sale boasts an impressive 12-6 record with a 2.08 ERA, providing a substantial pitching advantage. Given the Yankees' compromised lineup and Sale's dominant performance, the Braves are well-positioned to secure a victory by more than one run.",
-          "awayRecord": "70-46",
-          "homeRecord": "65-51",
+          "rationale": "New York Yankees pitcher Cam Schlittler is confirmed active and starting today, and has demonstrated elite strikeout capabilities this season, with an impressive 11.02 strikeouts per nine innings and a 30.8% strikeout rate. He has accumulated 171 strikeouts in 139 2/3 innings over 24 starts, averaging nearly 5.9 innings per outing. The Braves, despite their power, exhibit a 33.5% chase rate, ranking 28th in the league, indicating a lack of plate discipline that Schlittler can exploit with his 37.6% chase rate and ability to expand the strike zone.",
+          "propPlayer": "Cam Schlittler",
+          "propTeam": "New York Yankees",
+          "awayRecord": "70-47",
+          "homeRecord": "66-51",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
-            "W",
             "L",
             "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Minnesota Twins @ Milwaukee Brewers",
-          "betType": "moneyline",
-          "pick": "Milwaukee Brewers (-132)",
-          "odds": "-132",
-          "confidence": "medium",
-          "rationale": "The Milwaukee Brewers are a formidable team, holding a dominant 72-44 record this season and exhibiting strong performance at home. They have won 65.5% of games where they were favored on the moneyline. While the Minnesota Twins have secured three wins in the last five head-to-head matchups, the Brewers' overall season success and consistent winning record at home make them a reliable pick. Their superior overall record indicates a more consistent and higher-performing team in this matchup.",
-          "awayRecord": "58-59",
-          "homeRecord": "72-44",
-          "awayLast5": [
-            "L",
-            "L",
             "L",
             "W",
             "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "Houston Dynamo FC vs New England Revolution",
-          "betType": "moneyline",
-          "pick": "New England Revolution",
-          "odds": "+140",
-          "confidence": "high",
-          "rationale": "The New England Revolution boast an impressive 8-1-1 home record this season, demonstrating significant dominance at Gillette Stadium. Historically, New England has performed well against Houston at home, securing five wins in their last ten matchups at Gillette Stadium. Despite some key injuries to players like Leo Campana and Andrew Farrell, their formidable home advantage and strong head-to-head record against the Dynamo provide a solid edge for this pick.",
-          "awayRecord": "9-2-6",
-          "homeRecord": "9-3-5"
-        },
-        {
-          "game": "Houston Dynamo FC vs New England Revolution",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-145",
-          "confidence": "high",
-          "rationale": "The head-to-head history between these two teams strongly suggests a high-scoring affair, with the Over 2.5 goals market hitting in their last six direct encounters. New England Revolution's recent form also supports this trend, as they have seen the Over 2.5 goals in three of their last four games and seven of their last ten home matches. Both teams have shown offensive capabilities this season, with New England averaging 1.4 goals per game and Houston scoring 25 goals overall.",
-          "awayRecord": "9-2-6",
-          "homeRecord": "9-3-5"
-        },
-        {
-          "game": "Houston Dynamo FC vs New England Revolution",
-          "betType": "prop",
-          "pick": "Ezequiel Ponce Anytime Goalscorer",
-          "odds": "+525",
-          "confidence": "high",
-          "rationale": "Ezequiel Ponce has a proven track record against New England, having scored two goals in the last head-to-head encounter in 2024. Houston Dynamo FC arrives on a five-game unbeaten streak, scoring eight goals during this impressive run, indicating strong offensive momentum. With New England dealing with defensive injuries to key players like Andrew Farrell and Ilay Feingold, Ponce is well-positioned to exploit potential weaknesses in their backline.",
-          "awayRecord": "9-2-6",
-          "homeRecord": "9-3-5"
-        },
-        {
-          "game": "Houston Dynamo FC vs New England Revolution",
-          "betType": "prop",
-          "pick": "Dor Turgeman Anytime Goalscorer",
-          "odds": "+600",
-          "confidence": "medium",
-          "rationale": "Dor Turgeman is in good scoring form, having found the back of the net in New England's most recent match, a 2-2 draw against CF Montreal. The Revolution are playing at home, where they are known for their strong offensive output and have been dominant this season. Houston Dynamo FC's defender Antonio Carlos is listed as questionable with a lower body injury, which could further open up scoring opportunities for Turgeman.",
-          "awayRecord": "9-2-6",
-          "homeRecord": "9-3-5"
-        },
-        {
-          "game": "Houston Dynamo FC vs New England Revolution",
-          "betType": "prop",
-          "pick": "Carles Gil Anytime Goalscorer",
-          "odds": "+575",
-          "confidence": "medium",
-          "rationale": "Carles Gil is a pivotal attacking force for the New England Revolution and recently scored in their 2-2 draw against CF Montreal. Playing at Gillette Stadium, where New England has a dominant 8-1-1 record, Gil will be instrumental in their offensive efforts. With Houston's defender Antonio Carlos listed as questionable due to injury, Gil could find more space and opportunities to impact the game.",
-          "awayRecord": "9-2-6",
-          "homeRecord": "9-3-5"
-        }
-      ]
-    },
-    {
-      "sport": "UFC",
-      "picks": [
-        {
-          "game": "Gigi Canuto vs. Carol Foro",
-          "betType": "moneyline",
-          "pick": "Carol Foro",
-          "odds": "-238",
-          "confidence": "high",
-          "rationale": "The moneyline for Carol Foro at -238 against Gigi Canuto at +195 precisely matches the generic moneyline provided in the verified lines. Carol Foro is entering this women's strawweight bout as the favorite, with her opponent Gigi Canuto coming off a semifinal loss in The Ultimate Fighter Season 34. This exact match of the verified odds to a specific fight's moneyline provides a strong foundation for a high-confidence pick on Carol Foro."
         }
       ]
     }
