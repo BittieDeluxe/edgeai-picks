@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-09",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Atlanta Braves @ New York Yankees",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Braves 2, New York Yankees 1"
+          },
+          {
+            "game": "Tampa Bay Rays @ Seattle Mariners",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 4, Seattle Mariners 1"
+          },
+          {
+            "game": "Detroit Tigers @ San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Detroit Tigers",
+            "odds": "-119",
+            "confidence": "high",
+            "result": "W",
+            "score": "Detroit Tigers 3, San Francisco Giants 1"
+          },
+          {
+            "game": "Chicago Cubs @ Kansas City Royals",
+            "betType": "spread",
+            "pick": "Chicago Cubs -1.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago Cubs 10, Kansas City Royals 2"
+          },
+          {
+            "game": "Atlanta Braves @ New York Yankees",
+            "betType": "prop",
+            "pick": "Cam Schlittler Over 6.5 Pitcher Strikeouts",
+            "odds": "-117",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Cam Schlittler: \"Pitcher Strikeouts\" not auto-gradeable"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-08",
     "sports": [
       {
@@ -2269,62 +2325,6 @@
             "confidence": "medium",
             "result": "?",
             "score": ""
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-09",
-    "sports": [
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Morocco @ France",
-            "betType": "moneyline",
-            "pick": "France (-165)",
-            "odds": "-165",
-            "confidence": "high",
-            "result": "W",
-            "score": "Morocco 0, France 2"
-          },
-          {
-            "game": "Morocco @ France",
-            "betType": "total",
-            "pick": "Under 2.5 (-115)",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Morocco 0, France 2"
-          },
-          {
-            "game": "Morocco @ France",
-            "betType": "prop",
-            "pick": "Kylian Mbappé Anytime Goal",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Morocco @ France",
-            "betType": "prop",
-            "pick": "Ousmane Dembélé Anytime Goal",
-            "odds": "+195",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Morocco @ France",
-            "betType": "total",
-            "pick": "Over 2.5 (+105)",
-            "odds": "+105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Morocco 0, France 2"
           }
         ]
       }
