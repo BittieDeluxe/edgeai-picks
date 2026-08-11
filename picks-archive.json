@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-10",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Milwaukee Brewers @ San Diego Padres",
+            "betType": "total",
+            "pick": "Under 7",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Milwaukee Brewers 2, San Diego Padres 3"
+          },
+          {
+            "game": "Kansas City Royals @ Los Angeles Dodgers",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Kansas City Royals 5, Los Angeles Dodgers 6"
+          },
+          {
+            "game": "Philadelphia Phillies @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "+106",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Phillies 6, St. Louis Cardinals 5"
+          },
+          {
+            "game": "Baltimore Orioles @ Minnesota Twins",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-107",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Baltimore Orioles 5, Minnesota Twins 9"
+          },
+          {
+            "game": "Texas Rangers @ Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Texas Rangers",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Texas Rangers 4, Los Angeles Angels 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-09",
     "sports": [
       {
@@ -2219,112 +2275,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "England 2, Norway 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-10",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Boston Red Sox @ New York Mets",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox",
-            "odds": "+126",
-            "confidence": "high",
-            "result": "W",
-            "score": "Boston Red Sox 6, New York Mets 2"
-          },
-          {
-            "game": "Los Angeles Angels @ Minnesota Twins",
-            "betType": "total",
-            "pick": "Over 9.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Angels 4, Minnesota Twins 3"
-          },
-          {
-            "game": "Kansas City Royals @ Baltimore Orioles",
-            "betType": "spread",
-            "pick": "Baltimore Orioles -1.5",
-            "odds": "+136",
-            "confidence": "high",
-            "result": "W",
-            "score": "Kansas City Royals 3, Baltimore Orioles 5"
-          },
-          {
-            "game": "Chicago Cubs @ Cincinnati Reds",
-            "betType": "total",
-            "pick": "Over 10",
-            "odds": "-122",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Chicago Cubs 0, Cincinnati Reds 4"
-          },
-          {
-            "game": "Colorado Rockies @ San Francisco Giants",
-            "betType": "spread",
-            "pick": "San Francisco Giants -1.5",
-            "odds": "+155",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Colorado Rockies 4, San Francisco Giants 3"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Belgium @ Spain",
-            "betType": "moneyline",
-            "pick": "Spain",
-            "odds": "-160",
-            "confidence": "high",
-            "result": "W",
-            "score": "Belgium 1, Spain 2"
-          },
-          {
-            "game": "Belgium @ Spain",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Belgium 1, Spain 2"
-          },
-          {
-            "game": "Belgium @ Spain",
-            "betType": "prop",
-            "pick": "Mikel Oyarzabal Anytime Goalscorer",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Belgium @ Spain",
-            "betType": "prop",
-            "pick": "Lamine Yamal Anytime Goalscorer",
-            "odds": "+145",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Belgium @ Spain",
-            "betType": "prop",
-            "pick": "Charles De Ketelaere Anytime Goalscorer",
-            "odds": "+360",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
           }
         ]
       }

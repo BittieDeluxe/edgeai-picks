@@ -1,103 +1,79 @@
 {
-  "date": "2026-08-10",
-  "generatedAt": "2026-08-10T17:43:29.890Z",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T17:49:50.695Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
           "game": "Milwaukee Brewers @ San Diego Padres",
-          "betType": "total",
-          "pick": "Under 7",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "Milwaukee's Logan Henderson boasts a dominant 2.70 ERA and 0.90 WHIP, making him a strong 'Under' candidate, especially in pitcher-friendly Petco Park. Both the Brewers and Padres exhibit strong 'Under' betting trends, with Milwaukee's full-game totals going under in 65 of 115 decisions and San Diego's home game totals under in 32 of 58. While the total saw some movement to 7.5, the verified line of 7 at -105 presents excellent value, as a 4-3 final score would still secure the under. Even with Casey Mize's recent rough outing, his season ERA of 3.40 suggests he can contribute to a low-scoring affair.",
-          "awayRecord": "74-44",
-          "homeRecord": "62-57",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Kansas City Royals @ Los Angeles Dodgers",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-122",
-          "confidence": "high",
-          "rationale": "Los Angeles' Tarik Skubal is an elite pitcher with a 2.81 ERA and 0.92 WHIP, making it challenging for the Royals' offense to generate runs. Both teams have strong 'Under' betting trends, with Kansas City's road game totals going under in 34 of 59 and Dodgers' home game totals under in 32 of 56. The expected game script projects a 5-2 Dodgers victory, which comfortably stays under 7.5 runs. Despite public money leaning heavily on the Over, the underlying pitching and historical trends strongly support the Under.",
-          "awayRecord": "49-70",
-          "homeRecord": "70-48",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ St. Louis Cardinals",
           "betType": "moneyline",
-          "pick": "St. Louis Cardinals",
-          "odds": "+106",
+          "pick": "Milwaukee Brewers",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "The pitching matchup heavily favors St. Louis, with Hunter Dobbins (3.60 ERA) facing a struggling Andrew Painter (6.48 ERA) who recently returned from injury. Sharp money is clearly on the Cardinals, as the line has moved in their favor despite public support for the Phillies. St. Louis offers strong home value at +106, and Dobbins has been particularly effective against left-handed hitters. A projected 5-3 Cardinals win aligns with the pitching advantage and the line movement.",
-          "awayRecord": "63-56",
-          "homeRecord": "59-59",
+          "rationale": "The Milwaukee Brewers present a strong moneyline pick due to a significant pitching mismatch, with Kyle Harrison (2.84 ERA) starting for Milwaukee against San Diego's Walker Buehler (5.07 ERA). Buehler's advanced metrics are concerning, and he has struggled since July 1, despite the Padres winning his starts. The SportsGrid model projects the Brewers to win by 1.5 runs with a 66% probability, further solidifying this pick. The Brewers also boast a superior overall record at 74-45 compared to the Padres' 63-57.",
+          "awayRecord": "74-45",
+          "homeRecord": "63-57",
           "awayLast5": [
-            "L",
             "W",
             "L",
-            "L",
-            "W"
+            "W",
+            "W",
+            "L"
           ],
           "homeLast5": [
+            "W",
             "L",
             "W",
             "W",
-            "L",
             "W"
           ]
         },
         {
-          "game": "Baltimore Orioles @ Minnesota Twins",
+          "game": "Pittsburgh Pirates @ Miami Marlins",
+          "betType": "moneyline",
+          "pick": "Miami Marlins",
+          "odds": "+104",
+          "confidence": "high",
+          "rationale": "The Miami Marlins are a high-confidence moneyline pick, supported by a clear reverse line movement. The Pirates opened as -123 favorites but have been bet down to -118, while the Marlins moved from +103 to -102, indicating sharp money on Miami. Marlins starter Martin Perez has demonstrated consistent strong form over the past two months, and loanDepot Park is known as a run-suppressing environment, favoring pitchers with good command. Furthermore, Miami holds a strong home record of 36-24, suggesting they perform better in their home ballpark.",
+          "awayRecord": "58-62",
+          "homeRecord": "60-59",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Seattle Mariners @ New York Yankees",
           "betType": "total",
-          "pick": "Over 8.5",
-          "odds": "-107",
+          "pick": "Under 8",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "The pitching matchup features Dean Kremer (5.93 ERA) for the Twins, who has struggled this season and is facing his former team, potentially motivating the Orioles' offense. While Trevor Rogers (4.20 ERA) for Baltimore has been better recently, his season ERA still leaves scoring opportunities. Minnesota's betting trends strongly support the Over, with first-five totals going over in 66 of 114 decisions and full-game totals over in 62 of 111. The warm temperatures and light wind in Minneapolis could also contribute to offense.",
-          "awayRecord": "57-61",
-          "homeRecord": "58-61",
+          "rationale": "The Under 8 runs is a strong pick for the Mariners vs. Yankees game, primarily due to both offenses struggling significantly. The New York Yankees rank 29th in wRC+ over the last 30 days, while the Seattle Mariners' offensive production declines when facing left-handed pitching, which they will encounter in Ryan Weathers. The total line has seen significant movement, opening at 8.5 and being bet down to 8, reflecting confidence in a lower-scoring game. Both starting pitchers, Bryan Woo (4.31 ERA) and Ryan Weathers (3.79 ERA), have been in good form, further supporting an expectation of limited runs.",
+          "awayRecord": "56-63",
+          "homeRecord": "66-52",
           "awayLast5": [
             "W",
             "L",
             "L",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
+            "W",
             "L",
             "W",
             "W",
-            "L",
             "L"
           ]
         },
@@ -105,16 +81,40 @@
           "game": "Texas Rangers @ Los Angeles Angels",
           "betType": "moneyline",
           "pick": "Texas Rangers",
-          "odds": "-112",
+          "odds": "-148",
           "confidence": "medium",
-          "rationale": "The Los Angeles Angels are in poor recent form, with a 3-7 record in their last 10 games and a team batting average of just .197. They also have a 4-6 record in their last 10 home games, batting .222. The Rangers are facing an Angels team riddled with injuries to key players like Jack Leiter, further weakening their roster. The Rangers moneyline at -112 offers good value against a struggling opponent with significant offensive woes. The Angels' overall record of 45-73 further highlights their struggles this season.",
-          "awayRecord": "59-59",
-          "homeRecord": "45-73",
+          "rationale": "The Texas Rangers are a high-confidence moneyline pick due to a favorable pitching matchup against the Los Angeles Angels. The Angels are scheduled to start Ryan Johnson, who carries a high 7.11 ERA, which the strong Rangers offense should be able to exploit. Although the Rangers are without Nathan Eovaldi, their overall offensive strength is expected to overcome this absence. The Rangers' superior 60-59 record compared to the Angels' 45-74, coupled with their position in a tight pennant race, provides additional motivation for a win.",
+          "awayRecord": "60-59",
+          "homeRecord": "45-74",
           "awayLast5": [
             "W",
             "W",
             "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
             "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Boston Red Sox @ Toronto Blue Jays",
+          "betType": "moneyline",
+          "pick": "Toronto Blue Jays",
+          "odds": "-136",
+          "confidence": "medium",
+          "rationale": "The Toronto Blue Jays are a high-confidence moneyline pick, largely driven by the dominant pitching of Dylan Cease. Cease is a legitimate Cy Young candidate, boasting a 2.28 ERA and an AL-best 36.4% strikeout rate. Vegas odds are heavily favoring the Blue Jays, and the Red Sox have a slate-low implied total of just 3.3 runs against Cease, indicating a tough offensive outing for Boston. While Adley Rutschman is expected to return for the Red Sox, Cease's elite performance is anticipated to neutralize much of that potential offensive boost.",
+          "awayRecord": "64-54",
+          "homeRecord": "57-63",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
             "L"
           ],
           "homeLast5": [
@@ -122,7 +122,7 @@
             "W",
             "W",
             "L",
-            "L"
+            "W"
           ]
         }
       ]
