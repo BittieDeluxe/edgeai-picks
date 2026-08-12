@@ -1,117 +1,117 @@
 {
-  "date": "2026-08-11",
-  "generatedAt": "2026-08-11T17:49:50.695Z",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T17:51:45.384Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
+          "game": "Tampa Bay Rays @ Athletics",
+          "betType": "spread",
+          "pick": "Tampa Bay Rays -1.5 (-142)",
+          "odds": "-142",
+          "confidence": "high",
+          "rationale": "Tampa Bay's Drew Rasmussen (11-5, 2.75 ERA, 0.90 WHIP) has a significant pitching advantage over Oakland's Jack Perkins (2-8, 7.04 ERA, 1.45 WHIP). The Rays have a strong season-long run-line betting record of 68-49 and a first-five run-line record of 70-49. This pitching mismatch and historical betting trends suggest the Rays should cover the run line, especially given their ability to build an early lead. The Rays have won two of the last three head-to-head matchups by at least two runs.",
+          "awayRecord": "73-46",
+          "homeRecord": "47-73",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
           "game": "Milwaukee Brewers @ San Diego Padres",
-          "betType": "moneyline",
-          "pick": "Milwaukee Brewers",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "The Milwaukee Brewers present a strong moneyline pick due to a significant pitching mismatch, with Kyle Harrison (2.84 ERA) starting for Milwaukee against San Diego's Walker Buehler (5.07 ERA). Buehler's advanced metrics are concerning, and he has struggled since July 1, despite the Padres winning his starts. The SportsGrid model projects the Brewers to win by 1.5 runs with a 66% probability, further solidifying this pick. The Brewers also boast a superior overall record at 74-45 compared to the Padres' 63-57.",
-          "awayRecord": "74-45",
-          "homeRecord": "63-57",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Pittsburgh Pirates @ Miami Marlins",
-          "betType": "moneyline",
-          "pick": "Miami Marlins",
-          "odds": "+104",
-          "confidence": "high",
-          "rationale": "The Miami Marlins are a high-confidence moneyline pick, supported by a clear reverse line movement. The Pirates opened as -123 favorites but have been bet down to -118, while the Marlins moved from +103 to -102, indicating sharp money on Miami. Marlins starter Martin Perez has demonstrated consistent strong form over the past two months, and loanDepot Park is known as a run-suppressing environment, favoring pitchers with good command. Furthermore, Miami holds a strong home record of 36-24, suggesting they perform better in their home ballpark.",
-          "awayRecord": "58-62",
-          "homeRecord": "60-59",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Seattle Mariners @ New York Yankees",
           "betType": "total",
-          "pick": "Under 8",
-          "odds": "-110",
+          "pick": "Under 8 (-107)",
+          "odds": "-107",
           "confidence": "medium",
-          "rationale": "The Under 8 runs is a strong pick for the Mariners vs. Yankees game, primarily due to both offenses struggling significantly. The New York Yankees rank 29th in wRC+ over the last 30 days, while the Seattle Mariners' offensive production declines when facing left-handed pitching, which they will encounter in Ryan Weathers. The total line has seen significant movement, opening at 8.5 and being bet down to 8, reflecting confidence in a lower-scoring game. Both starting pitchers, Bryan Woo (4.31 ERA) and Ryan Weathers (3.79 ERA), have been in good form, further supporting an expectation of limited runs.",
-          "awayRecord": "56-63",
-          "homeRecord": "66-52",
+          "rationale": "Both the Brewers and Padres have strong 'under' betting trends, with Milwaukee's full-game totals going under in 66 of 117 decisions and San Diego's first-five totals going under in 67 of 116. The pitching matchup features Dustin May (4.30 ERA) and Robbie Ray (3.24 ERA), with Ray's full-season ERA being particularly strong. The game is at Petco Park, which is known to be a pitcher-friendly venue, further supporting a lower-scoring affair. The total has remained at 8, offering push protection if the game lands exactly on that number.",
+          "awayRecord": "74-46",
+          "homeRecord": "64-57",
           "awayLast5": [
+            "L",
             "W",
-            "L",
-            "L",
+            "W",
             "L",
             "L"
           ],
           "homeLast5": [
-            "W",
             "L",
             "W",
             "W",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Texas Rangers @ Los Angeles Angels",
-          "betType": "moneyline",
-          "pick": "Texas Rangers",
-          "odds": "-148",
-          "confidence": "medium",
-          "rationale": "The Texas Rangers are a high-confidence moneyline pick due to a favorable pitching matchup against the Los Angeles Angels. The Angels are scheduled to start Ryan Johnson, who carries a high 7.11 ERA, which the strong Rangers offense should be able to exploit. Although the Rangers are without Nathan Eovaldi, their overall offensive strength is expected to overcome this absence. The Rangers' superior 60-59 record compared to the Angels' 45-74, coupled with their position in a tight pennant race, provides additional motivation for a win.",
-          "awayRecord": "60-59",
-          "homeRecord": "45-74",
+          "game": "Cincinnati Reds @ Chicago White Sox",
+          "betType": "total",
+          "pick": "Over 8.5 (-122)",
+          "odds": "-122",
+          "confidence": "high",
+          "rationale": "Both starting pitchers, Rhett Lowder (5.26 ERA, 1.48 WHIP) for Cincinnati and Luis Castillo (5.30 ERA, 1.40 WHIP) for Chicago, have high ERAs and WHIPs, indicating potential for baserunners and scoring. The White Sox's full-game totals are 67-49 to the over, and their home game totals are 33-25 to the over. Cincinnati's road game totals are 31-26 to the over, and their full-game totals are 62-54 to the over. The line has moved from 8.5 to 9 in some places, with heavy over support, but the verified line of 8.5 at -122 still offers value with two shaky starters and offenses capable of scoring.",
+          "awayRecord": "57-61",
+          "homeRecord": "61-57",
           "awayLast5": [
             "W",
-            "W",
-            "W",
+            "L",
+            "L",
             "L",
             "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
             "L",
             "L",
+            "W",
+            "W",
             "L"
           ]
         },
         {
-          "game": "Boston Red Sox @ Toronto Blue Jays",
+          "game": "New York Mets @ Atlanta Braves",
           "betType": "moneyline",
-          "pick": "Toronto Blue Jays",
-          "odds": "-136",
+          "pick": "Atlanta Braves (-174)",
+          "odds": "-174",
           "confidence": "medium",
-          "rationale": "The Toronto Blue Jays are a high-confidence moneyline pick, largely driven by the dominant pitching of Dylan Cease. Cease is a legitimate Cy Young candidate, boasting a 2.28 ERA and an AL-best 36.4% strikeout rate. Vegas odds are heavily favoring the Blue Jays, and the Red Sox have a slate-low implied total of just 3.3 runs against Cease, indicating a tough offensive outing for Boston. While Adley Rutschman is expected to return for the Red Sox, Cease's elite performance is anticipated to neutralize much of that potential offensive boost.",
-          "awayRecord": "64-54",
-          "homeRecord": "57-63",
+          "rationale": "The Atlanta Braves have a significantly better overall record (72-48) compared to the New York Mets (53-68). Atlanta holds a team ERA advantage (3.61 vs 4.12) and a strong 52-32 record in night games. While Mets starter Zac Thornton has a good ERA (2.52), Braves starter Tyler Mahle has shown recent improvement after a rough start to the season. The line movement has seen Atlanta's moneyline tighten, with significant public money on the Braves.",
+          "awayRecord": "53-68",
+          "homeRecord": "72-48",
           "awayLast5": [
             "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Kansas City Royals @ Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5 (-103)",
+          "odds": "-103",
+          "confidence": "medium",
+          "rationale": "The Dodgers are looking for a sweep after winning the first two games of the series against the Royals (6-5 and 5-4 in 10 innings). Los Angeles has a stronger lineup and home-field advantage. While Royals starter Daniel Lynch IV has a decent ERA (2.45), he has primarily been a reliever, and the Dodgers' offense should capitalize against him and the bullpen. The Dodgers' run-line (-1.5) at -103 offers a good price, especially given their recent success against Kansas City.",
+          "awayRecord": "49-72",
+          "homeRecord": "72-48",
+          "awayLast5": [
+            "L",
             "W",
             "L",
             "L",
@@ -120,8 +120,8 @@
           "homeLast5": [
             "L",
             "W",
-            "W",
             "L",
+            "W",
             "W"
           ]
         }

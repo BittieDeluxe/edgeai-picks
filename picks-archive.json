@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-11",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Milwaukee Brewers @ San Diego Padres",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 2, San Diego Padres 11"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "+104",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Pirates 0, Miami Marlins 2"
+          },
+          {
+            "game": "Seattle Mariners @ New York Yankees",
+            "betType": "total",
+            "pick": "Under 8",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Seattle Mariners 1, New York Yankees 4"
+          },
+          {
+            "game": "Texas Rangers @ Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Texas Rangers",
+            "odds": "-148",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Texas Rangers 2, Los Angeles Angels 3"
+          },
+          {
+            "game": "Boston Red Sox @ Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Toronto Blue Jays",
+            "odds": "-136",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Boston Red Sox 3, Toronto Blue Jays 5"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-10",
     "sports": [
       {
@@ -2169,112 +2225,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Cleveland Guardians 5, Miami Marlins 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-11",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Toronto Blue Jays @ San Diego Padres",
-            "betType": "moneyline",
-            "pick": "Toronto Blue Jays",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Toronto Blue Jays 7, San Diego Padres 8"
-          },
-          {
-            "game": "Los Angeles Angels @ Minnesota Twins",
-            "betType": "moneyline",
-            "pick": "Minnesota Twins",
-            "odds": "-172",
-            "confidence": "high",
-            "result": "W",
-            "score": "Los Angeles Angels 3, Minnesota Twins 5"
-          },
-          {
-            "game": "Chicago Cubs @ Cincinnati Reds",
-            "betType": "moneyline",
-            "pick": "Chicago Cubs",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "W",
-            "score": "Chicago Cubs 5, Cincinnati Reds 3"
-          },
-          {
-            "game": "Seattle Mariners @ Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Mariners 1, Tampa Bay Rays 6"
-          },
-          {
-            "game": "Milwaukee Brewers @ Pittsburgh Pirates",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers",
-            "odds": "-130",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Milwaukee Brewers 6, Pittsburgh Pirates 7"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "England @ Norway",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-145",
-            "confidence": "high",
-            "result": "W",
-            "score": "England 2, Norway 1"
-          },
-          {
-            "game": "Switzerland @ Argentina",
-            "betType": "moneyline",
-            "pick": "Argentina",
-            "odds": "-145",
-            "confidence": "high",
-            "result": "W",
-            "score": "Switzerland 1, Argentina 3"
-          },
-          {
-            "game": "England @ Norway",
-            "betType": "moneyline",
-            "pick": "England",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "W",
-            "score": "England 2, Norway 1"
-          },
-          {
-            "game": "Switzerland @ Argentina",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-165",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Switzerland 1, Argentina 3"
-          },
-          {
-            "game": "England @ Norway",
-            "betType": "moneyline",
-            "pick": "Norway",
-            "odds": "+260",
-            "confidence": "medium",
-            "result": "L",
-            "score": "England 2, Norway 1"
           }
         ]
       }
