@@ -1,96 +1,96 @@
 {
-  "date": "2026-08-12",
-  "generatedAt": "2026-08-12T17:51:45.384Z",
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T17:50:47.054Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Tampa Bay Rays @ Athletics",
-          "betType": "spread",
-          "pick": "Tampa Bay Rays -1.5 (-142)",
-          "odds": "-142",
-          "confidence": "high",
-          "rationale": "Tampa Bay's Drew Rasmussen (11-5, 2.75 ERA, 0.90 WHIP) has a significant pitching advantage over Oakland's Jack Perkins (2-8, 7.04 ERA, 1.45 WHIP). The Rays have a strong season-long run-line betting record of 68-49 and a first-five run-line record of 70-49. This pitching mismatch and historical betting trends suggest the Rays should cover the run line, especially given their ability to build an early lead. The Rays have won two of the last three head-to-head matchups by at least two runs.",
-          "awayRecord": "73-46",
-          "homeRecord": "47-73",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Milwaukee Brewers @ San Diego Padres",
+          "game": "Cleveland Guardians @ Detroit Tigers",
           "betType": "total",
-          "pick": "Under 8 (-107)",
-          "odds": "-107",
+          "pick": "Under 6.5",
+          "odds": "+104",
           "confidence": "medium",
-          "rationale": "Both the Brewers and Padres have strong 'under' betting trends, with Milwaukee's full-game totals going under in 66 of 117 decisions and San Diego's first-five totals going under in 67 of 116. The pitching matchup features Dustin May (4.30 ERA) and Robbie Ray (3.24 ERA), with Ray's full-season ERA being particularly strong. The game is at Petco Park, which is known to be a pitcher-friendly venue, further supporting a lower-scoring affair. The total has remained at 8, offering push protection if the game lands exactly on that number.",
-          "awayRecord": "74-46",
-          "homeRecord": "64-57",
+          "rationale": "The head-to-head history between the Guardians and Tigers strongly favors the Under, with the last five matchups all falling below the total. Across their last 10 encounters, the average combined score has been just 6.4 runs, well below today's 6.5 total. Furthermore, Detroit's offense is hampered by the absence of outfielder Riley Greene, who is on the 10-day injured list with a hamstring strain. This consistent low-scoring trend and a key injury for the Tigers' lineup provide a strong edge for the Under.",
+          "awayRecord": "59-62",
+          "homeRecord": "59-61",
           "awayLast5": [
-            "L",
-            "W",
             "W",
             "L",
-            "L"
+            "L",
+            "L",
+            "W"
           ],
           "homeLast5": [
             "L",
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "Cincinnati Reds @ Chicago White Sox",
-          "betType": "total",
-          "pick": "Over 8.5 (-122)",
-          "odds": "-122",
+          "game": "Seattle Mariners @ New York Yankees",
+          "betType": "spread",
+          "pick": "New York Yankees -1.5",
+          "odds": "+116",
           "confidence": "high",
-          "rationale": "Both starting pitchers, Rhett Lowder (5.26 ERA, 1.48 WHIP) for Cincinnati and Luis Castillo (5.30 ERA, 1.40 WHIP) for Chicago, have high ERAs and WHIPs, indicating potential for baserunners and scoring. The White Sox's full-game totals are 67-49 to the over, and their home game totals are 33-25 to the over. Cincinnati's road game totals are 31-26 to the over, and their full-game totals are 62-54 to the over. The line has moved from 8.5 to 9 in some places, with heavy over support, but the verified line of 8.5 at -122 still offers value with two shaky starters and offenses capable of scoring.",
-          "awayRecord": "57-61",
-          "homeRecord": "61-57",
+          "rationale": "The New York Yankees are in strong form, having won two consecutive games against the Mariners and are aiming for a sweep today. Yankees starter Max Fried boasts an impressive 2.88 ERA and has historically dominated Seattle's current lineup. Conversely, Mariners starter Logan Gilbert has been prone to giving up home runs, with 19 allowed this season and four in his last two starts, a significant concern at Yankee Stadium. The Yankees' overall pitching staff also holds the best team ERA in MLB at 3.30, providing a significant advantage.",
+          "awayRecord": "56-65",
+          "homeRecord": "68-52",
           "awayLast5": [
-            "W",
             "L",
             "L",
             "L",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
-            "L",
-            "L",
             "W",
             "W",
-            "L"
+            "L",
+            "W",
+            "W"
           ]
         },
         {
-          "game": "New York Mets @ Atlanta Braves",
+          "game": "Boston Red Sox @ Toronto Blue Jays",
           "betType": "moneyline",
-          "pick": "Atlanta Braves (-174)",
-          "odds": "-174",
-          "confidence": "medium",
-          "rationale": "The Atlanta Braves have a significantly better overall record (72-48) compared to the New York Mets (53-68). Atlanta holds a team ERA advantage (3.61 vs 4.12) and a strong 52-32 record in night games. While Mets starter Zac Thornton has a good ERA (2.52), Braves starter Tyler Mahle has shown recent improvement after a rough start to the season. The line movement has seen Atlanta's moneyline tighten, with significant public money on the Braves.",
-          "awayRecord": "53-68",
-          "homeRecord": "72-48",
+          "pick": "Toronto Blue Jays (+130)",
+          "odds": "+130",
+          "confidence": "high",
+          "rationale": "The Boston Red Sox are significantly depleted by pitching injuries, with multiple key arms including Garrett Whitlock (elbow inflammation) and Tanner Houck (flexor pronator strain) on the injured list. This extensive list of injured pitchers severely weakens their bullpen and overall staff depth. The Toronto Blue Jays recently capitalized on Boston's struggles, beating them 6-4 and extending the Red Sox's losing streak to five games. Given Boston's current injury woes and recent poor form, the Blue Jays present good value as the home underdog.",
+          "awayRecord": "64-56",
+          "homeRecord": "59-63",
           "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
             "W",
             "L",
             "W",
             "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Philadelphia Phillies @ Minnesota Twins",
+          "betType": "moneyline",
+          "pick": "Minnesota Twins (-104)",
+          "odds": "-104",
+          "confidence": "medium",
+          "rationale": "The Minnesota Twins hold a significant pitching advantage with Taj Bradley (9-4, 3.76 ERA) taking the mound, while the Phillies counter with Aaron Nola, who has a concerning 5.47 ERA and is listed as day-to-day with a knee injury. The Twins' offense is currently hot, slugging .396 with 11 home runs over their last 10 games, and key hitters like Josh Bell and Royce Lewis are performing exceptionally well. This combination of a superior starting pitcher and a surging offense gives the Twins a clear edge at home.",
+          "awayRecord": "64-58",
+          "homeRecord": "60-62",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
@@ -102,24 +102,24 @@
           ]
         },
         {
-          "game": "Kansas City Royals @ Los Angeles Dodgers",
+          "game": "Texas Rangers @ Los Angeles Angels",
           "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5 (-103)",
-          "odds": "-103",
+          "pick": "Los Angeles Angels +1.5",
+          "odds": "-128",
           "confidence": "medium",
-          "rationale": "The Dodgers are looking for a sweep after winning the first two games of the series against the Royals (6-5 and 5-4 in 10 innings). Los Angeles has a stronger lineup and home-field advantage. While Royals starter Daniel Lynch IV has a decent ERA (2.45), he has primarily been a reliever, and the Dodgers' offense should capitalize against him and the bullpen. The Dodgers' run-line (-1.5) at -103 offers a good price, especially given their recent success against Kansas City.",
-          "awayRecord": "49-72",
-          "homeRecord": "72-48",
+          "rationale": "The Los Angeles Angels have demonstrated recent success against the Rangers, winning their last two games in the series and holding a favorable record as home underdogs against them. Angels starter Walbert Urena has been impressive with a strong 2.83 ERA, providing a solid foundation for the Angels. Conversely, the Rangers have struggled on the road, losing five of their last six away games and frequently trailing early in recent road matchups. This combination of recent H2H performance, pitching advantage, and Rangers' road struggles makes the Angels +1.5 a confident pick.",
+          "awayRecord": "60-61",
+          "homeRecord": "47-74",
           "awayLast5": [
-            "L",
             "W",
             "L",
+            "W",
             "L",
             "L"
           ],
           "homeLast5": [
             "L",
-            "W",
+            "L",
             "L",
             "W",
             "W"

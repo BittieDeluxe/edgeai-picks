@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-12",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Tampa Bay Rays @ Athletics",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays -1.5 (-142)",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 8, Athletics 4"
+          },
+          {
+            "game": "Milwaukee Brewers @ San Diego Padres",
+            "betType": "total",
+            "pick": "Under 8 (-107)",
+            "odds": "-107",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Milwaukee Brewers 3, San Diego Padres 4"
+          },
+          {
+            "game": "Cincinnati Reds @ Chicago White Sox",
+            "betType": "total",
+            "pick": "Over 8.5 (-122)",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cincinnati Reds 0, Chicago White Sox 5"
+          },
+          {
+            "game": "New York Mets @ Atlanta Braves",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves (-174)",
+            "odds": "-174",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Mets 3, Atlanta Braves 6"
+          },
+          {
+            "game": "Kansas City Royals @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5 (-103)",
+            "odds": "-103",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Kansas City Royals 2, Los Angeles Dodgers 4"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-11",
     "sports": [
       {
@@ -2169,62 +2225,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Spain 2, France 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-12",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Boston Red Sox @ New York Mets",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox",
-            "odds": "+116",
-            "confidence": "high",
-            "result": "W",
-            "score": "Boston Red Sox 3, New York Mets 2"
-          },
-          {
-            "game": "Athletics @ Chicago White Sox",
-            "betType": "spread",
-            "pick": "Chicago White Sox -1.5",
-            "odds": "+146",
-            "confidence": "high",
-            "result": "W",
-            "score": "Athletics 1, Chicago White Sox 9"
-          },
-          {
-            "game": "Atlanta Braves @ St. Louis Cardinals",
-            "betType": "moneyline",
-            "pick": "St. Louis Cardinals",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Atlanta Braves 4, St. Louis Cardinals 3"
-          },
-          {
-            "game": "Arizona Diamondbacks @ Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "Arizona Diamondbacks +1.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Arizona Diamondbacks 5, Los Angeles Dodgers 3"
-          },
-          {
-            "game": "Cleveland Guardians @ Miami Marlins",
-            "betType": "total",
-            "pick": "Over 9.5",
-            "odds": "-104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Cleveland Guardians 5, Miami Marlins 2"
           }
         ]
       }
