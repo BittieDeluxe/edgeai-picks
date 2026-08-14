@@ -1,91 +1,115 @@
 {
-  "date": "2026-08-13",
-  "generatedAt": "2026-08-13T17:50:47.054Z",
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-14T17:44:32.116Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Cleveland Guardians @ Detroit Tigers",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "+104",
-          "confidence": "medium",
-          "rationale": "The head-to-head history between the Guardians and Tigers strongly favors the Under, with the last five matchups all falling below the total. Across their last 10 encounters, the average combined score has been just 6.4 runs, well below today's 6.5 total. Furthermore, Detroit's offense is hampered by the absence of outfielder Riley Greene, who is on the 10-day injured list with a hamstring strain. This consistent low-scoring trend and a key injury for the Tigers' lineup provide a strong edge for the Under.",
-          "awayRecord": "59-62",
-          "homeRecord": "59-61",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Seattle Mariners @ New York Yankees",
+          "game": "St. Louis Cardinals @ Chicago Cubs",
           "betType": "spread",
-          "pick": "New York Yankees -1.5",
-          "odds": "+116",
+          "pick": "Chicago Cubs -1.5",
+          "odds": "+118",
           "confidence": "high",
-          "rationale": "The New York Yankees are in strong form, having won two consecutive games against the Mariners and are aiming for a sweep today. Yankees starter Max Fried boasts an impressive 2.88 ERA and has historically dominated Seattle's current lineup. Conversely, Mariners starter Logan Gilbert has been prone to giving up home runs, with 19 allowed this season and four in his last two starts, a significant concern at Yankee Stadium. The Yankees' overall pitching staff also holds the best team ERA in MLB at 3.30, providing a significant advantage.",
-          "awayRecord": "56-65",
-          "homeRecord": "68-52",
+          "rationale": "The Cubs are a strong home favorite at 71-51, while the Cardinals are 61-60. Chicago has won eight of its last 10 games, demonstrating excellent recent form. The Cubs' starting pitcher, Clay Holmes, despite a recent fibula fracture, has a 2.86 ERA, which is significantly better than the Cardinals' starter Matthew Liberatore's 5.15 ERA. Public betting money has consistently backed Chicago, with support ranging from the high 80s to mid 90s in percentage across multiple line checks. This pick leverages the Cubs' superior pitching matchup and strong home record against a Cardinals team with a struggling starter, offering good value at plus money.",
+          "awayRecord": "61-60",
+          "homeRecord": "71-51",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Miami Marlins @ Cincinnati Reds",
+          "betType": "moneyline",
+          "pick": "Cincinnati Reds",
+          "odds": "-112",
+          "confidence": "high",
+          "rationale": "Cincinnati's probable pitcher, Chase Burns, owns a stronger season line with a 2.61 ERA and 1.12 WHIP, compared to Miami's Sandy Alcantara's 3.52 ERA and 1.18 WHIP. The total has fallen to 7.5, indicating a pitching-dominant game, which favors the Reds' stronger starter. While Miami has a slightly better record, the Reds are playing at home where they can arrange their better relievers around a narrow lead. The Reds moneyline at -112 offers fair value, especially considering the pitching advantage and home-field advantage.",
+          "awayRecord": "62-60",
+          "homeRecord": "58-62",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Boston Red Sox @ Pittsburgh Pirates",
+          "betType": "moneyline",
+          "pick": "Boston Red Sox",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "Boston's starter, Jake Bennett, boasts a 3.17 ERA and 1.04 WHIP, a substantial advantage over Pittsburgh's Bubba Chandler's 1.38 WHIP. The Red Sox have a positive road moneyline record and have performed well away from home. Despite public money leaning towards Pittsburgh, the line movement has seen Boston's moneyline price improve from the mid -140s to -120, indicating sharp money on the Red Sox. This favorable pitching matchup and value in the line movement make the Red Sox a strong play on the moneyline.",
+          "awayRecord": "65-56",
+          "homeRecord": "59-64",
           "awayLast5": [
             "L",
             "L",
             "L",
             "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
             "W"
-          ]
-        },
-        {
-          "game": "Boston Red Sox @ Toronto Blue Jays",
-          "betType": "moneyline",
-          "pick": "Toronto Blue Jays (+130)",
-          "odds": "+130",
-          "confidence": "high",
-          "rationale": "The Boston Red Sox are significantly depleted by pitching injuries, with multiple key arms including Garrett Whitlock (elbow inflammation) and Tanner Houck (flexor pronator strain) on the injured list. This extensive list of injured pitchers severely weakens their bullpen and overall staff depth. The Toronto Blue Jays recently capitalized on Boston's struggles, beating them 6-4 and extending the Red Sox's losing streak to five games. Given Boston's current injury woes and recent poor form, the Blue Jays present good value as the home underdog.",
-          "awayRecord": "64-56",
-          "homeRecord": "59-63",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
           ],
           "homeLast5": [
             "W",
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Philadelphia Phillies @ Minnesota Twins",
-          "betType": "moneyline",
-          "pick": "Minnesota Twins (-104)",
-          "odds": "-104",
+          "game": "Baltimore Orioles @ Tampa Bay Rays",
+          "betType": "spread",
+          "pick": "Tampa Bay Rays -1.5",
+          "odds": "+134",
           "confidence": "medium",
-          "rationale": "The Minnesota Twins hold a significant pitching advantage with Taj Bradley (9-4, 3.76 ERA) taking the mound, while the Phillies counter with Aaron Nola, who has a concerning 5.47 ERA and is listed as day-to-day with a knee injury. The Twins' offense is currently hot, slugging .396 with 11 home runs over their last 10 games, and key hitters like Josh Bell and Royce Lewis are performing exceptionally well. This combination of a superior starting pitcher and a surging offense gives the Twins a clear edge at home.",
+          "rationale": "The Tampa Bay Rays are in excellent form, with a 74-46 overall record and an impressive 41-18 at home, winning nine of their last ten games. While Orioles starter Kyle Bradish has a better ERA (3.69) than Rays starter Steven Matz (5.48), Matz is unlikely to have a long leash, and the Rays' offense has been hot, scoring 30 runs in their last three games. The Rays have a strong run-line record of 70-49 overall, and their overall team strength and recent offensive surge at home make them a confident pick to win by multiple runs.",
+          "awayRecord": "58-63",
+          "homeRecord": "74-46",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Arizona Diamondbacks @ Atlanta Braves",
+          "betType": "prop",
+          "pick": "Chris Sale Over 6.5 Strikeouts",
+          "odds": "-141",
+          "confidence": "medium",
+          "rationale": "Braves pitcher Chris Sale is active and has been in dominant form, with 151 strikeouts in 123 innings this season, averaging 7.19 strikeouts per start. He has recorded at least eight strikeouts in each of his last three starts, including 11, nine, and eight punchouts. Sale's 30.4% strikeout rate and 15.4% swinging-strike rate further support his ability to hit the over on this prop. The Diamondbacks' contact-heavy offense creates some resistance, but Sale's recent performance and underlying metrics indicate he can achieve seven or more strikeouts within a normal six-inning outing.",
           "awayRecord": "64-58",
-          "homeRecord": "60-62",
+          "homeRecord": "73-48",
           "awayLast5": [
             "L",
             "W",
@@ -95,35 +119,56 @@
           ],
           "homeLast5": [
             "L",
-            "L",
             "W",
             "L",
+            "W",
             "W"
           ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "New York Red Bulls @ Atlanta United FC",
+          "betType": "moneyline",
+          "pick": "New York Red Bulls",
+          "odds": "+220",
+          "confidence": "medium",
+          "rationale": "Atlanta United FC is currently in very poor form, sitting 30th in the MLS table with an overall record of 3 wins, 3 draws, and 12 losses, including a very poor home record of 2 wins, 1 draw, and 5 losses. In contrast, the New York Red Bulls have an average overall form with 7 wins, 4 draws, and 7 losses, and have shown an average away form. The significant underdog odds for the Red Bulls present substantial value against a struggling Atlanta side that has lost four of its last five MLS matches."
         },
         {
-          "game": "Texas Rangers @ Los Angeles Angels",
-          "betType": "spread",
-          "pick": "Los Angeles Angels +1.5",
-          "odds": "-128",
+          "game": "FC Cincinnati @ Orlando City SC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "Both FC Cincinnati and Orlando City SC have shown tendencies for high-scoring games. FC Cincinnati has scored 45 goals this season, while Orlando City has conceded 47 goals. Their head-to-head history includes a recent 6-2 result, and prediction statistics indicate a high probability for over 2.5 goals (71%) and an average of 4.09 goals per match in their encounters. The line movement for the total has seen the Over 3.5 at -145, suggesting confidence in a high-scoring affair from the market."
+        },
+        {
+          "game": "Columbus Crew SC @ Charlotte FC",
+          "betType": "moneyline",
+          "pick": "Charlotte FC",
+          "odds": "+120",
+          "confidence": "high",
+          "rationale": "Charlotte FC holds an average overall form with 7 wins, 4 draws, and 7 losses, and a solid home record of 5 wins, 3 draws, and 2 losses. Their recent form includes three wins and one draw in their last five matches. Columbus Crew SC, on the other hand, has a poorer overall record of 5 wins, 5 draws, and 8 losses. Playing at home, Charlotte FC is well-positioned to secure a victory against a less consistent Columbus Crew SC side, offering good value at +120."
+        },
+        {
+          "game": "New England Revolution @ Toronto FC",
+          "betType": "moneyline",
+          "pick": "New England Revolution",
+          "odds": "+230",
           "confidence": "medium",
-          "rationale": "The Los Angeles Angels have demonstrated recent success against the Rangers, winning their last two games in the series and holding a favorable record as home underdogs against them. Angels starter Walbert Urena has been impressive with a strong 2.83 ERA, providing a solid foundation for the Angels. Conversely, the Rangers have struggled on the road, losing five of their last six away games and frequently trailing early in recent road matchups. This combination of recent H2H performance, pitching advantage, and Rangers' road struggles makes the Angels +1.5 a confident pick.",
-          "awayRecord": "60-61",
-          "homeRecord": "47-74",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
+          "rationale": "The New England Revolution are in good overall form with 9 wins, 3 draws, and 6 losses, placing them 7th in the MLS table. Conversely, Toronto FC is struggling significantly, holding a record of 3 wins, 8 draws, and 7 losses, ranking 12th in the Eastern Conference. While New England's away form is considered poor, their overall superior performance and the substantial underdog odds of +230 against a struggling Toronto team provide excellent value."
+        },
+        {
+          "game": "D.C. United @ CF Montreal",
+          "betType": "moneyline",
+          "pick": "D.C. United",
+          "odds": "+195",
+          "confidence": "medium",
+          "rationale": "D.C. United has been a resilient team recently, securing four draws in their last five matches and maintaining an average away form with 2 wins, 5 draws, and 2 losses. CF Montreal is in poor form, with only 4 wins, 4 draws, and 10 losses, placing them 14th in the Eastern Conference. Given Montreal's struggles and D.C. United's ability to grind out results, the +195 moneyline for D.C. United offers significant value against a team that is also struggling for consistency."
         }
       ]
     }

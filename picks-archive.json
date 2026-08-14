@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-13",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cleveland Guardians @ Detroit Tigers",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Guardians 0, Detroit Tigers 3"
+          },
+          {
+            "game": "Seattle Mariners @ New York Yankees",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "+116",
+            "confidence": "high",
+            "result": "L",
+            "score": "Seattle Mariners 1, New York Yankees 0"
+          },
+          {
+            "game": "Boston Red Sox @ Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Toronto Blue Jays (+130)",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Red Sox 7, Toronto Blue Jays 0"
+          },
+          {
+            "game": "Philadelphia Phillies @ Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Minnesota Twins (-104)",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Phillies 7, Minnesota Twins 1"
+          },
+          {
+            "game": "Texas Rangers @ Los Angeles Angels",
+            "betType": "spread",
+            "pick": "Los Angeles Angels +1.5",
+            "odds": "-128",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Texas Rangers 0, Los Angeles Angels 7"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-12",
     "sports": [
       {
@@ -2186,44 +2242,6 @@
             "odds": "+100",
             "confidence": "medium",
             "result": "W",
-            "score": "Spain 2, France 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-13",
-    "sports": [
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Spain @ France",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Spain 2, France 0"
-          },
-          {
-            "game": "Spain @ France",
-            "betType": "moneyline",
-            "pick": "Spain (+225)",
-            "odds": "+225",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Spain 2, France 0"
-          },
-          {
-            "game": "Spain @ France",
-            "betType": "moneyline",
-            "pick": "France (+135)",
-            "odds": "+135",
-            "confidence": "medium",
-            "result": "L",
             "score": "Spain 2, France 0"
           }
         ]
