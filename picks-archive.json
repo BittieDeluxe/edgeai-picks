@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-08-14",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "St. Louis Cardinals @ Chicago Cubs",
+            "betType": "spread",
+            "pick": "Chicago Cubs -1.5",
+            "odds": "+118",
+            "confidence": "high",
+            "result": "W",
+            "score": "St. Louis Cardinals 0, Chicago Cubs 3"
+          },
+          {
+            "game": "Miami Marlins @ Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Miami Marlins 0, Cincinnati Reds 1"
+          },
+          {
+            "game": "Boston Red Sox @ Pittsburgh Pirates",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Red Sox 4, Pittsburgh Pirates 8"
+          },
+          {
+            "game": "Baltimore Orioles @ Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays -1.5",
+            "odds": "+134",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Baltimore Orioles 6, Tampa Bay Rays 5"
+          },
+          {
+            "game": "Arizona Diamondbacks @ Atlanta Braves",
+            "betType": "prop",
+            "pick": "Chris Sale Over 6.5 Strikeouts",
+            "odds": "-141",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chris Sale: 9 Strikeouts (line 6.5)"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "New York Red Bulls @ Atlanta United FC",
+            "betType": "moneyline",
+            "pick": "New York Red Bulls",
+            "odds": "+220",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "FC Cincinnati @ Orlando City SC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Columbus Crew SC @ Charlotte FC",
+            "betType": "moneyline",
+            "pick": "Charlotte FC",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New England Revolution @ Toronto FC",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+230",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "D.C. United @ CF Montreal",
+            "betType": "moneyline",
+            "pick": "D.C. United",
+            "odds": "+195",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-13",
     "sports": [
       {
@@ -2187,62 +2293,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Argentina 2, England 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-14",
-    "sports": [
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Spain @ France",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Spain 2, France 0"
-          },
-          {
-            "game": "Spain @ France",
-            "betType": "moneyline",
-            "pick": "France",
-            "odds": "+145",
-            "confidence": "high",
-            "result": "L",
-            "score": "Spain 2, France 0"
-          },
-          {
-            "game": "Spain @ France",
-            "betType": "moneyline",
-            "pick": "Spain",
-            "odds": "+220",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Spain 2, France 0"
-          },
-          {
-            "game": "Spain @ France",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Spain 2, France 0"
-          },
-          {
-            "game": "Spain @ France",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Spain 2, France 0"
           }
         ]
       }

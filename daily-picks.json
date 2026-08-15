@@ -1,127 +1,127 @@
 {
-  "date": "2026-08-14",
-  "generatedAt": "2026-08-14T17:44:32.116Z",
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T17:12:48.934Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "St. Louis Cardinals @ Chicago Cubs",
-          "betType": "spread",
-          "pick": "Chicago Cubs -1.5",
-          "odds": "+118",
-          "confidence": "high",
-          "rationale": "The Cubs are a strong home favorite at 71-51, while the Cardinals are 61-60. Chicago has won eight of its last 10 games, demonstrating excellent recent form. The Cubs' starting pitcher, Clay Holmes, despite a recent fibula fracture, has a 2.86 ERA, which is significantly better than the Cardinals' starter Matthew Liberatore's 5.15 ERA. Public betting money has consistently backed Chicago, with support ranging from the high 80s to mid 90s in percentage across multiple line checks. This pick leverages the Cubs' superior pitching matchup and strong home record against a Cardinals team with a struggling starter, offering good value at plus money.",
-          "awayRecord": "61-60",
-          "homeRecord": "71-51",
+          "game": "Arizona Diamondbacks @ Atlanta Braves",
+          "betType": "total",
+          "pick": "Under 9",
+          "odds": "-111",
+          "confidence": "medium",
+          "rationale": "Sharp money is heavily favoring the Under, with the total moving from an opening of 9.5 to the current 9 despite public betting on the Over. Both starting pitchers, Eduardo Rodriguez (2.70 ERA) for the Diamondbacks and Grant Holmes (3.47 ERA) for the Braves, are in excellent recent form, with Rodriguez boasting a 2.16 ERA in night games and Holmes having thrown 12 consecutive scoreless innings. Neither offense has been particularly potent, as evidenced by Atlanta scoring two runs or fewer in three of their last seven games, and the Diamondbacks winning yesterday's game 2-0.",
+          "awayRecord": "65-58",
+          "homeRecord": "73-49",
           "awayLast5": [
-            "L",
+            "W",
             "W",
             "L",
-            "W",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
+            "L",
             "W",
             "W",
             "L"
           ]
         },
         {
-          "game": "Miami Marlins @ Cincinnati Reds",
+          "game": "Milwaukee Brewers @ Los Angeles Dodgers",
           "betType": "moneyline",
-          "pick": "Cincinnati Reds",
-          "odds": "-112",
+          "pick": "Los Angeles Dodgers (-123)",
+          "odds": "+114",
           "confidence": "high",
-          "rationale": "Cincinnati's probable pitcher, Chase Burns, owns a stronger season line with a 2.61 ERA and 1.12 WHIP, compared to Miami's Sandy Alcantara's 3.52 ERA and 1.18 WHIP. The total has fallen to 7.5, indicating a pitching-dominant game, which favors the Reds' stronger starter. While Miami has a slightly better record, the Reds are playing at home where they can arrange their better relievers around a narrow lead. The Reds moneyline at -112 offers fair value, especially considering the pitching advantage and home-field advantage.",
-          "awayRecord": "62-60",
-          "homeRecord": "58-62",
+          "rationale": "Despite the public heavily backing the Brewers, sharp money is showing significant reverse line movement on the Dodgers, with their moneyline moving from +125 to +110 at some books, and 91% of moneyline dollars at Circa on Los Angeles. The Dodgers bounced back with a 3-1 win yesterday, demonstrating their ability to compete in this series. While Brewers' starter Jacob Misiorowski (1.76 ERA) has a lower ERA, Dodgers' Justin Wrobleski (3.44 ERA) is also an effective pitcher with an 11-4 record. The home advantage for the Dodgers, combined with the strong sharp money signals, makes them a valuable play.",
+          "awayRecord": "75-48",
+          "homeRecord": "74-49",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
             "W",
             "L"
           ],
           "homeLast5": [
-            "L",
-            "L",
+            "W",
+            "W",
             "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "Boston Red Sox @ Pittsburgh Pirates",
+          "game": "San Diego Padres @ Cleveland Guardians",
           "betType": "moneyline",
-          "pick": "Boston Red Sox",
-          "odds": "-120",
+          "pick": "San Diego Padres (+106)",
+          "odds": "+106",
           "confidence": "high",
-          "rationale": "Boston's starter, Jake Bennett, boasts a 3.17 ERA and 1.04 WHIP, a substantial advantage over Pittsburgh's Bubba Chandler's 1.38 WHIP. The Red Sox have a positive road moneyline record and have performed well away from home. Despite public money leaning towards Pittsburgh, the line movement has seen Boston's moneyline price improve from the mid -140s to -120, indicating sharp money on the Red Sox. This favorable pitching matchup and value in the line movement make the Red Sox a strong play on the moneyline.",
-          "awayRecord": "65-56",
+          "rationale": "The Padres are in excellent recent form, winning their last five games with a strong 32-14 run differential, and have hit the moneyline in 12 of their last 16 games. Conversely, the Guardians have lost four straight at home and their pitching staff has struggled with a 5.07 ERA and 17 home runs allowed over their last 10 games. While the pitching matchup between Randy Vasquez (4.16 ERA) and Joey Cantillo (3.91 ERA) appears relatively even, the Padres' momentum and the Guardians' recent struggles, particularly at home, provide a clear edge for San Diego.",
+          "awayRecord": "66-57",
           "homeRecord": "59-64",
           "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
+            "W",
             "W"
           ],
           "homeLast5": [
+            "L",
+            "L",
             "W",
             "L",
-            "L",
-            "L",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "Baltimore Orioles @ Tampa Bay Rays",
+          "game": "Texas Rangers @ Athletics",
           "betType": "spread",
-          "pick": "Tampa Bay Rays -1.5",
-          "odds": "+134",
+          "pick": "Texas Rangers -1.5",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "The Tampa Bay Rays are in excellent form, with a 74-46 overall record and an impressive 41-18 at home, winning nine of their last ten games. While Orioles starter Kyle Bradish has a better ERA (3.69) than Rays starter Steven Matz (5.48), Matz is unlikely to have a long leash, and the Rays' offense has been hot, scoring 30 runs in their last three games. The Rays have a strong run-line record of 70-49 overall, and their overall team strength and recent offensive surge at home make them a confident pick to win by multiple runs.",
-          "awayRecord": "58-63",
-          "homeRecord": "74-46",
+          "rationale": "Despite losing yesterday, the Texas Rangers are a stronger team overall (60-63) facing an Athletics team (48-74) that has several key players on the injured list, including RHP Gunnar Hoglund for the season. The Rangers will be highly motivated to bounce back after losing four straight games, including yesterday's against Oakland. While Athletics' starter J.T. Ginn (3.41 ERA) has a better ERA than Rangers' MacKenzie Gore (4.43 ERA), the Rangers' offensive potential against a weaker team, coupled with their urgency to end a losing streak, creates a favorable scenario to cover the -1.5 spread at even money.",
+          "awayRecord": "60-63",
+          "homeRecord": "48-74",
           "awayLast5": [
-            "L",
             "W",
             "L",
-            "W",
+            "L",
+            "L",
             "L"
           ],
           "homeLast5": [
             "W",
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Arizona Diamondbacks @ Atlanta Braves",
-          "betType": "prop",
-          "pick": "Chris Sale Over 6.5 Strikeouts",
-          "odds": "-141",
+          "game": "Washington Nationals @ New York Mets",
+          "betType": "total",
+          "pick": "Under 8",
+          "odds": "-120",
           "confidence": "medium",
-          "rationale": "Braves pitcher Chris Sale is active and has been in dominant form, with 151 strikeouts in 123 innings this season, averaging 7.19 strikeouts per start. He has recorded at least eight strikeouts in each of his last three starts, including 11, nine, and eight punchouts. Sale's 30.4% strikeout rate and 15.4% swinging-strike rate further support his ability to hit the over on this prop. The Diamondbacks' contact-heavy offense creates some resistance, but Sale's recent performance and underlying metrics indicate he can achieve seven or more strikeouts within a normal six-inning outing.",
-          "awayRecord": "64-58",
-          "homeRecord": "73-48",
+          "rationale": "The total for this game has seen significant line movement, dropping from an opening of 8.5 to the current 8, indicating sharp money on the Under. Both starting pitchers, Brad Lord (3.79 ERA) for the Nationals and Sean Manaea (4.13 ERA) for the Mets, have respectable ERAs that suggest a lower-scoring affair. The Mets won yesterday's game against the Nationals with a low score of 4-1, further supporting the expectation of limited offense. The SportsGrid model also identifies the Under 8.5 as its top game pick, aligning with the observed line movement.",
+          "awayRecord": "60-64",
+          "homeRecord": "54-69",
           "awayLast5": [
-            "L",
-            "W",
             "W",
             "L",
+            "L",
+            "W",
             "L"
           ],
           "homeLast5": [
-            "L",
+            "W",
             "W",
             "L",
-            "W",
+            "L",
             "W"
           ]
         }
@@ -131,12 +131,14 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "New York Red Bulls @ Atlanta United FC",
+          "game": "Minnesota United FC @ Real Salt Lake",
           "betType": "moneyline",
-          "pick": "New York Red Bulls",
-          "odds": "+220",
-          "confidence": "medium",
-          "rationale": "Atlanta United FC is currently in very poor form, sitting 30th in the MLS table with an overall record of 3 wins, 3 draws, and 12 losses, including a very poor home record of 2 wins, 1 draw, and 5 losses. In contrast, the New York Red Bulls have an average overall form with 7 wins, 4 draws, and 7 losses, and have shown an average away form. The significant underdog odds for the Red Bulls present substantial value against a struggling Atlanta side that has lost four of its last five MLS matches."
+          "pick": "Real Salt Lake",
+          "odds": "-125",
+          "confidence": "high",
+          "rationale": "Real Salt Lake enters this match with an outstanding home record in 2026, boasting 10 wins, 1 loss, and 1 tie, while outscoring opponents 30-10 on their home turf. Their recent form is also strong, having advanced to the Leagues Cup Quarterfinals with two dominant victories and an impressive 8-1 goal differential across three matches. Key offensive players like Sergi Solans, who has 10 goals across all competitions, and Diego Luna, who recently notched two assists, are in excellent form, making RSL a formidable opponent at home.",
+          "awayRecord": "6-6-6",
+          "homeRecord": "8-3-6"
         },
         {
           "game": "FC Cincinnati @ Orlando City SC",
@@ -144,31 +146,39 @@
           "pick": "Over 3.5",
           "odds": "-145",
           "confidence": "high",
-          "rationale": "Both FC Cincinnati and Orlando City SC have shown tendencies for high-scoring games. FC Cincinnati has scored 45 goals this season, while Orlando City has conceded 47 goals. Their head-to-head history includes a recent 6-2 result, and prediction statistics indicate a high probability for over 2.5 goals (71%) and an average of 4.09 goals per match in their encounters. The line movement for the total has seen the Over 3.5 at -145, suggesting confidence in a high-scoring affair from the market."
+          "rationale": "FC Cincinnati has demonstrated a potent offense throughout the 2026 MLS season, accumulating a total of 45 goals in 18 games. Their previous encounter with Orlando City SC earlier this season was a high-scoring affair, ending in a decisive 6-2 victory for Cincinnati. Furthermore, FC Cincinnati's star attacker, Evander, is currently in exceptional form, having scored 13 goals across all competitions and contributing to a goal in 11 consecutive matches. These factors point towards another high-scoring contest.",
+          "awayRecord": "7-5-6",
+          "homeRecord": "6-2-10"
         },
         {
-          "game": "Columbus Crew SC @ Charlotte FC",
+          "game": "Red Bull New York @ Atlanta United FC",
+          "betType": "moneyline",
+          "pick": "Red Bull New York",
+          "odds": "+220",
+          "confidence": "medium",
+          "rationale": "Atlanta United FC is enduring a very poor season, currently sitting 30th in MLS with a 3-3-12 record, including a dismal 2-1-5 home record and two recent MLS losses. In contrast, the Red Bulls have historically dominated this fixture, holding an 11-3-6 all-time head-to-head record against Atlanta, including a recent 2-0 victory. Given Atlanta's significant struggles and the Red Bulls' strong historical performance in this matchup, the +220 underdog odds for Red Bull New York present considerable value.",
+          "awayRecord": "7-4-7",
+          "homeRecord": "3-3-12"
+        },
+        {
+          "game": "Sporting Kansas City @ Colorado Rapids",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "While both Sporting Kansas City and Colorado Rapids have shown inconsistent form this season, their head-to-head matchups frequently result in high-scoring games. The most recent fixture between these two teams in March 2026 ended with a 4-1 victory for Colorado Rapids. Historically, 47% of their 36 previous meetings have seen over 2.5 goals, and a system-generated prediction for this specific match indicates 'at least 4 goals in total (over 3.5)'. Both teams have also conceded a significant number of goals this season, further supporting the over bet.",
+          "awayRecord": "4-2-12",
+          "homeRecord": "7-1-10"
+        },
+        {
+          "game": "Columbus Crew @ Charlotte FC",
           "betType": "moneyline",
           "pick": "Charlotte FC",
-          "odds": "+120",
-          "confidence": "high",
-          "rationale": "Charlotte FC holds an average overall form with 7 wins, 4 draws, and 7 losses, and a solid home record of 5 wins, 3 draws, and 2 losses. Their recent form includes three wins and one draw in their last five matches. Columbus Crew SC, on the other hand, has a poorer overall record of 5 wins, 5 draws, and 8 losses. Playing at home, Charlotte FC is well-positioned to secure a victory against a less consistent Columbus Crew SC side, offering good value at +120."
-        },
-        {
-          "game": "New England Revolution @ Toronto FC",
-          "betType": "moneyline",
-          "pick": "New England Revolution",
-          "odds": "+230",
+          "odds": "+115",
           "confidence": "medium",
-          "rationale": "The New England Revolution are in good overall form with 9 wins, 3 draws, and 6 losses, placing them 7th in the MLS table. Conversely, Toronto FC is struggling significantly, holding a record of 3 wins, 8 draws, and 7 losses, ranking 12th in the Eastern Conference. While New England's away form is considered poor, their overall superior performance and the substantial underdog odds of +230 against a struggling Toronto team provide excellent value."
-        },
-        {
-          "game": "D.C. United @ CF Montreal",
-          "betType": "moneyline",
-          "pick": "D.C. United",
-          "odds": "+195",
-          "confidence": "medium",
-          "rationale": "D.C. United has been a resilient team recently, securing four draws in their last five matches and maintaining an average away form with 2 wins, 5 draws, and 2 losses. CF Montreal is in poor form, with only 4 wins, 4 draws, and 10 losses, placing them 14th in the Eastern Conference. Given Montreal's struggles and D.C. United's ability to grind out results, the +195 moneyline for D.C. United offers significant value against a team that is also struggling for consistency."
+          "rationale": "Charlotte FC holds a respectable home record this season, with 5 wins, 3 draws, and 2 losses. Conversely, Columbus Crew has struggled significantly on the road, managing only 1 win, 3 draws, and 5 losses in away games. Charlotte's top scorer, Pep Biel, is active with 9 goals, and recent debutant Allan Saint-Maximin adds offensive firepower. The Crew also recently transferred out Max Arfsten, a key player, which could impact their attacking cohesion.",
+          "awayRecord": "5-5-8",
+          "homeRecord": "7-4-7"
         }
       ]
     }
