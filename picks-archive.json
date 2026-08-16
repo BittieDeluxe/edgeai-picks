@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-08-15",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Arizona Diamondbacks @ Atlanta Braves",
+            "betType": "total",
+            "pick": "Under 9",
+            "odds": "-111",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Arizona Diamondbacks 10, Atlanta Braves 3"
+          },
+          {
+            "game": "Milwaukee Brewers @ Los Angeles Dodgers",
+            "betType": "moneyline",
+            "pick": "Los Angeles Dodgers (-123)",
+            "odds": "+114",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 4, Los Angeles Dodgers 1"
+          },
+          {
+            "game": "San Diego Padres @ Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "San Diego Padres (+106)",
+            "odds": "+106",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Diego Padres 1, Cleveland Guardians 6"
+          },
+          {
+            "game": "Texas Rangers @ Athletics",
+            "betType": "spread",
+            "pick": "Texas Rangers -1.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Texas Rangers 5, Athletics 3"
+          },
+          {
+            "game": "Washington Nationals @ New York Mets",
+            "betType": "total",
+            "pick": "Under 8",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Nationals 4, New York Mets 5"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Minnesota United FC @ Real Salt Lake",
+            "betType": "moneyline",
+            "pick": "Real Salt Lake",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "L",
+            "score": "Minnesota United FC 1, Real Salt Lake 1"
+          },
+          {
+            "game": "FC Cincinnati @ Orlando City SC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "L",
+            "score": "FC Cincinnati 1, Orlando City SC 1"
+          },
+          {
+            "game": "Red Bull New York @ Atlanta United FC",
+            "betType": "moneyline",
+            "pick": "Red Bull New York",
+            "odds": "+220",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Red Bull New York 1, Atlanta United FC 2"
+          },
+          {
+            "game": "Sporting Kansas City @ Colorado Rapids",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sporting Kansas City 0, Colorado Rapids 2"
+          },
+          {
+            "game": "Columbus Crew @ Charlotte FC",
+            "betType": "moneyline",
+            "pick": "Charlotte FC",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Columbus Crew 1, Charlotte FC 3"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-14",
     "sports": [
       {
@@ -70,8 +176,8 @@
             "pick": "Over 3.5",
             "odds": "-145",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "FC Cincinnati 1, Orlando City SC 1"
           },
           {
             "game": "Columbus Crew SC @ Charlotte FC",
@@ -88,8 +194,8 @@
             "pick": "New England Revolution",
             "odds": "+230",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "New England Revolution 1, Toronto FC 2"
           },
           {
             "game": "D.C. United @ CF Montreal",
@@ -2214,85 +2320,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Portland Timbers 5, Seattle Sounders FC 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-15",
-    "sports": [
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Toronto FC @ CF Montreal",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-175",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Toronto FC @ CF Montreal",
-            "betType": "moneyline",
-            "pick": "CF Montreal",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Argentina @ England",
-            "betType": "moneyline",
-            "pick": "England (+165)",
-            "odds": "+165",
-            "confidence": "high",
-            "result": "L",
-            "score": "Argentina 2, England 1"
-          },
-          {
-            "game": "Argentina @ England",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "+150",
-            "confidence": "high",
-            "result": "W",
-            "score": "Argentina 2, England 1"
-          },
-          {
-            "game": "Argentina @ England",
-            "betType": "prop",
-            "pick": "Lionel Messi Anytime Goalscorer",
-            "odds": "+145",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Argentina @ England",
-            "betType": "prop",
-            "pick": "Harry Kane Anytime Goalscorer",
-            "odds": "+180",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Argentina @ England",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-165",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Argentina 2, England 1"
           }
         ]
       }
