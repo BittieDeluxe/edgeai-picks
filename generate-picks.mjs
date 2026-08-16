@@ -49,6 +49,14 @@ const MAX_SPORTS = 8;
 const SATURDAY_ONLY = new Set(['UFC']);
 
 function getInSeasonSports(month, dateStr) {
+  // Test override: PICKS_ONLY_SPORTS=NFL node generate-picks.mjs
+  // Lets an out-of-season sport be exercised against live data before its
+  // season opens. Unset in the scheduled workflow, so cron behaviour is normal.
+  const override = process.env.PICKS_ONLY_SPORTS;
+  if (override) {
+    return override.split(',').map(s => s.trim().toUpperCase()).filter(s => SEASON_MONTHS[s]);
+  }
+
   const dayOfWeek = new Date(dateStr + 'T12:00:00Z').getUTCDay(); // 0=Sun, 6=Sat
   return Object.entries(SEASON_MONTHS)
     .filter(([sport, months]) => {
@@ -239,6 +247,17 @@ function tryParsePicks(raw) {
 }
 
 // ─── Gemini picks (Google Search grounding replaces Perplexity) ────────────
+// Props are only worth generating if they can be auto-graded later. Build the
+// allowed stat-term list straight from SPORT_PROP_STATS so the prompt can never
+// drift from what the grader understands.
+function buildPropFormatHint(sport) {
+  const stats = SPORT_PROP_STATS[sport];
+  if (!stats) return '   Do NOT include player props for this sport — they cannot be auto-graded.';
+  const terms = [...new Set(Object.keys(stats))].sort();
+  return `   Format the pick string EXACTLY as "Player Name Over|Under X.X Stat" — e.g. "Player Name Over 249.5 Passing Yards".
+   The stat MUST be one of these exact terms, or the pick cannot be graded: ${terms.join(', ')}.`;
+}
+
 async function getPicksForSport(sport, dateStr) {
   const { hasGames, structuredContext, games } = await buildContext(sport, dateStr);
 
@@ -246,6 +265,8 @@ async function getPicksForSport(sport, dateStr) {
     console.log(`  No games/events found for ${sport} today — skipping`);
     return { picks: [], games: [] };
   }
+
+  const propFormatHint = buildPropFormatHint(sport);
 
   const prompt = `You are a sharp sports betting analyst. Today is ${dateStr}.
 
@@ -274,6 +295,7 @@ INSTRUCTIONS:
 4. QUALITY OVER QUANTITY: Only pick games where your research reveals a genuine edge. Skip a game if there is no real edge.
 
 5. PLAYER PROPS: If you include a player prop, you MUST confirm via search that the player is active and on the team playing in that game today. The propTeam field must match one of the two teams in the game field exactly.
+${propFormatHint}
 
 6. RATIONALE: 4–5 sentences per pick. Cite specific data from your search: injured players and their impact, recent form, h2h trend, line movement signal, and what needs to happen for the pick to hit.
 
@@ -405,9 +427,18 @@ If ${sport} has no games today, return {"picks": []}.`;
 }
 
 // ─── Player prop grading ──────────────────────────────────────────────────
-// Per-sport prop-name → ESPN stat key. Values can be a string (one column)
-// or an array (sum across columns, e.g. NHL "points" = G + A).
-// ESPN exposes the stat key as `names` (NBA/MLB) or `labels` (NHL).
+// Per-sport prop-name → ESPN stat key. Values can be:
+//   - a string ('PTS')                      one column, any stat group
+//   - an array of strings (['G','A'])       sum of columns within one group
+//   - an object { group, key, part }        column scoped to a named stat group
+//   - an array of objects                   sum across groups (missing = 0)
+// ESPN exposes the stat key as `names` (NBA/MLB) or `labels` (NHL/NFL).
+//
+// NFL MUST use the object form: `YDS`, `TD` and `LONG` appear in the passing,
+// rushing, receiving, interceptions and return groups alike, so an unscoped
+// lookup grades a receiving prop off whichever group the player appears in
+// first. `part` splits fractional cells — passing "C/ATT" is "9/15", kicking
+// "FG" is "2/3".
 const SPORT_PROP_STATS = {
   NBA: {
     'points': 'PTS', 'point': 'PTS',
@@ -440,6 +471,70 @@ const SPORT_PROP_STATS = {
     'runs': 'R', 'run': 'R',
     'earned runs': 'ER',
   },
+  NFL: {
+    // passing
+    'passing yards': { group: 'passing', key: 'YDS' },
+    'pass yards': { group: 'passing', key: 'YDS' },
+    'passing yds': { group: 'passing', key: 'YDS' },
+    'pass yds': { group: 'passing', key: 'YDS' },
+    'passing touchdowns': { group: 'passing', key: 'TD' },
+    'passing tds': { group: 'passing', key: 'TD' },
+    'passing td': { group: 'passing', key: 'TD' },
+    'pass tds': { group: 'passing', key: 'TD' },
+    'completions': { group: 'passing', key: 'C/ATT', part: 0 },
+    'pass completions': { group: 'passing', key: 'C/ATT', part: 0 },
+    'pass attempts': { group: 'passing', key: 'C/ATT', part: 1 },
+    'passing attempts': { group: 'passing', key: 'C/ATT', part: 1 },
+    // Interception props are almost always "QB throws an INT", not a defensive pick.
+    'interceptions': { group: 'passing', key: 'INT' },
+    'interceptions thrown': { group: 'passing', key: 'INT' },
+    'ints': { group: 'passing', key: 'INT' },
+
+    // rushing
+    'rushing yards': { group: 'rushing', key: 'YDS' },
+    'rush yards': { group: 'rushing', key: 'YDS' },
+    'rushing yds': { group: 'rushing', key: 'YDS' },
+    'rush yds': { group: 'rushing', key: 'YDS' },
+    'rushing attempts': { group: 'rushing', key: 'CAR' },
+    'rush attempts': { group: 'rushing', key: 'CAR' },
+    'carries': { group: 'rushing', key: 'CAR' },
+    'rushing touchdowns': { group: 'rushing', key: 'TD' },
+    'rushing tds': { group: 'rushing', key: 'TD' },
+
+    // receiving
+    'receiving yards': { group: 'receiving', key: 'YDS' },
+    'rec yards': { group: 'receiving', key: 'YDS' },
+    'receiving yds': { group: 'receiving', key: 'YDS' },
+    'receptions': { group: 'receiving', key: 'REC' },
+    'reception': { group: 'receiving', key: 'REC' },
+    'catches': { group: 'receiving', key: 'REC' },
+    'targets': { group: 'receiving', key: 'TGTS' },
+    'receiving touchdowns': { group: 'receiving', key: 'TD' },
+    'receiving tds': { group: 'receiving', key: 'TD' },
+
+    // combos — a player with no line in one group counts 0 there
+    'rushing + receiving yards': [{ group: 'rushing', key: 'YDS' }, { group: 'receiving', key: 'YDS' }],
+    'rush + rec yards': [{ group: 'rushing', key: 'YDS' }, { group: 'receiving', key: 'YDS' }],
+    'rushing and receiving yards': [{ group: 'rushing', key: 'YDS' }, { group: 'receiving', key: 'YDS' }],
+    'scrimmage yards': [{ group: 'rushing', key: 'YDS' }, { group: 'receiving', key: 'YDS' }],
+    'yards from scrimmage': [{ group: 'rushing', key: 'YDS' }, { group: 'receiving', key: 'YDS' }],
+
+    // defense
+    'tackles': { group: 'defensive', key: 'TOT' },
+    'total tackles': { group: 'defensive', key: 'TOT' },
+    'tackles + assists': { group: 'defensive', key: 'TOT' },
+    'tackles and assists': { group: 'defensive', key: 'TOT' },
+    'solo tackles': { group: 'defensive', key: 'SOLO' },
+    'sacks': { group: 'defensive', key: 'SACKS' },
+    'passes defended': { group: 'defensive', key: 'PD' },
+    'pass deflections': { group: 'defensive', key: 'PD' },
+
+    // kicking
+    'kicking points': { group: 'kicking', key: 'PTS' },
+    'field goals made': { group: 'kicking', key: 'FG', part: 0 },
+    'field goals': { group: 'kicking', key: 'FG', part: 0 },
+    'extra points made': { group: 'kicking', key: 'XP', part: 0 },
+  },
 };
 
 // Back-compat union for cases that don't know the sport (e.g. legacy NBA playerProps grader)
@@ -464,7 +559,57 @@ function playerNameMatches(espnName, pickName) {
   return aParts[0][0] === bParts[0][0];
 }
 
+function isScopedSpec(v) {
+  return !!v && typeof v === 'object' && !Array.isArray(v);
+}
+
+// Reads one group-scoped column (NFL). Returns null when the player has no
+// line in that stat group — e.g. an RB with zero catches is simply absent
+// from the receiving group.
+function readScopedStat(summaryData, playerName, spec) {
+  for (const teamData of (summaryData.boxscore?.players ?? [])) {
+    for (const statGroup of (teamData.statistics ?? [])) {
+      if (spec.group && statGroup.name !== spec.group) continue;
+      const cols = statGroup.names ?? statGroup.labels ?? [];
+      const idx = cols.indexOf(spec.key);
+      if (idx === -1) continue;
+
+      const athlete = (statGroup.athletes ?? []).find(a =>
+        playerNameMatches(a.athlete?.displayName, playerName) ||
+        playerNameMatches(a.athlete?.shortName, playerName)
+      );
+      if (!athlete) continue;
+
+      const raw = athlete.stats?.[idx] ?? '';
+      // Fractional cells: passing "C/ATT" = "9/15", kicking "FG" = "2/3".
+      const cell = spec.part !== undefined ? String(raw).split('/')[spec.part] : raw;
+      const value = parseFloat(cell);
+      if (isNaN(value)) continue;
+      // Show the graded number, keeping the raw cell as context ("15 of 9/15").
+      const display = spec.part !== undefined ? `${value} of ${raw}` : String(raw);
+      return { value, display };
+    }
+  }
+  return null;
+}
+
 function findPlayerStat(summaryData, playerName, statKey) {
+  // Group-scoped descriptors (NFL) resolve per spec and sum across groups.
+  if (isScopedSpec(statKey) || (Array.isArray(statKey) && statKey.some(isScopedSpec))) {
+    const specs = Array.isArray(statKey) ? statKey : [statKey];
+    const found = specs.map(s => readScopedStat(summaryData, playerName, s));
+    // A multi-group combo (scrimmage yards) counts a missing group as 0, but
+    // at least one group must have produced a line or the player didn't play.
+    if (found.every(f => f === null)) return null;
+    if (specs.length === 1 && found[0] === null) return null;
+
+    const total = found.reduce((sum, f) => sum + (f?.value ?? 0), 0);
+    const display = specs.length === 1
+      ? found[0].display
+      : found.map(f => f?.value ?? 0).join('+') + `=${total}`;
+    return { value: total, display };
+  }
+
   const teams = summaryData.boxscore?.players ?? [];
   // statKey may be a single string (e.g. 'PTS') or an array of stats to sum (e.g. ['G','A'] for NHL points)
   const keys = Array.isArray(statKey) ? statKey : [statKey];
@@ -866,6 +1011,11 @@ async function main() {
   const dateStr = now.toLocaleDateString('en-CA', { timeZone: 'America/New_York' });
   const month = parseInt(dateStr.split('-')[1]);
 
+  // PICKS_DRY_RUN=1 → generate and print, but never touch daily-picks.json or
+  // picks-archive.json. Used to smoke-test a sport without polluting the archive.
+  const DRY_RUN = !!process.env.PICKS_DRY_RUN;
+  if (DRY_RUN) console.log('DRY RUN — no files will be written, grading skipped\n');
+
   // ─── Grade yesterday's picks ────────────────────────────────────────────
   let archive = [];
   try {
@@ -876,7 +1026,7 @@ async function main() {
   let yesterdayPicks = null;
   try { yesterdayPicks = JSON.parse(readFileSync('daily-picks.json', 'utf8')); } catch { }
 
-  if (yesterdayPicks?.date && yesterdayPicks.date !== dateStr) {
+  if (!DRY_RUN && yesterdayPicks?.date && yesterdayPicks.date !== dateStr) {
     const existingEntry = archive.find(e => e.date === yesterdayPicks.date);
     const hasAnyUngraded = existingEntry
       ? existingEntry.sports.some(s => s.picks.some(p => p.result === '?'))
@@ -927,7 +1077,7 @@ async function main() {
     return gamePicksGradable || propPicksGradable;
   }
 
-  const recentUngraded = archive.filter(e => {
+  const recentUngraded = DRY_RUN ? [] : archive.filter(e => {
     const daysDiff = (new Date(dateStr) - new Date(e.date)) / 86400000;
     return daysDiff >= 1 && daysDiff <= 3 && hasGradablePendingPicks(e);
   });
@@ -1006,8 +1156,14 @@ async function main() {
     }
   }
 
-  writeFileSync('daily-picks.json', JSON.stringify({ date: dateStr, generatedAt: now.toISOString(), sports, playerProps }, null, 2));
-  console.log(`\nWrote ${sports.length} sport(s) to daily-picks.json`);
+  const payload = { date: dateStr, generatedAt: now.toISOString(), sports, playerProps };
+  if (DRY_RUN) {
+    console.log(`\nDRY RUN — would have written ${sports.length} sport(s):`);
+    console.log(JSON.stringify(payload, null, 2));
+  } else {
+    writeFileSync('daily-picks.json', JSON.stringify(payload, null, 2));
+    console.log(`\nWrote ${sports.length} sport(s) to daily-picks.json`);
+  }
 }
 
 // Only auto-run main() when this file is the entry point (not when imported).
