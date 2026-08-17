@@ -1,184 +1,133 @@
 {
-  "date": "2026-08-16",
-  "generatedAt": "2026-08-16T13:29:16.858Z",
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-17T17:27:28.449Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Arizona Diamondbacks @ Atlanta Braves",
-          "betType": "moneyline",
-          "pick": "Arizona Diamondbacks (+112)",
-          "odds": "+112",
+          "game": "Baltimore Orioles @ Tampa Bay Rays",
+          "betType": "prop",
+          "pick": "Shane McClanahan Under 12.5 pitcher outs",
+          "odds": "-114",
           "confidence": "high",
-          "rationale": "The Diamondbacks have been dominant against the Braves recently, winning both games of this series with a combined 12-3 score and holding an 8-2 record in their last 10 meetings overall. They have also won their last five visits to Atlanta. While Michael Soroka is on a pitch count after returning from injury, his last outing was a shutout, and he holds a strong 2.92 ERA this season. Braves' starter Bryce Elder has been inconsistent, giving up seven runs in his last start, making the Diamondbacks at plus money a strong value play to complete the sweep.",
-          "awayRecord": "66-58",
-          "homeRecord": "73-50",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ Minnesota Twins",
-          "betType": "moneyline",
-          "pick": "Minnesota Twins (+100)",
-          "odds": "+100",
-          "confidence": "high",
-          "rationale": "Despite the Phillies' recent dominance in the series, outscoring the Twins 16-2 over the last two games, the pitching matchup for today favors the Twins. Dean Kremer for the Twins has a significantly better WHIP (1.17) than Phillies' starter Andrew Painter (1.53), indicating better baserunner suppression. The market seems to be overvaluing the Phillies' recent offensive outburst against different pitchers, creating value on the Twins at a near pick'em price at home. This is a spot where the public money chasing the Phillies' momentum creates an opportunity for the Twins.",
-          "awayRecord": "66-58",
-          "homeRecord": "60-64",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Texas Rangers @ Athletics",
-          "betType": "moneyline",
-          "pick": "Texas Rangers (-130)",
-          "odds": "-130",
-          "confidence": "high",
-          "rationale": "The Texas Rangers are in contention for the AL West top spot and desperately need this win after ending a four-game skid yesterday. They have a significant pitching advantage with Cody Bradford (2.38 ERA) facing Jacob Lopez (5.38 ERA, 1.56 WHIP). Bradford also boasts a strong career record against the Athletics (1-0, 1.47 ERA). The Athletics are the worst team in the AL West and have lost four of their last five games, making the Rangers a solid pick to secure the series win.",
+          "rationale": "Tampa Bay Rays pitcher Shane McClanahan is returning from a back injury and is expected to be on a strict pitch count of 40-50 pitches, making it highly unlikely he completes five innings (15 outs). His last rehab outing was only 30 pitches, reinforcing the expectation of a limited workload. The prop at Under 12.5 outs means he needs to get 13 outs to lose the bet, which is equivalent to completing the 4th inning and getting one out in the 5th. Given the Rays' caution with his return, four completed innings (12 outs) is a more probable outcome. This bet directly attacks his workload rather than strikeout or hit totals, which are more variable.",
+          "propPlayer": "Shane McClanahan",
+          "propTeam": "Tampa Bay Rays",
           "awayRecord": "61-63",
-          "homeRecord": "48-75",
+          "homeRecord": "74-49",
           "awayLast5": [
+            "W",
             "L",
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
             "W"
           ],
           "homeLast5": [
-            "L",
-            "L",
-            "L",
             "W",
+            "W",
+            "L",
+            "L",
             "L"
           ]
         },
         {
-          "game": "Kansas City Royals @ Los Angeles Angels",
+          "game": "Athletics @ Kansas City Royals",
           "betType": "moneyline",
-          "pick": "Kansas City Royals (-109)",
-          "odds": "-109",
-          "confidence": "medium",
-          "rationale": "The Royals' starting pitcher, Noah Cameron, is in good form, allowing one earned run or fewer in three of his last four starts, while Angels' starter Ryan Johnson has a high 6.71 ERA. Although the Angels have won 4 of their last 5 games, their bullpen has been significantly weakened by trade deadline moves, losing key arms and having only 18 saves all season. Bobby Witt Jr. also has a strong career OPS against Angels' starter Detmers (1.333), providing a key offensive advantage for Kansas City.",
-          "awayRecord": "50-74",
-          "homeRecord": "49-75",
+          "pick": "Kansas City Royals (-178)",
+          "odds": "-178",
+          "confidence": "high",
+          "rationale": "The Kansas City Royals hold a significant pitching advantage with veteran Michael Wacha (3.46 ERA, 1.15 WHIP) starting against the Athletics' rookie Mason Barnett (6.16 ERA, 1.45 WHIP). Barnett has struggled with walks and home runs, creating substantial scoring potential for Kansas City's offense. Furthermore, the Athletics are missing key power threats in Nick Kurtz and Shea Langeliers due to injury, weakening their lineup. The Royals' run-line price has also seen movement from +130 to +110, indicating sharp money backing Kansas City to cover, which supports a straight moneyline play.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "49-75",
+          "homeRecord": "51-74",
           "awayLast5": [
             "L",
             "L",
-            "L",
             "W",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
+            "L",
+            "L",
             "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "Milwaukee Brewers @ Los Angeles Dodgers",
+          "game": "San Diego Padres @ New York Mets",
+          "betType": "moneyline",
+          "pick": "New York Mets (-120)",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The New York Mets enter this game on a three-game winning streak and possess a distinct starting pitching advantage with Nolan McLean (3.42 ERA, 159 strikeouts) facing the Padres' Walker Buehler (4.88 ERA). While the Padres have been in good recent form (4-1 in their last five games), the Mets have won three of the last five head-to-head matchups. Citi Field is known as a pitcher-friendly park, which should further benefit McLean's high-strikeout profile. The slight market movement on the Mets' moneyline from -116 to -120 also indicates growing confidence in New York.",
+          "awayRecord": "67-58",
+          "homeRecord": "56-69",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers @ Colorado Rockies",
           "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-115",
+          "pick": "Over 11 (-104)",
+          "odds": "-104",
           "confidence": "medium",
-          "rationale": "This game features a compelling pitching matchup between Logan Henderson (MIL: 2.88 ERA, 0.91 WHIP) and Tarik Skubal (LAD: 2.93 ERA, 0.93 WHIP), both of whom have excellent baserunner prevention numbers. The Dodgers' offense has been struggling recently, averaging only 3.5 runs per game on a .209 clip over their last five games. Furthermore, there has been no run scored in the first inning in each of Henderson's last six road starts, and five of the Dodgers' last six games as favorites against NL opponents have gone UNDER the total. The combination of strong pitching and a faltering Dodgers offense points to a low-scoring affair.",
-          "awayRecord": "76-48",
-          "homeRecord": "74-50",
+          "rationale": "This game is set at Coors Field, a ballpark notoriously conducive to high-scoring affairs due to its altitude and spacious outfield, which magnifies extra-base contact. Colorado Rockies starter Tomoyuki Sugano has already surrendered 24 home runs this season, posing a significant vulnerability against the powerful Los Angeles Dodgers lineup. While Dodgers starter Blake Snell has a limited workload, the Rockies' overall team pitching (5.47 ERA, 1.52 WHIP) is poor, suggesting that even if Snell pitches well, the Dodgers could still generate significant offense against Colorado's bullpen. The line movement for the total has also seen the over move from -114 to -104, indicating market support for a higher-scoring contest.",
+          "awayRecord": "74-51",
+          "homeRecord": "50-74",
           "awayLast5": [
-            "L",
+            "W",
             "L",
             "W",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
             "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Chicago White Sox @ Chicago Cubs",
+          "betType": "moneyline",
+          "pick": "Chicago Cubs (-156)",
+          "odds": "-156",
+          "confidence": "medium",
+          "rationale": "The Chicago Cubs hold a significant pitching advantage with Shota Imanaga (3.74 ERA) over the White Sox's Luis Castillo (4.98 ERA). Imanaga also demonstrates superior contact suppression metrics compared to Castillo, suggesting he will limit the White Sox's offensive opportunities. Although the Cubs have lost three of their last four games, they are playing at home and are the stronger team overall with a 72-53 record compared to the White Sox's 65-58. The White Sox are also contending with several key injuries, including two catchers and multiple pitchers, further weakening their roster.",
+          "awayRecord": "65-58",
+          "homeRecord": "72-53",
+          "awayLast5": [
+            "W",
             "L",
             "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
             "L"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "Portland Timbers @ Chicago Fire FC",
-          "betType": "moneyline",
-          "pick": "Chicago Fire FC",
-          "odds": "-210",
-          "confidence": "high",
-          "rationale": "Chicago Fire FC boasts a strong home record this season with 6 wins, 0 draws, and 3 losses, indicating their dominance at Soldier Field. Conversely, the Portland Timbers have struggled significantly on the road, with a record of 2 wins, 1 draw, and 6 losses in away matches. Furthermore, Portland is dealing with a notable injury list, including four players confirmed OUT and two questionable, which further weakens their squad for this matchup.",
-          "awayRecord": "7-3-8",
-          "homeRecord": "9-2-6"
-        },
-        {
-          "game": "Philadelphia Union @ New York City FC",
-          "betType": "moneyline",
-          "pick": "Philadelphia Union",
-          "odds": "+155",
-          "confidence": "high",
-          "rationale": "New York City FC is severely hampered by an extensive injury list, with eight key players, including Thiago Martins and Maxi Moralez, confirmed OUT due to various leg injuries. While Philadelphia Union's away form has been poor, NYCFC's significant roster depletion creates a substantial advantage for the Union. The attractive underdog odds of +155 offer excellent value given the circumstances, making this a high-confidence upset pick.",
-          "awayRecord": "4-4-10",
-          "homeRecord": "7-5-6"
-        },
-        {
-          "game": "FC Dallas @ Austin FC",
-          "betType": "moneyline",
-          "pick": "FC Dallas",
-          "odds": "+135",
-          "confidence": "high",
-          "rationale": "FC Dallas has historically dominated this Texas derby, holding a strong head-to-head record with 8 wins against Austin FC's 3 wins in 15 previous encounters. Austin FC's overall form this season is very poor, with only 4 wins, 5 draws, and 9 losses, placing them near the bottom of the MLS table. Additionally, Austin is missing key players Mikkel Desler and Owen Wolff due to injury, further tilting the advantage towards a road victory for FC Dallas.",
-          "awayRecord": "7-6-5",
-          "homeRecord": "4-5-9"
-        },
-        {
-          "game": "Vancouver Whitecaps @ Seattle Sounders FC",
-          "betType": "moneyline",
-          "pick": "Seattle Sounders FC",
-          "odds": "+300",
-          "confidence": "medium",
-          "rationale": "Vancouver Whitecaps are facing a significant injury crisis, with seven players listed as OUT, including key offensive threat Brian White. Despite Seattle Sounders FC's recent struggles in MLS (5 consecutive losses), they have shown resilience with recent home victories in the Leagues Cup. Given Vancouver's severely depleted squad and Seattle playing at home, the Sounders at +300 present a high-value opportunity for an upset.",
-          "awayRecord": "10-4-3",
-          "homeRecord": "7-3-7"
-        },
-        {
-          "game": "Portland Timbers @ Chicago Fire FC",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-125",
-          "confidence": "medium",
-          "rationale": "The head-to-head history between Chicago Fire FC and Portland Timbers strongly suggests a high-scoring affair, with an average of 3 goals per meeting and 100% of past H2H results going Over the total goals line. Both teams have also demonstrated potent offenses in their recent outings; Portland has averaged 2.6 goals per match in their last five, while Chicago has averaged 2.0 goals per match in the same span. This offensive trend, combined with Chicago's good home form and Portland's defensive vulnerabilities, points to a game exceeding 3.5 goals.",
-          "awayRecord": "7-3-8",
-          "homeRecord": "9-2-6"
         }
       ]
     }

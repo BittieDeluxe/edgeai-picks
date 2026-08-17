@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-08-16",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Arizona Diamondbacks @ Atlanta Braves",
+            "betType": "moneyline",
+            "pick": "Arizona Diamondbacks (+112)",
+            "odds": "+112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Arizona Diamondbacks 3, Atlanta Braves 5"
+          },
+          {
+            "game": "Philadelphia Phillies @ Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Minnesota Twins (+100)",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Phillies 7, Minnesota Twins 5"
+          },
+          {
+            "game": "Texas Rangers @ Athletics",
+            "betType": "moneyline",
+            "pick": "Texas Rangers (-130)",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Texas Rangers 2, Athletics 5"
+          },
+          {
+            "game": "Kansas City Royals @ Los Angeles Angels",
+            "betType": "moneyline",
+            "pick": "Kansas City Royals (-109)",
+            "odds": "-109",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Kansas City Royals 3, Los Angeles Angels 0"
+          },
+          {
+            "game": "Milwaukee Brewers @ Los Angeles Dodgers",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Milwaukee Brewers 6, Los Angeles Dodgers 2"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Portland Timbers @ Chicago Fire FC",
+            "betType": "moneyline",
+            "pick": "Chicago Fire FC",
+            "odds": "-210",
+            "confidence": "high",
+            "result": "W",
+            "score": "Portland Timbers 1, Chicago Fire FC 2"
+          },
+          {
+            "game": "Philadelphia Union @ New York City FC",
+            "betType": "moneyline",
+            "pick": "Philadelphia Union",
+            "odds": "+155",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Union 3, New York City FC 2"
+          },
+          {
+            "game": "FC Dallas @ Austin FC",
+            "betType": "moneyline",
+            "pick": "FC Dallas",
+            "odds": "+135",
+            "confidence": "high",
+            "result": "W",
+            "score": "FC Dallas 2, Austin FC 1"
+          },
+          {
+            "game": "Vancouver Whitecaps @ Seattle Sounders FC",
+            "betType": "moneyline",
+            "pick": "Seattle Sounders FC",
+            "odds": "+300",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vancouver Whitecaps 2, Seattle Sounders FC 0"
+          },
+          {
+            "game": "Portland Timbers @ Chicago Fire FC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Portland Timbers 1, Chicago Fire FC 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-15",
     "sports": [
       {
@@ -2214,112 +2320,6 @@
             "confidence": "high",
             "result": "L",
             "score": "England 6, France 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-16",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "New York Mets vs Philadelphia Phillies",
-            "betType": "total",
-            "pick": "Under 9.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Mets 4, Philadelphia Phillies 1"
-          },
-          {
-            "game": "New York Mets vs Philadelphia Phillies",
-            "betType": "moneyline",
-            "pick": "Philadelphia Phillies",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "L",
-            "score": "New York Mets 4, Philadelphia Phillies 1"
-          },
-          {
-            "game": "New York Mets vs Philadelphia Phillies",
-            "betType": "spread",
-            "pick": "Philadelphia Phillies -1.5",
-            "odds": "+150",
-            "confidence": "high",
-            "result": "L",
-            "score": "New York Mets 4, Philadelphia Phillies 1"
-          },
-          {
-            "game": "New York Mets vs Philadelphia Phillies",
-            "betType": "prop",
-            "pick": "Juan Soto Over 1.5 Total Bases",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "?",
-            "score": "Juan Soto: \"Total Bases\" not auto-gradeable"
-          },
-          {
-            "game": "New York Mets vs Philadelphia Phillies",
-            "betType": "spread",
-            "pick": "New York Mets +1.5",
-            "odds": "-182",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Mets 4, Philadelphia Phillies 1"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Vancouver Whitecaps @ Chicago Fire FC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+105",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Sporting Kansas City @ St. Louis CITY SC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Sporting Kansas City 2, St. Louis CITY SC 3"
-          },
-          {
-            "game": "Sporting Kansas City @ St. Louis CITY SC",
-            "betType": "moneyline",
-            "pick": "St. Louis CITY SC",
-            "odds": "-260",
-            "confidence": "high",
-            "result": "W",
-            "score": "Sporting Kansas City 2, St. Louis CITY SC 3"
-          },
-          {
-            "game": "Portland Timbers @ Seattle Sounders FC",
-            "betType": "moneyline",
-            "pick": "Portland Timbers",
-            "odds": "+490",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Portland Timbers 5, Seattle Sounders FC 1"
-          },
-          {
-            "game": "Portland Timbers @ Seattle Sounders FC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Portland Timbers 5, Seattle Sounders FC 1"
           }
         ]
       }
