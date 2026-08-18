@@ -1,132 +1,128 @@
 {
-  "date": "2026-08-17",
-  "generatedAt": "2026-08-17T17:27:28.449Z",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T17:27:55.184Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Baltimore Orioles @ Tampa Bay Rays",
-          "betType": "prop",
-          "pick": "Shane McClanahan Under 12.5 pitcher outs",
-          "odds": "-114",
-          "confidence": "high",
-          "rationale": "Tampa Bay Rays pitcher Shane McClanahan is returning from a back injury and is expected to be on a strict pitch count of 40-50 pitches, making it highly unlikely he completes five innings (15 outs). His last rehab outing was only 30 pitches, reinforcing the expectation of a limited workload. The prop at Under 12.5 outs means he needs to get 13 outs to lose the bet, which is equivalent to completing the 4th inning and getting one out in the 5th. Given the Rays' caution with his return, four completed innings (12 outs) is a more probable outcome. This bet directly attacks his workload rather than strikeout or hit totals, which are more variable.",
-          "propPlayer": "Shane McClanahan",
-          "propTeam": "Tampa Bay Rays",
-          "awayRecord": "61-63",
-          "homeRecord": "74-49",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Athletics @ Kansas City Royals",
+          "game": "Atlanta Braves vs Minnesota Twins",
           "betType": "moneyline",
-          "pick": "Kansas City Royals (-178)",
-          "odds": "-178",
+          "pick": "Atlanta Braves",
+          "odds": "-122",
           "confidence": "high",
-          "rationale": "The Kansas City Royals hold a significant pitching advantage with veteran Michael Wacha (3.46 ERA, 1.15 WHIP) starting against the Athletics' rookie Mason Barnett (6.16 ERA, 1.45 WHIP). Barnett has struggled with walks and home runs, creating substantial scoring potential for Kansas City's offense. Furthermore, the Athletics are missing key power threats in Nick Kurtz and Shea Langeliers due to injury, weakening their lineup. The Royals' run-line price has also seen movement from +130 to +110, indicating sharp money backing Kansas City to cover, which supports a straight moneyline play.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "49-75",
-          "homeRecord": "51-74",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "San Diego Padres @ New York Mets",
-          "betType": "moneyline",
-          "pick": "New York Mets (-120)",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "The New York Mets enter this game on a three-game winning streak and possess a distinct starting pitching advantage with Nolan McLean (3.42 ERA, 159 strikeouts) facing the Padres' Walker Buehler (4.88 ERA). While the Padres have been in good recent form (4-1 in their last five games), the Mets have won three of the last five head-to-head matchups. Citi Field is known as a pitcher-friendly park, which should further benefit McLean's high-strikeout profile. The slight market movement on the Mets' moneyline from -116 to -120 also indicates growing confidence in New York.",
-          "awayRecord": "67-58",
-          "homeRecord": "56-69",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Los Angeles Dodgers @ Colorado Rockies",
-          "betType": "total",
-          "pick": "Over 11 (-104)",
-          "odds": "-104",
-          "confidence": "medium",
-          "rationale": "This game is set at Coors Field, a ballpark notoriously conducive to high-scoring affairs due to its altitude and spacious outfield, which magnifies extra-base contact. Colorado Rockies starter Tomoyuki Sugano has already surrendered 24 home runs this season, posing a significant vulnerability against the powerful Los Angeles Dodgers lineup. While Dodgers starter Blake Snell has a limited workload, the Rockies' overall team pitching (5.47 ERA, 1.52 WHIP) is poor, suggesting that even if Snell pitches well, the Dodgers could still generate significant offense against Colorado's bullpen. The line movement for the total has also seen the over move from -114 to -104, indicating market support for a higher-scoring contest.",
+          "rationale": "Atlanta's Tyler Mahle has been exceptional since joining the Braves, boasting a 1.69 ERA over his last two starts with 16 strikeouts. Conversely, Minnesota's Zebby Matthews has struggled significantly, holding a 7.27 ERA over his last seven outings and allowing a high rate of home runs. The Braves are a strong playoff contender with a superior run differential, indicating a significant quality gap despite the Twins' recent win. With favorable hitting weather expected, Mahle's current form provides a distinct advantage over Matthews' vulnerability to power bats.",
           "awayRecord": "74-51",
-          "homeRecord": "50-74",
+          "homeRecord": "61-65",
           "awayLast5": [
             "W",
             "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Arizona Diamondbacks vs Boston Red Sox",
+          "betType": "spread",
+          "pick": "Boston Red Sox -1.5",
+          "odds": "+126",
+          "confidence": "high",
+          "rationale": "Boston's Ranger Suarez has been solid, particularly at Fenway Park with a 3.19 FIP, and is coming off a strong one-run, five-inning performance. Arizona's Merrill Kelly has been struggling, evidenced by a 6.36 FIP in his last two starts, a high 1.69 HR/9, and control issues with 4.44 BB/9 over the last month. The Red Sox offense is hot, scoring 11 runs in the series opener and boasting a 125 wRC+ over their last 15 games. Additionally, the Diamondbacks are without key hitter Ketel Marte, who was placed on the restricted list, further weakening their road offense which already has an 88 wRC+.",
+          "awayRecord": "66-60",
+          "homeRecord": "67-58",
+          "awayLast5": [
+            "L",
+            "W",
             "W",
             "L",
             "L"
           ],
           "homeLast5": [
             "W",
-            "W",
+            "L",
             "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "Chicago White Sox @ Chicago Cubs",
+          "game": "St. Louis Cardinals vs Cincinnati Reds",
           "betType": "moneyline",
-          "pick": "Chicago Cubs (-156)",
-          "odds": "-156",
-          "confidence": "medium",
-          "rationale": "The Chicago Cubs hold a significant pitching advantage with Shota Imanaga (3.74 ERA) over the White Sox's Luis Castillo (4.98 ERA). Imanaga also demonstrates superior contact suppression metrics compared to Castillo, suggesting he will limit the White Sox's offensive opportunities. Although the Cubs have lost three of their last four games, they are playing at home and are the stronger team overall with a 72-53 record compared to the White Sox's 65-58. The White Sox are also contending with several key injuries, including two catchers and multiple pitchers, further weakening their roster.",
-          "awayRecord": "65-58",
-          "homeRecord": "72-53",
+          "pick": "St. Louis Cardinals",
+          "odds": "-112",
+          "confidence": "high",
+          "rationale": "St. Louis starter Kyle Leahy is in excellent form, posting a 1.52 ERA and 0.99 WHIP over his last nine starts, while Cincinnati's Andrew Abbott struggles with walks and has allowed three or more earned runs in his last three outings. The Cardinals have won seven of their last ten games and took the series opener 2-1, demonstrating better recent form than the Reds, who have dropped seven of their last ten. Cincinnati's offense has also gone cold, scoring one run in three of their last five games, which plays directly into Leahy's strong pitching. The line movement, with the Cardinals moneyline holding steady around -112, suggests continued confidence in St. Louis.",
+          "awayRecord": "64-62",
+          "homeRecord": "60-65",
           "awayLast5": [
-            "W",
             "L",
             "W",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
             "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers vs Colorado Rockies",
+          "betType": "total",
+          "pick": "Over 11.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "This game is at Coors Field, a known hitter's park, with a projected 25% boost to home runs due to favorable hitting weather. Both starting pitchers have high ERAs, with Colorado's Ryan Feltner holding a 5.59 ERA overall and a 6.69 ERA in games with a significant home run boost. The Dodgers' offense is elite, ranking in the 99th percentile in xSLG against righties and leading the majors in OPS, while the Rockies are third in home OPS. Seven of the Rockies' last eight games after playing the previous day have gone OVER the total, and the Dodgers routed them 11-5 in the series opener.",
+          "awayRecord": "75-51",
+          "homeRecord": "50-75",
+          "awayLast5": [
+            "L",
             "W",
             "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
             "L"
+          ]
+        },
+        {
+          "game": "Chicago White Sox vs Chicago Cubs",
+          "betType": "total",
+          "pick": "Over 9",
+          "odds": "-122",
+          "confidence": "medium",
+          "rationale": "Cubs starter Kevin Gausman has struggled since joining the team, allowing 8 runs in 11 innings across two starts for a 6.17 ERA. While White Sox starter Bryan Hudson has a decent 3.14 ERA, both bullpens have ERAs over 4 in their last 10 games, suggesting potential for late-game scoring. Both Chicago teams have shown offensive power, with the White Sox ranking T4th in home runs and the Cubs leading the league in OBP and walks. The combined average runs per game for these two teams in their last 10 outings is 11.4, and the Over has hit in 14 of their last 20 combined games.",
+          "awayRecord": "65-59",
+          "homeRecord": "73-53",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
           ]
         }
       ]

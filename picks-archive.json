@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-17",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Baltimore Orioles @ Tampa Bay Rays",
+            "betType": "prop",
+            "pick": "Shane McClanahan Under 12.5 pitcher outs",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "?",
+            "score": "Shane McClanahan: \"pitcher outs\" not auto-gradeable"
+          },
+          {
+            "game": "Athletics @ Kansas City Royals",
+            "betType": "moneyline",
+            "pick": "Kansas City Royals (-178)",
+            "odds": "-178",
+            "confidence": "high",
+            "result": "W",
+            "score": "Athletics 5, Kansas City Royals 9"
+          },
+          {
+            "game": "San Diego Padres @ New York Mets",
+            "betType": "moneyline",
+            "pick": "New York Mets (-120)",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego Padres 1, New York Mets 2"
+          },
+          {
+            "game": "Los Angeles Dodgers @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 11 (-104)",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Dodgers 11, Colorado Rockies 5"
+          },
+          {
+            "game": "Chicago White Sox @ Chicago Cubs",
+            "betType": "moneyline",
+            "pick": "Chicago Cubs (-156)",
+            "odds": "-156",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago White Sox 5, Chicago Cubs 7"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-16",
     "sports": [
       {
@@ -2197,126 +2253,6 @@
             "betType": "moneyline",
             "pick": "France",
             "odds": "-120",
-            "confidence": "high",
-            "result": "L",
-            "score": "England 6, France 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-17",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Tampa Bay Rays @ Boston Red Sox",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "+102",
-            "confidence": "high",
-            "result": "L",
-            "score": "Tampa Bay Rays 0, Boston Red Sox 10"
-          },
-          {
-            "game": "Los Angeles Dodgers @ New York Yankees",
-            "betType": "total",
-            "pick": "Over 9",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Dodgers 2, New York Yankees 1"
-          },
-          {
-            "game": "Pittsburgh Pirates @ Cleveland Guardians",
-            "betType": "moneyline",
-            "pick": "Pittsburgh Pirates",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "W",
-            "score": "Pittsburgh Pirates 7, Cleveland Guardians 1"
-          },
-          {
-            "game": "Miami Marlins @ Milwaukee Brewers",
-            "betType": "spread",
-            "pick": "Milwaukee Brewers -1.5",
-            "odds": "+158",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Miami Marlins 1, Milwaukee Brewers 2"
-          },
-          {
-            "game": "San Diego Padres @ Kansas City Royals",
-            "betType": "spread",
-            "pick": "San Diego Padres -1.5",
-            "odds": "+128",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Diego Padres 6, Kansas City Royals 7"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Atlanta United FC vs Nashville SC",
-            "betType": "moneyline",
-            "pick": "Nashville SC",
-            "odds": "-210",
-            "confidence": "high",
-            "result": "W",
-            "score": "Atlanta United FC 0, Nashville SC 1"
-          },
-          {
-            "game": "Atlanta United FC vs Nashville SC",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-160",
-            "confidence": "high",
-            "result": "L",
-            "score": "Atlanta United FC 0, Nashville SC 1"
-          },
-          {
-            "game": "LAFC vs LA Galaxy",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+130",
-            "confidence": "high",
-            "result": "L",
-            "score": "LAFC 3, LA Galaxy 0"
-          },
-          {
-            "game": "LAFC vs LA Galaxy",
-            "betType": "moneyline",
-            "pick": "LA Galaxy",
-            "odds": "+195",
-            "confidence": "medium",
-            "result": "L",
-            "score": "LAFC 3, LA Galaxy 0"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "England @ France",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "England 6, France 4"
-          },
-          {
-            "game": "England @ France",
-            "betType": "moneyline",
-            "pick": "France",
-            "odds": "-110",
             "confidence": "high",
             "result": "L",
             "score": "England 6, France 4"
