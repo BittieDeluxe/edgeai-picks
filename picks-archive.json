@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-18",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Atlanta Braves vs Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Atlanta Braves",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta Braves 1, Minnesota Twins 4"
+          },
+          {
+            "game": "Arizona Diamondbacks vs Boston Red Sox",
+            "betType": "spread",
+            "pick": "Boston Red Sox -1.5",
+            "odds": "+126",
+            "confidence": "high",
+            "result": "W",
+            "score": "Arizona Diamondbacks 4, Boston Red Sox 9"
+          },
+          {
+            "game": "St. Louis Cardinals vs Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "St. Louis Cardinals 3, Cincinnati Reds 0"
+          },
+          {
+            "game": "Los Angeles Dodgers vs Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 11.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Dodgers 7, Colorado Rockies 6"
+          },
+          {
+            "game": "Chicago White Sox vs Chicago Cubs",
+            "betType": "total",
+            "pick": "Over 9",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago White Sox 3, Chicago Cubs 4"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-17",
     "sports": [
       {
@@ -2177,85 +2233,6 @@
             "confidence": "medium",
             "result": "?",
             "score": ""
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-18",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Washington Nationals vs Athletics",
-            "betType": "moneyline",
-            "pick": "Washington Nationals",
-            "odds": "-126",
-            "confidence": "high",
-            "result": "L",
-            "score": "Washington Nationals 1, Athletics 15"
-          },
-          {
-            "game": "St. Louis Cardinals vs Arizona Diamondbacks",
-            "betType": "moneyline",
-            "pick": "St. Louis Cardinals",
-            "odds": "-102",
-            "confidence": "high",
-            "result": "L",
-            "score": "St. Louis Cardinals 3, Arizona Diamondbacks 5"
-          },
-          {
-            "game": "Texas Rangers vs Atlanta Braves",
-            "betType": "spread",
-            "pick": "Texas Rangers +1.5",
-            "odds": "-184",
-            "confidence": "high",
-            "result": "W",
-            "score": "Texas Rangers 7, Atlanta Braves 6"
-          },
-          {
-            "game": "Miami Marlins vs Milwaukee Brewers",
-            "betType": "total",
-            "pick": "Under 8",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Miami Marlins 6, Milwaukee Brewers 8"
-          },
-          {
-            "game": "New York Mets vs Philadelphia Phillies",
-            "betType": "moneyline",
-            "pick": "New York Mets",
-            "odds": "-126",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New York Mets 1, Philadelphia Phillies 6"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "England vs France",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "England 6, France 4"
-          },
-          {
-            "game": "England vs France",
-            "betType": "moneyline",
-            "pick": "France",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "L",
-            "score": "England 6, France 4"
           }
         ]
       }

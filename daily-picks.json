@@ -1,70 +1,70 @@
 {
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-18T17:27:55.184Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T17:27:35.477Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Atlanta Braves vs Minnesota Twins",
-          "betType": "moneyline",
-          "pick": "Atlanta Braves",
-          "odds": "-122",
-          "confidence": "high",
-          "rationale": "Atlanta's Tyler Mahle has been exceptional since joining the Braves, boasting a 1.69 ERA over his last two starts with 16 strikeouts. Conversely, Minnesota's Zebby Matthews has struggled significantly, holding a 7.27 ERA over his last seven outings and allowing a high rate of home runs. The Braves are a strong playoff contender with a superior run differential, indicating a significant quality gap despite the Twins' recent win. With favorable hitting weather expected, Mahle's current form provides a distinct advantage over Matthews' vulnerability to power bats.",
-          "awayRecord": "74-51",
-          "homeRecord": "61-65",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Arizona Diamondbacks vs Boston Red Sox",
+          "game": "Los Angeles Dodgers @ Colorado Rockies",
           "betType": "spread",
-          "pick": "Boston Red Sox -1.5",
-          "odds": "+126",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "-131",
           "confidence": "high",
-          "rationale": "Boston's Ranger Suarez has been solid, particularly at Fenway Park with a 3.19 FIP, and is coming off a strong one-run, five-inning performance. Arizona's Merrill Kelly has been struggling, evidenced by a 6.36 FIP in his last two starts, a high 1.69 HR/9, and control issues with 4.44 BB/9 over the last month. The Red Sox offense is hot, scoring 11 runs in the series opener and boasting a 125 wRC+ over their last 15 games. Additionally, the Diamondbacks are without key hitter Ketel Marte, who was placed on the restricted list, further weakening their road offense which already has an 88 wRC+.",
-          "awayRecord": "66-60",
-          "homeRecord": "67-58",
+          "rationale": "The Dodgers are in dominant form against the Rockies, aiming for a series sweep after winning the first two games by scores of 11-5 and 7-5, showcasing a powerful offense at Coors Field with 18 runs and 4 home runs in the last two contests. Los Angeles holds a clear pitching advantage with Roki Sasaki (4.49 ERA) starting against Colorado's Kyle Freeland (6.25 ERA). The Dodgers have a strong 9-3 season record against the Rockies, and the betting public heavily backs Los Angeles, with the run line tightening from -157 to -197. This combination of offensive explosion, pitching disparity, and strong head-to-head performance makes the Dodgers -1.5 a high-confidence pick.",
+          "awayRecord": "76-51",
+          "homeRecord": "50-76",
           "awayLast5": [
-            "L",
-            "W",
             "W",
             "L",
-            "L"
+            "L",
+            "W",
+            "W"
           ],
           "homeLast5": [
             "W",
             "L",
             "W",
             "L",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "St. Louis Cardinals vs Cincinnati Reds",
+          "game": "Toronto Blue Jays @ Tampa Bay Rays",
+          "betType": "spread",
+          "pick": "Tampa Bay Rays -1.5",
+          "odds": "+111",
+          "confidence": "high",
+          "rationale": "The Tampa Bay Rays are a formidable home team with a 42-22 record at Tropicana Field and hold a commanding 8-2 lead in the season series against the Blue Jays. Rays starter Drew Rasmussen (12-5) provides a significant pitching advantage over Max Scherzer (1-5), who has struggled this season with a high 2.41 HR/9 rate, particularly against right-handed batters. Public betting trends show strong confidence in Tampa Bay, with their run line tightening and public backing between 86% and 93% on bets. This strong home record, pitching mismatch, and public support solidify the Rays -1.5 as a high-confidence play.",
+          "awayRecord": "62-65",
+          "homeRecord": "75-50",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Seattle Mariners @ Milwaukee Brewers",
           "betType": "moneyline",
-          "pick": "St. Louis Cardinals",
-          "odds": "-112",
+          "pick": "Milwaukee Brewers (-118)",
+          "odds": "-118",
           "confidence": "high",
-          "rationale": "St. Louis starter Kyle Leahy is in excellent form, posting a 1.52 ERA and 0.99 WHIP over his last nine starts, while Cincinnati's Andrew Abbott struggles with walks and has allowed three or more earned runs in his last three outings. The Cardinals have won seven of their last ten games and took the series opener 2-1, demonstrating better recent form than the Reds, who have dropped seven of their last ten. Cincinnati's offense has also gone cold, scoring one run in three of their last five games, which plays directly into Leahy's strong pitching. The line movement, with the Cardinals moneyline holding steady around -112, suggests continued confidence in St. Louis.",
-          "awayRecord": "64-62",
-          "homeRecord": "60-65",
+          "rationale": "The Milwaukee Brewers are in exceptional form against the Mariners, highlighted by a historic 22-0 shutout victory in the previous game and an 8-2 record in their last 10 head-to-head matchups. Brewers starter Dustin May has been effective recently, posting a 2.08 ERA in his last two starts and allowing two runs or less in six of his last seven outings. The Mariners are struggling significantly, having lost their last 13 Wednesday night road games and coming off a demoralizing loss, indicating a clear advantage for the Brewers at home. Despite some reverse line movement on the moneyline, the Brewers' dominant form and May's strong pitching make this a high-confidence pick.",
+          "awayRecord": "59-67",
+          "homeRecord": "78-48",
           "awayLast5": [
-            "L",
             "W",
+            "L",
             "W",
             "W",
             "L"
@@ -72,24 +72,24 @@
           "homeLast5": [
             "W",
             "L",
-            "L",
-            "L",
+            "W",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Los Angeles Dodgers vs Colorado Rockies",
-          "betType": "total",
-          "pick": "Over 11.5",
-          "odds": "-115",
+          "game": "Los Angeles Angels @ Houston Astros",
+          "betType": "spread",
+          "pick": "Los Angeles Angels +1.5",
+          "odds": "-157",
           "confidence": "medium",
-          "rationale": "This game is at Coors Field, a known hitter's park, with a projected 25% boost to home runs due to favorable hitting weather. Both starting pitchers have high ERAs, with Colorado's Ryan Feltner holding a 5.59 ERA overall and a 6.69 ERA in games with a significant home run boost. The Dodgers' offense is elite, ranking in the 99th percentile in xSLG against righties and leading the majors in OPS, while the Rockies are third in home OPS. Seven of the Rockies' last eight games after playing the previous day have gone OVER the total, and the Dodgers routed them 11-5 in the series opener.",
-          "awayRecord": "75-51",
-          "homeRecord": "50-75",
+          "rationale": "The Los Angeles Angels offer strong value as underdogs, featuring Walbert Urena (2.67 ERA) on the mound against Houston's Ethan Pecko, who is making his first big league start. The Astros are currently experiencing a three-game losing streak, and the Angels secured a 3-1 victory in the series opener, suggesting a potential shift in momentum. Given Urena's impressive ERA and the uncertainty surrounding Pecko's debut, combined with Houston's recent struggles, the Angels +1.5 spread presents a confident betting opportunity.",
+          "awayRecord": "50-76",
+          "homeRecord": "63-63",
           "awayLast5": [
-            "L",
             "W",
             "L",
+            "W",
             "L",
             "W"
           ],
@@ -97,33 +97,88 @@
             "W",
             "W",
             "L",
-            "W",
+            "L",
             "L"
           ]
         },
         {
-          "game": "Chicago White Sox vs Chicago Cubs",
-          "betType": "total",
-          "pick": "Over 9",
-          "odds": "-122",
+          "game": "Miami Marlins @ Philadelphia Phillies",
+          "betType": "moneyline",
+          "pick": "Philadelphia Phillies (-123)",
+          "odds": "-123",
           "confidence": "medium",
-          "rationale": "Cubs starter Kevin Gausman has struggled since joining the team, allowing 8 runs in 11 innings across two starts for a 6.17 ERA. While White Sox starter Bryan Hudson has a decent 3.14 ERA, both bullpens have ERAs over 4 in their last 10 games, suggesting potential for late-game scoring. Both Chicago teams have shown offensive power, with the White Sox ranking T4th in home runs and the Cubs leading the league in OBP and walks. The combined average runs per game for these two teams in their last 10 outings is 11.4, and the Over has hit in 14 of their last 20 combined games.",
-          "awayRecord": "65-59",
-          "homeRecord": "73-53",
+          "rationale": "The Philadelphia Phillies are playing at home, where they hold a 34-30 record this season, and the home team has historically dominated this matchup, winning seven of the last eight head-to-head games against the Marlins. Despite Aaron Nola's individual struggles (4-9, 5.33 ERA, 0-4 at home), the Phillies are in strong recent form, having won four of their last five games. Conversely, the Miami Marlins possess a poor 26-38 road record and have lost their last nine road games against teams with a winning record. This combination of home-field advantage, recent team success, and the Marlins' road woes provides a solid edge for the Phillies moneyline.",
+          "awayRecord": "64-63",
+          "homeRecord": "69-58",
           "awayLast5": [
             "L",
             "W",
             "W",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
-            "L",
             "W",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
             "W"
           ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Inter Miami CF @ Philadelphia Union",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "Inter Miami CF boasts an excellent overall form, scoring 46 goals this season, and their away form is particularly strong with 8 wins, 1 draw, and 2 losses. Their most recent head-to-head match against Philadelphia Union in May 2026 was a high-scoring affair, ending in a 6-4 victory for Inter Miami. Philadelphia Union has also shown good offensive output with 4 wins in their last 5 matches. Given both teams' attacking prowess and their previous high-scoring encounter, the Over 3.5 goals is a high-confidence pick.",
+          "awayRecord": "11-5-3",
+          "homeRecord": "5-4-10"
+        },
+        {
+          "game": "Charlotte FC @ Toronto FC",
+          "betType": "moneyline",
+          "pick": "Charlotte FC (+180)",
+          "odds": "+180",
+          "confidence": "high",
+          "rationale": "Toronto FC is severely impacted by a lengthy injury list and suspensions, with key players like Deandre Kerr, Djordje Mihailovic, Nelson Palacio, and Jonathan Osorio all unavailable. In contrast, Charlotte FC is in better recent form, showing a W,D,W,L,W record in their last five games. Despite being the away team, Toronto's significant roster depletion provides a strong edge for Charlotte FC to secure a victory at favorable odds.",
+          "awayRecord": "8-4-7",
+          "homeRecord": "4-8-7"
+        },
+        {
+          "game": "St. Louis CITY SC @ Sporting Kansas City",
+          "betType": "moneyline",
+          "pick": "St. Louis CITY SC (-130)",
+          "odds": "-130",
+          "confidence": "high",
+          "rationale": "Sporting Kansas City enters this match in very poor form, on a losing streak, and is heavily depleted by multiple injuries and suspensions, including Kwaku Agyabeng and Moises Mosquera. St. Louis CITY SC, however, is in excellent recent form with a 23-2-5 (W-L-D) record in their last 10 games, averaging 5.4 goals scored per game. The stark contrast in team health and recent performance makes St. Louis CITY SC a high-confidence moneyline pick.",
+          "awayRecord": "8-5-6",
+          "homeRecord": "4-2-13"
+        },
+        {
+          "game": "FC Dallas @ Real Salt Lake",
+          "betType": "moneyline",
+          "pick": "FC Dallas (+260)",
+          "odds": "+260",
+          "confidence": "medium",
+          "rationale": "Real Salt Lake, despite a strong home record, is significantly hampered by defensive injuries, notably with Justen Glad out. FC Dallas, on the other hand, boasts an excellent away form with 5 wins, 2 draws, and 3 losses this season. Furthermore, FC Dallas has a strong recent head-to-head record against RSL, winning three of their last five encounters, including a 3-1 victory in May 2026. Given RSL's defensive woes and Dallas's strong away performance and H2H advantage, FC Dallas at +260 presents significant value.",
+          "awayRecord": "8-6-5",
+          "homeRecord": "8-4-6"
+        },
+        {
+          "game": "Houston Dynamo FC @ Vancouver Whitecaps",
+          "betType": "moneyline",
+          "pick": "Houston Dynamo FC (+460)",
+          "odds": "+460",
+          "confidence": "medium",
+          "rationale": "Vancouver Whitecaps are severely impacted by a substantial number of key players out due to injuries and a visa issue for Aleksa Cvetković. Conversely, Houston Dynamo FC is in very good overall form, winning 58% of their matches, and has a strong defensive record, including a recent shutout streak. Houston also secured a 1-0 victory in the reverse fixture against Vancouver. The extensive absences for Vancouver, coupled with Houston's strong form, make the Houston Dynamo FC moneyline a high-value upset pick.",
+          "awayRecord": "11-2-6",
+          "homeRecord": "11-4-3"
         }
       ]
     }
