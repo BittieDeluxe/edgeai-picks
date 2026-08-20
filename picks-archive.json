@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-08-19",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Dodgers @ Colorado Rockies",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-131",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Dodgers 6, Colorado Rockies 4"
+          },
+          {
+            "game": "Toronto Blue Jays @ Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays -1.5",
+            "odds": "+111",
+            "confidence": "high",
+            "result": "L",
+            "score": "Toronto Blue Jays 6, Tampa Bay Rays 7"
+          },
+          {
+            "game": "Seattle Mariners @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (-118)",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Seattle Mariners 7, Milwaukee Brewers 5"
+          },
+          {
+            "game": "Los Angeles Angels @ Houston Astros",
+            "betType": "spread",
+            "pick": "Los Angeles Angels +1.5",
+            "odds": "-157",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Angels 2, Houston Astros 3"
+          },
+          {
+            "game": "Miami Marlins @ Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Philadelphia Phillies (-123)",
+            "odds": "-123",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 1, Philadelphia Phillies 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Inter Miami CF @ Philadelphia Union",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Inter Miami CF 2, Philadelphia Union 2"
+          },
+          {
+            "game": "Charlotte FC @ Toronto FC",
+            "betType": "moneyline",
+            "pick": "Charlotte FC (+180)",
+            "odds": "+180",
+            "confidence": "high",
+            "result": "L",
+            "score": "Charlotte FC 3, Toronto FC 3"
+          },
+          {
+            "game": "St. Louis CITY SC @ Sporting Kansas City",
+            "betType": "moneyline",
+            "pick": "St. Louis CITY SC (-130)",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "St. Louis CITY SC 1, Sporting Kansas City 1"
+          },
+          {
+            "game": "FC Dallas @ Real Salt Lake",
+            "betType": "moneyline",
+            "pick": "FC Dallas (+260)",
+            "odds": "+260",
+            "confidence": "medium",
+            "result": "W",
+            "score": "FC Dallas 4, Real Salt Lake 3"
+          },
+          {
+            "game": "Houston Dynamo FC @ Vancouver Whitecaps",
+            "betType": "moneyline",
+            "pick": "Houston Dynamo FC (+460)",
+            "odds": "+460",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Dynamo FC 1, Vancouver Whitecaps 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-18",
     "sports": [
       {
@@ -2127,112 +2233,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Chicago White Sox 10, Texas Rangers 3"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-19",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Detroit Tigers @ Los Angeles Angels",
-            "betType": "moneyline",
-            "pick": "Detroit Tigers (-138)",
-            "odds": "-138",
-            "confidence": "high",
-            "result": "L",
-            "score": "Detroit Tigers 2, Los Angeles Angels 3"
-          },
-          {
-            "game": "Cincinnati Reds @ Colorado Rockies",
-            "betType": "moneyline",
-            "pick": "Cincinnati Reds (-164)",
-            "odds": "-164",
-            "confidence": "high",
-            "result": "W",
-            "score": "Cincinnati Reds 9, Colorado Rockies 6"
-          },
-          {
-            "game": "Pittsburgh Pirates @ Cleveland Guardians",
-            "betType": "total",
-            "pick": "Under 6.5 (-120)",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Pittsburgh Pirates 7, Cleveland Guardians 1"
-          },
-          {
-            "game": "San Francisco Giants @ Seattle Mariners",
-            "betType": "total",
-            "pick": "Under 7 (-122)",
-            "odds": "-122",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Francisco Giants 3, Seattle Mariners 6"
-          },
-          {
-            "game": "Baltimore Orioles @ Houston Astros",
-            "betType": "moneyline",
-            "pick": "Baltimore Orioles (+106)",
-            "odds": "+106",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Baltimore Orioles 5, Houston Astros 2"
-          }
-        ]
-      },
-      {
-        "sport": "WORLDCUP",
-        "picks": [
-          {
-            "game": "Argentina @ Spain",
-            "betType": "moneyline",
-            "pick": "Spain (+125)",
-            "odds": "+125",
-            "confidence": "high",
-            "result": "W",
-            "score": "Argentina 0, Spain 1"
-          },
-          {
-            "game": "Argentina @ Spain",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-150",
-            "confidence": "high",
-            "result": "W",
-            "score": "Argentina 0, Spain 1"
-          },
-          {
-            "game": "Argentina @ Spain",
-            "betType": "prop",
-            "pick": "Lionel Messi Anytime Goalscorer",
-            "odds": "+130",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Argentina @ Spain",
-            "betType": "prop",
-            "pick": "Mikel Oyarzabal Anytime Goalscorer",
-            "odds": "+170",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Argentina @ Spain",
-            "betType": "prop",
-            "pick": "Lamine Yamal Anytime Goalscorer",
-            "odds": "+230",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
           }
         ]
       }
