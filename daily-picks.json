@@ -1,129 +1,182 @@
 {
-  "date": "2026-08-20",
-  "generatedAt": "2026-08-20T17:30:09.333Z",
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T17:29:58.605Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "St. Louis Cardinals @ Cincinnati Reds",
+          "game": "St. Louis Cardinals @ Philadelphia Phillies",
+          "betType": "prop",
+          "pick": "Luis Arraez Over 0.5 RBIs",
+          "odds": "+170",
+          "confidence": "high",
+          "rationale": "Luis Arraez is projected to hit cleanup for the Phillies, positioning him behind strong hitters like Kyle Schwarber, Trea Turner, and Bryce Harper, which creates ample RBI opportunities. Arraez's exceptional contact skills against right-handed pitching, facing Cardinals' starter Hunter Dobbins (3.42 ERA, 1.30 WHIP), further enhance his chances to drive in runs. The +170 odds imply only a 37.0% win probability, offering significant value given his expected lineup spot and ability to put the ball in play. The Phillies are also a red-hot team, which should lead to more runners on base for Arraez.",
+          "propPlayer": "Luis Arraez",
+          "propTeam": "Philadelphia Phillies",
+          "awayRecord": "66-63",
+          "homeRecord": "70-58",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Cleveland Guardians @ Colorado Rockies",
+          "betType": "prop",
+          "pick": "Tanner Gordon Over 5.5 Hits Allowed",
+          "odds": "-152",
+          "confidence": "high",
+          "rationale": "Rockies pitcher Tanner Gordon has a 0-3 record with a 5.55 ERA and has already allowed 90 hits in 71.1 innings this season. He faces a Cleveland Guardians lineup that is adept at putting the ball in play, which is a significant factor in the hitter-friendly environment of Coors Field. A simulation projects this prop to hit with a 70.2% probability, comfortably exceeding the 60.3% breakeven rate at -152 odds. The Guardians have also hit the run line in 10 of their last 17 away games, indicating their offense is capable on the road.",
+          "propPlayer": "Tanner Gordon",
+          "propTeam": "Colorado Rockies",
+          "awayRecord": "62-66",
+          "homeRecord": "50-77",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Pittsburgh Pirates @ Los Angeles Dodgers",
           "betType": "total",
-          "pick": "Under 10.5",
+          "pick": "Los Angeles Dodgers Team Total Under 4.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "The Dodgers face Yoshinobu Yamamoto, who boasts a strong 2.60 ERA and 1.02 WHIP across 129 innings this season, making him a formidable opponent. The Dodgers have a historical trend of hitting the team total under at home, with a 21-42 record on home team-total over/unders, indicating a strong historical edge for the under. While the Dodgers are favored, the line movement has seen their moneyline strengthen, but the team total under 4.5 has remained at -105, suggesting value. This bet allows for a Dodgers win of 4-1, 4-2, or 3-2, providing a cushion against their -225 moneyline.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "63-66",
+          "homeRecord": "77-51",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Athletics @ Houston Astros",
+          "betType": "total",
+          "pick": "Athletics Team Total Under 3.5",
+          "odds": "-130",
+          "confidence": "medium",
+          "rationale": "The Athletics are facing Houston's Hayden Wesneski, who has a 2-1 record with a 5.16 ERA, but the Athletics offense has been struggling, reflected in their 49-79 record this season. Athletics shortstop Jacob Wilson is expected to miss the rest of the season due to a left shoulder injury, further weakening their lineup. Oakland's road team-total under has been profitable, aligning with the expectation of a low-scoring output from them. The projected final score of Astros 5, Athletics 2 supports the Athletics staying under 3.5 runs.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "49-79",
+          "homeRecord": "64-64",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Minnesota Twins @ San Diego Padres",
+          "betType": "total",
+          "pick": "Over 8",
+          "odds": "-122",
+          "confidence": "medium",
+          "rationale": "The Minnesota Twins have been a strong 'Over' bet on the road in first-five innings, with a 38-19 record to the Over, indicating early scoring potential. While the full game total is 8, the Twins' strong road splits for early scoring suggest the game could trend over. The Padres' starting pitcher is TBD, which could present an exploitable matchup for the Twins' offense. Additionally, the Twins have hit the game total Over in 67 of their 120 games this season, showing a consistent offensive output.",
+          "awayRecord": "63-65",
+          "homeRecord": "68-60",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "LA Galaxy @ CF Montreal",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-185",
+          "confidence": "high",
+          "rationale": "CF Montreal enters this match significantly hampered by injuries, with five key players sidelined due to various knock and muscle issues, which is likely to compromise their defensive solidity. Their recent form has seen them concede six goals in their last five matches, including a 0-1 home loss and a 1-1 home draw. The LA Galaxy, despite mixed overall form, have shown a propensity for high-scoring games on the road, with over half of their away matches featuring three or more goals. Furthermore, the Galaxy has scored in 86% of their MLS games this season, contributing to the likelihood of this match exceeding the 2.5 goal total."
+        },
+        {
+          "game": "D.C. United @ Charlotte FC",
+          "betType": "moneyline",
+          "pick": "Charlotte FC",
           "odds": "-130",
           "confidence": "high",
-          "rationale": "Cincinnati's offense has been anemic recently, posting a 74 wRC+ over the last 30 days, which is the second-worst mark in Major League Baseball. While Great American Ball Park is known as a hitter-friendly venue, both starting pitchers, Michael McGreevy (3.48 ERA) and Brady Singer (4.66 ERA), have shown periods of effectiveness. The Cardinals' offense, though better than the Reds', is not explosive, ranking 18th in wRC+ over the past month. This combination of struggling offenses and decent pitching points towards a lower-scoring game, making the Under 10.5 a confident pick.",
-          "awayRecord": "65-63",
-          "homeRecord": "61-66",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
+          "rationale": "Charlotte FC holds a significant advantage playing at home, boasting a strong record of 6 wins, 3 draws, and only 2 losses in their home matches this season. In stark contrast, D.C. United is in poor overall form with a 5-9-5 record and is coming off a demoralizing 0-3 loss just two days prior to this fixture. The short rest period for D.C. United following a heavy defeat, combined with Charlotte's solid home performance, creates a clear edge for the home side to secure a victory."
         },
         {
-          "game": "Athletics @ Kansas City Royals",
-          "betType": "spread",
-          "pick": "Kansas City Royals -1.5",
-          "odds": "+150",
-          "confidence": "high",
-          "rationale": "The Athletics are in a severe slump, having lost 16 of their last 20 games and already dropping the first three games of this series to the Royals. Kansas City will send RHP Randy Dobnak (2-1, 1.73 ERA) to the mound, who has been excellent this season, while the Athletics counter with LHP Gage Jump (5-7, 4.50 ERA). The Royals won the previous game 9-5, demonstrating their offensive capability against a struggling Athletics team. Given the Athletics' poor form and the pitching mismatch, the Royals are well-positioned to secure a comfortable win and cover the run line at favorable odds.",
-          "awayRecord": "49-78",
-          "homeRecord": "54-74",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ Chicago White Sox",
-          "betType": "spread",
-          "pick": "Chicago White Sox +1.5",
-          "odds": "-188",
-          "confidence": "high",
-          "rationale": "The White Sox boast an MLB-best 76-50 record against the Run Line this season, indicating their strong performance in covering spreads. Their starting pitcher, Anthony Kay (9-5, 4.01 ERA), has been remarkably consistent, not allowing more than three earned runs in any of his last ten starts. Conversely, Braves starter Grant Holmes (7-5, 3.82 ERA) was torched for six earned runs in his most recent outing, and the Braves' offense has struggled, scoring only seven runs in their last three games. This combination of White Sox's strong ATS record, Kay's reliability, and the Braves' recent offensive and pitching woes makes the White Sox +1.5 a confident pick.",
-          "awayRecord": "74-53",
-          "homeRecord": "66-60",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "New York Yankees @ Baltimore Orioles",
+          "game": "Chicago Fire @ New York Red Bulls",
           "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-108",
+          "pick": "Over 3.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Yankees ace Gerrit Cole (6-6, 3.23 ERA) has been in dominant form, not allowing more than two runs in any of his starts for nearly a month. Orioles starter Kyle Bradish (7-11, 3.69 ERA) also held the Yankees scoreless over six innings in their last head-to-head matchup. Furthermore, the Under has a strong trend when the Yankees play as road favorites, with a 37-18-2 record in such situations. While the Yankees' bullpen might be fatigued after pitching ten innings in the last two games, Cole's ability to go deep into games and Bradish's past success against New York support a low-scoring affair.",
-          "awayRecord": "71-55",
-          "homeRecord": "61-66",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ]
+          "rationale": "The New York Red Bulls consistently feature in high-scoring affairs, with 70% of their last 20 games going over 2.5 goals and averaging an impressive 3.8 goals per match. Their recent results further illustrate this trend, with scores like 3-2, 1-3, and 3-1 in their last ten outings. While specific recent form for Chicago Fire was not detailed, the Red Bulls' strong offensive output and tendency to concede, as reflected in their average of 3.8 goals per game, strongly indicate that this match will surpass the 3.5 goal total."
         },
         {
-          "game": "Washington Nationals @ Texas Rangers",
-          "betType": "spread",
-          "pick": "Washington Nationals +1.5",
-          "odds": "-152",
+          "game": "Seattle Sounders FC @ FC Cincinnati",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-115",
           "confidence": "medium",
-          "rationale": "While Jacob deGrom (8-8, 3.95 ERA) is a formidable pitcher for the Rangers, he is coming off a start where he left due to triceps fatigue and is pitching on extra rest, raising questions about his full effectiveness. The Nationals, despite their overall record, just secured a dominant 6-0 shutout victory, with their starter Cade Cavalli striking out 11. The Rangers have been struggling recently, dropping out of a wild card spot and losing four of their last five games. Given deGrom's potential health concerns and the Rangers' recent poor form, the Nationals are a solid bet to keep this game within one run.",
-          "awayRecord": "61-67",
-          "homeRecord": "62-65",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
+          "rationale": "FC Cincinnati is in formidable offensive form, having scored 11 goals in their last 5 matches, which translates to an average of 2.4 goals per game. Although Seattle Sounders FC is in poorer overall form, they have still managed to find the back of the net 5 times in their last 5 matches, indicating their ability to contribute to the scoreline. Furthermore, head-to-head history between these two teams shows that both teams have scored in 67% of their previous encounters. Given Cincinnati's recent goal-scoring prowess and Seattle's offensive contributions, a high-scoring contest is highly probable."
+        },
+        {
+          "game": "Toronto FC @ Inter Miami CF",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-150",
+          "confidence": "medium",
+          "rationale": "Inter Miami CF stands as a top-tier offensive team in MLS, currently ranked 2nd in the standings with an excellent overall record. Their attacking prowess is evident in their average of 2.5 goals per game this season, a figure that rises to 2.6 goals per game when playing at home. Despite a recent 1-4 loss, their consistent high-scoring performances, particularly in front of their home crowd, suggest they will be a major contributor to the total. This strong offensive output makes the Over 3.5 goals a confident selection for this match."
         }
       ]
     }
