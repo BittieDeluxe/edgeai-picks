@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-08-21",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "St. Louis Cardinals @ Philadelphia Phillies",
+            "betType": "prop",
+            "pick": "Luis Arraez Over 0.5 RBIs",
+            "odds": "+170",
+            "confidence": "high",
+            "result": "L",
+            "score": "Luis Arraez: 0 RBIs (line 0.5)"
+          },
+          {
+            "game": "Cleveland Guardians @ Colorado Rockies",
+            "betType": "prop",
+            "pick": "Tanner Gordon Over 5.5 Hits Allowed",
+            "odds": "-152",
+            "confidence": "high",
+            "result": "?",
+            "score": "Tanner Gordon: \"Hits Allowed\" not auto-gradeable"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Los Angeles Dodgers",
+            "betType": "total",
+            "pick": "Los Angeles Dodgers Team Total Under 4.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Pittsburgh Pirates 4, Los Angeles Dodgers 5"
+          },
+          {
+            "game": "Athletics @ Houston Astros",
+            "betType": "total",
+            "pick": "Athletics Team Total Under 3.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Athletics 0, Houston Astros 4"
+          },
+          {
+            "game": "Minnesota Twins @ San Diego Padres",
+            "betType": "total",
+            "pick": "Over 8",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "P",
+            "score": "Minnesota Twins 2, San Diego Padres 6"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "LA Galaxy @ CF Montreal",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-185",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "D.C. United @ Charlotte FC",
+            "betType": "moneyline",
+            "pick": "Charlotte FC",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Chicago Fire @ New York Red Bulls",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Seattle Sounders FC @ FC Cincinnati",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Toronto FC @ Inter Miami CF",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-150",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-20",
     "sports": [
       {
@@ -2127,112 +2233,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Minnesota United FC 1, Sporting Kansas City 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-21",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Detroit Tigers @ Chicago Cubs",
-            "betType": "moneyline",
-            "pick": "Detroit Tigers",
-            "odds": "+102",
-            "confidence": "high",
-            "result": "L",
-            "score": "Detroit Tigers 2, Chicago Cubs 11"
-          },
-          {
-            "game": "Tampa Bay Rays @ Toronto Blue Jays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Tampa Bay Rays 12, Toronto Blue Jays 2"
-          },
-          {
-            "game": "Minnesota Twins @ Cleveland Guardians",
-            "betType": "spread",
-            "pick": "Cleveland Guardians -1.5",
-            "odds": "+134",
-            "confidence": "high",
-            "result": "W",
-            "score": "Minnesota Twins 2, Cleveland Guardians 5"
-          },
-          {
-            "game": "Chicago White Sox @ Texas Rangers",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago White Sox 0, Texas Rangers 10"
-          },
-          {
-            "game": "Pittsburgh Pirates @ New York Yankees",
-            "betType": "total",
-            "pick": "Over 9.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Pittsburgh Pirates 5, New York Yankees 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "New York City FC @ Columbus Crew SC",
-            "betType": "moneyline",
-            "pick": "Columbus Crew SC",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "New York Red Bulls @ Philadelphia Union",
-            "betType": "moneyline",
-            "pick": "New York Red Bulls",
-            "odds": "+330",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Vancouver Whitecaps FC @ FC Cincinnati",
-            "betType": "moneyline",
-            "pick": "Vancouver Whitecaps FC",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Toronto FC @ New England Revolution",
-            "betType": "moneyline",
-            "pick": "New England Revolution",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Toronto FC 0, New England Revolution 0"
-          },
-          {
-            "game": "Chicago Fire @ Inter Miami CF",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
           }
         ]
       }
