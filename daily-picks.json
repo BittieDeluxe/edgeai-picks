@@ -1,127 +1,127 @@
 {
-  "date": "2026-08-22",
-  "generatedAt": "2026-08-22T17:21:26.708Z",
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T13:30:11.501Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Cincinnati Reds @ Arizona Diamondbacks",
-          "betType": "moneyline",
-          "pick": "Arizona Diamondbacks",
-          "odds": "-165",
+          "game": "Pittsburgh Pirates @ Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5 (-125)",
+          "odds": "-125",
           "confidence": "high",
-          "rationale": "The Arizona Diamondbacks are in strong form, having dominated the Reds 9-0 in the series opener. Arizona's starting pitcher, Michael Soroka, boasts an 8-3 record with a 2.93 ERA, and his team has won 70% of games when he starts as a moneyline favorite. Significant line movement favors the Diamondbacks, with their moneyline shifting from -155 to -170 and attracting 80% of moneyline bets and dollars. Furthermore, Arizona has an impressive 18-6 record (75% win rate) with a 24% ROI when favored at home with line movement against sub-.500 teams, indicating sharp money confidence.",
-          "awayRecord": "61-68",
-          "homeRecord": "68-61",
+          "rationale": "The Los Angeles Dodgers are on an impressive five-game winning streak, including a 4-3 victory over the Pirates yesterday. Their offense has been potent, hitting 15 home runs and slugging .422 over the last 10 games, with Max Muncy and Shohei Ohtani showing exceptional form. The Pirates' starting pitcher, Lake Bachar, has a 3.75 ERA and is making only his sixth start of the season, which presents a significant challenge against a hot Dodgers lineup. With the Dodgers playing at home and aiming for a sweep, they have a strong advantage to cover the -1.5 spread.",
+          "awayRecord": "63-68",
+          "homeRecord": "79-51",
           "awayLast5": [
-            "W",
             "L",
+            "W",
             "W",
             "L",
             "L"
           ],
           "homeLast5": [
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
             "W",
             "W"
+          ]
+        },
+        {
+          "game": "New York Mets @ Chicago White Sox",
+          "betType": "total",
+          "pick": "Under 8.5 (-124)",
+          "odds": "-124",
+          "confidence": "high",
+          "rationale": "The total for this game is set at 8.5, with the Under at -124, aligning with a 'Sunday Unders on Over Streak' system. This system suggests that Sunday games, often with early starts and potential lineup adjustments, tend to be lower-scoring as offenses may be fatigued. The Chicago White Sox are significantly impacted by injuries, with multiple key players, including catchers and pitchers, on the injured list, which could hinder their offensive and defensive output. Despite the Mets' recent winning record, the White Sox are fighting for their division, indicating a potentially tight, lower-scoring contest.",
+          "awayRecord": "59-71",
+          "homeRecord": "67-62",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Athletics @ Houston Astros",
+          "betType": "spread",
+          "pick": "Houston Astros -1.5 (+118)",
+          "odds": "+118",
+          "confidence": "high",
+          "rationale": "The Houston Astros, currently leading the AL West, are playing at home against the last-place Athletics. The Athletics are severely hampered by extensive injuries, with several key players on the 60-day injured list, effectively ending their season. Houston is motivated to 'get back to basics' after recent struggles and needs to string together wins to solidify their playoff position. Given the Athletics' poor form and significant injury woes, the Astros are well-positioned to cover the -1.5 spread at home.",
+          "awayRecord": "50-80",
+          "homeRecord": "65-65",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
           ]
         },
         {
           "game": "San Francisco Giants @ Boston Red Sox",
           "betType": "moneyline",
-          "pick": "Boston Red Sox",
-          "odds": "-205",
-          "confidence": "high",
-          "rationale": "The Boston Red Sox offense is in excellent recent form, hitting 14 home runs and slugging .475 with a .284 batting average over their last 10 games. Giants starting pitcher Blade Tidwell has struggled, giving up six earned runs in his most recent outing. The Giants also face a significant offensive setback with Casey Schmitt, a key contributor with 21 home runs and 55 RBIs, listed as day-to-day with a leg injury. With the Red Sox playing at home and their offense clicking, they have a clear advantage.",
-          "awayRecord": "52-76",
-          "homeRecord": "69-59",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Toronto Blue Jays @ New York Yankees",
-          "betType": "moneyline",
-          "pick": "New York Yankees",
-          "odds": "-104",
-          "confidence": "high",
-          "rationale": "The New York Yankees are currently on a five-game winning streak and defeated the Blue Jays 3-1 in the opening game of this series. While Vladimir Guerrero Jr. is returning for Toronto, the Yankees' offense has been potent, hitting nine home runs in their last 10 games. Trent Grisham has been a standout for New York, batting .316 with four home runs and 10 RBIs over the last 10 contests. Blue Jays starter Dylan Cease allowed two earned runs to the Yankees in his last start, indicating the Yankees can get to him.",
-          "awayRecord": "63-67",
-          "homeRecord": "73-55",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Cleveland Guardians @ Colorado Rockies",
-          "betType": "spread",
-          "pick": "Cleveland Guardians -1.5",
-          "odds": "+106",
+          "pick": "Boston Red Sox (-210)",
+          "odds": "-210",
           "confidence": "medium",
-          "rationale": "The Cleveland Guardians are coming off a dominant 9-1 victory against the Colorado Rockies, extending Colorado's losing streak to four games. Rockies starting pitcher Tanner Gordon struggled in his last outing, surrendering five earned runs in just 5.1 innings. The Guardians' pitching staff has been in excellent form, posting a collective 2.86 ERA over their last 10 games. Conversely, the Rockies' offense has been anemic, batting only .214 with eight home runs in their last 10 games and leaving 11 runners on base in their previous contest.",
-          "awayRecord": "63-66",
-          "homeRecord": "50-78",
+          "rationale": "The Boston Red Sox are favored at home with a moneyline of -210, and numberFire's model gives them a high 71.94% win probability. The Red Sox have a strong 70-59 record and are actively contending for a playoff spot, while the Giants are a struggling team with a 52-77 record. Although the Giants' model projection contradicts the moneyline, the Red Sox won their most recent head-to-head matchup on August 21. Despite some Red Sox injuries, their overall team strength and home-field advantage at Fenway Park provide a significant edge.",
+          "awayRecord": "52-77",
+          "homeRecord": "70-59",
           "awayLast5": [
             "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
             "W",
             "L",
             "W",
             "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
           ]
         },
         {
-          "game": "Tampa Bay Rays @ Baltimore Orioles",
-          "betType": "total",
-          "pick": "Over 8",
-          "odds": "-106",
+          "game": "Detroit Tigers @ Kansas City Royals",
+          "betType": "prop",
+          "pick": "Bobby Witt Jr. Over 1.5 hits",
+          "odds": "N/A",
           "confidence": "medium",
-          "rationale": "Both the Tampa Bay Rays and Baltimore Orioles have demonstrated strong offensive production recently, making the Over 8 total runs an attractive pick. The Orioles have hit 19 home runs and slugged an impressive .446 over their last 10 games, averaging 8.4 hits per contest. Pete Alonso has been a key power threat for Baltimore, with five home runs and 10 RBIs in his last 10 outings. The Rays' offense is equally potent, with 13 home runs, a .432 slugging percentage, and an average of 10.0 hits per game over their last 10.",
-          "awayRecord": "76-52",
-          "homeRecord": "62-67",
+          "rationale": "Bobby Witt Jr. of the Kansas City Royals has been in exceptional form recently, boasting a .444 batting average with 4 hits in his last 2 games since August 16, 2026. He is an active player for today's game against the Detroit Tigers. Witt Jr. has consistently demonstrated strong offensive production throughout the 2026 season, maintaining a .288 batting average. His current hot streak and proven hitting ability make him a high-confidence pick to record over 1.5 hits in this matchup.",
+          "awayRecord": "61-68",
+          "homeRecord": "57-74",
           "awayLast5": [
             "W",
             "L",
-            "W",
+            "L",
             "L",
             "L"
           ],
           "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
+            "W",
             "W"
           ]
         }
@@ -131,54 +131,54 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "Seattle Sounders FC @ FC Cincinnati",
-          "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "Seattle Sounders FC is significantly hampered by an 'availability cluster' and 'depleted attacking options' due to injuries and travel, which is expected to severely limit their offensive production. While FC Cincinnati has a tendency for high-scoring games, their defensive profile is described as 'leakier at the back' with a high xGA/90, suggesting they may concede but not necessarily contribute to an overly high total themselves. The Under 3.5 line is attractive as it provides a buffer, allowing for a 2-1 or 3-0 Cincinnati victory without busting the bet. This pick capitalizes on Seattle's reduced attacking threat and the forgiving nature of the 3.5 goal line.",
-          "awayRecord": "7-3-9",
-          "homeRecord": "8-6-6"
-        },
-        {
-          "game": "Toronto FC @ Inter Miami CF",
-          "betType": "total",
-          "pick": "Over 4.5",
+          "game": "New York City FC @ New England Revolution",
+          "betType": "moneyline",
+          "pick": "New England Revolution",
           "odds": "+120",
           "confidence": "high",
-          "rationale": "Toronto FC is in poor form, particularly away from home with zero wins and five losses in eight away matches, and has conceded 33 goals in 18 games this season. Their matches frequently exceed 2.5 goals, occurring in 66.7% of their games, including a recent 3-3 draw. Inter Miami, boasting a strong 11-6-3 record, will be playing at home and has a history of high-scoring encounters with Toronto, including a 4-2 victory in May 2026. Given Toronto's defensive vulnerabilities and Miami's offensive prowess at home, this game is primed for a high-scoring affair, making the Over 4.5 at plus money a valuable play.",
-          "awayRecord": "4-9-7",
-          "homeRecord": "11-6-3"
+          "rationale": "The New England Revolution boast a formidable home record of 8 wins, 1 draw, and 2 losses this season, demonstrating their strength at Gillette Stadium. New York City FC comes into this match severely depleted, with seven players listed as out due to injury, including key attacker Maxi Moralez. The Revolution are also in excellent recent form, having won four of their last five games. Furthermore, the moneyline has seen movement towards New England, indicating sharp money backing the home side.",
+          "awayRecord": "7-5-8",
+          "homeRecord": "10-3-7"
         },
         {
-          "game": "Houston Dynamo FC @ St. Louis CITY SC",
+          "game": "Sporting Kansas City @ Atlanta United FC",
           "betType": "moneyline",
-          "pick": "Houston Dynamo FC",
-          "odds": "+220",
-          "confidence": "medium",
-          "rationale": "Houston Dynamo FC enters this match in exceptional form, sitting 3rd in the Western Conference with a 12-2-6 record and achieving a remarkable five consecutive shutout victories, a rare feat in MLS history. They have maintained a clean sheet for 462 minutes, showcasing an incredibly robust defense. Despite St. Louis CITY SC playing at home, Houston's current momentum, defensive solidity, and strong away record of 5-1-4 present a compelling case for them as an underdog. This pick leverages Houston's outstanding recent performance and defensive strength against a St. Louis team that has not demonstrated the same level of dominance.",
-          "awayRecord": "12-2-6",
-          "homeRecord": "8-6-6"
+          "pick": "Atlanta United FC",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "Atlanta United FC enters this contest on a two-game winning streak and will be playing at home, where they typically perform better. Sporting Kansas City, in contrast, has a dismal away record, having lost 14 of their last 16 road matches. Atlanta also holds a recent head-to-head advantage at home, securing a 3-1 victory in their last MLS encounter against Sporting Kansas City. Key midfielder Tristan Muyumba is in exceptional scoring form for Atlanta, having found the back of the net in three consecutive matches.",
+          "awayRecord": "4-3-13",
+          "homeRecord": "5-3-12"
         },
         {
-          "game": "Colorado Rapids @ San Diego FC",
-          "betType": "moneyline",
-          "pick": "San Diego FC",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "The Colorado Rapids, while on a three-match winning streak, have achieved all these victories at home, with their away form being notably poor (2 wins, 1 draw, 7 losses). Furthermore, key players Hamzat Ojediran and Miguel Navarro were injured in their last match, casting doubt on their availability and effectiveness. San Diego FC, playing at home, holds a respectable 4-3-3 home record and had a three-match unbeaten streak in league play recently snapped. The combination of Colorado's poor away performance, potential injury concerns, and San Diego's home advantage makes San Diego FC a strong moneyline pick.",
-          "awayRecord": "9-1-10",
-          "homeRecord": "6-6-8"
+          "game": "Sporting Kansas City @ Atlanta United FC",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-175",
+          "confidence": "high",
+          "rationale": "The total line for this match has seen significant movement towards the Under 3.5, shifting from an opening of -159 to the current -175, suggesting sharp money is backing a lower-scoring affair. While both teams have had some higher-scoring games, Atlanta United's last 10 league matches have averaged 3.2 total goals, and Sporting Kansas City's last 10 have averaged 3.4 total goals. These averages align with the market's expectation for fewer than 3.5 goals in this matchup.",
+          "awayRecord": "4-3-13",
+          "homeRecord": "5-3-12"
         },
         {
-          "game": "Philadelphia Union @ Austin FC",
+          "game": "New York City FC @ New England Revolution",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "New York City FC is severely hampered by injuries, with seven players listed as out, including influential attacker Maxi Moralez, which will likely curtail their offensive output. The New England Revolution possess a solid home defense, having conceded only 10 goals in 11 home matches this season. Historically, only one of the last eight head-to-head league matches between these two clubs saw New England score three or more goals, further supporting a tighter, lower-scoring contest.",
+          "awayRecord": "7-5-8",
+          "homeRecord": "10-3-7"
+        },
+        {
+          "game": "New York City FC @ New England Revolution",
           "betType": "total",
           "pick": "Over 2.5",
-          "odds": "-175",
+          "odds": "-150",
           "confidence": "medium",
-          "rationale": "Austin FC's matches consistently feature a high number of goals, with over 2.5 goals occurring in 66.7% of their last 24 games, averaging 3.04 goals per match. Austin also holds a solid home record of 4-2-3, indicating their ability to score when playing in front of their fans. While Philadelphia Union's record is balanced, Austin's consistent offensive output and propensity for higher-scoring games, combined with the Union's capacity to contribute goals, strongly support the Over 2.5. The odds heavily favor the over, reflecting market confidence in a game with at least three goals.",
-          "awayRecord": "5-5-10",
-          "homeRecord": "5-5-10"
+          "rationale": "Despite New York City FC's injury concerns, the New England Revolution have shown a strong offensive presence at home, averaging 3.1 total goals per game in their 11 home matches this season. Four of New England's last five games across all competitions have seen the total go Over 2.5 goals. While historical head-to-head trends might suggest a lower-scoring affair, New England's current home scoring form and both teams' overall offensive capabilities (New England 32 goals, NYCFC 34 goals in 20 matches) point towards a reasonable chance for this game to exceed 2.5 goals.",
+          "awayRecord": "7-5-8",
+          "homeRecord": "10-3-7"
         }
       ]
     }
