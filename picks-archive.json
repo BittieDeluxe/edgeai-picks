@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-08-23",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Pittsburgh Pirates @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5 (-125)",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Pirates 0, Los Angeles Dodgers 4"
+          },
+          {
+            "game": "New York Mets @ Chicago White Sox",
+            "betType": "total",
+            "pick": "Under 8.5 (-124)",
+            "odds": "-124",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Mets 1, Chicago White Sox 2"
+          },
+          {
+            "game": "Athletics @ Houston Astros",
+            "betType": "spread",
+            "pick": "Houston Astros -1.5 (+118)",
+            "odds": "+118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Athletics 7, Houston Astros 6"
+          },
+          {
+            "game": "San Francisco Giants @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox (-210)",
+            "odds": "-210",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Francisco Giants 4, Boston Red Sox 5"
+          },
+          {
+            "game": "Detroit Tigers @ Kansas City Royals",
+            "betType": "prop",
+            "pick": "Bobby Witt Jr. Over 1.5 hits",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Bobby Witt Jr.: 1 hits (line 1.5)"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "New York City FC @ New England Revolution",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York City FC 1, New England Revolution 1"
+          },
+          {
+            "game": "Sporting Kansas City @ Atlanta United FC",
+            "betType": "moneyline",
+            "pick": "Atlanta United FC",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "W",
+            "score": "Sporting Kansas City 1, Atlanta United FC 2"
+          },
+          {
+            "game": "Sporting Kansas City @ Atlanta United FC",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "W",
+            "score": "Sporting Kansas City 1, Atlanta United FC 2"
+          },
+          {
+            "game": "New York City FC @ New England Revolution",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York City FC 1, New England Revolution 1"
+          },
+          {
+            "game": "New York City FC @ New England Revolution",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-150",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York City FC 1, New England Revolution 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-22",
     "sports": [
       {
@@ -2177,62 +2283,6 @@
             "confidence": "medium",
             "result": "?",
             "score": ""
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-23",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "San Diego Padres @ Atlanta Braves",
-            "betType": "spread",
-            "pick": "Atlanta Braves -2.5",
-            "odds": "+154",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Diego Padres 5, Atlanta Braves 6"
-          },
-          {
-            "game": "Tampa Bay Rays @ Toronto Blue Jays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-116",
-            "confidence": "high",
-            "result": "L",
-            "score": "Tampa Bay Rays 1, Toronto Blue Jays 3"
-          },
-          {
-            "game": "Arizona Diamondbacks @ St. Louis Cardinals",
-            "betType": "moneyline",
-            "pick": "Arizona Diamondbacks",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "W",
-            "score": "Arizona Diamondbacks 10, St. Louis Cardinals 6"
-          },
-          {
-            "game": "Kansas City Royals @ Detroit Tigers",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Kansas City Royals 3, Detroit Tigers 4"
-          },
-          {
-            "game": "San Diego Padres @ Atlanta Braves",
-            "betType": "total",
-            "pick": "Under 9.5",
-            "odds": "+104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Diego Padres 5, Atlanta Braves 6"
           }
         ]
       }
