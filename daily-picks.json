@@ -1,71 +1,77 @@
 {
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-24T17:32:02.940Z",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-25T17:33:05.363Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Colorado Rockies vs Washington Nationals",
-          "betType": "spread",
-          "pick": "Washington Nationals -1.5",
-          "odds": "+114",
+          "game": "Kansas City Royals vs Toronto Blue Jays",
+          "betType": "moneyline",
+          "pick": "Kansas City Royals (+116)",
+          "odds": "+116",
           "confidence": "high",
-          "rationale": "The Washington Nationals are starting Cade Cavalli, who holds an impressive 11-5 record with a 3.22 ERA this season. In contrast, the Colorado Rockies' probable starter, Kyle Freeland, is day-to-day with neck tightness and carries a high 6.37 ERA. The Rockies are in poor form, currently on a six-game losing streak and batting a dismal .217 over their last 10 games. Given the Nationals' stronger pitching and the Rockies' significant struggles, Washington is well-positioned to win by more than one run.",
-          "awayRecord": "50-80",
-          "homeRecord": "61-71",
+          "rationale": "The Kansas City Royals enter this game on an impressive eight-game winning streak, demonstrating strong recent form. Despite public money favoring Toronto, the line has shifted more favorably towards Kansas City, suggesting sharp action on the underdog. Toronto has dropped two of its last three games, including a series loss to the Yankees, indicating some recent struggles. With Kansas City's momentum and a more favorable pitching matchup against Toronto, the Royals present good value as an underdog.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "58-74",
+          "homeRecord": "64-68",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers vs New York Mets",
+          "betType": "total",
+          "pick": "Over 7.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "The Milwaukee Brewers offense is one of the best in baseball, and they are facing a Mets team with a depleted lineup due to injuries to Juan Soto (calf strain) and Mark Vientos (hand issue). While Mets rookie Zach Thornton has a decent ERA, underlying metrics suggest regression is coming, and the Mets bullpen has been poor, especially after recent deadline trades. Despite Kyle Harrison's strong pitching for Milwaukee, the Brewers tend to limit his innings, bringing their bullpen into play earlier. With neutral weather conditions in Queens, there's a good chance for runs, making the Over 7.5 an attractive play.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "81-50",
+          "homeRecord": "59-72",
           "awayLast5": [
             "L",
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W",
             "L",
-            "L",
-            "L",
+            "W",
             "L"
           ]
         },
         {
           "game": "Texas Rangers vs Chicago White Sox",
           "betType": "moneyline",
-          "pick": "Chicago White Sox (-130)",
-          "odds": "-130",
+          "pick": "Texas Rangers (-110)",
+          "odds": "-110",
           "confidence": "high",
-          "rationale": "The betting market shows strong support for the Chicago White Sox, with their moneyline moving from +109/-131 to +120/-129, indicating sharp money is backing them. The White Sox also have a recent head-to-head advantage, having taken two out of three games from the Rangers last month. Texas is significantly hampered by injuries to key hitters Josh Jung and Kyle Higashioka, which weakens their lineup considerably. With White Sox starter Jose Urquidy coming off a six-inning shutout performance, Chicago has a clear edge at home.",
-          "awayRecord": "65-66",
-          "homeRecord": "68-62",
+          "rationale": "The Texas Rangers have Jacob deGrom on the mound, who is coming off a dominant outing with 10 strikeouts over six scoreless innings. deGrom holds a clear starting pitching advantage over Chicago's Anthony Kay, whose underlying metrics are less convincing despite a decent ERA. The Rangers' offense has been strong since June 1, posting a 127 wRC+ and a .352 wOBA, even with Josh Jung sidelined. With Texas having won four of their last five games and a significant pitching mismatch, the Rangers moneyline offers value.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "66-66",
+          "homeRecord": "68-63",
           "awayLast5": [
-            "L",
             "W",
             "W",
             "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Cleveland Guardians vs Los Angeles Angels",
-          "betType": "spread",
-          "pick": "Cleveland Guardians -1.5",
-          "odds": "+102",
-          "confidence": "high",
-          "rationale": "The Cleveland Guardians boast a strong starting pitcher with a 9-8 record and a 2.54 ERA, who recently allowed just one earned run over 6 2/3 innings. Cleveland's pitching staff as a whole has been excellent, posting a collective 2.63 ERA over their last 10 games. The Los Angeles Angels, conversely, are riddled with injuries, featuring an extensive list of players on the IL including multiple key position players and pitchers. This combination of superior pitching and the Angels' depleted roster gives the Guardians a significant advantage to win by multiple runs.",
-          "awayRecord": "65-66",
-          "homeRecord": "52-79",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
             "W",
             "W"
           ],
@@ -78,48 +84,50 @@
           ]
         },
         {
-          "game": "Chicago Cubs vs Arizona Diamondbacks",
-          "betType": "spread",
-          "pick": "Chicago Cubs -1.5",
-          "odds": "+113",
+          "game": "Cleveland Guardians vs Los Angeles Angels",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-124",
           "confidence": "medium",
-          "rationale": "Arizona Diamondbacks starter Merrill Kelly has struggled recently, giving up six earned runs in just four innings in his last outing, contributing to the team's 5.37 ERA. The Diamondbacks' pitching staff has a concerning 5.22 ERA and has allowed 15 home runs over their last 10 games, indicating vulnerability. The Chicago Cubs' offense, despite some injuries, demonstrated explosive potential by scoring 19 runs in their most recent game on Sunday. This offensive momentum against a struggling pitching staff positions the Cubs favorably for a decisive victory.",
-          "awayRecord": "75-56",
-          "homeRecord": "69-62",
+          "rationale": "Both starting pitchers, Gavin Williams for the Guardians and Walbert Ureña for the Angels, have shown strong recent form, particularly Ureña at home with a 2.27 ERA. Both teams have been involved in lower-scoring games recently, with a combined 13-4-1 record to the under in their last 18 games. The bullpens for both Cleveland and Los Angeles have been in excellent form, boasting a combined 3.77 ERA over their last 10 games. Given the strong pitching and recent low-scoring trends, the Under 7.5 is a confident pick.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "66-66",
+          "homeRecord": "52-80",
           "awayLast5": [
             "W",
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
             "W"
           ],
           "homeLast5": [
-            "L",
-            "W",
             "W",
             "L",
-            "W"
+            "W",
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Texas Rangers vs Chicago White Sox",
-          "betType": "prop",
-          "pick": "Corey Seager Over 1.5 Total Bases",
-          "odds": "+116",
+          "game": "Philadelphia Phillies vs Seattle Mariners",
+          "betType": "moneyline",
+          "pick": "Philadelphia Phillies (-105)",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "Corey Seager of the Texas Rangers is currently in excellent form at the plate, having gone 12-for-27 (.444) with a home run in his recent games. He is confirmed to be active and playing today for the Rangers. Facing Chicago White Sox starter Jose Urquidy, who holds a season ERA of 5.06, Seager has a favorable matchup to continue his hot hitting. Given his recent performance and the generous odds of +116, Seager is well-positioned to exceed 1.5 total bases in this contest.",
-          "awayRecord": "65-66",
-          "homeRecord": "68-62",
+          "rationale": "The Philadelphia Phillies, despite having their nine-game winning streak snapped, have been red-hot offensively, boasting the second-highest scoring offense in August. Seattle Mariners starter George Kirby has struggled recently, allowing at least three earned runs in six straight starts and owning a poor 5.57 SIERA over the last 30 days. Kirby has particularly struggled against left-handed bats, which the Phillies are well-equipped to exploit with players like Kyle Schwarber and Bryce Harper. With the Phillies' strong offensive form and Kirby's recent struggles, Philadelphia has a clear edge in this matchup.",
+          "awayRecord": "73-59",
+          "homeRecord": "63-69",
           "awayLast5": [
-            "L",
             "W",
             "W",
-            "L",
-            "W"
+            "W",
+            "W",
+            "L"
           ],
           "homeLast5": [
-            "W",
             "L",
+            "W",
             "W",
             "L",
             "W"

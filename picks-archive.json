@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-24",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Colorado Rockies vs Washington Nationals",
+            "betType": "spread",
+            "pick": "Washington Nationals -1.5",
+            "odds": "+114",
+            "confidence": "high",
+            "result": "W",
+            "score": "Colorado Rockies 3, Washington Nationals 13"
+          },
+          {
+            "game": "Texas Rangers vs Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox (-130)",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Texas Rangers 11, Chicago White Sox 2"
+          },
+          {
+            "game": "Cleveland Guardians vs Los Angeles Angels",
+            "betType": "spread",
+            "pick": "Cleveland Guardians -1.5",
+            "odds": "+102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cleveland Guardians 4, Los Angeles Angels 2"
+          },
+          {
+            "game": "Chicago Cubs vs Arizona Diamondbacks",
+            "betType": "spread",
+            "pick": "Chicago Cubs -1.5",
+            "odds": "+113",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago Cubs 7, Arizona Diamondbacks 0"
+          },
+          {
+            "game": "Texas Rangers vs Chicago White Sox",
+            "betType": "prop",
+            "pick": "Corey Seager Over 1.5 Total Bases",
+            "odds": "+116",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Corey Seager: \"Total Bases\" not auto-gradeable"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-23",
     "sports": [
       {
@@ -2177,112 +2233,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Real Salt Lake 1, Portland Timbers 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-24",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Kansas City Royals @ Detroit Tigers",
-            "betType": "spread",
-            "pick": "Detroit Tigers -1.5",
-            "odds": "+118",
-            "confidence": "high",
-            "result": "L",
-            "score": "Kansas City Royals 1, Detroit Tigers 2"
-          },
-          {
-            "game": "Arizona Diamondbacks @ Washington Nationals",
-            "betType": "moneyline",
-            "pick": "Arizona Diamondbacks (+110)",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Arizona Diamondbacks 3, Washington Nationals 2"
-          },
-          {
-            "game": "New York Yankees @ Philadelphia Phillies",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Yankees 1, Philadelphia Phillies 0"
-          },
-          {
-            "game": "Cleveland Guardians @ Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays (-130)",
-            "odds": "-130",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Cleveland Guardians 3, Tampa Bay Rays 11"
-          },
-          {
-            "game": "Houston Astros @ Chicago White Sox",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Houston Astros 9, Chicago White Sox 5"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Atlanta United FC @ New England Revolution",
-            "betType": "moneyline",
-            "pick": "New England Revolution",
-            "odds": "+100",
-            "confidence": "high",
-            "result": "W",
-            "score": "Atlanta United FC 1, New England Revolution 4"
-          },
-          {
-            "game": "Seattle Sounders FC @ Philadelphia Union",
-            "betType": "moneyline",
-            "pick": "Philadelphia Union",
-            "odds": "+105",
-            "confidence": "high",
-            "result": "W",
-            "score": "Seattle Sounders FC 0, Philadelphia Union 1"
-          },
-          {
-            "game": "Chicago Fire @ New York City FC",
-            "betType": "moneyline",
-            "pick": "New York City FC",
-            "odds": "+138",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "FC Cincinnati @ Columbus Crew SC",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-130",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Charlotte FC @ New York Red Bulls",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-165",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
           }
         ]
       }
