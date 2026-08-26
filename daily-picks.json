@@ -1,21 +1,43 @@
 {
-  "date": "2026-08-25",
-  "generatedAt": "2026-08-25T17:33:05.363Z",
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-26T19:04:28.842Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Kansas City Royals vs Toronto Blue Jays",
+          "game": "Cincinnati Reds @ San Francisco Giants",
           "betType": "moneyline",
-          "pick": "Kansas City Royals (+116)",
-          "odds": "+116",
+          "pick": "Cincinnati Reds",
+          "odds": "+106",
           "confidence": "high",
-          "rationale": "The Kansas City Royals enter this game on an impressive eight-game winning streak, demonstrating strong recent form. Despite public money favoring Toronto, the line has shifted more favorably towards Kansas City, suggesting sharp action on the underdog. Toronto has dropped two of its last three games, including a series loss to the Yankees, indicating some recent struggles. With Kansas City's momentum and a more favorable pitching matchup against Toronto, the Royals present good value as an underdog.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "58-74",
-          "homeRecord": "64-68",
+          "rationale": "The San Francisco Giants are severely hampered by injuries, particularly in their pitching staff with Carson Whisenhunt out for likely the season and Adrian Houser undergoing an MRI after exiting his last start. Key shortstop Willy Adames is also on the injured list with a UCL sprain, further weakening the team. The Cincinnati Reds, while not having a stellar record, face a significantly compromised opponent, giving them a strong edge to secure a road victory. The positive moneyline odds offer good value against a team struggling with such significant personnel losses.",
+          "awayRecord": "62-71",
+          "homeRecord": "54-78",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Cleveland Guardians @ Los Angeles Angels",
+          "betType": "spread",
+          "pick": "Cleveland Guardians -1.5",
+          "odds": "+114",
+          "confidence": "high",
+          "rationale": "The Cleveland Guardians are in good form, with their pitching staff boasting a 2.37 ERA over their last ten games, and key hitters like Steven Kwan and Chase DeLauter performing exceptionally well. In contrast, the Los Angeles Angels have lost three consecutive games and are severely depleted by a lengthy injury list, including several significant position players and pitchers. The Guardians secured an 8-6 victory against the Angels yesterday, demonstrating their current superiority. With the Angels struggling and missing numerous key contributors, the Guardians are well-positioned to win by more than one run.",
+          "awayRecord": "67-66",
+          "homeRecord": "52-81",
           "awayLast5": [
             "W",
             "W",
@@ -27,110 +49,80 @@
             "L",
             "W",
             "L",
-            "W",
+            "L",
             "L"
           ]
         },
         {
-          "game": "Milwaukee Brewers vs New York Mets",
+          "game": "Philadelphia Phillies @ Seattle Mariners",
+          "betType": "moneyline",
+          "pick": "Seattle Mariners",
+          "odds": "+120",
+          "confidence": "high",
+          "rationale": "The Seattle Mariners have already won the first two games of this series against the Philadelphia Phillies, demonstrating strong current form at home. Starting pitcher Bryan Woo has been exceptional at T-Mobile Park this season, holding a 7-0 record with a stellar 1.96 ERA. While Phillies' starter Jesus Luzardo has also been pitching well, the Mariners' momentum, combined with their dominant home pitcher and the hot bat of Cal Raleigh, who hit four home runs in the two previous games, gives them a significant edge to complete the sweep. The positive moneyline odds provide excellent value for a team playing this well at home.",
+          "awayRecord": "73-60",
+          "homeRecord": "64-69",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Pittsburgh Pirates @ San Diego Padres",
+          "betType": "spread",
+          "pick": "Pittsburgh Pirates +1.5",
+          "odds": "-166",
+          "confidence": "medium",
+          "rationale": "The Pittsburgh Pirates have demonstrated strong recent form against the San Diego Padres, winning their last two matchups, including a 1-0 victory yesterday where Paul Skenes pitched six scoreless innings. This indicates a resilient Pirates team playing with confidence. While the Padres have a historically strong head-to-head record against Pittsburgh, the Pirates' recent pitching success, allowing only two runs in their last two games, suggests they can keep this game close. Taking the Pirates +1.5 offers a good cushion against a Padres team under pressure in their wild card chase.",
+          "awayRecord": "65-69",
+          "homeRecord": "71-62",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Colorado Rockies @ Washington Nationals",
           "betType": "total",
-          "pick": "Over 7.5",
+          "pick": "Over 9.5",
           "odds": "-105",
           "confidence": "medium",
-          "rationale": "The Milwaukee Brewers offense is one of the best in baseball, and they are facing a Mets team with a depleted lineup due to injuries to Juan Soto (calf strain) and Mark Vientos (hand issue). While Mets rookie Zach Thornton has a decent ERA, underlying metrics suggest regression is coming, and the Mets bullpen has been poor, especially after recent deadline trades. Despite Kyle Harrison's strong pitching for Milwaukee, the Brewers tend to limit his innings, bringing their bullpen into play earlier. With neutral weather conditions in Queens, there's a good chance for runs, making the Over 7.5 an attractive play.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "81-50",
-          "homeRecord": "59-72",
+          "rationale": "Both the Colorado Rockies and Washington Nationals are sending out starting pitchers with high ERAs for today's game: Tanner Gordon (5.75 ERA) for the Rockies and Matt Waldron (7.54 ERA) for the Nationals, who is also making his team debut. The Nationals recently had a 13-3 blowout win against the Rockies in this series, demonstrating their offensive capability. With both pitchers struggling and the potential for a high-scoring affair, betting the Over 9.5 runs at favorable odds is a strong play.",
+          "awayRecord": "51-81",
+          "homeRecord": "62-72",
           "awayLast5": [
             "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
             "L",
-            "W",
             "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Texas Rangers vs Chicago White Sox",
-          "betType": "moneyline",
-          "pick": "Texas Rangers (-110)",
-          "odds": "-110",
-          "confidence": "high",
-          "rationale": "The Texas Rangers have Jacob deGrom on the mound, who is coming off a dominant outing with 10 strikeouts over six scoreless innings. deGrom holds a clear starting pitching advantage over Chicago's Anthony Kay, whose underlying metrics are less convincing despite a decent ERA. The Rangers' offense has been strong since June 1, posting a 127 wRC+ and a .352 wOBA, even with Josh Jung sidelined. With Texas having won four of their last five games and a significant pitching mismatch, the Rangers moneyline offers value.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "66-66",
-          "homeRecord": "68-63",
-          "awayLast5": [
-            "W",
-            "W",
             "L",
-            "W",
             "W"
           ],
           "homeLast5": [
             "L",
-            "W",
+            "L",
             "L",
             "W",
             "L"
-          ]
-        },
-        {
-          "game": "Cleveland Guardians vs Los Angeles Angels",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-124",
-          "confidence": "medium",
-          "rationale": "Both starting pitchers, Gavin Williams for the Guardians and Walbert Ureña for the Angels, have shown strong recent form, particularly Ureña at home with a 2.27 ERA. Both teams have been involved in lower-scoring games recently, with a combined 13-4-1 record to the under in their last 18 games. The bullpens for both Cleveland and Los Angeles have been in excellent form, boasting a combined 3.77 ERA over their last 10 games. Given the strong pitching and recent low-scoring trends, the Under 7.5 is a confident pick.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "66-66",
-          "homeRecord": "52-80",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies vs Seattle Mariners",
-          "betType": "moneyline",
-          "pick": "Philadelphia Phillies (-105)",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The Philadelphia Phillies, despite having their nine-game winning streak snapped, have been red-hot offensively, boasting the second-highest scoring offense in August. Seattle Mariners starter George Kirby has struggled recently, allowing at least three earned runs in six straight starts and owning a poor 5.57 SIERA over the last 30 days. Kirby has particularly struggled against left-handed bats, which the Phillies are well-equipped to exploit with players like Kyle Schwarber and Bryce Harper. With the Phillies' strong offensive form and Kirby's recent struggles, Philadelphia has a clear edge in this matchup.",
-          "awayRecord": "73-59",
-          "homeRecord": "63-69",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
           ]
         }
       ]
