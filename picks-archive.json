@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-26",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cincinnati Reds @ San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "Cincinnati Reds",
+            "odds": "+106",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 10, San Francisco Giants 9"
+          },
+          {
+            "game": "Cleveland Guardians @ Los Angeles Angels",
+            "betType": "spread",
+            "pick": "Cleveland Guardians -1.5",
+            "odds": "+114",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cleveland Guardians 4, Los Angeles Angels 3"
+          },
+          {
+            "game": "Philadelphia Phillies @ Seattle Mariners",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Phillies 6, Seattle Mariners 0"
+          },
+          {
+            "game": "Pittsburgh Pirates @ San Diego Padres",
+            "betType": "spread",
+            "pick": "Pittsburgh Pirates +1.5",
+            "odds": "-166",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Pittsburgh Pirates 0, San Diego Padres 3"
+          },
+          {
+            "game": "Colorado Rockies @ Washington Nationals",
+            "betType": "total",
+            "pick": "Over 9.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Rockies 13, Washington Nationals 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-25",
     "sports": [
       {
@@ -2127,62 +2183,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Arizona Diamondbacks 2, Pittsburgh Pirates 3"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-26",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Atlanta Braves @ Baltimore Orioles",
-            "betType": "moneyline",
-            "pick": "Baltimore Orioles (-136)",
-            "odds": "-136",
-            "confidence": "high",
-            "result": "L",
-            "score": "Atlanta Braves 3, Baltimore Orioles 2"
-          },
-          {
-            "game": "Chicago Cubs @ Pittsburgh Pirates",
-            "betType": "moneyline",
-            "pick": "Pittsburgh Pirates (-132)",
-            "odds": "-132",
-            "confidence": "high",
-            "result": "W",
-            "score": "Chicago Cubs 7, Pittsburgh Pirates 8"
-          },
-          {
-            "game": "Toronto Blue Jays @ Boston Red Sox",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox (-130)",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "W",
-            "score": "Toronto Blue Jays 1, Boston Red Sox 6"
-          },
-          {
-            "game": "Los Angeles Dodgers @ New York Mets",
-            "betType": "moneyline",
-            "pick": "Los Angeles Dodgers (-104)",
-            "odds": "-104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Dodgers 3, New York Mets 8"
-          },
-          {
-            "game": "New York Yankees @ Philadelphia Phillies",
-            "betType": "total",
-            "pick": "Under 8 (-114)",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New York Yankees 4, Philadelphia Phillies 11"
           }
         ]
       }
