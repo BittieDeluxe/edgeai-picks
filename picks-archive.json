@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-08-27",
+    "sports": [],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-26",
     "sports": [
       {
@@ -2127,62 +2132,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Philadelphia Phillies 0, Miami Marlins 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-27",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Philadelphia Phillies @ Miami Marlins",
-            "betType": "moneyline",
-            "pick": "Philadelphia Phillies (-108)",
-            "odds": "-108",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia Phillies 7, Miami Marlins 8"
-          },
-          {
-            "game": "Atlanta Braves @ New York Mets",
-            "betType": "moneyline",
-            "pick": "Atlanta Braves (-162)",
-            "odds": "-162",
-            "confidence": "high",
-            "result": "L",
-            "score": "Atlanta Braves 3, New York Mets 14"
-          },
-          {
-            "game": "Toronto Blue Jays @ Washington Nationals",
-            "betType": "moneyline",
-            "pick": "Washington Nationals (-142)",
-            "odds": "-142",
-            "confidence": "high",
-            "result": "L",
-            "score": "Toronto Blue Jays 3, Washington Nationals 2"
-          },
-          {
-            "game": "New York Yankees @ Chicago White Sox",
-            "betType": "moneyline",
-            "pick": "New York Yankees (-134)",
-            "odds": "-134",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Yankees 9, Chicago White Sox 5"
-          },
-          {
-            "game": "Arizona Diamondbacks @ Pittsburgh Pirates",
-            "betType": "total",
-            "pick": "Over 9",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Arizona Diamondbacks 2, Pittsburgh Pirates 3"
           }
         ]
       }
