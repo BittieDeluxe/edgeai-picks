@@ -2,17 +2,18 @@ name: Generate Daily Picks
 
 on:
   schedule:
-    # Mon-Sat: 1 PM ET (EDT=UTC-4) = 17:00 UTC. GitHub Actions can be queued
-    # 5-30 min, so picks typically land between 1:00 and 1:30 PM ET. Later is
-    # better for line quality — west-coast lines aren't fully posted before noon.
-    - cron: '0 17 * * 1-6'
+    # Mon-Sat: 1 PM ET (EDT=UTC-4) = 17:00 UTC. Deliberately :07 and not :00 —
+    # GitHub deprioritises schedules on the hour, when everyone else's crons
+    # fire. Measured delay was a tolerable 12-44 min through 2026-08-25, then
+    # blew out to 2h, 8.3h and 7.9h on Aug 26-28 while still using :00.
+    - cron: '7 17 * * 1-6'
     # Sunday: 9 AM ET = 13:00 UTC. The NFL's main slate kicks off at 1:00 PM ET
     # and most Sunday MLB games start at 1:05 PM, so the Mon-Sat slot would drop
     # picks after first pitch/kickoff. Sunday trades a little line freshness for
     # actually being actionable.
     # Caveat: NFL London games kick at 9:30 AM ET a few weeks a season and will
     # land right at the wire.
-    - cron: '0 13 * * 0'
+    - cron: '7 13 * * 0'
   workflow_dispatch: # Allow manual runs from the Actions tab
 
 jobs:
