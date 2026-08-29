@@ -45,6 +45,12 @@ const ODDS_SPORT_KEY = {
 
 const MAX_SPORTS = 8;
 
+// Set when an Odds API call fails for any reason (most often the 500/month free
+// allowance running out). Picks then fall back to ESPN's free schedule with
+// Gemini sourcing lines by search, clearly flagged, rather than publishing an
+// empty file.
+let oddsUnavailable = false;
+
 // Sports that only run on Saturday (day 6) — UFC events are almost always Saturday cards
 const SATURDAY_ONLY = new Set(['UFC']);
 
@@ -144,11 +150,17 @@ async function fetchOddsForSport(sport, dateStr) {
     if (!res.ok) {
       const err = await res.text();
       console.error(`  Odds API error for ${sport}: ${res.status} ${err.slice(0, 200)}`);
+      // An exhausted monthly allowance looks identical to any other failure if
+      // we just return {} — and that silently produced an EMPTY Picks tab for
+      // weeks in June 2026, then again on 2026-08-28. Flag it so the caller can
+      // fall back instead of shipping nothing.
+      oddsUnavailable = true;
       return {};
     }
     const games = await res.json();
     if (!Array.isArray(games)) {
       console.error(`  Odds API unexpected response for ${sport}:`, JSON.stringify(games).slice(0, 200));
+      oddsUnavailable = true;
       return {};
     }
 
@@ -186,6 +198,7 @@ async function fetchOddsForSport(sport, dateStr) {
     return oddsMap;
   } catch (e) {
     console.error(`  Odds API error for ${sport}:`, e.message);
+    oddsUnavailable = true;
     return {};
   }
 }
@@ -211,25 +224,34 @@ async function buildContext(sport, dateStr) {
   ]);
 
   const hasOdds = Object.keys(oddsMap).length > 0;
-  if (games.length === 0 && !hasOdds) return { hasGames: false, structuredContext: '', games: [] };
+  if (games.length === 0 && !hasOdds) return { hasGames: false, structuredContext: '', games: [], verifiedLines: true };
+
+  // ESPN still knows the fixtures even when the Odds API is unavailable, so we
+  // can still publish picks — Gemini just has to source the lines itself.
+  const verifiedLines = hasOdds;
 
   const gameList = games.length > 0 ? games : Object.values(oddsMap).map(o => ({
     awayTeam: '', awayName: o.awayTeam, awayRecord: '',
     homeTeam: '', homeName: o.homeTeam, homeRecord: '',
   }));
 
-  const lines = [`=== ${sport} Verified Lines (${dateStr}) ===`];
+  const lines = [verifiedLines
+    ? `=== ${sport} Verified Lines (${dateStr}) ===`
+    : `=== ${sport} Schedule (${dateStr}) — NO VERIFIED LINES AVAILABLE ===`];
   for (const g of gameList) {
     const odds = games.length > 0 ? matchOdds(g, oddsMap) : Object.values(oddsMap).find(o => o.awayTeam === g.awayName);
     lines.push(`\n${g.awayName || '?'} (${g.awayRecord}) @ ${g.homeName || '?'} (${g.homeRecord})`);
     if (odds?.bestSpread) lines.push(`  Spread: ${g.awayName} ${odds.bestSpread.awayPoint > 0 ? '+' : ''}${odds.bestSpread.awayPoint} (${fmt(odds.bestSpread.awayOdds)}) | ${g.homeName} ${odds.bestSpread.homePoint > 0 ? '+' : ''}${odds.bestSpread.homePoint} (${fmt(odds.bestSpread.homeOdds)})`);
     if (odds?.bestTotal) lines.push(`  Total: O/U ${odds.bestTotal.point} — Over (${fmt(odds.bestTotal.overOdds)}) / Under (${fmt(odds.bestTotal.underOdds)})`);
     if (odds?.bestML)    lines.push(`  Moneyline: ${g.awayName} (${fmt(odds.bestML.awayOdds)}) / ${g.homeName} (${fmt(odds.bestML.homeOdds)})`);
-    if (!odds)           lines.push(`  Lines: not yet available`);
+    if (!odds)           lines.push(verifiedLines
+      ? `  Lines: not yet available`
+      : `  Lines: NOT PROVIDED — find the current line by web search.`);
   }
 
-  console.log(`  ESPN games: ${games.length}, Odds games: ${Object.keys(oddsMap).length}`);
-  return { hasGames: true, structuredContext: lines.join('\n'), games: gameList };
+  console.log(`  ESPN games: ${games.length}, Odds games: ${Object.keys(oddsMap).length}` +
+    (verifiedLines ? '' : '  [DEGRADED: no verified lines]'));
+  return { hasGames: true, structuredContext: lines.join('\n'), games: gameList, verifiedLines };
 }
 
 // Robustly pull the {"picks":[...]} object out of Gemini's text, even when the
@@ -259,7 +281,7 @@ function buildPropFormatHint(sport) {
 }
 
 async function getPicksForSport(sport, dateStr) {
-  const { hasGames, structuredContext, games } = await buildContext(sport, dateStr);
+  const { hasGames, structuredContext, games, verifiedLines } = await buildContext(sport, dateStr);
 
   if (!hasGames) {
     console.log(`  No games/events found for ${sport} today — skipping`);
@@ -277,16 +299,18 @@ Search the web for today's ${sport} games, including:
 - Line movement (opening line vs current — where is sharp money going?)
 - Situational factors (back-to-backs, rest days, travel, playoff implications, revenge games)
 
-Then generate the top 5 high-confidence ${sport} picks for today using the verified lines below.
+Then generate the top 5 high-confidence ${sport} picks for today using the ${verifiedLines ? 'verified lines' : 'schedule'} below.
 
---- VERIFIED LINES (ESPN + The Odds API) ---
+--- ${verifiedLines ? 'VERIFIED LINES (ESPN + The Odds API)' : 'SCHEDULE (ESPN) — LINES NOT PROVIDED'} ---
 ${structuredContext}
 
 ---
 
 INSTRUCTIONS:
 
-1. USE EXACT LINES: Use only the spreads, totals, and moneylines from the verified data above. Do not invent or estimate lines. Skip any game with no verified lines.
+${verifiedLines
+  ? '1. USE EXACT LINES: Use only the spreads, totals, and moneylines from the verified data above. Do not invent or estimate lines. Skip any game with no verified lines.'
+  : `1. LINES ARE NOT PROVIDED today. The fixtures above are real and confirmed, but you must find the current line for every pick yourself via web search. Name the sportsbook you saw each line at inside the rationale. If you cannot confirm a current line for a game, skip that game — never estimate or invent a number.`}
 
 2. INJURY AUTHORITY: Your web search is the source of truth for injuries. If a player is reported as OUT, injured, questionable, or on load management — do not build any pick around that player being active. Late scratches appear in news before official reports.
 
@@ -297,7 +321,7 @@ INSTRUCTIONS:
 5. PLAYER PROPS: If you include a player prop, you MUST confirm via search that the player is active and on the team playing in that game today. The propTeam field must match one of the two teams in the game field exactly.
 ${propFormatHint}
 
-6. RATIONALE: 4–5 sentences per pick. Cite specific data from your search: injured players and their impact, recent form, h2h trend, line movement signal, and what needs to happen for the pick to hit.
+6. RATIONALE: 4–5 sentences per pick.${verifiedLines ? '' : ' Begin every rationale with "Line sourced from web search — verify before betting." '} Cite specific data from your search: injured players and their impact, recent form, h2h trend, line movement signal, and what needs to happen for the pick to hit.
 
 7. CONFIDENCE: Be honest — do not mark everything "high". Use these definitions strictly:
    - "high": 3 or more independent factors align (e.g. injury advantage + line movement + strong h2h trend). You would bet this yourself.
@@ -1156,7 +1180,20 @@ async function main() {
     }
   }
 
-  const payload = { date: dateStr, generatedAt: now.toISOString(), sports, playerProps };
+  // Surfaced so the app (and anyone reading the file) can tell that a day's
+  // picks were built without verified sportsbook lines.
+  const payload = {
+    date: dateStr,
+    generatedAt: now.toISOString(),
+    sports,
+    playerProps,
+    ...(oddsUnavailable ? { degraded: true, degradedReason: 'odds_unavailable' } : {}),
+  };
+  if (oddsUnavailable) {
+    console.warn('DEGRADED RUN: the Odds API was unavailable (most likely the monthly ' +
+                 'allowance is exhausted). Picks were built from ESPN fixtures with ' +
+                 'Gemini sourcing lines by search.');
+  }
   if (DRY_RUN) {
     console.log(`\nDRY RUN — would have written ${sports.length} sport(s):`);
     console.log(JSON.stringify(payload, null, 2));
