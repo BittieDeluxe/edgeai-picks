@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-28",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Diego Padres vs Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-126",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego Padres 4, Tampa Bay Rays 9"
+          },
+          {
+            "game": "Los Angeles Dodgers vs Detroit Tigers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Dodgers 2, Detroit Tigers 1"
+          },
+          {
+            "game": "Miami Marlins vs Washington Nationals",
+            "betType": "total",
+            "pick": "Over 8.5 Runs",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 2, Washington Nationals 9"
+          },
+          {
+            "game": "Seattle Mariners vs Toronto Blue Jays",
+            "betType": "prop",
+            "pick": "Dylan Cease Over 7.5 Strikeouts",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Dylan Cease: 8 Strikeouts (line 7.5)"
+          },
+          {
+            "game": "Baltimore Orioles vs Athletics",
+            "betType": "spread",
+            "pick": "Baltimore Orioles -1.5",
+            "odds": "-101",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Baltimore Orioles 4, Athletics 3"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-27",
     "sports": [],
     "playerProps": []
@@ -2076,62 +2132,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Cleveland Guardians 6, Cincinnati Reds 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-28",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Boston Red Sox @ Athletics",
-            "betType": "spread",
-            "pick": "Boston Red Sox -1.5",
-            "odds": "+106",
-            "confidence": "high",
-            "result": "L",
-            "score": "Boston Red Sox 3, Athletics 4"
-          },
-          {
-            "game": "Milwaukee Brewers @ San Francisco Giants",
-            "betType": "total",
-            "pick": "Under 8",
-            "odds": "-122",
-            "confidence": "high",
-            "result": "L",
-            "score": "Milwaukee Brewers 8, San Francisco Giants 2"
-          },
-          {
-            "game": "Seattle Mariners @ Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5",
-            "odds": "+112",
-            "confidence": "high",
-            "result": "L",
-            "score": "Seattle Mariners 7, Los Angeles Dodgers 6"
-          },
-          {
-            "game": "New York Yankees @ Chicago White Sox",
-            "betType": "total",
-            "pick": "Under 8",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Yankees 3, Chicago White Sox 2"
-          },
-          {
-            "game": "Philadelphia Phillies @ Miami Marlins",
-            "betType": "moneyline",
-            "pick": "Miami Marlins",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Phillies 0, Miami Marlins 1"
           }
         ]
       }

@@ -1,138 +1,187 @@
 {
-  "date": "2026-08-28",
-  "generatedAt": "2026-08-29T00:56:01.501Z",
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T20:09:56.215Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "San Diego Padres vs Tampa Bay Rays",
+          "game": "Colorado Rockies @ Atlanta Braves",
+          "betType": "spread",
+          "pick": "Atlanta Braves -1.5",
+          "odds": "+100",
+          "confidence": "high",
+          "rationale": "The Atlanta Braves are in excellent form, riding a five-game winning streak and holding a dominant 80-55 record, while the Colorado Rockies have a dismal 2-8 record in their last 10 games. Colorado faces a significant pitching disadvantage as their scheduled starter, Ryan Feltner, was scratched due to illness and will be replaced by Zach Agnos. Atlanta's pitching staff has been strong, posting a 2.83 ERA over their last 10 games and allowing only three home runs, which contrasts sharply with the Rockies' 5.93 ERA in the same period. This strong situational advantage, coupled with the Braves' superior overall performance and pitching, makes them a high-confidence pick to cover the spread.",
+          "awayRecord": "52-83",
+          "homeRecord": "80-55",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Kansas City Royals @ Cleveland Guardians",
+          "betType": "spread",
+          "pick": "Kansas City Royals +1.5",
+          "odds": "-142",
+          "confidence": "high",
+          "rationale": "Despite the Guardians being favored, line movement indicates sharp money is backing the Royals' moneyline, suggesting an undervalued underdog. Divisional matchups often result in closer games, which benefits the underdog on the run line. Kansas City's starter, Daniel Lynch, has a solid 2.93 ERA through 58 1/3 innings this season, and the Royals' bullpen recently saw Michael Wacha deliver eight scoreless innings against the Guardians. With Cleveland's starter Foster Griffin holding a 3.19 ERA, the game is projected to be tight, making the Royals +1.5 a strong value play.",
+          "awayRecord": "61-75",
+          "homeRecord": "68-67",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Diego Padres @ Tampa Bay Rays",
           "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "-126",
+          "pick": "Tampa Bay Rays (-164)",
+          "odds": "-164",
           "confidence": "high",
-          "rationale": "Line sourced from web search — verify before betting. The Tampa Bay Rays are strong home favorites, boasting an impressive 43-23 record at Tropicana Field this season. Starting pitcher Shane McClanahan (9-6, 3.10 ERA) provides a significant advantage over San Diego's Casey Mize (5-7, 3.44 ERA), who has recently struggled, allowing a .906 OPS over the last 28 days and dealing with a recent ankle sprain. Furthermore, the Rays' offense leads MLB with a .260 team batting average, outperforming the Padres' .238. This strong pitching and offensive edge, combined with their excellent home record, makes the Rays a high-confidence play.",
-          "propPlayer": "",
-          "propTeam": "",
-          "awayRecord": "72-62",
-          "homeRecord": "79-54",
+          "rationale": "The Tampa Bay Rays are the first American League team to reach 80 wins this season, showcasing their consistent dominance. Rays' starting pitcher Nick Martinez boasts an impressive 13-4 record with a 2.93 ERA, and the team's pitching staff collectively holds a 3.68 ERA over their last 10 games. The San Diego Padres are significantly hampered by injuries, with numerous key players, including several pitchers, currently on the injured list. The moneyline has also seen movement further in favor of the Rays, indicating increased confidence from the betting market in their ability to secure a win.",
+          "awayRecord": "72-63",
+          "homeRecord": "80-54",
           "awayLast5": [
             "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Los Angeles Dodgers vs Detroit Tigers",
-          "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "Line sourced from web search — verify before betting. The Los Angeles Dodgers are heavily favored, and their talent is expected to secure a multi-run victory against the Detroit Tigers. Dodgers' ace Tarik Skubal (8-7, 2.91 ERA) is a dominant force on the mound, while Tigers' starter Drew Anderson (4-5, 4.09 ERA) has shown vulnerability. Detroit has lost three of Anderson's last four starts by two or more runs, indicating a trend of larger deficits in his outings. The SportsGrid model projects the Dodgers to win by 1.8 runs with a 68% win probability, reinforcing the value on the run line.",
-          "awayRecord": "80-54",
-          "homeRecord": "62-71",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
             "L",
             "L",
             "W",
             "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Miami Marlins vs Washington Nationals",
+          "game": "Miami Marlins @ Washington Nationals",
+          "betType": "moneyline",
+          "pick": "Miami Marlins (-116)",
+          "odds": "-116",
+          "confidence": "medium",
+          "rationale": "The Miami Marlins hold a slight advantage in recent pitching performance, with their staff recording a 3.89 ERA and allowing only seven home runs over the last 10 games. Miami's starting pitcher, Sandy Alcantara, has a strong 13-8 record with a 3.38 ERA, which is more reliable than Nationals starter Cade Cavalli, who recently gave up five earned runs. Although both teams have struggled, the line movement has shifted slightly towards the Marlins, indicating some sharp money backing them. Alcantara's proven track record and the Marlins' marginally better recent pitching metrics provide a solid edge for a moneyline pick.",
+          "awayRecord": "68-67",
+          "homeRecord": "64-73",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Seattle Mariners @ Toronto Blue Jays",
           "betType": "total",
-          "pick": "Over 8.5 Runs",
-          "odds": "-115",
+          "pick": "Under 8",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. This game features a pitching matchup where Washington's rookie Jackson Kent (8.03 ERA) is expected to struggle, having not completed five innings in any of his three big-league starts. Miami's Eury Perez (3.17 ERA) has also shown command issues, walking multiple hitters in his last five outings, which could lead to baserunners. The Nationals' offense, despite their record, can be explosive, and Kent's short outings will put pressure on a potentially tired bullpen. Given these factors, a higher-scoring game is anticipated.",
-          "awayRecord": "68-66",
-          "homeRecord": "63-73",
+          "rationale": "Both the Mariners and Blue Jays are dealing with extensive injury lists, impacting both their pitching rotations and key offensive players. While Seattle's pitching has struggled recently with a 6.98 ERA over their last 10 games, Toronto's staff has been more effective with a 4.50 ERA in the same span. The Blue Jays are starting Jose Soriano (3.49 ERA), and the Mariners are starting Kade Anderson (4.76 ERA in his only start), suggesting a potentially contained scoring environment. With significant offensive contributors like Luke Raley and Brendan Donovan for Seattle, and Luis Urías and Anthony Santander for Toronto sidelined, offensive production is likely to be limited, favoring the Under 8.",
+          "awayRecord": "64-71",
+          "homeRecord": "66-70",
           "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Seattle Mariners vs Toronto Blue Jays",
-          "betType": "prop",
-          "pick": "Dylan Cease Over 7.5 Strikeouts",
-          "odds": "-120",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. Toronto Blue Jays pitcher Dylan Cease (8-5, 2.37 ERA) is a leading contender for the American League Cy Young award and leads the AL with 209 strikeouts. He has been in dominant form since July, maintaining a sub-1.50 ERA over his last eight starts, showcasing his elite strikeout capability. Cease is the confirmed probable starter for the Blue Jays today. This prop aligns perfectly with his consistent high-strikeout performances and recent form against opposing lineups.",
-          "propPlayer": "Dylan Cease",
-          "propTeam": "Toronto Blue Jays",
-          "awayRecord": "64-70",
-          "homeRecord": "65-70",
-          "awayLast5": [
-            "W",
             "L",
             "W",
             "W",
+            "L",
             "L"
           ],
           "homeLast5": [
-            "W",
             "L",
             "L",
             "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Baltimore Orioles vs Athletics",
-          "betType": "spread",
-          "pick": "Baltimore Orioles -1.5",
-          "odds": "-101",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Baltimore Orioles are a strong play on the run line, especially with the Athletics confirming Jacob Lopez (4.98 ERA) as their starter, which initially led to an inflated Orioles moneyline. While Orioles starter Brandon Young (9-3, 3.50 ERA) has had shorter recent outings, the Athletics' bullpen holds a high 4.79 ERA, which Baltimore can exploit. Pete Alonso is a key factor for the Orioles, boasting a 1.176 OPS over the last 28 days and 32 home runs, facing a pitcher who has surrendered 1.17 HR per 9 innings. The model projects Baltimore to win by two or more runs, making the -1.5 run line a valuable pick.",
-          "awayRecord": "65-69",
-          "homeRecord": "53-81",
-          "awayLast5": [
-            "W",
             "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
             "W"
           ]
         }
       ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Chicago Fire FC vs Seattle Sounders FC",
+          "betType": "moneyline",
+          "pick": "Chicago Fire FC",
+          "odds": "+125",
+          "confidence": "high",
+          "rationale": "Seattle Sounders FC is severely depleted by injuries, with six key players out and one questionable, including top attackers and defenders, significantly impacting their lineup. The Sounders are also in dismal form, winless in their last nine league games, having just ended an eight-game losing streak. In contrast, Chicago Fire FC has been in excellent form in August, boasting a strong 6-1-1 record. Despite historical struggles at Lumen Field, Chicago's current momentum and Seattle's extensive absences create a strong betting advantage for the away team.",
+          "awayRecord": "11-3-6",
+          "homeRecord": "7-4-9"
+        },
+        {
+          "game": "New York City FC vs Toronto FC",
+          "betType": "moneyline",
+          "pick": "Toronto FC",
+          "odds": "+145",
+          "confidence": "high",
+          "rationale": "New York City FC is facing a major injury crisis, with eight players listed as 'Out' due to lower body injuries, including several key attacking and midfield players. This has directly contributed to their poor form, as they are on a five-game winless streak in all competitions and a four-game winless streak in MLS. Toronto FC, playing at home, is in good recent form, being unbeaten in their last four fixtures, which includes a notable win over Inter Miami CF. The combination of NYCFC's extensive injuries and Toronto's positive momentum at home makes this a high-confidence pick.",
+          "awayRecord": "11-3-6",
+          "homeRecord": "7-4-9"
+        },
+        {
+          "game": "FC Cincinnati vs Nashville SC",
+          "betType": "moneyline",
+          "pick": "Nashville SC",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "Nashville SC is having a historic season, currently holding the best 21-game start in MLS history with a 15-4-2 record and 49 points, leading the Supporters' Shield standings. Their home form is particularly dominant, remaining unbeaten in regular season play at GEODIS Park with a 10W-0L-1D record and outscoring opponents 32-12. Facing FC Cincinnati, whose recent form is not detailed but whose overall record is significantly weaker, Nashville's consistent home advantage and exceptional performance make them a very strong favorite to win.",
+          "awayRecord": "8-7-6",
+          "homeRecord": "15-4-2"
+        },
+        {
+          "game": "Vancouver Whitecaps vs Sporting Kansas City",
+          "betType": "moneyline",
+          "pick": "Vancouver Whitecaps",
+          "odds": "-250",
+          "confidence": "medium",
+          "rationale": "Sporting Kansas City is in a severe slump, with a recent form of LLLDL and an overall record of 4-3-14, placing them at the bottom of the league. They possess a porous defense, conceding an average of 2.4 goals per game this season and 1.8 goals per game at home. The Vancouver Whitecaps, with a strong 12-4-4 record, are in a much better position. Given SKC's consistent poor performance and significant defensive vulnerabilities, Vancouver is highly likely to secure a comfortable win on the road.",
+          "awayRecord": "12-4-4",
+          "homeRecord": "4-3-14"
+        },
+        {
+          "game": "LA Galaxy vs San Diego FC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "The LA Galaxy's matches have consistently seen a high volume of goals this season, as they have scored in 86% of their Major League Soccer games, with both teams scoring in 73% of their fixtures. While San Diego FC's specific recent form is not available, the Galaxy's clear tendency for high-scoring affairs, driven by both their offensive output and defensive vulnerabilities, suggests that this match has a high probability of exceeding the 3.5 total. The favorable odds of -102 for the Over provide good value for a game expected to feature multiple goals.",
+          "awayRecord": "6-8-8",
+          "homeRecord": "7-6-8"
+        }
+      ]
     }
   ],
-  "playerProps": [],
-  "degraded": true,
-  "degradedReason": "odds_unavailable"
+  "playerProps": []
 }
