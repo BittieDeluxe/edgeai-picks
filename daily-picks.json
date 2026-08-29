@@ -1,7 +1,137 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-29T00:52:41.275Z",
-  "sports": [],
+  "generatedAt": "2026-08-29T00:56:01.501Z",
+  "sports": [
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "San Diego Padres vs Tampa Bay Rays",
+          "betType": "moneyline",
+          "pick": "Tampa Bay Rays",
+          "odds": "-126",
+          "confidence": "high",
+          "rationale": "Line sourced from web search — verify before betting. The Tampa Bay Rays are strong home favorites, boasting an impressive 43-23 record at Tropicana Field this season. Starting pitcher Shane McClanahan (9-6, 3.10 ERA) provides a significant advantage over San Diego's Casey Mize (5-7, 3.44 ERA), who has recently struggled, allowing a .906 OPS over the last 28 days and dealing with a recent ankle sprain. Furthermore, the Rays' offense leads MLB with a .260 team batting average, outperforming the Padres' .238. This strong pitching and offensive edge, combined with their excellent home record, makes the Rays a high-confidence play.",
+          "propPlayer": "",
+          "propTeam": "",
+          "awayRecord": "72-62",
+          "homeRecord": "79-54",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers vs Detroit Tigers",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "Line sourced from web search — verify before betting. The Los Angeles Dodgers are heavily favored, and their talent is expected to secure a multi-run victory against the Detroit Tigers. Dodgers' ace Tarik Skubal (8-7, 2.91 ERA) is a dominant force on the mound, while Tigers' starter Drew Anderson (4-5, 4.09 ERA) has shown vulnerability. Detroit has lost three of Anderson's last four starts by two or more runs, indicating a trend of larger deficits in his outings. The SportsGrid model projects the Dodgers to win by 1.8 runs with a 68% win probability, reinforcing the value on the run line.",
+          "awayRecord": "80-54",
+          "homeRecord": "62-71",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Miami Marlins vs Washington Nationals",
+          "betType": "total",
+          "pick": "Over 8.5 Runs",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. This game features a pitching matchup where Washington's rookie Jackson Kent (8.03 ERA) is expected to struggle, having not completed five innings in any of his three big-league starts. Miami's Eury Perez (3.17 ERA) has also shown command issues, walking multiple hitters in his last five outings, which could lead to baserunners. The Nationals' offense, despite their record, can be explosive, and Kent's short outings will put pressure on a potentially tired bullpen. Given these factors, a higher-scoring game is anticipated.",
+          "awayRecord": "68-66",
+          "homeRecord": "63-73",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Seattle Mariners vs Toronto Blue Jays",
+          "betType": "prop",
+          "pick": "Dylan Cease Over 7.5 Strikeouts",
+          "odds": "-120",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. Toronto Blue Jays pitcher Dylan Cease (8-5, 2.37 ERA) is a leading contender for the American League Cy Young award and leads the AL with 209 strikeouts. He has been in dominant form since July, maintaining a sub-1.50 ERA over his last eight starts, showcasing his elite strikeout capability. Cease is the confirmed probable starter for the Blue Jays today. This prop aligns perfectly with his consistent high-strikeout performances and recent form against opposing lineups.",
+          "propPlayer": "Dylan Cease",
+          "propTeam": "Toronto Blue Jays",
+          "awayRecord": "64-70",
+          "homeRecord": "65-70",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Baltimore Orioles vs Athletics",
+          "betType": "spread",
+          "pick": "Baltimore Orioles -1.5",
+          "odds": "-101",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Baltimore Orioles are a strong play on the run line, especially with the Athletics confirming Jacob Lopez (4.98 ERA) as their starter, which initially led to an inflated Orioles moneyline. While Orioles starter Brandon Young (9-3, 3.50 ERA) has had shorter recent outings, the Athletics' bullpen holds a high 4.79 ERA, which Baltimore can exploit. Pete Alonso is a key factor for the Orioles, boasting a 1.176 OPS over the last 28 days and 32 home runs, facing a pitcher who has surrendered 1.17 HR per 9 innings. The model projects Baltimore to win by two or more runs, making the -1.5 run line a valuable pick.",
+          "awayRecord": "65-69",
+          "homeRecord": "53-81",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        }
+      ]
+    }
+  ],
   "playerProps": [],
   "degraded": true,
   "degradedReason": "odds_unavailable"
