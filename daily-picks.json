@@ -1,126 +1,126 @@
 {
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-29T20:09:56.215Z",
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T17:23:15.229Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Colorado Rockies @ Atlanta Braves",
-          "betType": "spread",
-          "pick": "Atlanta Braves -1.5",
-          "odds": "+100",
+          "game": "Miami Marlins vs Washington Nationals",
+          "betType": "moneyline",
+          "pick": "Washington Nationals (-135)",
+          "odds": "-135",
           "confidence": "high",
-          "rationale": "The Atlanta Braves are in excellent form, riding a five-game winning streak and holding a dominant 80-55 record, while the Colorado Rockies have a dismal 2-8 record in their last 10 games. Colorado faces a significant pitching disadvantage as their scheduled starter, Ryan Feltner, was scratched due to illness and will be replaced by Zach Agnos. Atlanta's pitching staff has been strong, posting a 2.83 ERA over their last 10 games and allowing only three home runs, which contrasts sharply with the Rockies' 5.93 ERA in the same period. This strong situational advantage, coupled with the Braves' superior overall performance and pitching, makes them a high-confidence pick to cover the spread.",
-          "awayRecord": "52-83",
-          "homeRecord": "80-55",
+          "rationale": "The Washington Nationals have won the first two games of this four-game series against the Marlins, including a 9-2 victory and a 5-4 extra-inning win. Sharp money is moving towards the Nationals, as their moneyline shifted from an opening pick'em (-105) to -115 despite a 50/50 public split, indicating professional backing. Nationals starter Andrew Alvarez has shown good form recently, keeping earned runs down in his last four starts. Furthermore, the Nationals have led after 5 innings in each of their last seven home day games, demonstrating strong early game performance at home.",
+          "awayRecord": "68-68",
+          "homeRecord": "65-73",
           "awayLast5": [
             "L",
-            "W",
+            "L",
             "W",
             "L",
             "L"
           ],
           "homeLast5": [
-            "W",
-            "W",
+            "L",
+            "L",
             "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Kansas City Royals @ Cleveland Guardians",
-          "betType": "spread",
-          "pick": "Kansas City Royals +1.5",
+          "game": "Boston Red Sox vs New York Yankees",
+          "betType": "moneyline",
+          "pick": "Boston Red Sox (-142)",
           "odds": "-142",
           "confidence": "high",
-          "rationale": "Despite the Guardians being favored, line movement indicates sharp money is backing the Royals' moneyline, suggesting an undervalued underdog. Divisional matchups often result in closer games, which benefits the underdog on the run line. Kansas City's starter, Daniel Lynch, has a solid 2.93 ERA through 58 1/3 innings this season, and the Royals' bullpen recently saw Michael Wacha deliver eight scoreless innings against the Guardians. With Cleveland's starter Foster Griffin holding a 3.19 ERA, the game is projected to be tight, making the Royals +1.5 a strong value play.",
-          "awayRecord": "61-75",
-          "homeRecord": "68-67",
+          "rationale": "The Boston Red Sox hold a significant pitching advantage with Ranger Suarez on the mound, who boasts a 3.35 ERA and has led the Red Sox to a 7-1 record in his last eight starts. In contrast, Yankees starter Will Warren has struggled in August with home run issues and shaky command. The betting market has shown support for Boston, with the moneyline shortening in their favor from an opening of -119 to -124. Both teams are in a tight AL wild-card race, adding intensity to this final series matchup where Boston's pitching edge should prevail.",
+          "awayRecord": "74-62",
+          "homeRecord": "77-59",
           "awayLast5": [
             "W",
-            "W",
+            "L",
             "L",
             "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
+            "L",
             "W",
-            "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "San Diego Padres @ Tampa Bay Rays",
-          "betType": "moneyline",
-          "pick": "Tampa Bay Rays (-164)",
-          "odds": "-164",
+          "game": "Colorado Rockies vs Atlanta Braves",
+          "betType": "spread",
+          "pick": "Atlanta Braves -1.5 (-120)",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "The Tampa Bay Rays are the first American League team to reach 80 wins this season, showcasing their consistent dominance. Rays' starting pitcher Nick Martinez boasts an impressive 13-4 record with a 2.93 ERA, and the team's pitching staff collectively holds a 3.68 ERA over their last 10 games. The San Diego Padres are significantly hampered by injuries, with numerous key players, including several pitchers, currently on the injured list. The moneyline has also seen movement further in favor of the Rays, indicating increased confidence from the betting market in their ability to secure a win.",
-          "awayRecord": "72-63",
-          "homeRecord": "80-54",
+          "rationale": "The Atlanta Braves are a dominant team, holding an 81-55 record and having won the first two games of this series against the struggling Rockies, who have lost eight of their last ten. Braves starter Tyler Mahle has been exceptional since joining the team, allowing only four earned runs over 23.2 innings in his last four starts. The Rockies are countering with rookie Mason Adams, making only his second career start and expected to be on a limited pitch count due to Tommy John recovery. Line movement indicates sharp money on the Braves -1.5, with the price shifting from plus-money to -110, aligning with the clear mismatch.",
+          "awayRecord": "52-84",
+          "homeRecord": "81-55",
           "awayLast5": [
             "W",
-            "L",
-            "L",
             "W",
+            "L",
+            "L",
             "L"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L",
+            "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Miami Marlins @ Washington Nationals",
+          "game": "Seattle Mariners vs Toronto Blue Jays",
           "betType": "moneyline",
-          "pick": "Miami Marlins (-116)",
-          "odds": "-116",
+          "pick": "Toronto Blue Jays (+122)",
+          "odds": "+122",
           "confidence": "medium",
-          "rationale": "The Miami Marlins hold a slight advantage in recent pitching performance, with their staff recording a 3.89 ERA and allowing only seven home runs over the last 10 games. Miami's starting pitcher, Sandy Alcantara, has a strong 13-8 record with a 3.38 ERA, which is more reliable than Nationals starter Cade Cavalli, who recently gave up five earned runs. Although both teams have struggled, the line movement has shifted slightly towards the Marlins, indicating some sharp money backing them. Alcantara's proven track record and the Marlins' marginally better recent pitching metrics provide a solid edge for a moneyline pick.",
-          "awayRecord": "68-67",
-          "homeRecord": "64-73",
+          "rationale": "The Toronto Blue Jays have won the first two games of this series against the Mariners, including an 8-1 victory yesterday. Despite a public lean towards the Mariners, there's notable reverse line movement towards the Blue Jays, suggesting sharp money is backing Toronto. The Blue Jays are starting Max Scherzer, a veteran ace, while Mariners starter Logan Gilbert has recently struggled with pitch count and length, averaging just over five innings per start. With an off day on Monday, the Blue Jays bullpen can be utilized more aggressively if needed, providing an additional advantage.",
+          "awayRecord": "64-72",
+          "homeRecord": "67-70",
           "awayLast5": [
             "W",
-            "L",
-            "L",
             "W",
+            "L",
+            "L",
             "L"
           ],
           "homeLast5": [
-            "W",
             "L",
+            "W",
             "L",
             "W",
             "W"
           ]
         },
         {
-          "game": "Seattle Mariners @ Toronto Blue Jays",
+          "game": "Los Angeles Dodgers vs Detroit Tigers",
           "betType": "total",
-          "pick": "Under 8",
-          "odds": "-114",
+          "pick": "Under 7.5 (-122)",
+          "odds": "-122",
           "confidence": "medium",
-          "rationale": "Both the Mariners and Blue Jays are dealing with extensive injury lists, impacting both their pitching rotations and key offensive players. While Seattle's pitching has struggled recently with a 6.98 ERA over their last 10 games, Toronto's staff has been more effective with a 4.50 ERA in the same span. The Blue Jays are starting Jose Soriano (3.49 ERA), and the Mariners are starting Kade Anderson (4.76 ERA in his only start), suggesting a potentially contained scoring environment. With significant offensive contributors like Luke Raley and Brendan Donovan for Seattle, and Luis Urías and Anthony Santander for Toronto sidelined, offensive production is likely to be limited, favoring the Under 8.",
-          "awayRecord": "64-71",
-          "homeRecord": "66-70",
+          "rationale": "The first two games of this series between the Dodgers and Tigers were remarkably low-scoring, with both contests ending 2-1. Dodgers starter Tyler Glasnow is making his second start back from a long absence and is expected to be on a managed pitch count, which could limit scoring opportunities. Tigers starter Framber Valdez, despite some inconsistencies, has shown an ability to keep runs off the board when his sinker is effective. Furthermore, Comerica Park is known to modestly suppress offense, contributing to a lower-scoring environment. The line movement on the total, where the Under price firmed from -105 to -120 while the total remained at 7.5, indicates sharp money favoring fewer runs.",
+          "awayRecord": "81-55",
+          "homeRecord": "63-72",
           "awayLast5": [
             "L",
-            "W",
-            "W",
             "L",
+            "L",
+            "W",
             "L"
           ],
           "homeLast5": [
             "L",
-            "L",
             "W",
+            "L",
             "L",
             "W"
           ]
@@ -131,54 +131,54 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "Chicago Fire FC vs Seattle Sounders FC",
+          "game": "New England Revolution vs Columbus Crew",
           "betType": "moneyline",
-          "pick": "Chicago Fire FC",
-          "odds": "+125",
-          "confidence": "high",
-          "rationale": "Seattle Sounders FC is severely depleted by injuries, with six key players out and one questionable, including top attackers and defenders, significantly impacting their lineup. The Sounders are also in dismal form, winless in their last nine league games, having just ended an eight-game losing streak. In contrast, Chicago Fire FC has been in excellent form in August, boasting a strong 6-1-1 record. Despite historical struggles at Lumen Field, Chicago's current momentum and Seattle's extensive absences create a strong betting advantage for the away team.",
-          "awayRecord": "11-3-6",
-          "homeRecord": "7-4-9"
-        },
-        {
-          "game": "New York City FC vs Toronto FC",
-          "betType": "moneyline",
-          "pick": "Toronto FC",
-          "odds": "+145",
-          "confidence": "high",
-          "rationale": "New York City FC is facing a major injury crisis, with eight players listed as 'Out' due to lower body injuries, including several key attacking and midfield players. This has directly contributed to their poor form, as they are on a five-game winless streak in all competitions and a four-game winless streak in MLS. Toronto FC, playing at home, is in good recent form, being unbeaten in their last four fixtures, which includes a notable win over Inter Miami CF. The combination of NYCFC's extensive injuries and Toronto's positive momentum at home makes this a high-confidence pick.",
-          "awayRecord": "11-3-6",
-          "homeRecord": "7-4-9"
-        },
-        {
-          "game": "FC Cincinnati vs Nashville SC",
-          "betType": "moneyline",
-          "pick": "Nashville SC",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "Nashville SC is having a historic season, currently holding the best 21-game start in MLS history with a 15-4-2 record and 49 points, leading the Supporters' Shield standings. Their home form is particularly dominant, remaining unbeaten in regular season play at GEODIS Park with a 10W-0L-1D record and outscoring opponents 32-12. Facing FC Cincinnati, whose recent form is not detailed but whose overall record is significantly weaker, Nashville's consistent home advantage and exceptional performance make them a very strong favorite to win.",
-          "awayRecord": "8-7-6",
-          "homeRecord": "15-4-2"
-        },
-        {
-          "game": "Vancouver Whitecaps vs Sporting Kansas City",
-          "betType": "moneyline",
-          "pick": "Vancouver Whitecaps",
-          "odds": "-250",
+          "pick": "New England Revolution",
+          "odds": "+210",
           "confidence": "medium",
-          "rationale": "Sporting Kansas City is in a severe slump, with a recent form of LLLDL and an overall record of 4-3-14, placing them at the bottom of the league. They possess a porous defense, conceding an average of 2.4 goals per game this season and 1.8 goals per game at home. The Vancouver Whitecaps, with a strong 12-4-4 record, are in a much better position. Given SKC's consistent poor performance and significant defensive vulnerabilities, Vancouver is highly likely to secure a comfortable win on the road.",
-          "awayRecord": "12-4-4",
-          "homeRecord": "4-3-14"
+          "rationale": "Columbus Crew is in very poor form, having lost their last three games and holding a 0-4-1 record in their last five matches across all competitions. They are also significantly impacted by injuries to key attacking players Wessam Abou Ali (season-ending) and Sekou Bangoura (out), along with defender Rudy Camacho (out). In contrast, New England Revolution holds a 'Very Good' overall form, ranking 7th in the MLS table with a 10-4-7 record. The +210 moneyline offers excellent value given Columbus's struggles and injury situation against a stronger opponent.",
+          "awayRecord": "10-4-7",
+          "homeRecord": "5-5-11"
         },
         {
-          "game": "LA Galaxy vs San Diego FC",
+          "game": "New England Revolution vs Columbus Crew",
           "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-102",
+          "pick": "Over 2.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "Columbus Crew has a 'Very Poor' defensive record, conceding an average of 1.71 goals per match overall and 2.27 goals in away games this season. The Over 2.5 line has been covered in Columbus's last six games. Both teams have shown 'unstable transition defenses', and New England averages 1.6 goals per game. This combination of poor defense, recent high-scoring trends for Columbus, and New England's scoring ability strongly points to an Over.",
+          "awayRecord": "10-4-7",
+          "homeRecord": "5-5-11"
+        },
+        {
+          "game": "FC Dallas vs St. Louis CITY SC",
+          "betType": "moneyline",
+          "pick": "St. Louis CITY SC",
+          "odds": "+100",
+          "confidence": "high",
+          "rationale": "St. Louis CITY SC is in exceptional form, currently on an 11-game unbeaten run, and boasts a strong home record with 6 wins and 2 draws in 10 matches. FC Dallas, despite a decent away record, is concluding a demanding nine-game road trip and suffered a significant 5-0 loss in their last outing. Although St. Louis has several players out with injuries and recently traded Eduard Löwen, their consistent performance and home advantage make them a strong pick at even money.",
+          "awayRecord": "9-6-6",
+          "homeRecord": "9-6-6"
+        },
+        {
+          "game": "FC Dallas vs St. Louis CITY SC",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "+120",
           "confidence": "medium",
-          "rationale": "The LA Galaxy's matches have consistently seen a high volume of goals this season, as they have scored in 86% of their Major League Soccer games, with both teams scoring in 73% of their fixtures. While San Diego FC's specific recent form is not available, the Galaxy's clear tendency for high-scoring affairs, driven by both their offensive output and defensive vulnerabilities, suggests that this match has a high probability of exceeding the 3.5 total. The favorable odds of -102 for the Over provide good value for a game expected to feature multiple goals.",
-          "awayRecord": "6-8-8",
-          "homeRecord": "7-6-8"
+          "rationale": "The head-to-head history between these two teams shows a trend towards lower-scoring affairs, with 5 out of their last 8 meetings going Under 2.5 goals. St. Louis City has a solid defensive record, conceding an average of 1.29 goals per game. The recent trade of midfielder Eduard Löwen by St. Louis could also impact their offensive fluidity. Despite the market favoring the Over, the historical trend and defensive metrics provide strong value for the Under at +120.",
+          "awayRecord": "9-6-6",
+          "homeRecord": "9-6-6"
+        },
+        {
+          "game": "New England Revolution vs Columbus Crew",
+          "betType": "moneyline",
+          "pick": "Columbus Crew",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "Despite their recent poor form and injuries, Columbus Crew benefits from playing at home, a factor that provides a territorial boost. New England Revolution's away form is only average, with 2 wins, 2 draws, and 5 losses in their road games. Columbus is in a late-season push for playoff positioning, which could motivate a more aggressive performance, especially if the score is level late in the game. The home advantage combined with New England's inconsistent away results offers value for Columbus at +110.",
+          "awayRecord": "10-4-7",
+          "homeRecord": "5-5-11"
         }
       ]
     }
