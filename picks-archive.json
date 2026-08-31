@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-08-30",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Miami Marlins vs Washington Nationals",
+            "betType": "moneyline",
+            "pick": "Washington Nationals (-135)",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "L",
+            "score": "Miami Marlins 6, Washington Nationals 2"
+          },
+          {
+            "game": "Boston Red Sox vs New York Yankees",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox (-142)",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Red Sox 1, New York Yankees 16"
+          },
+          {
+            "game": "Colorado Rockies vs Atlanta Braves",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5 (-120)",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Colorado Rockies 2, Atlanta Braves 3"
+          },
+          {
+            "game": "Seattle Mariners vs Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Toronto Blue Jays (+122)",
+            "odds": "+122",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Seattle Mariners 0, Toronto Blue Jays 7"
+          },
+          {
+            "game": "Los Angeles Dodgers vs Detroit Tigers",
+            "betType": "total",
+            "pick": "Under 7.5 (-122)",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Dodgers 6, Detroit Tigers 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "New England Revolution vs Columbus Crew",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+210",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New England Revolution 3, Columbus Crew 1"
+          },
+          {
+            "game": "New England Revolution vs Columbus Crew",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "W",
+            "score": "New England Revolution 3, Columbus Crew 1"
+          },
+          {
+            "game": "FC Dallas vs St. Louis CITY SC",
+            "betType": "moneyline",
+            "pick": "St. Louis CITY SC",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "L",
+            "score": "FC Dallas 3, St. Louis CITY SC 3"
+          },
+          {
+            "game": "FC Dallas vs St. Louis CITY SC",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+120",
+            "confidence": "medium",
+            "result": "L",
+            "score": "FC Dallas 3, St. Louis CITY SC 3"
+          },
+          {
+            "game": "New England Revolution vs Columbus Crew",
+            "betType": "moneyline",
+            "pick": "Columbus Crew",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New England Revolution 3, Columbus Crew 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-29",
     "sports": [
       {
@@ -2126,62 +2232,6 @@
             "confidence": "high",
             "result": "L",
             "score": "Toronto FC 1, New York City FC 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-30",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Texas Rangers vs Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-164",
-            "confidence": "high",
-            "result": "W",
-            "score": "Texas Rangers 2, Tampa Bay Rays 3"
-          },
-          {
-            "game": "Boston Red Sox vs Athletics",
-            "betType": "spread",
-            "pick": "Boston Red Sox -1.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "L",
-            "score": "Boston Red Sox 5, Athletics 4"
-          },
-          {
-            "game": "Miami Marlins vs New York Mets",
-            "betType": "moneyline",
-            "pick": "Miami Marlins",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Miami Marlins 2, New York Mets 4"
-          },
-          {
-            "game": "Washington Nationals vs Atlanta Braves",
-            "betType": "total",
-            "pick": "Over 9.5",
-            "odds": "-122",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Washington Nationals 4, Atlanta Braves 5"
-          },
-          {
-            "game": "Seattle Mariners vs Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5",
-            "odds": "+128",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Mariners 2, Los Angeles Dodgers 6"
           }
         ]
       }

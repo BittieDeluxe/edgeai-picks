@@ -1,73 +1,25 @@
 {
-  "date": "2026-08-30",
-  "generatedAt": "2026-08-30T17:23:15.229Z",
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T21:53:11.106Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Miami Marlins vs Washington Nationals",
-          "betType": "moneyline",
-          "pick": "Washington Nationals (-135)",
-          "odds": "-135",
-          "confidence": "high",
-          "rationale": "The Washington Nationals have won the first two games of this four-game series against the Marlins, including a 9-2 victory and a 5-4 extra-inning win. Sharp money is moving towards the Nationals, as their moneyline shifted from an opening pick'em (-105) to -115 despite a 50/50 public split, indicating professional backing. Nationals starter Andrew Alvarez has shown good form recently, keeping earned runs down in his last four starts. Furthermore, the Nationals have led after 5 innings in each of their last seven home day games, demonstrating strong early game performance at home.",
-          "awayRecord": "68-68",
-          "homeRecord": "65-73",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Boston Red Sox vs New York Yankees",
-          "betType": "moneyline",
-          "pick": "Boston Red Sox (-142)",
-          "odds": "-142",
-          "confidence": "high",
-          "rationale": "The Boston Red Sox hold a significant pitching advantage with Ranger Suarez on the mound, who boasts a 3.35 ERA and has led the Red Sox to a 7-1 record in his last eight starts. In contrast, Yankees starter Will Warren has struggled in August with home run issues and shaky command. The betting market has shown support for Boston, with the moneyline shortening in their favor from an opening of -119 to -124. Both teams are in a tight AL wild-card race, adding intensity to this final series matchup where Boston's pitching edge should prevail.",
-          "awayRecord": "74-62",
-          "homeRecord": "77-59",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Colorado Rockies vs Atlanta Braves",
+          "game": "San Francisco Giants vs Atlanta Braves",
           "betType": "spread",
-          "pick": "Atlanta Braves -1.5 (-120)",
-          "odds": "-120",
+          "pick": "Atlanta Braves -1.5 (+100)",
+          "odds": "+100",
           "confidence": "high",
-          "rationale": "The Atlanta Braves are a dominant team, holding an 81-55 record and having won the first two games of this series against the struggling Rockies, who have lost eight of their last ten. Braves starter Tyler Mahle has been exceptional since joining the team, allowing only four earned runs over 23.2 innings in his last four starts. The Rockies are countering with rookie Mason Adams, making only his second career start and expected to be on a limited pitch count due to Tommy John recovery. Line movement indicates sharp money on the Braves -1.5, with the price shifting from plus-money to -110, aligning with the clear mismatch.",
-          "awayRecord": "52-84",
-          "homeRecord": "81-55",
+          "rationale": "The Atlanta Braves are on a seven-game winning streak and boast a strong 48-23 home record, while the Giants are a dismal 23-45 on the road. Atlanta's moneyline has seen significant sharp money, moving from -145 to -190, with 86% of moneyline bets and 89% of moneyline dollars on the Braves. San Francisco is starting rookie Anthony Molina, who has limited major league experience and is unlikely to provide a deep outing, forcing a bullpen game for the Giants after a cross-country flight and a doubleheader. While the Braves have won several recent games by small margins, their overall strong form, home advantage, and the Giants' bullpen situation create a strong opportunity for Atlanta to win by more than one run.",
+          "awayRecord": "56-81",
+          "homeRecord": "82-55",
           "awayLast5": [
-            "W",
+            "L",
             "W",
             "L",
             "L",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "W",
@@ -78,13 +30,13 @@
           ]
         },
         {
-          "game": "Seattle Mariners vs Toronto Blue Jays",
-          "betType": "moneyline",
-          "pick": "Toronto Blue Jays (+122)",
-          "odds": "+122",
-          "confidence": "medium",
-          "rationale": "The Toronto Blue Jays have won the first two games of this series against the Mariners, including an 8-1 victory yesterday. Despite a public lean towards the Mariners, there's notable reverse line movement towards the Blue Jays, suggesting sharp money is backing Toronto. The Blue Jays are starting Max Scherzer, a veteran ace, while Mariners starter Logan Gilbert has recently struggled with pitch count and length, averaging just over five innings per start. With an off day on Monday, the Blue Jays bullpen can be utilized more aggressively if needed, providing an additional advantage.",
-          "awayRecord": "64-72",
+          "game": "Athletics vs Texas Rangers",
+          "betType": "prop",
+          "pick": "Jacob deGrom Under 1.5 earned runs",
+          "odds": "N/A (implied from -105 for Under 7.5 total)",
+          "confidence": "high",
+          "rationale": "Jacob deGrom, despite a recent rough outing, faces an Athletics lineup that is 'totally gross right now' due to injuries to their four best hitters and a .674 team OPS on the road. DeGrom has a 2.67 ERA and 28% K-BB% at home this year, and he previously shut out the Athletics over 5 innings in 2025. The Athletics are also on a three-game losing streak and have struggled offensively, scoring only 11 runs in their last three games. This matchup presents a prime bounce-back spot for deGrom against a significantly weakened offense, making the Under 1.5 earned runs a strong play.",
+          "awayRecord": "53-84",
           "homeRecord": "67-70",
           "awayLast5": [
             "W",
@@ -95,90 +47,83 @@
           ],
           "homeLast5": [
             "L",
-            "W",
             "L",
-            "W",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Los Angeles Dodgers vs Detroit Tigers",
+          "game": "Seattle Mariners vs Boston Red Sox",
           "betType": "total",
-          "pick": "Under 7.5 (-122)",
-          "odds": "-122",
+          "pick": "Over 8.5 (-102)",
+          "odds": "-102",
           "confidence": "medium",
-          "rationale": "The first two games of this series between the Dodgers and Tigers were remarkably low-scoring, with both contests ending 2-1. Dodgers starter Tyler Glasnow is making his second start back from a long absence and is expected to be on a managed pitch count, which could limit scoring opportunities. Tigers starter Framber Valdez, despite some inconsistencies, has shown an ability to keep runs off the board when his sinker is effective. Furthermore, Comerica Park is known to modestly suppress offense, contributing to a lower-scoring environment. The line movement on the total, where the Under price firmed from -105 to -120 while the total remained at 7.5, indicates sharp money favoring fewer runs.",
-          "awayRecord": "81-55",
-          "homeRecord": "63-72",
+          "rationale": "The total for this game has risen from 7.5 to 8, and then to 8.5, reflecting concerns about Seattle's starter George Kirby, who has allowed five or more earned runs in two of his last three starts. While Boston's Payton Tolle has been strong, Seattle's offense, despite recent struggles, has the potential to contribute, and both bullpens have shown vulnerability, with Boston's relief corps owning a 4.71 FIP over the last week. The Mariners' road team-total Under has hit in 43 of 69 decisions, but with Kirby's recent form and the total moving up, the Over becomes more appealing in a game where both teams could contribute to the scoring.",
+          "awayRecord": "64-73",
+          "homeRecord": "74-63",
           "awayLast5": [
+            "W",
             "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
             "L",
             "L",
             "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "San Diego Padres vs Cincinnati Reds",
+          "betType": "moneyline",
+          "pick": "San Diego Padres (-134)",
+          "odds": "-134",
+          "confidence": "medium",
+          "rationale": "The San Diego Padres have a significant pitching advantage with Michael King (3.23 ERA) facing Cincinnati's Brady Singer (4.72 ERA), who has allowed three or more earned runs in each of his last five starts. The Padres have a strong 20-10 record in their last 30 games, despite a recent sweep, and have a dominant 23-11 head-to-head record against the Reds recently. While the Padres are on a four-game road losing streak, their superior pitching and historical dominance over the Reds, combined with sharp money leaning on the Padres, makes them a confident moneyline pick.",
+          "awayRecord": "72-65",
+          "homeRecord": "65-72",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
             "L"
           ],
           "homeLast5": [
             "L",
             "W",
-            "L",
+            "W",
             "L",
             "W"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
+        },
         {
-          "game": "New England Revolution vs Columbus Crew",
+          "game": "Milwaukee Brewers vs Chicago Cubs",
           "betType": "moneyline",
-          "pick": "New England Revolution",
-          "odds": "+210",
+          "pick": "Milwaukee Brewers (+108)",
+          "odds": "+108",
           "confidence": "medium",
-          "rationale": "Columbus Crew is in very poor form, having lost their last three games and holding a 0-4-1 record in their last five matches across all competitions. They are also significantly impacted by injuries to key attacking players Wessam Abou Ali (season-ending) and Sekou Bangoura (out), along with defender Rudy Camacho (out). In contrast, New England Revolution holds a 'Very Good' overall form, ranking 7th in the MLS table with a 10-4-7 record. The +210 moneyline offers excellent value given Columbus's struggles and injury situation against a stronger opponent.",
-          "awayRecord": "10-4-7",
-          "homeRecord": "5-5-11"
-        },
-        {
-          "game": "New England Revolution vs Columbus Crew",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-160",
-          "confidence": "high",
-          "rationale": "Columbus Crew has a 'Very Poor' defensive record, conceding an average of 1.71 goals per match overall and 2.27 goals in away games this season. The Over 2.5 line has been covered in Columbus's last six games. Both teams have shown 'unstable transition defenses', and New England averages 1.6 goals per game. This combination of poor defense, recent high-scoring trends for Columbus, and New England's scoring ability strongly points to an Over.",
-          "awayRecord": "10-4-7",
-          "homeRecord": "5-5-11"
-        },
-        {
-          "game": "FC Dallas vs St. Louis CITY SC",
-          "betType": "moneyline",
-          "pick": "St. Louis CITY SC",
-          "odds": "+100",
-          "confidence": "high",
-          "rationale": "St. Louis CITY SC is in exceptional form, currently on an 11-game unbeaten run, and boasts a strong home record with 6 wins and 2 draws in 10 matches. FC Dallas, despite a decent away record, is concluding a demanding nine-game road trip and suffered a significant 5-0 loss in their last outing. Although St. Louis has several players out with injuries and recently traded Eduard Löwen, their consistent performance and home advantage make them a strong pick at even money.",
-          "awayRecord": "9-6-6",
-          "homeRecord": "9-6-6"
-        },
-        {
-          "game": "FC Dallas vs St. Louis CITY SC",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "+120",
-          "confidence": "medium",
-          "rationale": "The head-to-head history between these two teams shows a trend towards lower-scoring affairs, with 5 out of their last 8 meetings going Under 2.5 goals. St. Louis City has a solid defensive record, conceding an average of 1.29 goals per game. The recent trade of midfielder Eduard Löwen by St. Louis could also impact their offensive fluidity. Despite the market favoring the Over, the historical trend and defensive metrics provide strong value for the Under at +120.",
-          "awayRecord": "9-6-6",
-          "homeRecord": "9-6-6"
-        },
-        {
-          "game": "New England Revolution vs Columbus Crew",
-          "betType": "moneyline",
-          "pick": "Columbus Crew",
-          "odds": "+110",
-          "confidence": "medium",
-          "rationale": "Despite their recent poor form and injuries, Columbus Crew benefits from playing at home, a factor that provides a territorial boost. New England Revolution's away form is only average, with 2 wins, 2 draws, and 5 losses in their road games. Columbus is in a late-season push for playoff positioning, which could motivate a more aggressive performance, especially if the score is level late in the game. The home advantage combined with New England's inconsistent away results offers value for Columbus at +110.",
-          "awayRecord": "10-4-7",
-          "homeRecord": "5-5-11"
+          "rationale": "The Milwaukee Brewers, with the best record in the National League at 85-52 and a +177 run differential, are being priced as an underdog against the 77-60 Cubs. Brewers starter Kyle Harrison boasts a 2.79 ERA and 11.06 K/9, and he has a 1.50 ERA with 20 strikeouts in two starts against the Cubs this season. While the Cubs' Clay Holmes has a good recent ERA, his low strikeout rate suggests contact management, which could be challenged by Milwaukee's strong offense. Despite the Cubs taking the last two H2H games in June, the Brewers lead the season series 4-2, and the value on the better team at plus money is significant.",
+          "awayRecord": "85-52",
+          "homeRecord": "77-60",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
         }
       ]
     }
