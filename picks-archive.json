@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-08-31",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Francisco Giants vs Atlanta Braves",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5 (+100)",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Francisco Giants 7, Atlanta Braves 3"
+          },
+          {
+            "game": "Athletics vs Texas Rangers",
+            "betType": "prop",
+            "pick": "Jacob deGrom Under 1.5 earned runs",
+            "odds": "N/A (implied from -105 for Under 7.5 total)",
+            "confidence": "high",
+            "result": "W",
+            "score": "Jacob deGrom: 0 earned runs (line 1.5)"
+          },
+          {
+            "game": "Seattle Mariners vs Boston Red Sox",
+            "betType": "total",
+            "pick": "Over 8.5 (-102)",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Seattle Mariners 8, Boston Red Sox 9"
+          },
+          {
+            "game": "San Diego Padres vs Cincinnati Reds",
+            "betType": "moneyline",
+            "pick": "San Diego Padres (-134)",
+            "odds": "-134",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego Padres 5, Cincinnati Reds 0"
+          },
+          {
+            "game": "Milwaukee Brewers vs Chicago Cubs",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (+108)",
+            "odds": "+108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Milwaukee Brewers 3, Chicago Cubs 17"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-30",
     "sports": [
       {
@@ -2153,85 +2209,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Nashville SC 2, D.C. United 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-07-31",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Pittsburgh Pirates @ Cincinnati Reds",
-            "betType": "moneyline",
-            "pick": "Pittsburgh Pirates",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "L",
-            "score": "Pittsburgh Pirates 7, Cincinnati Reds 8"
-          },
-          {
-            "game": "Philadelphia Phillies @ Baltimore Orioles",
-            "betType": "spread",
-            "pick": "Baltimore Orioles +1.5",
-            "odds": "-142",
-            "confidence": "high",
-            "result": "W",
-            "score": "Philadelphia Phillies 4, Baltimore Orioles 6"
-          },
-          {
-            "game": "Texas Rangers @ Houston Astros",
-            "betType": "moneyline",
-            "pick": "Houston Astros",
-            "odds": "+114",
-            "confidence": "high",
-            "result": "W",
-            "score": "Texas Rangers 2, Houston Astros 11"
-          },
-          {
-            "game": "San Francisco Giants @ San Diego Padres",
-            "betType": "moneyline",
-            "pick": "San Diego Padres",
-            "odds": "-138",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Francisco Giants 0, San Diego Padres 7"
-          },
-          {
-            "game": "Minnesota Twins @ Seattle Mariners",
-            "betType": "total",
-            "pick": "Over 8",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "P",
-            "score": "Minnesota Twins 5, Seattle Mariners 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Toronto FC @ New York City FC",
-            "betType": "moneyline",
-            "pick": "New York City FC",
-            "odds": "-150",
-            "confidence": "high",
-            "result": "L",
-            "score": "Toronto FC 1, New York City FC 1"
-          },
-          {
-            "game": "Toronto FC @ New York City FC",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-150",
-            "confidence": "high",
-            "result": "L",
-            "score": "Toronto FC 1, New York City FC 1"
           }
         ]
       }

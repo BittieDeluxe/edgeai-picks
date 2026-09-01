@@ -1,22 +1,22 @@
 {
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-31T21:53:11.106Z",
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T19:54:13.806Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "San Francisco Giants vs Atlanta Braves",
+          "game": "San Diego Padres @ Cincinnati Reds",
           "betType": "spread",
-          "pick": "Atlanta Braves -1.5 (+100)",
-          "odds": "+100",
+          "pick": "San Diego Padres -1.5",
+          "odds": "+112",
           "confidence": "high",
-          "rationale": "The Atlanta Braves are on a seven-game winning streak and boast a strong 48-23 home record, while the Giants are a dismal 23-45 on the road. Atlanta's moneyline has seen significant sharp money, moving from -145 to -190, with 86% of moneyline bets and 89% of moneyline dollars on the Braves. San Francisco is starting rookie Anthony Molina, who has limited major league experience and is unlikely to provide a deep outing, forcing a bullpen game for the Giants after a cross-country flight and a doubleheader. While the Braves have won several recent games by small margins, their overall strong form, home advantage, and the Giants' bullpen situation create a strong opportunity for Atlanta to win by more than one run.",
-          "awayRecord": "56-81",
-          "homeRecord": "82-55",
+          "rationale": "The Padres hold a significant pitching advantage with Randy Vasquez (4.02 ERA, 2.57 ERA in August) facing Nick Lodolo (5.24 ERA, 7.71 ERA in August). San Diego also boasts a better overall record at 73-65 and secured a dominant 5-0 victory in Monday's series opener. Betting trends further support the Padres, as they are 41-25 (62% ROI) against sub-.500 teams and 94-59 (61% ROI) as non-division road favorites off a win with favorable line movement. Despite heavy public backing, the run line has remained stable, indicating strong value on the Padres to cover.",
+          "awayRecord": "73-65",
+          "homeRecord": "65-73",
           "awayLast5": [
-            "L",
             "W",
+            "L",
             "L",
             "L",
             "W"
@@ -24,105 +24,105 @@
           "homeLast5": [
             "W",
             "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Athletics vs Texas Rangers",
-          "betType": "prop",
-          "pick": "Jacob deGrom Under 1.5 earned runs",
-          "odds": "N/A (implied from -105 for Under 7.5 total)",
-          "confidence": "high",
-          "rationale": "Jacob deGrom, despite a recent rough outing, faces an Athletics lineup that is 'totally gross right now' due to injuries to their four best hitters and a .674 team OPS on the road. DeGrom has a 2.67 ERA and 28% K-BB% at home this year, and he previously shut out the Athletics over 5 innings in 2025. The Athletics are also on a three-game losing streak and have struggled offensively, scoring only 11 runs in their last three games. This matchup presents a prime bounce-back spot for deGrom against a significantly weakened offense, making the Under 1.5 earned runs a strong play.",
-          "awayRecord": "53-84",
-          "homeRecord": "67-70",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Seattle Mariners vs Boston Red Sox",
-          "betType": "total",
-          "pick": "Over 8.5 (-102)",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "The total for this game has risen from 7.5 to 8, and then to 8.5, reflecting concerns about Seattle's starter George Kirby, who has allowed five or more earned runs in two of his last three starts. While Boston's Payton Tolle has been strong, Seattle's offense, despite recent struggles, has the potential to contribute, and both bullpens have shown vulnerability, with Boston's relief corps owning a 4.71 FIP over the last week. The Mariners' road team-total Under has hit in 43 of 69 decisions, but with Kirby's recent form and the total moving up, the Over becomes more appealing in a game where both teams could contribute to the scoring.",
-          "awayRecord": "64-73",
-          "homeRecord": "74-63",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
             "L",
             "W",
-            "L",
             "L"
           ]
         },
         {
-          "game": "San Diego Padres vs Cincinnati Reds",
+          "game": "Chicago White Sox @ Houston Astros",
           "betType": "moneyline",
-          "pick": "San Diego Padres (-134)",
-          "odds": "-134",
-          "confidence": "medium",
-          "rationale": "The San Diego Padres have a significant pitching advantage with Michael King (3.23 ERA) facing Cincinnati's Brady Singer (4.72 ERA), who has allowed three or more earned runs in each of his last five starts. The Padres have a strong 20-10 record in their last 30 games, despite a recent sweep, and have a dominant 23-11 head-to-head record against the Reds recently. While the Padres are on a four-game road losing streak, their superior pitching and historical dominance over the Reds, combined with sharp money leaning on the Padres, makes them a confident moneyline pick.",
+          "pick": "Chicago White Sox (-108)",
+          "odds": "-108",
+          "confidence": "high",
+          "rationale": "The White Sox possess a substantial pitching advantage with Sean Burke (3.32 ERA) slated to start against Houston's Ronel Blanco (7.71 ERA). Blanco's limited 2026 work and low pitch count in his last rehab start suggest potential early bullpen reliance for the Astros. Despite Houston's win in the series opener, the moneyline has shifted towards the White Sox, indicating sharp money is recognizing Burke's clear edge. This significant starting pitching disparity provides a strong foundation for the White Sox to secure a road victory.",
           "awayRecord": "72-65",
-          "homeRecord": "65-72",
+          "homeRecord": "70-68",
           "awayLast5": [
-            "L",
             "W",
-            "L",
+            "W",
+            "W",
             "L",
             "L"
           ],
           "homeLast5": [
-            "L",
             "W",
             "W",
             "L",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Milwaukee Brewers vs Chicago Cubs",
-          "betType": "moneyline",
-          "pick": "Milwaukee Brewers (+108)",
-          "odds": "+108",
-          "confidence": "medium",
-          "rationale": "The Milwaukee Brewers, with the best record in the National League at 85-52 and a +177 run differential, are being priced as an underdog against the 77-60 Cubs. Brewers starter Kyle Harrison boasts a 2.79 ERA and 11.06 K/9, and he has a 1.50 ERA with 20 strikeouts in two starts against the Cubs this season. While the Cubs' Clay Holmes has a good recent ERA, his low strikeout rate suggests contact management, which could be challenged by Milwaukee's strong offense. Despite the Cubs taking the last two H2H games in June, the Brewers lead the season series 4-2, and the value on the better team at plus money is significant.",
-          "awayRecord": "85-52",
-          "homeRecord": "77-60",
+          "game": "Baltimore Orioles @ Colorado Rockies",
+          "betType": "spread",
+          "pick": "Baltimore Orioles -1.5",
+          "odds": "-108",
+          "confidence": "high",
+          "rationale": "The Baltimore Orioles are in strong form, having won four consecutive games, while the Colorado Rockies have dropped five straight contests. Baltimore's Kyle Bradish (4.03 ERA) presents a significant pitching advantage over Colorado's Gabriel Hughes (6.61 ERA). Historical betting trends show the Rockies struggling as underdogs, with a 1-7 record in Hughes' starts when priced at +124 or longer. Given the Orioles' momentum, superior starting pitching, and the Rockies' consistent struggles, Baltimore is well-positioned to cover the run line at Coors Field.",
+          "awayRecord": "69-69",
+          "homeRecord": "52-86",
           "awayLast5": [
+            "L",
             "W",
             "W",
             "W",
-            "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "L",
             "L",
             "L",
-            "W",
+            "L",
             "L"
+          ]
+        },
+        {
+          "game": "Philadelphia Phillies @ Arizona Diamondbacks",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "This matchup features a stellar pitching duel between Philadelphia's Jesus Luzardo (3.09 ERA, 1.79 ERA on the road) and Arizona's Eduardo Rodriguez (2.50 ERA, 2.47 ERA at home). Both starting pitchers have demonstrated exceptional run prevention this season, particularly in their respective home and away splits. The Diamondbacks' offense will also be hampered by the absence of key hitter Lourdes Gurriel Jr., who is on the 10-day injured list with an adductor strain. Both teams have shown a recent trend towards lower-scoring affairs, with an 11-4 record to the under in their last 15 combined games.",
+          "awayRecord": "78-60",
+          "homeRecord": "73-66",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Seattle Mariners @ Boston Red Sox",
+          "betType": "moneyline",
+          "pick": "Seattle Mariners (+104)",
+          "odds": "+104",
+          "confidence": "medium",
+          "rationale": "The Red Sox moneyline has remained frozen at -126 despite receiving 81% of public moneyline tickets, a classic 'frozen line' indicator of sharp money favoring the underdog Mariners. Boston is also significantly impacted by the absence of their most productive hitter, Willson Contreras, who is on the 10-day IL with a hamstring strain. Furthermore, the Red Sox have yet to announce their starting pitcher, adding an element of uncertainty to their pitching plans. These combined factors of sharp line movement, key Red Sox injuries, and an unannounced starter create a strong value proposition for the Seattle Mariners.",
+          "awayRecord": "64-74",
+          "homeRecord": "75-63",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
           ]
         }
       ]
