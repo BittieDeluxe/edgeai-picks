@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-09-01",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "San Diego Padres @ Cincinnati Reds",
+            "betType": "spread",
+            "pick": "San Diego Padres -1.5",
+            "odds": "+112",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Diego Padres 3, Cincinnati Reds 4"
+          },
+          {
+            "game": "Chicago White Sox @ Houston Astros",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox (-108)",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago White Sox 5, Houston Astros 1"
+          },
+          {
+            "game": "Baltimore Orioles @ Colorado Rockies",
+            "betType": "spread",
+            "pick": "Baltimore Orioles -1.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Baltimore Orioles 2, Colorado Rockies 4"
+          },
+          {
+            "game": "Philadelphia Phillies @ Arizona Diamondbacks",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Phillies 7, Arizona Diamondbacks 1"
+          },
+          {
+            "game": "Seattle Mariners @ Boston Red Sox",
+            "betType": "moneyline",
+            "pick": "Seattle Mariners (+104)",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Seattle Mariners 9, Boston Red Sox 6"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-08-31",
     "sports": [
       {
@@ -2103,112 +2159,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Chicago White Sox 9, Tampa Bay Rays 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-01",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Pittsburgh Pirates @ Cincinnati Reds",
-            "betType": "moneyline",
-            "pick": "Cincinnati Reds",
-            "odds": "+106",
-            "confidence": "high",
-            "result": "L",
-            "score": "Pittsburgh Pirates 4, Cincinnati Reds 1"
-          },
-          {
-            "game": "Arizona Diamondbacks @ Cleveland Guardians",
-            "betType": "moneyline",
-            "pick": "Cleveland Guardians",
-            "odds": "-164",
-            "confidence": "high",
-            "result": "L",
-            "score": "Arizona Diamondbacks 12, Cleveland Guardians 8"
-          },
-          {
-            "game": "Milwaukee Brewers @ Los Angeles Angels",
-            "betType": "spread",
-            "pick": "Milwaukee Brewers -1.5",
-            "odds": "+134",
-            "confidence": "high",
-            "result": "W",
-            "score": "Milwaukee Brewers 3, Los Angeles Angels 1"
-          },
-          {
-            "game": "Philadelphia Phillies @ Baltimore Orioles",
-            "betType": "moneyline",
-            "pick": "Baltimore Orioles",
-            "odds": "+128",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Philadelphia Phillies 5, Baltimore Orioles 0"
-          },
-          {
-            "game": "Chicago White Sox @ Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-158",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago White Sox 0, Tampa Bay Rays 1"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Atlanta United FC vs Philadelphia Union",
-            "betType": "moneyline",
-            "pick": "Philadelphia Union",
-            "odds": "-165",
-            "confidence": "high",
-            "result": "W",
-            "score": "Atlanta United FC 2, Philadelphia Union 3"
-          },
-          {
-            "game": "Houston Dynamo FC vs Sporting Kansas City",
-            "betType": "moneyline",
-            "pick": "Houston Dynamo FC",
-            "odds": "+115",
-            "confidence": "high",
-            "result": "W",
-            "score": "Houston Dynamo FC 2, Sporting Kansas City 0"
-          },
-          {
-            "game": "Austin FC vs Colorado Rapids",
-            "betType": "moneyline",
-            "pick": "Austin FC",
-            "odds": "+330",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Austin FC 0, Colorado Rapids 1"
-          },
-          {
-            "game": "Columbus Crew vs Inter Miami CF",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Columbus Crew 2, Inter Miami CF 2"
-          },
-          {
-            "game": "Nashville SC vs D.C. United",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "-118",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Nashville SC 2, D.C. United 2"
           }
         ]
       }
