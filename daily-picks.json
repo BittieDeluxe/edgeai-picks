@@ -1,129 +1,142 @@
 {
-  "date": "2026-09-02",
-  "generatedAt": "2026-09-02T19:44:25.408Z",
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T19:46:27.408Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Baltimore Orioles @ Colorado Rockies",
-          "betType": "spread",
-          "pick": "Baltimore Orioles -1.5",
-          "odds": "-140",
-          "confidence": "high",
-          "rationale": "The Baltimore Orioles have a significant pitching advantage with Trevor Rogers (4.38 ERA) facing Colorado's Tomoyuki Sugano (5.23 ERA), who has been hit hard in his last three starts, giving up 17 earned runs in just 12 innings. Baltimore is in better recent form, winning seven of their last ten games, and is pushing for an AL Wild Card spot. The Orioles also boast a stronger overall pitching staff with a 4.16 team ERA compared to Colorado's 5.44. This pitching mismatch and the Orioles' motivation make them a strong candidate to win by more than 1.5 runs.",
-          "awayRecord": "69-70",
-          "homeRecord": "53-86",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ Arizona Diamondbacks",
-          "betType": "spread",
-          "pick": "Arizona Diamondbacks +1.5",
-          "odds": "-200",
-          "confidence": "high",
-          "rationale": "Despite the Phillies' six-game winning streak, the Arizona Diamondbacks hold a significant pitching advantage with Taylor Clarke (2.60 ERA, 1.74 ERA at home) starting against Andrew Painter (5.95 ERA). Arizona has also been strong against the run line at home, while Philadelphia has a poor road spread history. This pick protects against a close Phillies victory while capitalizing on the Diamondbacks' superior starting pitching and home-field advantage in covering the spread.",
-          "awayRecord": "79-60",
-          "homeRecord": "73-67",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Seattle Mariners @ Boston Red Sox",
-          "betType": "total",
-          "pick": "Over 8.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The Over has been a dominant trend in Mariners-Red Sox games at Fenway Park, hitting in 19 of their last 22 matchups since 2019. The Red Sox offense is in good form, having scored at least six runs in both games of this series, and the Over has hit in their last four overall games and five of their last six home games. With Boston's Adley Rutschman out, the team may rely more heavily on offensive production. These strong historical and recent offensive trends point towards a high-scoring affair.",
-          "awayRecord": "65-74",
-          "homeRecord": "75-64",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Milwaukee Brewers @ Chicago Cubs",
+          "game": "Boston Red Sox vs Baltimore Orioles",
           "betType": "moneyline",
-          "pick": "Milwaukee Brewers",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "The Milwaukee Brewers have a massive pitching advantage with Jacob Misiorowski, who boasts an elite 1.73 ERA and 0.75 WHIP, facing Cubs starter David Peterson, who has a 5.11 ERA and a 6.16 ERA at home. The Brewers are in strong form, coming off a 9-4 win against the Cubs, and have a favorable 4-1 record in their last five visits to Chicago. The Cubs are also dealing with several key players on the 60-day injured list, further weakening their lineup. The verified moneyline of -115 offers excellent value given this significant mismatch.",
-          "awayRecord": "86-53",
-          "homeRecord": "78-61",
+          "pick": "Boston Red Sox (-120)",
+          "odds": "-120",
+          "confidence": "high",
+          "rationale": "The Boston Red Sox, despite a recent dip in form, hold a better overall record (75-65) compared to the Baltimore Orioles (69-71). Public betting has consistently favored Boston, with the moneyline moving slightly in their direction, suggesting alignment with sharp money. Red Sox starter Jake Bennett is coming off an impressive performance, having thrown six shutout innings in his last outing. While Baltimore's Brandon Young is a capable pitcher, the Red Sox are well-positioned to secure a victory in this competitive opener.",
+          "awayRecord": "75-65",
+          "homeRecord": "69-71",
           "awayLast5": [
-            "W",
-            "W",
             "L",
             "L",
-            "W"
+            "W",
+            "L",
+            "L"
           ],
           "homeLast5": [
-            "L",
+            "W",
+            "W",
             "W",
             "L",
-            "W",
             "L"
           ]
         },
         {
-          "game": "St. Louis Cardinals @ Los Angeles Dodgers",
-          "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The Los Angeles Dodgers are a dominant team, starting Yoshinobu Yamamoto (2.56 ERA, 0.89 WHIP), who has been exceptional with a 2.08 ERA since May 18. The Cardinals, conversely, have an undecided starter and are struggling with a 3-7 record in their last ten games. The Dodgers have a strong bounce-back history, winning their last seven home games against the Cardinals following a loss. This significant pitching mismatch and the Dodgers' proven ability to perform at home after a defeat make them a high-confidence pick to win by more than 1.5 runs.",
-          "awayRecord": "69-70",
-          "homeRecord": "82-56",
+          "game": "Milwaukee Brewers vs Chicago Cubs",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers (-125)",
+          "odds": "-125",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers are in strong form, having won six of their last eight games and holding a significant lead in the NL Central. They have demonstrated recent dominance over the Cubs, winning the last two games of this series with high-scoring performances. Brewers' starting pitcher Logan Henderson boasts an excellent 2.48 ERA and has been particularly effective in his recent starts. In contrast, Cubs starter Kevin Gausman carries a higher 4.52 ERA, and the Brewers' bullpen has been stellar while Chicago's relievers have struggled.",
+          "awayRecord": "87-53",
+          "homeRecord": "78-62",
           "awayLast5": [
             "W",
+            "L",
+            "L",
             "W",
-            "L",
-            "L",
             "W"
           ],
           "homeLast5": [
-            "L",
             "W",
             "L",
             "W",
+            "L",
             "L"
           ]
+        },
+        {
+          "game": "Miami Marlins vs Kansas City Royals",
+          "betType": "moneyline",
+          "pick": "Miami Marlins (-102)",
+          "odds": "-102",
+          "confidence": "high",
+          "rationale": "The Miami Marlins enter this game on a two-game winning streak against the Royals and have won four of their last five head-to-head matchups. Miami will send their ace, Sandy Alcantara, to the mound, who holds an impressive 13-8 record and a 3.46 ERA this season. Historically, when Alcantara starts and the Marlins are favored, the team has a strong 10-5 record. The Kansas City Royals, conversely, are on a three-game losing streak and are significantly hampered by a lengthy injury list, impacting their overall team strength.",
+          "awayRecord": "71-69",
+          "homeRecord": "62-78",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "St. Louis Cardinals vs Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "St. Louis Cardinals +1.5 (+119)",
+          "odds": "+119",
+          "confidence": "medium",
+          "rationale": "The St. Louis Cardinals have shown surprising strength against the Dodgers recently, winning four of their last five head-to-head matchups, including the last two games of this series. Dodgers' star Shohei Ohtani is reportedly physically compromised and struggling at the plate, which could limit Los Angeles' offensive firepower. The Cardinals have an excellent track record of covering the run line as underdogs, doing so in their last six such games. Conversely, the Dodgers have struggled to cover the run line as home favorites against NL opponents, failing in 13 of their last 15 games.",
+          "awayRecord": "70-70",
+          "homeRecord": "82-57",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "St. Louis Cardinals vs Los Angeles Dodgers",
+          "betType": "total",
+          "pick": "St. Louis Cardinals vs Los Angeles Dodgers Over 8 (-101)",
+          "odds": "-101",
+          "confidence": "medium",
+          "rationale": "The recent head-to-head contests between the Cardinals and Dodgers have been high-scoring affairs, with the last two games finishing 8-6 and 13-8, both easily exceeding the 8-run total. The Cardinals have demonstrated a strong offensive trend on the road, with each of their last seven away games going over the total runs line. Additionally, the Dodgers are coming off an extra-innings loss, and eight of their last nine games following such a loss have also gone over the total. Despite Dodgers starter Tarik Skubal's typically low-scoring starts, the overwhelming recent offensive trends and situational factors point towards a higher-scoring game.",
+          "awayRecord": "70-70",
+          "homeRecord": "82-57",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Nashville SC @ New York City FC",
+          "betType": "moneyline",
+          "pick": "Nashville SC",
+          "odds": "+155",
+          "confidence": "high",
+          "rationale": "Nashville SC enters this match as the league leader, boasting a remarkable 16-4-2 record and a four-match winning streak in MLS play. Their offense is firing on all cylinders, led by Sam Surridge and Hany Mukhtar, who have combined for 23 goals this season. In contrast, New York City FC is struggling, sitting 16th in the table and winless in their last five competitive games. Despite playing on the road, Nashville's superior form and the generous +155 moneyline offer significant value against an NYCFC side that has shown defensive vulnerabilities, conceding 9 goals in their last five matches. Both teams appear to be at full strength with no reported injuries for key players."
         }
       ]
     }

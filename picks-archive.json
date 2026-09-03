@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-09-02",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Baltimore Orioles @ Colorado Rockies",
+            "betType": "spread",
+            "pick": "Baltimore Orioles -1.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "L",
+            "score": "Baltimore Orioles 5, Colorado Rockies 6"
+          },
+          {
+            "game": "Philadelphia Phillies @ Arizona Diamondbacks",
+            "betType": "spread",
+            "pick": "Arizona Diamondbacks +1.5",
+            "odds": "-200",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Phillies 0, Arizona Diamondbacks 1"
+          },
+          {
+            "game": "Seattle Mariners @ Boston Red Sox",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Seattle Mariners 8, Boston Red Sox 3"
+          },
+          {
+            "game": "Milwaukee Brewers @ Chicago Cubs",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Milwaukee Brewers 9, Chicago Cubs 5"
+          },
+          {
+            "game": "St. Louis Cardinals @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "St. Louis Cardinals 8, Los Angeles Dodgers 6"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-01",
     "sports": [
       {
@@ -2103,62 +2159,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Tampa Bay Rays 13, Colorado Rockies 9"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-02",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Milwaukee Brewers @ Los Angeles Angels",
-            "betType": "spread",
-            "pick": "Milwaukee Brewers -1.5",
-            "odds": "-126",
-            "confidence": "high",
-            "result": "L",
-            "score": "Milwaukee Brewers 0, Los Angeles Angels 3"
-          },
-          {
-            "game": "Miami Marlins @ New York Mets",
-            "betType": "moneyline",
-            "pick": "Miami Marlins (-120)",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Miami Marlins 2, New York Mets 0"
-          },
-          {
-            "game": "Pittsburgh Pirates @ Cincinnati Reds",
-            "betType": "moneyline",
-            "pick": "Cincinnati Reds (-230)",
-            "odds": "-230",
-            "confidence": "high",
-            "result": "W",
-            "score": "Pittsburgh Pirates 2, Cincinnati Reds 10"
-          },
-          {
-            "game": "New York Yankees @ Chicago Cubs",
-            "betType": "moneyline",
-            "pick": "New York Yankees (-116)",
-            "odds": "-116",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Yankees 2, Chicago Cubs 1"
-          },
-          {
-            "game": "Chicago White Sox @ Tampa Bay Rays",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Chicago White Sox 9, Tampa Bay Rays 1"
           }
         ]
       }
