@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-09-03",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Boston Red Sox vs Baltimore Orioles",
+            "betType": "moneyline",
+            "pick": "Boston Red Sox (-120)",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Boston Red Sox 6, Baltimore Orioles 5"
+          },
+          {
+            "game": "Milwaukee Brewers vs Chicago Cubs",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (-125)",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 1, Chicago Cubs 2"
+          },
+          {
+            "game": "Miami Marlins vs Kansas City Royals",
+            "betType": "moneyline",
+            "pick": "Miami Marlins (-102)",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "L",
+            "score": "Miami Marlins 3, Kansas City Royals 7"
+          },
+          {
+            "game": "St. Louis Cardinals vs Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "St. Louis Cardinals +1.5 (+119)",
+            "odds": "+119",
+            "confidence": "medium",
+            "result": "W",
+            "score": "St. Louis Cardinals 2, Los Angeles Dodgers 3"
+          },
+          {
+            "game": "St. Louis Cardinals vs Los Angeles Dodgers",
+            "betType": "total",
+            "pick": "St. Louis Cardinals vs Los Angeles Dodgers Over 8 (-101)",
+            "odds": "-101",
+            "confidence": "medium",
+            "result": "?",
+            "score": "St. Louis Cardinals 2, Los Angeles Dodgers 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Nashville SC @ New York City FC",
+            "betType": "moneyline",
+            "pick": "Nashville SC",
+            "odds": "+155",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-02",
     "sports": [
       {
@@ -2103,62 +2173,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "San Diego Padres 9, Arizona Diamondbacks 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-03",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "San Diego Padres @ Arizona Diamondbacks",
-            "betType": "moneyline",
-            "pick": "Arizona Diamondbacks",
-            "odds": "-112",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Diego Padres 1, Arizona Diamondbacks 5"
-          },
-          {
-            "game": "Los Angeles Dodgers @ Chicago Cubs",
-            "betType": "moneyline",
-            "pick": "Chicago Cubs",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Los Angeles Dodgers 5, Chicago Cubs 10"
-          },
-          {
-            "game": "San Francisco Giants @ Texas Rangers",
-            "betType": "moneyline",
-            "pick": "San Francisco Giants",
-            "odds": "+106",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Francisco Giants 5, Texas Rangers 1"
-          },
-          {
-            "game": "Toronto Blue Jays @ Houston Astros",
-            "betType": "spread",
-            "pick": "Houston Astros -1.5",
-            "odds": "+149",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Toronto Blue Jays 3, Houston Astros 1"
-          },
-          {
-            "game": "Tampa Bay Rays @ Colorado Rockies",
-            "betType": "total",
-            "pick": "Over 11.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Tampa Bay Rays 13, Colorado Rockies 9"
           }
         ]
       }
