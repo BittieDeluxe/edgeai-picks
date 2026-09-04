@@ -9,6 +9,7 @@ const SEASON_MONTHS = {
   NHL:      [10, 11, 12, 1, 2, 3, 4, 5, 6],
   MLB:      [4, 5, 6, 7, 8, 9, 10],
   NFL:      [9, 10, 11, 12, 1, 2],
+  NCAAF:    [8, 9, 10, 11, 12, 1],
   NCAAB:    [11, 12, 1, 2, 3, 4],
   MLS:      [3, 4, 5, 6, 7, 8, 9, 10, 11],
   UFC:      [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
@@ -22,6 +23,7 @@ const ESPN_MAP = {
   NHL:      { sport: 'hockey',     league: 'nhl' },
   MLB:      { sport: 'baseball',   league: 'mlb' },
   NFL:      { sport: 'football',   league: 'nfl' },
+  NCAAF:    { sport: 'football',   league: 'college-football' },
   NCAAB:    { sport: 'basketball', league: 'mens-college-basketball' },
   MLS:      { sport: 'soccer',     league: 'usa.1' },
   UFC:      { sport: 'mma', league: 'ufc' },
@@ -35,6 +37,7 @@ const ODDS_SPORT_KEY = {
   NHL:      'icehockey_nhl',
   MLB:      'baseball_mlb',
   NFL:      'americanfootball_nfl',
+  NCAAF:    'americanfootball_ncaaf',
   NCAAB:    'basketball_ncaab',
   MLS:      'soccer_usa_mls',
   UFC:      'mma_mixed_martial_arts',
@@ -53,6 +56,51 @@ let oddsUnavailable = false;
 
 // Sports that only run on Saturday (day 6) — UFC events are almost always Saturday cards
 const SATURDAY_ONLY = new Set(['UFC']);
+
+// Maximum games to put in front of Gemini for a given sport.
+//
+// NCAAF Saturdays carry 100+ games against MLB's ~15. Handing the model the full
+// board costs nothing extra at the Odds API (billing is per market x region, not
+// per game) but it buries the handful of games worth betting in a wall of
+// mismatches, and pick quality drops. Everything else is small enough to pass
+// through whole.
+const SLATE_CAP = { NCAAF: 25, NCAAB: 25 };
+
+/**
+ * Trim a slate to the games most likely to be worth a pick.
+ *
+ * Ranks by how close the moneyline is: a game priced near a coin flip has a real
+ * market disagreement, while a 40-point blowout has no bettable edge. Games with
+ * no odds sort last — without a line there is nothing to evaluate. Ties keep the
+ * original ESPN ordering, which is roughly by start time.
+ */
+function capSlate(sport, gameList, oddsMap, hasEspnGames) {
+  const cap = SLATE_CAP[sport];
+  if (!cap || gameList.length <= cap) return gameList;
+
+  const competitiveness = (g) => {
+    const odds = hasEspnGames
+      ? matchOdds(g, oddsMap)
+      : Object.values(oddsMap).find((o) => o.awayTeam === g.awayName);
+    if (!odds?.bestML) return Number.POSITIVE_INFINITY;
+    return Math.abs(toImplied(odds.bestML.awayOdds) - toImplied(odds.bestML.homeOdds));
+  };
+
+  const ranked = gameList
+    .map((g, i) => ({ g, i, score: competitiveness(g) }))
+    .sort((a, b) => (a.score - b.score) || (a.i - b.i))
+    .slice(0, cap);
+
+  console.log(`  ${sport}: slate capped ${gameList.length} -> ${cap} games (closest lines kept)`);
+  // Restore schedule order so the prompt still reads chronologically.
+  return ranked.sort((a, b) => a.i - b.i).map((r) => r.g);
+}
+
+/** American odds -> implied probability (0-1). */
+function toImplied(american) {
+  if (typeof american !== 'number' || Number.isNaN(american)) return 0.5;
+  return american > 0 ? 100 / (american + 100) : -american / (-american + 100);
+}
 
 function getInSeasonSports(month, dateStr) {
   // Test override: PICKS_ONLY_SPORTS=NFL node generate-picks.mjs
@@ -230,10 +278,11 @@ async function buildContext(sport, dateStr) {
   // can still publish picks — Gemini just has to source the lines itself.
   const verifiedLines = hasOdds;
 
-  const gameList = games.length > 0 ? games : Object.values(oddsMap).map(o => ({
+  const fullList = games.length > 0 ? games : Object.values(oddsMap).map(o => ({
     awayTeam: '', awayName: o.awayTeam, awayRecord: '',
     homeTeam: '', homeName: o.homeTeam, homeRecord: '',
   }));
+  const gameList = capSlate(sport, fullList, oddsMap, games.length > 0);
 
   const lines = [verifiedLines
     ? `=== ${sport} Verified Lines (${dateStr}) ===`
