@@ -1,129 +1,190 @@
 {
-  "date": "2026-09-04",
-  "generatedAt": "2026-09-04T19:29:46.028Z",
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T12:35:17.917Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Los Angeles Angels vs Pittsburgh Pirates",
-          "betType": "spread",
-          "pick": "Pittsburgh Pirates -1.5",
-          "odds": "+126",
-          "confidence": "high",
-          "rationale": "The Pittsburgh Pirates are in significantly better recent form, winning four of their last five games, while the Los Angeles Angels have lost nine of their last ten. The Angels' offense is struggling, ranking last in wOBA and 29th in xwOBA over the past 30 days. While Angels starter Ryan Johnson has shown recent improvement, Pirates starter Jared Jones possesses better underlying metrics (3.84 xERA, 3.83 xFIP) than his 4.83 ERA suggests, indicating potential for a strong outing. The Pirates are at home and are well-positioned to win by multiple runs against a struggling Angels team.",
-          "awayRecord": "53-87",
-          "homeRecord": "69-72",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Boston Red Sox vs Baltimore Orioles",
+          "game": "Los Angeles Angels @ Pittsburgh Pirates",
           "betType": "moneyline",
-          "pick": "Baltimore Orioles",
-          "odds": "+120",
+          "pick": "Pittsburgh Pirates (-184)",
+          "odds": "-184",
           "confidence": "high",
-          "rationale": "There is significant reverse line movement towards the Orioles, indicating sharp money is backing them despite public sentiment favoring the Red Sox. The Orioles are highly motivated, being in a crucial playoff race and sitting just 1.5 games out of the third Wild Card spot. Orioles starter Shane Baz has been pitching effectively, allowing three earned runs or fewer in four of his last five starts, while Red Sox starter Ranger Suarez has struggled recently with a 5.01 ERA in his last seven appearances. The Red Sox are also dealing with key injuries, having just lost All-Stars Willson Contreras and Ceddanne Rafaela, while the Orioles benefit from the addition of lefty-masher Luis Robert Jr. to their lineup.",
-          "awayRecord": "76-65",
-          "homeRecord": "69-72",
+          "rationale": "The Pittsburgh Pirates are in superior recent form, boasting a 4-1 record in their last five games. They also hold a significant pitching advantage with Braxton Ashcraft (14-5, 3.59 ERA) taking the mound against the Angels' Yusei Kikuchi (0-5, 5.65 ERA). Furthermore, Pittsburgh's offense is more potent, averaging 4.9 runs per game compared to Los Angeles' 4.1 runs per game. The moneyline has seen a slight movement towards the Pirates, indicating confidence in their performance.",
+          "awayRecord": "53-88",
+          "homeRecord": "70-72",
           "awayLast5": [
             "L",
             "W",
             "L",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
             "W",
             "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Chicago Cubs vs Miami Marlins",
-          "betType": "moneyline",
-          "pick": "Miami Marlins",
-          "odds": "+138",
-          "confidence": "high",
-          "rationale": "The Miami Marlins hold a strong home record of 42-27, and their starting pitcher, Janson Junk, has been in excellent form recently, allowing two earned runs or fewer in four straight starts and boasting a 3.62 ERA at home. Conversely, Chicago Cubs starter Shota Imanaga has struggled significantly, giving up 11 home runs since the All-Star break and 9 in August alone. The Marlins' Heriberto Hernandez has exceptional splits against left-handed pitching, with 10 home runs and a .556 slugging percentage, which bodes well against Imanaga. Furthermore, the Cubs' bullpen has a concerning 7.11 ERA over their last 10 games, providing another edge for Miami.",
-          "awayRecord": "79-62",
-          "homeRecord": "71-70",
-          "awayLast5": [
-            "L",
             "W",
-            "L",
-            "L",
             "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
           ]
         },
         {
-          "game": "San Francisco Giants vs New York Mets",
+          "game": "San Francisco Giants @ New York Mets",
           "betType": "spread",
-          "pick": "New York Mets -1.5",
-          "odds": "+126",
-          "confidence": "medium",
-          "rationale": "New York Mets starter Nolan McLean is in dominant form, boasting a 3.06 ERA and 1.124 WHIP with 172 strikeouts, and has allowed one earned run or fewer in four of his last five starts. The San Francisco Giants are starting rookie Matt Wilkinson, who has a limited and less impressive track record with a 4.63 ERA and 4.6 K/9 in his three career starts. The Giants' offense has been inconsistent, ranking 23rd in MLB in runs scored, while the Mets' lineup features strong hitters like Juan Soto. The Mets are coming off a high-scoring 10-4 victory and should have confidence at home to win by multiple runs.",
-          "awayRecord": "58-83",
-          "homeRecord": "63-77",
+          "pick": "New York Mets -1.5 (+118)",
+          "odds": "+118",
+          "confidence": "high",
+          "rationale": "The New York Mets have demonstrated clear dominance over the San Francisco Giants in their recent head-to-head matchups, winning four out of five games this season, including a decisive 9-2 victory yesterday. The Giants are struggling with a 58-84 record and have lost three of their last four games. Playing at home, the Mets have strong momentum after their recent win and are well-positioned to cover the spread against a struggling Giants team.",
+          "awayRecord": "58-84",
+          "homeRecord": "64-77",
           "awayLast5": [
-            "W",
             "W",
             "L",
             "W",
+            "L",
             "L"
           ],
           "homeLast5": [
-            "W",
             "L",
             "W",
             "L",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Athletics vs Seattle Mariners",
+          "game": "Toronto Blue Jays @ Kansas City Royals",
+          "betType": "moneyline",
+          "pick": "Toronto Blue Jays (-108)",
+          "odds": "-108",
+          "confidence": "high",
+          "rationale": "The Toronto Blue Jays enter this game with strong momentum, having secured three consecutive victories, and their offense has been performing well, batting .269 with 9.0 hits per contest over their last 10 games. In contrast, the Kansas City Royals are dealing with an extensive injury list, including several key pitchers, which will impact their overall performance. While Blue Jays starter Max Scherzer's season ERA is high, he delivered seven scoreless innings in his last outing, whereas Royals starter Seth Lugo gave up nine earned runs in his most recent start.",
+          "awayRecord": "71-71",
+          "homeRecord": "63-79",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Washington Nationals @ Los Angeles Dodgers",
           "betType": "total",
-          "pick": "Over 7",
-          "odds": "-120",
+          "pick": "Over 7.5 (-112)",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "Athletics starter Kade Morris has been performing poorly, holding a 9.82 ERA and having given up 9 earned runs in just 4 innings pitched on the road this season. He also struggles significantly against left-handed batters, and the Mariners are expected to feature seven lefties in their lineup. While Mariners starter Logan Gilbert has a decent overall ERA, he has been less effective at home (3.99 ERA) and has allowed 8 earned runs in his last three starts. The Athletics' bullpen is also a major concern, ranking last in ERA and being heavily taxed recently. Given these pitching vulnerabilities and bullpen issues, the total of 7 seems too low, making the Over a strong play.",
-          "awayRecord": "55-86",
-          "homeRecord": "66-75",
+          "rationale": "The head-to-head history between the Los Angeles Dodgers and Washington Nationals strongly supports the Over, with all of their last five matchups exceeding the total runs line. The Dodgers, despite a recent three-game losing streak, possess a powerful offense capable of putting up significant runs. While Shohei Ohtani's day-to-day status introduces some uncertainty, the consistent high-scoring trend in this specific matchup provides a strong indicator for the Over.",
+          "awayRecord": "67-76",
+          "homeRecord": "84-57",
           "awayLast5": [
             "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
             "L",
             "L",
             "W",
             "W"
+          ]
+        },
+        {
+          "game": "Minnesota Twins @ Chicago White Sox",
+          "betType": "moneyline",
+          "pick": "Chicago White Sox (-124)",
+          "odds": "-124",
+          "confidence": "medium",
+          "rationale": "The Chicago White Sox are in better recent form, having won four of their last five games, including a dominant 8-0 victory over the Minnesota Twins recently. In their head-to-head matchups this season, the White Sox hold a significant 13-7 advantage over the Twins. Playing at home, the White Sox have a clear edge in both recent performance and historical matchups against Minnesota, making them a confident pick on the moneyline.",
+          "awayRecord": "67-74",
+          "homeRecord": "74-67",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
           ],
           "homeLast5": [
             "L",
+            "W",
             "L",
-            "W",
-            "W",
+            "L",
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "NCAAF",
+      "picks": [
+        {
+          "game": "UNLV Rebels @ Hawai'i Rainbow Warriors",
+          "betType": "total",
+          "pick": "Under 55.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Both UNLV and Hawai'i are coming off Week 0 losses where their offenses showed significant inconsistencies, with UNLV struggling with offensive line protection and red zone efficiency, and Hawai'i's offense starting slowly. The forecast for the game includes sustained winds and rain, which is expected to severely hinder Hawai'i's pass-heavy offense and UNLV's ability to throw effectively against a potentially 'banged up' offensive line. The betting market has also shown a clear lean towards a lower-scoring game, with the total dipping from an opening of 56.5 to the current 55.5. These factors combine to suggest a defensive struggle with limited scoring opportunities for both teams.",
+          "awayRecord": "0-1",
+          "homeRecord": "0-1",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
             "L"
           ]
+        },
+        {
+          "game": "Oklahoma State Cowboys @ Tulsa Golden Hurricane",
+          "betType": "spread",
+          "pick": "Oklahoma State Cowboys -13.5",
+          "odds": "-115",
+          "confidence": "high",
+          "rationale": "Oklahoma State has made a significant upgrade to its offense by bringing in the core of North Texas's top-ranked offensive system, including quarterback Drew Mestemaker, their leading running back, and top receiver, along with both coordinators. This infusion of proven talent and a successful scheme is expected to immediately elevate Oklahoma State's scoring potential, especially against a Tulsa defense that struggled against the pass last season. The betting line has moved from an opening of -11.5 to the current -13.5, indicating strong market confidence and sharp money backing the Cowboys' new-look offense. While Tulsa has some continuity, their defensive vulnerabilities against the pass are likely to be exploited by Mestemaker and the fast-paced Cowboys' attack.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0"
+        },
+        {
+          "game": "Baylor Bears @ Auburn Tigers",
+          "betType": "spread",
+          "pick": "Auburn Tigers -7.5",
+          "odds": "-105",
+          "confidence": "high",
+          "rationale": "Auburn benefits from a significant home-field advantage in this neutral site game in Atlanta, which is only 110 miles from their campus. Baylor's offensive line is severely depleted, having lost four of five starters, and a key transfer center was ruled ineligible, creating a major vulnerability against Auburn's anticipated strong pass rush. Baylor's new quarterback, DJ Lagway, has a documented history of struggling under pressure, which Auburn's defense is well-equipped to exploit. Furthermore, the Action Network Power Ratings project Auburn as a double-digit favorite, highlighting the value in taking them at -7.5.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0"
+        },
+        {
+          "game": "Clemson Tigers @ LSU Tigers",
+          "betType": "spread",
+          "pick": "Clemson Tigers +10.5",
+          "odds": "-118",
+          "confidence": "medium",
+          "rationale": "Both Clemson and LSU are undergoing significant changes with new offensive coordinators and starting quarterbacks, which often leads to early-season offensive struggles and a slower pace of play. Clemson's defense is expected to be a strong unit, featuring several potential first-round picks, and should be capable of containing LSU's new-look offense and quarterback Sam Leavitt, who had a high turnover-worthy play rate last season. Despite LSU playing at home, the projected final score of LSU 27, Clemson 20 suggests that Clemson can keep the game within a touchdown, making the +10.5 spread a valuable play. The significant roster turnover for both teams also points to potential 'clunkiness' early on, favoring the underdog with a generous spread.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0"
+        },
+        {
+          "game": "Liberty Flames @ James Madison Dukes",
+          "betType": "spread",
+          "pick": "Liberty Flames +6",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "James Madison enters this game with extensive roster and coaching turnover, including a new starting quarterback, multiple new offensive linemen, and a revamped secondary, which often results in early-season 'clunkiness' and potential struggles. Liberty, while also experiencing some turnover, boasts one of the best running back rooms in the Group of 6, which can effectively control the clock and mitigate offensive inconsistencies. The predicted final score of James Madison 29, Liberty 24 suggests a close game, making Liberty +6 a valuable play against a team still finding its identity. This significant turnover for JMU creates an opportunity for Liberty to keep the game tight.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0"
         }
       ]
     },
@@ -131,14 +192,54 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "Nashville SC @ New York City FC",
+          "game": "Sporting Kansas City @ FC Dallas",
           "betType": "moneyline",
-          "pick": "Nashville SC",
-          "odds": "+130",
+          "pick": "FC Dallas",
+          "odds": "-300",
           "confidence": "high",
-          "rationale": "Nashville SC is in exceptional form, winning their last four MLS matches and scoring 12 goals in that span. In contrast, New York City FC is struggling, winless in their last five games with two losses and three draws. NYCFC is also severely hampered by a lengthy injury list, missing key players such as Talles Magno, Maxi Moralez, and Keaton Parks. The line movement also indicates sharp money coming in on Nashville, as their odds have shortened from +156 to +130.",
-          "awayRecord": "16-4-2",
-          "homeRecord": "7-7-8"
+          "rationale": "FC Dallas is a strong home favorite returning to Toyota Stadium after a long road stretch, facing the league's worst team, Sporting Kansas City, who have lost five of their last six matches and are on a four-game road losing streak.. Sporting KC's defense is porous, having conceded 54 goals this season, and they are significantly impacted by injuries to key midfielders Zorhan Bassong, Jake Davis, and Owen Wolff, who are all out.. Dallas has a strong historical home record against Sporting KC, winning 6 of the last 8 meetings at Toyota Stadium, and the moneyline movement further supports Dallas's strong position.. A prediction model also suggests a comfortable Dallas victory, with a projected score of 3-1..",
+          "awayRecord": "4-3-15",
+          "homeRecord": "9-7-6"
+        },
+        {
+          "game": "Colorado Rapids @ Columbus Crew",
+          "betType": "moneyline",
+          "pick": "Colorado Rapids",
+          "odds": "+210",
+          "confidence": "medium",
+          "rationale": "The Colorado Rapids are in excellent recent form, boasting a 5-2-0 record in their last seven matches, with all five victories being clean sheets, demonstrating strong defensive solidity.. Conversely, the Columbus Crew are struggling significantly, winless in their last five MLS games and on a four-match losing streak, including a recent 3-1 home loss.. Columbus is severely hampered by injuries, with four key players (Rudy Camacho, Jamal Thiaré, Sekou Bangoura, Wessam Abou Ali) unlikely to be fit or out for extended periods, and new transfers not yet cleared to play.. Despite Colorado trading their leading scorer, their defensive strength and Columbus's disarray make the Rapids a compelling value underdog pick.",
+          "awayRecord": "10-1-11",
+          "homeRecord": "5-5-12"
+        },
+        {
+          "game": "D.C. United @ FC Cincinnati",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-130",
+          "confidence": "high",
+          "rationale": "While FC Cincinnati possesses a high-octane offense, they also have a very leaky defense, having conceded 51 goals this season, which is the third-most in MLS.. D.C. United, on the other hand, has struggled significantly on offense, scoring the second-fewest goals in the Eastern Conference, and their top scorer Tai Baribo is questionable after missing their last match.. D.C. United has also been involved in low-scoring games recently, including a 0-0 draw in their last outing.. The line movement for the total has seen the Under 3.5 shift from -120 to -130, indicating that sharp money is backing a lower-scoring affair despite Cincinnati's offensive capabilities..",
+          "awayRecord": "5-10-7",
+          "homeRecord": "8-7-7"
+        },
+        {
+          "game": "New England Revolution @ LA Galaxy",
+          "betType": "moneyline",
+          "pick": "New England Revolution",
+          "odds": "+155",
+          "confidence": "medium",
+          "rationale": "The New England Revolution holds a significantly better overall record (11-4-7) compared to the LA Galaxy (6-8-9), indicating superior team performance this season. The LA Galaxy is currently dealing with key injuries, with João Klauss and Elijah Wynder both officially listed as out for this match.. Despite being the away team, New England is priced as an underdog at +155, offering substantial value against a struggling and injured Galaxy side. The Galaxy's recent form and home performance are not strong enough to justify their favoritism against a more consistent Revolution team.",
+          "awayRecord": "11-4-7",
+          "homeRecord": "6-8-9"
+        },
+        {
+          "game": "Atlanta United FC @ Inter Miami CF",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-175",
+          "confidence": "medium",
+          "rationale": "Inter Miami CF has a strong offensive record and is a heavy favorite in this matchup, expected to contribute significantly to the goal tally. Atlanta United FC, while struggling overall, is receiving reinforcements with key players Elías Báez returning from suspension and Breel Embolo and Mauricio Amaro becoming eligible to play.. The verified total line is set at 3.5, with the Over heavily juiced at -175, indicating a strong market expectation for a high-scoring game. This aligns with Miami's attacking prowess and the potential for Atlanta's returning players to contribute to the scoreline.",
+          "awayRecord": "6-3-13",
+          "homeRecord": "12-6-4"
         }
       ]
     }

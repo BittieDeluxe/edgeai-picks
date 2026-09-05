@@ -1,5 +1,75 @@
 [
   {
+    "date": "2026-09-04",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Angels vs Pittsburgh Pirates",
+            "betType": "spread",
+            "pick": "Pittsburgh Pirates -1.5",
+            "odds": "+126",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Angels 0, Pittsburgh Pirates 1"
+          },
+          {
+            "game": "Boston Red Sox vs Baltimore Orioles",
+            "betType": "moneyline",
+            "pick": "Baltimore Orioles",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Red Sox 1, Baltimore Orioles 0"
+          },
+          {
+            "game": "Chicago Cubs vs Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Miami Marlins",
+            "odds": "+138",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago Cubs 6, Miami Marlins 1"
+          },
+          {
+            "game": "San Francisco Giants vs New York Mets",
+            "betType": "spread",
+            "pick": "New York Mets -1.5",
+            "odds": "+126",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Francisco Giants 6, New York Mets 10"
+          },
+          {
+            "game": "Athletics vs Seattle Mariners",
+            "betType": "total",
+            "pick": "Over 7",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Athletics 7, Seattle Mariners 6"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Nashville SC @ New York City FC",
+            "betType": "moneyline",
+            "pick": "Nashville SC",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Nashville SC 0, New York City FC 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-03",
     "sports": [
       {
@@ -61,8 +131,8 @@
             "pick": "Nashville SC",
             "odds": "+155",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Nashville SC 0, New York City FC 0"
           }
         ]
       }
@@ -2117,62 +2187,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Detroit Tigers 2, Seattle Mariners 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-04",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Washington Nationals vs Philadelphia Phillies",
-            "betType": "spread",
-            "pick": "Philadelphia Phillies -1.5",
-            "odds": "-136",
-            "confidence": "high",
-            "result": "W",
-            "score": "Washington Nationals 0, Philadelphia Phillies 5"
-          },
-          {
-            "game": "St. Louis Cardinals vs New York Yankees",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "St. Louis Cardinals 0, New York Yankees 2"
-          },
-          {
-            "game": "Miami Marlins vs Atlanta Braves",
-            "betType": "moneyline",
-            "pick": "Atlanta Braves",
-            "odds": "-138",
-            "confidence": "high",
-            "result": "W",
-            "score": "Miami Marlins 2, Atlanta Braves 4"
-          },
-          {
-            "game": "San Francisco Giants vs Texas Rangers",
-            "betType": "spread",
-            "pick": "San Francisco Giants +1.5",
-            "odds": "-126",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Francisco Giants 4, Texas Rangers 5"
-          },
-          {
-            "game": "San Diego Padres vs Arizona Diamondbacks",
-            "betType": "moneyline",
-            "pick": "Arizona Diamondbacks",
-            "odds": "-116",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Diego Padres 9, Arizona Diamondbacks 4"
           }
         ]
       }
