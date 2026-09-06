@@ -1,128 +1,128 @@
 {
-  "date": "2026-09-05",
-  "generatedAt": "2026-09-05T12:35:17.917Z",
+  "date": "2026-09-06",
+  "generatedAt": "2026-09-06T12:49:49.533Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Los Angeles Angels @ Pittsburgh Pirates",
-          "betType": "moneyline",
-          "pick": "Pittsburgh Pirates (-184)",
-          "odds": "-184",
+          "game": "Washington Nationals @ Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Washington Nationals +1.5 (-126)",
+          "odds": "-126",
           "confidence": "high",
-          "rationale": "The Pittsburgh Pirates are in superior recent form, boasting a 4-1 record in their last five games. They also hold a significant pitching advantage with Braxton Ashcraft (14-5, 3.59 ERA) taking the mound against the Angels' Yusei Kikuchi (0-5, 5.65 ERA). Furthermore, Pittsburgh's offense is more potent, averaging 4.9 runs per game compared to Los Angeles' 4.1 runs per game. The moneyline has seen a slight movement towards the Pirates, indicating confidence in their performance.",
-          "awayRecord": "53-88",
-          "homeRecord": "70-72",
+          "rationale": "The Los Angeles Dodgers are without star player Shohei Ohtani today, who is out for the third consecutive day due to left knee and right biceps discomfort. This significant injury severely impacts the Dodgers' offensive power. While the Dodgers have a strong head-to-head record against the Nationals, winning 4 of their last 5 matchups, the Nationals have shown resilience with a 3-2 record in their last five games overall. With Ohtani sidelined, the Nationals have a much better chance to keep the game within a single run against the otherwise heavily favored Dodgers, making the +1.5 spread a high-confidence play.",
+          "awayRecord": "67-77",
+          "homeRecord": "85-57",
           "awayLast5": [
-            "L",
+            "W",
             "W",
             "L",
             "L",
             "L"
           ],
           "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers @ Cincinnati Reds",
+          "betType": "spread",
+          "pick": "Milwaukee Brewers -1.5 (+100)",
+          "odds": "+100",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers, with an impressive 88-55 record, are facing a Cincinnati Reds team that stands at 68-74. The Brewers have historically dominated this matchup, winning 4 of their last 5 head-to-head games and holding a 15-5 overall advantage in 20 meetings. Furthermore, Reds' key player Elly De La Cruz exited a recent game with left quadriceps tightness and is currently being evaluated, which could significantly weaken Cincinnati's lineup. Given Milwaukee's strong season performance, their head-to-head dominance, and the potential absence of a key Reds player, the Brewers are well-positioned to cover the -1.5 spread.",
+          "awayRecord": "88-55",
+          "homeRecord": "68-74",
+          "awayLast5": [
             "W",
             "W",
             "L",
             "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
             "W"
+          ]
+        },
+        {
+          "game": "Detroit Tigers @ Cleveland Guardians",
+          "betType": "total",
+          "pick": "Under 7 (-108)",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "The total for this game opened at 7.5 runs but has seen movement down to 7, indicating sharp money favoring the Under. The Cleveland Guardians' probable starter, Gavin Williams, boasts a solid 3.81 ERA this season, and his team has performed well against the spread in his starts. While Detroit's starter Jackson Jobe has a higher 4.63 ERA, the Tigers' offense ranks 18th in MLB, averaging 4.4 runs per game. Considering the line movement, the Guardians' pitching strength, and the Tigers' average offensive output, the Under 7 is a strong pick.",
+          "awayRecord": "65-77",
+          "homeRecord": "72-71",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Chicago Cubs @ Miami Marlins",
+          "betType": "spread",
+          "pick": "Chicago Cubs -1.5 (+114)",
+          "odds": "+114",
+          "confidence": "medium",
+          "rationale": "The Chicago Cubs (81-62) hold a significant advantage in their season record over the Miami Marlins (71-72). The Cubs have also demonstrated recent dominance in their head-to-head matchups, securing victories of 6-5 and 6-1 on September 5th and 4th, 2026, respectively, and winning 3 of their last 5 overall against the Marlins. Chicago's recent form shows a 3-2 record in their last five games, contrasting with Miami's 2-3 record over the same period. This combination of a superior record, recent H2H success, and better current form makes the Cubs a confident pick to cover the -1.5 spread.",
+          "awayRecord": "81-62",
+          "homeRecord": "71-72",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
           ]
         },
         {
           "game": "San Francisco Giants @ New York Mets",
-          "betType": "spread",
-          "pick": "New York Mets -1.5 (+118)",
-          "odds": "+118",
-          "confidence": "high",
-          "rationale": "The New York Mets have demonstrated clear dominance over the San Francisco Giants in their recent head-to-head matchups, winning four out of five games this season, including a decisive 9-2 victory yesterday. The Giants are struggling with a 58-84 record and have lost three of their last four games. Playing at home, the Mets have strong momentum after their recent win and are well-positioned to cover the spread against a struggling Giants team.",
-          "awayRecord": "58-84",
-          "homeRecord": "64-77",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Toronto Blue Jays @ Kansas City Royals",
-          "betType": "moneyline",
-          "pick": "Toronto Blue Jays (-108)",
-          "odds": "-108",
-          "confidence": "high",
-          "rationale": "The Toronto Blue Jays enter this game with strong momentum, having secured three consecutive victories, and their offense has been performing well, batting .269 with 9.0 hits per contest over their last 10 games. In contrast, the Kansas City Royals are dealing with an extensive injury list, including several key pitchers, which will impact their overall performance. While Blue Jays starter Max Scherzer's season ERA is high, he delivered seven scoreless innings in his last outing, whereas Royals starter Seth Lugo gave up nine earned runs in his most recent start.",
-          "awayRecord": "71-71",
-          "homeRecord": "63-79",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Washington Nationals @ Los Angeles Dodgers",
-          "betType": "total",
-          "pick": "Over 7.5 (-112)",
-          "odds": "-112",
+          "betType": "prop",
+          "pick": "Rafael Devers Over 0.5 home runs",
+          "odds": "N/A",
           "confidence": "medium",
-          "rationale": "The head-to-head history between the Los Angeles Dodgers and Washington Nationals strongly supports the Over, with all of their last five matchups exceeding the total runs line. The Dodgers, despite a recent three-game losing streak, possess a powerful offense capable of putting up significant runs. While Shohei Ohtani's day-to-day status introduces some uncertainty, the consistent high-scoring trend in this specific matchup provides a strong indicator for the Over.",
-          "awayRecord": "67-76",
-          "homeRecord": "84-57",
+          "rationale": "San Francisco Giants' third baseman Rafael Devers is currently on a significant power surge, highlighted by his two home runs in yesterday's game against the New York Mets. This impressive performance brought his season total to 35 home runs and marked his 23rd career multi-homer game. Devers is active and confirmed to be playing for the San Francisco Giants today. Given his exceptional recent form and proven ability to hit for power, he is a prime candidate to hit another home run against the Mets.",
+          "awayRecord": "59-84",
+          "homeRecord": "64-78",
           "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Minnesota Twins @ Chicago White Sox",
-          "betType": "moneyline",
-          "pick": "Chicago White Sox (-124)",
-          "odds": "-124",
-          "confidence": "medium",
-          "rationale": "The Chicago White Sox are in better recent form, having won four of their last five games, including a dominant 8-0 victory over the Minnesota Twins recently. In their head-to-head matchups this season, the White Sox hold a significant 13-7 advantage over the Twins. Playing at home, the White Sox have a clear edge in both recent performance and historical matchups against Minnesota, making them a confident pick on the moneyline.",
-          "awayRecord": "67-74",
-          "homeRecord": "74-67",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
             "L",
             "W",
             "L",
             "L",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
           ]
         }
       ]
@@ -131,115 +131,44 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "UNLV Rebels @ Hawai'i Rainbow Warriors",
+          "game": "Wisconsin Badgers @ Notre Dame Fighting Irish",
           "betType": "total",
-          "pick": "Under 55.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "Both UNLV and Hawai'i are coming off Week 0 losses where their offenses showed significant inconsistencies, with UNLV struggling with offensive line protection and red zone efficiency, and Hawai'i's offense starting slowly. The forecast for the game includes sustained winds and rain, which is expected to severely hinder Hawai'i's pass-heavy offense and UNLV's ability to throw effectively against a potentially 'banged up' offensive line. The betting market has also shown a clear lean towards a lower-scoring game, with the total dipping from an opening of 56.5 to the current 55.5. These factors combine to suggest a defensive struggle with limited scoring opportunities for both teams.",
-          "awayRecord": "0-1",
-          "homeRecord": "0-1",
-          "awayLast5": [
-            "L"
-          ],
-          "homeLast5": [
-            "L"
-          ]
-        },
-        {
-          "game": "Oklahoma State Cowboys @ Tulsa Golden Hurricane",
-          "betType": "spread",
-          "pick": "Oklahoma State Cowboys -13.5",
-          "odds": "-115",
-          "confidence": "high",
-          "rationale": "Oklahoma State has made a significant upgrade to its offense by bringing in the core of North Texas's top-ranked offensive system, including quarterback Drew Mestemaker, their leading running back, and top receiver, along with both coordinators. This infusion of proven talent and a successful scheme is expected to immediately elevate Oklahoma State's scoring potential, especially against a Tulsa defense that struggled against the pass last season. The betting line has moved from an opening of -11.5 to the current -13.5, indicating strong market confidence and sharp money backing the Cowboys' new-look offense. While Tulsa has some continuity, their defensive vulnerabilities against the pass are likely to be exploited by Mestemaker and the fast-paced Cowboys' attack.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "Baylor Bears @ Auburn Tigers",
-          "betType": "spread",
-          "pick": "Auburn Tigers -7.5",
-          "odds": "-105",
-          "confidence": "high",
-          "rationale": "Auburn benefits from a significant home-field advantage in this neutral site game in Atlanta, which is only 110 miles from their campus. Baylor's offensive line is severely depleted, having lost four of five starters, and a key transfer center was ruled ineligible, creating a major vulnerability against Auburn's anticipated strong pass rush. Baylor's new quarterback, DJ Lagway, has a documented history of struggling under pressure, which Auburn's defense is well-equipped to exploit. Furthermore, the Action Network Power Ratings project Auburn as a double-digit favorite, highlighting the value in taking them at -7.5.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "Clemson Tigers @ LSU Tigers",
-          "betType": "spread",
-          "pick": "Clemson Tigers +10.5",
-          "odds": "-118",
-          "confidence": "medium",
-          "rationale": "Both Clemson and LSU are undergoing significant changes with new offensive coordinators and starting quarterbacks, which often leads to early-season offensive struggles and a slower pace of play. Clemson's defense is expected to be a strong unit, featuring several potential first-round picks, and should be capable of containing LSU's new-look offense and quarterback Sam Leavitt, who had a high turnover-worthy play rate last season. Despite LSU playing at home, the projected final score of LSU 27, Clemson 20 suggests that Clemson can keep the game within a touchdown, making the +10.5 spread a valuable play. The significant roster turnover for both teams also points to potential 'clunkiness' early on, favoring the underdog with a generous spread.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "Liberty Flames @ James Madison Dukes",
-          "betType": "spread",
-          "pick": "Liberty Flames +6",
+          "pick": "Under 46.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "James Madison enters this game with extensive roster and coaching turnover, including a new starting quarterback, multiple new offensive linemen, and a revamped secondary, which often results in early-season 'clunkiness' and potential struggles. Liberty, while also experiencing some turnover, boasts one of the best running back rooms in the Group of 6, which can effectively control the clock and mitigate offensive inconsistencies. The predicted final score of James Madison 29, Liberty 24 suggests a close game, making Liberty +6 a valuable play against a team still finding its identity. This significant turnover for JMU creates an opportunity for Liberty to keep the game tight.",
+          "rationale": "The total for this game has seen significant downward pressure, moving from an opening of 47.5 to the current 46.5, indicating sharp money on the Under. Notre Dame boasts an elite defense, ranking in the top 20 in EPA per pass and rush defense in 2025 and projected as a top-10 unit for 2026. Wisconsin, starting transfer quarterback Colton Joseph and facing offensive line uncertainties, is expected to struggle to move the ball against Notre Dame's strong defensive front. While Notre Dame has some offensive injuries, the defensive strengths of both teams and Wisconsin's offensive challenges strongly point towards a lower-scoring contest.",
           "awayRecord": "0-0",
           "homeRecord": "0-0"
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
+        },
         {
-          "game": "Sporting Kansas City @ FC Dallas",
-          "betType": "moneyline",
-          "pick": "FC Dallas",
-          "odds": "-300",
+          "game": "Louisville Cardinals @ Ole Miss Rebels",
+          "betType": "spread",
+          "pick": "Ole Miss Rebels -6.5",
+          "odds": "-115",
           "confidence": "high",
-          "rationale": "FC Dallas is a strong home favorite returning to Toyota Stadium after a long road stretch, facing the league's worst team, Sporting Kansas City, who have lost five of their last six matches and are on a four-game road losing streak.. Sporting KC's defense is porous, having conceded 54 goals this season, and they are significantly impacted by injuries to key midfielders Zorhan Bassong, Jake Davis, and Owen Wolff, who are all out.. Dallas has a strong historical home record against Sporting KC, winning 6 of the last 8 meetings at Toyota Stadium, and the moneyline movement further supports Dallas's strong position.. A prediction model also suggests a comfortable Dallas victory, with a projected score of 3-1..",
-          "awayRecord": "4-3-15",
-          "homeRecord": "9-7-6"
+          "rationale": "Ole Miss enters this matchup with a fully healthy roster and a potent offense featuring Heisman hopefuls in quarterback Trinidad Chambliss and running back Kewan Lacy, who combined for exceptional production in 2025. Louisville, conversely, will be starting a new transfer quarterback, Lincoln Kienholz, making his first collegiate start, and has new co-defensive coordinators, which could lead to early-season struggles. Ole Miss has a strong history of covering the -6.5 spread, doing so in 4 of their last 5 home games and 14 of their last 20, and they also covered the spread in their only previous head-to-head meeting against Louisville. The Rebels' offensive firepower and Louisville's transitional period make Ole Miss a confident pick to cover.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0"
         },
         {
-          "game": "Colorado Rapids @ Columbus Crew",
-          "betType": "moneyline",
-          "pick": "Colorado Rapids",
-          "odds": "+210",
-          "confidence": "medium",
-          "rationale": "The Colorado Rapids are in excellent recent form, boasting a 5-2-0 record in their last seven matches, with all five victories being clean sheets, demonstrating strong defensive solidity.. Conversely, the Columbus Crew are struggling significantly, winless in their last five MLS games and on a four-match losing streak, including a recent 3-1 home loss.. Columbus is severely hampered by injuries, with four key players (Rudy Camacho, Jamal Thiaré, Sekou Bangoura, Wessam Abou Ali) unlikely to be fit or out for extended periods, and new transfers not yet cleared to play.. Despite Colorado trading their leading scorer, their defensive strength and Columbus's disarray make the Rapids a compelling value underdog pick.",
-          "awayRecord": "10-1-11",
-          "homeRecord": "5-5-12"
-        },
-        {
-          "game": "D.C. United @ FC Cincinnati",
-          "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-130",
+          "game": "Washington State Cougars @ Washington Huskies",
+          "betType": "spread",
+          "pick": "Washington State Cougars +23.5",
+          "odds": "-105",
           "confidence": "high",
-          "rationale": "While FC Cincinnati possesses a high-octane offense, they also have a very leaky defense, having conceded 51 goals this season, which is the third-most in MLS.. D.C. United, on the other hand, has struggled significantly on offense, scoring the second-fewest goals in the Eastern Conference, and their top scorer Tai Baribo is questionable after missing their last match.. D.C. United has also been involved in low-scoring games recently, including a 0-0 draw in their last outing.. The line movement for the total has seen the Under 3.5 shift from -120 to -130, indicating that sharp money is backing a lower-scoring affair despite Cincinnati's offensive capabilities..",
-          "awayRecord": "5-10-7",
-          "homeRecord": "8-7-7"
+          "rationale": "Despite a notable list of questionable and out players for Washington State, historical betting trends strongly favor the Cougars in this rivalry and as road underdogs. Washington State has covered the spread in five consecutive games when playing as a road underdog and in seven straight non-conference matchups. The road team has also consistently covered the spread in the last five head-to-head meetings between these two programs. While Washington returns an established quarterback, they are replacing two significant offensive playmakers from last season, which could hinder their ability to cover such a large spread in their season opener.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0"
         },
         {
-          "game": "New England Revolution @ LA Galaxy",
-          "betType": "moneyline",
-          "pick": "New England Revolution",
-          "odds": "+155",
-          "confidence": "medium",
-          "rationale": "The New England Revolution holds a significantly better overall record (11-4-7) compared to the LA Galaxy (6-8-9), indicating superior team performance this season. The LA Galaxy is currently dealing with key injuries, with João Klauss and Elijah Wynder both officially listed as out for this match.. Despite being the away team, New England is priced as an underdog at +155, offering substantial value against a struggling and injured Galaxy side. The Galaxy's recent form and home performance are not strong enough to justify their favoritism against a more consistent Revolution team.",
-          "awayRecord": "11-4-7",
-          "homeRecord": "6-8-9"
-        },
-        {
-          "game": "Atlanta United FC @ Inter Miami CF",
+          "game": "Louisville Cardinals @ Ole Miss Rebels",
           "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-175",
+          "pick": "Over 54.5",
+          "odds": "-115",
           "confidence": "medium",
-          "rationale": "Inter Miami CF has a strong offensive record and is a heavy favorite in this matchup, expected to contribute significantly to the goal tally. Atlanta United FC, while struggling overall, is receiving reinforcements with key players Elías Báez returning from suspension and Breel Embolo and Mauricio Amaro becoming eligible to play.. The verified total line is set at 3.5, with the Over heavily juiced at -175, indicating a strong market expectation for a high-scoring game. This aligns with Miami's attacking prowess and the potential for Atlanta's returning players to contribute to the scoreline.",
-          "awayRecord": "6-3-13",
-          "homeRecord": "12-6-4"
+          "rationale": "Ole Miss showcased an explosive offense in 2025, leading the NCAAF in both receiving yards and total yards, with key playmakers like QB Trinidad Chambliss and RB Kewan Lacy returning. Louisville also possesses a strong running game, with Isaac Brown returning healthy to complement Keyjuan Brown. Despite Louisville's new starting quarterback, the offensive talent on both sides, particularly Ole Miss's proven ability to generate big plays, creates a high probability for a high-scoring affair. Betting analysis from Lineups.com also identifies the Over 54.5 as a best bet for this contest.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0"
         }
       ]
     }

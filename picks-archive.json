@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-09-05",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Angels @ Pittsburgh Pirates",
+            "betType": "moneyline",
+            "pick": "Pittsburgh Pirates (-184)",
+            "odds": "-184",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Angels 6, Pittsburgh Pirates 1"
+          },
+          {
+            "game": "San Francisco Giants @ New York Mets",
+            "betType": "spread",
+            "pick": "New York Mets -1.5 (+118)",
+            "odds": "+118",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Francisco Giants 9, New York Mets 5"
+          },
+          {
+            "game": "Toronto Blue Jays @ Kansas City Royals",
+            "betType": "moneyline",
+            "pick": "Toronto Blue Jays (-108)",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "W",
+            "score": "Toronto Blue Jays 4, Kansas City Royals 3"
+          },
+          {
+            "game": "Washington Nationals @ Los Angeles Dodgers",
+            "betType": "total",
+            "pick": "Over 7.5 (-112)",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Washington Nationals 5, Los Angeles Dodgers 6"
+          },
+          {
+            "game": "Minnesota Twins @ Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox (-124)",
+            "odds": "-124",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota Twins 6, Chicago White Sox 4"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "UNLV Rebels @ Hawai'i Rainbow Warriors",
+            "betType": "total",
+            "pick": "Under 55.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "UNLV Rebels 21, Hawai'i Rainbow Warriors 6"
+          },
+          {
+            "game": "Oklahoma State Cowboys @ Tulsa Golden Hurricane",
+            "betType": "spread",
+            "pick": "Oklahoma State Cowboys -13.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "L",
+            "score": "Oklahoma State Cowboys 10, Tulsa Golden Hurricane 24"
+          },
+          {
+            "game": "Baylor Bears @ Auburn Tigers",
+            "betType": "spread",
+            "pick": "Auburn Tigers -7.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "L",
+            "score": "Baylor Bears 16, Auburn Tigers 17"
+          },
+          {
+            "game": "Clemson Tigers @ LSU Tigers",
+            "betType": "spread",
+            "pick": "Clemson Tigers +10.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Clemson Tigers 10, LSU Tigers 51"
+          },
+          {
+            "game": "Liberty Flames @ James Madison Dukes",
+            "betType": "spread",
+            "pick": "Liberty Flames +6",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Liberty Flames 13, James Madison Dukes 20"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Sporting Kansas City @ FC Dallas",
+            "betType": "moneyline",
+            "pick": "FC Dallas",
+            "odds": "-300",
+            "confidence": "high",
+            "result": "W",
+            "score": "Sporting Kansas City 3, FC Dallas 4"
+          },
+          {
+            "game": "Colorado Rapids @ Columbus Crew",
+            "betType": "moneyline",
+            "pick": "Colorado Rapids",
+            "odds": "+210",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Rapids 0, Columbus Crew 3"
+          },
+          {
+            "game": "D.C. United @ FC Cincinnati",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New England Revolution @ LA Galaxy",
+            "betType": "moneyline",
+            "pick": "New England Revolution",
+            "odds": "+155",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New England Revolution 1, LA Galaxy 2"
+          },
+          {
+            "game": "Atlanta United FC @ Inter Miami CF",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-175",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta United FC 2, Inter Miami CF 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-04",
     "sports": [
       {
@@ -2131,62 +2287,6 @@
             "confidence": "high",
             "result": "?",
             "score": ""
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-05",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "San Diego Padres @ Arizona Diamondbacks",
-            "betType": "spread",
-            "pick": "San Diego Padres -1.5",
-            "odds": "+126",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Diego Padres 4, Arizona Diamondbacks 10"
-          },
-          {
-            "game": "Athletics @ Cincinnati Reds",
-            "betType": "moneyline",
-            "pick": "Cincinnati Reds (-146)",
-            "odds": "-146",
-            "confidence": "high",
-            "result": "W",
-            "score": "Athletics 2, Cincinnati Reds 3"
-          },
-          {
-            "game": "Pittsburgh Pirates @ Milwaukee Brewers",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers (-127)",
-            "odds": "-127",
-            "confidence": "high",
-            "result": "W",
-            "score": "Pittsburgh Pirates 2, Milwaukee Brewers 4"
-          },
-          {
-            "game": "Los Angeles Angels @ Baltimore Orioles",
-            "betType": "total",
-            "pick": "Under 8",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Los Angeles Angels 2, Baltimore Orioles 5"
-          },
-          {
-            "game": "Detroit Tigers @ Seattle Mariners",
-            "betType": "total",
-            "pick": "Over 7.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Detroit Tigers 2, Seattle Mariners 4"
           }
         ]
       }
