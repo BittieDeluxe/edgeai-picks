@@ -1,127 +1,127 @@
 {
-  "date": "2026-09-06",
-  "generatedAt": "2026-09-06T12:49:49.533Z",
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T14:59:54.844Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Washington Nationals @ Los Angeles Dodgers",
+          "game": "Los Angeles Angels @ Boston Red Sox",
           "betType": "spread",
-          "pick": "Washington Nationals +1.5 (-126)",
-          "odds": "-126",
+          "pick": "Boston Red Sox -1.5",
+          "odds": "+118",
           "confidence": "high",
-          "rationale": "The Los Angeles Dodgers are without star player Shohei Ohtani today, who is out for the third consecutive day due to left knee and right biceps discomfort. This significant injury severely impacts the Dodgers' offensive power. While the Dodgers have a strong head-to-head record against the Nationals, winning 4 of their last 5 matchups, the Nationals have shown resilience with a 3-2 record in their last five games overall. With Ohtani sidelined, the Nationals have a much better chance to keep the game within a single run against the otherwise heavily favored Dodgers, making the +1.5 spread a high-confidence play.",
-          "awayRecord": "67-77",
-          "homeRecord": "85-57",
+          "rationale": "The Red Sox are in strong recent form, riding a four-game winning streak, while the Angels have dropped four of their last five games. Boston has dominated the head-to-head matchups this season, winning all three previous meetings. Angels starter Grayson Rodriguez has struggled significantly with a 6.03 ERA and 1.52 WHIP, providing a favorable matchup for the Red Sox offense. The line movement and public betting heavily favor Boston on the run line, indicating sharp money is backing the Red Sox to win by more than one run.",
+          "awayRecord": "54-89",
+          "homeRecord": "79-65",
           "awayLast5": [
-            "W",
-            "W",
             "L",
             "L",
+            "L",
+            "W",
             "L"
           ],
           "homeLast5": [
             "L",
-            "L",
+            "W",
             "W",
             "W",
             "W"
           ]
         },
         {
-          "game": "Milwaukee Brewers @ Cincinnati Reds",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5 (+100)",
-          "odds": "+100",
+          "game": "Cleveland Guardians @ Baltimore Orioles",
+          "betType": "moneyline",
+          "pick": "Cleveland Guardians (+116)",
+          "odds": "+116",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers, with an impressive 88-55 record, are facing a Cincinnati Reds team that stands at 68-74. The Brewers have historically dominated this matchup, winning 4 of their last 5 head-to-head games and holding a 15-5 overall advantage in 20 meetings. Furthermore, Reds' key player Elly De La Cruz exited a recent game with left quadriceps tightness and is currently being evaluated, which could significantly weaken Cincinnati's lineup. Given Milwaukee's strong season performance, their head-to-head dominance, and the potential absence of a key Reds player, the Brewers are well-positioned to cover the -1.5 spread.",
-          "awayRecord": "88-55",
-          "homeRecord": "68-74",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Detroit Tigers @ Cleveland Guardians",
-          "betType": "total",
-          "pick": "Under 7 (-108)",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "The total for this game opened at 7.5 runs but has seen movement down to 7, indicating sharp money favoring the Under. The Cleveland Guardians' probable starter, Gavin Williams, boasts a solid 3.81 ERA this season, and his team has performed well against the spread in his starts. While Detroit's starter Jackson Jobe has a higher 4.63 ERA, the Tigers' offense ranks 18th in MLB, averaging 4.4 runs per game. Considering the line movement, the Guardians' pitching strength, and the Tigers' average offensive output, the Under 7 is a strong pick.",
-          "awayRecord": "65-77",
-          "homeRecord": "72-71",
+          "rationale": "The Baltimore Orioles are in a significant slump, having lost six straight games entering this series. Conversely, the Cleveland Guardians have won three of the first four meetings between these two teams this season, demonstrating their ability to beat Baltimore. While the moneyline has moved slightly against Cleveland, the Guardians remain in the thick of the AL Central race, providing strong motivation. Orioles pitcher Trevor Rogers has a 4.30 ERA, which is higher than Guardians starter Joey Cantillo's 3.81 ERA, giving Cleveland an edge on the mound.",
+          "awayRecord": "73-71",
+          "homeRecord": "69-75",
           "awayLast5": [
             "L",
             "W",
-            "L",
+            "W",
             "L",
             "W"
           ],
           "homeLast5": [
             "L",
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
             "L"
           ]
         },
         {
-          "game": "Chicago Cubs @ Miami Marlins",
+          "game": "Cincinnati Reds @ Los Angeles Dodgers",
           "betType": "spread",
-          "pick": "Chicago Cubs -1.5 (+114)",
-          "odds": "+114",
-          "confidence": "medium",
-          "rationale": "The Chicago Cubs (81-62) hold a significant advantage in their season record over the Miami Marlins (71-72). The Cubs have also demonstrated recent dominance in their head-to-head matchups, securing victories of 6-5 and 6-1 on September 5th and 4th, 2026, respectively, and winning 3 of their last 5 overall against the Marlins. Chicago's recent form shows a 3-2 record in their last five games, contrasting with Miami's 2-3 record over the same period. This combination of a superior record, recent H2H success, and better current form makes the Cubs a confident pick to cover the -1.5 spread.",
-          "awayRecord": "81-62",
-          "homeRecord": "71-72",
+          "pick": "Cincinnati Reds +1.5",
+          "odds": "-152",
+          "confidence": "high",
+          "rationale": "The Cincinnati Reds are sending ace Chase Burns to the mound, who boasts an impressive 15-3 record with a 2.79 ERA, giving them a strong chance to keep the game competitive against the Dodgers. The Dodgers have not announced a starting pitcher, creating uncertainty for Los Angeles, while Burns provides a known, high-quality arm for Cincinnati. Although the Dodgers are on a four-game winning streak, the Reds have shown more home run power this season, hitting 192 compared to the Dodgers' 174. The projected final score of Dodgers 4, Reds 3 suggests a close game, making the +1.5 run line for the Reds a valuable play.",
+          "awayRecord": "69-74",
+          "homeRecord": "86-57",
           "awayLast5": [
-            "L",
-            "L",
             "W",
+            "W",
+            "L",
             "W",
             "W"
           ],
           "homeLast5": [
+            "L",
             "W",
             "W",
-            "L",
-            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Toronto Blue Jays @ Athletics",
+          "betType": "spread",
+          "pick": "Toronto Blue Jays -1.5",
+          "odds": "-118",
+          "confidence": "medium",
+          "rationale": "The Athletics are severely hampered by injuries, with numerous key players, including Shea Langeliers and Brent Rooker, on the injured list, significantly weakening their lineup and overall team strength. Toronto's starting pitcher, Dylan Cease, has been dominant this season with a 10-5 record and a stellar 2.25 ERA, providing a significant pitching advantage over Athletics starter Jacob Lopez, who has a 4.71 ERA. The Blue Jays' pitching staff has also been in good form recently, posting a collective 3.68 ERA over their last 10 games. Given the Athletics' extensive injury list and the pitching mismatch, the Blue Jays are well-positioned to win by multiple runs.",
+          "awayRecord": "72-72",
+          "homeRecord": "57-87",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
             "L"
           ]
         },
         {
-          "game": "San Francisco Giants @ New York Mets",
-          "betType": "prop",
-          "pick": "Rafael Devers Over 0.5 home runs",
-          "odds": "N/A",
+          "game": "Chicago Cubs @ Milwaukee Brewers",
+          "betType": "moneyline",
+          "pick": "Chicago Cubs (+106)",
+          "odds": "+106",
           "confidence": "medium",
-          "rationale": "San Francisco Giants' third baseman Rafael Devers is currently on a significant power surge, highlighted by his two home runs in yesterday's game against the New York Mets. This impressive performance brought his season total to 35 home runs and marked his 23rd career multi-homer game. Devers is active and confirmed to be playing for the San Francisco Giants today. Given his exceptional recent form and proven ability to hit for power, he is a prime candidate to hit another home run against the Mets.",
-          "awayRecord": "59-84",
-          "homeRecord": "64-78",
+          "rationale": "Despite the Brewers' better overall record and home-field advantage, the pitching matchup favors the Cubs, with Matthew Boyd (4.05 ERA) outperforming Robert Gasser (4.57 ERA) in key metrics. Both teams are in similar recent form, with a 5-5 record over their last ten games, neutralizing any momentum advantage for Milwaukee. The projected final score of Milwaukee 4.9, Cubs 4.6 indicates a near-coin-flip outcome, making the plus-money odds on the Cubs a strong value play. The Brewers' team ERA is better, but the individual starter matchup and the value at plus money make the Cubs an appealing underdog.",
+          "awayRecord": "81-63",
+          "homeRecord": "88-56",
           "awayLast5": [
             "L",
             "W",
-            "L",
-            "L",
-            "W"
+            "W",
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
             "L",
             "W",
-            "W",
+            "L",
             "L"
           ]
         }
@@ -131,44 +131,88 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Wisconsin Badgers @ Notre Dame Fighting Irish",
-          "betType": "total",
-          "pick": "Under 46.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The total for this game has seen significant downward pressure, moving from an opening of 47.5 to the current 46.5, indicating sharp money on the Under. Notre Dame boasts an elite defense, ranking in the top 20 in EPA per pass and rush defense in 2025 and projected as a top-10 unit for 2026. Wisconsin, starting transfer quarterback Colton Joseph and facing offensive line uncertainties, is expected to struggle to move the ball against Notre Dame's strong defensive front. While Notre Dame has some offensive injuries, the defensive strengths of both teams and Wisconsin's offensive challenges strongly point towards a lower-scoring contest.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "Louisville Cardinals @ Ole Miss Rebels",
+          "game": "SMU Mustangs vs Florida State Seminoles",
           "betType": "spread",
-          "pick": "Ole Miss Rebels -6.5",
-          "odds": "-115",
+          "pick": "SMU Mustangs -2.5",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "Ole Miss enters this matchup with a fully healthy roster and a potent offense featuring Heisman hopefuls in quarterback Trinidad Chambliss and running back Kewan Lacy, who combined for exceptional production in 2025. Louisville, conversely, will be starting a new transfer quarterback, Lincoln Kienholz, making his first collegiate start, and has new co-defensive coordinators, which could lead to early-season struggles. Ole Miss has a strong history of covering the -6.5 spread, doing so in 4 of their last 5 home games and 14 of their last 20, and they also covered the spread in their only previous head-to-head meeting against Louisville. The Rebels' offensive firepower and Louisville's transitional period make Ole Miss a confident pick to cover.",
+          "rationale": "SMU's offense, led by experienced quarterback Kevin Jennings and a strong offensive line, is poised to exploit Florida State's struggling defense, which allowed New Mexico State to convert 10-of-17 third downs and gave up explosive plays in Week 0. SMU also benefits from a historical trend where Week 1 teams playing their first game cover the spread at a 58% clip against Week 0 teams. Furthermore, Florida State has a poor recent ATS record, failing to cover in 8 of their last 10 games, and lost 11 of their last 13 conference games. The Mustangs also won the only prior head-to-head matchup by a significant margin.",
           "awayRecord": "0-0",
-          "homeRecord": "0-0"
+          "homeRecord": "1-0",
+          "homeLast5": [
+            "W"
+          ]
         },
         {
-          "game": "Washington State Cougars @ Washington Huskies",
-          "betType": "spread",
-          "pick": "Washington State Cougars +23.5",
-          "odds": "-105",
-          "confidence": "high",
-          "rationale": "Despite a notable list of questionable and out players for Washington State, historical betting trends strongly favor the Cougars in this rivalry and as road underdogs. Washington State has covered the spread in five consecutive games when playing as a road underdog and in seven straight non-conference matchups. The road team has also consistently covered the spread in the last five head-to-head meetings between these two programs. While Washington returns an established quarterback, they are replacing two significant offensive playmakers from last season, which could hinder their ability to cover such a large spread in their season opener.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "Louisville Cardinals @ Ole Miss Rebels",
+          "game": "SMU Mustangs vs Florida State Seminoles",
           "betType": "total",
           "pick": "Over 54.5",
           "odds": "-115",
           "confidence": "medium",
-          "rationale": "Ole Miss showcased an explosive offense in 2025, leading the NCAAF in both receiving yards and total yards, with key playmakers like QB Trinidad Chambliss and RB Kewan Lacy returning. Louisville also possesses a strong running game, with Isaac Brown returning healthy to complement Keyjuan Brown. Despite Louisville's new starting quarterback, the offensive talent on both sides, particularly Ole Miss's proven ability to generate big plays, creates a high probability for a high-scoring affair. Betting analysis from Lineups.com also identifies the Over 54.5 as a best bet for this contest.",
+          "rationale": "Florida State's defense showed significant vulnerabilities in Week 0, allowing 17 points to New Mexico State and struggling with third-down conversions and explosive plays. SMU's offense, returning a veteran quarterback in Kevin Jennings and three offensive line starters, averaged 32.2 points per game in 2025 and is expected to be potent. With SMU's strong offensive potential and FSU's defensive issues, coupled with FSU's ability to score 34 points in their opener, the game has a high likelihood of exceeding the 54.5 total. Public betting has also shown consistent heavy support for the Over.",
           "awayRecord": "0-0",
-          "homeRecord": "0-0"
+          "homeRecord": "1-0",
+          "homeLast5": [
+            "W"
+          ]
+        },
+        {
+          "game": "SMU Mustangs vs Florida State Seminoles",
+          "betType": "moneyline",
+          "pick": "SMU Mustangs",
+          "odds": "-148",
+          "confidence": "high",
+          "rationale": "SMU enters this game with significant offensive advantages, featuring an experienced quarterback in Kevin Jennings and a cohesive offensive line, against a Florida State defense that appeared vulnerable in its Week 0 performance. Florida State's recent form includes a 5-7 record in 2025 and struggles to cover the spread, indicating a lack of consistent performance. Additionally, SMU has a strong track record in season openers, winning nine of its last ten, and holds a 1-0 head-to-head advantage over FSU. The combination of SMU's offensive firepower, FSU's defensive concerns, and historical trends provides a strong basis for an outright SMU victory.",
+          "awayRecord": "0-0",
+          "homeRecord": "1-0",
+          "homeLast5": [
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "UCL",
+      "picks": [
+        {
+          "game": "Villarreal @ Borussia Dortmund",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+120",
+          "confidence": "high",
+          "rationale": "Borussia Dortmund's recent form indicates high-scoring affairs, with their last 18 games averaging 3.11 goals and 61.1% going over 2.5 goals. They have started the 2026-27 season strongly in attack, scoring eight goals in their first three matches. The last head-to-head meeting at Signal Iduna Park saw Dortmund dominate with a 4-0 victory. Villarreal's defense has shown vulnerability in La Liga this season, conceding four goals in their first four matches, further supporting a high-scoring outcome."
+        },
+        {
+          "game": "Inter Milan @ Real Madrid",
+          "betType": "moneyline",
+          "pick": "Inter Milan",
+          "odds": "+360",
+          "confidence": "medium",
+          "rationale": "Real Madrid enters this match severely hampered by a long list of injuries and suspensions, including key players like Militão, Mendy, Rodrygo, Camavinga, Bernardo Silva, and Güler, while Tchouaméni and Lunin are also doubts. Inter Milan, conversely, is in excellent domestic form, boasting a W6 D4 L0 record in their last ten Serie A matches and winning their last three league games. Despite Federico Dimarco's absence, Inter's overall squad health and strong momentum provide significant value against a heavily weakened Real Madrid side, who just suffered their first loss of the season."
+        },
+        {
+          "game": "Real Betis @ Lille",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-130",
+          "confidence": "high",
+          "rationale": "Both Lille and Real Betis have demonstrated strong attacking capabilities in their respective domestic leagues this season, with Lille scoring five goals in three Ligue 1 matches and Real Betis netting five goals in four La Liga outings. Real Betis is facing significant defensive challenges due to injuries to several key players, including starting center-back Diego Llorente, which could lead to an open game. The only previous head-to-head encounter between these two teams resulted in a 2-2 draw, suggesting a historical precedent for goals."
+        },
+        {
+          "game": "Manchester City @ Porto",
+          "betType": "moneyline",
+          "pick": "Manchester City",
+          "odds": "-135",
+          "confidence": "medium",
+          "rationale": "Manchester City enters this Champions League fixture in impeccable form, having won all three of their opening Premier League matches with a perfect record. They hold a dominant head-to-head record against Porto, remaining unbeaten in their four previous meetings with three wins and one draw. Porto is dealing with notable defensive absences, including left-back Zaidu Sanusi who is out for the entire month of September, and Jan Bednarek who is suspended. Despite some minor injuries, City's formidable attacking depth, featuring players like Erling Haaland, Phil Foden, and Rayan Cherki, is expected to overcome Porto's challenges."
+        },
+        {
+          "game": "Manchester City @ Porto",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-155",
+          "confidence": "medium",
+          "rationale": "Manchester City's attack is consistently potent, with key players like Erling Haaland, Phil Foden, and Rayan Cherki known for their goal-scoring ability and contributing to high-scoring games. Porto's defense is weakened by the absence of left-back Zaidu Sanusi for the month and the suspension of Jan Bednarek, which could lead to more scoring opportunities for City. While the last head-to-head was a 0-0 draw, previous encounters between these teams have seen goals, including a 3-1 and 4-0 victory for City. Porto's strong domestic scoring form also suggests they could contribute to the goal tally at home, further supporting the Over."
         }
       ]
     }
