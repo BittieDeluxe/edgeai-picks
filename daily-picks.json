@@ -1,173 +1,174 @@
 {
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-07T14:59:54.844Z",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T13:29:43.338Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Los Angeles Angels @ Boston Red Sox",
+          "game": "Chicago Cubs vs Milwaukee Brewers",
           "betType": "spread",
-          "pick": "Boston Red Sox -1.5",
-          "odds": "+118",
+          "pick": "Milwaukee Brewers -1.5",
+          "odds": "+104",
           "confidence": "high",
-          "rationale": "The Red Sox are in strong recent form, riding a four-game winning streak, while the Angels have dropped four of their last five games. Boston has dominated the head-to-head matchups this season, winning all three previous meetings. Angels starter Grayson Rodriguez has struggled significantly with a 6.03 ERA and 1.52 WHIP, providing a favorable matchup for the Red Sox offense. The line movement and public betting heavily favor Boston on the run line, indicating sharp money is backing the Red Sox to win by more than one run.",
-          "awayRecord": "54-89",
-          "homeRecord": "79-65",
+          "rationale": "The Milwaukee Brewers boast a significant pitching advantage with Jacob Misiorowski (1.97 ERA) facing the Cubs' David Peterson (5.39 ERA), which is a clear mismatch. The Brewers are in strong form, having won yesterday's opener 4-3 and leading the NL Central by eight games. Additionally, the Cubs are without key infielder Dansby Swanson due to injury. Misiorowski's team has a favorable 16-10 ATS record in his starts, while Peterson's team is 7-11 ATS, further supporting the Brewers to cover the run line.",
+          "awayRecord": "81-64",
+          "homeRecord": "89-56",
           "awayLast5": [
-            "L",
-            "L",
-            "L",
             "W",
+            "W",
+            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
             "L",
             "W",
-            "W",
-            "W",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Cleveland Guardians @ Baltimore Orioles",
+          "game": "Houston Astros vs Philadelphia Phillies",
           "betType": "moneyline",
-          "pick": "Cleveland Guardians (+116)",
-          "odds": "+116",
+          "pick": "Houston Astros (+120)",
+          "odds": "+120",
           "confidence": "high",
-          "rationale": "The Baltimore Orioles are in a significant slump, having lost six straight games entering this series. Conversely, the Cleveland Guardians have won three of the first four meetings between these two teams this season, demonstrating their ability to beat Baltimore. While the moneyline has moved slightly against Cleveland, the Guardians remain in the thick of the AL Central race, providing strong motivation. Orioles pitcher Trevor Rogers has a 4.30 ERA, which is higher than Guardians starter Joey Cantillo's 3.81 ERA, giving Cleveland an edge on the mound.",
+          "rationale": "The Houston Astros hold a distinct pitching advantage with Hayden Wesneski (3.18 ERA) starting against Philadelphia's Andrew Painter (5.55 ERA). Wesneski's team has a strong 6-1 ATS record in his starts, indicating reliability. Despite public money heavily favoring the Phillies' moneyline, with up to 91% support, this creates value for the Astros as a contrarian pick. Both teams are actively in the playoff hunt, suggesting a competitive game where the pitching edge for Houston could be decisive.",
           "awayRecord": "73-71",
-          "homeRecord": "69-75",
+          "homeRecord": "81-63",
           "awayLast5": [
-            "L",
             "W",
             "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
+            "W",
             "L",
             "L"
-          ]
-        },
-        {
-          "game": "Cincinnati Reds @ Los Angeles Dodgers",
-          "betType": "spread",
-          "pick": "Cincinnati Reds +1.5",
-          "odds": "-152",
-          "confidence": "high",
-          "rationale": "The Cincinnati Reds are sending ace Chase Burns to the mound, who boasts an impressive 15-3 record with a 2.79 ERA, giving them a strong chance to keep the game competitive against the Dodgers. The Dodgers have not announced a starting pitcher, creating uncertainty for Los Angeles, while Burns provides a known, high-quality arm for Cincinnati. Although the Dodgers are on a four-game winning streak, the Reds have shown more home run power this season, hitting 192 compared to the Dodgers' 174. The projected final score of Dodgers 4, Reds 3 suggests a close game, making the +1.5 run line for the Reds a valuable play.",
-          "awayRecord": "69-74",
-          "homeRecord": "86-57",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
           ],
           "homeLast5": [
             "L",
+            "L",
             "W",
-            "W",
-            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Toronto Blue Jays @ Athletics",
+          "game": "Toronto Blue Jays vs Athletics",
           "betType": "spread",
           "pick": "Toronto Blue Jays -1.5",
-          "odds": "-118",
-          "confidence": "medium",
-          "rationale": "The Athletics are severely hampered by injuries, with numerous key players, including Shea Langeliers and Brent Rooker, on the injured list, significantly weakening their lineup and overall team strength. Toronto's starting pitcher, Dylan Cease, has been dominant this season with a 10-5 record and a stellar 2.25 ERA, providing a significant pitching advantage over Athletics starter Jacob Lopez, who has a 4.71 ERA. The Blue Jays' pitching staff has also been in good form recently, posting a collective 3.68 ERA over their last 10 games. Given the Athletics' extensive injury list and the pitching mismatch, the Blue Jays are well-positioned to win by multiple runs.",
-          "awayRecord": "72-72",
-          "homeRecord": "57-87",
+          "odds": "-115",
+          "confidence": "high",
+          "rationale": "The Toronto Blue Jays have a substantial pitching advantage with Jose Soriano (3.52 ERA) starting against the Athletics' Jack Perkins (6.50 ERA), which is noted as the largest pitching mismatch on the slate. The Athletics are significantly hampered by numerous long-term injuries to key players, severely weakening their lineup. Despite losing yesterday, Toronto is motivated to gain ground in the standings. The combination of a dominant starter and a depleted opponent provides a strong basis for the Blue Jays to win by more than one run.",
+          "awayRecord": "72-73",
+          "homeRecord": "58-87",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Chicago Cubs @ Milwaukee Brewers",
-          "betType": "moneyline",
-          "pick": "Chicago Cubs (+106)",
-          "odds": "+106",
+          "game": "Washington Nationals vs San Diego Padres",
+          "betType": "spread",
+          "pick": "San Diego Padres -1.5",
+          "odds": "+122",
           "confidence": "medium",
-          "rationale": "Despite the Brewers' better overall record and home-field advantage, the pitching matchup favors the Cubs, with Matthew Boyd (4.05 ERA) outperforming Robert Gasser (4.57 ERA) in key metrics. Both teams are in similar recent form, with a 5-5 record over their last ten games, neutralizing any momentum advantage for Milwaukee. The projected final score of Milwaukee 4.9, Cubs 4.6 indicates a near-coin-flip outcome, making the plus-money odds on the Cubs a strong value play. The Brewers' team ERA is better, but the individual starter matchup and the value at plus money make the Cubs an appealing underdog.",
-          "awayRecord": "81-63",
-          "homeRecord": "88-56",
+          "rationale": "The San Diego Padres have a clear pitching advantage with Casey Mize (3.64 ERA) facing the Nationals' rookie Riley Cornelio (5.96 ERA), who has struggled with control, issuing 21 walks in 22.2 innings. The Padres are in strong recent form, having won Monday's opener 3-2 and the Nationals have lost five straight games. San Diego is actively in the NL postseason race, providing significant motivation, while the Nationals have little to play for. Playing at Petco Park, a favorable setting for the Padres, further enhances their chances to cover the run line.",
+          "awayRecord": "67-79",
+          "homeRecord": "76-68",
           "awayLast5": [
             "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
             "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Cincinnati Reds vs Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "-146",
+          "confidence": "medium",
+          "rationale": "The Los Angeles Dodgers are in excellent form, having won five consecutive games, including a 6-3 victory over the Reds yesterday. They hold a significant pitching advantage with Tarik Skubal (2.86 ERA) starting against the Reds' Nick Lodolo (5.08 ERA). The Reds' pitching staff has struggled recently, posting a 6.34 ERA and allowing 16 home runs in their last 10 games. With the Dodgers aiming for a crucial playoff bye, their motivation combined with their strong performance and pitching mismatch makes them a high-confidence pick to cover the spread.",
+          "awayRecord": "69-75",
+          "homeRecord": "87-57",
+          "awayLast5": [
+            "W",
+            "L",
             "W",
             "W",
             "L"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
-            "L",
-            "L"
+            "W",
+            "W",
+            "W"
           ]
         }
       ]
     },
     {
-      "sport": "NCAAF",
+      "sport": "MLS",
       "picks": [
         {
-          "game": "SMU Mustangs vs Florida State Seminoles",
-          "betType": "spread",
-          "pick": "SMU Mustangs -2.5",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "SMU's offense, led by experienced quarterback Kevin Jennings and a strong offensive line, is poised to exploit Florida State's struggling defense, which allowed New Mexico State to convert 10-of-17 third downs and gave up explosive plays in Week 0. SMU also benefits from a historical trend where Week 1 teams playing their first game cover the spread at a 58% clip against Week 0 teams. Furthermore, Florida State has a poor recent ATS record, failing to cover in 8 of their last 10 games, and lost 11 of their last 13 conference games. The Mustangs also won the only prior head-to-head matchup by a significant margin.",
-          "awayRecord": "0-0",
-          "homeRecord": "1-0",
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "SMU Mustangs vs Florida State Seminoles",
+          "game": "Columbus Crew SC @ D.C. United",
           "betType": "total",
-          "pick": "Over 54.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Florida State's defense showed significant vulnerabilities in Week 0, allowing 17 points to New Mexico State and struggling with third-down conversions and explosive plays. SMU's offense, returning a veteran quarterback in Kevin Jennings and three offensive line starters, averaged 32.2 points per game in 2025 and is expected to be potent. With SMU's strong offensive potential and FSU's defensive issues, coupled with FSU's ability to score 34 points in their opener, the game has a high likelihood of exceeding the 54.5 total. Public betting has also shown consistent heavy support for the Over.",
-          "awayRecord": "0-0",
-          "homeRecord": "1-0",
-          "homeLast5": [
-            "W"
-          ]
+          "pick": "Over 2.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "Both D.C. United and Columbus Crew have demonstrated a strong tendency for high-scoring matches recently. D.C. United has conceded 1.8 goals per game in their last five, with 4 of their last 5 home games going over 2.5 goals. Columbus Crew's games have also consistently gone over, with their last 8 overall and 9 of their last 10 road games hitting the over 2.5 mark. The head-to-head history further supports this, as the last three matchups between these teams have all exceeded 2.5 goals. Additionally, betting line movement shows sharp money coming in on the Over, with the total moving from an opening of -145 to the current -160."
         },
         {
-          "game": "SMU Mustangs vs Florida State Seminoles",
+          "game": "Nashville SC @ Toronto FC",
           "betType": "moneyline",
-          "pick": "SMU Mustangs",
-          "odds": "-148",
+          "pick": "Nashville SC",
+          "odds": "+115",
           "confidence": "high",
-          "rationale": "SMU enters this game with significant offensive advantages, featuring an experienced quarterback in Kevin Jennings and a cohesive offensive line, against a Florida State defense that appeared vulnerable in its Week 0 performance. Florida State's recent form includes a 5-7 record in 2025 and struggles to cover the spread, indicating a lack of consistent performance. Additionally, SMU has a strong track record in season openers, winning nine of its last ten, and holds a 1-0 head-to-head advantage over FSU. The combination of SMU's offensive firepower, FSU's defensive concerns, and historical trends provides a strong basis for an outright SMU victory.",
-          "awayRecord": "0-0",
-          "homeRecord": "1-0",
-          "homeLast5": [
-            "W"
-          ]
+          "rationale": "Nashville SC is having an excellent season, currently sitting 1st in the MLS table with a dominant record of 16 wins, 5 draws, and only 2 losses. Their away form is also very strong, boasting 5 wins, 4 draws, and 2 losses. In stark contrast, Toronto FC is in very poor form, ranking 24th in the league with a record of 5 wins, 11 draws, and 7 losses, and a poor home record of 3 wins, 8 draws, and 2 losses. This significant disparity in current form and league standing makes Nashville SC at +115 a high-value pick against a struggling Toronto side."
+        },
+        {
+          "game": "Charlotte FC @ CF Montreal",
+          "betType": "moneyline",
+          "pick": "Charlotte FC",
+          "odds": "+180",
+          "confidence": "high",
+          "rationale": "Charlotte FC is in good overall form, currently 10th in the MLS with a 10-6-7 record and riding a three-match unbeaten streak. Conversely, CF Montreal is struggling significantly, sitting 29th in the league with a very poor 5-6-12 record and conceding an average of 2.1 goals per game. Charlotte's key attackers, Pep Biel and Liel Abada, are in stellar form, contributing significantly to their recent success with Biel having 11 goals and 8 assists, and Abada with 7 goal contributions in his last seven matches. Given Montreal's defensive woes and Charlotte's positive momentum, the +180 moneyline for Charlotte presents strong value."
+        },
+        {
+          "game": "FC Cincinnati @ Philadelphia Union",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "FC Cincinnati's matches have been consistently high-scoring this season, with over 2.5 goals landing in 76.9% of their last 26 games, averaging 4.58 goals per match. Philadelphia Union also contributes to high-scoring affairs, as evidenced by their recent 4-6 loss to Inter Miami CF and Milan Iloski's 8 goals in their last 10 games. Head-to-head history between these two teams shows a tendency for goals, with 62% of their matchups going over 2.5 goals. With both teams demonstrating offensive capabilities and defensive vulnerabilities, the Over 3.5 at -110 is a confident play."
+        },
+        {
+          "game": "Orlando City SC @ Atlanta United FC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "Atlanta United FC is currently in very poor form, ranking 27th in MLS, and has been particularly leaky defensively, conceding an average of 1.73 goals per game. A significant 59% of Atlanta's matches this season have gone over 2.5 goals, indicating a propensity for high-scoring contests. While Orlando City's overall form is also poor, they have managed to score 38 goals this season, suggesting they can contribute offensively. Given Atlanta's defensive struggles and tendency for games to go over the total, coupled with Orlando's ability to find the net, the Over 3.5 at attractive +110 odds offers significant value."
         }
       ]
     },
@@ -176,43 +177,53 @@
       "picks": [
         {
           "game": "Villarreal @ Borussia Dortmund",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+120",
+          "betType": "moneyline",
+          "pick": "Borussia Dortmund (-130)",
+          "odds": "-130",
           "confidence": "high",
-          "rationale": "Borussia Dortmund's recent form indicates high-scoring affairs, with their last 18 games averaging 3.11 goals and 61.1% going over 2.5 goals. They have started the 2026-27 season strongly in attack, scoring eight goals in their first three matches. The last head-to-head meeting at Signal Iduna Park saw Dortmund dominate with a 4-0 victory. Villarreal's defense has shown vulnerability in La Liga this season, conceding four goals in their first four matches, further supporting a high-scoring outcome."
+          "rationale": "Borussia Dortmund is in excellent form, winning 100% of their Bundesliga matches this season (2W, 0D, 0L) and boasting an impressive 11-match home winning streak in the Bundesliga. In contrast, Villarreal has had a poor start to their La Liga campaign with 0 wins, 2 draws, and 2 losses, including a very poor home record. Dortmund's strong home advantage and superior recent form make them a confident pick against a struggling Villarreal side. Their dominant home record with 14 wins in 16 Bundesliga home games further solidifies this pick.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
         },
         {
-          "game": "Inter Milan @ Real Madrid",
+          "game": "Manchester City @ FC Porto",
           "betType": "moneyline",
-          "pick": "Inter Milan",
-          "odds": "+360",
-          "confidence": "medium",
-          "rationale": "Real Madrid enters this match severely hampered by a long list of injuries and suspensions, including key players like Militão, Mendy, Rodrygo, Camavinga, Bernardo Silva, and Güler, while Tchouaméni and Lunin are also doubts. Inter Milan, conversely, is in excellent domestic form, boasting a W6 D4 L0 record in their last ten Serie A matches and winning their last three league games. Despite Federico Dimarco's absence, Inter's overall squad health and strong momentum provide significant value against a heavily weakened Real Madrid side, who just suffered their first loss of the season."
+          "pick": "Manchester City (-140)",
+          "odds": "-140",
+          "confidence": "high",
+          "rationale": "Manchester City enters this match with three consecutive victories and an impressive head-to-head record against FC Porto, being unbeaten in all four previous meetings (3 wins, 1 draw). While Porto is also in strong form with seven straight wins, City's historical dominance in this fixture and their strong attacking output (over 2.5 goals in five of their last six games) suggest they can secure an away victory. Despite the absence of Doku and O'Reilly, key players like Matheus Nunes are available, and City's depth is well-known.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
+        },
+        {
+          "game": "LASK Linz @ AEK Athens",
+          "betType": "moneyline",
+          "pick": "AEK Athens (-140)",
+          "odds": "-140",
+          "confidence": "high",
+          "rationale": "AEK Athens is in very strong form, currently second in the Super League with 2 wins, 1 draw, and 0 losses, and an excellent home record of 2 wins, 0 draws, and 0 losses. They are undefeated in their last nine games across all competitions and recently secured a dominant 5-0 victory. While LASK Linz also has good recent form, AEK Athens's home advantage and consistent winning streak make them a solid favorite with an implied win probability of approximately 57%.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
         },
         {
           "game": "Real Betis @ Lille",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-130",
-          "confidence": "high",
-          "rationale": "Both Lille and Real Betis have demonstrated strong attacking capabilities in their respective domestic leagues this season, with Lille scoring five goals in three Ligue 1 matches and Real Betis netting five goals in four La Liga outings. Real Betis is facing significant defensive challenges due to injuries to several key players, including starting center-back Diego Llorente, which could lead to an open game. The only previous head-to-head encounter between these two teams resulted in a 2-2 draw, suggesting a historical precedent for goals."
-        },
-        {
-          "game": "Manchester City @ Porto",
           "betType": "moneyline",
-          "pick": "Manchester City",
-          "odds": "-135",
+          "pick": "Lille (+115)",
+          "odds": "+115",
           "confidence": "medium",
-          "rationale": "Manchester City enters this Champions League fixture in impeccable form, having won all three of their opening Premier League matches with a perfect record. They hold a dominant head-to-head record against Porto, remaining unbeaten in their four previous meetings with three wins and one draw. Porto is dealing with notable defensive absences, including left-back Zaidu Sanusi who is out for the entire month of September, and Jan Bednarek who is suspended. Despite some minor injuries, City's formidable attacking depth, featuring players like Erling Haaland, Phil Foden, and Rayan Cherki, is expected to overcome Porto's challenges."
+          "rationale": "Lille has started their Ligue 1 season with excellent form (2 wins, 1 draw, 0 losses), including a notable 2-2 draw against PSG and a recent 0-1 away win. Real Betis, despite a good overall league record, has a poor away record in recent competitive games, with only two wins in their last ten. Furthermore, Betis has a historical struggle against French opposition, losing four of their five competitive away games. Lille's strong home advantage and historical performance against Spanish teams in the UCL (three-game winning streak) give them a clear edge.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
         },
         {
-          "game": "Manchester City @ Porto",
+          "game": "Aston Villa @ Club Brugge",
           "betType": "total",
-          "pick": "Over 2.5",
+          "pick": "Over 2.5 (-155)",
           "odds": "-155",
           "confidence": "medium",
-          "rationale": "Manchester City's attack is consistently potent, with key players like Erling Haaland, Phil Foden, and Rayan Cherki known for their goal-scoring ability and contributing to high-scoring games. Porto's defense is weakened by the absence of left-back Zaidu Sanusi for the month and the suspension of Jan Bednarek, which could lead to more scoring opportunities for City. While the last head-to-head was a 0-0 draw, previous encounters between these teams have seen goals, including a 3-1 and 4-0 victory for City. Porto's strong domestic scoring form also suggests they could contribute to the goal tally at home, further supporting the Over."
+          "rationale": "Club Brugge is in very good form, winning 80% of their Pro League matches this season (4W, 0D, 1L) and scoring a total of 9 goals. Their home form is excellent with 2 wins and 0 losses, indicating a strong offensive presence. Club Brugge has scored in 5 of their last 6 matches, with an average of 1.8 goals per game. Given Club Brugge's scoring ability and home advantage, coupled with the expectation of goals in Champions League fixtures, this game is highly likely to see at least three goals.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
         }
       ]
     }
