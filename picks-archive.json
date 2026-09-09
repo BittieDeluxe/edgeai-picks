@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-09-08",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Chicago Cubs vs Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago Cubs 3, Milwaukee Brewers 4"
+          },
+          {
+            "game": "Houston Astros vs Philadelphia Phillies",
+            "betType": "moneyline",
+            "pick": "Houston Astros (+120)",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Houston Astros 6, Philadelphia Phillies 5"
+          },
+          {
+            "game": "Toronto Blue Jays vs Athletics",
+            "betType": "spread",
+            "pick": "Toronto Blue Jays -1.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Toronto Blue Jays 4, Athletics 2"
+          },
+          {
+            "game": "Washington Nationals vs San Diego Padres",
+            "betType": "spread",
+            "pick": "San Diego Padres -1.5",
+            "odds": "+122",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Nationals 4, San Diego Padres 5"
+          },
+          {
+            "game": "Cincinnati Reds vs Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-146",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cincinnati Reds 2, Los Angeles Dodgers 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Columbus Crew SC @ D.C. United",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Nashville SC @ Toronto FC",
+            "betType": "moneyline",
+            "pick": "Nashville SC",
+            "odds": "+115",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Charlotte FC @ CF Montreal",
+            "betType": "moneyline",
+            "pick": "Charlotte FC",
+            "odds": "+180",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "FC Cincinnati @ Philadelphia Union",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Orlando City SC @ Atlanta United FC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Villarreal @ Borussia Dortmund",
+            "betType": "moneyline",
+            "pick": "Borussia Dortmund (-130)",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Villarreal 2, Borussia Dortmund 3"
+          },
+          {
+            "game": "Manchester City @ FC Porto",
+            "betType": "moneyline",
+            "pick": "Manchester City (-140)",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "W",
+            "score": "Manchester City 2, FC Porto 0"
+          },
+          {
+            "game": "LASK Linz @ AEK Athens",
+            "betType": "moneyline",
+            "pick": "AEK Athens (-140)",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "W",
+            "score": "LASK Linz 0, AEK Athens 1"
+          },
+          {
+            "game": "Real Betis @ Lille",
+            "betType": "moneyline",
+            "pick": "Lille (+115)",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Real Betis 3, Lille 2"
+          },
+          {
+            "game": "Aston Villa @ Club Brugge",
+            "betType": "total",
+            "pick": "Over 2.5 (-155)",
+            "odds": "-155",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Aston Villa 3, Club Brugge 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-07",
     "sports": [
       {
@@ -93,8 +249,8 @@
             "pick": "Over 3.5",
             "odds": "+120",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Villarreal 2, Borussia Dortmund 3"
           },
           {
             "game": "Inter Milan @ Real Madrid",
@@ -111,8 +267,8 @@
             "pick": "Over 2.5",
             "odds": "-130",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Real Betis 3, Lille 2"
           },
           {
             "game": "Manchester City @ Porto",
@@ -120,8 +276,8 @@
             "pick": "Manchester City",
             "odds": "-135",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Manchester City 2, FC Porto 0"
           },
           {
             "game": "Manchester City @ Porto",
@@ -129,8 +285,8 @@
             "pick": "Over 2.5",
             "odds": "-155",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Manchester City 2, FC Porto 0"
           }
         ]
       }
@@ -2267,62 +2423,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Texas Rangers 4, Los Angeles Angels 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-09",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Atlanta Braves @ New York Yankees",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Atlanta Braves 2, New York Yankees 1"
-          },
-          {
-            "game": "Tampa Bay Rays @ Seattle Mariners",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-102",
-            "confidence": "high",
-            "result": "W",
-            "score": "Tampa Bay Rays 4, Seattle Mariners 1"
-          },
-          {
-            "game": "Detroit Tigers @ San Francisco Giants",
-            "betType": "moneyline",
-            "pick": "Detroit Tigers",
-            "odds": "-119",
-            "confidence": "high",
-            "result": "W",
-            "score": "Detroit Tigers 3, San Francisco Giants 1"
-          },
-          {
-            "game": "Chicago Cubs @ Kansas City Royals",
-            "betType": "spread",
-            "pick": "Chicago Cubs -1.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago Cubs 10, Kansas City Royals 2"
-          },
-          {
-            "game": "Atlanta Braves @ New York Yankees",
-            "betType": "prop",
-            "pick": "Cam Schlittler Over 6.5 Pitcher Strikeouts",
-            "odds": "-117",
-            "confidence": "medium",
-            "result": "?",
-            "score": "Cam Schlittler: \"Pitcher Strikeouts\" not auto-gradeable"
           }
         ]
       }
