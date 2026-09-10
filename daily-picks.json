@@ -1,249 +1,78 @@
 {
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-09T13:39:20.623Z",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T13:30:32.526Z",
   "sports": [
-    {
-      "sport": "MLB",
-      "picks": [
-        {
-          "game": "Cincinnati Reds @ Los Angeles Dodgers",
-          "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "-134",
-          "confidence": "high",
-          "rationale": "The Los Angeles Dodgers are currently on a six-game winning streak and have a dominant head-to-head record against the Reds, winning their last five matchups by at least two runs. Dodgers ace Yoshinobu Yamamoto (2.67 ERA) is scheduled to start, providing a significant pitching advantage over Reds starter Rhett Lowder (5.43 ERA). Playing at home, the Dodgers are motivated as they are only 1.5 games behind the Brewers for the best record in baseball. The model projects the Dodgers to win by 2.3 runs, further supporting the -1.5 run line.",
-          "awayRecord": "69-76",
-          "homeRecord": "88-57",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Chicago Cubs @ Milwaukee Brewers",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "+152",
-          "confidence": "high",
-          "rationale": "The Milwaukee Brewers hold a nine-game lead over the Cubs in the NL Central and have already won the first two games of this series, including a 4-3 extra-inning victory yesterday. Milwaukee boasts a strong pitching advantage with Logan Henderson (2.48 ERA) on the mound compared to Chicago's Kevin Gausman (4.38 ERA). The Brewers have won four of their last five head-to-head contests against the Cubs, demonstrating their recent dominance in this rivalry. Given their strong home performance and pitching edge, the Brewers are well-positioned to cover the run line.",
-          "awayRecord": "81-65",
-          "homeRecord": "90-56",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays @ Atlanta Braves",
-          "betType": "moneyline",
-          "pick": "Tampa Bay Rays (+106)",
-          "odds": "+106",
-          "confidence": "high",
-          "rationale": "The Tampa Bay Rays started this series with a convincing 7-1 victory yesterday, hitting four home runs, and have won three of their last four games overall. Rays starter Griffin Jax has been in excellent form, allowing one earned run or less in three of his last four starts. In contrast, the Atlanta Braves have struggled recently, losing four of their last five games and being shut out by Philadelphia earlier in the week, with their projected starter Reynaldo Lopez returning from the IL and showing recent struggles. The Rays also have a solid 39-33 road record, making the plus-money value on the road appealing.",
-          "awayRecord": "86-58",
-          "homeRecord": "85-60",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Colorado Rockies @ New York Yankees",
-          "betType": "spread",
-          "pick": "New York Yankees -1.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The New York Yankees secured a 5-3 victory in the series opener yesterday and have won six of their last nine games. They hold a significant pitching advantage with Will Warren (4.09 ERA) facing the Rockies' Tomoyuki Sugano (5.33 ERA). The Colorado Rockies are in poor road form, having lost five consecutive away games, and their overall record is substantially worse than the Yankees'. Despite public betting trends, the line movement towards the Yankees -1.5 suggests sharp money is backing New York to cover.",
-          "awayRecord": "55-89",
-          "homeRecord": "82-62",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Houston Astros @ Philadelphia Phillies",
-          "betType": "spread",
-          "pick": "Houston Astros +1.5",
-          "odds": "-156",
-          "confidence": "medium",
-          "rationale": "While the Philadelphia Phillies feature a strong starter in Cristopher Sanchez (2.58 ERA), the Houston Astros' Hunter Brown (3.31 ERA) has also demonstrated strong performance since his return from injury. The SportsGrid model projects a close contest, with the Phillies winning by only 0.2 runs, and identifies the Astros +134 moneyline as a top game pick. The Astros are a competitive team capable of keeping games tight, and the +1.5 run line offers valuable insurance in what is expected to be a closely fought interleague matchup.",
-          "awayRecord": "74-71",
-          "homeRecord": "81-64",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        }
-      ]
-    },
     {
       "sport": "NFL",
       "picks": [
         {
-          "game": "New England Patriots vs Seattle Seahawks",
+          "game": "San Francisco 49ers vs Los Angeles Rams",
           "betType": "spread",
-          "pick": "Seattle Seahawks -3",
-          "odds": "-120",
+          "pick": "San Francisco 49ers +3.5",
+          "odds": "-102",
           "confidence": "high",
-          "rationale": "The Seattle Seahawks enter this game as the defending Super Bowl champions, boasting a 14-3 record in 2025 and returning 20 of 22 starters. While the spread has moved 1.5 points in favor of the Patriots from its opening of -4.5, Seattle still holds a significant home-field advantage at Lumen Field. New England's offensive line, particularly with center Ben Brown out, was a visible weakness in their Super Bowl LX rematch, which Seattle exploited for a 29-13 victory. Despite the Patriots' offensive upgrades, the Seahawks' overall team strength and defensive prowess should allow them to cover the key number of -3 at home.",
-          "propPlayer": null,
-          "propTeam": null,
+          "rationale": "The San Francisco 49ers hold a significant situational advantage by arriving in Melbourne a week early to acclimate, which should help mitigate jet lag compared to the Los Angeles Rams' late arrival. Historically, in 19 meetings between coaches Kyle Shanahan and Sean McVay, the Rams have won by four or more points in only four instances, indicating the 49ers consistently keep games close. With key defensive players Nick Bosa and George Kittle expected to play for San Francisco, and Aaron Donald ruled out for Los Angeles, the 49ers are well-positioned to cover this spread.",
           "awayRecord": "0-0",
           "homeRecord": "0-0"
         },
         {
-          "game": "New England Patriots vs Seattle Seahawks",
+          "game": "San Francisco 49ers vs Los Angeles Rams",
           "betType": "total",
-          "pick": "Under 44.5",
-          "odds": "-112",
+          "pick": "Under 48.5",
+          "odds": "-115",
           "confidence": "medium",
-          "rationale": "The total for this game has remained flat at 44.5 since opening, suggesting balanced action and no strong lean from sharp money. Seattle's Super Bowl LX victory was built on a strong defense and a potent run game, which will now operate under a new offensive coordinator, Brian Fleury, and without Super Bowl MVP Kenneth Walker III. Week 1 games often feature lower scoring as teams adjust to new schemes and players gel, and the Patriots' offensive upgrades around Drake Maye may take time to fully integrate. Given these factors, a defensive struggle with fewer points is a likely outcome.",
-          "propPlayer": null,
-          "propTeam": null,
+          "rationale": "The average total points scored in the last four head-to-head matchups between the 49ers and Rams is 46.5, which is below the current total of 48.5. The Rams have significantly bolstered their defense with the addition of Myles Garrett and improved secondary players like Trent McDuffie and Jaylen Watson, which should limit offensive production. Given the neutral site and potential for travel-induced sluggishness, particularly for the Rams with their late arrival, a lower-scoring game is a strong possibility.",
           "awayRecord": "0-0",
           "homeRecord": "0-0"
         },
         {
-          "game": "New England Patriots vs Seattle Seahawks",
+          "game": "San Francisco 49ers vs Los Angeles Rams",
           "betType": "moneyline",
-          "pick": "New England Patriots +142",
-          "odds": "+142",
-          "confidence": "medium",
-          "rationale": "Despite Seattle's status as defending champions, the line movement has significantly favored the Patriots, with the spread shifting from Seahawks -4.5 to -3 and the Patriots' moneyline shortening. New England has made substantial upgrades around quarterback Drake Maye, including adding guard Alijah Vera-Tucker and wide receivers A.J. Brown and Romeo Doubs, which should improve their offensive capabilities compared to their Super Bowl LX matchup. The Seahawks are also breaking in a new offensive coordinator and are without their key running back Kenneth Walker III, which could impact their offensive rhythm early in the season. This provides value on the Patriots to pull off an upset on the road.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "New England Patriots vs Seattle Seahawks",
-          "betType": "prop",
-          "pick": "Drake Maye Over 225.5 Passing Yards",
-          "odds": "N/A",
-          "confidence": "medium",
-          "rationale": "Patriots quarterback Drake Maye threw for 295 passing yards against the Seahawks defense in Super Bowl LX, demonstrating his ability to move the ball against this opponent. The Patriots have significantly bolstered Maye's receiving corps with the additions of A.J. Brown and Romeo Doubs, providing him with more reliable targets. With running back TreVeyon Henderson out and Seattle being an elite run-stopping unit, New England may lean more heavily on the passing game, creating opportunities for Maye to exceed this yardage total. Maye is active and expected to start for the Patriots.",
-          "propPlayer": "Drake Maye",
-          "propTeam": "New England Patriots",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "New England Patriots vs Seattle Seahawks",
-          "betType": "prop",
-          "pick": "Jason Myers Over 1.5 Field Goals Made",
-          "odds": "N/A",
-          "confidence": "medium",
-          "rationale": "Seahawks kicker Jason Myers has a strong track record, having made 5 field goals in Super Bowl LX and converting 2 or more field goals in 75% of games last season. With Seattle adjusting to a new offensive coordinator and the departure of Super Bowl MVP running back Kenneth Walker III, the offense might experience some early-season struggles, particularly in the red zone. This scenario often leads to drives stalling and more opportunities for the kicker to convert field goals. Myers is active and will be kicking for the Seahawks.",
-          "propPlayer": "Jason Myers",
-          "propTeam": "Seattle Seahawks",
+          "pick": "Los Angeles Rams (-198)",
+          "odds": "-198",
+          "confidence": "high",
+          "rationale": "The Los Angeles Rams are widely considered Super Bowl favorites this season, boasting a high-powered offense and a significantly improved defense with the addition of Myles Garrett. The line movement from Rams -2.5 to -3.5 on the spread and from -150 to -210 on the moneyline indicates strong market confidence in a Rams outright victory. Furthermore, the Rams have an impressive 3-0 record in international games under Sean McVay, with a substantial average winning margin of 25 points.",
           "awayRecord": "0-0",
           "homeRecord": "0-0"
         }
       ]
     },
     {
-      "sport": "MLS",
+      "sport": "NCAAF",
       "picks": [
         {
-          "game": "Real Salt Lake @ Houston Dynamo FC",
-          "betType": "moneyline",
-          "pick": "Houston Dynamo FC",
+          "game": "Florida A&M Rattlers vs Miami Hurricanes",
+          "betType": "spread",
+          "pick": "Miami Hurricanes -57.5",
           "odds": "-110",
           "confidence": "high",
-          "rationale": "Houston Dynamo FC is in very good form, especially at home, boasting a seven-match unbeaten run at Shell Energy Stadium. Real Salt Lake, conversely, is on a nine-match winless streak and is severely hampered by a long list of injuries, including key players like Stijn Spierings and Sam Junqua. Despite Real Salt Lake winning the most recent head-to-head match, Houston's current home dominance and RSL's extensive injury report and poor form create a significant advantage for the home side. The moneyline at -110 offers excellent value for a team in such strong home form against a struggling, injury-riddled opponent.",
-          "awayRecord": "8-5-9",
-          "homeRecord": "12-4-7"
+          "rationale": "Miami, ranked No. 7, is an FBS powerhouse facing an FCS opponent in their home opener. Florida A&M's starting quarterback, Isaiah Knowles, is out for the season with a broken thumb, forcing a backup into a difficult situation. Miami's offense was explosive in Week 1, with QB Darian Mensah throwing for 401 yards and 5 touchdowns in a 45-6 victory over Stanford. Florida A&M's offense struggled significantly in their last game, managing only 161 total yards and -1 rushing yard against South Carolina State. Given the massive talent disparity, key injury to FAMU, and Miami's offensive firepower, the Hurricanes are poised for a dominant win and should cover this large spread.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-0",
+          "awayLast5": [
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W"
+          ]
         },
         {
-          "game": "FC Cincinnati @ Philadelphia Union",
+          "game": "Florida A&M Rattlers vs Miami Hurricanes",
           "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-130",
-          "confidence": "high",
-          "rationale": "The head-to-head history between FC Cincinnati and Philadelphia Union frequently features high-scoring affairs, with four of their last five matchups going over 3.5 goals. Philadelphia Union is in slightly better recent form (3 wins, 1 draw, 1 loss in last 5), and both teams have shown a propensity for scoring and conceding goals. This consistent trend of offensive output in their encounters, coupled with the competitive nature of the teams, makes the Over 3.5 at -130 a strong play.",
-          "awayRecord": "8-7-7",
-          "homeRecord": "7-6-10"
-        },
-        {
-          "game": "Columbus Crew @ D.C. United",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-155",
-          "confidence": "high",
-          "rationale": "The head-to-head record between D.C. United and Columbus Crew indicates a high probability of goals, with 56% of their 36 previous meetings going over 2.5 goals. Furthermore, prediction statistics for this specific matchup show an 82% chance of over 2.5 goals, with an average of 3.59 goals per match. D.C. United's home form is very poor, suggesting defensive vulnerabilities, while Columbus Crew has won 3 of the last 5 H2H matches, scoring 60 goals in 36 overall H2H meetings. This combination of historical trends and D.C. United's defensive struggles makes the Over 2.5 at -155 a confident pick.",
-          "awayRecord": "6-5-12",
-          "homeRecord": "5-10-7"
-        },
-        {
-          "game": "St. Louis CITY SC @ Portland Timbers",
-          "betType": "moneyline",
-          "pick": "St. Louis CITY SC",
-          "odds": "+165",
+          "pick": "Over 62.5",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "St. Louis CITY SC enters this match in exceptional form, currently on an impressive 13-match unbeaten run and having won three of their last five games. They recently secured a strong 3-1 away victory against Vancouver Whitecaps, showcasing their ability to perform on the road. While Portland Timbers have decent home form (7 wins, 2 draws, 3 losses), their overall recent performance is inconsistent, with two wins, one draw, and two losses in their last five matches. Given St. Louis's strong momentum and the attractive underdog odds of +165, they present significant value to secure an away win against a less consistent opponent.",
-          "awayRecord": "10-7-6",
-          "homeRecord": "9-4-10"
-        },
-        {
-          "game": "LA Galaxy @ Vancouver Whitecaps",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-125",
-          "confidence": "medium",
-          "rationale": "Vancouver Whitecaps are in exceptional scoring form, averaging a remarkable 5.7 goals per game over their last 10 matches. The LA Galaxy are significantly weakened by multiple key injuries, including Riqui Puig, Douglas Costa, and N. DePuy, which will likely compromise their defensive capabilities. While their last head-to-head was a 1-1 draw, Vancouver's current offensive prowess and LA's defensive vulnerabilities suggest a high-scoring affair. The Over 3.5 goals at -125 offers strong value, aligning with Vancouver's recent goal-scoring explosion and the Galaxy's depleted squad.",
-          "awayRecord": "7-8-9",
-          "homeRecord": "13-4-5"
+          "rationale": "Miami's offense demonstrated its high scoring potential in Week 1, putting up 45 points against an FBS opponent. The last head-to-head matchup between these two teams in 2024 resulted in a 56-9 Miami victory, totaling 65 points, which would have gone over this line. Florida A&M's defense allowed 31 points in their recent loss to South Carolina State, suggesting vulnerability. With FAMU forced to start a backup quarterback due to injury, there's an increased likelihood of turnovers and short fields, providing more scoring opportunities for Miami. Miami alone has the potential to score a significant portion of this total, making the over a strong play.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-0",
+          "awayLast5": [
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W"
+          ]
         }
       ]
     },
@@ -251,52 +80,52 @@
       "sport": "UCL",
       "picks": [
         {
-          "game": "Feyenoord Rotterdam @ Barcelona",
-          "betType": "spread",
-          "pick": "Barcelona -2.5",
-          "odds": "-900",
-          "confidence": "high",
-          "rationale": "Barcelona is in devastating form, winning all four LaLiga matches with 17 goals scored and only 2 conceded, including a commanding 5-0 victory over Valencia. Feyenoord is significantly hampered by multiple defensive injuries, with Bart Nieuwkoop, Gijs Smal, Jakub Moder, Jordan Bos, and Thomas Beelen all unavailable. Barcelona has won both halves in 100% of their La Liga fixtures this season, demonstrating their ability to dominate from start to finish. The sheer attacking firepower of Barcelona, led by Raphinha with six goals, against an injury-riddled Feyenoord defense at Camp Nou, points to a comfortable multi-goal victory for the hosts.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "Viking FK @ VfB Stuttgart",
-          "betType": "spread",
-          "pick": "VfB Stuttgart -1.5",
-          "odds": "-375",
-          "confidence": "high",
-          "rationale": "VfB Stuttgart enters this match with strong recent form, having won 4-1 against Cologne in their latest Bundesliga outing and scoring 14 goals in their last six matches across all competitions. Viking FK, while having an impressive qualifying run, faces a significant step up in competition and is dealing with multiple defensive injuries, including Veton Berisha, Martin Ove Roseth, and Henrik Falchener. This is the first-ever meeting between these two clubs, and Stuttgart's superior squad depth and home advantage in the Champions League are expected to be decisive. Viking's tendency to commit numerous fouls (48 in their last five matches) could lead to dangerous set-piece opportunities for Stuttgart's potent attack.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "Arsenal @ Napoli",
+          "game": "AS Roma vs Fenerbahce",
           "betType": "moneyline",
-          "pick": "Arsenal (-165)",
-          "odds": "-165",
+          "pick": "AS Roma",
+          "odds": "+110",
           "confidence": "high",
-          "rationale": "Arsenal is in excellent Premier League form, winning all three of their matches this season and sitting atop the league table, showcasing a strong and compact defensive record. Napoli is struggling domestically, having lost their last two Serie A matches and currently sitting 12th in the league, indicating a dip in form. Napoli is significantly weakened by key injuries to midfielders Scott McTominay (heart surgery) and André-Frank Zambo Anguissa (adductor injury), which will impact their ability to protect the defense. Historically, the winning team in previous head-to-head matchups between these two sides has always kept a clean sheet, suggesting Arsenal's solid defense could be a deciding factor.",
+          "rationale": "AS Roma enters this Champions League fixture in exceptional form, boasting a perfect 3-0-0 start in Serie A with 10 goals scored and none conceded. They have scored 2+ goals in eight successive competitive matches, indicating strong offensive capabilities. In contrast, Fenerbahce has had a shaky domestic start and is dealing with a significant injury list, which could impact their performance. The line movement also suggests sharp money is favoring AS Roma, with their moneyline moving from +155 to +114.",
           "awayRecord": "0-0-0",
           "homeRecord": "0-0-0"
         },
         {
-          "game": "Slovan Bratislava @ Paris Saint-Germain",
-          "betType": "spread",
-          "pick": "Paris Saint-Germain -3.5",
-          "odds": "-2500",
-          "confidence": "medium",
-          "rationale": "Despite a 'catastrophic' start to their domestic season, PSG is the reigning European champion and possesses a vastly superior squad with a practically clean bill of health for this Champions League opener. Slovan Bratislava, while having a mixed domestic start and good away form in qualifiers, faces a monumental step up in class against one of Europe's elite teams. PSG will be highly motivated to make a statement and regain confidence in the Champions League at home after their recent Ligue 1 struggles. The immense quality gap between the two teams, coupled with PSG's desire to assert dominance, makes a comfortable multi-goal victory highly probable.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "Atlético Madrid @ Liverpool",
+          "game": "Shakhtar Donetsk vs PSV Eindhoven",
           "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-175",
+          "pick": "Over 3.5",
+          "odds": "+110",
           "confidence": "medium",
-          "rationale": "Both Liverpool and Atlético Madrid are dealing with significant injury concerns, particularly in attacking roles for Atlético (Sorloth, Ortiz, Alvarez uncertain) and a major doubt for Liverpool's Cody Gakpo. Atlético Madrid's defensive-minded approach under Diego Simeone is well-known, and they will likely aim to deny space and control the tempo, especially at Anfield. While Liverpool's previous encounter saw 5 goals, Atlético's current form suggests they might prioritize a more conservative strategy after a recent 3-0 loss. The Under 3.5 line offers value given both teams' injury situations and Atlético's historical ability to make European matches tight, even against stronger opposition.",
+          "rationale": "The only prior head-to-head match between these two teams in 2024 finished with a 3-2 PSV victory, resulting in 5 total goals. PSV Eindhoven is in excellent scoring form, having won four successive Eredivisie games and scoring 18 goals in their first five league matches this season. Furthermore, 19 of PSV's last 21 competitive matches saw both teams score, and only one of their last 32 games produced under 2.5 total goals, indicating a strong tendency for high-scoring affairs. Shakhtar Donetsk also contributes to this trend, with nine of their last 12 UEFA matches producing over 2.5 total goals.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
+        },
+        {
+          "game": "RB Leipzig vs Como",
+          "betType": "moneyline",
+          "pick": "Como",
+          "odds": "-135",
+          "confidence": "high",
+          "rationale": "Como enters their Champions League debut at home with a significant advantage in terms of squad health, reporting no fresh fitness concerns for active players. In contrast, RB Leipzig is severely hampered by injuries, with key midfielders Rocco Reitz and Christoph Baumgartner sidelined, alongside other defensive absentees. Furthermore, RB Leipzig has a concerning four-match losing run away from home in the Champions League and a poor historical record against Italian opposition in the competition. Playing at the intimate Stadio Giuseppe Sinigaglia, Como will benefit from strong home support, which could be a decisive factor against a depleted Leipzig side.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
+        },
+        {
+          "game": "AS Roma vs Fenerbahce",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-165",
+          "confidence": "medium",
+          "rationale": "AS Roma has been in prolific scoring form, netting 10 goals in their first three Serie A matches this season and scoring 2+ goals in eight successive competitive matches. Five of Roma's last seven competitive matches have also seen over 2.5 goals, indicating a consistent trend for high-scoring games. Fenerbahce, on the other hand, has conceded 8 goals in their last six competitive matches and is dealing with a significant injury list, potentially weakening their defense further. The only prior head-to-head encounter between these teams was a 3-3 friendly, suggesting both teams are capable of contributing to a high total.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
+        },
+        {
+          "game": "Shakhtar Donetsk vs PSV Eindhoven",
+          "betType": "moneyline",
+          "pick": "PSV Eindhoven",
+          "odds": "-210",
+          "confidence": "medium",
+          "rationale": "PSV Eindhoven enters this Champions League fixture in formidable domestic form, having won four successive Eredivisie matches, including a convincing 3-1 victory over Ajax. They boast a strong home advantage at Philips Stadion, which is crucial in European competitions. In contrast, Shakhtar Donetsk has a historically poor record in away Champions League games, securing only two wins in their last 15 matches on opposition venues. While PSV does have some key players out or doubtful, their overall squad depth and current momentum make them strong favorites to secure an outright victory against the Ukrainian side.",
           "awayRecord": "0-0-0",
           "homeRecord": "0-0-0"
         }

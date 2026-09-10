@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-09-09",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cincinnati Reds @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-134",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cincinnati Reds 1, Los Angeles Dodgers 14"
+          },
+          {
+            "game": "Chicago Cubs @ Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+152",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago Cubs 6, Milwaukee Brewers 8"
+          },
+          {
+            "game": "Tampa Bay Rays @ Atlanta Braves",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays (+106)",
+            "odds": "+106",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 7, Atlanta Braves 2"
+          },
+          {
+            "game": "Colorado Rockies @ New York Yankees",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Rockies 1, New York Yankees 6"
+          },
+          {
+            "game": "Houston Astros @ Philadelphia Phillies",
+            "betType": "spread",
+            "pick": "Houston Astros +1.5",
+            "odds": "-156",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Astros 7, Philadelphia Phillies 11"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "New England Patriots vs Seattle Seahawks",
+            "betType": "spread",
+            "pick": "Seattle Seahawks -3",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "P",
+            "score": "New England Patriots 10, Seattle Seahawks 13"
+          },
+          {
+            "game": "New England Patriots vs Seattle Seahawks",
+            "betType": "total",
+            "pick": "Under 44.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New England Patriots 10, Seattle Seahawks 13"
+          },
+          {
+            "game": "New England Patriots vs Seattle Seahawks",
+            "betType": "moneyline",
+            "pick": "New England Patriots +142",
+            "odds": "+142",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New England Patriots 10, Seattle Seahawks 13"
+          },
+          {
+            "game": "New England Patriots vs Seattle Seahawks",
+            "betType": "prop",
+            "pick": "Drake Maye Over 225.5 Passing Yards",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Drake Maye: 178 Passing Yards (line 225.5)"
+          },
+          {
+            "game": "New England Patriots vs Seattle Seahawks",
+            "betType": "prop",
+            "pick": "Jason Myers Over 1.5 Field Goals Made",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Jason Myers: 2 of 2/2 Field Goals Made (line 1.5)"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Real Salt Lake @ Houston Dynamo FC",
+            "betType": "moneyline",
+            "pick": "Houston Dynamo FC",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Real Salt Lake 1, Houston Dynamo FC 2"
+          },
+          {
+            "game": "FC Cincinnati @ Philadelphia Union",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "FC Cincinnati 0, Philadelphia Union 5"
+          },
+          {
+            "game": "Columbus Crew @ D.C. United",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-155",
+            "confidence": "high",
+            "result": "W",
+            "score": "Columbus Crew 1, D.C. United 2"
+          },
+          {
+            "game": "St. Louis CITY SC @ Portland Timbers",
+            "betType": "moneyline",
+            "pick": "St. Louis CITY SC",
+            "odds": "+165",
+            "confidence": "medium",
+            "result": "L",
+            "score": "St. Louis CITY SC 2, Portland Timbers 2"
+          },
+          {
+            "game": "LA Galaxy @ Vancouver Whitecaps",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "L",
+            "score": "LA Galaxy 0, Vancouver Whitecaps 3"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Feyenoord Rotterdam @ Barcelona",
+            "betType": "spread",
+            "pick": "Barcelona -2.5",
+            "odds": "-900",
+            "confidence": "high",
+            "result": "W",
+            "score": "Feyenoord Rotterdam 1, Barcelona 5"
+          },
+          {
+            "game": "Viking FK @ VfB Stuttgart",
+            "betType": "spread",
+            "pick": "VfB Stuttgart -1.5",
+            "odds": "-375",
+            "confidence": "high",
+            "result": "W",
+            "score": "Viking FK 1, VfB Stuttgart 3"
+          },
+          {
+            "game": "Arsenal @ Napoli",
+            "betType": "moneyline",
+            "pick": "Arsenal (-165)",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "W",
+            "score": "Arsenal 1, Napoli 0"
+          },
+          {
+            "game": "Slovan Bratislava @ Paris Saint-Germain",
+            "betType": "spread",
+            "pick": "Paris Saint-Germain -3.5",
+            "odds": "-2500",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Slovan Bratislava 1, Paris Saint-Germain 6"
+          },
+          {
+            "game": "Atlético Madrid @ Liverpool",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-175",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlético Madrid 1, Liverpool 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-08",
     "sports": [
       {
@@ -70,8 +276,8 @@
             "pick": "Nashville SC",
             "odds": "+115",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Orlando City SC 3, Atlanta United FC 2"
           },
           {
             "game": "Charlotte FC @ CF Montreal",
@@ -88,8 +294,8 @@
             "pick": "Over 3.5",
             "odds": "-110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "FC Cincinnati 0, Philadelphia Union 5"
           },
           {
             "game": "Orlando City SC @ Atlanta United FC",
@@ -97,8 +303,8 @@
             "pick": "Over 3.5",
             "odds": "+110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Orlando City SC 3, Atlanta United FC 2"
           }
         ]
       },
@@ -2367,62 +2573,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Boston Red Sox 3, Toronto Blue Jays 5"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-10",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Milwaukee Brewers @ San Diego Padres",
-            "betType": "total",
-            "pick": "Under 7",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Milwaukee Brewers 2, San Diego Padres 3"
-          },
-          {
-            "game": "Kansas City Royals @ Los Angeles Dodgers",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-122",
-            "confidence": "high",
-            "result": "L",
-            "score": "Kansas City Royals 5, Los Angeles Dodgers 6"
-          },
-          {
-            "game": "Philadelphia Phillies @ St. Louis Cardinals",
-            "betType": "moneyline",
-            "pick": "St. Louis Cardinals",
-            "odds": "+106",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia Phillies 6, St. Louis Cardinals 5"
-          },
-          {
-            "game": "Baltimore Orioles @ Minnesota Twins",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "-107",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Baltimore Orioles 5, Minnesota Twins 9"
-          },
-          {
-            "game": "Texas Rangers @ Los Angeles Angels",
-            "betType": "moneyline",
-            "pick": "Texas Rangers",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Texas Rangers 4, Los Angeles Angels 1"
           }
         ]
       }
