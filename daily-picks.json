@@ -1,39 +1,129 @@
 {
-  "date": "2026-09-10",
-  "generatedAt": "2026-09-10T13:30:32.526Z",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T13:28:32.471Z",
   "sports": [
     {
-      "sport": "NFL",
+      "sport": "MLB",
       "picks": [
         {
-          "game": "San Francisco 49ers vs Los Angeles Rams",
-          "betType": "spread",
-          "pick": "San Francisco 49ers +3.5",
-          "odds": "-102",
-          "confidence": "high",
-          "rationale": "The San Francisco 49ers hold a significant situational advantage by arriving in Melbourne a week early to acclimate, which should help mitigate jet lag compared to the Los Angeles Rams' late arrival. Historically, in 19 meetings between coaches Kyle Shanahan and Sean McVay, the Rams have won by four or more points in only four instances, indicating the 49ers consistently keep games close. With key defensive players Nick Bosa and George Kittle expected to play for San Francisco, and Aaron Donald ruled out for Los Angeles, the 49ers are well-positioned to cover this spread.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "San Francisco 49ers vs Los Angeles Rams",
-          "betType": "total",
-          "pick": "Under 48.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "The average total points scored in the last four head-to-head matchups between the 49ers and Rams is 46.5, which is below the current total of 48.5. The Rams have significantly bolstered their defense with the addition of Myles Garrett and improved secondary players like Trent McDuffie and Jaylen Watson, which should limit offensive production. Given the neutral site and potential for travel-induced sluggishness, particularly for the Rams with their late arrival, a lower-scoring game is a strong possibility.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "San Francisco 49ers vs Los Angeles Rams",
+          "game": "New York Mets @ New York Yankees",
           "betType": "moneyline",
-          "pick": "Los Angeles Rams (-198)",
-          "odds": "-198",
+          "pick": "New York Mets (+118)",
+          "odds": "+118",
           "confidence": "high",
-          "rationale": "The Los Angeles Rams are widely considered Super Bowl favorites this season, boasting a high-powered offense and a significantly improved defense with the addition of Myles Garrett. The line movement from Rams -2.5 to -3.5 on the spread and from -150 to -210 on the moneyline indicates strong market confidence in a Rams outright victory. Furthermore, the Rams have an impressive 3-0 record in international games under Sean McVay, with a substantial average winning margin of 25 points.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
+          "rationale": "The New York Mets are entering this Subway Series opener on a four-game winning streak and have been performing exceptionally well since the trade deadline, boasting a 21-12 record. Their offense is particularly hot, hitting .283 with a .514 slugging percentage over their last six games, contrasting with the Yankees' cooled bats. While starting pitchers Nolan McLean (Mets) and Carlos Rodon (Yankees) have comparable ERAs, the Mets have dominated recent head-to-head matchups, winning 3 of the last 5 and holding a 12-8 all-time advantage. This combination of strong recent form, offensive prowess, and historical edge against their rival makes the Mets a high-value underdog play.",
+          "awayRecord": "68-78",
+          "homeRecord": "84-62",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Baltimore Orioles @ Toronto Blue Jays",
+          "betType": "moneyline",
+          "pick": "Baltimore Orioles (+110)",
+          "odds": "+110",
+          "confidence": "high",
+          "rationale": "The Baltimore Orioles hold a significant starting pitching advantage with Chris Bassitt (4.96 ERA) taking the mound against Max Scherzer, who carries a concerning 6.03 ERA and has allowed three or more earned runs in three of his last four starts. Baltimore's offense has shown recent capability, scoring nine runs in their last win against Cleveland. Historically, the Orioles have a strong trend as road underdogs against AL opponents following a home win, securing victories in seven of their last eight such games. The slight line movement towards Baltimore further indicates sharp money backing the Orioles in this crucial wild-card race matchup.",
+          "awayRecord": "71-76",
+          "homeRecord": "73-74",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Houston Astros @ Tampa Bay Rays",
+          "betType": "spread",
+          "pick": "Tampa Bay Rays -1.5 (+128)",
+          "odds": "+128",
+          "confidence": "high",
+          "rationale": "The Tampa Bay Rays have a substantial pitching mismatch in their favor, with Drew Rasmussen (14-5, 2.88 ERA, 0.91 WHIP) starting against Houston's Miguel Ullola, a rookie with only 7 innings of MLB relief experience. Rasmussen has been dominant, leading the Rays to nine consecutive wins in his starts, and Tropicana Field is known as a pitcher-friendly park. The Astros' offense has struggled recently, scoring only 38 runs in their last 10 games, which will be further challenged by Rasmussen's command. The line movement towards the Rays, coupled with their strong home record and overall season performance, supports a confident pick on the run line.",
+          "awayRecord": "75-72",
+          "homeRecord": "87-59",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Diego Padres @ San Francisco Giants",
+          "betType": "moneyline",
+          "pick": "San Francisco Giants (+124)",
+          "odds": "+124",
+          "confidence": "medium",
+          "rationale": "The San Francisco Giants offer excellent value at home, primarily due to the strong pitching of Anthony Molina (3-0, 1.88 ERA), whose underlying metrics suggest sustainable improvement, especially in the pitcher-friendly Oracle Park. Padres starter Robbie Ray's 3.39 ERA is misleading, backed by a much higher 4.81 xERA, and he has struggled in recent outings. Furthermore, the Giants' offense has shown better form over the last two weeks with a 105 wRC+ compared to the Padres' 95 wRC+. This significant pitching advantage and recent offensive uptick for the Giants make them a strong moneyline play at plus odds.",
+          "awayRecord": "78-68",
+          "homeRecord": "62-85",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Angels @ Washington Nationals",
+          "betType": "spread",
+          "pick": "Washington Nationals -1.5 (+136)",
+          "odds": "+136",
+          "confidence": "medium",
+          "rationale": "The Washington Nationals have a substantial pitching advantage with Cade Cavalli (12-5, 3.12 ERA, 1.18 WHIP) on the mound, who has been in excellent form, allowing just seven earned runs in his last 36 innings. In contrast, Angels starter Yusei Kikuchi (1-5, 4.96 ERA) carries a high 6.10 ERA on the road. Despite the Nationals' recent seven-game losing streak, Cavalli's individual performance provides a strong foundation for this pick. The betting model projects the Nationals to win by 2.7 runs with a 76% win probability, making the +136 odds on the -1.5 spread an attractive value given the clear pitching disparity.",
+          "awayRecord": "56-90",
+          "homeRecord": "67-81",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
         }
       ]
     },
@@ -41,12 +131,29 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Florida A&M Rattlers vs Miami Hurricanes",
+          "game": "Villanova Wildcats vs Louisville Cardinals",
           "betType": "spread",
-          "pick": "Miami Hurricanes -57.5",
+          "pick": "Louisville Cardinals -36.5",
           "odds": "-110",
           "confidence": "high",
-          "rationale": "Miami, ranked No. 7, is an FBS powerhouse facing an FCS opponent in their home opener. Florida A&M's starting quarterback, Isaiah Knowles, is out for the season with a broken thumb, forcing a backup into a difficult situation. Miami's offense was explosive in Week 1, with QB Darian Mensah throwing for 401 yards and 5 touchdowns in a 45-6 victory over Stanford. Florida A&M's offense struggled significantly in their last game, managing only 161 total yards and -1 rushing yard against South Carolina State. Given the massive talent disparity, key injury to FAMU, and Miami's offensive firepower, the Hurricanes are poised for a dominant win and should cover this large spread.",
+          "rationale": "Louisville is a strong FBS team (ranked #24 AP Poll) facing an FCS opponent in Villanova. Villanova has a poor record against FBS teams, going 4-24 since 1985, and is 1-19 against ranked FBS teams. Louisville is coming off a season-opening loss to #9 Ole Miss and will be motivated for a dominant home opener, where head coach Jeff Brohm is 3-0. While there are some injury concerns for Villanova, notably with basketball players mentioned in search results, the football team's specific injury report is less clear, but the overall talent disparity and Louisville's motivation to rebound should lead to a comfortable cover against a team that has a 49-19 record in the FCS over the last six seasons.",
+          "awayRecord": "1-1",
+          "homeRecord": "0-1",
+          "awayLast5": [
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L"
+          ]
+        },
+        {
+          "game": "Norfolk State Spartans vs Virginia Cavaliers",
+          "betType": "spread",
+          "pick": "Virginia Cavaliers -45.5",
+          "odds": "-105",
+          "confidence": "high",
+          "rationale": "Virginia enters this game with a significant advantage, having won their last two contests against FCS opponents by a combined score of 89-29. Norfolk State, an FCS team, lost 60-10 to a 5-7 Rutgers team in 2025, indicating their struggles against Power Four opponents. Virginia is dealing with a substantial injury list, with 16 players out and two questionable for their Week 0 game, but many of these are not key starters. The Cavaliers are also undefeated coming off a bye week under Coach Tony Elliott, and this is their first-ever matchup against Norfolk State, providing an opportunity to set a dominant tone.",
           "awayRecord": "1-1",
           "homeRecord": "1-0",
           "awayLast5": [
@@ -58,76 +165,53 @@
           ]
         },
         {
-          "game": "Florida A&M Rattlers vs Miami Hurricanes",
+          "game": "Richmond Spiders vs NC State Wolfpack",
           "betType": "total",
-          "pick": "Over 62.5",
-          "odds": "-114",
+          "pick": "Under 50.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Miami's offense demonstrated its high scoring potential in Week 1, putting up 45 points against an FBS opponent. The last head-to-head matchup between these two teams in 2024 resulted in a 56-9 Miami victory, totaling 65 points, which would have gone over this line. Florida A&M's defense allowed 31 points in their recent loss to South Carolina State, suggesting vulnerability. With FAMU forced to start a backup quarterback due to injury, there's an increased likelihood of turnovers and short fields, providing more scoring opportunities for Miami. Miami alone has the potential to score a significant portion of this total, making the over a strong play.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-0",
+          "rationale": "NC State's offense struggled in their season opener, producing only 168 yards in a 34-8 loss to Virginia. Richmond, an FCS team, has started the season 2-0 with solid defensive performances. The last time these teams met in 2013, the combined score was 44 points, going under the 50.5-point total. While NC State is a heavy favorite, their offensive woes combined with Richmond's defensive capability suggest a lower-scoring affair, making the Under a strong play despite Richmond's two Overs to start the year.",
+          "awayRecord": "2-0",
+          "homeRecord": "0-1",
           "awayLast5": [
             "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L"
+          ]
+        },
+        {
+          "game": "Rutgers Scarlet Knights vs Boston College Eagles",
+          "betType": "spread",
+          "pick": "Rutgers Scarlet Knights +3.5",
+          "odds": "-120",
+          "confidence": "medium",
+          "rationale": "The spread for this game has seen movement towards Rutgers, with Boston College opening at -110 and now at -105, while Rutgers moved from -110 to -115. Boston College has a poor recent record against the spread at home, failing to cover in 6 consecutive home games and 9 of their last 10 overall. While Rutgers quarterback Dylan Lonergan left their last game with an injury, AJ Surace is expected to start, and Rutgers still possesses an explosive receiver in KJ Duff. Given Boston College's struggles to cover and the slight line movement towards the underdog, Rutgers covering the 3.5 points is a good value bet.",
+          "awayRecord": "0-1",
+          "homeRecord": "0-1",
+          "awayLast5": [
             "L"
           ],
           "homeLast5": [
-            "W"
+            "L"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "UCL",
-      "picks": [
+        },
         {
-          "game": "AS Roma vs Fenerbahce",
+          "game": "Missouri Tigers vs Kansas Jayhawks",
           "betType": "moneyline",
-          "pick": "AS Roma",
-          "odds": "+110",
-          "confidence": "high",
-          "rationale": "AS Roma enters this Champions League fixture in exceptional form, boasting a perfect 3-0-0 start in Serie A with 10 goals scored and none conceded. They have scored 2+ goals in eight successive competitive matches, indicating strong offensive capabilities. In contrast, Fenerbahce has had a shaky domestic start and is dealing with a significant injury list, which could impact their performance. The line movement also suggests sharp money is favoring AS Roma, with their moneyline moving from +155 to +114.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "Shakhtar Donetsk vs PSV Eindhoven",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+110",
-          "confidence": "medium",
-          "rationale": "The only prior head-to-head match between these two teams in 2024 finished with a 3-2 PSV victory, resulting in 5 total goals. PSV Eindhoven is in excellent scoring form, having won four successive Eredivisie games and scoring 18 goals in their first five league matches this season. Furthermore, 19 of PSV's last 21 competitive matches saw both teams score, and only one of their last 32 games produced under 2.5 total goals, indicating a strong tendency for high-scoring affairs. Shakhtar Donetsk also contributes to this trend, with nine of their last 12 UEFA matches producing over 2.5 total goals.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "RB Leipzig vs Como",
-          "betType": "moneyline",
-          "pick": "Como",
-          "odds": "-135",
-          "confidence": "high",
-          "rationale": "Como enters their Champions League debut at home with a significant advantage in terms of squad health, reporting no fresh fitness concerns for active players. In contrast, RB Leipzig is severely hampered by injuries, with key midfielders Rocco Reitz and Christoph Baumgartner sidelined, alongside other defensive absentees. Furthermore, RB Leipzig has a concerning four-match losing run away from home in the Champions League and a poor historical record against Italian opposition in the competition. Playing at the intimate Stadio Giuseppe Sinigaglia, Como will benefit from strong home support, which could be a decisive factor against a depleted Leipzig side.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "AS Roma vs Fenerbahce",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-165",
-          "confidence": "medium",
-          "rationale": "AS Roma has been in prolific scoring form, netting 10 goals in their first three Serie A matches this season and scoring 2+ goals in eight successive competitive matches. Five of Roma's last seven competitive matches have also seen over 2.5 goals, indicating a consistent trend for high-scoring games. Fenerbahce, on the other hand, has conceded 8 goals in their last six competitive matches and is dealing with a significant injury list, potentially weakening their defense further. The only prior head-to-head encounter between these teams was a 3-3 friendly, suggesting both teams are capable of contributing to a high total.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "Shakhtar Donetsk vs PSV Eindhoven",
-          "betType": "moneyline",
-          "pick": "PSV Eindhoven",
+          "pick": "Missouri Tigers (-210)",
           "odds": "-210",
           "confidence": "medium",
-          "rationale": "PSV Eindhoven enters this Champions League fixture in formidable domestic form, having won four successive Eredivisie matches, including a convincing 3-1 victory over Ajax. They boast a strong home advantage at Philips Stadion, which is crucial in European competitions. In contrast, Shakhtar Donetsk has a historically poor record in away Champions League games, securing only two wins in their last 15 matches on opposition venues. While PSV does have some key players out or doubtful, their overall squad depth and current momentum make them strong favorites to secure an outright victory against the Ukrainian side.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
+          "rationale": "Missouri will have All-American left tackle Cayden Green returning to play, which is a significant boost for their offense. Kansas, on the other hand, is dealing with key injuries, with starting linebacker Bam Crouch doubtful and wide receiver Cam Pickett a game-time decision. While Missouri's star running back Ahmad Hardy is still out, the return of Green and Kansas's defensive injuries give the Tigers a clear advantage. Missouri is also ranked #23 in the AP Poll, indicating a higher caliber team.",
+          "awayRecord": "1-0",
+          "homeRecord": "1-0",
+          "awayLast5": [
+            "W"
+          ],
+          "homeLast5": [
+            "W"
+          ]
         }
       ]
     }

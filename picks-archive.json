@@ -1,5 +1,116 @@
 [
   {
+    "date": "2026-09-10",
+    "sports": [
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "San Francisco 49ers vs Los Angeles Rams",
+            "betType": "spread",
+            "pick": "San Francisco 49ers +3.5",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Francisco 49ers 27, Los Angeles Rams 7"
+          },
+          {
+            "game": "San Francisco 49ers vs Los Angeles Rams",
+            "betType": "total",
+            "pick": "Under 48.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Francisco 49ers 27, Los Angeles Rams 7"
+          },
+          {
+            "game": "San Francisco 49ers vs Los Angeles Rams",
+            "betType": "moneyline",
+            "pick": "Los Angeles Rams (-198)",
+            "odds": "-198",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Francisco 49ers 27, Los Angeles Rams 7"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Florida A&M Rattlers vs Miami Hurricanes",
+            "betType": "spread",
+            "pick": "Miami Hurricanes -57.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Florida A&M Rattlers 7, Miami Hurricanes 77"
+          },
+          {
+            "game": "Florida A&M Rattlers vs Miami Hurricanes",
+            "betType": "total",
+            "pick": "Over 62.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Florida A&M Rattlers 7, Miami Hurricanes 77"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "AS Roma vs Fenerbahce",
+            "betType": "moneyline",
+            "pick": "AS Roma",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "L",
+            "score": "AS Roma 1, Fenerbahce 1"
+          },
+          {
+            "game": "Shakhtar Donetsk vs PSV Eindhoven",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Shakhtar Donetsk 1, PSV Eindhoven 1"
+          },
+          {
+            "game": "RB Leipzig vs Como",
+            "betType": "moneyline",
+            "pick": "Como",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "W",
+            "score": "RB Leipzig 1, Como 4"
+          },
+          {
+            "game": "AS Roma vs Fenerbahce",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-165",
+            "confidence": "medium",
+            "result": "L",
+            "score": "AS Roma 1, Fenerbahce 1"
+          },
+          {
+            "game": "Shakhtar Donetsk vs PSV Eindhoven",
+            "betType": "moneyline",
+            "pick": "PSV Eindhoven",
+            "odds": "-210",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Shakhtar Donetsk 1, PSV Eindhoven 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-09",
     "sports": [
       {
@@ -2517,62 +2628,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Kansas City Royals 2, Los Angeles Dodgers 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-11",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Milwaukee Brewers @ San Diego Padres",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Milwaukee Brewers 2, San Diego Padres 11"
-          },
-          {
-            "game": "Pittsburgh Pirates @ Miami Marlins",
-            "betType": "moneyline",
-            "pick": "Miami Marlins",
-            "odds": "+104",
-            "confidence": "high",
-            "result": "W",
-            "score": "Pittsburgh Pirates 0, Miami Marlins 2"
-          },
-          {
-            "game": "Seattle Mariners @ New York Yankees",
-            "betType": "total",
-            "pick": "Under 8",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Mariners 1, New York Yankees 4"
-          },
-          {
-            "game": "Texas Rangers @ Los Angeles Angels",
-            "betType": "moneyline",
-            "pick": "Texas Rangers",
-            "odds": "-148",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Texas Rangers 2, Los Angeles Angels 3"
-          },
-          {
-            "game": "Boston Red Sox @ Toronto Blue Jays",
-            "betType": "moneyline",
-            "pick": "Toronto Blue Jays",
-            "odds": "-136",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Boston Red Sox 3, Toronto Blue Jays 5"
           }
         ]
       }
