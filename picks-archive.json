@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-09-11",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "New York Mets @ New York Yankees",
+            "betType": "moneyline",
+            "pick": "New York Mets (+118)",
+            "odds": "+118",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Mets 4, New York Yankees 6"
+          },
+          {
+            "game": "Baltimore Orioles @ Toronto Blue Jays",
+            "betType": "moneyline",
+            "pick": "Baltimore Orioles (+110)",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Baltimore Orioles 7, Toronto Blue Jays 4"
+          },
+          {
+            "game": "Houston Astros @ Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays -1.5 (+128)",
+            "odds": "+128",
+            "confidence": "high",
+            "result": "W",
+            "score": "Houston Astros 1, Tampa Bay Rays 3"
+          },
+          {
+            "game": "San Diego Padres @ San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "San Francisco Giants (+124)",
+            "odds": "+124",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Diego Padres 7, San Francisco Giants 5"
+          },
+          {
+            "game": "Los Angeles Angels @ Washington Nationals",
+            "betType": "spread",
+            "pick": "Washington Nationals -1.5 (+136)",
+            "odds": "+136",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Angels 3, Washington Nationals 4"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Villanova Wildcats vs Louisville Cardinals",
+            "betType": "spread",
+            "pick": "Louisville Cardinals -36.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Villanova Wildcats 13, Louisville Cardinals 59"
+          },
+          {
+            "game": "Norfolk State Spartans vs Virginia Cavaliers",
+            "betType": "spread",
+            "pick": "Virginia Cavaliers -45.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "W",
+            "score": "Norfolk State Spartans 3, Virginia Cavaliers 59"
+          },
+          {
+            "game": "Richmond Spiders vs NC State Wolfpack",
+            "betType": "total",
+            "pick": "Under 50.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Richmond Spiders 0, NC State Wolfpack 73"
+          },
+          {
+            "game": "Rutgers Scarlet Knights vs Boston College Eagles",
+            "betType": "spread",
+            "pick": "Rutgers Scarlet Knights +3.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Rutgers Scarlet Knights 21, Boston College Eagles 28"
+          },
+          {
+            "game": "Missouri Tigers vs Kansas Jayhawks",
+            "betType": "moneyline",
+            "pick": "Missouri Tigers (-210)",
+            "odds": "-210",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Missouri Tigers 38, Kansas Jayhawks 21"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-10",
     "sports": [
       {
@@ -2572,62 +2678,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Texas Rangers 0, Los Angeles Angels 7"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-12",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Tampa Bay Rays @ Athletics",
-            "betType": "spread",
-            "pick": "Tampa Bay Rays -1.5 (-142)",
-            "odds": "-142",
-            "confidence": "high",
-            "result": "W",
-            "score": "Tampa Bay Rays 8, Athletics 4"
-          },
-          {
-            "game": "Milwaukee Brewers @ San Diego Padres",
-            "betType": "total",
-            "pick": "Under 8 (-107)",
-            "odds": "-107",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Milwaukee Brewers 3, San Diego Padres 4"
-          },
-          {
-            "game": "Cincinnati Reds @ Chicago White Sox",
-            "betType": "total",
-            "pick": "Over 8.5 (-122)",
-            "odds": "-122",
-            "confidence": "high",
-            "result": "L",
-            "score": "Cincinnati Reds 0, Chicago White Sox 5"
-          },
-          {
-            "game": "New York Mets @ Atlanta Braves",
-            "betType": "moneyline",
-            "pick": "Atlanta Braves (-174)",
-            "odds": "-174",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Mets 3, Atlanta Braves 6"
-          },
-          {
-            "game": "Kansas City Royals @ Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5 (-103)",
-            "odds": "-103",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Kansas City Royals 2, Los Angeles Dodgers 4"
           }
         ]
       }
