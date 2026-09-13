@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-09-12",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Dodgers @ Miami Marlins",
+            "betType": "moneyline",
+            "pick": "Los Angeles Dodgers (-196)",
+            "odds": "-196",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Dodgers 3, Miami Marlins 4"
+          },
+          {
+            "game": "San Diego Padres @ San Francisco Giants",
+            "betType": "total",
+            "pick": "Over 8.5 (+110)",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego Padres 7, San Francisco Giants 6"
+          },
+          {
+            "game": "New York Mets @ New York Yankees",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5 (+112)",
+            "odds": "+112",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Mets 12, New York Yankees 2"
+          },
+          {
+            "game": "Cleveland Guardians @ Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "Cleveland Guardians (-112)",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Guardians 3, Minnesota Twins 4"
+          },
+          {
+            "game": "Chicago White Sox @ St. Louis Cardinals",
+            "betType": "moneyline",
+            "pick": "St. Louis Cardinals (-112)",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago White Sox 6, St. Louis Cardinals 5"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Atlanta Falcons vs Pittsburgh Steelers",
+            "betType": "spread",
+            "pick": "Pittsburgh Steelers -6",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Green Bay Packers vs Minnesota Vikings",
+            "betType": "spread",
+            "pick": "Minnesota Vikings -1.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Chicago Bears vs Carolina Panthers",
+            "betType": "spread",
+            "pick": "Chicago Bears -3",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Cleveland Browns vs Jacksonville Jaguars",
+            "betType": "spread",
+            "pick": "Jacksonville Jaguars -8.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Miami Dolphins vs Las Vegas Raiders",
+            "betType": "spread",
+            "pick": "Miami Dolphins +3",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Wake Forest Demon Deacons @ Purdue Boilermakers",
+            "betType": "spread",
+            "pick": "Wake Forest Demon Deacons -2.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Wake Forest Demon Deacons 38, Purdue Boilermakers 36"
+          },
+          {
+            "game": "App State Mountaineers @ East Carolina Pirates",
+            "betType": "spread",
+            "pick": "App State Mountaineers +6.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "App State Mountaineers 27, East Carolina Pirates 24"
+          },
+          {
+            "game": "North Dakota State Bison @ Air Force Falcons",
+            "betType": "total",
+            "pick": "Over 47.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "North Dakota State Bison 38, Air Force Falcons 32"
+          },
+          {
+            "game": "Montana State Bobcats @ Nevada Wolf Pack",
+            "betType": "spread",
+            "pick": "Montana State Bobcats -3.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Montana State Bobcats 20, Nevada Wolf Pack 7"
+          },
+          {
+            "game": "App State Mountaineers @ East Carolina Pirates",
+            "betType": "total",
+            "pick": "Under 56.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "App State Mountaineers 27, East Carolina Pirates 24"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Red Bull New York vs Columbus Crew",
+            "betType": "moneyline",
+            "pick": "Columbus Crew",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "L",
+            "score": "Red Bull New York 1, Columbus Crew 0"
+          },
+          {
+            "game": "Atlanta United FC vs D.C. United",
+            "betType": "moneyline",
+            "pick": "D.C. United",
+            "odds": "+125",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta United FC 0, D.C. United 0"
+          },
+          {
+            "game": "Portland Timbers vs FC Dallas",
+            "betType": "moneyline",
+            "pick": "FC Dallas",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Portland Timbers 1, FC Dallas 2"
+          },
+          {
+            "game": "LAFC vs Sporting Kansas City",
+            "betType": "moneyline",
+            "pick": "LAFC",
+            "odds": "+250",
+            "confidence": "medium",
+            "result": "L",
+            "score": "LAFC 1, Sporting Kansas City 3"
+          },
+          {
+            "game": "Houston Dynamo FC vs San Jose Earthquakes",
+            "betType": "moneyline",
+            "pick": "Houston Dynamo FC",
+            "odds": "+175",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Dynamo FC 0, San Jose Earthquakes 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-11",
     "sports": [
       {
@@ -2622,62 +2828,6 @@
             "confidence": "medium",
             "result": "?",
             "score": ""
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-13",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Cleveland Guardians @ Detroit Tigers",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "+104",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Cleveland Guardians 0, Detroit Tigers 3"
-          },
-          {
-            "game": "Seattle Mariners @ New York Yankees",
-            "betType": "spread",
-            "pick": "New York Yankees -1.5",
-            "odds": "+116",
-            "confidence": "high",
-            "result": "L",
-            "score": "Seattle Mariners 1, New York Yankees 0"
-          },
-          {
-            "game": "Boston Red Sox @ Toronto Blue Jays",
-            "betType": "moneyline",
-            "pick": "Toronto Blue Jays (+130)",
-            "odds": "+130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Boston Red Sox 7, Toronto Blue Jays 0"
-          },
-          {
-            "game": "Philadelphia Phillies @ Minnesota Twins",
-            "betType": "moneyline",
-            "pick": "Minnesota Twins (-104)",
-            "odds": "-104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Philadelphia Phillies 7, Minnesota Twins 1"
-          },
-          {
-            "game": "Texas Rangers @ Los Angeles Angels",
-            "betType": "spread",
-            "pick": "Los Angeles Angels +1.5",
-            "odds": "-128",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Texas Rangers 0, Los Angeles Angels 7"
           }
         ]
       }
