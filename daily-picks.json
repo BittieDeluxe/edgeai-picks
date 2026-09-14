@@ -1,96 +1,120 @@
 {
-  "date": "2026-09-13",
-  "generatedAt": "2026-09-13T13:46:17.031Z",
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T15:51:08.905Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Colorado Rockies vs Detroit Tigers",
+          "game": "Los Angeles Dodgers @ Cincinnati Reds",
           "betType": "spread",
-          "pick": "Detroit Tigers -1.5",
-          "odds": "+128",
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "-128",
           "confidence": "high",
-          "rationale": "The Detroit Tigers are in superior form, winning three straight games and four of their last five, while the Colorado Rockies have lost six consecutive games and ten of their last twelve on the road. Detroit also holds a dominant head-to-head record, winning nine of their last ten matchups against the Rockies and taking the first two games of this series. Furthermore, the Rockies' bullpen struggled significantly in their last game, giving up a lead in the eighth inning. The Tigers have also covered the run line in eight of their last nine games as favorites against the Rockies.",
-          "awayRecord": "55-93",
-          "homeRecord": "69-79",
+          "rationale": "The Los Angeles Dodgers, despite Freddie Freeman being sidelined with knee soreness, hold a significant pitching advantage with Tarik Skubal (2.84 ERA) on the mound against Nick Lodolo (5.12 ERA) for the Cincinnati Reds. Los Angeles has already swept the season series 3-0 against Cincinnati, securing comfortable victories with scores of 6-3, 3-2, and 14-1. The Dodgers are in strong form, having won eight consecutive games before a recent loss, while the Reds are 70-79 and only just snapped a five-game losing streak. Public betting heavily favors the Dodgers, and the -1.5 run line remains a reasonable value at -128 given the clear mismatch.",
+          "awayRecord": "90-59",
+          "homeRecord": "70-79",
           "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "San Diego Padres @ Colorado Rockies",
+          "betType": "spread",
+          "pick": "San Diego Padres -1.5",
+          "odds": "-134",
+          "confidence": "high",
+          "rationale": "The San Diego Padres are on an impressive seven-game winning streak, contrasting sharply with the Colorado Rockies' seven-game losing streak. San Diego has dominated their head-to-head matchups this season, boasting an 8-1 record against Colorado. The pitching matchup also heavily favors the Padres, with Casey Mize (3.70 ERA) taking on Tomoyuki Sugano (5.30 ERA) for the Rockies. With the Padres actively competing for a Wild Card spot and the Rockies having the worst record on today's slate, San Diego is strongly motivated to secure a multi-run victory.",
+          "awayRecord": "81-68",
+          "homeRecord": "55-94",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
             "L",
             "L",
             "L",
             "L",
             "L"
+          ]
+        },
+        {
+          "game": "New York Yankees @ Minnesota Twins",
+          "betType": "moneyline",
+          "pick": "New York Yankees",
+          "odds": "-124",
+          "confidence": "high",
+          "rationale": "The New York Yankees are in excellent form, having won 18 of their last 26 games and four of their last five, and are on the verge of clinching a postseason berth. They possess a significant pitching advantage with Will Warren (4.05 ERA) starting against the Twins' Dean Kremer (5.65 ERA). Despite some reverse line movement on the moneyline, the Yankees' superior overall record (86-63 vs. 70-79) and strong recent performance make them the favored team in this matchup. Although the Twins won two of three earlier this season, the Yankees have a historically dominant head-to-head record against Minnesota.",
+          "awayRecord": "86-63",
+          "homeRecord": "70-79",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Miami Marlins @ Arizona Diamondbacks",
+          "betType": "spread",
+          "pick": "Miami Marlins +1.5",
+          "odds": "-192",
+          "confidence": "medium",
+          "rationale": "The Miami Marlins have surprisingly swept all three previous meetings against the Arizona Diamondbacks this season, winning with scores of 10-6, 8-0, and 2-0. Miami also carries momentum into this game, coming off consecutive victories against the formidable Dodgers. A significant betting trend shows the Marlins have covered the run line in each of their last 11 games as underdogs against NL West opponents after a win. With Sandy Alcantara (3.78 ERA) on the mound for Miami, they are well-positioned to keep the game close and cover the +1.5 spread.",
+          "awayRecord": "74-76",
+          "homeRecord": "79-71",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
           ],
           "homeLast5": [
             "W",
             "L",
             "W",
-            "W",
-            "W"
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Los Angeles Angels vs Washington Nationals",
+          "game": "Atlanta Braves @ Chicago Cubs",
           "betType": "total",
           "pick": "Over 9.5",
-          "odds": "+108",
+          "odds": "-106",
           "confidence": "medium",
-          "rationale": "Both starting pitchers, Grayson Rodriguez (6.28 ERA) for the Angels and Jake Irvin (5.52 ERA) for the Nationals, have struggled considerably this season and in recent outings. Irvin notably allowed eight earned runs in just 4.1 innings in a previous start against the Angels in 2025. The head-to-head history also strongly supports the Over, with the total going OVER in five of their last six games. The Nationals' bullpen has also shown vulnerability, potentially contributing to more runs.",
-          "awayRecord": "56-92",
-          "homeRecord": "69-81",
+          "rationale": "The Chicago Cubs have been involved in high-scoring games recently, with four of their last five matchups going Over the total. Both the Atlanta Braves (88-62) and the Chicago Cubs (83-67) boast potent offenses capable of putting up significant runs. The Braves feature strong hitters like Matt Olson, who leads the team in home runs and RBIs, and Michael Harris II with a high batting average. Given the offensive capabilities of both teams and the Cubs' recent trend towards higher-scoring contests, the Over 9.5 total is a strong play for this game.",
+          "awayRecord": "88-62",
+          "homeRecord": "83-67",
           "awayLast5": [
             "L",
             "W",
             "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
             "W",
-            "W"
-          ]
-        },
-        {
-          "game": "New York Mets vs New York Yankees",
-          "betType": "spread",
-          "pick": "New York Yankees -1.5",
-          "odds": "+122",
-          "confidence": "high",
-          "rationale": "The New York Yankees boast a significant pitching advantage with Cam Schlittler, who holds an AL-best 2.01 ERA and has allowed one earned run or fewer in his last two starts. In contrast, Mets starter Christian Scott carries a 3.81 ERA and has struggled with walks and workload management, failing to complete five innings in recent outings. The Yankees are also highly motivated, as they are four games behind Tampa Bay in the AL East race. Despite the Mets' offensive outburst on Saturday, the pitching mismatch and situational factors strongly favor a multi-run Yankees victory.",
-          "awayRecord": "69-79",
-          "homeRecord": "85-63",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies vs Atlanta Braves",
-          "betType": "spread",
-          "pick": "Atlanta Braves -1.5",
-          "odds": "+160",
-          "confidence": "medium",
-          "rationale": "The Atlanta Braves are in excellent form, having won three straight games and boasting a formidable 51-26 home record. They also hold a dominant 9-3 head-to-head record against the Phillies since April 2025, including two wins in this current series, one being a 12-2 rout. The pitching matchup heavily favors Atlanta, with Grant Holmes (3.46 ERA) on a hot streak, allowing no earned runs in his last nine innings, while Andrew Painter (5.71 ERA) for the Phillies struggled significantly in his last start. These combined factors present a strong case for the Braves to win by multiple runs at home.",
-          "awayRecord": "82-67",
-          "homeRecord": "88-61",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
             "L"
           ],
           "homeLast5": [
@@ -98,31 +122,7 @@
             "L",
             "W",
             "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Kansas City Royals vs Boston Red Sox",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-122",
-          "confidence": "medium",
-          "rationale": "Both starting pitchers are in strong recent form, with the Royals' Noah Cameron posting a 2.22 ERA over his last seven starts, and the Red Sox's Payton Tolle striking out 12 in his most recent outing. This suggests a low-scoring affair. Supporting this, the Royals' last six games after playing the previous day have all gone UNDER the total runs line. Additionally, seven of the Red Sox's last eight games as favorites have also gone UNDER the total. These converging trends, coupled with the recent pitching performances, make the Under 7.5 a high-confidence pick.",
-          "awayRecord": "66-83",
-          "homeRecord": "81-68",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
             "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
           ]
         }
       ]
@@ -131,119 +131,34 @@
       "sport": "NFL",
       "picks": [
         {
-          "game": "Tampa Bay Buccaneers vs Cincinnati Bengals",
+          "game": "Denver Broncos vs Kansas City Chiefs",
+          "betType": "spread",
+          "pick": "Denver Broncos +2.5",
+          "odds": "-112",
+          "confidence": "high",
+          "rationale": "The Denver Broncos swept the Kansas City Chiefs in 2025, including a 20-13 victory at Arrowhead, which ended a significant home winning streak for Kansas City in this series. The spread has seen notable line movement, shifting from Chiefs -3 to -2.5, crossing the key number of 3, which indicates sharp money coming in on Denver. While Patrick Mahomes is returning from injury, Denver's defense ranked first in the NFL in limiting opponents' success rate on dropbacks last season, posing a tough challenge. The Chiefs also posted a poor 2-8 record in their last 10 games, suggesting continued struggles even with Mahomes' return.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0"
+        },
+        {
+          "game": "Denver Broncos vs Kansas City Chiefs",
           "betType": "total",
-          "pick": "Under 50.5",
+          "pick": "Under 43.5",
           "odds": "-112",
           "confidence": "medium",
-          "rationale": "The total of 50.5 points appears inflated given recent trends for the Buccaneers. The Under 50.5 has hit in 8 of Tampa Bay's last 10 road games and 4 of their last 5 overall games. With no significant injury news suggesting a high-scoring affair, this historical tendency for lower-scoring contests involving the Buccaneers provides a strong edge for the Under.",
-          "propPlayer": null,
-          "propTeam": null,
+          "rationale": "The head-to-head history between these two teams strongly supports the under, with the last five matchups having a 0.0% Total Points Over percentage. The Broncos' implied team total for this game is a low 17.5 points, suggesting limited offensive output from Denver. Although the total saw a slight upward movement from 42.5 to 43.5, Patrick Mahomes is returning from a significant knee injury, and the Chiefs might lean on a more conservative game plan initially. Furthermore, the Chiefs' last 10 games have seen several low-scoring outcomes, reinforcing the potential for an under.",
           "awayRecord": "0-0",
           "homeRecord": "0-0"
         },
         {
-          "game": "New York Jets vs Tennessee Titans",
+          "game": "Denver Broncos vs Kansas City Chiefs",
           "betType": "moneyline",
-          "pick": "Tennessee Titans",
-          "odds": "-118",
+          "pick": "Denver Broncos (+110)",
+          "odds": "+110",
           "confidence": "high",
-          "rationale": "The Tennessee Titans, under new head coach Robert Saleh, are poised for a strong start against a struggling Jets team. Titans quarterback Cam Ward, the 2025 No. 1 overall pick, has not thrown an interception in his last six home starts, which is a significant advantage against a Jets defense that failed to force an interception in 2025. The line movement from Titans -3.5 to -1.5 offers better value on the moneyline, especially with Jets RB Breece Hall recovering from a groin injury and QB Geno Smith's poor 2025 performance (17 TDs, 19 INTs).",
-          "propPlayer": null,
-          "propTeam": null,
+          "rationale": "The Denver Broncos swept the Kansas City Chiefs in 2025, securing both divisional matchups, including a road victory at Arrowhead Stadium. The Chiefs struggled significantly last season with Patrick Mahomes sidelined, posting a 2-8 record in their last 10 games and a 1-4 record in their last five against Denver. While Mahomes is returning, the Broncos' strong defense and recent head-to-head dominance make them a valuable underdog to win outright. The line movement on the spread favoring Denver further supports their potential for an upset.",
           "awayRecord": "0-0",
           "homeRecord": "0-0"
-        },
-        {
-          "game": "Baltimore Ravens vs Indianapolis Colts",
-          "betType": "spread",
-          "pick": "Baltimore Ravens -3.5",
-          "odds": "+102",
-          "confidence": "high",
-          "rationale": "The Ravens hold a significant advantage over the Colts, whose quarterback Daniel Jones is returning from a torn Achilles and whose receiving corps is thinned by injuries and departures. Baltimore's defense has been bolstered with additions like Trey Hendrickson and Calais Campbell, which should pressure Jones in his first game back. The Ravens have also covered the -3.5 line in 4 of their last 5 road games and 6 of their last 10 games overall, further supporting this pick against a Colts team that collapsed at the end of 2025.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "Baltimore Ravens vs Indianapolis Colts",
-          "betType": "total",
-          "pick": "Over 47.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "This game features two teams with defensive vulnerabilities against the pass and new offensive schemes, setting the stage for a higher-scoring contest. The Ravens' new offensive coordinator Declan Doyle's system has been praised by Lamar Jackson, suggesting potential for an explosive offense. Both the Colts' and Ravens' defenses struggled against the pass in 2025, ranking second-worst and 30th respectively. Playing in a dome on fast turf further favors an offensive shootout, making the Over 47.5 a strong play.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "Green Bay Packers vs Minnesota Vikings",
-          "betType": "total",
-          "pick": "Under 46.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "The total for this game has moved up from an opening of 44.5 to 46.5, making the Under more attractive. The Vikings' defense, under coordinator Brian Flores, was formidable at home last season, allowing an average of just 14.9 points per game. Kyler Murray is making his debut with the Vikings after limited preseason action and faces a Packers defense that was effective at containing scrambling quarterbacks in 2025. With key Packers players like Micah Parsons and Josh Jacobs sidelined or uncertain, a lower-scoring affair is anticipated.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "Austin FC vs Vancouver Whitecaps",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "Vancouver Whitecaps boast a potent offense, ranking second in MLS with 52 goals this season, and are playing at home where they average 3.00 goals per game. Austin FC's defense on the road is particularly vulnerable, conceding an average of 2.58 goals per away game. While head-to-head history shows a lower percentage of over 3.5 goals, the current offensive form of Vancouver and Austin's defensive struggles suggest a high-scoring affair. Prediction statistics for this matchup indicate a 73% chance of over 2.5 goals, making the Over 3.5 at -102 a valuable play given the teams' recent scoring trends.",
-          "awayRecord": "6-8-10",
-          "homeRecord": "14-4-5"
-        },
-        {
-          "game": "Philadelphia Union vs San Diego FC",
-          "betType": "moneyline",
-          "pick": "Philadelphia Union",
-          "odds": "+138",
-          "confidence": "high",
-          "rationale": "The Philadelphia Union are in exceptional form, currently unbeaten in their last nine matches, highlighted by a dominant 5-0 victory over FC Cincinnati. In contrast, San Diego FC enters this match on a two-game losing streak and faces significant personnel challenges, including the absence of leading scorer Marcus Ingvartsen (11 goals) and a forced goalkeeper change due to a red card. Philadelphia also holds a superior two-way process advantage (1.92 xGF vs. 1.55 xGF for San Diego). The line movement, with Philadelphia's odds shifting from +155 to +138, further indicates sharp money backing the Union despite their cross-country travel.",
-          "awayRecord": "8-6-10",
-          "homeRecord": "8-6-10"
-        },
-        {
-          "game": "New England Revolution vs Chicago Fire FC",
-          "betType": "moneyline",
-          "pick": "Chicago Fire FC",
-          "odds": "+100",
-          "confidence": "high",
-          "rationale": "Chicago Fire FC is playing at home and has demonstrated stronger recent form, boasting a 56% win rate over their last six months with 14 wins in 25 games. The New England Revolution, conversely, have a notably poor away record this season, with only one win, two draws, and four losses on the road. Chicago's recent matches frequently feature high goal totals, including a 4-4 draw and a 2-2 draw, indicating their offensive capability at home. Given Chicago's home advantage and superior recent performance against New England's struggles away from home, the +100 moneyline offers excellent value.",
-          "awayRecord": "12-4-8",
-          "homeRecord": "11-6-6"
-        },
-        {
-          "game": "New England Revolution vs Chicago Fire FC",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+115",
-          "confidence": "medium",
-          "rationale": "Chicago Fire FC's matches consistently feature a high volume of goals, with over 2.5 goals landing in 76% of their last 25 games and an average of 3.16 goals per match. Their recent results include high-scoring affairs such as a 4-4 draw and a 2-2 draw, demonstrating their offensive output and defensive vulnerabilities. The New England Revolution have also shown a propensity for higher-scoring games in their recent form, contributing to the likelihood of an open contest. Despite the Under 3.5 being favored, the plus-money odds on the Over 3.5 present significant value given Chicago's strong over trends.",
-          "awayRecord": "12-4-8",
-          "homeRecord": "11-6-6"
-        },
-        {
-          "game": "Philadelphia Union vs San Diego FC",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+115",
-          "confidence": "medium",
-          "rationale": "San Diego FC's games are characterized by frequent goal-scoring, with over 2.5 goals occurring in 68% of their last 25 matches and an average of 3.4 goals per game. They have specifically gone over 2.5 goals in their last three consecutive matches. The Philadelphia Union are in formidable attacking form, having scored five goals in their most recent outing and over 1.5 goals in their last three games. With San Diego averaging 2.33 goals at home and Philadelphia averaging 1.86 goals on the road, the offensive capabilities of both teams, combined with San Diego's general high-scoring tendencies, make the Over 3.5 at +115 a strong high-confidence pick.",
-          "awayRecord": "8-6-10",
-          "homeRecord": "8-6-10"
         }
       ]
     }
