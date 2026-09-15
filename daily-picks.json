@@ -1,164 +1,41 @@
 {
-  "date": "2026-09-14",
-  "generatedAt": "2026-09-14T15:51:08.905Z",
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T14:17:20.448Z",
   "sports": [
     {
-      "sport": "MLB",
+      "sport": "UEL",
       "picks": [
         {
-          "game": "Los Angeles Dodgers @ Cincinnati Reds",
-          "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "-128",
-          "confidence": "high",
-          "rationale": "The Los Angeles Dodgers, despite Freddie Freeman being sidelined with knee soreness, hold a significant pitching advantage with Tarik Skubal (2.84 ERA) on the mound against Nick Lodolo (5.12 ERA) for the Cincinnati Reds. Los Angeles has already swept the season series 3-0 against Cincinnati, securing comfortable victories with scores of 6-3, 3-2, and 14-1. The Dodgers are in strong form, having won eight consecutive games before a recent loss, while the Reds are 70-79 and only just snapped a five-game losing streak. Public betting heavily favors the Dodgers, and the -1.5 run line remains a reasonable value at -128 given the clear mismatch.",
-          "awayRecord": "90-59",
-          "homeRecord": "70-79",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "San Diego Padres @ Colorado Rockies",
-          "betType": "spread",
-          "pick": "San Diego Padres -1.5",
-          "odds": "-134",
-          "confidence": "high",
-          "rationale": "The San Diego Padres are on an impressive seven-game winning streak, contrasting sharply with the Colorado Rockies' seven-game losing streak. San Diego has dominated their head-to-head matchups this season, boasting an 8-1 record against Colorado. The pitching matchup also heavily favors the Padres, with Casey Mize (3.70 ERA) taking on Tomoyuki Sugano (5.30 ERA) for the Rockies. With the Padres actively competing for a Wild Card spot and the Rockies having the worst record on today's slate, San Diego is strongly motivated to secure a multi-run victory.",
-          "awayRecord": "81-68",
-          "homeRecord": "55-94",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Yankees @ Minnesota Twins",
+          "game": "AZ Alkmaar @ Sunderland",
           "betType": "moneyline",
-          "pick": "New York Yankees",
-          "odds": "-124",
+          "pick": "Sunderland",
+          "odds": "-180",
           "confidence": "high",
-          "rationale": "The New York Yankees are in excellent form, having won 18 of their last 26 games and four of their last five, and are on the verge of clinching a postseason berth. They possess a significant pitching advantage with Will Warren (4.05 ERA) starting against the Twins' Dean Kremer (5.65 ERA). Despite some reverse line movement on the moneyline, the Yankees' superior overall record (86-63 vs. 70-79) and strong recent performance make them the favored team in this matchup. Although the Twins won two of three earlier this season, the Yankees have a historically dominant head-to-head record against Minnesota.",
-          "awayRecord": "86-63",
-          "homeRecord": "70-79",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
+          "rationale": "Sunderland is playing their first European home game in 53 years, which should provide a significant motivational boost and home-field advantage. Historically, AZ Alkmaar has a very poor record when playing in England in UEFA competitions, having lost all 11 of their previous clashes. Sunderland has no new injury concerns, while AZ Alkmaar is missing Kees Smit due to injury. This combination of home advantage, historical trend, and injury status strongly favors Sunderland."
         },
         {
-          "game": "Miami Marlins @ Arizona Diamondbacks",
-          "betType": "spread",
-          "pick": "Miami Marlins +1.5",
-          "odds": "-192",
-          "confidence": "medium",
-          "rationale": "The Miami Marlins have surprisingly swept all three previous meetings against the Arizona Diamondbacks this season, winning with scores of 10-6, 8-0, and 2-0. Miami also carries momentum into this game, coming off consecutive victories against the formidable Dodgers. A significant betting trend shows the Marlins have covered the run line in each of their last 11 games as underdogs against NL West opponents after a win. With Sandy Alcantara (3.78 ERA) on the mound for Miami, they are well-positioned to keep the game close and cover the +1.5 spread.",
-          "awayRecord": "74-76",
-          "homeRecord": "79-71",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ Chicago Cubs",
-          "betType": "total",
-          "pick": "Over 9.5",
-          "odds": "-106",
-          "confidence": "medium",
-          "rationale": "The Chicago Cubs have been involved in high-scoring games recently, with four of their last five matchups going Over the total. Both the Atlanta Braves (88-62) and the Chicago Cubs (83-67) boast potent offenses capable of putting up significant runs. The Braves feature strong hitters like Matt Olson, who leads the team in home runs and RBIs, and Michael Harris II with a high batting average. Given the offensive capabilities of both teams and the Cubs' recent trend towards higher-scoring contests, the Over 9.5 total is a strong play for this game.",
-          "awayRecord": "88-62",
-          "homeRecord": "83-67",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        }
-      ]
-    },
-    {
-      "sport": "NFL",
-      "picks": [
-        {
-          "game": "Denver Broncos vs Kansas City Chiefs",
-          "betType": "spread",
-          "pick": "Denver Broncos +2.5",
-          "odds": "-112",
-          "confidence": "high",
-          "rationale": "The Denver Broncos swept the Kansas City Chiefs in 2025, including a 20-13 victory at Arrowhead, which ended a significant home winning streak for Kansas City in this series. The spread has seen notable line movement, shifting from Chiefs -3 to -2.5, crossing the key number of 3, which indicates sharp money coming in on Denver. While Patrick Mahomes is returning from injury, Denver's defense ranked first in the NFL in limiting opponents' success rate on dropbacks last season, posing a tough challenge. The Chiefs also posted a poor 2-8 record in their last 10 games, suggesting continued struggles even with Mahomes' return.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "Denver Broncos vs Kansas City Chiefs",
-          "betType": "total",
-          "pick": "Under 43.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "The head-to-head history between these two teams strongly supports the under, with the last five matchups having a 0.0% Total Points Over percentage. The Broncos' implied team total for this game is a low 17.5 points, suggesting limited offensive output from Denver. Although the total saw a slight upward movement from 42.5 to 43.5, Patrick Mahomes is returning from a significant knee injury, and the Chiefs might lean on a more conservative game plan initially. Furthermore, the Chiefs' last 10 games have seen several low-scoring outcomes, reinforcing the potential for an under.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
-        },
-        {
-          "game": "Denver Broncos vs Kansas City Chiefs",
+          "game": "Lyon @ Anderlecht",
           "betType": "moneyline",
-          "pick": "Denver Broncos (+110)",
-          "odds": "+110",
+          "pick": "Lyon",
+          "odds": "+120",
           "confidence": "high",
-          "rationale": "The Denver Broncos swept the Kansas City Chiefs in 2025, securing both divisional matchups, including a road victory at Arrowhead Stadium. The Chiefs struggled significantly last season with Patrick Mahomes sidelined, posting a 2-8 record in their last 10 games and a 1-4 record in their last five against Denver. While Mahomes is returning, the Broncos' strong defense and recent head-to-head dominance make them a valuable underdog to win outright. The line movement on the spread favoring Denver further supports their potential for an upset.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0"
+          "rationale": "Lyon holds a strong head-to-head advantage over Anderlecht, having won three of their four prior meetings. Anderlecht also struggles against French opposition, with only one win in their last eleven games against teams from France. Furthermore, Anderlecht is significantly hampered by several key defensive injuries, including Giulian Biancone, Lucas Hey, Ilay Camara, and Killian Sardella. Lyon is in solid recent form, being unbeaten in Ligue 1 and on a three-match unbeaten run since their Champions League exit."
+        },
+        {
+          "game": "Dinamo Zagreb @ Hapoel Be'er Sheva",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "The head-to-head history between Dinamo Zagreb and Hapoel Be'er Sheva strongly indicates a high-scoring affair, with both of their previous encounters exceeding 1.5, 2.5, and even 3.5 goals. Dinamo Zagreb has demonstrated good offensive capabilities, securing seven victories in their last twelve matches across all competitions. Hapoel Be'er Sheva has also shown an ability to find the back of the net, winning three of their last five home games. These factors suggest a high likelihood of at least three goals in this match."
+        },
+        {
+          "game": "Rennes @ SK Sturm Graz",
+          "betType": "moneyline",
+          "pick": "Rennes",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Rennes enters this match in strong recent form, boasting three wins, one draw, and one loss in their last five outings. A key indicator of their strong performance is their tendency to start games aggressively, having scored first in all of their last five matches. While specific head-to-head or injury information for SK Sturm Graz was not available, Rennes' consistent ability to take early leads and their overall solid form provide a significant edge."
         }
       ]
     }

@@ -1,5 +1,93 @@
 [
   {
+    "date": "2026-09-14",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Dodgers @ Cincinnati Reds",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-128",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Dodgers 4, Cincinnati Reds 1"
+          },
+          {
+            "game": "San Diego Padres @ Colorado Rockies",
+            "betType": "spread",
+            "pick": "San Diego Padres -1.5",
+            "odds": "-134",
+            "confidence": "high",
+            "result": "L",
+            "score": "San Diego Padres 8, Colorado Rockies 7"
+          },
+          {
+            "game": "New York Yankees @ Minnesota Twins",
+            "betType": "moneyline",
+            "pick": "New York Yankees",
+            "odds": "-124",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Yankees 8, Minnesota Twins 3"
+          },
+          {
+            "game": "Miami Marlins @ Arizona Diamondbacks",
+            "betType": "spread",
+            "pick": "Miami Marlins +1.5",
+            "odds": "-192",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Marlins 7, Arizona Diamondbacks 8"
+          },
+          {
+            "game": "Atlanta Braves @ Chicago Cubs",
+            "betType": "total",
+            "pick": "Over 9.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Braves 3, Chicago Cubs 7"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Denver Broncos vs Kansas City Chiefs",
+            "betType": "spread",
+            "pick": "Denver Broncos +2.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Denver Broncos 10, Kansas City Chiefs 31"
+          },
+          {
+            "game": "Denver Broncos vs Kansas City Chiefs",
+            "betType": "total",
+            "pick": "Under 43.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Denver Broncos 10, Kansas City Chiefs 31"
+          },
+          {
+            "game": "Denver Broncos vs Kansas City Chiefs",
+            "betType": "moneyline",
+            "pick": "Denver Broncos (+110)",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Denver Broncos 10, Kansas City Chiefs 31"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-13",
     "sports": [
       {
@@ -2772,112 +2860,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Portland Timbers 1, Chicago Fire FC 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-15",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Arizona Diamondbacks @ Atlanta Braves",
-            "betType": "total",
-            "pick": "Under 9",
-            "odds": "-111",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Arizona Diamondbacks 10, Atlanta Braves 3"
-          },
-          {
-            "game": "Milwaukee Brewers @ Los Angeles Dodgers",
-            "betType": "moneyline",
-            "pick": "Los Angeles Dodgers (-123)",
-            "odds": "+114",
-            "confidence": "high",
-            "result": "L",
-            "score": "Milwaukee Brewers 4, Los Angeles Dodgers 1"
-          },
-          {
-            "game": "San Diego Padres @ Cleveland Guardians",
-            "betType": "moneyline",
-            "pick": "San Diego Padres (+106)",
-            "odds": "+106",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Diego Padres 1, Cleveland Guardians 6"
-          },
-          {
-            "game": "Texas Rangers @ Athletics",
-            "betType": "spread",
-            "pick": "Texas Rangers -1.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Texas Rangers 5, Athletics 3"
-          },
-          {
-            "game": "Washington Nationals @ New York Mets",
-            "betType": "total",
-            "pick": "Under 8",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Washington Nationals 4, New York Mets 5"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Minnesota United FC @ Real Salt Lake",
-            "betType": "moneyline",
-            "pick": "Real Salt Lake",
-            "odds": "-125",
-            "confidence": "high",
-            "result": "L",
-            "score": "Minnesota United FC 1, Real Salt Lake 1"
-          },
-          {
-            "game": "FC Cincinnati @ Orlando City SC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-145",
-            "confidence": "high",
-            "result": "L",
-            "score": "FC Cincinnati 1, Orlando City SC 1"
-          },
-          {
-            "game": "Red Bull New York @ Atlanta United FC",
-            "betType": "moneyline",
-            "pick": "Red Bull New York",
-            "odds": "+220",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Red Bull New York 1, Atlanta United FC 2"
-          },
-          {
-            "game": "Sporting Kansas City @ Colorado Rapids",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Sporting Kansas City 0, Colorado Rapids 2"
-          },
-          {
-            "game": "Columbus Crew @ Charlotte FC",
-            "betType": "moneyline",
-            "pick": "Charlotte FC",
-            "odds": "+115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Columbus Crew 1, Charlotte FC 3"
           }
         ]
       }
