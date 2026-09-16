@@ -363,7 +363,10 @@ ${verifiedLines
 
 2. INJURY AUTHORITY: Your web search is the source of truth for injuries. If a player is reported as OUT, injured, questionable, or on load management — do not build any pick around that player being active. Late scratches appear in news before official reports.
 
-3. PICK VARIETY: Mix bet types across your 5 picks — do not pick all spreads or all totals.
+3. BET TYPE WEIGHTING: Prefer totals (over/under). Across 5 picks, aim for at
+   least 3 totals, and include AT MOST 1 moneyline. Spreads fill the rest.
+   Moneylines are the weakest bet type in this system's graded record — pick one
+   only when the edge is clearly stronger than any available total or spread.
 
 4. QUALITY OVER QUANTITY: Only pick games where your research reveals a genuine edge. Skip a game if there is no real edge.
 
@@ -384,7 +387,7 @@ If ${sport} has no games today, return {"picks": []}.`;
 
   const body = {
     system_instruction: {
-      parts: [{ text: `You are a sharp sports betting analyst with access to live web search. Use search to find current injuries, lineup news, recent form, h2h history, and line movement for today's ${sport} games. Use exact lines from the verified data provided — never estimate spreads, totals, or moneylines. Produce 5 high-confidence picks with 4–5 sentence rationales citing specific searched data. For any player prop: confirm via search that the player is active and on one of the two teams in the game — propTeam must match exactly. If search reports a player as OUT, injured, or questionable, do not pick that player under any circumstances. Always respond with raw JSON only — no markdown, no code fences, no prose outside the JSON object.` }],
+      parts: [{ text: `You are a sharp sports betting analyst with access to live web search. Use search to find current injuries, lineup news, recent form, h2h history, and line movement for today's ${sport} games. Use exact lines from the verified data provided — never estimate spreads, totals, or moneylines. Produce 5 high-confidence picks with 4–5 sentence rationales citing specific searched data. Weight the board toward totals (over/under) — at least 3 of 5 — and include at most one moneyline; moneylines have the weakest graded record in this system. For any player prop: confirm via search that the player is active and on one of the two teams in the game — propTeam must match exactly. If search reports a player as OUT, injured, or questionable, do not pick that player under any circumstances. Always respond with raw JSON only — no markdown, no code fences, no prose outside the JSON object.` }],
     },
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     tools: [{ googleSearch: {} }],
@@ -432,6 +435,34 @@ If ${sport} has no games today, return {"picks": []}.`;
       if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
       return true;
     });
+
+    // Cap moneylines at one per board.
+    //
+    // Measured over the first 243 graded picks (2026-09-16), bet type was the
+    // only split that discriminated meaningfully:
+    //     totals      42W-23L   64.6%
+    //     spreads     39W-39L   50.0%
+    //     moneylines  43W-50L   46.2%
+    // Breakeven at -110 is 52.4%, so moneylines were actively losing while
+    // totals cleared it comfortably. Confidence barely separated anything
+    // (high 53.5% vs medium 50.9%), so the label is not a usable filter.
+    //
+    // The prompt asks for this weighting too, but prompts drift — this is the
+    // guarantee. Keep the highest-confidence moneyline and drop the rest.
+    // Caveat for whoever revisits: ~10 splits were tested, so some of the totals
+    // edge may be selection. Re-run the archive analysis before leaning harder.
+    const MAX_MONEYLINES = 1;
+    const mls = picks.filter(p => p.betType === 'moneyline');
+    if (mls.length > MAX_MONEYLINES) {
+      const rank = c => (c === 'high' ? 0 : 1);
+      const keep = new Set(
+        [...mls].sort((a, b) => rank(a.confidence) - rank(b.confidence))
+                .slice(0, MAX_MONEYLINES)
+      );
+      const before = picks.length;
+      picks = picks.filter(p => p.betType !== 'moneyline' || keep.has(p));
+      console.log(`  ${sport}: capped moneylines ${mls.length} -> ${MAX_MONEYLINES} (dropped ${before - picks.length})`);
+    }
 
     // Sanity-check totals — Gemini occasionally hallucinates a soccer-style total
     // (e.g. "Over 2.5") on an MLB game when its Google Search hits a different market.
