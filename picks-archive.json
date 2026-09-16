@@ -1,5 +1,52 @@
 [
   {
+    "date": "2026-09-15",
+    "sports": [
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "AZ Alkmaar @ Sunderland",
+            "betType": "moneyline",
+            "pick": "Sunderland",
+            "odds": "-180",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Lyon @ Anderlecht",
+            "betType": "moneyline",
+            "pick": "Lyon",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Dinamo Zagreb @ Hapoel Be'er Sheva",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Rennes @ SK Sturm Graz",
+            "betType": "moneyline",
+            "pick": "Rennes",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-14",
     "sports": [
       {
@@ -2754,112 +2801,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Chicago White Sox 5, Chicago Cubs 7"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-16",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Arizona Diamondbacks @ Atlanta Braves",
-            "betType": "moneyline",
-            "pick": "Arizona Diamondbacks (+112)",
-            "odds": "+112",
-            "confidence": "high",
-            "result": "L",
-            "score": "Arizona Diamondbacks 3, Atlanta Braves 5"
-          },
-          {
-            "game": "Philadelphia Phillies @ Minnesota Twins",
-            "betType": "moneyline",
-            "pick": "Minnesota Twins (+100)",
-            "odds": "+100",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia Phillies 7, Minnesota Twins 5"
-          },
-          {
-            "game": "Texas Rangers @ Athletics",
-            "betType": "moneyline",
-            "pick": "Texas Rangers (-130)",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Texas Rangers 2, Athletics 5"
-          },
-          {
-            "game": "Kansas City Royals @ Los Angeles Angels",
-            "betType": "moneyline",
-            "pick": "Kansas City Royals (-109)",
-            "odds": "-109",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Kansas City Royals 3, Los Angeles Angels 0"
-          },
-          {
-            "game": "Milwaukee Brewers @ Los Angeles Dodgers",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Milwaukee Brewers 6, Los Angeles Dodgers 2"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Portland Timbers @ Chicago Fire FC",
-            "betType": "moneyline",
-            "pick": "Chicago Fire FC",
-            "odds": "-210",
-            "confidence": "high",
-            "result": "W",
-            "score": "Portland Timbers 1, Chicago Fire FC 2"
-          },
-          {
-            "game": "Philadelphia Union @ New York City FC",
-            "betType": "moneyline",
-            "pick": "Philadelphia Union",
-            "odds": "+155",
-            "confidence": "high",
-            "result": "W",
-            "score": "Philadelphia Union 3, New York City FC 2"
-          },
-          {
-            "game": "FC Dallas @ Austin FC",
-            "betType": "moneyline",
-            "pick": "FC Dallas",
-            "odds": "+135",
-            "confidence": "high",
-            "result": "W",
-            "score": "FC Dallas 2, Austin FC 1"
-          },
-          {
-            "game": "Vancouver Whitecaps @ Seattle Sounders FC",
-            "betType": "moneyline",
-            "pick": "Seattle Sounders FC",
-            "odds": "+300",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Vancouver Whitecaps 2, Seattle Sounders FC 0"
-          },
-          {
-            "game": "Portland Timbers @ Chicago Fire FC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-125",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Portland Timbers 1, Chicago Fire FC 2"
           }
         ]
       }
