@@ -1,5 +1,152 @@
 [
   {
+    "date": "2026-09-16",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Dodgers @ Cincinnati Reds",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5 (-128)",
+            "odds": "-128",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Dodgers 2, Cincinnati Reds 6"
+          },
+          {
+            "game": "New York Yankees @ Minnesota Twins",
+            "betType": "spread",
+            "pick": "New York Yankees -1.5 (+112)",
+            "odds": "+112",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Yankees 4, Minnesota Twins 5"
+          },
+          {
+            "game": "Philadelphia Phillies @ Washington Nationals",
+            "betType": "spread",
+            "pick": "Philadelphia Phillies -1.5 (-120)",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Phillies 3, Washington Nationals 0"
+          },
+          {
+            "game": "Chicago White Sox @ Cleveland Guardians",
+            "betType": "total",
+            "pick": "Over 6.5 (-144)",
+            "odds": "-144",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago White Sox 3, Cleveland Guardians 6"
+          },
+          {
+            "game": "San Diego Padres @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 11.5 (+104)",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego Padres 9, Colorado Rockies 3"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Syracuse Orange vs Pittsburgh Panthers",
+            "betType": "spread",
+            "pick": "Pittsburgh Panthers -10.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Syracuse Orange vs Pittsburgh Panthers",
+            "betType": "total",
+            "pick": "Under 51.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Syracuse Orange vs Pittsburgh Panthers",
+            "betType": "spread",
+            "pick": "Syracuse Orange +10.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Syracuse Orange vs Pittsburgh Panthers",
+            "betType": "total",
+            "pick": "Over 51.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "Sparta Prague @ Ararat-Armenia",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sparta Prague 4, Ararat-Armenia 1"
+          },
+          {
+            "game": "Benfica @ AC Milan",
+            "betType": "moneyline",
+            "pick": "Benfica",
+            "odds": "+200",
+            "confidence": "high",
+            "result": "W",
+            "score": "Benfica 2, AC Milan 0"
+          },
+          {
+            "game": "Lyon @ Anderlecht",
+            "betType": "moneyline",
+            "pick": "Lyon",
+            "odds": "+135",
+            "confidence": "high",
+            "result": "W",
+            "score": "Lyon 2, Anderlecht 1"
+          },
+          {
+            "game": "Dinamo Zagreb @ Hapoel Be'er",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-175",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Dinamo Zagreb 0, Hapoel Be'er 0"
+          },
+          {
+            "game": "AZ Alkmaar @ Sunderland",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "medium",
+            "result": "L",
+            "score": "AZ Alkmaar 0, Sunderland 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-15",
     "sports": [
       {
@@ -11,8 +158,8 @@
             "pick": "Sunderland",
             "odds": "-180",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "AZ Alkmaar 0, Sunderland 1"
           },
           {
             "game": "Lyon @ Anderlecht",
@@ -20,8 +167,8 @@
             "pick": "Lyon",
             "odds": "+120",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Lyon 2, Anderlecht 1"
           },
           {
             "game": "Dinamo Zagreb @ Hapoel Be'er Sheva",
@@ -2745,62 +2892,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Chicago White Sox 3, Chicago Cubs 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-17",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Baltimore Orioles @ Tampa Bay Rays",
-            "betType": "prop",
-            "pick": "Shane McClanahan Under 12.5 pitcher outs",
-            "odds": "-114",
-            "confidence": "high",
-            "result": "?",
-            "score": "Shane McClanahan: \"pitcher outs\" not auto-gradeable"
-          },
-          {
-            "game": "Athletics @ Kansas City Royals",
-            "betType": "moneyline",
-            "pick": "Kansas City Royals (-178)",
-            "odds": "-178",
-            "confidence": "high",
-            "result": "W",
-            "score": "Athletics 5, Kansas City Royals 9"
-          },
-          {
-            "game": "San Diego Padres @ New York Mets",
-            "betType": "moneyline",
-            "pick": "New York Mets (-120)",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Diego Padres 1, New York Mets 2"
-          },
-          {
-            "game": "Los Angeles Dodgers @ Colorado Rockies",
-            "betType": "total",
-            "pick": "Over 11 (-104)",
-            "odds": "-104",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Los Angeles Dodgers 11, Colorado Rockies 5"
-          },
-          {
-            "game": "Chicago White Sox @ Chicago Cubs",
-            "betType": "moneyline",
-            "pick": "Chicago Cubs (-156)",
-            "odds": "-156",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago White Sox 5, Chicago Cubs 7"
           }
         ]
       }

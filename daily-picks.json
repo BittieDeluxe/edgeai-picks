@@ -1,127 +1,87 @@
 {
-  "date": "2026-09-16",
-  "generatedAt": "2026-09-16T14:09:32.285Z",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T14:15:02.804Z",
   "sports": [
     {
-      "sport": "MLB",
+      "sport": "NFL",
       "picks": [
         {
-          "game": "Los Angeles Dodgers @ Cincinnati Reds",
-          "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5 (-128)",
-          "odds": "-128",
-          "confidence": "high",
-          "rationale": "The Los Angeles Dodgers boast a significant pitching advantage with Blake Snell, who has a 1.91 ERA and has allowed one earned run or less in six of his seven starts this season. Conversely, Reds' starter Andrew Abbott has struggled, giving up seven earned runs or more in two of his last three outings. The Dodgers are in excellent form, winning eight of their last ten games and having already secured the first two games of this series against the Reds. Furthermore, Los Angeles has dominated the head-to-head matchups, winning all of the last five meetings against Cincinnati.",
-          "awayRecord": "92-59",
-          "homeRecord": "70-81",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "New York Yankees @ Minnesota Twins",
-          "betType": "spread",
-          "pick": "New York Yankees -1.5 (+112)",
-          "odds": "+112",
-          "confidence": "high",
-          "rationale": "The New York Yankees hold a clear pitching advantage with Carlos Rodon (2.94 ERA) taking the mound against the Twins' Zebby Matthews (4.98 ERA). The Yankees have historically performed well against the Twins, winning five of their last seven head-to-head contests and their last four visits to Minnesota. New York is also coming off a dominant 8-1 road victory against the Twins, showcasing their current superior form. Given the pitching mismatch and strong recent and historical performance, the Yankees are well-positioned to cover the run line.",
-          "awayRecord": "88-63",
-          "homeRecord": "70-81",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ Washington Nationals",
-          "betType": "spread",
-          "pick": "Philadelphia Phillies -1.5 (-120)",
+          "game": "Detroit Lions vs Buffalo Bills",
+          "betType": "total",
+          "pick": "Over 54.5",
           "odds": "-120",
           "confidence": "high",
-          "rationale": "Philadelphia's starting pitcher Zack Wheeler (3.14 ERA) has been in excellent form, allowing only one earned run in each of his last three starts. Despite the Nationals' current four-game home winning streak, the Phillies have a favorable head-to-head record, winning six of their last eight matchups against Washington. Significant line movement towards the Phillies, with their run line improving from +130 to -110, indicates sharp money is backing Philadelphia to cover.",
-          "awayRecord": "83-68",
-          "homeRecord": "71-81",
+          "rationale": "Both teams showcased explosive offenses in Week 1, with the Bills scoring 36 points and the Lions 31. The total line has seen significant movement, opening at 52.5 and climbing to 54.5, indicating sharp money on the Over. Detroit's secondary is severely compromised, missing starting safeties Kerby Joseph and Brian Branch, and potentially cornerback D.J. Reed, after allowing 410 passing yards in their opener. The last head-to-head matchup between these teams resulted in a 48-42 score, easily clearing a high total.",
+          "awayRecord": "1-0",
+          "homeRecord": "1-0",
           "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
             "W"
           ]
         },
         {
-          "game": "Chicago White Sox @ Cleveland Guardians",
-          "betType": "total",
-          "pick": "Over 6.5 (-144)",
-          "odds": "-144",
-          "confidence": "medium",
-          "rationale": "Despite the low total of 6.5 and light winds blowing in from center field, the head-to-head history between the White Sox and Guardians strongly supports the over. The total runs have gone over in five of their last six clashes, indicating a tendency for higher-scoring games between these two teams. With both teams in a tight divisional race, the competitive nature of this rubber match could lead to increased offensive output.",
-          "awayRecord": "77-74",
-          "homeRecord": "77-75",
+          "game": "Detroit Lions vs Buffalo Bills",
+          "betType": "prop",
+          "pick": "Jared Goff Over 249.5 Passing Yards",
+          "odds": "-115",
+          "confidence": "high",
+          "rationale": "Jared Goff has historically performed well against the Bills, averaging 352 passing yards in three career matchups, including a remarkable 494-yard, 5-TD performance in their last meeting. The Lions are without two starting offensive linemen, Christian Mahogany and Blake Miller, which could lead to increased pressure and force Goff into more quick throws and a higher passing volume if the run game is stifled. The Bills' defense ranked 19th in opponent EPA and 22nd in opponent success rate in Week 1, allowing 398 yards through the air.",
+          "awayRecord": "1-0",
+          "homeRecord": "1-0",
           "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
             "W"
           ]
         },
         {
-          "game": "San Diego Padres @ Colorado Rockies",
-          "betType": "total",
-          "pick": "Over 11.5 (+104)",
-          "odds": "+104",
-          "confidence": "medium",
-          "rationale": "This game is being played at Coors Field, which is widely known as a hitter's park due to its high altitude, consistently leading to elevated offensive production. The total is set at a high 11.5, reflecting the expected high-scoring environment. The Padres, with key offensive players like Manny Machado and Fernando Tatis Jr., are capable of putting up significant runs. Although the H2H over percentage is 50%, the unique Coors Field factor makes the over a compelling play regardless of specific pitching matchups.",
-          "awayRecord": "82-69",
-          "homeRecord": "56-95",
+          "game": "Detroit Lions vs Buffalo Bills",
+          "betType": "prop",
+          "pick": "Amon-Ra St. Brown Over 79.5 Receiving Yards",
+          "odds": "N/A",
+          "confidence": "high",
+          "rationale": "Amon-Ra St. Brown has a strong track record against the Bills, logging over 122 receiving yards in both of his career games against them, including 193 yards in their most recent encounter. He remains Jared Goff's primary target, receiving 14 targets for 10 catches and 67 yards in Week 1. With Detroit's offensive line injuries, quick throws to St. Brown are expected, and Buffalo's defense allowed 111 yards on in-breaking routes in Week 1, an area where St. Brown excels.",
+          "awayRecord": "1-0",
+          "homeRecord": "1-0",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Detroit Lions vs Buffalo Bills",
+          "betType": "prop",
+          "pick": "Josh Allen Over 248.5 Passing Yards",
+          "odds": "-113",
+          "confidence": "medium",
+          "rationale": "Josh Allen is coming off a 334-yard passing performance in Week 1 against the Houston Texans. He now faces a Detroit Lions secondary that is significantly depleted, missing starting safeties Brian Branch and Kerby Joseph, with cornerback D.J. Reed also questionable. The Lions' defense allowed a staggering 410 passing yards in their Week 1 game, indicating a clear vulnerability that Allen and the Bills' potent receiving corps, including DJ Moore and Dalton Kincaid, are well-equipped to exploit.",
+          "awayRecord": "1-0",
+          "homeRecord": "1-0",
+          "awayLast5": [
+            "W"
+          ],
+          "homeLast5": [
+            "W"
+          ]
+        },
+        {
+          "game": "Detroit Lions vs Buffalo Bills",
+          "betType": "prop",
+          "pick": "Jahmyr Gibbs Over 29.5 Receiving Yards",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Jahmyr Gibbs played 74% of the Lions' snaps in Week 1 and caught all five of his targets for 30 receiving yards, demonstrating his involvement in the passing game. With Detroit's offensive line facing significant injuries to two starting linemen, Jared Goff is likely to experience more pressure, leading to an increased reliance on check-downs to Gibbs. Furthermore, Buffalo's defensive scheme often concedes underneath yardage to running backs, and the expected game script of the Lions trailing will necessitate more passing, making Gibbs a prime beneficiary.",
+          "awayRecord": "1-0",
+          "homeRecord": "1-0",
+          "awayLast5": [
+            "W"
+          ],
+          "homeLast5": [
             "W"
           ]
         }
@@ -132,35 +92,34 @@
       "picks": [
         {
           "game": "Syracuse Orange vs Pittsburgh Panthers",
-          "betType": "spread",
-          "pick": "Pittsburgh Panthers -10.5",
-          "odds": "-105",
-          "confidence": "high",
-          "rationale": "Pittsburgh enters this game 2-0, highlighted by a dominant defensive performance against UCF, holding them to just 7 points and 206 total yards in Week 2. Syracuse, conversely, committed three costly interceptions and 15 penalties for 132 yards in their loss to California last week, demonstrating significant self-sabotage. Historically, Pittsburgh has dominated this rivalry recently, going 7-1 straight up and 6-2 against the spread in the last eight meetings, including two consecutive wins. While key Pitt offensive players are questionable, their defense has proven capable of carrying the load, making them a strong bet at home for their ACC opener."
-        },
-        {
-          "game": "Syracuse Orange vs Pittsburgh Panthers",
           "betType": "total",
           "pick": "Under 51.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The total has seen significant sharp money movement, dropping from an opening of 59.5 (or 53.5) to the current 51.5, indicating a strong market lean towards the Under. Pittsburgh's defense has been exceptional, allowing only 21 points through two games and stifling opponents' run games to just 23.5 yards per contest. Furthermore, six of the last seven head-to-head matchups between Syracuse and Pittsburgh have gone Under the total, establishing a clear historical trend. Syracuse's offensive struggles to convert yardage into points due to turnovers and missed field goals also support a lower-scoring affair."
-        },
+          "rationale": "The historical data strongly supports the Under, with seven of the last eight Syracuse-Pittsburgh matchups going below the total. Pittsburgh's offensive pace is notably slow, ranking 99th nationally in seconds per play, which naturally limits scoring opportunities. Syracuse enters this game with significant offensive struggles, including three interceptions and 14 penalties in their last outing, compounded by key injuries to running back Tylik Hill and wide receiver Calvin Russell, who are not expected to play. Furthermore, Pittsburgh's recent 12-7 victory over UCF suggests a conservative offensive approach, while Syracuse boasts strong returning defensive production.",
+          "awayRecord": "1-1",
+          "homeRecord": "2-0",
+          "awayLast5": [
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
         {
-          "game": "Syracuse Orange vs Pittsburgh Panthers",
-          "betType": "spread",
-          "pick": "Syracuse Orange +10.5",
-          "odds": "-115",
-          "confidence": "high",
-          "rationale": "Despite Syracuse's turnover and penalty issues, their offense demonstrated an ability to move the ball, generating 436 yards and 27 first downs against California last week. Pittsburgh's offense could be less potent than usual, with starting running back Ja'Kyrian Turner and wide receiver Malik Knight both listed as questionable for the game. The betting line has seen a slight movement from Pittsburgh -11 to -10.5, suggesting some market confidence in Syracuse keeping the game within a single score. If Syracuse can minimize self-inflicted wounds, they have the offensive capability to cover this double-digit spread."
-        },
-        {
-          "game": "Syracuse Orange vs Pittsburgh Panthers",
+          "game": "New York Red Bulls @ New York City FC",
           "betType": "total",
-          "pick": "Over 51.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "While the total has seen significant movement towards the Under, Syracuse's offense has shown the capacity for high yardage, averaging 475 yards per game and nearly 300 passing yards through two contests. Pittsburgh's offense proved explosive in Week 1, putting up 59 points against Miami (OH) with quarterback Mason Heintschel throwing for seven touchdowns. If Syracuse can clean up their turnover issues and convert their offensive production into points, and Pittsburgh's offense can replicate its Week 1 efficiency, the combined scoring could push this game Over the 51.5 total."
+          "pick": "Under 3.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "The total line for Under 3.5 has seen significant movement, shifting from an opening of -150 to the current verified line of -160, indicating sharp money on the under. Both New York City FC and New York Red Bulls have shown poor offensive form this season, with NYCFC averaging 1.4 goals and RBNY averaging 1.32 goals per game in their last 10 league matches, suggesting a lower-scoring affair. Head-to-head history also supports the under, with their last MLS encounter ending in a 1-1 draw and NYCFC's most recent home win against RBNY being a 2-0 result. Furthermore, NYCFC's overall average total goals per game this season is 2.68, while RBNY's is 3.08, both below the 3.5 threshold."
         }
       ]
     },
@@ -168,52 +127,52 @@
       "sport": "UEL",
       "picks": [
         {
-          "game": "Sparta Prague @ Ararat-Armenia",
+          "game": "RB Salzburg @ Levski Sofia",
           "betType": "total",
           "pick": "Under 2.5",
-          "odds": "+110",
+          "odds": "+115",
           "confidence": "medium",
-          "rationale": "Sparta Prague enters this match significantly weakened by injuries and suspensions, with at least six key players sidelined, including Jakub Martinec and Adam Sevinsky. Conversely, Ararat-Armenia boasts a full squad and has demonstrated formidable defensive strength at home, remaining unbeaten in their last nine home matches across all competitions. Furthermore, Ararat-Armenia has kept clean sheets in three of their last four European home fixtures, and six of their last eight competitive outings produced under 2.5 goals. Given Sparta's compromised lineup and Ararat-Armenia's solid home defense, the Under 2.5 goals at +110 presents strong value.",
+          "rationale": "Levski Sofia boasts a strong defensive record in European home games, having kept clean sheets in seven of their last eight matches as the host team. RB Salzburg has a poor track record in away UEL main draw games, losing their last nine. The two previous head-to-head encounters between these teams in 2009/10 both resulted in 1-0 victories for Salzburg, indicating a history of low-scoring affairs. Furthermore, Levski Sofia has managed to score only one first-half goal across their last six matches, suggesting a tendency for slow starts and fewer overall goals. These factors collectively point towards a tight, low-scoring contest, making the Under 2.5 at plus money a high-confidence pick.",
           "awayRecord": "0-0-0",
           "homeRecord": "0-0-0"
         },
         {
-          "game": "Benfica @ AC Milan",
-          "betType": "moneyline",
-          "pick": "Benfica",
-          "odds": "+200",
-          "confidence": "high",
-          "rationale": "Benfica arrives in exceptional form, boasting an unbeaten six-match run with six wins and no draws or losses, scoring 18 goals and conceding only 4. AC Milan's recent form is less convincing, with three wins, two draws, and one loss in their last six matches. While the historical head-to-head record in competitive matches is evenly split with one win apiece and two draws in four encounters, Benfica's current prolific attack and strong defensive record give them a significant edge. With no reported injuries for either side, the +200 moneyline for the in-form Benfica offers excellent value.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "Lyon @ Anderlecht",
-          "betType": "moneyline",
-          "pick": "Lyon",
-          "odds": "+135",
-          "confidence": "high",
-          "rationale": "Lyon holds a historical advantage over Anderlecht, winning three of their last five to six head-to-head matches. Lyon is currently on a three-match unbeaten streak (W1, D2) and has showcased rigid defensive metrics on the road, keeping clean sheets in both of their Ligue 1 away trips this season. Although Lyon has some injuries, Anderlecht also has key players out or doubtful, including Giulian Biancone and Alexis Flips. Anderlecht, despite being unbeaten in their last 10 home matches, has struggled offensively recently, scoring just twice in their last three games. Lyon's superior form, historical dominance, and solid away defense make their moneyline at +135 a high-confidence pick.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "Dinamo Zagreb @ Hapoel Be'er",
+          "game": "Marseille @ Besiktas",
           "betType": "total",
-          "pick": "Over 2.5",
+          "pick": "Under 3.5",
           "odds": "-175",
-          "confidence": "medium",
-          "rationale": "Dinamo Zagreb is severely impacted by injuries and a suspension, with nine players listed as out, including key figures like Mislav Orsic and Josip Misic, which is likely to compromise their defensive stability. Their recent form is also sketchy, having won only one of their last seven continental away games. Notably, seven of Dinamo Zagreb's last eight competitive fixtures have featured over 3.5 goals, indicating a tendency for high-scoring affairs. Hapoel Be'er Sheva, despite having two players suspended, has seen both teams score in five of their last six competitive matches, suggesting they can contribute to the scoring. Given Dinamo's injury woes and both teams' recent goal-scoring trends, the Over 2.5 goals at -175 is a strong play.",
+          "confidence": "high",
+          "rationale": "Marseille enters this match in poor form, having suffered three consecutive defeats in Ligue 1, which suggests their offensive output may be limited. Key midfielders Geoffrey Kondogbia and Tochukwu Nnadi are sidelined with injuries for Marseille, further weakening their creative and defensive capabilities. While Besiktas has been scoring freely recently, winning three straight games and netting 11 goals, their predicted strategy emphasizes territorial control and a tighter back line for this European fixture. One preview specifically predicts a 1-0 Besiktas win and favors the Under 2.5 goals, indicating an expectation of a low-scoring game. Given Marseille's struggles and Besiktas' likely cautious approach in a European opener, the Under 3.5 is a strong play.",
           "awayRecord": "0-0-0",
           "homeRecord": "0-0-0"
         },
         {
-          "game": "AZ Alkmaar @ Sunderland",
+          "game": "NEC Nijmegen @ Juventus",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-140",
+          "confidence": "high",
+          "rationale": "Juventus is grappling with an extensive injury list, including crucial players like Manuel Locatelli (out until 2027) and Kenan Yildiz, which severely impacts their offensive potential. NEC Nijmegen arrives in Turin in poor form, having been eliminated from UCL qualifiers with a 6-1 aggregate loss and winning only one of their last six competitive matches. Despite NEC's defensive vulnerabilities, Juventus's Serie A 2025/2026 season saw 61% of their matches finish with under 2.5 goals, and they conceded an average of just 0.89 goals per game. This combination of Juventus's injury-depleted attack and historical defensive solidity, coupled with NEC's struggles, points to a game with fewer than 3.5 goals.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
+        },
+        {
+          "game": "AFC Bournemouth @ Real Sociedad",
           "betType": "total",
           "pick": "Over 2.5",
-          "odds": "-145",
+          "odds": "-165",
           "confidence": "medium",
-          "rationale": "AZ Alkmaar enters this match in exceptional form, remaining unbeaten in all competitions this season with six wins and one draw, and their last five games collectively produced 21 goals. This demonstrates a potent and free-scoring offense. Sunderland, while having a decent home record, has seen only one of their five matches this season go over 2.5 goals, but they also have key defensive players like Reinildo Mandava and Alan Browne out or doubtful. Despite AZ Alkmaar's historical struggles in England, their current offensive prowess and high-scoring trend make the Over 2.5 goals at -145 a high-confidence pick, expecting them to drive the scoring.",
+          "rationale": "AFC Bournemouth's recent form shows a propensity for high-scoring games, with 10 goals scored and 7 conceded in their last five matches. Real Sociedad has also been involved in higher-scoring contests, with 80% of their last five matches going over the total. Both teams are dealing with significant defensive injuries, with Real Sociedad missing Igor Zubeldia and Bournemouth without Julián Araujo, which could lead to defensive vulnerabilities. Real Sociedad is averaging 1.2 goals scored and 1.6 goals conceded per game this season, further supporting a higher-scoring outcome. The attacking tendencies and defensive absences on both sides make the Over 2.5 a confident pick.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0"
+        },
+        {
+          "game": "TSG Hoffenheim @ OFI Crete",
+          "betType": "moneyline",
+          "pick": "TSG Hoffenheim",
+          "odds": "-340",
+          "confidence": "medium",
+          "rationale": "TSG Hoffenheim, a Bundesliga side, is expected to possess a significant quality advantage over OFI Crete, for whom no recent form or head-to-head history could be found in the search results, suggesting they are a lesser-known opponent. Hoffenheim has shown an ability to score goals recently, netting 10 goals in their last four matches, including a 4-2 victory. Despite a 'Poor' overall Bundesliga form with a 33% win rate, their scoring ability against potentially weaker opposition should be sufficient. The substantial moneyline odds of -340 for Hoffenheim reflect strong market confidence in their outright win. This pick relies on the clear difference in league quality and Hoffenheim's offensive capabilities.",
           "awayRecord": "0-0-0",
           "homeRecord": "0-0-0"
         }
