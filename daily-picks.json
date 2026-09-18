@@ -1,107 +1,100 @@
 {
-  "date": "2026-09-17",
-  "generatedAt": "2026-09-17T14:15:02.804Z",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T13:32:59.768Z",
   "sports": [
-    {
-      "sport": "NFL",
-      "picks": [
-        {
-          "game": "Detroit Lions vs Buffalo Bills",
-          "betType": "total",
-          "pick": "Over 54.5",
-          "odds": "-120",
-          "confidence": "high",
-          "rationale": "Both teams showcased explosive offenses in Week 1, with the Bills scoring 36 points and the Lions 31. The total line has seen significant movement, opening at 52.5 and climbing to 54.5, indicating sharp money on the Over. Detroit's secondary is severely compromised, missing starting safeties Kerby Joseph and Brian Branch, and potentially cornerback D.J. Reed, after allowing 410 passing yards in their opener. The last head-to-head matchup between these teams resulted in a 48-42 score, easily clearing a high total.",
-          "awayRecord": "1-0",
-          "homeRecord": "1-0",
-          "awayLast5": [
-            "W"
-          ],
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Detroit Lions vs Buffalo Bills",
-          "betType": "prop",
-          "pick": "Jared Goff Over 249.5 Passing Yards",
-          "odds": "-115",
-          "confidence": "high",
-          "rationale": "Jared Goff has historically performed well against the Bills, averaging 352 passing yards in three career matchups, including a remarkable 494-yard, 5-TD performance in their last meeting. The Lions are without two starting offensive linemen, Christian Mahogany and Blake Miller, which could lead to increased pressure and force Goff into more quick throws and a higher passing volume if the run game is stifled. The Bills' defense ranked 19th in opponent EPA and 22nd in opponent success rate in Week 1, allowing 398 yards through the air.",
-          "awayRecord": "1-0",
-          "homeRecord": "1-0",
-          "awayLast5": [
-            "W"
-          ],
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Detroit Lions vs Buffalo Bills",
-          "betType": "prop",
-          "pick": "Amon-Ra St. Brown Over 79.5 Receiving Yards",
-          "odds": "N/A",
-          "confidence": "high",
-          "rationale": "Amon-Ra St. Brown has a strong track record against the Bills, logging over 122 receiving yards in both of his career games against them, including 193 yards in their most recent encounter. He remains Jared Goff's primary target, receiving 14 targets for 10 catches and 67 yards in Week 1. With Detroit's offensive line injuries, quick throws to St. Brown are expected, and Buffalo's defense allowed 111 yards on in-breaking routes in Week 1, an area where St. Brown excels.",
-          "awayRecord": "1-0",
-          "homeRecord": "1-0",
-          "awayLast5": [
-            "W"
-          ],
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Detroit Lions vs Buffalo Bills",
-          "betType": "prop",
-          "pick": "Josh Allen Over 248.5 Passing Yards",
-          "odds": "-113",
-          "confidence": "medium",
-          "rationale": "Josh Allen is coming off a 334-yard passing performance in Week 1 against the Houston Texans. He now faces a Detroit Lions secondary that is significantly depleted, missing starting safeties Brian Branch and Kerby Joseph, with cornerback D.J. Reed also questionable. The Lions' defense allowed a staggering 410 passing yards in their Week 1 game, indicating a clear vulnerability that Allen and the Bills' potent receiving corps, including DJ Moore and Dalton Kincaid, are well-equipped to exploit.",
-          "awayRecord": "1-0",
-          "homeRecord": "1-0",
-          "awayLast5": [
-            "W"
-          ],
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Detroit Lions vs Buffalo Bills",
-          "betType": "prop",
-          "pick": "Jahmyr Gibbs Over 29.5 Receiving Yards",
-          "odds": "-114",
-          "confidence": "medium",
-          "rationale": "Jahmyr Gibbs played 74% of the Lions' snaps in Week 1 and caught all five of his targets for 30 receiving yards, demonstrating his involvement in the passing game. With Detroit's offensive line facing significant injuries to two starting linemen, Jared Goff is likely to experience more pressure, leading to an increased reliance on check-downs to Gibbs. Furthermore, Buffalo's defensive scheme often concedes underneath yardage to running backs, and the expected game script of the Lions trailing will necessitate more passing, making Gibbs a prime beneficiary.",
-          "awayRecord": "1-0",
-          "homeRecord": "1-0",
-          "awayLast5": [
-            "W"
-          ],
-          "homeLast5": [
-            "W"
-          ]
-        }
-      ]
-    },
     {
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Syracuse Orange vs Pittsburgh Panthers",
+          "game": "Miami Hurricanes vs Wake Forest Demon Deacons",
           "betType": "total",
-          "pick": "Under 51.5",
-          "odds": "-110",
+          "pick": "Over 55.5",
+          "odds": "-108",
           "confidence": "medium",
-          "rationale": "The historical data strongly supports the Under, with seven of the last eight Syracuse-Pittsburgh matchups going below the total. Pittsburgh's offensive pace is notably slow, ranking 99th nationally in seconds per play, which naturally limits scoring opportunities. Syracuse enters this game with significant offensive struggles, including three interceptions and 14 penalties in their last outing, compounded by key injuries to running back Tylik Hill and wide receiver Calvin Russell, who are not expected to play. Furthermore, Pittsburgh's recent 12-7 victory over UCF suggests a conservative offensive approach, while Syracuse boasts strong returning defensive production.",
-          "awayRecord": "1-1",
+          "rationale": "Miami's offense has been explosive, averaging 61 points per game in their first two contests, including a 77-7 victory last week. Wake Forest, while giving up 26 points per game, has also shown an ability to score, putting up 38 points in both of their wins this season. The combined offensive output and Wake Forest's defensive struggles against a potent Miami attack suggest a high-scoring affair. The total line has also seen a slight upward movement, indicating a lean towards the over.",
+          "awayRecord": "2-0",
           "homeRecord": "2-0",
+          "startTime": "2026-09-18T23:30Z",
           "awayLast5": [
             "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Houston Cougars vs Texas Tech Red Raiders",
+          "betType": "spread",
+          "pick": "Houston Cougars +7.5",
+          "odds": "-105",
+          "confidence": "high",
+          "rationale": "The spread for this game has seen a significant shift, moving 5.5 points from Texas Tech -13 to -7.5, indicating sharp money coming in on Houston. Houston boasts the nation's best run defense, allowing only 10.0 yards per game, which could neutralize Texas Tech's ground attack. Furthermore, Texas Tech is 0-2 against the spread this season, failing to cover in both of their games. Despite Texas Tech's historical dominance in the series, the current form and line movement favor Houston to keep this game within the spread.",
+          "awayRecord": "2-0",
+          "homeRecord": "2-0",
+          "startTime": "2026-09-19T00:00Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Portland State Vikings vs Oregon Ducks",
+          "betType": "total",
+          "pick": "Over 68.5",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Oregon is coming off a loss and will be highly motivated to put on a dominant performance at home against an FCS opponent. In their last head-to-head matchup, Oregon defeated Portland State 81-7, showcasing their ability to run up the score. Portland State's defense has been porous, surrendering 43.7 points and 465 yards per game, while still managing to score at least 20 points in all three of their games. This combination of a motivated, high-powered Oregon offense and a weak Portland State defense points to a game easily exceeding the total.",
+          "awayRecord": "0-3",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-19T02:30Z",
+          "awayLast5": [
+            "L",
+            "L",
             "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Miami Hurricanes vs Wake Forest Demon Deacons",
+          "betType": "spread",
+          "pick": "Wake Forest Demon Deacons +20.5",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "While Miami is a dominant team, Wake Forest has an exceptional record covering large spreads at home, doing so in 10 consecutive home games and 18 of their last 20 overall. Conversely, Miami has struggled to cover a -20.5 line on the road, failing to do so in 8 of their last 10 road games and 4 of their last 5. Despite Miami's strong start to the season, Wake Forest's historical performance against the spread in similar situations makes them a strong play to cover this significant underdog line.",
+          "awayRecord": "2-0",
+          "homeRecord": "2-0",
+          "startTime": "2026-09-18T23:30Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Houston Cougars vs Texas Tech Red Raiders",
+          "betType": "total",
+          "pick": "Over 52.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Both Houston and Texas Tech have shown offensive capabilities this season, with Houston's Conner Weigman being a sharp quarterback and Texas Tech's offense ranking 23rd nationally in EPA per play. Texas Tech's defense has struggled against the pass, giving up 413 passing yards in their last game, which Houston's efficient passing attack can exploit. Although Houston has a strong run defense, Texas Tech's overall offensive efficiency and Houston's own offensive potential suggest that both teams can contribute to a score exceeding the 52.5 total.",
+          "awayRecord": "2-0",
+          "homeRecord": "2-0",
+          "startTime": "2026-09-19T00:00Z",
+          "awayLast5": [
+            "W",
+            "W"
           ],
           "homeLast5": [
             "W",
@@ -114,67 +107,26 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "New York Red Bulls @ New York City FC",
+          "game": "Red Bull New York vs New York City FC",
           "betType": "total",
           "pick": "Under 3.5",
-          "odds": "-160",
-          "confidence": "high",
-          "rationale": "The total line for Under 3.5 has seen significant movement, shifting from an opening of -150 to the current verified line of -160, indicating sharp money on the under. Both New York City FC and New York Red Bulls have shown poor offensive form this season, with NYCFC averaging 1.4 goals and RBNY averaging 1.32 goals per game in their last 10 league matches, suggesting a lower-scoring affair. Head-to-head history also supports the under, with their last MLS encounter ending in a 1-1 draw and NYCFC's most recent home win against RBNY being a 2-0 result. Furthermore, NYCFC's overall average total goals per game this season is 2.68, while RBNY's is 3.08, both below the 3.5 threshold."
-        }
-      ]
-    },
-    {
-      "sport": "UEL",
-      "picks": [
-        {
-          "game": "RB Salzburg @ Levski Sofia",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "+115",
-          "confidence": "medium",
-          "rationale": "Levski Sofia boasts a strong defensive record in European home games, having kept clean sheets in seven of their last eight matches as the host team. RB Salzburg has a poor track record in away UEL main draw games, losing their last nine. The two previous head-to-head encounters between these teams in 2009/10 both resulted in 1-0 victories for Salzburg, indicating a history of low-scoring affairs. Furthermore, Levski Sofia has managed to score only one first-half goal across their last six matches, suggesting a tendency for slow starts and fewer overall goals. These factors collectively point towards a tight, low-scoring contest, making the Under 2.5 at plus money a high-confidence pick.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "Marseille @ Besiktas",
-          "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-175",
-          "confidence": "high",
-          "rationale": "Marseille enters this match in poor form, having suffered three consecutive defeats in Ligue 1, which suggests their offensive output may be limited. Key midfielders Geoffrey Kondogbia and Tochukwu Nnadi are sidelined with injuries for Marseille, further weakening their creative and defensive capabilities. While Besiktas has been scoring freely recently, winning three straight games and netting 11 goals, their predicted strategy emphasizes territorial control and a tighter back line for this European fixture. One preview specifically predicts a 1-0 Besiktas win and favors the Under 2.5 goals, indicating an expectation of a low-scoring game. Given Marseille's struggles and Besiktas' likely cautious approach in a European opener, the Under 3.5 is a strong play.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "NEC Nijmegen @ Juventus",
-          "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-140",
-          "confidence": "high",
-          "rationale": "Juventus is grappling with an extensive injury list, including crucial players like Manuel Locatelli (out until 2027) and Kenan Yildiz, which severely impacts their offensive potential. NEC Nijmegen arrives in Turin in poor form, having been eliminated from UCL qualifiers with a 6-1 aggregate loss and winning only one of their last six competitive matches. Despite NEC's defensive vulnerabilities, Juventus's Serie A 2025/2026 season saw 61% of their matches finish with under 2.5 goals, and they conceded an average of just 0.89 goals per game. This combination of Juventus's injury-depleted attack and historical defensive solidity, coupled with NEC's struggles, points to a game with fewer than 3.5 goals.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
-        },
-        {
-          "game": "AFC Bournemouth @ Real Sociedad",
-          "betType": "total",
-          "pick": "Over 2.5",
           "odds": "-165",
-          "confidence": "medium",
-          "rationale": "AFC Bournemouth's recent form shows a propensity for high-scoring games, with 10 goals scored and 7 conceded in their last five matches. Real Sociedad has also been involved in higher-scoring contests, with 80% of their last five matches going over the total. Both teams are dealing with significant defensive injuries, with Real Sociedad missing Igor Zubeldia and Bournemouth without Julián Araujo, which could lead to defensive vulnerabilities. Real Sociedad is averaging 1.2 goals scored and 1.6 goals conceded per game this season, further supporting a higher-scoring outcome. The attacking tendencies and defensive absences on both sides make the Over 2.5 a confident pick.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
+          "confidence": "high",
+          "rationale": "New York City FC enters this match severely depleted, with six key players officially listed as OUT due to injury, including significant offensive contributors Talles Magno and Maxi Moralez. These absences are expected to significantly diminish NYCFC's attacking prowess, making it challenging for them to contribute to a high-scoring game. Historically, only 28% of the 32 head-to-head encounters between these two New York rivals have exceeded 3.5 goals. Given NYCFC's extensive injury list and the historical under-trend for this specific total, the Under 3.5 at -165 presents a strong betting opportunity.",
+          "awayRecord": "8-6-11",
+          "homeRecord": "8-8-9",
+          "startTime": "2026-09-18T23:30Z"
         },
         {
-          "game": "TSG Hoffenheim @ OFI Crete",
+          "game": "Red Bull New York vs New York City FC",
           "betType": "moneyline",
-          "pick": "TSG Hoffenheim",
-          "odds": "-340",
+          "pick": "Red Bull New York",
+          "odds": "+280",
           "confidence": "medium",
-          "rationale": "TSG Hoffenheim, a Bundesliga side, is expected to possess a significant quality advantage over OFI Crete, for whom no recent form or head-to-head history could be found in the search results, suggesting they are a lesser-known opponent. Hoffenheim has shown an ability to score goals recently, netting 10 goals in their last four matches, including a 4-2 victory. Despite a 'Poor' overall Bundesliga form with a 33% win rate, their scoring ability against potentially weaker opposition should be sufficient. The substantial moneyline odds of -340 for Hoffenheim reflect strong market confidence in their outright win. This pick relies on the clear difference in league quality and Hoffenheim's offensive capabilities.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0"
+          "rationale": "New York City FC is facing a substantial challenge with six key players sidelined due to injury, notably impacting their offensive capabilities. Despite being the home team, NYCFC's home form this season has been underwhelming, recording only 4 wins, 4 draws, and 5 losses. While Red Bull New York has a couple of questionable players, their roster is significantly healthier in comparison. Considering NYCFC's significant injury woes and their poor home record, the +280 moneyline for Red Bull New York offers considerable value in this Hudson River Derby.",
+          "awayRecord": "8-6-11",
+          "homeRecord": "8-8-9",
+          "startTime": "2026-09-18T23:30Z"
         }
       ]
     }

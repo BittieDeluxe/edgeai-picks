@@ -1,5 +1,139 @@
 [
   {
+    "date": "2026-09-17",
+    "sports": [
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Detroit Lions vs Buffalo Bills",
+            "betType": "total",
+            "pick": "Over 54.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Detroit Lions 31, Buffalo Bills 41"
+          },
+          {
+            "game": "Detroit Lions vs Buffalo Bills",
+            "betType": "prop",
+            "pick": "Jared Goff Over 249.5 Passing Yards",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Jared Goff: 327 Passing Yards (line 249.5)"
+          },
+          {
+            "game": "Detroit Lions vs Buffalo Bills",
+            "betType": "prop",
+            "pick": "Amon-Ra St. Brown Over 79.5 Receiving Yards",
+            "odds": "N/A",
+            "confidence": "high",
+            "result": "W",
+            "score": "Amon-Ra St. Brown: 142 Receiving Yards (line 79.5)"
+          },
+          {
+            "game": "Detroit Lions vs Buffalo Bills",
+            "betType": "prop",
+            "pick": "Josh Allen Over 248.5 Passing Yards",
+            "odds": "-113",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Josh Allen: 248 Passing Yards (line 248.5)"
+          },
+          {
+            "game": "Detroit Lions vs Buffalo Bills",
+            "betType": "prop",
+            "pick": "Jahmyr Gibbs Over 29.5 Receiving Yards",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Jahmyr Gibbs: 61 Receiving Yards (line 29.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Syracuse Orange vs Pittsburgh Panthers",
+            "betType": "total",
+            "pick": "Under 51.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Syracuse Orange 13, Pittsburgh Panthers 27"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "New York Red Bulls @ New York City FC",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "RB Salzburg @ Levski Sofia",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "RB Salzburg 1, Levski Sofia 0"
+          },
+          {
+            "game": "Marseille @ Besiktas",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "L",
+            "score": "Marseille 1, Besiktas 4"
+          },
+          {
+            "game": "NEC Nijmegen @ Juventus",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "L",
+            "score": "NEC Nijmegen 0, Juventus 5"
+          },
+          {
+            "game": "AFC Bournemouth @ Real Sociedad",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-165",
+            "confidence": "medium",
+            "result": "W",
+            "score": "AFC Bournemouth 2, Real Sociedad 1"
+          },
+          {
+            "game": "TSG Hoffenheim @ OFI Crete",
+            "betType": "moneyline",
+            "pick": "TSG Hoffenheim",
+            "odds": "-340",
+            "confidence": "medium",
+            "result": "L",
+            "score": "TSG Hoffenheim 0, OFI CRETE 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-16",
     "sports": [
       {
@@ -61,8 +195,8 @@
             "pick": "Pittsburgh Panthers -10.5",
             "odds": "-105",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Syracuse Orange 13, Pittsburgh Panthers 27"
           },
           {
             "game": "Syracuse Orange vs Pittsburgh Panthers",
@@ -70,8 +204,8 @@
             "pick": "Under 51.5",
             "odds": "-110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Syracuse Orange 13, Pittsburgh Panthers 27"
           },
           {
             "game": "Syracuse Orange vs Pittsburgh Panthers",
@@ -79,8 +213,8 @@
             "pick": "Syracuse Orange +10.5",
             "odds": "-115",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Syracuse Orange 13, Pittsburgh Panthers 27"
           },
           {
             "game": "Syracuse Orange vs Pittsburgh Panthers",
@@ -88,8 +222,8 @@
             "pick": "Over 51.5",
             "odds": "-110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Syracuse Orange 13, Pittsburgh Panthers 27"
           }
         ]
       },
@@ -103,7 +237,7 @@
             "odds": "+110",
             "confidence": "medium",
             "result": "L",
-            "score": "Sparta Prague 4, Ararat-Armenia 1"
+            "score": "Sparta Prague 4, ARARAT-ARMENIA 1"
           },
           {
             "game": "Benfica @ AC Milan",
@@ -2836,62 +2970,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Houston Dynamo FC 1, Vancouver Whitecaps 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-18",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Atlanta Braves vs Minnesota Twins",
-            "betType": "moneyline",
-            "pick": "Atlanta Braves",
-            "odds": "-122",
-            "confidence": "high",
-            "result": "L",
-            "score": "Atlanta Braves 1, Minnesota Twins 4"
-          },
-          {
-            "game": "Arizona Diamondbacks vs Boston Red Sox",
-            "betType": "spread",
-            "pick": "Boston Red Sox -1.5",
-            "odds": "+126",
-            "confidence": "high",
-            "result": "W",
-            "score": "Arizona Diamondbacks 4, Boston Red Sox 9"
-          },
-          {
-            "game": "St. Louis Cardinals vs Cincinnati Reds",
-            "betType": "moneyline",
-            "pick": "St. Louis Cardinals",
-            "odds": "-112",
-            "confidence": "high",
-            "result": "W",
-            "score": "St. Louis Cardinals 3, Cincinnati Reds 0"
-          },
-          {
-            "game": "Los Angeles Dodgers vs Colorado Rockies",
-            "betType": "total",
-            "pick": "Over 11.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Los Angeles Dodgers 7, Colorado Rockies 6"
-          },
-          {
-            "game": "Chicago White Sox vs Chicago Cubs",
-            "betType": "total",
-            "pick": "Over 9",
-            "odds": "-122",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Chicago White Sox 3, Chicago Cubs 4"
           }
         ]
       }
