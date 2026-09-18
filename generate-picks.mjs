@@ -178,6 +178,9 @@ async function fetchEspnGames(sport, dateStr) {
         homeTeam: home?.team?.abbreviation ?? '',
         homeName: home?.team?.displayName ?? '',
         homeRecord: home?.records?.[0]?.summary ?? '',
+        // ISO kickoff. Needed so the app can refuse to let anyone tail a pick
+        // after its game has started — without it there is no way to tell.
+        startTime: event.date ?? null,
       };
     });
   } catch { return []; }
@@ -1213,6 +1216,7 @@ async function main() {
           if (g) {
             pick.awayRecord = g.awayRecord || undefined;
             pick.homeRecord = g.homeRecord || undefined;
+            pick.startTime = g.startTime || undefined;
           }
         }
         const teamSet = new Map();
