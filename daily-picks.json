@@ -1,104 +1,148 @@
 {
-  "date": "2026-09-18",
-  "generatedAt": "2026-09-18T13:32:59.768Z",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T13:02:59.717Z",
   "sports": [
+    {
+      "sport": "NFL",
+      "picks": [
+        {
+          "game": "Seattle Seahawks @ Arizona Cardinals",
+          "betType": "total",
+          "pick": "Under 40.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "The total for the Seahawks-Cardinals game has plummeted by 2.5 points from 43.5 to 41 (verified line is 40.5), despite the public heavily favoring the Over. This significant 'reverse line movement' indicates sharp money is on the Under. Seattle's starting quarterback, Sam Darnold, is out with a glute injury, forcing Drew Lock into action, which is expected to hinder offensive production. A lack of pocket presence from Lock could stall drives, further supporting a lower-scoring game."
+        },
+        {
+          "game": "New Orleans Saints @ Baltimore Ravens",
+          "betType": "total",
+          "pick": "Over 46.5",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "The total for the Saints-Ravens game initially opened at 48.5 and was bet down to 46.5 due to immense public pressure on the Under. However, there's significant sharp resistance on the Over, with professional bettors believing the line has dropped too far. The Over holds 35.39% of the money on just 10.25% of tickets, indicating larger, sharper wagers are backing a higher-scoring affair. Both teams showed offensive firepower in Week 1, with the Ravens scoring 41 points and the Saints' Tyler Shough throwing for 410 yards, suggesting they can contribute to exceeding this total."
+        },
+        {
+          "game": "Philadelphia Eagles @ Tennessee Titans",
+          "betType": "prop",
+          "pick": "Cam Ward Under 188.5 Passing Yards",
+          "odds": "-114",
+          "confidence": "high",
+          "rationale": "Titans QB Cam Ward struggled significantly in Week 1, passing for only 140 yards and being sacked three times in a 23-10 loss to the Jets. The Eagles' defense held the Commanders to just 10 first downs and gave their quarterback difficulties in Week 1. Philadelphia's defense is stout, and with Ward's poor Week 1 performance and the Titans' overall offensive struggles (195 total yards, 10 points in Week 1), he is unlikely to exceed this passing yardage total. Furthermore, Eagles' key defensive players Jalen Carter and Cooper DeJean are available, though Jonathan Greenard is out, but the overall defensive strength remains."
+        },
+        {
+          "game": "Carolina Panthers @ Atlanta Falcons",
+          "betType": "spread",
+          "pick": "Carolina Panthers -2.5",
+          "odds": "-120",
+          "confidence": "medium",
+          "rationale": "The spread for this game has seen significant movement, with Atlanta initially opening as a 1.5-point favorite, only for Carolina to become a 2.5-point road favorite. This shift is driven by a consensus of public and sharp action on the Panthers, who are drawing 73.04% of tickets and 75.90% of the spread handle. The Falcons are dealing with a 'bruised roster' and quarterback uncertainty, with Tua Tagovailoa (oblique) out and third-string Cooper Rush starting, which significantly hampers their offensive outlook. Carolina is 4-1 straight-up and against the spread in their last five head-to-head meetings against the Falcons."
+        },
+        {
+          "game": "Cincinnati Bengals @ Houston Texans",
+          "betType": "total",
+          "pick": "Over 45.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Over 45.5 is a strong play given both teams' recent offensive trends. The 45.5 line has been covered in the last four Bengals road games and in eight of their last ten overall games. The Texans' offense put up 31 points against the Bills in Week 1, accumulating 381 total yards, while the Bengals scored 33 points against the Buccaneers. The last head-to-head matchup between these teams saw a 30-27 Texans victory, contributing to a high-scoring affair. Both teams have shown the capability to exceed this total, making the Over a confident pick."
+        }
+      ]
+    },
     {
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Miami Hurricanes vs Wake Forest Demon Deacons",
+          "game": "Wyoming Cowboys vs Central Michigan Chippewas",
           "betType": "total",
-          "pick": "Over 55.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "Miami's offense has been explosive, averaging 61 points per game in their first two contests, including a 77-7 victory last week. Wake Forest, while giving up 26 points per game, has also shown an ability to score, putting up 38 points in both of their wins this season. The combined offensive output and Wake Forest's defensive struggles against a potent Miami attack suggest a high-scoring affair. The total line has also seen a slight upward movement, indicating a lean towards the over.",
-          "awayRecord": "2-0",
-          "homeRecord": "2-0",
-          "startTime": "2026-09-18T23:30Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Houston Cougars vs Texas Tech Red Raiders",
-          "betType": "spread",
-          "pick": "Houston Cougars +7.5",
-          "odds": "-105",
-          "confidence": "high",
-          "rationale": "The spread for this game has seen a significant shift, moving 5.5 points from Texas Tech -13 to -7.5, indicating sharp money coming in on Houston. Houston boasts the nation's best run defense, allowing only 10.0 yards per game, which could neutralize Texas Tech's ground attack. Furthermore, Texas Tech is 0-2 against the spread this season, failing to cover in both of their games. Despite Texas Tech's historical dominance in the series, the current form and line movement favor Houston to keep this game within the spread.",
-          "awayRecord": "2-0",
-          "homeRecord": "2-0",
-          "startTime": "2026-09-19T00:00Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Portland State Vikings vs Oregon Ducks",
-          "betType": "total",
-          "pick": "Over 68.5",
-          "odds": "-114",
-          "confidence": "medium",
-          "rationale": "Oregon is coming off a loss and will be highly motivated to put on a dominant performance at home against an FCS opponent. In their last head-to-head matchup, Oregon defeated Portland State 81-7, showcasing their ability to run up the score. Portland State's defense has been porous, surrendering 43.7 points and 465 yards per game, while still managing to score at least 20 points in all three of their games. This combination of a motivated, high-powered Oregon offense and a weak Portland State defense points to a game easily exceeding the total.",
-          "awayRecord": "0-3",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-19T02:30Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Miami Hurricanes vs Wake Forest Demon Deacons",
-          "betType": "spread",
-          "pick": "Wake Forest Demon Deacons +20.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "While Miami is a dominant team, Wake Forest has an exceptional record covering large spreads at home, doing so in 10 consecutive home games and 18 of their last 20 overall. Conversely, Miami has struggled to cover a -20.5 line on the road, failing to do so in 8 of their last 10 road games and 4 of their last 5. Despite Miami's strong start to the season, Wake Forest's historical performance against the spread in similar situations makes them a strong play to cover this significant underdog line.",
-          "awayRecord": "2-0",
-          "homeRecord": "2-0",
-          "startTime": "2026-09-18T23:30Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Houston Cougars vs Texas Tech Red Raiders",
-          "betType": "total",
-          "pick": "Over 52.5",
+          "pick": "Under 38.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Both Houston and Texas Tech have shown offensive capabilities this season, with Houston's Conner Weigman being a sharp quarterback and Texas Tech's offense ranking 23rd nationally in EPA per play. Texas Tech's defense has struggled against the pass, giving up 413 passing yards in their last game, which Houston's efficient passing attack can exploit. Although Houston has a strong run defense, Texas Tech's overall offensive efficiency and Houston's own offensive potential suggest that both teams can contribute to a score exceeding the 52.5 total.",
-          "awayRecord": "2-0",
-          "homeRecord": "2-0",
-          "startTime": "2026-09-19T00:00Z",
+          "rationale": "This matchup features two teams with struggling offenses, as Central Michigan's offense has found it difficult to get going this season. Wyoming's short passing game is noted as sharper, but both teams are prone to turnovers, which can stifle scoring drives. Pete Fiutak's prediction for this game is Wyoming 21, Central Michigan 18, totaling 39 points, which is right on the edge of the current line. Given the offensive inefficiencies and turnover tendencies, a low-scoring affair is highly probable.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-19T17:00Z",
           "awayLast5": [
-            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Florida International Panthers vs Florida Atlantic Owls",
+          "betType": "total",
+          "pick": "Over 62.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "This game is expected to be a high-scoring shootout, with Florida Atlantic's high-powered Zach Kittley passing game performing well in their last win, scoring 38 points. While FIU has a strong defense, Pete Fiutak anticipates both teams will exceed 300 yards through the air. The expectation of significant passing yardage from both sides strongly supports the over hitting in this contest.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-19T22:00Z",
+          "awayLast5": [
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "UAB Blazers vs Louisiana Ragin' Cajuns",
+          "betType": "total",
+          "pick": "Under 55.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "UAB's offense has shown struggles, particularly in the passing game, with quarterback Ryder Burton having a difficult outing in their last close win against UL Monroe. The Blazers are expected to lean heavily on their run game, which tends to keep the clock moving and limit scoring opportunities. Louisiana's average total points for their games this season is 53.5, and UAB's is 54.5, both slightly below the current line of 55.5. With no reported injuries for either team, the defensive and run-heavy tendencies should keep the score under the total.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-20T00:00Z",
+          "awayLast5": [
+            "L",
             "W"
           ],
           "homeLast5": [
             "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Coastal Carolina Chanticleers vs Delaware Blue Hens",
+          "betType": "spread",
+          "pick": "Delaware Blue Hens -4.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Delaware enters this game with a strong home-field advantage, having covered the -4.5 spread in three consecutive home games. Conversely, Coastal Carolina has struggled on the road against the spread, failing to cover in four consecutive road games and seven of their last ten. Expert predictions also lean towards Delaware securing a comfortable win, with Pete Fiutak projecting a 30-26 victory for the Blue Hens. These consistent betting trends and expert consensus indicate a solid edge for Delaware to cover the spread.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-19T15:30Z",
+          "awayLast5": [
+            "L",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Nevada Wolf Pack vs Middle Tennessee Blue Raiders",
+          "betType": "spread",
+          "pick": "Middle Tennessee Blue Raiders +3.5",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "Middle Tennessee boasts a strong record against the spread, covering the +3.5 line in four consecutive games and seven of their last ten. Nevada's offense has been inconsistent, scoring only 7 points last week after a 49-point opener, and their starting QB C. Jones is questionable due to an arm injury. The last head-to-head matchup between these teams was a low-scoring 14-13 Middle Tennessee victory. These factors, combined with Middle Tennessee's home advantage and strong ATS trends, make them a confident pick to cover the spread.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-19T23:00Z",
+          "awayLast5": [
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
           ]
         }
       ]
@@ -107,26 +151,59 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "Red Bull New York vs New York City FC",
+          "game": "Philadelphia Union @ Sporting Kansas City",
           "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-165",
-          "confidence": "high",
-          "rationale": "New York City FC enters this match severely depleted, with six key players officially listed as OUT due to injury, including significant offensive contributors Talles Magno and Maxi Moralez. These absences are expected to significantly diminish NYCFC's attacking prowess, making it challenging for them to contribute to a high-scoring game. Historically, only 28% of the 32 head-to-head encounters between these two New York rivals have exceeded 3.5 goals. Given NYCFC's extensive injury list and the historical under-trend for this specific total, the Under 3.5 at -165 presents a strong betting opportunity.",
-          "awayRecord": "8-6-11",
-          "homeRecord": "8-8-9",
-          "startTime": "2026-09-18T23:30Z"
+          "pick": "Over 3.5",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "Philadelphia Union is in exceptional form, currently on a 10-game unbeaten streak in MLS and scoring at least three goals in three of their last four away games, including five goals in each of their last two matches. Conversely, Sporting Kansas City possesses the worst defensive record in MLS, having conceded 59 goals this season, and has allowed at least two goals in six of their last eight games. Furthermore, Sporting KC is significantly hampered by numerous injuries, with key players like Or Blorian, Capita Capemba, Jake Davis, and Ian James all out. While historical head-to-head matchups have seen lower scoring, the current form and severe injury disparity strongly indicate a high-scoring affair that should push past the 3.5 goal mark.",
+          "awayRecord": "9-6-10",
+          "homeRecord": "5-3-16",
+          "startTime": "2026-09-20T00:30Z"
         },
         {
-          "game": "Red Bull New York vs New York City FC",
-          "betType": "moneyline",
-          "pick": "Red Bull New York",
-          "odds": "+280",
+          "game": "Chicago Fire FC @ Nashville SC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "+110",
           "confidence": "medium",
-          "rationale": "New York City FC is facing a substantial challenge with six key players sidelined due to injury, notably impacting their offensive capabilities. Despite being the home team, NYCFC's home form this season has been underwhelming, recording only 4 wins, 4 draws, and 5 losses. While Red Bull New York has a couple of questionable players, their roster is significantly healthier in comparison. Considering NYCFC's significant injury woes and their poor home record, the +280 moneyline for Red Bull New York offers considerable value in this Hudson River Derby.",
-          "awayRecord": "8-6-11",
-          "homeRecord": "8-8-9",
-          "startTime": "2026-09-18T23:30Z"
+          "rationale": "Nashville SC boasts an imperious home record, remaining unbeaten in 12 home matches with 11 wins and 1 draw, and averaging an impressive 3 goals scored per home game. Eight of Nashville's home victories this season have featured three or more goals, with five seeing four or more. Chicago Fire FC, on the other hand, is in poor form, winless in their last six competitive matches, and has seen both teams score in 10 of their last 10 games. With Chicago also dealing with multiple injuries including André Franco, Mbekezeli Mbokazi, and Anton Salétros, Nashville's potent offense at home against a struggling and depleted Chicago defense makes the Over 3.5 a strong play.",
+          "awayRecord": "6-11-8",
+          "homeRecord": "11-8-6",
+          "startTime": "2026-09-20T00:30Z"
+        },
+        {
+          "game": "LA Galaxy @ Minnesota United FC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The LA Galaxy has demonstrated significant defensive vulnerabilities recently, with an expected goals against (xG against) of 2.2 over their last ten games. They also have a high propensity for both teams to score, with a BTTS rate of 76% this season. Adding to the defensive concerns, Minnesota United FC will be without key defender Michael Boxall due to suspension. While LA Galaxy's Joseph Paintsil is out, impacting their offense, the defensive frailties on both sides, particularly with Minnesota's suspension, create a strong likelihood for a higher-scoring match.",
+          "awayRecord": "7-9-10",
+          "homeRecord": "7-8-10",
+          "startTime": "2026-09-20T00:30Z"
+        },
+        {
+          "game": "Seattle Sounders FC @ Colorado Rapids",
+          "betType": "total",
+          "pick": "Under 2.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "Seattle Sounders FC is currently in a significant offensive slump, having failed to win any of their last five matches, with three draws and two losses, scoring only 4 goals in that span and consistently underperforming their xG. Their overall season average is a modest 1.1 goals per game. The Colorado Rapids are also facing considerable lineup challenges, with Billo Diop, Ted Ku-DiPietro, Zack Steffen, and Kosi Thompson all out, and Youssef Maziz questionable. These key absences for Colorado, combined with Seattle's struggles to find the back of the net, point towards a low-scoring contest.",
+          "awayRecord": "7-7-9",
+          "homeRecord": "11-2-12",
+          "startTime": "2026-09-20T01:30Z"
+        },
+        {
+          "game": "Orlando City SC @ New England Revolution",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-130",
+          "confidence": "medium",
+          "rationale": "Both Orlando City SC and the New England Revolution are dealing with significant offensive injuries heading into this match. The Revolution will be without key attacking midfielder Jack Harrison and midfielder Alhassan Yusuf for at least six weeks due to injuries. Orlando City is also missing Braian Ojeda and Iago due to injury and suspension, respectively, with Antoine Griezmann and Leo Campana also out or questionable. The absence of multiple key offensive contributors for both sides is expected to severely limit goal-scoring opportunities. Despite New England's strong home form, the depleted attacking lineups suggest a tighter, lower-scoring affair.",
+          "awayRecord": "10-4-11",
+          "homeRecord": "13-4-8",
+          "startTime": "2026-09-19T23:30Z"
         }
       ]
     }
