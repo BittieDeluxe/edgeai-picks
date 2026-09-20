@@ -1,148 +1,223 @@
 {
-  "date": "2026-09-19",
-  "generatedAt": "2026-09-19T13:02:59.717Z",
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T13:33:09.108Z",
   "sports": [
     {
-      "sport": "NFL",
+      "sport": "MLB",
       "picks": [
         {
-          "game": "Seattle Seahawks @ Arizona Cardinals",
+          "game": "Seattle Mariners @ Colorado Rockies",
           "betType": "total",
-          "pick": "Under 40.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The total for the Seahawks-Cardinals game has plummeted by 2.5 points from 43.5 to 41 (verified line is 40.5), despite the public heavily favoring the Over. This significant 'reverse line movement' indicates sharp money is on the Under. Seattle's starting quarterback, Sam Darnold, is out with a glute injury, forcing Drew Lock into action, which is expected to hinder offensive production. A lack of pocket presence from Lock could stall drives, further supporting a lower-scoring game."
-        },
-        {
-          "game": "New Orleans Saints @ Baltimore Ravens",
-          "betType": "total",
-          "pick": "Over 46.5",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "The total for the Saints-Ravens game initially opened at 48.5 and was bet down to 46.5 due to immense public pressure on the Under. However, there's significant sharp resistance on the Over, with professional bettors believing the line has dropped too far. The Over holds 35.39% of the money on just 10.25% of tickets, indicating larger, sharper wagers are backing a higher-scoring affair. Both teams showed offensive firepower in Week 1, with the Ravens scoring 41 points and the Saints' Tyler Shough throwing for 410 yards, suggesting they can contribute to exceeding this total."
-        },
-        {
-          "game": "Philadelphia Eagles @ Tennessee Titans",
-          "betType": "prop",
-          "pick": "Cam Ward Under 188.5 Passing Yards",
-          "odds": "-114",
+          "pick": "Over 10.5",
+          "odds": "-122",
           "confidence": "high",
-          "rationale": "Titans QB Cam Ward struggled significantly in Week 1, passing for only 140 yards and being sacked three times in a 23-10 loss to the Jets. The Eagles' defense held the Commanders to just 10 first downs and gave their quarterback difficulties in Week 1. Philadelphia's defense is stout, and with Ward's poor Week 1 performance and the Titans' overall offensive struggles (195 total yards, 10 points in Week 1), he is unlikely to exceed this passing yardage total. Furthermore, Eagles' key defensive players Jalen Carter and Cooper DeJean are available, though Jonathan Greenard is out, but the overall defensive strength remains."
+          "rationale": "Coors Field is consistently ranked as the most hitter-friendly ballpark in MLB, with its high altitude causing balls to travel farther and boosting offensive production significantly. Despite both teams having losing records (Mariners 72-83, Rockies 57-98), the unique environment often leads to inflated run totals. Recent head-to-head history shows the Seattle Mariners winning 5 of their last 5 against the Rockies, including a 6-2 victory on September 26, 2025, suggesting they can score against Colorado pitching. This combination of a hitter-friendly park and historical scoring potential makes the Over 10.5 a strong pick.",
+          "awayRecord": "72-83",
+          "homeRecord": "57-98",
+          "startTime": "2026-09-20T19:10Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
         },
         {
-          "game": "Carolina Panthers @ Atlanta Falcons",
+          "game": "San Francisco Giants @ Los Angeles Dodgers",
           "betType": "spread",
-          "pick": "Carolina Panthers -2.5",
-          "odds": "-120",
-          "confidence": "medium",
-          "rationale": "The spread for this game has seen significant movement, with Atlanta initially opening as a 1.5-point favorite, only for Carolina to become a 2.5-point road favorite. This shift is driven by a consensus of public and sharp action on the Panthers, who are drawing 73.04% of tickets and 75.90% of the spread handle. The Falcons are dealing with a 'bruised roster' and quarterback uncertainty, with Tua Tagovailoa (oblique) out and third-string Cooper Rush starting, which significantly hampers their offensive outlook. Carolina is 4-1 straight-up and against the spread in their last five head-to-head meetings against the Falcons."
+          "pick": "Los Angeles Dodgers -1.5",
+          "odds": "-125",
+          "confidence": "high",
+          "rationale": "The Los Angeles Dodgers (95-60) are a dominant force, having already clinched the NL West title on September 17 and entering this game as two-time defending National League and World Series champions. They consistently outperform opponents, especially at home, against weaker teams. The San Francisco Giants (64-91) are significantly underperforming, and their roster has been impacted by injuries, including Logan Webb (season-ending) and Bryce Eldridge (scratched from lineup). The Dodgers hold a 21-12 head-to-head record against the Giants in the last three seasons, indicating their consistent superiority, making them a high-confidence pick to cover the -1.5 spread.",
+          "awayRecord": "64-91",
+          "homeRecord": "95-60",
+          "startTime": "2026-09-20T20:10Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
         },
         {
-          "game": "Cincinnati Bengals @ Houston Texans",
+          "game": "Athletics @ Cleveland Guardians",
           "betType": "total",
-          "pick": "Over 45.5",
-          "odds": "-110",
+          "pick": "Under 6.5",
+          "odds": "+114",
           "confidence": "medium",
-          "rationale": "The Over 45.5 is a strong play given both teams' recent offensive trends. The 45.5 line has been covered in the last four Bengals road games and in eight of their last ten overall games. The Texans' offense put up 31 points against the Bills in Week 1, accumulating 381 total yards, while the Bengals scored 33 points against the Buccaneers. The last head-to-head matchup between these teams saw a 30-27 Texans victory, contributing to a high-scoring affair. Both teams have shown the capability to exceed this total, making the Over a confident pick."
+          "rationale": "The Athletics (61-94) possess one of the worst records in MLB, indicative of a struggling offense that consistently fails to generate runs. The Cleveland Guardians (80-75) are a playoff contender known for strong pitching and defense, which typically leads to lower-scoring games. While the Athletics' home park factors show it as hitter-friendly, this game is on the road in Cleveland, where the Guardians' pitching should be able to suppress runs. The head-to-head history shows Cleveland with a 12-4 record against the Athletics in the last three seasons, suggesting their ability to control the game. With the Athletics' anemic offense, the Under 6.5 at plus money offers significant value.",
+          "awayRecord": "61-94",
+          "homeRecord": "80-75",
+          "startTime": "2026-09-20T17:40Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Atlanta Braves @ Houston Astros",
+          "betType": "total",
+          "pick": "Over 7.5",
+          "odds": "-134",
+          "confidence": "medium",
+          "rationale": "The Atlanta Braves (91-64) boast one of the most potent offenses in baseball, a key factor in their 91 wins and playoff berth clinched on September 18. The Houston Astros (77-78) are a competitive team fighting for a playoff spot and possess enough offensive talent to contribute to a higher-scoring game, especially at home. Both teams have the offensive firepower to push this total Over 7.5, particularly if the starting pitching is not dominant or if bullpens are utilized heavily. The Braves' consistent ability to put up runs makes the Over a strong play in what should be a motivated matchup.",
+          "awayRecord": "91-64",
+          "homeRecord": "77-78",
+          "startTime": "2026-09-20T18:10Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Philadelphia Phillies @ New York Mets",
+          "betType": "total",
+          "pick": "Over 7.5",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "The Philadelphia Phillies (85-70) are a strong playoff contender with a powerful lineup capable of explosive scoring, which is crucial for hitting the Over. The New York Mets (71-84), despite their disappointing season and elimination from playoff contention on September 14, still have offensive talent and often play competitive games at home. The Mets have several key players on the IL, including Kodai Senga, Jorge Polanco, Francisco Lindor, and Luis Robert Jr., which could strain their pitching depth and lead to more runs. With the Phillies aiming to solidify their playoff seeding and the Mets potentially having pitching vulnerabilities, this game has the potential for both teams to combine for more than 7.5 runs.",
+          "awayRecord": "85-70",
+          "homeRecord": "71-84",
+          "startTime": "2026-09-20T17:10Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
         }
       ]
     },
     {
-      "sport": "NCAAF",
+      "sport": "NFL",
       "picks": [
         {
-          "game": "Wyoming Cowboys vs Central Michigan Chippewas",
+          "game": "New Orleans Saints vs Baltimore Ravens",
           "betType": "total",
-          "pick": "Under 38.5",
+          "pick": "Under 45.5 (-110)",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "This matchup features two teams with struggling offenses, as Central Michigan's offense has found it difficult to get going this season. Wyoming's short passing game is noted as sharper, but both teams are prone to turnovers, which can stifle scoring drives. Pete Fiutak's prediction for this game is Wyoming 21, Central Michigan 18, totaling 39 points, which is right on the edge of the current line. Given the offensive inefficiencies and turnover tendencies, a low-scoring affair is highly probable.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-19T17:00Z",
+          "rationale": "The New Orleans Saints are facing significant offensive challenges, with wide receiver Chris Olave listed as questionable with a hamstring injury, though expected to play, and key defensive end Chase Young also questionable with a calf injury. The Baltimore Ravens' defense looked strong in their Week 1 victory, holding the Colts to just 251 yards of offense. Furthermore, Ravens wide receiver Zay Flowers has been ruled out with a hamstring injury, which will impact their offensive firepower. Head-to-head history shows the Ravens have dominated the series with a 6-2 all-time record, including a 27-13 win in their last meeting, suggesting a controlled game environment. These factors point towards a lower-scoring affair, making the Under a strong play.",
+          "awayRecord": "0-1",
+          "homeRecord": "1-0",
+          "startTime": "2026-09-20T17:00Z",
           "awayLast5": [
-            "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
-            "L",
             "W"
           ]
         },
         {
-          "game": "Florida International Panthers vs Florida Atlantic Owls",
-          "betType": "total",
-          "pick": "Over 62.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "This game is expected to be a high-scoring shootout, with Florida Atlantic's high-powered Zach Kittley passing game performing well in their last win, scoring 38 points. While FIU has a strong defense, Pete Fiutak anticipates both teams will exceed 300 yards through the air. The expectation of significant passing yardage from both sides strongly supports the over hitting in this contest.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-19T22:00Z",
+          "game": "Philadelphia Eagles vs Tennessee Titans",
+          "betType": "spread",
+          "pick": "Philadelphia Eagles -7 (-118)",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "The Philadelphia Eagles are coming off a dominant offensive performance in Week 1, while the Tennessee Titans struggled to move the ball in their opener. The Eagles have a strong historical advantage, leading the all-time series 8-5, and won their last matchup 35-10. The line movement from an assumed opening of Eagles -5 to the current Eagles -7 suggests sharp money is backing Philadelphia to cover this spread. Despite the Titans being at home, the Eagles' superior form and historical dominance in this matchup make them a confident pick to win by more than a touchdown.",
+          "awayRecord": "1-0",
+          "homeRecord": "0-1",
+          "startTime": "2026-09-20T17:00Z",
           "awayLast5": [
-            "L",
             "W"
           ],
           "homeLast5": [
-            "L",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "UAB Blazers vs Louisiana Ragin' Cajuns",
+          "game": "Cleveland Browns vs Tampa Bay Buccaneers",
           "betType": "total",
-          "pick": "Under 55.5",
+          "pick": "Under 41.5 (-112)",
           "odds": "-112",
           "confidence": "medium",
-          "rationale": "UAB's offense has shown struggles, particularly in the passing game, with quarterback Ryder Burton having a difficult outing in their last close win against UL Monroe. The Blazers are expected to lean heavily on their run game, which tends to keep the clock moving and limit scoring opportunities. Louisiana's average total points for their games this season is 53.5, and UAB's is 54.5, both slightly below the current line of 55.5. With no reported injuries for either team, the defensive and run-heavy tendencies should keep the score under the total.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-20T00:00Z",
+          "rationale": "Both the Cleveland Browns and Tampa Bay Buccaneers are coming off Week 1 losses where their offenses struggled, with the Browns' offense looking stagnant and the Buccaneers losing 33-27. The Browns will be without offensive lineman Teven Jenkins due to a back injury, which could further hinder their offensive production. For the Buccaneers, wide receiver Jalen McMillan is questionable with a knee injury, potentially limiting their passing game. Given these offensive struggles and key injuries, a defensive battle is anticipated, favoring the Under.",
+          "awayRecord": "0-1",
+          "homeRecord": "0-1",
+          "startTime": "2026-09-20T17:00Z",
           "awayLast5": [
-            "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
-            "W",
             "L"
           ]
         },
         {
-          "game": "Coastal Carolina Chanticleers vs Delaware Blue Hens",
-          "betType": "spread",
-          "pick": "Delaware Blue Hens -4.5",
-          "odds": "-110",
+          "game": "Washington Commanders vs Dallas Cowboys",
+          "betType": "total",
+          "pick": "Under 50.5 (+100)",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "Delaware enters this game with a strong home-field advantage, having covered the -4.5 spread in three consecutive home games. Conversely, Coastal Carolina has struggled on the road against the spread, failing to cover in four consecutive road games and seven of their last ten. Expert predictions also lean towards Delaware securing a comfortable win, with Pete Fiutak projecting a 30-26 victory for the Blue Hens. These consistent betting trends and expert consensus indicate a solid edge for Delaware to cover the spread.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-19T15:30Z",
+          "rationale": "This NFC East divisional matchup features two teams that started 0-1 and struggled offensively in Week 1. The Dallas Cowboys have historically dominated this rivalry, leading the all-time series 81-49-2, which often leads to more conservative, grind-it-out games. While specific injury reports for the Cowboys' starting WR are not detailed in the provided search results, the general trend of low-scoring divisional games, especially early in the season when teams are finding their rhythm, supports the Under. Both teams will likely prioritize defense and ball control in a crucial bounce-back game.",
+          "awayRecord": "0-1",
+          "homeRecord": "0-1",
+          "startTime": "2026-09-20T20:25Z",
           "awayLast5": [
-            "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
-            "W",
             "L"
           ]
         },
         {
-          "game": "Nevada Wolf Pack vs Middle Tennessee Blue Raiders",
-          "betType": "spread",
-          "pick": "Middle Tennessee Blue Raiders +3.5",
-          "odds": "-108",
+          "game": "Miami Dolphins vs San Francisco 49ers",
+          "betType": "total",
+          "pick": "Over 44.5 (-115)",
+          "odds": "-115",
           "confidence": "medium",
-          "rationale": "Middle Tennessee boasts a strong record against the spread, covering the +3.5 line in four consecutive games and seven of their last ten. Nevada's offense has been inconsistent, scoring only 7 points last week after a 49-point opener, and their starting QB C. Jones is questionable due to an arm injury. The last head-to-head matchup between these teams was a low-scoring 14-13 Middle Tennessee victory. These factors, combined with Middle Tennessee's home advantage and strong ATS trends, make them a confident pick to cover the spread.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-19T23:00Z",
+          "rationale": "The San Francisco 49ers are coming off a dominant Week 1 victory, showcasing a potent offense that racked up 41 points in their preseason game against the Chargers. The Miami Dolphins, despite their 0-1 start, have a high-powered offense capable of putting up points, and their starting CB being 'out' could lead to more passing attempts and a higher-scoring affair. Head-to-head history shows the total has gone over in their last two matchups. With the 49ers' strong offensive form and the Dolphins' potential to keep pace, this game is set up for a higher-scoring outcome.",
+          "awayRecord": "0-1",
+          "homeRecord": "1-0",
+          "startTime": "2026-09-20T20:25Z",
           "awayLast5": [
-            "W",
             "L"
           ],
           "homeLast5": [
-            "W",
-            "L"
+            "W"
           ]
         }
       ]
@@ -151,59 +226,59 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "Philadelphia Union @ Sporting Kansas City",
+          "game": "San Diego FC @ Inter Miami CF",
           "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "Philadelphia Union is in exceptional form, currently on a 10-game unbeaten streak in MLS and scoring at least three goals in three of their last four away games, including five goals in each of their last two matches. Conversely, Sporting Kansas City possesses the worst defensive record in MLS, having conceded 59 goals this season, and has allowed at least two goals in six of their last eight games. Furthermore, Sporting KC is significantly hampered by numerous injuries, with key players like Or Blorian, Capita Capemba, Jake Davis, and Ian James all out. While historical head-to-head matchups have seen lower scoring, the current form and severe injury disparity strongly indicate a high-scoring affair that should push past the 3.5 goal mark.",
-          "awayRecord": "9-6-10",
-          "homeRecord": "5-3-16",
-          "startTime": "2026-09-20T00:30Z"
+          "pick": "Under 4.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "San Diego FC will be without their leading goal scorer, Marcus Ingvartsen, due to a muscular injury, which significantly weakens their offensive threat. While Inter Miami possesses strong attacking players, they are coming off a midweek Campeones Cup match, potentially leading to some fatigue. The line movement for the total also shows a shift towards the Under 4.5, moving from -154 to -160, indicating sharp money on this side.",
+          "awayRecord": "8-6-11",
+          "homeRecord": "12-9-4",
+          "startTime": "2026-09-20T23:00Z"
         },
         {
-          "game": "Chicago Fire FC @ Nashville SC",
+          "game": "San Diego FC @ Inter Miami CF",
           "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+110",
-          "confidence": "medium",
-          "rationale": "Nashville SC boasts an imperious home record, remaining unbeaten in 12 home matches with 11 wins and 1 draw, and averaging an impressive 3 goals scored per home game. Eight of Nashville's home victories this season have featured three or more goals, with five seeing four or more. Chicago Fire FC, on the other hand, is in poor form, winless in their last six competitive matches, and has seen both teams score in 10 of their last 10 games. With Chicago also dealing with multiple injuries including André Franco, Mbekezeli Mbokazi, and Anton Salétros, Nashville's potent offense at home against a struggling and depleted Chicago defense makes the Over 3.5 a strong play.",
-          "awayRecord": "6-11-8",
-          "homeRecord": "11-8-6",
-          "startTime": "2026-09-20T00:30Z"
+          "pick": "Under 4.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "Inter Miami's recent league games, excluding the 7-1 outlier, have seen total goals of 4, 2, 4, and 3, averaging below the 4.5 line. San Diego's last five league matches, despite a 5-0 loss, also include a 0-1 and 2-3 result, and their top scorer's absence will further depress their goal-scoring potential. The combined average goals per game for both teams this season also falls below the 4.5 total, reinforcing the Under.",
+          "awayRecord": "8-6-11",
+          "homeRecord": "12-9-4",
+          "startTime": "2026-09-20T23:00Z"
         },
         {
-          "game": "LA Galaxy @ Minnesota United FC",
+          "game": "San Diego FC @ Inter Miami CF",
           "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The LA Galaxy has demonstrated significant defensive vulnerabilities recently, with an expected goals against (xG against) of 2.2 over their last ten games. They also have a high propensity for both teams to score, with a BTTS rate of 76% this season. Adding to the defensive concerns, Minnesota United FC will be without key defender Michael Boxall due to suspension. While LA Galaxy's Joseph Paintsil is out, impacting their offense, the defensive frailties on both sides, particularly with Minnesota's suspension, create a strong likelihood for a higher-scoring match.",
-          "awayRecord": "7-9-10",
-          "homeRecord": "7-8-10",
-          "startTime": "2026-09-20T00:30Z"
+          "pick": "Under 4.5",
+          "odds": "-160",
+          "confidence": "high",
+          "rationale": "San Diego FC's overall form is poor, with 8 wins, 6 draws, and 11 losses, placing them 19th in the MLS table. Their away form is particularly weak, with only 2 wins, 3 draws, and 6 losses, suggesting they will struggle to contribute to a high-scoring affair against a strong home side. The significant injury to Marcus Ingvartsen further reduces their chances of finding the net multiple times.",
+          "awayRecord": "8-6-11",
+          "homeRecord": "12-9-4",
+          "startTime": "2026-09-20T23:00Z"
         },
         {
-          "game": "Seattle Sounders FC @ Colorado Rapids",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "+110",
+          "game": "San Diego FC @ Inter Miami CF",
+          "betType": "moneyline",
+          "pick": "Inter Miami CF",
+          "odds": "-225",
           "confidence": "medium",
-          "rationale": "Seattle Sounders FC is currently in a significant offensive slump, having failed to win any of their last five matches, with three draws and two losses, scoring only 4 goals in that span and consistently underperforming their xG. Their overall season average is a modest 1.1 goals per game. The Colorado Rapids are also facing considerable lineup challenges, with Billo Diop, Ted Ku-DiPietro, Zack Steffen, and Kosi Thompson all out, and Youssef Maziz questionable. These key absences for Colorado, combined with Seattle's struggles to find the back of the net, point towards a low-scoring contest.",
-          "awayRecord": "7-7-9",
-          "homeRecord": "11-2-12",
-          "startTime": "2026-09-20T01:30Z"
+          "rationale": "Inter Miami CF is the superior team, currently 2nd in the Eastern Conference with a 12-9-4 record, and playing at home where they have a strong record. They are in excellent form, boasting a four-match unbeaten streak in the league and a recent Campeones Cup victory, boosting team morale. San Diego FC is struggling with a three-game losing streak, including a heavy 5-0 defeat, and will be missing their key offensive player, Marcus Ingvartsen. This combination of factors strongly favors an Inter Miami victory.",
+          "awayRecord": "8-6-11",
+          "homeRecord": "12-9-4",
+          "startTime": "2026-09-20T23:00Z"
         },
         {
-          "game": "Orlando City SC @ New England Revolution",
+          "game": "San Diego FC @ Inter Miami CF",
           "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-130",
+          "pick": "Under 4.5",
+          "odds": "-160",
           "confidence": "medium",
-          "rationale": "Both Orlando City SC and the New England Revolution are dealing with significant offensive injuries heading into this match. The Revolution will be without key attacking midfielder Jack Harrison and midfielder Alhassan Yusuf for at least six weeks due to injuries. Orlando City is also missing Braian Ojeda and Iago due to injury and suspension, respectively, with Antoine Griezmann and Leo Campana also out or questionable. The absence of multiple key offensive contributors for both sides is expected to severely limit goal-scoring opportunities. Despite New England's strong home form, the depleted attacking lineups suggest a tighter, lower-scoring affair.",
-          "awayRecord": "10-4-11",
-          "homeRecord": "13-4-8",
-          "startTime": "2026-09-19T23:30Z"
+          "rationale": "Inter Miami, despite their offensive talent, has drawn their last three league matches, indicating a potential for tighter games even when scoring. San Diego's overall goal differential is even (42 scored, 42 conceded), suggesting they aren't consistently involved in extremely high-scoring games, especially without their top scorer. The combination of San Diego's key injury and Miami's recent draws points towards a game that is less likely to exceed the high 4.5 total.",
+          "awayRecord": "8-6-11",
+          "homeRecord": "12-9-4",
+          "startTime": "2026-09-20T23:00Z"
         }
       ]
     }

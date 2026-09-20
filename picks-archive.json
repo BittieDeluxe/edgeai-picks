@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-09-19",
+    "sports": [
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Seattle Seahawks @ Arizona Cardinals",
+            "betType": "total",
+            "pick": "Under 40.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "New Orleans Saints @ Baltimore Ravens",
+            "betType": "total",
+            "pick": "Over 46.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Philadelphia Eagles @ Tennessee Titans",
+            "betType": "prop",
+            "pick": "Cam Ward Under 188.5 Passing Yards",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Carolina Panthers @ Atlanta Falcons",
+            "betType": "spread",
+            "pick": "Carolina Panthers -2.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "Cincinnati Bengals @ Houston Texans",
+            "betType": "total",
+            "pick": "Over 45.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Wyoming Cowboys vs Central Michigan Chippewas",
+            "betType": "total",
+            "pick": "Under 38.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Wyoming Cowboys 10, Central Michigan Chippewas 24"
+          },
+          {
+            "game": "Florida International Panthers vs Florida Atlantic Owls",
+            "betType": "total",
+            "pick": "Over 62.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Florida International Panthers 10, Florida Atlantic Owls 16"
+          },
+          {
+            "game": "UAB Blazers vs Louisiana Ragin' Cajuns",
+            "betType": "total",
+            "pick": "Under 55.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "UAB Blazers 14, Louisiana Ragin' Cajuns 21"
+          },
+          {
+            "game": "Coastal Carolina Chanticleers vs Delaware Blue Hens",
+            "betType": "spread",
+            "pick": "Delaware Blue Hens -4.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Coastal Carolina Chanticleers 14, Delaware Blue Hens 22"
+          },
+          {
+            "game": "Nevada Wolf Pack vs Middle Tennessee Blue Raiders",
+            "betType": "spread",
+            "pick": "Middle Tennessee Blue Raiders +3.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Nevada Wolf Pack 20, Middle Tennessee Blue Raiders 27"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Philadelphia Union @ Sporting Kansas City",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Union 4, Sporting Kansas City 3"
+          },
+          {
+            "game": "Chicago Fire FC @ Nashville SC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto FC 1, St. Louis CITY SC 3"
+          },
+          {
+            "game": "LA Galaxy @ Minnesota United FC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "LA Galaxy 3, Minnesota United FC 2"
+          },
+          {
+            "game": "Seattle Sounders FC @ Colorado Rapids",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Seattle Sounders FC 3, Colorado Rapids 3"
+          },
+          {
+            "game": "Orlando City SC @ New England Revolution",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Orlando City SC 2, New England Revolution 4"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-18",
     "sports": [
       {
@@ -2887,62 +3043,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Toronto FC 2, Inter Miami CF 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-20",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "St. Louis Cardinals @ Cincinnati Reds",
-            "betType": "total",
-            "pick": "Under 10.5",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "L",
-            "score": "St. Louis Cardinals 10, Cincinnati Reds 9"
-          },
-          {
-            "game": "Athletics @ Kansas City Royals",
-            "betType": "spread",
-            "pick": "Kansas City Royals -1.5",
-            "odds": "+150",
-            "confidence": "high",
-            "result": "W",
-            "score": "Athletics 2, Kansas City Royals 6"
-          },
-          {
-            "game": "Atlanta Braves @ Chicago White Sox",
-            "betType": "spread",
-            "pick": "Chicago White Sox +1.5",
-            "odds": "-188",
-            "confidence": "high",
-            "result": "L",
-            "score": "Atlanta Braves 2, Chicago White Sox 0"
-          },
-          {
-            "game": "New York Yankees @ Baltimore Orioles",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Yankees 6, Baltimore Orioles 1"
-          },
-          {
-            "game": "Washington Nationals @ Texas Rangers",
-            "betType": "spread",
-            "pick": "Washington Nationals +1.5",
-            "odds": "-152",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Washington Nationals 0, Texas Rangers 2"
           }
         ]
       }
