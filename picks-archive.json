@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-09-20",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Seattle Mariners @ Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 10.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Seattle Mariners 2, Colorado Rockies 1"
+          },
+          {
+            "game": "San Francisco Giants @ Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Francisco Giants 1, Los Angeles Dodgers 3"
+          },
+          {
+            "game": "Athletics @ Cleveland Guardians",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Athletics 0, Cleveland Guardians 1"
+          },
+          {
+            "game": "Atlanta Braves @ Houston Astros",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "-134",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Braves 4, Houston Astros 2"
+          },
+          {
+            "game": "Philadelphia Phillies @ New York Mets",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Phillies 7, New York Mets 2"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "New Orleans Saints vs Baltimore Ravens",
+            "betType": "total",
+            "pick": "Under 45.5 (-110)",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New Orleans Saints 24, Baltimore Ravens 17"
+          },
+          {
+            "game": "Philadelphia Eagles vs Tennessee Titans",
+            "betType": "spread",
+            "pick": "Philadelphia Eagles -7 (-118)",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Eagles 24, Tennessee Titans 20"
+          },
+          {
+            "game": "Cleveland Browns vs Tampa Bay Buccaneers",
+            "betType": "total",
+            "pick": "Under 41.5 (-112)",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Browns 23, Tampa Bay Buccaneers 19"
+          },
+          {
+            "game": "Washington Commanders vs Dallas Cowboys",
+            "betType": "total",
+            "pick": "Under 50.5 (+100)",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Commanders 20, Dallas Cowboys 37"
+          },
+          {
+            "game": "Miami Dolphins vs San Francisco 49ers",
+            "betType": "total",
+            "pick": "Over 44.5 (-115)",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Dolphins 13, San Francisco 49ers 35"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "San Diego FC @ Inter Miami CF",
+            "betType": "total",
+            "pick": "Under 4.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego FC 2, Inter Miami CF 2"
+          },
+          {
+            "game": "San Diego FC @ Inter Miami CF",
+            "betType": "total",
+            "pick": "Under 4.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego FC 2, Inter Miami CF 2"
+          },
+          {
+            "game": "San Diego FC @ Inter Miami CF",
+            "betType": "total",
+            "pick": "Under 4.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego FC 2, Inter Miami CF 2"
+          },
+          {
+            "game": "San Diego FC @ Inter Miami CF",
+            "betType": "moneyline",
+            "pick": "Inter Miami CF",
+            "odds": "-225",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Diego FC 2, Inter Miami CF 2"
+          },
+          {
+            "game": "San Diego FC @ Inter Miami CF",
+            "betType": "total",
+            "pick": "Under 4.5",
+            "odds": "-160",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego FC 2, Inter Miami CF 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-19",
     "sports": [
       {
@@ -11,8 +167,8 @@
             "pick": "Under 40.5",
             "odds": "-105",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Seattle Seahawks 31, Arizona Cardinals 7"
           },
           {
             "game": "New Orleans Saints @ Baltimore Ravens",
@@ -20,8 +176,8 @@
             "pick": "Over 46.5",
             "odds": "-102",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "New Orleans Saints 24, Baltimore Ravens 17"
           },
           {
             "game": "Philadelphia Eagles @ Tennessee Titans",
@@ -29,8 +185,8 @@
             "pick": "Cam Ward Under 188.5 Passing Yards",
             "odds": "-114",
             "confidence": "high",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Cam Ward: 183 Passing Yards (line 188.5)"
           },
           {
             "game": "Carolina Panthers @ Atlanta Falcons",
@@ -38,8 +194,8 @@
             "pick": "Carolina Panthers -2.5",
             "odds": "-120",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "W",
+            "score": "Carolina Panthers 34, Atlanta Falcons 3"
           },
           {
             "game": "Cincinnati Bengals @ Houston Texans",
@@ -47,8 +203,8 @@
             "pick": "Over 45.5",
             "odds": "-110",
             "confidence": "medium",
-            "result": "?",
-            "score": ""
+            "result": "L",
+            "score": "Cincinnati Bengals 20, Houston Texans 6"
           }
         ]
       },
@@ -2937,112 +3093,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Philadelphia Union 1, Austin FC 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-21",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "St. Louis Cardinals @ Philadelphia Phillies",
-            "betType": "prop",
-            "pick": "Luis Arraez Over 0.5 RBIs",
-            "odds": "+170",
-            "confidence": "high",
-            "result": "L",
-            "score": "Luis Arraez: 0 RBIs (line 0.5)"
-          },
-          {
-            "game": "Cleveland Guardians @ Colorado Rockies",
-            "betType": "prop",
-            "pick": "Tanner Gordon Over 5.5 Hits Allowed",
-            "odds": "-152",
-            "confidence": "high",
-            "result": "?",
-            "score": "Tanner Gordon: \"Hits Allowed\" not auto-gradeable"
-          },
-          {
-            "game": "Pittsburgh Pirates @ Los Angeles Dodgers",
-            "betType": "total",
-            "pick": "Los Angeles Dodgers Team Total Under 4.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "?",
-            "score": "Pittsburgh Pirates 4, Los Angeles Dodgers 5"
-          },
-          {
-            "game": "Athletics @ Houston Astros",
-            "betType": "total",
-            "pick": "Athletics Team Total Under 3.5",
-            "odds": "-130",
-            "confidence": "medium",
-            "result": "?",
-            "score": "Athletics 0, Houston Astros 4"
-          },
-          {
-            "game": "Minnesota Twins @ San Diego Padres",
-            "betType": "total",
-            "pick": "Over 8",
-            "odds": "-122",
-            "confidence": "medium",
-            "result": "P",
-            "score": "Minnesota Twins 2, San Diego Padres 6"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "LA Galaxy @ CF Montreal",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-185",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "D.C. United @ Charlotte FC",
-            "betType": "moneyline",
-            "pick": "Charlotte FC",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "W",
-            "score": "D.C. United 1, Charlotte FC 3"
-          },
-          {
-            "game": "Chicago Fire @ New York Red Bulls",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Seattle Sounders FC @ FC Cincinnati",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Seattle Sounders FC 1, FC Cincinnati 1"
-          },
-          {
-            "game": "Toronto FC @ Inter Miami CF",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-150",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Toronto FC 2, Inter Miami CF 1"
           }
         ]
       }

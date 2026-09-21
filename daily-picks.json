@@ -1,133 +1,133 @@
 {
-  "date": "2026-09-20",
-  "generatedAt": "2026-09-20T13:33:09.108Z",
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T15:51:18.140Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Seattle Mariners @ Colorado Rockies",
+          "game": "Toronto Blue Jays vs Baltimore Orioles",
           "betType": "total",
-          "pick": "Over 10.5",
+          "pick": "Under 7.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Baltimore Orioles' offense is in a severe slump, failing to score a single run in their last three games and with key hitter Pete Alonso batting just .130 over his last six outings. The Toronto Blue Jays' offense has also shown inconsistency, scoring two runs or fewer in three of their last five games. Both bullpens have posted respectable recent ERAs, with the Blue Jays at 3.83 and the Orioles at 3.76 over their last 10 games, suggesting they can keep runs off the board in later innings. Blue Jays starter Trey Yesavage boasts a 3.65 ERA and a low .185 opponent batting average, further supporting a low-scoring affair.",
+          "awayRecord": "77-79",
+          "homeRecord": "75-81",
+          "startTime": "2026-09-21T22:35Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Washington Nationals vs Detroit Tigers",
+          "betType": "total",
+          "pick": "Under 8.5",
+          "odds": "-124",
+          "confidence": "high",
+          "rationale": "Both starting pitchers, DJ Herz and River Ryan, are making their season debuts following significant injury layoffs, which strongly indicates they will have limited workloads and short outings. This scenario will lead to early bullpen usage, and the Detroit Tigers' bullpen has been excellent recently, boasting a 2.88 xERA over its last 32 innings while effectively limiting home runs. While Detroit's offense is currently hot, the Washington Nationals' offense has been cold, posting an 83 wRC+ over the last week. The combined effect of short starts and a strong Tigers bullpen points to the Under being a favorable play.",
+          "awayRecord": "73-83",
+          "homeRecord": "73-83",
+          "startTime": "2026-09-21T22:40Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Minnesota Twins vs San Francisco Giants",
+          "betType": "moneyline",
+          "pick": "San Francisco Giants (+106)",
+          "odds": "+106",
+          "confidence": "medium",
+          "rationale": "Despite the Minnesota Twins' recent 3-0 head-to-head record against the Giants and their slightly better recent form, there is significant reverse line movement on the moneyline. The line has shifted towards the Giants even though the public is heavily backing the Twins, often indicating sharp money coming in on the less popular side. The Giants are playing at home in Oracle Park, which is generally a pitcher-friendly venue, potentially giving them an edge in a close contest. This market signal suggests the Giants are currently undervalued at home.",
+          "awayRecord": "73-83",
+          "homeRecord": "64-92",
+          "startTime": "2026-09-22T01:45Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Minnesota Twins vs San Francisco Giants",
+          "betType": "total",
+          "pick": "Under 8.5",
           "odds": "-122",
-          "confidence": "high",
-          "rationale": "Coors Field is consistently ranked as the most hitter-friendly ballpark in MLB, with its high altitude causing balls to travel farther and boosting offensive production significantly. Despite both teams having losing records (Mariners 72-83, Rockies 57-98), the unique environment often leads to inflated run totals. Recent head-to-head history shows the Seattle Mariners winning 5 of their last 5 against the Rockies, including a 6-2 victory on September 26, 2025, suggesting they can score against Colorado pitching. This combination of a hitter-friendly park and historical scoring potential makes the Over 10.5 a strong pick.",
-          "awayRecord": "72-83",
-          "homeRecord": "57-98",
-          "startTime": "2026-09-20T19:10Z",
+          "confidence": "medium",
+          "rationale": "Oracle Park is known to be a pitcher-friendly venue, which inherently suppresses overall scoring, despite Twins starter Zebby Matthews having allowed 23 home runs this season. The San Francisco Giants' offense has been particularly anemic recently, scoring only seven total runs over their last three games and batting just .246 in their last ten. Furthermore, a reputable model gives the Under 8.5 a 51.7% chance of hitting, and the line has held firm on the Under despite heavy public betting on the Over, indicating sharp money might be on the Under.",
+          "awayRecord": "73-83",
+          "homeRecord": "64-92",
+          "startTime": "2026-09-22T01:45Z",
           "awayLast5": [
-            "L",
+            "W",
             "L",
             "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
             "W",
+            "W",
             "L",
             "L",
-            "L",
-            "W"
+            "L"
           ]
         },
         {
-          "game": "San Francisco Giants @ Los Angeles Dodgers",
+          "game": "Toronto Blue Jays vs Baltimore Orioles",
           "betType": "spread",
-          "pick": "Los Angeles Dodgers -1.5",
-          "odds": "-125",
-          "confidence": "high",
-          "rationale": "The Los Angeles Dodgers (95-60) are a dominant force, having already clinched the NL West title on September 17 and entering this game as two-time defending National League and World Series champions. They consistently outperform opponents, especially at home, against weaker teams. The San Francisco Giants (64-91) are significantly underperforming, and their roster has been impacted by injuries, including Logan Webb (season-ending) and Bryce Eldridge (scratched from lineup). The Dodgers hold a 21-12 head-to-head record against the Giants in the last three seasons, indicating their consistent superiority, making them a high-confidence pick to cover the -1.5 spread.",
-          "awayRecord": "64-91",
-          "homeRecord": "95-60",
-          "startTime": "2026-09-20T20:10Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Athletics @ Cleveland Guardians",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "+114",
+          "pick": "Toronto Blue Jays -1.5",
+          "odds": "+164",
           "confidence": "medium",
-          "rationale": "The Athletics (61-94) possess one of the worst records in MLB, indicative of a struggling offense that consistently fails to generate runs. The Cleveland Guardians (80-75) are a playoff contender known for strong pitching and defense, which typically leads to lower-scoring games. While the Athletics' home park factors show it as hitter-friendly, this game is on the road in Cleveland, where the Guardians' pitching should be able to suppress runs. The head-to-head history shows Cleveland with a 12-4 record against the Athletics in the last three seasons, suggesting their ability to control the game. With the Athletics' anemic offense, the Under 6.5 at plus money offers significant value.",
-          "awayRecord": "61-94",
-          "homeRecord": "80-75",
-          "startTime": "2026-09-20T17:40Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Atlanta Braves @ Houston Astros",
-          "betType": "total",
-          "pick": "Over 7.5",
-          "odds": "-134",
-          "confidence": "medium",
-          "rationale": "The Atlanta Braves (91-64) boast one of the most potent offenses in baseball, a key factor in their 91 wins and playoff berth clinched on September 18. The Houston Astros (77-78) are a competitive team fighting for a playoff spot and possess enough offensive talent to contribute to a higher-scoring game, especially at home. Both teams have the offensive firepower to push this total Over 7.5, particularly if the starting pitching is not dominant or if bullpens are utilized heavily. The Braves' consistent ability to put up runs makes the Over a strong play in what should be a motivated matchup.",
-          "awayRecord": "91-64",
-          "homeRecord": "77-78",
-          "startTime": "2026-09-20T18:10Z",
+          "rationale": "The Baltimore Orioles are in a significant slump at home, having lost nine of their last eleven games at Camden Yards, and their offense has been completely shut down recently, failing to score in their last three outings. Blue Jays starter Trey Yesavage, despite returning from a layoff, holds a strong season ERA of 3.65 and a low opponent batting average of .185. Conversely, Orioles starter Shane Baz has consistently given up at least one earned run in all his appearances, creating an opportunity for the Blue Jays to build a lead against a struggling offense. The Blue Jays also lead the season series 6-4 against the Orioles.",
+          "awayRecord": "77-79",
+          "homeRecord": "75-81",
+          "startTime": "2026-09-21T22:35Z",
           "awayLast5": [
             "L",
             "W",
             "L",
-            "W",
+            "L",
             "W"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
+            "L",
             "L",
             "L"
-          ]
-        },
-        {
-          "game": "Philadelphia Phillies @ New York Mets",
-          "betType": "total",
-          "pick": "Over 7.5",
-          "odds": "-114",
-          "confidence": "medium",
-          "rationale": "The Philadelphia Phillies (85-70) are a strong playoff contender with a powerful lineup capable of explosive scoring, which is crucial for hitting the Over. The New York Mets (71-84), despite their disappointing season and elimination from playoff contention on September 14, still have offensive talent and often play competitive games at home. The Mets have several key players on the IL, including Kodai Senga, Jorge Polanco, Francisco Lindor, and Luis Robert Jr., which could strain their pitching depth and lead to more runs. With the Phillies aiming to solidify their playoff seeding and the Mets potentially having pitching vulnerabilities, this game has the potential for both teams to combine for more than 7.5 runs.",
-          "awayRecord": "85-70",
-          "homeRecord": "71-84",
-          "startTime": "2026-09-20T17:10Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "W"
           ]
         }
       ]
@@ -136,32 +136,15 @@
       "sport": "NFL",
       "picks": [
         {
-          "game": "New Orleans Saints vs Baltimore Ravens",
+          "game": "New York Giants vs Los Angeles Rams",
           "betType": "total",
-          "pick": "Under 45.5 (-110)",
+          "pick": "Under 47.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The New Orleans Saints are facing significant offensive challenges, with wide receiver Chris Olave listed as questionable with a hamstring injury, though expected to play, and key defensive end Chase Young also questionable with a calf injury. The Baltimore Ravens' defense looked strong in their Week 1 victory, holding the Colts to just 251 yards of offense. Furthermore, Ravens wide receiver Zay Flowers has been ruled out with a hamstring injury, which will impact their offensive firepower. Head-to-head history shows the Ravens have dominated the series with a 6-2 all-time record, including a 27-13 win in their last meeting, suggesting a controlled game environment. These factors point towards a lower-scoring affair, making the Under a strong play.",
-          "awayRecord": "0-1",
-          "homeRecord": "1-0",
-          "startTime": "2026-09-20T17:00Z",
-          "awayLast5": [
-            "L"
-          ],
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia Eagles vs Tennessee Titans",
-          "betType": "spread",
-          "pick": "Philadelphia Eagles -7 (-118)",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "The Philadelphia Eagles are coming off a dominant offensive performance in Week 1, while the Tennessee Titans struggled to move the ball in their opener. The Eagles have a strong historical advantage, leading the all-time series 8-5, and won their last matchup 35-10. The line movement from an assumed opening of Eagles -5 to the current Eagles -7 suggests sharp money is backing Philadelphia to cover this spread. Despite the Titans being at home, the Eagles' superior form and historical dominance in this matchup make them a confident pick to win by more than a touchdown.",
+          "rationale": "Sharp money has driven the total down from an opening of 48.5 to 47.5, despite a majority of public tickets on the Over, indicating professional action on the Under. Rams coach Sean McVay's teams are 6-0 on the Under when coming off a game where they scored 9 or fewer points, as they did in Week 1 with just 7 points. Furthermore, the Under is 38-21-2 when the Rams are home favorites under McVay and 9-5 in their Monday Night Football appearances. The Giants' run-heavy offense in Week 1, which controlled the clock for over 36 minutes, also supports a lower-scoring affair.",
           "awayRecord": "1-0",
           "homeRecord": "0-1",
-          "startTime": "2026-09-20T17:00Z",
+          "startTime": "2026-09-22T00:15Z",
           "awayLast5": [
             "W"
           ],
@@ -170,115 +153,72 @@
           ]
         },
         {
-          "game": "Cleveland Browns vs Tampa Bay Buccaneers",
-          "betType": "total",
-          "pick": "Under 41.5 (-112)",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "Both the Cleveland Browns and Tampa Bay Buccaneers are coming off Week 1 losses where their offenses struggled, with the Browns' offense looking stagnant and the Buccaneers losing 33-27. The Browns will be without offensive lineman Teven Jenkins due to a back injury, which could further hinder their offensive production. For the Buccaneers, wide receiver Jalen McMillan is questionable with a knee injury, potentially limiting their passing game. Given these offensive struggles and key injuries, a defensive battle is anticipated, favoring the Under.",
-          "awayRecord": "0-1",
+          "game": "New York Giants vs Los Angeles Rams",
+          "betType": "spread",
+          "pick": "New York Giants +6.5",
+          "odds": "-105",
+          "confidence": "high",
+          "rationale": "The spread has notably shifted in favor of the Giants, moving from an opening of -7 or -7.5 to the current -6.5, suggesting significant betting interest on New York. The Giants showcased a dynamic offense and secured a convincing win against Dallas in Week 1, with rookie QB Jaxson Dart throwing for 230 yards and 3 TDs, and RB Cam Skattebo adding 81 rushing yards. Conversely, the Rams are coming off a humiliating 27-7 loss in Australia and will be without key pass rusher Myles Garrett due to injury, which weakens their defensive front.",
+          "awayRecord": "1-0",
           "homeRecord": "0-1",
-          "startTime": "2026-09-20T17:00Z",
+          "startTime": "2026-09-22T00:15Z",
           "awayLast5": [
-            "L"
-          ],
-          "homeLast5": [
-            "L"
-          ]
-        },
-        {
-          "game": "Washington Commanders vs Dallas Cowboys",
-          "betType": "total",
-          "pick": "Under 50.5 (+100)",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "This NFC East divisional matchup features two teams that started 0-1 and struggled offensively in Week 1. The Dallas Cowboys have historically dominated this rivalry, leading the all-time series 81-49-2, which often leads to more conservative, grind-it-out games. While specific injury reports for the Cowboys' starting WR are not detailed in the provided search results, the general trend of low-scoring divisional games, especially early in the season when teams are finding their rhythm, supports the Under. Both teams will likely prioritize defense and ball control in a crucial bounce-back game.",
-          "awayRecord": "0-1",
-          "homeRecord": "0-1",
-          "startTime": "2026-09-20T20:25Z",
-          "awayLast5": [
-            "L"
-          ],
-          "homeLast5": [
-            "L"
-          ]
-        },
-        {
-          "game": "Miami Dolphins vs San Francisco 49ers",
-          "betType": "total",
-          "pick": "Over 44.5 (-115)",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "The San Francisco 49ers are coming off a dominant Week 1 victory, showcasing a potent offense that racked up 41 points in their preseason game against the Chargers. The Miami Dolphins, despite their 0-1 start, have a high-powered offense capable of putting up points, and their starting CB being 'out' could lead to more passing attempts and a higher-scoring affair. Head-to-head history shows the total has gone over in their last two matchups. With the 49ers' strong offensive form and the Dolphins' potential to keep pace, this game is set up for a higher-scoring outcome.",
-          "awayRecord": "0-1",
-          "homeRecord": "1-0",
-          "startTime": "2026-09-20T20:25Z",
-          "awayLast5": [
-            "L"
-          ],
-          "homeLast5": [
             "W"
+          ],
+          "homeLast5": [
+            "L"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "San Diego FC @ Inter Miami CF",
-          "betType": "total",
-          "pick": "Under 4.5",
-          "odds": "-160",
-          "confidence": "high",
-          "rationale": "San Diego FC will be without their leading goal scorer, Marcus Ingvartsen, due to a muscular injury, which significantly weakens their offensive threat. While Inter Miami possesses strong attacking players, they are coming off a midweek Campeones Cup match, potentially leading to some fatigue. The line movement for the total also shows a shift towards the Under 4.5, moving from -154 to -160, indicating sharp money on this side.",
-          "awayRecord": "8-6-11",
-          "homeRecord": "12-9-4",
-          "startTime": "2026-09-20T23:00Z"
         },
         {
-          "game": "San Diego FC @ Inter Miami CF",
-          "betType": "total",
-          "pick": "Under 4.5",
-          "odds": "-160",
+          "game": "New York Giants vs Los Angeles Rams",
+          "betType": "prop",
+          "pick": "Kyren Williams Over 12.5 Rushing Attempts",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "Inter Miami's recent league games, excluding the 7-1 outlier, have seen total goals of 4, 2, 4, and 3, averaging below the 4.5 line. San Diego's last five league matches, despite a 5-0 loss, also include a 0-1 and 2-3 result, and their top scorer's absence will further depress their goal-scoring potential. The combined average goals per game for both teams this season also falls below the 4.5 total, reinforcing the Under.",
-          "awayRecord": "8-6-11",
-          "homeRecord": "12-9-4",
-          "startTime": "2026-09-20T23:00Z"
+          "rationale": "Expert analysis and projections indicate Kyren Williams is expected to exceed 12.5 rushing attempts, with some models forecasting around 14.60 carries for the game. Despite Blake Corum's 10 carries in Week 1, Williams is projected to be the primary back, often receiving 15-20 touches per game. The Rams' offensive strategy in Week 1 heavily featured 3-TE sets, signaling a commitment to the run game as they look to rebound from their season-opening loss.",
+          "awayRecord": "1-0",
+          "homeRecord": "0-1",
+          "startTime": "2026-09-22T00:15Z",
+          "awayLast5": [
+            "W"
+          ],
+          "homeLast5": [
+            "L"
+          ]
         },
         {
-          "game": "San Diego FC @ Inter Miami CF",
-          "betType": "total",
-          "pick": "Under 4.5",
-          "odds": "-160",
-          "confidence": "high",
-          "rationale": "San Diego FC's overall form is poor, with 8 wins, 6 draws, and 11 losses, placing them 19th in the MLS table. Their away form is particularly weak, with only 2 wins, 3 draws, and 6 losses, suggesting they will struggle to contribute to a high-scoring affair against a strong home side. The significant injury to Marcus Ingvartsen further reduces their chances of finding the net multiple times.",
-          "awayRecord": "8-6-11",
-          "homeRecord": "12-9-4",
-          "startTime": "2026-09-20T23:00Z"
-        },
-        {
-          "game": "San Diego FC @ Inter Miami CF",
-          "betType": "moneyline",
-          "pick": "Inter Miami CF",
-          "odds": "-225",
+          "game": "New York Giants vs Los Angeles Rams",
+          "betType": "prop",
+          "pick": "Isaiah Likely Over 45.5 Receiving Yards",
+          "odds": null,
           "confidence": "medium",
-          "rationale": "Inter Miami CF is the superior team, currently 2nd in the Eastern Conference with a 12-9-4 record, and playing at home where they have a strong record. They are in excellent form, boasting a four-match unbeaten streak in the league and a recent Campeones Cup victory, boosting team morale. San Diego FC is struggling with a three-game losing streak, including a heavy 5-0 defeat, and will be missing their key offensive player, Marcus Ingvartsen. This combination of factors strongly favors an Inter Miami victory.",
-          "awayRecord": "8-6-11",
-          "homeRecord": "12-9-4",
-          "startTime": "2026-09-20T23:00Z"
+          "rationale": "Giants tight end Isaiah Likely had a breakout performance in Week 1, recording 8 receptions for 78 yards and two touchdowns, establishing himself as a key target in the new offense. His increased role under new coach John Harbaugh suggests his receiving yards prop has not fully adjusted to his new usage. With the Rams missing key pass rusher Myles Garrett, quarterback Jaxson Dart may have more time in the pocket to find Likely, especially in an indoor environment and a potential trailing game script.",
+          "awayRecord": "1-0",
+          "homeRecord": "0-1",
+          "startTime": "2026-09-22T00:15Z",
+          "awayLast5": [
+            "W"
+          ],
+          "homeLast5": [
+            "L"
+          ]
         },
         {
-          "game": "San Diego FC @ Inter Miami CF",
-          "betType": "total",
-          "pick": "Under 4.5",
-          "odds": "-160",
+          "game": "New York Giants vs Los Angeles Rams",
+          "betType": "prop",
+          "pick": "Jaxson Dart Over 30.0 Rushing Yards",
+          "odds": null,
           "confidence": "medium",
-          "rationale": "Inter Miami, despite their offensive talent, has drawn their last three league matches, indicating a potential for tighter games even when scoring. San Diego's overall goal differential is even (42 scored, 42 conceded), suggesting they aren't consistently involved in extremely high-scoring games, especially without their top scorer. The combination of San Diego's key injury and Miami's recent draws points towards a game that is less likely to exceed the high 4.5 total.",
-          "awayRecord": "8-6-11",
-          "homeRecord": "12-9-4",
-          "startTime": "2026-09-20T23:00Z"
+          "rationale": "Rookie quarterback Jaxson Dart showcased his mobility in Week 1, accumulating 54 rushing yards in addition to his passing production. He is noted for his ability to scramble and execute designed runs effectively, making his rushing yards a consistent factor in the Giants' offense. The absence of Rams' defensive end Myles Garrett could provide Dart with slightly more time and space to extend plays and gain yards on the ground.",
+          "awayRecord": "1-0",
+          "homeRecord": "0-1",
+          "startTime": "2026-09-22T00:15Z",
+          "awayLast5": [
+            "W"
+          ],
+          "homeLast5": [
+            "L"
+          ]
         }
       ]
     }
