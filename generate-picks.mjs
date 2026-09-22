@@ -167,7 +167,22 @@ async function fetchEspnGames(sport, dateStr) {
     );
     if (!res.ok) return [];
     const data = await res.json();
-    return (data.events ?? []).map(event => {
+    return (data.events ?? []).filter(event => {
+      // Only games that have not started. A pick on a game already in progress
+      // or final is unbettable, and feeding them to the model poisons the whole
+      // slate: asked to find an edge in a list of finished games it reasonably
+      // returns nothing, and one late run empties the entire board.
+      //
+      // Cron normally fires well before first pitch so this changes nothing on
+      // a normal day. It matters for late or manual runs, and it is why a
+      // 23:20 UTC run on 2026-09-22 produced zero picks from a 15-game slate.
+      const state = event.status?.type?.state;
+      if (state && state !== 'pre') return false;
+      // Postponed games keep state 'pre' on some feeds — drop them explicitly.
+      if (event.status?.type?.description === 'Postponed') return false;
+      const kickoff = Date.parse(event.date ?? '');
+      return Number.isNaN(kickoff) ? true : kickoff > Date.now();
+    }).map(event => {
       const comps = event.competitions?.[0]?.competitors ?? [];
       const away = comps.find(c => c.homeAway === 'away');
       const home = comps.find(c => c.homeAway === 'home');
@@ -309,6 +324,13 @@ async function buildContext(sport, dateStr) {
 // Robustly pull the {"picks":[...]} object out of Gemini's text, even when the
 // thinking model leaks a reasoning preamble before/around the JSON.
 function tryParsePicks(raw) {
+  // Gemini sometimes emits a literal `tool_code print(google_search.search(...))`
+  // block — the model writing out a search call as text rather than performing
+  // it. There is no JSON anywhere in that response, and the substring scan below
+  // can still find braces inside the query strings and parse something
+  // meaningless. Reject it outright so the attempt is retried.
+  if (/^\s*tool_code\b/i.test(raw)) return null;
+
   // 1. Direct parse (clean JSON or already-stripped fences)
   try { const p = JSON.parse(raw); if (p && Array.isArray(p.picks)) return p; } catch { }
   // 2. Extract the substring from the first "{" to the last "}" and parse that
@@ -420,8 +442,26 @@ If ${sport} has no games today, return {"picks": []}.`;
     const raw = rawText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim();
     console.log(`  Attempt ${attempt}/${MAX_ATTEMPTS} — Search sources: ${sources} | Raw (first 300): ${raw.slice(0, 300)}`);
 
-    parsed = tryParsePicks(raw);
-    if (parsed) break;
+    const candidate = tryParsePicks(raw);
+
+    // An empty array is a failed attempt, not an answer.
+    //
+    // On 2026-09-22 attempt 1 returned literal `tool_code print(google_search…)`
+    // text — the model narrating a search instead of running one — and attempt 2
+    // then returned {"picks":[]}, which the loop accepted and stopped on. The
+    // board published empty. The empty array is a symptom of the same confusion
+    // as the botched attempt before it, not a considered "no good bets today":
+    // there were 16 MLB games with odds on the slate.
+    //
+    // Retrying costs another Gemini call and no Odds API quota. If every attempt
+    // comes back empty we accept it, so a genuinely thin slate still works.
+    if (candidate && (candidate.picks?.length ?? 0) === 0 && attempt < MAX_ATTEMPTS) {
+      console.error(`  Empty picks array for ${sport} (attempt ${attempt}/${MAX_ATTEMPTS}) — retrying`);
+      parsed = candidate;
+      continue;
+    }
+
+    if (candidate) { parsed = candidate; break; }
     console.error(`  Failed to parse picks JSON for ${sport} (attempt ${attempt}/${MAX_ATTEMPTS})`);
   }
 
