@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-09-21",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Toronto Blue Jays vs Baltimore Orioles",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto Blue Jays 3, Baltimore Orioles 4"
+          },
+          {
+            "game": "Washington Nationals vs Detroit Tigers",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-124",
+            "confidence": "high",
+            "result": "L",
+            "score": "Washington Nationals 2, Detroit Tigers 9"
+          },
+          {
+            "game": "Minnesota Twins vs San Francisco Giants",
+            "betType": "moneyline",
+            "pick": "San Francisco Giants (+106)",
+            "odds": "+106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Twins 2, San Francisco Giants 5"
+          },
+          {
+            "game": "Minnesota Twins vs San Francisco Giants",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Twins 2, San Francisco Giants 5"
+          },
+          {
+            "game": "Toronto Blue Jays vs Baltimore Orioles",
+            "betType": "spread",
+            "pick": "Toronto Blue Jays -1.5",
+            "odds": "+164",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Toronto Blue Jays 3, Baltimore Orioles 4"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "New York Giants vs Los Angeles Rams",
+            "betType": "total",
+            "pick": "Under 47.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Giants 6, Los Angeles Rams 28"
+          },
+          {
+            "game": "New York Giants vs Los Angeles Rams",
+            "betType": "spread",
+            "pick": "New York Giants +6.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Giants 6, Los Angeles Rams 28"
+          },
+          {
+            "game": "New York Giants vs Los Angeles Rams",
+            "betType": "prop",
+            "pick": "Kyren Williams Over 12.5 Rushing Attempts",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Kyren Williams: 12 Rushing Attempts (line 12.5)"
+          },
+          {
+            "game": "New York Giants vs Los Angeles Rams",
+            "betType": "prop",
+            "pick": "Isaiah Likely Over 45.5 Receiving Yards",
+            "odds": null,
+            "confidence": "medium",
+            "result": "L",
+            "score": "Isaiah Likely: 33 Receiving Yards (line 45.5)"
+          },
+          {
+            "game": "New York Giants vs Los Angeles Rams",
+            "betType": "prop",
+            "pick": "Jaxson Dart Over 30.0 Rushing Yards",
+            "odds": null,
+            "confidence": "medium",
+            "result": "?",
+            "score": "Jaxson Dart: not found in box score"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-20",
     "sports": [
       {
@@ -2987,112 +3093,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "New York City FC 1, New England Revolution 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-22",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Cincinnati Reds @ Arizona Diamondbacks",
-            "betType": "moneyline",
-            "pick": "Arizona Diamondbacks",
-            "odds": "-165",
-            "confidence": "high",
-            "result": "L",
-            "score": "Cincinnati Reds 11, Arizona Diamondbacks 5"
-          },
-          {
-            "game": "San Francisco Giants @ Boston Red Sox",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox",
-            "odds": "-205",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Francisco Giants 2, Boston Red Sox 3"
-          },
-          {
-            "game": "Toronto Blue Jays @ New York Yankees",
-            "betType": "moneyline",
-            "pick": "New York Yankees",
-            "odds": "-104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Toronto Blue Jays 4, New York Yankees 3"
-          },
-          {
-            "game": "Cleveland Guardians @ Colorado Rockies",
-            "betType": "spread",
-            "pick": "Cleveland Guardians -1.5",
-            "odds": "+106",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Cleveland Guardians 4, Colorado Rockies 3"
-          },
-          {
-            "game": "Tampa Bay Rays @ Baltimore Orioles",
-            "betType": "total",
-            "pick": "Over 8",
-            "odds": "-106",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Tampa Bay Rays 2, Baltimore Orioles 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Seattle Sounders FC @ FC Cincinnati",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Seattle Sounders FC 1, FC Cincinnati 1"
-          },
-          {
-            "game": "Toronto FC @ Inter Miami CF",
-            "betType": "total",
-            "pick": "Over 4.5",
-            "odds": "+120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Toronto FC 2, Inter Miami CF 1"
-          },
-          {
-            "game": "Houston Dynamo FC @ St. Louis CITY SC",
-            "betType": "moneyline",
-            "pick": "Houston Dynamo FC",
-            "odds": "+220",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Houston Dynamo FC 1, St. Louis CITY SC 2"
-          },
-          {
-            "game": "Colorado Rapids @ San Diego FC",
-            "betType": "moneyline",
-            "pick": "San Diego FC",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Colorado Rapids 0, San Diego FC 3"
-          },
-          {
-            "game": "Philadelphia Union @ Austin FC",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-175",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Philadelphia Union 1, Austin FC 1"
           }
         ]
       }
