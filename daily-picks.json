@@ -1,17 +1,134 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T14:11:45.225Z",
+  "generatedAt": "2026-09-23T22:09:28.630Z",
   "sports": [
     {
-      "sport": "NCAAF",
+      "sport": "MLB",
       "picks": [
         {
-          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
+          "game": "Miami Marlins vs Chicago Cubs",
           "betType": "total",
-          "pick": "Over 50.5",
+          "pick": "Over 6.5",
+          "odds": "-122",
+          "confidence": "high",
+          "rationale": "Both starting pitchers, Ryan Gusto (4.14 ERA, 1.44 WHIP) for the Marlins and Kevin Gausman (4.55 ERA) for the Cubs, have demonstrated vulnerability this season, with Gausman being particularly prone to home runs. Gusto typically has short outings, which will expose a Marlins bullpen that used nine arms in yesterday's game. All four previous head-to-head matchups this season between these two teams have exceeded a total of 6.5 runs, including an 8-2 game yesterday. The line movement on the total has also shifted towards the Over, indicating sharp money.",
+          "awayRecord": "77-80",
+          "homeRecord": "87-70",
+          "startTime": "2026-09-23T23:40Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Chicago White Sox vs Kansas City Royals",
+          "betType": "total",
+          "pick": "Over 8.5",
           "odds": "-115",
           "confidence": "medium",
-          "rationale": "Both Liberty and Coastal Carolina have demonstrated offensive capabilities this season, with Liberty scoring 51 points in their last game and Coastal Carolina averaging 27.7 points per contest. The Chanticleers have a strong historical trend of hitting the Over in games with totals set at 50 or more, doing so in 10 of their last 13 such matchups. While both teams have a 1-2 O/U record this season, their average combined scores of 51.8 for Liberty games and 55.2 for Coastal Carolina games both exceed the current 50.5 total. With no significant injuries reported for either side, expect both offenses to contribute to a higher-scoring affair."
+          "rationale": "The Chicago White Sox offense was explosive yesterday, scoring 14 runs against the Royals in a 14-11 victory. Royals starter Seth Lugo has been struggling, allowing at least five hits in each of his last 10 starts. The Kansas City bullpen is reportedly thin and potentially fatigued after Tuesday's high-scoring affair. The White Sox are highly motivated, as they are actively fighting for a playoff spot, while the Royals are out of contention. The line movement for this game's total is also trending towards the Over.",
+          "awayRecord": "81-76",
+          "homeRecord": "67-90",
+          "startTime": "2026-09-23T23:40Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Cleveland Guardians vs Boston Red Sox",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "Boston's Sonny Gray is a strong pitcher with a 2.82 ERA, and he has been particularly effective against teams with low on-base percentages, like the Guardians. The Red Sox offense has been struggling significantly, averaging only 2.82 runs per game over their last 11 contests. Both bullpens are among the best in the league, with Boston ranking first (3.09 ERA) and Cleveland third (3.55 ERA). Additionally, cold weather conditions are expected, which typically suppresses offensive production. The previous game between these two teams was a low-scoring 3-2 affair.",
+          "awayRecord": "82-75",
+          "homeRecord": "84-73",
+          "startTime": "2026-09-23T23:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Cincinnati Reds vs Atlanta Braves",
+          "betType": "spread",
+          "pick": "Atlanta Braves -1.5",
+          "odds": "+114",
+          "confidence": "medium",
+          "rationale": "Atlanta's Chris Sale is a dominant pitcher with a 2.18 ERA and is exceptionally well-rested, having not pitched in 12 days. In contrast, Cincinnati's Andrew Abbott has struggled significantly this season, posting a 4.70 ERA and 1.47 WHIP, along with persistent command issues. The Braves offense is potent, and superstar Ronald Acuna Jr. is currently in excellent form. With the Braves motivated to secure playoff positioning and the Reds eliminated, the substantial pitching mismatch strongly favors a multi-run victory for Atlanta.",
+          "awayRecord": "73-84",
+          "homeRecord": "92-65",
+          "startTime": "2026-09-23T23:15Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Arizona Diamondbacks vs Colorado Rockies",
+          "betType": "total",
+          "pick": "Over 10.5",
+          "odds": "+104",
+          "confidence": "medium",
+          "rationale": "This game is being played at Coors Field, which is notoriously a high-scoring environment. Both starting pitchers, Merrill Kelly (5.00 ERA, 1.47 WHIP) for Arizona and Mason Adams (5.09 ERA, 1.65 WHIP) for Colorado, have high ERAs and WHIPs, indicating a propensity to give up runs. Kelly previously surrendered six earned runs in just five innings against the Rockies this season. The Rockies' bullpen is ranked last in MLB, which will likely be exposed in a high-scoring game. The Diamondbacks offense is motivated as they are fighting for a playoff spot.",
+          "awayRecord": "83-74",
+          "homeRecord": "57-100",
+          "startTime": "2026-09-24T00:40Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
         }
       ]
     },
@@ -22,9 +139,9 @@
           "game": "Real Salt Lake @ Seattle Sounders FC",
           "betType": "total",
           "pick": "Under 3.5",
-          "odds": "-185",
+          "odds": "-175",
           "confidence": "high",
-          "rationale": "Both Real Salt Lake and Seattle Sounders FC are significantly impacted by key attacking injuries, with RSL missing playmaker Diego Luna for an extended period and Seattle without prominent goal scorers like Dejan Joveljić and Jesús Ferreira. Historically, only 11% of their 44 head-to-head matchups have seen more than 3.5 goals, indicating a strong trend towards lower-scoring contests. Real Salt Lake's recent offensive output is particularly weak, averaging just 0.6 goals in their last five matches. The market also heavily favors the Under 3.5, with odds at -185, reflecting expectations of a tight, low-scoring affair.",
+          "rationale": "Real Salt Lake is severely depleted by injuries and international call-ups, notably missing key playmaker Diego Luna, which is expected to hinder their offensive output significantly. Seattle's recent form, while winless in 13 matches, has seen them draw their last five games, and their overall goal-scoring average is 1.1 goals per game this season. Head-to-head history between these two teams strongly suggests a low-scoring affair, with only 11% of their 44 previous meetings exceeding 3.5 goals, and an average of just 2.0 goals in their last five H2H matchups. Given RSL's offensive struggles and the historical H2H trends, it is highly improbable that this game will reach four goals.",
           "awayRecord": "8-5-12",
           "homeRecord": "7-8-9",
           "startTime": "2026-09-24T01:30Z"
@@ -33,9 +150,9 @@
           "game": "Real Salt Lake @ Seattle Sounders FC",
           "betType": "moneyline",
           "pick": "Seattle Sounders FC",
-          "odds": "-130",
+          "odds": "-135",
           "confidence": "high",
-          "rationale": "Seattle Sounders FC holds a notable home advantage in this fixture, having remained unbeaten in their last three home encounters against Real Salt Lake, securing two wins and one draw. Real Salt Lake arrives in poor form, currently enduring a 12-game overall winless streak in MLS and an 11-game road winless streak across all competitions. Despite Seattle's own 13-match winless run, many of these have been draws, and their strong historical performance at home against RSL provides a significant edge. Furthermore, predictive models suggest Seattle has a 53.1% chance of winning this match.",
+          "rationale": "Real Salt Lake is in abysmal form, currently on a 12-match winless skid in MLS play and having lost six of their last seven league games. RSL is heavily impacted by injuries and international duty, with six key players listed as OUT, including playmaker Diego Luna, significantly weakening their squad. Seattle, despite their own 13-match winless run, has managed to draw their last five games, indicating a more resilient, albeit not winning, form compared to RSL's consistent losses. Seattle holds a home advantage at Lumen Field and has been unbeaten in their last three home meetings against Real Salt Lake, securing two wins and one draw. The line movement has shifted in favor of Seattle, from an opening of 1.95 to a current 1.75 (-133), suggesting sharp money is backing the Sounders to secure a victory against a struggling RSL side.",
           "awayRecord": "8-5-12",
           "homeRecord": "7-8-9",
           "startTime": "2026-09-24T01:30Z"

@@ -290,7 +290,18 @@ async function buildContext(sport, dateStr) {
   ]);
 
   const hasOdds = Object.keys(oddsMap).length > 0;
-  if (games.length === 0 && !hasOdds) return { hasGames: false, structuredContext: '', games: [], verifiedLines: true };
+
+  // ESPN is the authority on what is actually on today's slate. The Odds API
+  // returns a lookahead window, so it lists fixtures that are days away — on
+  // 2026-09-23 it offered a Thursday NCAAF game while ESPN had no college
+  // football at all, and three picks were published for a game that was not
+  // being played. Those picks also carried no kickoff time, because startTime
+  // comes from ESPN, which means the app could not tell they had started and
+  // would have let users tail them after the fact.
+  //
+  // No ESPN fixtures for today means no board for that sport today, whatever
+  // odds happen to be on offer.
+  if (games.length === 0) return { hasGames: false, structuredContext: '', games: [], verifiedLines: true };
 
   // ESPN still knows the fixtures even when the Odds API is unavailable, so we
   // can still publish picks — Gemini just has to source the lines itself.
@@ -424,9 +435,12 @@ If ${sport} has no games today, return {"picks": []}.`;
   const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
 
   // Gemini 2.5-flash is a thinking model and occasionally emits a reasoning
-  // narrative instead of (or wrapped around) the JSON. Retry a couple times —
+  // narrative instead of (or wrapped around) the JSON. Retry a few times —
   // this only re-calls Gemini, so it costs no extra Odds API quota.
-  const MAX_ATTEMPTS = 3;
+  //
+  // 4 rather than 3 because the first grounded call of a run reliably comes
+  // back with no content parts and is spent before any real attempt happens.
+  const MAX_ATTEMPTS = 4;
   let parsed = null;
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     const res = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
@@ -436,8 +450,28 @@ If ${sport} has no games today, return {"picks": []}.`;
     }
 
     const json = await res.json();
-    const rawText = json.candidates?.[0]?.content?.parts?.[0]?.text ?? '{"picks":[]}';
-    const sources = json.candidates?.[0]?.groundingMetadata?.groundingChunks?.length ?? 0;
+    const cand = json.candidates?.[0];
+    const parts = cand?.content?.parts?.length ?? 0;
+
+    // A candidate with NO content parts means the model produced nothing at all
+    // — not that it considered the slate and found no bets.
+    //
+    // Measured 2026-09-23: the first grounded call of a run returns
+    // finishReason=STOP, parts=0, and totalTokenCount === promptTokenCount (no
+    // thinking, no tool use, no safety block) every single time; the next call
+    // with the identical body succeeds. This previously read as
+    // `?? '{"picks":[]}'`, which manufactured an empty board out of a response
+    // that never happened, and MLB — the biggest slate of the day — silently
+    // published zero picks two days running.
+    //
+    // Never substitute a default for a missing response. Retry instead.
+    if (parts === 0) {
+      console.error(`  Empty Gemini response for ${sport} (attempt ${attempt}/${MAX_ATTEMPTS}, finishReason=${cand?.finishReason}) — retrying`);
+      continue;
+    }
+
+    const rawText = cand?.content?.parts?.[0]?.text ?? '';
+    const sources = cand?.groundingMetadata?.groundingChunks?.length ?? 0;
     // Strip markdown code fences if Gemini wraps the JSON anyway
     const raw = rawText.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/i, '').trim();
     console.log(`  Attempt ${attempt}/${MAX_ATTEMPTS} — Search sources: ${sources} | Raw (first 300): ${raw.slice(0, 300)}`);
@@ -478,6 +512,28 @@ If ${sport} has no games today, return {"picks": []}.`;
       if (p.betType === 'moneyline') return parseInt(p.odds ?? '0') > -401;
       return true;
     });
+
+    // Never publish both sides of the same total.
+    //
+    // On 2026-09-23 a one-match MLS slate produced "Under 3.5" and "Over 3.5"
+    // on the same fixture, both marked high confidence. They cannot both win,
+    // so as a pair they carry no information and read as broken. Keep the
+    // first, drop any later pick on the same game and line.
+    {
+      const seenTotals = new Set();
+      picks = picks.filter(p => {
+        if (p.betType !== 'total') return true;
+        const line = String(p.pick ?? '').match(/(\d+(?:\.\d+)?)/)?.[1];
+        if (!line) return true;
+        const key = `${p.game}|${line}`;
+        if (seenTotals.has(key)) {
+          console.log(`  dropped contradictory total on ${p.game}: ${p.pick}`);
+          return false;
+        }
+        seenTotals.add(key);
+        return true;
+      });
+    }
 
     // Cap moneylines at one per board.
     //
