@@ -1,134 +1,44 @@
 {
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-22T23:21:07.715Z",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T14:11:45.225Z",
   "sports": [
     {
-      "sport": "MLB",
+      "sport": "NCAAF",
       "picks": [
         {
-          "game": "Miami Marlins vs Chicago Cubs",
+          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
           "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-142",
+          "pick": "Over 50.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Both Liberty and Coastal Carolina have demonstrated offensive capabilities this season, with Liberty scoring 51 points in their last game and Coastal Carolina averaging 27.7 points per contest. The Chanticleers have a strong historical trend of hitting the Over in games with totals set at 50 or more, doing so in 10 of their last 13 such matchups. While both teams have a 1-2 O/U record this season, their average combined scores of 51.8 for Liberty games and 55.2 for Coastal Carolina games both exceed the current 50.5 total. With no significant injuries reported for either side, expect both offenses to contribute to a higher-scoring affair."
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Real Salt Lake @ Seattle Sounders FC",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-185",
           "confidence": "high",
-          "rationale": "This game features multiple hot hitters on both sides, with the Marlins' Javier Sanoja and Jakob Marsee on base streaks, and the Cubs' Seiya Suzuki, Nico Hoerner, and Michael Busch also performing well offensively. While starting pitchers Kevin Gausman (CHC, 4.55 ERA) and Janson Junk (MIA, 4.50 ERA) have average ERAs, Gausman benefits from high run support, averaging 5.6 runs per game. The total is set unusually low at 6.5, and the market has heavily juiced the Over to -142, indicating a strong expectation for more runs despite the low line.",
-          "awayRecord": "76-80",
-          "homeRecord": "87-69",
-          "startTime": "2026-09-22T23:40Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
+          "rationale": "Both Real Salt Lake and Seattle Sounders FC are significantly impacted by key attacking injuries, with RSL missing playmaker Diego Luna for an extended period and Seattle without prominent goal scorers like Dejan Joveljić and Jesús Ferreira. Historically, only 11% of their 44 head-to-head matchups have seen more than 3.5 goals, indicating a strong trend towards lower-scoring contests. Real Salt Lake's recent offensive output is particularly weak, averaging just 0.6 goals in their last five matches. The market also heavily favors the Under 3.5, with odds at -185, reflecting expectations of a tight, low-scoring affair.",
+          "awayRecord": "8-5-12",
+          "homeRecord": "7-8-9",
+          "startTime": "2026-09-24T01:30Z"
         },
         {
-          "game": "Minnesota Twins vs San Francisco Giants",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-132",
+          "game": "Real Salt Lake @ Seattle Sounders FC",
+          "betType": "moneyline",
+          "pick": "Seattle Sounders FC",
+          "odds": "-130",
           "confidence": "high",
-          "rationale": "The total for this game has seen significant line movement, dropping from an opening of 8 to 7.5, with the Under now heavily favored at -132, indicating strong market confidence in a low-scoring affair. Both teams are struggling offensively, with the Twins going 4-6 and the Giants 3-7 in their last ten games. Key Twins hitters like Ryan Jeffers and Kody Clemens are in cold streaks, further impacting their scoring potential. The Giants also just beat the Twins 5-2 yesterday, a score well under this total, reinforcing the expectation of a tight, low-scoring contest.",
-          "awayRecord": "73-84",
-          "homeRecord": "65-92",
-          "startTime": "2026-09-23T01:45Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "San Diego Padres vs Los Angeles Dodgers",
-          "betType": "total",
-          "pick": "Under 8.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "This matchup features two strong starting pitchers in Michael King (SD, 3.03 ERA) and Yoshinobu Yamamoto (LAD, 2.51 ERA). Yamamoto has been particularly dominant against the Padres, allowing 0 earned runs in his last start against them. A significant factor is the absence of Dodgers' DH Shohei Ohtani, who is on the 15-day injured list with right biceps inflammation, removing a key power bat from their lineup. While both offenses have been performing well, the strong pitching and Ohtani's absence support a lower-scoring outcome, reflected by the Under being slightly favored at -112.",
-          "awayRecord": "87-69",
-          "homeRecord": "96-60",
-          "startTime": "2026-09-23T02:10Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Houston Astros vs Seattle Mariners",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-128",
-          "confidence": "medium",
-          "rationale": "The total for this game is set at a low 7.5, with the Under being heavily juiced at -128, indicating strong market confidence in a low-scoring outcome. The game features capable starting pitchers in Logan Gilbert for Seattle and Cristian Javier for Houston. The Mariners are playing with high stakes as they are 'on the brink of elimination,' which often leads to tighter, more defensively focused games. Furthermore, Mariners closer Andres Munoz is 'potentially available' despite a recent leg injury, strengthening the bullpen's ability to hold leads late in the game.",
-          "awayRecord": "77-79",
-          "homeRecord": "73-83",
-          "startTime": "2026-09-23T01:40Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Chicago White Sox vs Kansas City Royals",
-          "betType": "total",
-          "pick": "Under 8.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "Despite a slight upward movement in the total from 8 to 8.5, the Kansas City Royals' offense has been struggling significantly, batting a mere .212 as a team in their last ten games. While White Sox starter Anthony Kay has a high 7.06 ERA in his last five starts, Royals' starter Daniel Lynch has been solid, allowing 0 earned runs in his last outing. The overall 2026 head-to-head average for these teams is 8.2 runs per game, which is slightly under the current 8.5 total. Given the Royals' cold bats and Lynch's recent performance, the Under at even money presents significant value.",
-          "awayRecord": "80-76",
-          "homeRecord": "67-89",
-          "startTime": "2026-09-22T23:40Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
+          "rationale": "Seattle Sounders FC holds a notable home advantage in this fixture, having remained unbeaten in their last three home encounters against Real Salt Lake, securing two wins and one draw. Real Salt Lake arrives in poor form, currently enduring a 12-game overall winless streak in MLS and an 11-game road winless streak across all competitions. Despite Seattle's own 13-match winless run, many of these have been draws, and their strong historical performance at home against RSL provides a significant edge. Furthermore, predictive models suggest Seattle has a 53.1% chance of winning this match.",
+          "awayRecord": "8-5-12",
+          "homeRecord": "7-8-9",
+          "startTime": "2026-09-24T01:30Z"
         }
       ]
     }

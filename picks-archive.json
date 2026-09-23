@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-09-22",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Miami Marlins vs Chicago Cubs",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "W",
+            "score": "Miami Marlins 8, Chicago Cubs 2"
+          },
+          {
+            "game": "Minnesota Twins vs San Francisco Giants",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-132",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Twins 3, San Francisco Giants 2"
+          },
+          {
+            "game": "San Diego Padres vs Los Angeles Dodgers",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego Padres 0, Los Angeles Dodgers 7"
+          },
+          {
+            "game": "Houston Astros vs Seattle Mariners",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-128",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Astros 7, Seattle Mariners 0"
+          },
+          {
+            "game": "Chicago White Sox vs Kansas City Royals",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago White Sox 14, Kansas City Royals 11"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-21",
     "sports": [
       {
@@ -2987,112 +3043,6 @@
             "confidence": "medium",
             "result": "?",
             "score": "Corey Seager: \"Total Bases\" not auto-gradeable"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-23",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Pittsburgh Pirates @ Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5 (-125)",
-            "odds": "-125",
-            "confidence": "high",
-            "result": "W",
-            "score": "Pittsburgh Pirates 0, Los Angeles Dodgers 4"
-          },
-          {
-            "game": "New York Mets @ Chicago White Sox",
-            "betType": "total",
-            "pick": "Under 8.5 (-124)",
-            "odds": "-124",
-            "confidence": "high",
-            "result": "W",
-            "score": "New York Mets 1, Chicago White Sox 2"
-          },
-          {
-            "game": "Athletics @ Houston Astros",
-            "betType": "spread",
-            "pick": "Houston Astros -1.5 (+118)",
-            "odds": "+118",
-            "confidence": "high",
-            "result": "L",
-            "score": "Athletics 7, Houston Astros 6"
-          },
-          {
-            "game": "San Francisco Giants @ Boston Red Sox",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox (-210)",
-            "odds": "-210",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Francisco Giants 4, Boston Red Sox 5"
-          },
-          {
-            "game": "Detroit Tigers @ Kansas City Royals",
-            "betType": "prop",
-            "pick": "Bobby Witt Jr. Over 1.5 hits",
-            "odds": "N/A",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Bobby Witt Jr.: 1 hits (line 1.5)"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "New York City FC @ New England Revolution",
-            "betType": "moneyline",
-            "pick": "New England Revolution",
-            "odds": "+120",
-            "confidence": "high",
-            "result": "L",
-            "score": "New York City FC 1, New England Revolution 1"
-          },
-          {
-            "game": "Sporting Kansas City @ Atlanta United FC",
-            "betType": "moneyline",
-            "pick": "Atlanta United FC",
-            "odds": "-145",
-            "confidence": "high",
-            "result": "W",
-            "score": "Sporting Kansas City 1, Atlanta United FC 2"
-          },
-          {
-            "game": "Sporting Kansas City @ Atlanta United FC",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-175",
-            "confidence": "high",
-            "result": "W",
-            "score": "Sporting Kansas City 1, Atlanta United FC 2"
-          },
-          {
-            "game": "New York City FC @ New England Revolution",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York City FC 1, New England Revolution 1"
-          },
-          {
-            "game": "New York City FC @ New England Revolution",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-150",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New York City FC 1, New England Revolution 1"
           }
         ]
       }
