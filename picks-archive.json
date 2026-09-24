@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-09-23",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Miami Marlins vs Chicago Cubs",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Miami Marlins 3, Chicago Cubs 2"
+          },
+          {
+            "game": "Chicago White Sox vs Kansas City Royals",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago White Sox 4, Kansas City Royals 5"
+          },
+          {
+            "game": "Cleveland Guardians vs Boston Red Sox",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Guardians 0, Boston Red Sox 1"
+          },
+          {
+            "game": "Cincinnati Reds vs Atlanta Braves",
+            "betType": "spread",
+            "pick": "Atlanta Braves -1.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cincinnati Reds 2, Atlanta Braves 3"
+          },
+          {
+            "game": "Arizona Diamondbacks vs Colorado Rockies",
+            "betType": "total",
+            "pick": "Over 10.5",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Arizona Diamondbacks 5, Colorado Rockies 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Real Salt Lake @ Seattle Sounders FC",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "W",
+            "score": "Real Salt Lake 0, Seattle Sounders FC 2"
+          },
+          {
+            "game": "Real Salt Lake @ Seattle Sounders FC",
+            "betType": "moneyline",
+            "pick": "Seattle Sounders FC",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "W",
+            "score": "Real Salt Lake 0, Seattle Sounders FC 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-22",
     "sports": [
       {
@@ -2987,62 +3066,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Philadelphia Phillies 1, Seattle Mariners 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-24",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Colorado Rockies vs Washington Nationals",
-            "betType": "spread",
-            "pick": "Washington Nationals -1.5",
-            "odds": "+114",
-            "confidence": "high",
-            "result": "W",
-            "score": "Colorado Rockies 3, Washington Nationals 13"
-          },
-          {
-            "game": "Texas Rangers vs Chicago White Sox",
-            "betType": "moneyline",
-            "pick": "Chicago White Sox (-130)",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Texas Rangers 11, Chicago White Sox 2"
-          },
-          {
-            "game": "Cleveland Guardians vs Los Angeles Angels",
-            "betType": "spread",
-            "pick": "Cleveland Guardians -1.5",
-            "odds": "+102",
-            "confidence": "high",
-            "result": "W",
-            "score": "Cleveland Guardians 4, Los Angeles Angels 2"
-          },
-          {
-            "game": "Chicago Cubs vs Arizona Diamondbacks",
-            "betType": "spread",
-            "pick": "Chicago Cubs -1.5",
-            "odds": "+113",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago Cubs 7, Arizona Diamondbacks 0"
-          },
-          {
-            "game": "Texas Rangers vs Chicago White Sox",
-            "betType": "prop",
-            "pick": "Corey Seager Over 1.5 Total Bases",
-            "odds": "+116",
-            "confidence": "medium",
-            "result": "?",
-            "score": "Corey Seager: \"Total Bases\" not auto-gradeable"
           }
         ]
       }

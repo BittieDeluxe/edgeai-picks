@@ -1,161 +1,203 @@
 {
-  "date": "2026-09-23",
-  "generatedAt": "2026-09-23T22:09:28.630Z",
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T14:09:56.611Z",
   "sports": [
     {
-      "sport": "MLB",
+      "sport": "NFL",
       "picks": [
         {
-          "game": "Miami Marlins vs Chicago Cubs",
+          "game": "Atlanta Falcons vs Green Bay Packers",
           "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-122",
-          "confidence": "high",
-          "rationale": "Both starting pitchers, Ryan Gusto (4.14 ERA, 1.44 WHIP) for the Marlins and Kevin Gausman (4.55 ERA) for the Cubs, have demonstrated vulnerability this season, with Gausman being particularly prone to home runs. Gusto typically has short outings, which will expose a Marlins bullpen that used nine arms in yesterday's game. All four previous head-to-head matchups this season between these two teams have exceeded a total of 6.5 runs, including an 8-2 game yesterday. The line movement on the total has also shifted towards the Over, indicating sharp money.",
-          "awayRecord": "77-80",
-          "homeRecord": "87-70",
-          "startTime": "2026-09-23T23:40Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Chicago White Sox vs Kansas City Royals",
-          "betType": "total",
-          "pick": "Over 8.5",
-          "odds": "-115",
+          "pick": "Under 42.5",
+          "odds": "-102",
           "confidence": "medium",
-          "rationale": "The Chicago White Sox offense was explosive yesterday, scoring 14 runs against the Royals in a 14-11 victory. Royals starter Seth Lugo has been struggling, allowing at least five hits in each of his last 10 starts. The Kansas City bullpen is reportedly thin and potentially fatigued after Tuesday's high-scoring affair. The White Sox are highly motivated, as they are actively fighting for a playoff spot, while the Royals are out of contention. The line movement for this game's total is also trending towards the Over.",
-          "awayRecord": "81-76",
-          "homeRecord": "67-90",
-          "startTime": "2026-09-23T23:40Z",
+          "rationale": "The game total has seen significant sharp money movement, dropping from an opening of 44.5 to the current 42.5, despite the public not heavily betting the Under. Atlanta's offense has been anemic, scoring just 8 points per game through two weeks with Cooper Rush, and while Michael Penix Jr. returns, he may experience rust in his season debut after an ACL injury. The Falcons' last five head-to-head matchups have gone under the total 80% of the time, indicating a historical trend towards lower-scoring affairs in this series. Green Bay's defense has also shown capability, holding the Jets to 17 points in their last game.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "0-2",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-25T00:15Z",
           "awayLast5": [
-            "W",
             "L",
-            "W",
-            "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Cleveland Guardians vs Boston Red Sox",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "Boston's Sonny Gray is a strong pitcher with a 2.82 ERA, and he has been particularly effective against teams with low on-base percentages, like the Guardians. The Red Sox offense has been struggling significantly, averaging only 2.82 runs per game over their last 11 contests. Both bullpens are among the best in the league, with Boston ranking first (3.09 ERA) and Cleveland third (3.55 ERA). Additionally, cold weather conditions are expected, which typically suppresses offensive production. The previous game between these two teams was a low-scoring 3-2 affair.",
-          "awayRecord": "82-75",
-          "homeRecord": "84-73",
-          "startTime": "2026-09-23T23:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
             "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
           ]
         },
         {
-          "game": "Cincinnati Reds vs Atlanta Braves",
+          "game": "Atlanta Falcons vs Green Bay Packers",
           "betType": "spread",
-          "pick": "Atlanta Braves -1.5",
-          "odds": "+114",
-          "confidence": "medium",
-          "rationale": "Atlanta's Chris Sale is a dominant pitcher with a 2.18 ERA and is exceptionally well-rested, having not pitched in 12 days. In contrast, Cincinnati's Andrew Abbott has struggled significantly this season, posting a 4.70 ERA and 1.47 WHIP, along with persistent command issues. The Braves offense is potent, and superstar Ronald Acuna Jr. is currently in excellent form. With the Braves motivated to secure playoff positioning and the Reds eliminated, the substantial pitching mismatch strongly favors a multi-run victory for Atlanta.",
-          "awayRecord": "73-84",
-          "homeRecord": "92-65",
-          "startTime": "2026-09-23T23:15Z",
+          "pick": "Atlanta Falcons +4.5",
+          "odds": "-105",
+          "confidence": "high",
+          "rationale": "The spread has notably shifted 2.5 points in favor of the Falcons, moving from Packers -7 to -4.5, despite only 27% of spread bets being on Atlanta. This line movement suggests sharp money is backing the Falcons, likely due to the return of starting quarterback Michael Penix Jr., who is considered a significant upgrade over Cooper Rush. While Penix may be rusty, his presence is expected to improve an offense that was the worst in the league in EPA/Play through the first two weeks. The Packers are also 0-2 against the spread this season, indicating they haven't been covering expectations.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "0-2",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-25T00:15Z",
           "awayLast5": [
             "L",
-            "W",
-            "L",
-            "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "L",
-            "W",
-            "W",
-            "W",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Arizona Diamondbacks vs Colorado Rockies",
-          "betType": "total",
-          "pick": "Over 10.5",
-          "odds": "+104",
-          "confidence": "medium",
-          "rationale": "This game is being played at Coors Field, which is notoriously a high-scoring environment. Both starting pitchers, Merrill Kelly (5.00 ERA, 1.47 WHIP) for Arizona and Mason Adams (5.09 ERA, 1.65 WHIP) for Colorado, have high ERAs and WHIPs, indicating a propensity to give up runs. Kelly previously surrendered six earned runs in just five innings against the Rockies this season. The Rockies' bullpen is ranked last in MLB, which will likely be exposed in a high-scoring game. The Diamondbacks offense is motivated as they are fighting for a playoff spot.",
-          "awayRecord": "83-74",
-          "homeRecord": "57-100",
-          "startTime": "2026-09-24T00:40Z",
+          "game": "Atlanta Falcons vs Green Bay Packers",
+          "betType": "prop",
+          "pick": "Michael Penix Jr. Under 205.5 Passing Yards",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "Michael Penix Jr. is making his season debut after recovering from a torn ACL, and he will be playing on a short week, which could lead to rust and limited effectiveness. The Falcons' offense has struggled significantly, and Penix is facing a Green Bay defense that has shown the ability to hold opponents in check. Given the circumstances of his return from a major injury and the short preparation time, it is reasonable to expect Penix to have a subdued passing performance in his first game back. The line for his passing yards is set at 205.5.",
+          "propPlayer": "Michael Penix Jr.",
+          "propTeam": "Atlanta Falcons",
+          "awayRecord": "0-2",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-25T00:15Z",
           "awayLast5": [
             "L",
-            "L",
-            "W",
-            "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "L",
-            "L",
-            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Atlanta Falcons vs Green Bay Packers",
+          "betType": "prop",
+          "pick": "Jordan Love Over 222.5 Passing Yards",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Green Bay Packers quarterback Jordan Love's passing yards line is set at 222.5, and he faces a Falcons defense that has been vulnerable through the air, allowing 239.0 passing yards per game this season. While Love had a lower output in a sloppy game against the Jets, he demonstrated his capability with 387 passing yards in Week 1 against the Vikings. With the Falcons' defense struggling against the pass and Love playing at home, he is in a good position to exceed this total. Love is active and expected to play despite a minor hand issue from the last game.",
+          "propPlayer": "Jordan Love",
+          "propTeam": "Green Bay Packers",
+          "awayRecord": "0-2",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-25T00:15Z",
+          "awayLast5": [
             "L",
             "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Atlanta Falcons vs Green Bay Packers",
+          "betType": "moneyline",
+          "pick": "Green Bay Packers",
+          "odds": "-245",
+          "confidence": "medium",
+          "rationale": "The Green Bay Packers are playing at home at Lambeau Field and hold a 1-1 record, coming off a win, while the Falcons are 0-2 and have struggled offensively. The Packers have a strong home advantage, boasting an 11-6 straight-up record at Lambeau Field since 2024 and holding opposing offenses to an average of 17.3 points per game. Despite the spread movement towards Atlanta, the Packers remain a solid favorite, and their defensive strength at home against a potentially rusty Falcons offense should lead to a straight-up victory.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "0-2",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-25T00:15Z",
+          "awayLast5": [
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W"
           ]
         }
       ]
     },
     {
-      "sport": "MLS",
+      "sport": "NCAAF",
       "picks": [
         {
-          "game": "Real Salt Lake @ Seattle Sounders FC",
+          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
           "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-175",
-          "confidence": "high",
-          "rationale": "Real Salt Lake is severely depleted by injuries and international call-ups, notably missing key playmaker Diego Luna, which is expected to hinder their offensive output significantly. Seattle's recent form, while winless in 13 matches, has seen them draw their last five games, and their overall goal-scoring average is 1.1 goals per game this season. Head-to-head history between these two teams strongly suggests a low-scoring affair, with only 11% of their 44 previous meetings exceeding 3.5 goals, and an average of just 2.0 goals in their last five H2H matchups. Given RSL's offensive struggles and the historical H2H trends, it is highly improbable that this game will reach four goals.",
-          "awayRecord": "8-5-12",
-          "homeRecord": "7-8-9",
-          "startTime": "2026-09-24T01:30Z"
+          "pick": "Under 50.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The total has seen significant sharp money, dropping two full points from its opener of 52.5 to 50.5, with the Under drawing 62% of the money. Both teams are playing on a short week, which often leads to less polished offensive execution and lower-scoring affairs. Coastal Carolina has struggled offensively in recent FBS games, and Liberty's earlier 20-13 loss to James Madison indicates they can win or lose in low-scoring contests. The projected final score of Liberty 27, Coastal Carolina 20 also falls well below this total.",
+          "awayRecord": "2-1",
+          "homeRecord": "1-2",
+          "startTime": "2026-09-24T23:30Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L"
+          ]
         },
         {
-          "game": "Real Salt Lake @ Seattle Sounders FC",
-          "betType": "moneyline",
-          "pick": "Seattle Sounders FC",
-          "odds": "-135",
+          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
+          "betType": "spread",
+          "pick": "Liberty Flames -2.5",
+          "odds": "-112",
           "confidence": "high",
-          "rationale": "Real Salt Lake is in abysmal form, currently on a 12-match winless skid in MLS play and having lost six of their last seven league games. RSL is heavily impacted by injuries and international duty, with six key players listed as OUT, including playmaker Diego Luna, significantly weakening their squad. Seattle, despite their own 13-match winless run, has managed to draw their last five games, indicating a more resilient, albeit not winning, form compared to RSL's consistent losses. Seattle holds a home advantage at Lumen Field and has been unbeaten in their last three home meetings against Real Salt Lake, securing two wins and one draw. The line movement has shifted in favor of Seattle, from an opening of 1.95 to a current 1.75 (-133), suggesting sharp money is backing the Sounders to secure a victory against a struggling RSL side.",
-          "awayRecord": "8-5-12",
-          "homeRecord": "7-8-9",
-          "startTime": "2026-09-24T01:30Z"
+          "rationale": "The betting market has shown strong confidence in Liberty, with the spread flipping from Coastal Carolina -1.5 to Liberty -2.5, indicating sharp action. Liberty is coming off an impressive 51-15 victory over Ball State, demonstrating strong recent form. Additionally, Liberty's head coach, Jamey Chadwell, is facing his former team, Coastal Carolina, providing a potential motivational edge. Coastal Carolina has struggled significantly in recent FBS matchups, holding an 0-6 straight-up record since their last FBS win.",
+          "awayRecord": "2-1",
+          "homeRecord": "1-2",
+          "startTime": "2026-09-24T23:30Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
+          "betType": "moneyline",
+          "pick": "Liberty Flames (-134)",
+          "odds": "-134",
+          "confidence": "high",
+          "rationale": "Given the strong market confidence in Liberty to cover the -2.5 spread, the moneyline offers a more secure bet for an outright Liberty victory. Liberty's recent dominant performance against Ball State (51-15) highlights their current offensive and defensive capabilities. Coastal Carolina's ongoing struggles, including an 0-6 straight-up record in their last six FBS games, further support an expectation of a Liberty win. This pick aligns with the spread movement but reduces the risk of a narrow Liberty win not covering the spread.",
+          "awayRecord": "2-1",
+          "homeRecord": "1-2",
+          "startTime": "2026-09-24T23:30Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
+          "betType": "spread",
+          "pick": "Coastal Carolina Chanticleers +2.5",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "Despite the strong line movement favoring Liberty, rivalry games often play out as close contests, especially with Coastal Carolina playing at home. The historical series between these two teams is tightly contested, with Liberty holding only a slight 8-7 advantage. While Liberty is expected to win, the Chanticleers' ability to keep games competitive, as seen in their 24-31 loss to West Virginia, suggests they can cover a small spread at home. The short week for both teams could also contribute to a tighter, lower-scoring affair where the underdog covers, with Liberty winning by a narrow margin of 1 or 2 points.",
+          "awayRecord": "2-1",
+          "homeRecord": "1-2",
+          "startTime": "2026-09-24T23:30Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L"
+          ]
         }
       ]
     }
