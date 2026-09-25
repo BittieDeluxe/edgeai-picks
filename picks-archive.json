@@ -1,5 +1,102 @@
 [
   {
+    "date": "2026-09-24",
+    "sports": [
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Atlanta Falcons vs Green Bay Packers",
+            "betType": "total",
+            "pick": "Under 42.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Falcons 35, Green Bay Packers 14"
+          },
+          {
+            "game": "Atlanta Falcons vs Green Bay Packers",
+            "betType": "spread",
+            "pick": "Atlanta Falcons +4.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "W",
+            "score": "Atlanta Falcons 35, Green Bay Packers 14"
+          },
+          {
+            "game": "Atlanta Falcons vs Green Bay Packers",
+            "betType": "prop",
+            "pick": "Michael Penix Jr. Under 205.5 Passing Yards",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Michael Penix Jr.: 256 Passing Yards (line 205.5)"
+          },
+          {
+            "game": "Atlanta Falcons vs Green Bay Packers",
+            "betType": "prop",
+            "pick": "Jordan Love Over 222.5 Passing Yards",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Jordan Love: 312 Passing Yards (line 222.5)"
+          },
+          {
+            "game": "Atlanta Falcons vs Green Bay Packers",
+            "betType": "moneyline",
+            "pick": "Green Bay Packers",
+            "odds": "-245",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Falcons 35, Green Bay Packers 14"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Liberty Flames vs Coastal Carolina Chanticleers",
+            "betType": "total",
+            "pick": "Under 50.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Liberty Flames 34, Coastal Carolina Chanticleers 17"
+          },
+          {
+            "game": "Liberty Flames vs Coastal Carolina Chanticleers",
+            "betType": "spread",
+            "pick": "Liberty Flames -2.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Liberty Flames 34, Coastal Carolina Chanticleers 17"
+          },
+          {
+            "game": "Liberty Flames vs Coastal Carolina Chanticleers",
+            "betType": "moneyline",
+            "pick": "Liberty Flames (-134)",
+            "odds": "-134",
+            "confidence": "high",
+            "result": "W",
+            "score": "Liberty Flames 34, Coastal Carolina Chanticleers 17"
+          },
+          {
+            "game": "Liberty Flames vs Coastal Carolina Chanticleers",
+            "betType": "spread",
+            "pick": "Coastal Carolina Chanticleers +2.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Liberty Flames 34, Coastal Carolina Chanticleers 17"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-23",
     "sports": [
       {
@@ -3010,62 +3107,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Colorado Rockies 13, Washington Nationals 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-25",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Kansas City Royals vs Toronto Blue Jays",
-            "betType": "moneyline",
-            "pick": "Kansas City Royals (+116)",
-            "odds": "+116",
-            "confidence": "high",
-            "result": "W",
-            "score": "Kansas City Royals 5, Toronto Blue Jays 3"
-          },
-          {
-            "game": "Milwaukee Brewers vs New York Mets",
-            "betType": "total",
-            "pick": "Over 7.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Milwaukee Brewers 2, New York Mets 3"
-          },
-          {
-            "game": "Texas Rangers vs Chicago White Sox",
-            "betType": "moneyline",
-            "pick": "Texas Rangers (-110)",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Texas Rangers 7, Chicago White Sox 11"
-          },
-          {
-            "game": "Cleveland Guardians vs Los Angeles Angels",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-124",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Cleveland Guardians 8, Los Angeles Angels 6"
-          },
-          {
-            "game": "Philadelphia Phillies vs Seattle Mariners",
-            "betType": "moneyline",
-            "pick": "Philadelphia Phillies (-105)",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Philadelphia Phillies 1, Seattle Mariners 4"
           }
         ]
       }

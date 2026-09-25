@@ -1,113 +1,133 @@
 {
-  "date": "2026-09-24",
-  "generatedAt": "2026-09-24T14:09:56.611Z",
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T14:33:26.533Z",
   "sports": [
     {
-      "sport": "NFL",
+      "sport": "MLB",
       "picks": [
         {
-          "game": "Atlanta Falcons vs Green Bay Packers",
+          "game": "Baltimore Orioles @ New York Yankees",
           "betType": "total",
-          "pick": "Under 42.5",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "The game total has seen significant sharp money movement, dropping from an opening of 44.5 to the current 42.5, despite the public not heavily betting the Under. Atlanta's offense has been anemic, scoring just 8 points per game through two weeks with Cooper Rush, and while Michael Penix Jr. returns, he may experience rust in his season debut after an ACL injury. The Falcons' last five head-to-head matchups have gone under the total 80% of the time, indicating a historical trend towards lower-scoring affairs in this series. Green Bay's defense has also shown capability, holding the Jets to 17 points in their last game.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-2",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-25T00:15Z",
+          "pick": "Over 6.5",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "The New York Yankees are starting Brendan Beck, who holds an alarming 8.22 ERA over just 7.2 innings this season in his second start. While Baltimore's Trevor Rogers has a decent 4.07 ERA, the Yankees' offense is potent, averaging 4.6 runs and 1.4 home runs per game. This significant pitching mismatch from the Yankees' side, coupled with a low total of 6.5, creates a strong likelihood for the game to exceed the projected runs. The Yankees' strong bats are expected to capitalize on Beck's struggles, pushing the score over the total.",
+          "awayRecord": "78-81",
+          "homeRecord": "92-67",
+          "startTime": "2026-09-25T20:05Z",
           "awayLast5": [
             "L",
-            "L"
+            "L",
+            "W",
+            "W",
+            "W"
           ],
           "homeLast5": [
             "L",
+            "W",
+            "L",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Atlanta Falcons vs Green Bay Packers",
+          "game": "Atlanta Braves @ Miami Marlins",
+          "betType": "total",
+          "pick": "Over 8.5",
+          "odds": "+104",
+          "confidence": "medium",
+          "rationale": "The Atlanta Braves are employing a bullpen game, with Ray Kerr (1.76 ERA in 15.1 IP) starting, which can introduce volatility. Miami's starter, Eury Perez, despite a better home ERA (3.45), has historically struggled against the Braves, holding a career 9.78 ERA against them. Atlanta's offense is currently red-hot, smashing 14 home runs with a .422 slugging percentage in their last 10 games. This combination of an unpredictable bullpen day for the Braves and Perez's historical difficulties against a powerful Atlanta lineup strongly indicates a high-scoring contest.",
+          "awayRecord": "93-66",
+          "homeRecord": "78-81",
+          "startTime": "2026-09-25T23:10Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Arizona Diamondbacks @ San Diego Padres",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "This matchup features two solid starting pitchers in Brandon Pfaadt (3.72 ERA, 1.17 WHIP) for Arizona and Casey Mize (3.96 ERA, 1.19 WHIP) for San Diego. Pfaadt's excellent command, demonstrated by his ability to limit walks and home runs, is a key factor in suppressing runs. Although Mize has had a couple of recent struggles, his overall season numbers are strong, and the pitching difference between the two is considered minimal, suggesting a tightly contested game. With two capable starters and a relatively low total of 7.5, a lower-scoring affair is highly probable.",
+          "awayRecord": "85-74",
+          "homeRecord": "89-70",
+          "startTime": "2026-09-26T01:40Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Texas Rangers @ Minnesota Twins",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-120",
+          "confidence": "medium",
+          "rationale": "The Texas Rangers are sending Jacob deGrom (3.86 ERA, 1.10 WHIP) to the mound, while the Minnesota Twins counter with Joe Ryan (3.81 ERA, 1.18 WHIP), both of whom are effective starting pitchers with similar ERAs. The Twins have also shown a recent edge in head-to-head matchups, winning their last four against the Rangers. With two quality pitchers expected to keep runs at a minimum and a low total of 7.5, this game is set up for a low-scoring outcome. Both offenses will likely struggle to generate consistent scoring opportunities.",
+          "awayRecord": "79-80",
+          "homeRecord": "75-84",
+          "startTime": "2026-09-26T00:10Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Houston Astros @ Athletics",
           "betType": "spread",
-          "pick": "Atlanta Falcons +4.5",
+          "pick": "Houston Astros -1.5",
           "odds": "-105",
-          "confidence": "high",
-          "rationale": "The spread has notably shifted 2.5 points in favor of the Falcons, moving from Packers -7 to -4.5, despite only 27% of spread bets being on Atlanta. This line movement suggests sharp money is backing the Falcons, likely due to the return of starting quarterback Michael Penix Jr., who is considered a significant upgrade over Cooper Rush. While Penix may be rusty, his presence is expected to improve an offense that was the worst in the league in EPA/Play through the first two weeks. The Packers are also 0-2 against the spread this season, indicating they haven't been covering expectations.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-2",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-25T00:15Z",
-          "awayLast5": [
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Atlanta Falcons vs Green Bay Packers",
-          "betType": "prop",
-          "pick": "Michael Penix Jr. Under 205.5 Passing Yards",
-          "odds": "-110",
-          "confidence": "high",
-          "rationale": "Michael Penix Jr. is making his season debut after recovering from a torn ACL, and he will be playing on a short week, which could lead to rust and limited effectiveness. The Falcons' offense has struggled significantly, and Penix is facing a Green Bay defense that has shown the ability to hold opponents in check. Given the circumstances of his return from a major injury and the short preparation time, it is reasonable to expect Penix to have a subdued passing performance in his first game back. The line for his passing yards is set at 205.5.",
-          "propPlayer": "Michael Penix Jr.",
-          "propTeam": "Atlanta Falcons",
-          "awayRecord": "0-2",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-25T00:15Z",
-          "awayLast5": [
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Atlanta Falcons vs Green Bay Packers",
-          "betType": "prop",
-          "pick": "Jordan Love Over 222.5 Passing Yards",
-          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Green Bay Packers quarterback Jordan Love's passing yards line is set at 222.5, and he faces a Falcons defense that has been vulnerable through the air, allowing 239.0 passing yards per game this season. While Love had a lower output in a sloppy game against the Jets, he demonstrated his capability with 387 passing yards in Week 1 against the Vikings. With the Falcons' defense struggling against the pass and Love playing at home, he is in a good position to exceed this total. Love is active and expected to play despite a minor hand issue from the last game.",
-          "propPlayer": "Jordan Love",
-          "propTeam": "Green Bay Packers",
-          "awayRecord": "0-2",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-25T00:15Z",
+          "rationale": "The Houston Astros hold a significant pitching advantage with Hunter Brown (3.26 ERA) facing Athletics starter Jacob Lopez, who carries a high 5.68 ERA and recently surrendered 10 earned runs in a single outing. Houston's offense is in formidable form, having launched 24 home runs with a .496 slugging percentage over their last 10 games. Compounding the Athletics' struggles, their lineup is reportedly 'badly depleted by injuries'. This clear disparity in pitching quality, offensive power, and team health positions the Astros strongly to win by more than 1.5 runs.",
+          "awayRecord": "79-80",
+          "homeRecord": "63-96",
+          "startTime": "2026-09-26T01:40Z",
           "awayLast5": [
             "L",
-            "L"
+            "L",
+            "W",
+            "L",
+            "W"
           ],
           "homeLast5": [
             "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Atlanta Falcons vs Green Bay Packers",
-          "betType": "moneyline",
-          "pick": "Green Bay Packers",
-          "odds": "-245",
-          "confidence": "medium",
-          "rationale": "The Green Bay Packers are playing at home at Lambeau Field and hold a 1-1 record, coming off a win, while the Falcons are 0-2 and have struggled offensively. The Packers have a strong home advantage, boasting an 11-6 straight-up record at Lambeau Field since 2024 and holding opposing offenses to an average of 17.3 points per game. Despite the spread movement towards Atlanta, the Packers remain a solid favorite, and their defensive strength at home against a potentially rusty Falcons offense should lead to a straight-up victory.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-2",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-25T00:15Z",
-          "awayLast5": [
             "L",
+            "W",
+            "W",
             "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W"
           ]
         }
       ]
@@ -116,15 +136,55 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
+          "game": "Navy Midshipmen vs UAB Blazers",
+          "betType": "total",
+          "pick": "Under 51.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The total for this game has seen significant sharp line movement, dropping from an opener of 53.5 to the current 51.5, with reverse line movement favoring the Under despite 100% of public money on the Over. Navy's starting quarterback Braxton Woodson, whose rushing production is central to their triple-option offense, is out with an ankle injury, which will likely lead to an even more run-heavy and clock-controlling game plan. Navy's option attack naturally limits possessions, and UAB's best path to covering also involves a lower-possession game. This combination of injury impact and market signals points strongly to a lower-scoring contest.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-2",
+          "startTime": "2026-09-25T23:00Z",
+          "awayLast5": [
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Northwestern Wildcats vs Indiana Hoosiers",
+          "betType": "total",
+          "pick": "Under 49.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Northwestern enters this game with a lengthy injury report, listing 14 players as out and several others doubtful, including key offensive linemen and defensive players. Both the Wildcats and Hoosiers play at a slow pace, with Northwestern ranking 119th and Indiana 123rd nationally in offensive seconds per play, which inherently limits scoring opportunities. Indiana boasts one of the country's best defenses, allowing a mere 5.3 points per game, making it difficult for an injured Northwestern offense to move the ball effectively. These factors collectively suggest a low-scoring affair, despite Indiana's offensive capabilities.",
+          "awayRecord": "2-0",
+          "homeRecord": "3-0",
+          "startTime": "2026-09-26T00:00Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Clemson Tigers vs California Golden Bears",
           "betType": "total",
           "pick": "Under 50.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The total has seen significant sharp money, dropping two full points from its opener of 52.5 to 50.5, with the Under drawing 62% of the money. Both teams are playing on a short week, which often leads to less polished offensive execution and lower-scoring affairs. Coastal Carolina has struggled offensively in recent FBS games, and Liberty's earlier 20-13 loss to James Madison indicates they can win or lose in low-scoring contests. The projected final score of Liberty 27, Coastal Carolina 20 also falls well below this total.",
+          "rationale": "Clemson's offense has struggled significantly this season, ranking 134th nationally, and they are dealing with key defensive injuries, including starting nickelback Corian Gipson and defensive tackle Devarrick Woods being out. The total has seen reverse line movement, initially climbing but now settling at 50.5 with the Under becoming the favored side despite heavy public betting on the Over, indicating sharp money expects fewer points. While California has a functioning offense, Clemson's defense, even with injuries, is still capable of limiting scoring. The combination of Clemson's offensive woes and the sharp money on the Under makes this a high-confidence pick.",
           "awayRecord": "2-1",
-          "homeRecord": "1-2",
-          "startTime": "2026-09-24T23:30Z",
+          "homeRecord": "2-1",
+          "startTime": "2026-09-26T02:30Z",
           "awayLast5": [
             "L",
             "W",
@@ -133,69 +193,47 @@
           "homeLast5": [
             "L",
             "W",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
-          "betType": "spread",
-          "pick": "Liberty Flames -2.5",
+          "game": "Howard Bison vs Rutgers Scarlet Knights",
+          "betType": "total",
+          "pick": "Under 56.5",
           "odds": "-112",
-          "confidence": "high",
-          "rationale": "The betting market has shown strong confidence in Liberty, with the spread flipping from Coastal Carolina -1.5 to Liberty -2.5, indicating sharp action. Liberty is coming off an impressive 51-15 victory over Ball State, demonstrating strong recent form. Additionally, Liberty's head coach, Jamey Chadwell, is facing his former team, Coastal Carolina, providing a potential motivational edge. Coastal Carolina has struggled significantly in recent FBS matchups, holding an 0-6 straight-up record since their last FBS win.",
-          "awayRecord": "2-1",
-          "homeRecord": "1-2",
-          "startTime": "2026-09-24T23:30Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
-          "betType": "moneyline",
-          "pick": "Liberty Flames (-134)",
-          "odds": "-134",
-          "confidence": "high",
-          "rationale": "Given the strong market confidence in Liberty to cover the -2.5 spread, the moneyline offers a more secure bet for an outright Liberty victory. Liberty's recent dominant performance against Ball State (51-15) highlights their current offensive and defensive capabilities. Coastal Carolina's ongoing struggles, including an 0-6 straight-up record in their last six FBS games, further support an expectation of a Liberty win. This pick aligns with the spread movement but reduces the risk of a narrow Liberty win not covering the spread.",
-          "awayRecord": "2-1",
-          "homeRecord": "1-2",
-          "startTime": "2026-09-24T23:30Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Liberty Flames vs Coastal Carolina Chanticleers",
-          "betType": "spread",
-          "pick": "Coastal Carolina Chanticleers +2.5",
-          "odds": "-108",
           "confidence": "medium",
-          "rationale": "Despite the strong line movement favoring Liberty, rivalry games often play out as close contests, especially with Coastal Carolina playing at home. The historical series between these two teams is tightly contested, with Liberty holding only a slight 8-7 advantage. While Liberty is expected to win, the Chanticleers' ability to keep games competitive, as seen in their 24-31 loss to West Virginia, suggests they can cover a small spread at home. The short week for both teams could also contribute to a tighter, lower-scoring affair where the underdog covers, with Liberty winning by a narrow margin of 1 or 2 points.",
-          "awayRecord": "2-1",
-          "homeRecord": "1-2",
-          "startTime": "2026-09-24T23:30Z",
+          "rationale": "Rutgers possesses a clear talent advantage and a strong defense, while Howard's offense has been one of the weakest in the nation, boasting the second-lowest completion rate in NCAAFB. Although Rutgers is capable of scoring heavily, if they establish a significant lead, they are likely to slow the pace of play and potentially rotate players, which would limit the overall points scored. The market has remained stable around 56.5, and with Howard's offensive struggles, it's plausible they will contribute minimally to the total. This scenario favors a game that stays under the posted total.",
+          "awayRecord": "1-2",
+          "homeRecord": "0-3",
+          "startTime": "2026-09-25T23:00Z",
           "awayLast5": [
-            "L",
             "W",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Army Black Knights vs Temple Owls",
+          "betType": "total",
+          "pick": "Under 47.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Army's triple-option offense is inherently designed to control the clock and limit the number of possessions in a game, naturally leading to lower-scoring contests. The last head-to-head matchup between these two teams in 2025 resulted in a very low 14-13 score, reinforcing the potential for a defensive battle. While Temple's offense showed some improvement last week, Army's defense has been stout, allowing only 267 yards per game, ranking 25th nationally. This matchup's historical trend and Army's style of play strongly support the Under.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-2",
+          "startTime": "2026-09-25T20:00Z",
+          "awayLast5": [
             "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
             "L"
           ]
         }
