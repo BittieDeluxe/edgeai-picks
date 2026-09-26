@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-09-25",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Baltimore Orioles @ New York Yankees",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Baltimore Orioles 10, New York Yankees 2"
+          },
+          {
+            "game": "Atlanta Braves @ Miami Marlins",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "+104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Braves 0, Miami Marlins 3"
+          },
+          {
+            "game": "Arizona Diamondbacks @ San Diego Padres",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Arizona Diamondbacks 11, San Diego Padres 4"
+          },
+          {
+            "game": "Texas Rangers @ Minnesota Twins",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Texas Rangers 2, Minnesota Twins 10"
+          },
+          {
+            "game": "Houston Astros @ Athletics",
+            "betType": "spread",
+            "pick": "Houston Astros -1.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Astros 5, Athletics 6"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Navy Midshipmen vs UAB Blazers",
+            "betType": "total",
+            "pick": "Under 51.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Navy Midshipmen 20, UAB Blazers 24"
+          },
+          {
+            "game": "Northwestern Wildcats vs Indiana Hoosiers",
+            "betType": "total",
+            "pick": "Under 49.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Northwestern Wildcats 23, Indiana Hoosiers 29"
+          },
+          {
+            "game": "Clemson Tigers vs California Golden Bears",
+            "betType": "total",
+            "pick": "Under 50.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Clemson Tigers 24, California Golden Bears 10"
+          },
+          {
+            "game": "Howard Bison vs Rutgers Scarlet Knights",
+            "betType": "total",
+            "pick": "Under 56.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Howard Bison 7, Rutgers Scarlet Knights 58"
+          },
+          {
+            "game": "Army Black Knights vs Temple Owls",
+            "betType": "total",
+            "pick": "Under 47.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Army Black Knights 21, Temple Owls 17"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-24",
     "sports": [
       {
@@ -3055,62 +3161,6 @@
   {
     "date": "2026-08-27",
     "sports": [],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-26",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Cincinnati Reds @ San Francisco Giants",
-            "betType": "moneyline",
-            "pick": "Cincinnati Reds",
-            "odds": "+106",
-            "confidence": "high",
-            "result": "W",
-            "score": "Cincinnati Reds 10, San Francisco Giants 9"
-          },
-          {
-            "game": "Cleveland Guardians @ Los Angeles Angels",
-            "betType": "spread",
-            "pick": "Cleveland Guardians -1.5",
-            "odds": "+114",
-            "confidence": "high",
-            "result": "L",
-            "score": "Cleveland Guardians 4, Los Angeles Angels 3"
-          },
-          {
-            "game": "Philadelphia Phillies @ Seattle Mariners",
-            "betType": "moneyline",
-            "pick": "Seattle Mariners",
-            "odds": "+120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia Phillies 6, Seattle Mariners 0"
-          },
-          {
-            "game": "Pittsburgh Pirates @ San Diego Padres",
-            "betType": "spread",
-            "pick": "Pittsburgh Pirates +1.5",
-            "odds": "-166",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Pittsburgh Pirates 0, San Diego Padres 3"
-          },
-          {
-            "game": "Colorado Rockies @ Washington Nationals",
-            "betType": "total",
-            "pick": "Over 9.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Colorado Rockies 13, Washington Nationals 1"
-          }
-        ]
-      }
-    ],
     "playerProps": []
   }
 ]
