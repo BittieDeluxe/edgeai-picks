@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-09-26",
+    "sports": [
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Texas Longhorns @ Tennessee Volunteers",
+            "betType": "total",
+            "pick": "Over 54.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Texas Longhorns 20, Tennessee Volunteers 17"
+          },
+          {
+            "game": "Iowa Hawkeyes @ Michigan Wolverines",
+            "betType": "total",
+            "pick": "Under 38.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Iowa Hawkeyes 20, Michigan Wolverines 19"
+          },
+          {
+            "game": "Texas A&M Aggies @ LSU Tigers",
+            "betType": "total",
+            "pick": "Under 52.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Texas A&M Aggies 6, LSU Tigers 35"
+          },
+          {
+            "game": "James Madison Dukes @ Old Dominion Monarchs",
+            "betType": "spread",
+            "pick": "James Madison Dukes -6.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "James Madison Dukes 46, Old Dominion Monarchs 20"
+          },
+          {
+            "game": "Utah Utes @ Iowa State Cyclones",
+            "betType": "total",
+            "pick": "Over 47.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Utah Utes 31, Iowa State Cyclones 17"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-25",
     "sports": [
       {
@@ -3156,11 +3212,6 @@
         ]
       }
     ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-27",
-    "sports": [],
     "playerProps": []
   }
 ]
