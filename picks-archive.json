@@ -1,5 +1,134 @@
 [
   {
+    "date": "2026-09-27",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cleveland Guardians @ Kansas City Royals",
+            "betType": "total",
+            "pick": "Under 8.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Guardians 2, Kansas City Royals 3"
+          },
+          {
+            "game": "Pittsburgh Pirates @ Detroit Tigers",
+            "betType": "total",
+            "pick": "Under 8",
+            "odds": "-117",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Pirates 4, Detroit Tigers 2"
+          },
+          {
+            "game": "Texas Rangers @ Minnesota Twins",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Texas Rangers 4, Minnesota Twins 6"
+          },
+          {
+            "game": "Colorado Rockies @ Chicago White Sox",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Rockies 2, Chicago White Sox 4"
+          },
+          {
+            "game": "Chicago Cubs @ Boston Red Sox",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Cubs 6, Boston Red Sox 2"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Seattle Seahawks vs Washington Commanders",
+            "betType": "spread",
+            "pick": "Seattle Seahawks -8.5",
+            "odds": "-105",
+            "confidence": "high",
+            "result": "L",
+            "score": "Seattle Seahawks 31, Washington Commanders 33"
+          },
+          {
+            "game": "Baltimore Ravens vs Dallas Cowboys",
+            "betType": "total",
+            "pick": "Over 53.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Baltimore Ravens 34, Dallas Cowboys 31"
+          },
+          {
+            "game": "New England Patriots vs Jacksonville Jaguars",
+            "betType": "total",
+            "pick": "Under 45.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New England Patriots 6, Jacksonville Jaguars 35"
+          },
+          {
+            "game": "Minnesota Vikings vs Tampa Bay Buccaneers",
+            "betType": "total",
+            "pick": "Over 42.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota Vikings 23, Tampa Bay Buccaneers 16"
+          },
+          {
+            "game": "Los Angeles Chargers vs Buffalo Bills",
+            "betType": "total",
+            "pick": "Over 50.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Chargers 16, Buffalo Bills 24"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Inter Miami CF vs Columbus Crew",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Inter Miami CF 1, Columbus Crew 2"
+          },
+          {
+            "game": "Inter Miami CF vs Columbus Crew",
+            "betType": "moneyline",
+            "pick": "Inter Miami CF ML",
+            "odds": "+115",
+            "confidence": "high",
+            "result": "L",
+            "score": "Inter Miami CF 1, Columbus Crew 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-26",
     "sports": [
       {
@@ -3152,62 +3281,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "LA Galaxy 1, San Diego FC 3"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-28",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "San Diego Padres vs Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-126",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Diego Padres 4, Tampa Bay Rays 9"
-          },
-          {
-            "game": "Los Angeles Dodgers vs Detroit Tigers",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Los Angeles Dodgers 2, Detroit Tigers 1"
-          },
-          {
-            "game": "Miami Marlins vs Washington Nationals",
-            "betType": "total",
-            "pick": "Over 8.5 Runs",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Miami Marlins 2, Washington Nationals 9"
-          },
-          {
-            "game": "Seattle Mariners vs Toronto Blue Jays",
-            "betType": "prop",
-            "pick": "Dylan Cease Over 7.5 Strikeouts",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Dylan Cease: 8 Strikeouts (line 7.5)"
-          },
-          {
-            "game": "Baltimore Orioles vs Athletics",
-            "betType": "spread",
-            "pick": "Baltimore Orioles -1.5",
-            "odds": "-101",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Baltimore Orioles 4, Athletics 3"
           }
         ]
       }

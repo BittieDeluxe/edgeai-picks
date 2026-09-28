@@ -1,261 +1,106 @@
 {
-  "date": "2026-09-27",
-  "generatedAt": "2026-09-27T14:39:36.081Z",
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T17:35:40.598Z",
   "sports": [
-    {
-      "sport": "MLB",
-      "picks": [
-        {
-          "game": "Cleveland Guardians @ Kansas City Royals",
-          "betType": "total",
-          "pick": "Under 8.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Cleveland's starting pitcher, Parker Messick, has been in dominant form, boasting a 2.55 ERA and allowing two or fewer runs in 12 of his last 14 starts. The Kansas City Royals' offense has struggled significantly against left-handed pitching in September, ranking 28th in xwOBA and batting a mere .218. While Royals starter Daniel Lynch has been inconsistent, the combination of Messick's elite performance and the Royals' anemic offense against southpaws strongly favors a low-scoring affair. Furthermore, analysts recommend the Under 8.5, noting the Guardians have played to the Under in 14 of Messick's 15 road starts.",
-          "awayRecord": "85-76",
-          "homeRecord": "68-93",
-          "startTime": "2026-09-27T19:10Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Pittsburgh Pirates @ Detroit Tigers",
-          "betType": "total",
-          "pick": "Under 8",
-          "odds": "-117",
-          "confidence": "high",
-          "rationale": "Pittsburgh's starting pitcher, Jared Jones, has been exceptional recently, allowing no earned runs in three of his last four starts, including a seven-inning scoreless outing. Detroit's starter, River Ryan, is relatively inexperienced with only one prior start this season and is expected to have a short leash, likely leading to an early bullpen game for the Tigers. Despite some line movement towards the Over, the strong form of Jones and the likely bullpen strategy for Detroit, combined with the Pirates' motivation to secure a winning record, points to a tighter contest. The Tigers' offense has shown some life, but Jones's recent dominance should keep their scoring in check.",
-          "awayRecord": "81-80",
-          "homeRecord": "76-85",
-          "startTime": "2026-09-27T19:10Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Texas Rangers @ Minnesota Twins",
-          "betType": "total",
-          "pick": "Over 8.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "Minnesota Twins games have been consistently high-scoring this season, averaging 9.47 combined runs per game, which is the highest single season-long scoring context for this matchup. Texas starter MacKenzie Gore carries a career ERA above 4.00, and the Rangers' road ERA of 5.01 is the third-highest in baseball, indicating significant pitching vulnerabilities away from home. While Twins starter Dean Kremer has had some solid recent outings, Gore's tendency to issue walks against a Twins lineup that excels at drawing free passes creates ample opportunities for multi-run innings. The Twins have also dominated the season series 4-0 against the Rangers, including a 10-2 victory, demonstrating their offensive capability in this head-to-head.",
-          "awayRecord": "80-81",
-          "homeRecord": "76-85",
-          "startTime": "2026-09-27T19:10Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Colorado Rockies @ Chicago White Sox",
-          "betType": "total",
-          "pick": "Over 8.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "Both the Colorado Rockies and Chicago White Sox feature pitching staffs with significant weaknesses, setting the stage for a high-scoring game. Rockies starter Kyle Freeland has a career ERA of 4.74 and a 1.427 WHIP, and the Rockies' overall pitching staff ranks 30th in MLB with a 5.59 ERA, having surrendered 220 home runs. Despite their poor record, the Rockies' offense averages 4.7 runs per game, ranking 7th in the league. The White Sox have also shown a strong tendency for high-scoring games recently, with the total going over in 4 of their last 5 games and 45 of their 80 home games.",
-          "awayRecord": "58-103",
-          "homeRecord": "83-78",
-          "startTime": "2026-09-27T19:10Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Chicago Cubs @ Boston Red Sox",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The Boston Red Sox pitching staff has been a strength this season, ranking third in MLB with a 3.55 ERA and a 1.23 WHIP, and they have recorded 17 shutouts. They recently held the Cubs to just 3 and 0 runs in a doubleheader, demonstrating their ability to suppress offense in this specific matchup. Even with an undecided starter, the Red Sox's strong pitching foundation suggests they can keep runs at a minimum. Given that the Red Sox have already secured a playoff spot, a cautious approach to pitching and managing the game is likely, further supporting a lower-scoring outcome. The head-to-head history also shows a trend towards lower-scoring games between these two teams, with three of their last five matchups going under the total.",
-          "awayRecord": "88-73",
-          "homeRecord": "87-74",
-          "startTime": "2026-09-27T19:05Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        }
-      ]
-    },
     {
       "sport": "NFL",
       "picks": [
         {
-          "game": "Seattle Seahawks vs Washington Commanders",
-          "betType": "spread",
-          "pick": "Seattle Seahawks -8.5",
-          "odds": "-105",
-          "confidence": "high",
-          "rationale": "The Washington Commanders will be significantly hampered by the absence of starting quarterback Jayden Daniels, who has been ruled out due to a dislocated elbow. Conversely, the Seattle Seahawks are expected to see the return of their starting quarterback, Sam Darnold, providing a boost to their offense. Seattle has demonstrated strong performance even with a backup, boasting impressive metrics such as a +5.97 net yards per pass attempt differential and a +8.3% advantage in explosive play differential. Given Washington's offensive struggles without their key signal-caller and Seattle's robust underlying statistics, the Seahawks are well-positioned to cover the -8.5 spread.",
-          "awayRecord": "2-0",
-          "homeRecord": "0-2",
-          "startTime": "2026-09-27T17:00Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Baltimore Ravens vs Dallas Cowboys",
+          "game": "Philadelphia Eagles vs Chicago Bears",
           "betType": "total",
-          "pick": "Over 53.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "This international matchup in Rio de Janeiro features the highest total on today's slate at 53.5 points, signaling expectations for a high-scoring game. The Dallas Cowboys' defense has shown significant vulnerability against the run, having allowed 347 rushing yards through their first two games. This weakness plays directly into the hands of Ravens running back Derrick Henry, who has been in dominant form with 212 rushing yards and four touchdowns in just two contests. With both teams possessing offensive firepower and Dallas struggling defensively, the combined score is likely to exceed the projected total.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-27T20:25Z",
-          "awayLast5": [
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "New England Patriots vs Jacksonville Jaguars",
-          "betType": "total",
-          "pick": "Under 45.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "Multiple betting trends strongly suggest a low-scoring affair in this matchup. The Under has hit in the New England Patriots' last four games overall, indicating a consistent pattern of defensive play or limited offensive output. Similarly, the Under is 8-1 in the Jacksonville Jaguars' last nine games following a straight-up loss, suggesting they tend to tighten up defensively after a defeat. With the Jaguars coming off a loss where they blew a significant lead, a more conservative game plan is anticipated, reinforcing the likelihood of the total staying under 45.5 points.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-27T17:00Z",
-          "awayLast5": [
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Minnesota Vikings vs Tampa Bay Buccaneers",
-          "betType": "total",
-          "pick": "Over 42.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The Minnesota Vikings will benefit significantly from the return of quarterback Kyler Murray, who has cleared concussion protocol and is set to start, which should elevate their offensive production. The Tampa Bay Buccaneers' defense has struggled early in the season, allowing an average of 28 points per game with minimal pass rush. Furthermore, the Buccaneers have lost nine of their last eleven games dating back to last season, highlighting consistent defensive vulnerabilities. With Murray back in action and Tampa Bay's defensive woes, this game presents a strong opportunity for the combined score to go over 42.5 points.",
-          "awayRecord": "2-0",
-          "homeRecord": "0-2",
-          "startTime": "2026-09-27T20:05Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Los Angeles Chargers vs Buffalo Bills",
-          "betType": "total",
-          "pick": "Over 50.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The Buffalo Bills offense has been exceptionally potent to start the 2026 season, averaging 38.5 points per game and showcasing strong underlying metrics, including a +3.71 net yards per pass attempt differential. Quarterback Josh Allen has been highly efficient, throwing for 582 yards and 5 touchdowns without an interception in two games. The Los Angeles Chargers enter this game with an 0-2 record, indicating potential struggles on the defensive side of the ball. Given Buffalo's explosive offensive capabilities and the Chargers' early season difficulties, this game is primed to exceed the 50.5 total.",
-          "awayRecord": "0-2",
-          "homeRecord": "2-0",
-          "startTime": "2026-09-27T17:00Z",
-          "awayLast5": [
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W"
-          ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "Inter Miami CF vs Columbus Crew",
-          "betType": "total",
-          "pick": "Over 3.5",
+          "pick": "Under 41.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Inter Miami CF, despite several international call-ups and injuries, will have their potent attacking duo of Lionel Messi (20 goals, 11 assists) and Luis Suárez (13 goals) active for this match. Columbus Crew is also dealing with significant absences, including their top scorer Wessam Abou Ali and key defenders, which weakens their defensive capabilities. Head-to-head history between these two teams shows an average of 3.23 total goals per game, with 50% of their 12 recorded meetings going over 3.5 goals, including a recent 2-2 draw in August 2026. Inter Miami's recent matches have also been high-scoring, with their last game ending in a 2-2 draw, reinforcing the expectation for goals.",
-          "awayRecord": "12-10-4",
-          "homeRecord": "7-5-14",
-          "startTime": "2026-09-27T23:00Z"
+          "rationale": "The Chicago Bears will be starting veteran Case Keenum at quarterback due to Caleb Williams' hamstring injury, a significant downgrade that is expected to severely limit their offensive production. The total line has already seen sharp money, moving down from an opening of 43.5 to the current 41.5, indicating a market expectation for a lower-scoring affair. The Bears' offense only managed to score 3 points in their last game after Williams left with his injury. Furthermore, the Eagles are dealing with their own offensive injuries, with key players like tight end Dallas Goedert and wide receiver Hollywood Brown ruled out, which could temper their scoring output.",
+          "awayRecord": "2-0",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-29T00:15Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
         },
         {
-          "game": "Inter Miami CF vs Columbus Crew",
-          "betType": "moneyline",
-          "pick": "Inter Miami CF ML",
-          "odds": "+115",
+          "game": "Philadelphia Eagles vs Chicago Bears",
+          "betType": "prop",
+          "pick": "DeVonta Smith Over 71.5 Receiving Yards",
+          "odds": "-113",
           "confidence": "high",
-          "rationale": "Inter Miami CF enters this match in significantly better form and standing, sitting 3rd in the Eastern Conference with a 12-10-4 record, compared to Columbus Crew's 13th place with a 7-5-14 record. Inter Miami has been dominant in recent head-to-head matchups, remaining unbeaten against Columbus Crew since September 2022, a streak that includes six wins and two draws. Furthermore, Inter Miami has won their last three away meetings against Columbus Crew, demonstrating their ability to perform on the road in this fixture. With Lionel Messi and Luis Suárez leading the attack, Inter Miami possesses a clear offensive advantage that should overcome Columbus's home field despite both teams facing injury and international duty absences.",
-          "awayRecord": "12-10-4",
-          "homeRecord": "7-5-14",
-          "startTime": "2026-09-27T23:00Z"
+          "rationale": "With fellow wide receiver Hollywood Brown and tight end Dallas Goedert both ruled out for the Eagles, DeVonta Smith is poised to be the primary target in the passing game. Smith demonstrated his capability in Week 2, hauling in 10 receptions for 117 yards and a touchdown. The Bears' defense has shown vulnerability against opposing passing attacks, having allowed 361 passing yards in Week 1. Given his increased target share and recent performance, Smith is in a prime position to exceed this receiving yards total.",
+          "propPlayer": "DeVonta Smith",
+          "propTeam": "Philadelphia Eagles",
+          "awayRecord": "2-0",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-29T00:15Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Philadelphia Eagles vs Chicago Bears",
+          "betType": "spread",
+          "pick": "Philadelphia Eagles -3.5",
+          "odds": "-108",
+          "confidence": "high",
+          "rationale": "The most significant factor in this matchup is the absence of Bears starting quarterback Caleb Williams, forcing veteran Case Keenum into the starting role. This quarterback downgrade is substantial, as Keenum has not taken meaningful snaps in an NFL game since 2019. While the Eagles are 0-2 against the spread this season, their 2-0 straight-up record demonstrates their ability to win games. The Eagles' talented front seven and veteran defensive coordinator Vic Fangio are well-equipped to exploit Chicago's offensive struggles.",
+          "awayRecord": "2-0",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-29T00:15Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Philadelphia Eagles vs Chicago Bears",
+          "betType": "spread",
+          "pick": "Chicago Bears +3.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Despite the significant downgrade at quarterback with Case Keenum starting for the injured Caleb Williams, there are signals pointing towards the Bears covering this spread. The line movement shows reverse line movement, with approximately 78% of spread bets on the Eagles, yet the line has moved a point towards Chicago, suggesting sharp money on the Bears. Historically, the Bears have performed well as home underdogs, boasting a 3-0 against the spread record in such situations last season. While the Eagles are the better team, the home underdog factor and sharp money could keep this game close.",
+          "awayRecord": "2-0",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-29T00:15Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Philadelphia Eagles vs Chicago Bears",
+          "betType": "moneyline",
+          "pick": "Philadelphia Eagles (-192)",
+          "odds": "-192",
+          "confidence": "medium",
+          "rationale": "The Philadelphia Eagles are the clear favorites in this matchup, primarily due to the significant quarterback disparity with Caleb Williams out for the Bears. The Eagles enter the game with a 2-0 record and a talented roster, even with some key offensive injuries. While moneyline bets offer lower payouts for favorites, this pick provides a relatively safe option given the Bears' offensive challenges with a backup quarterback who hasn't played meaningful snaps in years. The Eagles' implied win probability is around 67.7% based on the moneyline.",
+          "awayRecord": "2-0",
+          "homeRecord": "1-1",
+          "startTime": "2026-09-29T00:15Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
         }
       ]
     }
