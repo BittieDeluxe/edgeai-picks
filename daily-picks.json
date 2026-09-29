@@ -1,106 +1,64 @@
 {
-  "date": "2026-09-28",
-  "generatedAt": "2026-09-28T17:35:40.598Z",
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T15:39:10.526Z",
   "sports": [
     {
-      "sport": "NFL",
+      "sport": "MLB",
       "picks": [
         {
-          "game": "Philadelphia Eagles vs Chicago Bears",
+          "game": "Boston Red Sox @ New York Yankees",
           "betType": "total",
-          "pick": "Under 41.5",
-          "odds": "-110",
+          "pick": "Under 6",
+          "odds": "-104",
           "confidence": "medium",
-          "rationale": "The Chicago Bears will be starting veteran Case Keenum at quarterback due to Caleb Williams' hamstring injury, a significant downgrade that is expected to severely limit their offensive production. The total line has already seen sharp money, moving down from an opening of 43.5 to the current 41.5, indicating a market expectation for a lower-scoring affair. The Bears' offense only managed to score 3 points in their last game after Williams left with his injury. Furthermore, the Eagles are dealing with their own offensive injuries, with key players like tight end Dallas Goedert and wide receiver Hollywood Brown ruled out, which could temper their scoring output.",
-          "awayRecord": "2-0",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-29T00:15Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L"
-          ]
+          "rationale": "This AL Wild Card game features a premier pitching matchup between New York's Cam Schlittler, the presumptive AL Cy Young winner with a 1.95 ERA, and Boston's Payton Tolle, who holds a strong 3.03 ERA. Both starters exhibit excellent strikeout capabilities and have historically limited opposing offenses, with the Yankees' projected lineup hitting only 12-for-64 against Tolle and the Red Sox 4-for-32 against Schlittler. The Red Sox pitching staff has a 2.45 ERA over their last 10 games, further supporting a low-scoring affair. With the total line already moving down from 6.5 to 6, sharp money indicates a strong expectation for runs to be at a premium in this playoff contest.",
+          "awayRecord": "87-75",
+          "homeRecord": "93-68",
+          "startTime": "2026-09-30T00:00Z"
         },
         {
-          "game": "Philadelphia Eagles vs Chicago Bears",
-          "betType": "prop",
-          "pick": "DeVonta Smith Over 71.5 Receiving Yards",
-          "odds": "-113",
-          "confidence": "high",
-          "rationale": "With fellow wide receiver Hollywood Brown and tight end Dallas Goedert both ruled out for the Eagles, DeVonta Smith is poised to be the primary target in the passing game. Smith demonstrated his capability in Week 2, hauling in 10 receptions for 117 yards and a touchdown. The Bears' defense has shown vulnerability against opposing passing attacks, having allowed 361 passing yards in Week 1. Given his increased target share and recent performance, Smith is in a prime position to exceed this receiving yards total.",
-          "propPlayer": "DeVonta Smith",
-          "propTeam": "Philadelphia Eagles",
-          "awayRecord": "2-0",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-29T00:15Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Philadelphia Eagles vs Chicago Bears",
-          "betType": "spread",
-          "pick": "Philadelphia Eagles -3.5",
-          "odds": "-108",
-          "confidence": "high",
-          "rationale": "The most significant factor in this matchup is the absence of Bears starting quarterback Caleb Williams, forcing veteran Case Keenum into the starting role. This quarterback downgrade is substantial, as Keenum has not taken meaningful snaps in an NFL game since 2019. While the Eagles are 0-2 against the spread this season, their 2-0 straight-up record demonstrates their ability to win games. The Eagles' talented front seven and veteran defensive coordinator Vic Fangio are well-equipped to exploit Chicago's offensive struggles.",
-          "awayRecord": "2-0",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-29T00:15Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Philadelphia Eagles vs Chicago Bears",
-          "betType": "spread",
-          "pick": "Chicago Bears +3.5",
-          "odds": "-112",
+          "game": "Philadelphia Phillies @ Atlanta Braves",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "+100",
           "confidence": "medium",
-          "rationale": "Despite the significant downgrade at quarterback with Case Keenum starting for the injured Caleb Williams, there are signals pointing towards the Bears covering this spread. The line movement shows reverse line movement, with approximately 78% of spread bets on the Eagles, yet the line has moved a point towards Chicago, suggesting sharp money on the Bears. Historically, the Bears have performed well as home underdogs, boasting a 3-0 against the spread record in such situations last season. While the Eagles are the better team, the home underdog factor and sharp money could keep this game close.",
-          "awayRecord": "2-0",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-29T00:15Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L"
-          ]
+          "rationale": "The pitching matchup in this NL Wild Card opener is formidable, with Atlanta's Chris Sale (2.16 ERA) having a dominant 4-0 record and 2.08 ERA against the Phillies this season. Philadelphia counters with Jesús Luzardo (2.86 ERA) as an opener, who, despite a recent shoulder injury, previously threw a 12-strikeout complete game shutout against the Braves. While the Phillies' bullpen has struggled in September with a 5.79 ERA, Sale's ability to go deep into games and Luzardo's potential to limit early runs should keep the score low. The Braves' overall bullpen ERA of 3.44 also provides a solid back end, making the Under a high-confidence play.",
+          "awayRecord": "88-74",
+          "homeRecord": "94-68",
+          "startTime": "2026-09-29T18:00Z"
         },
         {
-          "game": "Philadelphia Eagles vs Chicago Bears",
+          "game": "Chicago White Sox @ Houston Astros",
+          "betType": "total",
+          "pick": "Over 8",
+          "odds": "-117",
+          "confidence": "high",
+          "rationale": "Both the White Sox and Astros are employing an opener strategy for this AL Wild Card game, which often leads to more pitching changes and scoring opportunities. Houston's opener, A.J. Blubaugh, has a concerning 7.71 ERA in September with a high home run and elevation rate, making him vulnerable to the White Sox's improving offense. The White Sox have posted a 112 wRC+ and .736 OPS over their last 12 games, while Houston's offense has been red-hot, hitting 25 home runs and slugging .543 in their last 10 games. Both teams' games averaged over 9.2 runs this season, and with high walk rates expected from both openers, the conditions are ripe for an offensive outburst.",
+          "awayRecord": "84-78",
+          "homeRecord": "81-81",
+          "startTime": "2026-09-29T21:00Z"
+        },
+        {
+          "game": "Chicago Cubs @ San Diego Padres",
+          "betType": "total",
+          "pick": "Over 7.5",
+          "odds": "-106",
+          "confidence": "medium",
+          "rationale": "The Chicago Cubs boast one of baseball's best offenses in 2026, having scored 55 runs in just six head-to-head matchups against the Padres this season, including a 23-3 victory. Pete Crow-Armstrong has been particularly dominant against San Diego pitching, with 4 home runs and 10 RBIs in those games. Both teams enter this Wild Card series with potent offenses, as both have hit 12 home runs in their last 10 games. While Matthew Boyd (3.91 ERA) starts for the Cubs, the Padres' recent offensive surge, including an 18-6 record in September, suggests they will contribute to a higher-scoring affair.",
+          "awayRecord": "89-73",
+          "homeRecord": "91-71",
+          "startTime": "2026-09-30T02:00Z"
+        },
+        {
+          "game": "Chicago White Sox @ Houston Astros",
           "betType": "moneyline",
-          "pick": "Philadelphia Eagles (-192)",
-          "odds": "-192",
+          "pick": "Chicago White Sox (+105)",
+          "odds": "+105",
           "confidence": "medium",
-          "rationale": "The Philadelphia Eagles are the clear favorites in this matchup, primarily due to the significant quarterback disparity with Caleb Williams out for the Bears. The Eagles enter the game with a 2-0 record and a talented roster, even with some key offensive injuries. While moneyline bets offer lower payouts for favorites, this pick provides a relatively safe option given the Bears' offensive challenges with a backup quarterback who hasn't played meaningful snaps in years. The Eagles' implied win probability is around 67.7% based on the moneyline.",
-          "awayRecord": "2-0",
-          "homeRecord": "1-1",
-          "startTime": "2026-09-29T00:15Z",
-          "awayLast5": [
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L"
-          ]
+          "rationale": "The Chicago White Sox present significant value as moneyline underdogs in this AL Wild Card matchup, primarily due to their starting pitching advantage. Rookie left-hander Hagen Smith has been exceptional with a 1.29 ERA and 0.96 WHIP, providing a strong foundation for the White Sox. In contrast, Houston is relying on A.J. Blubaugh as an opener, who has struggled recently with a 7.71 ERA in September, indicating vulnerability. While Houston's high-leverage bullpen arms are rested, the White Sox offense has shown recent improvement, with a 112 wRC+ and .736 OPS over their last 12 games, positioning them to capitalize on Houston's bullpen-heavy strategy.",
+          "awayRecord": "84-78",
+          "homeRecord": "81-81",
+          "startTime": "2026-09-29T21:00Z"
         }
       ]
     }

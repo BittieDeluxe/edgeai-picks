@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-09-28",
+    "sports": [
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Philadelphia Eagles vs Chicago Bears",
+            "betType": "total",
+            "pick": "Under 41.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Eagles 7, Chicago Bears 27"
+          },
+          {
+            "game": "Philadelphia Eagles vs Chicago Bears",
+            "betType": "prop",
+            "pick": "DeVonta Smith Over 71.5 Receiving Yards",
+            "odds": "-113",
+            "confidence": "high",
+            "result": "L",
+            "score": "DeVonta Smith: 65 Receiving Yards (line 71.5)"
+          },
+          {
+            "game": "Philadelphia Eagles vs Chicago Bears",
+            "betType": "spread",
+            "pick": "Philadelphia Eagles -3.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Eagles 7, Chicago Bears 27"
+          },
+          {
+            "game": "Philadelphia Eagles vs Chicago Bears",
+            "betType": "spread",
+            "pick": "Chicago Bears +3.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Eagles 7, Chicago Bears 27"
+          },
+          {
+            "game": "Philadelphia Eagles vs Chicago Bears",
+            "betType": "moneyline",
+            "pick": "Philadelphia Eagles (-192)",
+            "odds": "-192",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Eagles 7, Chicago Bears 27"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-27",
     "sports": [
       {
@@ -3175,112 +3231,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "New England Revolution 3, Columbus Crew 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-29",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Colorado Rockies @ Atlanta Braves",
-            "betType": "spread",
-            "pick": "Atlanta Braves -1.5",
-            "odds": "+100",
-            "confidence": "high",
-            "result": "L",
-            "score": "Colorado Rockies 1, Atlanta Braves 2"
-          },
-          {
-            "game": "Kansas City Royals @ Cleveland Guardians",
-            "betType": "spread",
-            "pick": "Kansas City Royals +1.5",
-            "odds": "-142",
-            "confidence": "high",
-            "result": "W",
-            "score": "Kansas City Royals 8, Cleveland Guardians 3"
-          },
-          {
-            "game": "San Diego Padres @ Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays (-164)",
-            "odds": "-164",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Diego Padres 6, Tampa Bay Rays 7"
-          },
-          {
-            "game": "Miami Marlins @ Washington Nationals",
-            "betType": "moneyline",
-            "pick": "Miami Marlins (-116)",
-            "odds": "-116",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Miami Marlins 4, Washington Nationals 5"
-          },
-          {
-            "game": "Seattle Mariners @ Toronto Blue Jays",
-            "betType": "total",
-            "pick": "Under 8",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Mariners 3, Toronto Blue Jays 4"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Chicago Fire FC vs Seattle Sounders FC",
-            "betType": "moneyline",
-            "pick": "Chicago Fire FC",
-            "odds": "+125",
-            "confidence": "high",
-            "result": "L",
-            "score": "Chicago Fire FC 2, Seattle Sounders FC 2"
-          },
-          {
-            "game": "New York City FC vs Toronto FC",
-            "betType": "moneyline",
-            "pick": "Toronto FC",
-            "odds": "+145",
-            "confidence": "high",
-            "result": "L",
-            "score": "Chicago Fire FC 2, Seattle Sounders FC 2"
-          },
-          {
-            "game": "FC Cincinnati vs Nashville SC",
-            "betType": "moneyline",
-            "pick": "Nashville SC",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "FC Cincinnati 0, Nashville SC 4"
-          },
-          {
-            "game": "Vancouver Whitecaps vs Sporting Kansas City",
-            "betType": "moneyline",
-            "pick": "Vancouver Whitecaps",
-            "odds": "-250",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Vancouver Whitecaps 3, Sporting Kansas City 0"
-          },
-          {
-            "game": "LA Galaxy vs San Diego FC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "W",
-            "score": "LA Galaxy 1, San Diego FC 3"
           }
         ]
       }
