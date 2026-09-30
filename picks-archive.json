@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-09-29",
+    "sports": [
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Boston Red Sox @ New York Yankees",
+            "betType": "total",
+            "pick": "Under 6",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Boston Red Sox 0, New York Yankees 9"
+          },
+          {
+            "game": "Philadelphia Phillies @ Atlanta Braves",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Phillies 3, Atlanta Braves 5"
+          },
+          {
+            "game": "Chicago White Sox @ Houston Astros",
+            "betType": "total",
+            "pick": "Over 8",
+            "odds": "-117",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago White Sox 6, Houston Astros 3"
+          },
+          {
+            "game": "Chicago Cubs @ San Diego Padres",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago Cubs 0, San Diego Padres 8"
+          },
+          {
+            "game": "Chicago White Sox @ Houston Astros",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox (+105)",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago White Sox 6, Houston Astros 3"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-28",
     "sports": [
       {
@@ -3125,112 +3181,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Milwaukee Brewers 3, Chicago Cubs 17"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-08-30",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Miami Marlins vs Washington Nationals",
-            "betType": "moneyline",
-            "pick": "Washington Nationals (-135)",
-            "odds": "-135",
-            "confidence": "high",
-            "result": "L",
-            "score": "Miami Marlins 6, Washington Nationals 2"
-          },
-          {
-            "game": "Boston Red Sox vs New York Yankees",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox (-142)",
-            "odds": "-142",
-            "confidence": "high",
-            "result": "L",
-            "score": "Boston Red Sox 1, New York Yankees 16"
-          },
-          {
-            "game": "Colorado Rockies vs Atlanta Braves",
-            "betType": "spread",
-            "pick": "Atlanta Braves -1.5 (-120)",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Colorado Rockies 2, Atlanta Braves 3"
-          },
-          {
-            "game": "Seattle Mariners vs Toronto Blue Jays",
-            "betType": "moneyline",
-            "pick": "Toronto Blue Jays (+122)",
-            "odds": "+122",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Mariners 0, Toronto Blue Jays 7"
-          },
-          {
-            "game": "Los Angeles Dodgers vs Detroit Tigers",
-            "betType": "total",
-            "pick": "Under 7.5 (-122)",
-            "odds": "-122",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Los Angeles Dodgers 6, Detroit Tigers 1"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "New England Revolution vs Columbus Crew",
-            "betType": "moneyline",
-            "pick": "New England Revolution",
-            "odds": "+210",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New England Revolution 3, Columbus Crew 1"
-          },
-          {
-            "game": "New England Revolution vs Columbus Crew",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-160",
-            "confidence": "high",
-            "result": "W",
-            "score": "New England Revolution 3, Columbus Crew 1"
-          },
-          {
-            "game": "FC Dallas vs St. Louis CITY SC",
-            "betType": "moneyline",
-            "pick": "St. Louis CITY SC",
-            "odds": "+100",
-            "confidence": "high",
-            "result": "L",
-            "score": "FC Dallas 3, St. Louis CITY SC 3"
-          },
-          {
-            "game": "FC Dallas vs St. Louis CITY SC",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+120",
-            "confidence": "medium",
-            "result": "L",
-            "score": "FC Dallas 3, St. Louis CITY SC 3"
-          },
-          {
-            "game": "New England Revolution vs Columbus Crew",
-            "betType": "moneyline",
-            "pick": "Columbus Crew",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New England Revolution 3, Columbus Crew 1"
           }
         ]
       }

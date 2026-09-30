@@ -1,64 +1,123 @@
 {
-  "date": "2026-09-29",
-  "generatedAt": "2026-09-29T15:39:10.526Z",
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T15:50:19.164Z",
   "sports": [
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Boston Red Sox @ New York Yankees",
-          "betType": "total",
-          "pick": "Under 6",
-          "odds": "-104",
-          "confidence": "medium",
-          "rationale": "This AL Wild Card game features a premier pitching matchup between New York's Cam Schlittler, the presumptive AL Cy Young winner with a 1.95 ERA, and Boston's Payton Tolle, who holds a strong 3.03 ERA. Both starters exhibit excellent strikeout capabilities and have historically limited opposing offenses, with the Yankees' projected lineup hitting only 12-for-64 against Tolle and the Red Sox 4-for-32 against Schlittler. The Red Sox pitching staff has a 2.45 ERA over their last 10 games, further supporting a low-scoring affair. With the total line already moving down from 6.5 to 6, sharp money indicates a strong expectation for runs to be at a premium in this playoff contest.",
-          "awayRecord": "87-75",
-          "homeRecord": "93-68",
-          "startTime": "2026-09-30T00:00Z"
-        },
-        {
-          "game": "Philadelphia Phillies @ Atlanta Braves",
+          "game": "Boston Red Sox vs New York Yankees",
           "betType": "total",
           "pick": "Under 6.5",
           "odds": "+100",
           "confidence": "medium",
-          "rationale": "The pitching matchup in this NL Wild Card opener is formidable, with Atlanta's Chris Sale (2.16 ERA) having a dominant 4-0 record and 2.08 ERA against the Phillies this season. Philadelphia counters with Jesús Luzardo (2.86 ERA) as an opener, who, despite a recent shoulder injury, previously threw a 12-strikeout complete game shutout against the Braves. While the Phillies' bullpen has struggled in September with a 5.79 ERA, Sale's ability to go deep into games and Luzardo's potential to limit early runs should keep the score low. The Braves' overall bullpen ERA of 3.44 also provides a solid back end, making the Under a high-confidence play.",
+          "rationale": "This game features a strong pitching matchup between Sonny Gray (BOS) and Max Fried (NYY), both boasting excellent ERAs and WHIPs, which typically leads to lower-scoring contests. The total has seen reverse line movement, with the juice shifting towards the Under despite a majority of public bets on the Over, indicating sharp money is backing the low score. Boston's offense has been struggling significantly, hitting just .210 over their recent stretch and a meager .199 against the Yankees this season. Furthermore, the Yankees are playing without Aaron Judge, their key offensive player, further diminishing the potential for high run production from either side in this elimination game.",
+          "awayRecord": "87-75",
+          "homeRecord": "93-68",
+          "startTime": "2026-10-01T00:00Z",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "W"
+          ]
+        },
+        {
+          "game": "Philadelphia Phillies vs Atlanta Braves",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-134",
+          "confidence": "high",
+          "rationale": "The total for this game initially saw movement downwards from 7.5 to 7, suggesting early sharp money on the under, even though it has settled back at 7.5. The pitching matchup features Cristopher Sanchez (PHI) with a solid 2.91 ERA and Tyler Mahle (ATL), who has been exceptional for Atlanta with a 1.99 ERA in his nine starts since joining the team. Philadelphia's offense has been in a slump, averaging only 3.2 runs per game over their final 10 regular-season games. With Atlanta leading the Wild Card series 1-0, both teams are expected to rely heavily on their starting pitchers and tight defense in this crucial Game 2, favoring a lower scoring outcome.",
           "awayRecord": "88-74",
           "homeRecord": "94-68",
-          "startTime": "2026-09-29T18:00Z"
+          "startTime": "2026-09-30T18:00Z",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "W"
+          ]
         },
         {
-          "game": "Chicago White Sox @ Houston Astros",
+          "game": "Chicago White Sox vs Houston Astros",
           "betType": "total",
-          "pick": "Over 8",
-          "odds": "-117",
-          "confidence": "high",
-          "rationale": "Both the White Sox and Astros are employing an opener strategy for this AL Wild Card game, which often leads to more pitching changes and scoring opportunities. Houston's opener, A.J. Blubaugh, has a concerning 7.71 ERA in September with a high home run and elevation rate, making him vulnerable to the White Sox's improving offense. The White Sox have posted a 112 wRC+ and .736 OPS over their last 12 games, while Houston's offense has been red-hot, hitting 25 home runs and slugging .543 in their last 10 games. Both teams' games averaged over 9.2 runs this season, and with high walk rates expected from both openers, the conditions are ripe for an offensive outburst.",
+          "pick": "Under 7.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "The total for this game has already fallen to 7.5, indicating an expectation of fewer runs scored. Houston's starting pitcher, Hunter Brown, has been in excellent form recently, boasting a 2.45 ERA and a high strikeout rate over his last six regular-season starts. Additionally, the Astros are without key offensive players like Yordan Alvarez and Jeremy Pena due to injury, which will likely limit their run-scoring potential. Sean Burke (CHW) has also demonstrated effectiveness against the Astros in past matchups, further supporting a low-scoring affair.",
           "awayRecord": "84-78",
           "homeRecord": "81-81",
-          "startTime": "2026-09-29T21:00Z"
+          "startTime": "2026-09-30T21:00Z",
+          "awayLast5": [
+            "W"
+          ],
+          "homeLast5": [
+            "L"
+          ]
         },
         {
-          "game": "Chicago Cubs @ San Diego Padres",
-          "betType": "total",
-          "pick": "Over 7.5",
-          "odds": "-106",
+          "game": "Chicago Cubs vs San Diego Padres",
+          "betType": "moneyline",
+          "pick": "San Diego Padres",
+          "odds": "-144",
           "confidence": "medium",
-          "rationale": "The Chicago Cubs boast one of baseball's best offenses in 2026, having scored 55 runs in just six head-to-head matchups against the Padres this season, including a 23-3 victory. Pete Crow-Armstrong has been particularly dominant against San Diego pitching, with 4 home runs and 10 RBIs in those games. Both teams enter this Wild Card series with potent offenses, as both have hit 12 home runs in their last 10 games. While Matthew Boyd (3.91 ERA) starts for the Cubs, the Padres' recent offensive surge, including an 18-6 record in September, suggests they will contribute to a higher-scoring affair.",
+          "rationale": "The San Diego Padres enter this game with significant momentum after a dominant 8-0 victory in Game 1 of the Wild Card series. The Padres have also been in excellent recent form, holding an 8-2 record in their last 10 games. Line movement has been favorable for San Diego, with their moneyline price improving from an earlier -140 to -132, and then to -137, despite attracting a majority of both money and tickets. With Nick Pivetta, who has a stronger starting-pitcher profile, on the mound for the Padres and a fresher bullpen, San Diego is well-positioned to secure the series win at home.",
           "awayRecord": "89-73",
           "homeRecord": "91-71",
-          "startTime": "2026-09-30T02:00Z"
+          "startTime": "2026-10-01T02:00Z",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "W"
+          ]
         },
         {
-          "game": "Chicago White Sox @ Houston Astros",
-          "betType": "moneyline",
-          "pick": "Chicago White Sox (+105)",
-          "odds": "+105",
+          "game": "Boston Red Sox vs New York Yankees",
+          "betType": "prop",
+          "pick": "Cam Schlittler Over 5.5 Strikeouts",
+          "odds": "N/A",
           "confidence": "medium",
-          "rationale": "The Chicago White Sox present significant value as moneyline underdogs in this AL Wild Card matchup, primarily due to their starting pitching advantage. Rookie left-hander Hagen Smith has been exceptional with a 1.29 ERA and 0.96 WHIP, providing a strong foundation for the White Sox. In contrast, Houston is relying on A.J. Blubaugh as an opener, who has struggled recently with a 7.71 ERA in September, indicating vulnerability. While Houston's high-leverage bullpen arms are rested, the White Sox offense has shown recent improvement, with a 112 wRC+ and .736 OPS over their last 12 games, positioning them to capitalize on Houston's bullpen-heavy strategy.",
-          "awayRecord": "84-78",
-          "homeRecord": "81-81",
-          "startTime": "2026-09-29T21:00Z"
+          "rationale": "Cam Schlittler is the confirmed starting pitcher for the New York Yankees and has demonstrated strong performance with an 11-6 record and a 2.16 ERA. The Boston Red Sox offense has been struggling significantly, hitting a mere .199 against the Yankees this season and a low .210 over their last 10 games, which presents ample strikeout opportunities. Furthermore, Red Sox outfielder Roman Anthony left Game 1 with a hand injury, potentially weakening their lineup and increasing the likelihood of strikeouts. Given Schlittler's strong pitching and Boston's offensive woes, he is highly likely to exceed 5.5 strikeouts.",
+          "propPlayer": "Cam Schlittler",
+          "propTeam": "New York Yankees",
+          "awayRecord": "87-75",
+          "homeRecord": "93-68",
+          "startTime": "2026-10-01T00:00Z",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "St. Louis CITY SC vs Red Bull New York",
+          "betType": "moneyline",
+          "pick": "St. Louis CITY SC",
+          "odds": "-115",
+          "confidence": "high",
+          "rationale": "St. Louis CITY SC enters this match on an impressive 16-game unbeaten run, demonstrating strong current form. In contrast, Red Bull New York is severely hampered by numerous absences, with nine players out due to international duty or injury, including key striker Julian Hall and other starters. St. Louis also boasts a solid away record, being unbeaten in their last six road games (4 wins, 2 draws). With RBNY's squad depth significantly challenged, St. Louis has a clear advantage to secure the win.",
+          "awayRecord": "12-8-6",
+          "homeRecord": "9-6-11",
+          "startTime": "2026-09-30T23:30Z"
+        },
+        {
+          "game": "St. Louis CITY SC vs Red Bull New York",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-150",
+          "confidence": "high",
+          "rationale": "While St. Louis CITY SC has shown strong offensive form recently, scoring 15 goals in their last five outings, Red Bull New York's significant offensive absences are a major factor for this total. Key RBNY attackers like Julian Hall, Ronald Donkor, and Adri Mehmeti are unavailable, severely blunting their ability to contribute to a high-scoring game. RBNY's goalkeeper Ethan Horvath has also been in good form, recording three clean sheets in his last four matches. The market also heavily favors the Under 3.5 at -150, suggesting sharp money aligns with a lower-scoring affair.",
+          "awayRecord": "12-8-6",
+          "homeRecord": "9-6-11",
+          "startTime": "2026-09-30T23:30Z"
         }
       ]
     }
