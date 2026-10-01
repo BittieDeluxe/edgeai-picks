@@ -1,95 +1,363 @@
 {
-  "date": "2026-09-30",
-  "generatedAt": "2026-09-30T15:50:19.164Z",
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T16:17:23.661Z",
   "sports": [
+    {
+      "sport": "NHL",
+      "picks": [
+        {
+          "game": "Edmonton Oilers vs Vancouver Canucks",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The previous day's game between these two teams on September 30, 2026, resulted in a high-scoring 6-5 overtime victory for the Canucks, totaling 11 goals. Both teams are on a back-to-back, which often leads to increased fatigue and potential defensive breakdowns. The Edmonton Oilers were a high-octane offensive team in 2025-26, ranking 6th in goals for, while the Vancouver Canucks had the league's worst defense, allowing the most goals (316 GA). This combination of recent high-scoring action, back-to-back fatigue, and last season's statistical trends strongly points to another game exceeding the total.",
+          "awayRecord": "0-0-1",
+          "homeRecord": "1-0-0",
+          "startTime": "2026-10-02T02:00Z",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "W"
+          ]
+        },
+        {
+          "game": "Seattle Kraken vs Calgary Flames",
+          "betType": "total",
+          "pick": "Under 5.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "Both the Seattle Kraken and Calgary Flames demonstrated significant offensive struggles during the 2025-26 season. Calgary ranked last in the league with only 208 goals for, and Seattle was not far ahead, ranking 28th with 224 goals for. The Flames also had a poor start to their 2025-26 season in October, posting a 2-8-2 record. Given the historical lack of scoring power from both sides, coupled with average defensive performances, a low-scoring affair is highly anticipated for this season opener.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0",
+          "startTime": "2026-10-02T01:00Z"
+        },
+        {
+          "game": "Minnesota Wild vs Nashville Predators",
+          "betType": "moneyline",
+          "pick": "Minnesota Wild (-148)",
+          "odds": "-148",
+          "confidence": "high",
+          "rationale": "The Minnesota Wild enter this season after a strong 2025-26 campaign, finishing with 104 points, a top-10 offense, and a top-5 defense, which led to a second-round playoff appearance. In contrast, the Nashville Predators missed the playoffs for the second consecutive season, exhibiting weaker offensive and defensive metrics. Minnesota's superior overall team strength, consistency, and recent playoff success from the previous season provide a clear advantage over a struggling Predators squad in this opening night contest.",
+          "awayRecord": "0-0-0",
+          "homeRecord": "0-0-0",
+          "startTime": "2026-10-02T00:00Z"
+        },
+        {
+          "game": "Philadelphia Flyers vs New Jersey Devils",
+          "betType": "total",
+          "pick": "Under 5.5",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "The New Jersey Devils' offense ranked 27th in goals for during the 2025-26 season, indicating a struggle to consistently put up high scoring numbers. The Philadelphia Flyers are playing on a back-to-back after their season opener, which typically leads to reduced offensive energy and potentially tighter, more conservative play. While the Flyers had a better offensive year, the Devils' solid defense (18th in goals against) combined with Philadelphia's fatigue could limit scoring opportunities, making the Under a valuable play at even odds.",
+          "awayRecord": "0-1-0",
+          "homeRecord": "0-0-0",
+          "startTime": "2026-10-01T23:00Z",
+          "awayLast5": [
+            "L"
+          ]
+        },
+        {
+          "game": "Florida Panthers vs San Jose Sharks",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "The Florida Panthers, despite their championship pedigree, finished the 2025-26 season with a high goals-against average, ranking 28th in the league defensively, while maintaining a decent offense. Playing on a back-to-back after their season opener, Florida's defense might be more susceptible to lapses due to fatigue. The San Jose Sharks, likely a weaker opponent, could exploit these defensive vulnerabilities, and the Panthers' own offensive capabilities should contribute to a higher-scoring game, making the plus-money odds on the Over attractive.",
+          "awayRecord": "1-0-0",
+          "homeRecord": "0-0-0",
+          "startTime": "2026-10-02T02:00Z",
+          "awayLast5": [
+            "W"
+          ]
+        }
+      ]
+    },
     {
       "sport": "MLB",
       "picks": [
         {
-          "game": "Boston Red Sox vs New York Yankees",
+          "game": "Philadelphia Phillies vs Atlanta Braves",
           "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "This game features a strong pitching matchup between Sonny Gray (BOS) and Max Fried (NYY), both boasting excellent ERAs and WHIPs, which typically leads to lower-scoring contests. The total has seen reverse line movement, with the juice shifting towards the Under despite a majority of public bets on the Over, indicating sharp money is backing the low score. Boston's offense has been struggling significantly, hitting just .210 over their recent stretch and a meager .199 against the Yankees this season. Furthermore, the Yankees are playing without Aaron Judge, their key offensive player, further diminishing the potential for high run production from either side in this elimination game.",
-          "awayRecord": "87-75",
-          "homeRecord": "93-68",
-          "startTime": "2026-10-01T00:00Z",
+          "pick": "Under 7.5",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "The first two Wild Card games between these teams have been low-scoring, finishing with 8 and 7 total runs respectively, averaging exactly 7.5 runs. The high-pressure, winner-take-all nature of Game 3 often leads to more conservative play and tighter pitching, especially in the early innings. Both teams have shown a slight tendency towards the under in their season-long betting trends, with the Braves going under in 79 of 154 games and the Phillies going under in 81 of 158 games. Betting analysis also identifies the Under 7.5 as a strong play, citing recent game totals and venue profiles.",
+          "awayRecord": "88-74",
+          "homeRecord": "94-68",
+          "startTime": "2026-10-02T00:00Z",
           "awayLast5": [
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
-            "W"
+            "W",
+            "L"
           ]
         },
         {
           "game": "Philadelphia Phillies vs Atlanta Braves",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-134",
+          "betType": "spread",
+          "pick": "Atlanta Braves +1.5",
+          "odds": "-192",
           "confidence": "high",
-          "rationale": "The total for this game initially saw movement downwards from 7.5 to 7, suggesting early sharp money on the under, even though it has settled back at 7.5. The pitching matchup features Cristopher Sanchez (PHI) with a solid 2.91 ERA and Tyler Mahle (ATL), who has been exceptional for Atlanta with a 1.99 ERA in his nine starts since joining the team. Philadelphia's offense has been in a slump, averaging only 3.2 runs per game over their final 10 regular-season games. With Atlanta leading the Wild Card series 1-0, both teams are expected to rely heavily on their starting pitchers and tight defense in this crucial Game 2, favoring a lower scoring outcome.",
+          "rationale": "The Atlanta Braves are playing at home in a decisive Game 3, where they hold a superior regular-season record of 94-68 compared to the Phillies' 88-74. Historically, the Braves have a strong record covering the +1.5 run line against the Phillies, doing so in eight of their last ten meetings this season. A significant factor is the Phillies' bullpen, which has struggled with a 5.94 ERA and has blown all eight save chances since the 2023 NLCS, making them vulnerable in close games. The Braves' ability to keep games tight, combined with Philadelphia's bullpen woes, makes the +1.5 run line a high-confidence pick.",
           "awayRecord": "88-74",
           "homeRecord": "94-68",
-          "startTime": "2026-09-30T18:00Z",
+          "startTime": "2026-10-02T00:00Z",
           "awayLast5": [
-            "L"
-          ],
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Chicago White Sox vs Houston Astros",
-          "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "The total for this game has already fallen to 7.5, indicating an expectation of fewer runs scored. Houston's starting pitcher, Hunter Brown, has been in excellent form recently, boasting a 2.45 ERA and a high strikeout rate over his last six regular-season starts. Additionally, the Astros are without key offensive players like Yordan Alvarez and Jeremy Pena due to injury, which will likely limit their run-scoring potential. Sean Burke (CHW) has also demonstrated effectiveness against the Astros in past matchups, further supporting a low-scoring affair.",
-          "awayRecord": "84-78",
-          "homeRecord": "81-81",
-          "startTime": "2026-09-30T21:00Z",
-          "awayLast5": [
+            "L",
             "W"
           ],
           "homeLast5": [
+            "W",
             "L"
           ]
         },
         {
-          "game": "Chicago Cubs vs San Diego Padres",
-          "betType": "moneyline",
-          "pick": "San Diego Padres",
-          "odds": "-144",
-          "confidence": "medium",
-          "rationale": "The San Diego Padres enter this game with significant momentum after a dominant 8-0 victory in Game 1 of the Wild Card series. The Padres have also been in excellent recent form, holding an 8-2 record in their last 10 games. Line movement has been favorable for San Diego, with their moneyline price improving from an earlier -140 to -132, and then to -137, despite attracting a majority of both money and tickets. With Nick Pivetta, who has a stronger starting-pitcher profile, on the mound for the Padres and a fresher bullpen, San Diego is well-positioned to secure the series win at home.",
-          "awayRecord": "89-73",
-          "homeRecord": "91-71",
-          "startTime": "2026-10-01T02:00Z",
-          "awayLast5": [
-            "L"
-          ],
-          "homeLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Boston Red Sox vs New York Yankees",
+          "game": "Philadelphia Phillies vs Atlanta Braves",
           "betType": "prop",
-          "pick": "Cam Schlittler Over 5.5 Strikeouts",
-          "odds": "N/A",
-          "confidence": "medium",
-          "rationale": "Cam Schlittler is the confirmed starting pitcher for the New York Yankees and has demonstrated strong performance with an 11-6 record and a 2.16 ERA. The Boston Red Sox offense has been struggling significantly, hitting a mere .199 against the Yankees this season and a low .210 over their last 10 games, which presents ample strikeout opportunities. Furthermore, Red Sox outfielder Roman Anthony left Game 1 with a hand injury, potentially weakening their lineup and increasing the likelihood of strikeouts. Given Schlittler's strong pitching and Boston's offensive woes, he is highly likely to exceed 5.5 strikeouts.",
-          "propPlayer": "Cam Schlittler",
-          "propTeam": "New York Yankees",
-          "awayRecord": "87-75",
-          "homeRecord": "93-68",
-          "startTime": "2026-10-01T00:00Z",
+          "pick": "Matt Olson Over 0.5 Home Runs",
+          "odds": "+490",
+          "confidence": "high",
+          "rationale": "Matt Olson, a prominent power hitter for the Braves, ranked sixth in the Majors in home runs this season. He faces Phillies starter Aaron Nola, who has notably given up the most home runs in baseball this season. This favorable pitching matchup significantly increases Olson's chances of hitting a home run, despite his recent six-game homerless streak. Olson is confirmed to be in the Braves' lineup for today's game.",
+          "awayRecord": "88-74",
+          "homeRecord": "94-68",
+          "startTime": "2026-10-02T00:00Z",
           "awayLast5": [
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Philadelphia Phillies vs Atlanta Braves",
+          "betType": "prop",
+          "pick": "Bryce Harper Over 1.5 Total Bases",
+          "odds": "+132",
+          "confidence": "medium",
+          "rationale": "Bryce Harper is a key power hitter for the Phillies and demonstrated his ability by hitting a home run in Game 2 of this Wild Card series. He is a consistent threat for extra-base hits or multiple singles, which would easily cover the 1.5 total bases line. Harper is confirmed in the Phillies' lineup and is expected to play a crucial role in this winner-take-all game. Given his postseason experience and recent performance, he is well-positioned to exceed this total.",
+          "awayRecord": "88-74",
+          "homeRecord": "94-68",
+          "startTime": "2026-10-02T00:00Z",
+          "awayLast5": [
+            "L",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Philadelphia Phillies vs Atlanta Braves",
+          "betType": "prop",
+          "pick": "Mauricio Dubón Over 1.5 Total Bases",
+          "odds": "-111",
+          "confidence": "medium",
+          "rationale": "Mauricio Dubón has been performing well in the Wild Card series, recording three hits in nine at-bats through the first two games. He has also been noted for recording 2+ bases in both games of this series and in four of his last six games overall. Dubón is confirmed to be in the Braves' lineup, likely playing shortstop. His recent form and ability to collect multiple hits or an extra-base hit make the Over 1.5 Total Bases a strong pick.",
+          "awayRecord": "88-74",
+          "homeRecord": "94-68",
+          "startTime": "2026-10-02T00:00Z",
+          "awayLast5": [
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "NFL",
+      "picks": [
+        {
+          "game": "Pittsburgh Steelers vs Cleveland Browns",
+          "betType": "total",
+          "pick": "Under 38.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Both teams are on a short week, which often leads to lower-scoring affairs. The head-to-head history between the Steelers and Browns in 2025 saw combined scores of 32 and 19 points, indicating a trend towards unders. Cleveland's offense is hampered by injuries to two starting interior offensive linemen (G Teven Jenkins, C Elgton Jenkins), which is expected to lead to a more run-heavy, low-volume passing approach from Deshaun Watson, further limiting scoring potential. Both offenses rank in the bottom half of the league in points per game, and sharp money has reportedly moved towards the Under despite a slight line increase.",
+          "awayRecord": "2-1",
+          "homeRecord": "2-1",
+          "startTime": "2026-10-02T00:15Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Pittsburgh Steelers vs Cleveland Browns",
+          "betType": "spread",
+          "pick": "Cleveland Browns +2.5",
+          "odds": "+100",
+          "confidence": "high",
+          "rationale": "The Browns are playing at home on a short week, a situational factor where they have historically performed well against the Steelers, including multiple wins in this Thursday night spot. Pittsburgh has a notable 0-9 all-time record in divisional road games played on Thursday night, which is a significant historical trend favoring Cleveland. The spread has also moved from Steelers -3 to -2.5, suggesting sharp money is backing the Browns. While the Steelers are missing key secondary players like Joey Porter Jr. (OUT) and potentially Jalen Ramsey and Brandin Echols (QUESTIONABLE), the Browns' defensive front has shown an ability to generate pressure and keep opponents' scores low.",
+          "awayRecord": "2-1",
+          "homeRecord": "2-1",
+          "startTime": "2026-10-02T00:15Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Pittsburgh Steelers vs Cleveland Browns",
+          "betType": "moneyline",
+          "pick": "Cleveland Browns (+124)",
+          "odds": "+124",
+          "confidence": "medium",
+          "rationale": "Building on the reasons for the Browns +2.5 spread pick, the moneyline offers excellent value for an outright Cleveland victory. The Browns' strong home-field advantage on Thursday Night Football against a divisional rival, coupled with the Steelers' historical struggles in such matchups (0-9 all-time in divisional road TNF games), points to a potential upset. Deshaun Watson, despite his 0-3 record against the Steelers, is coming off a solid performance, and the Browns' defense is expected to keep the game tight. This pick relies on Cleveland's ability to capitalize on their home environment and Pittsburgh's historical road struggles in this specific prime-time slot.",
+          "awayRecord": "2-1",
+          "homeRecord": "2-1",
+          "startTime": "2026-10-02T00:15Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "NCAAF",
+      "picks": [
+        {
+          "game": "Western Kentucky Hilltoppers vs New Mexico State Aggies",
+          "betType": "total",
+          "pick": "Over 56.5",
+          "odds": "-106",
+          "confidence": "medium",
+          "rationale": "Western Kentucky's offense showed significant improvement last week, scoring 52 points, with QB Rodney Tisdale Jr. throwing four touchdowns in his return. New Mexico State's defense has been vulnerable, allowing 42 points to New Mexico recently and ranking 88th nationally in points allowed per game in 2025. Head-to-head history supports higher scoring, with two of the last three matchups going over the total, including a 69-point game in 2024. The total line has also seen movement upwards from the low-to-mid 50s to 56.5, indicating market confidence in an offensive shootout.",
+          "awayRecord": "1-3",
+          "homeRecord": "1-3",
+          "startTime": "2026-10-02T00:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Western Kentucky Hilltoppers vs New Mexico State Aggies",
+          "betType": "spread",
+          "pick": "Western Kentucky Hilltoppers +2.5",
+          "odds": "-114",
+          "confidence": "high",
+          "rationale": "Western Kentucky has a more stable quarterback situation with Rodney Tisdale Jr. back and performing well, while New Mexico State has faced quarterback uncertainty and turnover issues, with Trey Hedden throwing five interceptions and losing two fumbles. The Hilltoppers have endured a significantly tougher early-season schedule, including games against top-ranked opponents, making their 1-3 record somewhat deceiving. Western Kentucky has covered the spread in 7 of their last 10 games and easily handled New Mexico State in their last two head-to-head matchups. Despite some line movement towards New Mexico State, WKU's offensive potential and NMSU's struggles make them a strong underdog play.",
+          "awayRecord": "1-3",
+          "homeRecord": "1-3",
+          "startTime": "2026-10-02T00:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "North Texas Mean Green vs Tulsa Golden Hurricane",
+          "betType": "total",
+          "pick": "Under 56.5",
+          "odds": "-104",
+          "confidence": "medium",
+          "rationale": "Tulsa's defense has been exceptional this season, allowing only 9.0 points per game through three contests and limiting opponents to 102.3 rushing yards per game. The Golden Hurricane are a strong 'Under' team, with their games going under the total in all four outings this season by an average of over 15 points per game. While North Texas's road defense has struggled, Tulsa's offense tends to be run-first and ball-control, which can limit possessions and scoring opportunities. Additionally, Tulsa QB Baylor Hayes is returning from a knee injury on a short week, which could temper their offensive explosiveness.",
+          "awayRecord": "2-2",
+          "homeRecord": "3-1",
+          "startTime": "2026-10-02T01:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "North Texas Mean Green vs Tulsa Golden Hurricane",
+          "betType": "spread",
+          "pick": "Tulsa Golden Hurricane +1.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Tulsa enters this game with a strong 3-1 record and is unbeaten at home, providing a significant advantage in this conference opener. Their defense has been a dominant force, allowing just 9.0 points per game and excelling against the run. North Texas, conversely, has struggled on the road this season, giving up 52 and 49 points in their two away losses. The return of Tulsa's starting quarterback, Baylor Hayes, despite a short week, provides a boost to their offensive capabilities.",
+          "awayRecord": "2-2",
+          "homeRecord": "3-1",
+          "startTime": "2026-10-02T01:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "North Texas Mean Green vs Tulsa Golden Hurricane",
+          "betType": "moneyline",
+          "pick": "Tulsa Golden Hurricane (-102)",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "Tulsa holds a 3-1 overall record and maintains an unblemished home record, making them a formidable opponent in their own stadium. Their defense has been a standout unit, conceding only 9.0 points per game and demonstrating strong play against both the run and pass. North Texas has shown vulnerability in road games, allowing high point totals, which Tulsa's defense can exploit. With quarterback Baylor Hayes confirmed to start, Tulsa's offense should be more effective, and several betting analyses also favor Tulsa to win outright.",
+          "awayRecord": "2-2",
+          "homeRecord": "3-1",
+          "startTime": "2026-10-02T01:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L"
           ]
         }
       ]
@@ -98,26 +366,26 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "St. Louis CITY SC vs Red Bull New York",
+          "game": "Sporting Kansas City @ Seattle Sounders FC",
           "betType": "moneyline",
-          "pick": "St. Louis CITY SC",
-          "odds": "-115",
+          "pick": "Seattle Sounders FC",
+          "odds": "-210",
           "confidence": "high",
-          "rationale": "St. Louis CITY SC enters this match on an impressive 16-game unbeaten run, demonstrating strong current form. In contrast, Red Bull New York is severely hampered by numerous absences, with nine players out due to international duty or injury, including key striker Julian Hall and other starters. St. Louis also boasts a solid away record, being unbeaten in their last six road games (4 wins, 2 draws). With RBNY's squad depth significantly challenged, St. Louis has a clear advantage to secure the win.",
-          "awayRecord": "12-8-6",
-          "homeRecord": "9-6-11",
-          "startTime": "2026-09-30T23:30Z"
+          "rationale": "Seattle Sounders FC is in excellent form, boasting a seven-game unbeaten run and two consecutive victories, while Sporting Kansas City sits at the bottom of the conference. The Sounders have a formidable home defense, conceding only 0.85 goals per game at Lumen Field and recording five clean sheets. Conversely, Sporting KC has a poor away record, losing 10 of 13 road games and allowing 37 goals. With significant playoff implications, Seattle is highly motivated to secure a crucial home win against a struggling opponent.",
+          "awayRecord": "6-3-17",
+          "homeRecord": "9-8-9",
+          "startTime": "2026-10-02T01:30Z"
         },
         {
-          "game": "St. Louis CITY SC vs Red Bull New York",
+          "game": "Sporting Kansas City @ Seattle Sounders FC",
           "betType": "total",
           "pick": "Under 3.5",
-          "odds": "-150",
+          "odds": "-125",
           "confidence": "high",
-          "rationale": "While St. Louis CITY SC has shown strong offensive form recently, scoring 15 goals in their last five outings, Red Bull New York's significant offensive absences are a major factor for this total. Key RBNY attackers like Julian Hall, Ronald Donkor, and Adri Mehmeti are unavailable, severely blunting their ability to contribute to a high-scoring game. RBNY's goalkeeper Ethan Horvath has also been in good form, recording three clean sheets in his last four matches. The market also heavily favors the Under 3.5 at -150, suggesting sharp money aligns with a lower-scoring affair.",
-          "awayRecord": "12-8-6",
-          "homeRecord": "9-6-11",
-          "startTime": "2026-09-30T23:30Z"
+          "rationale": "Despite Sporting Kansas City's tendency for higher-scoring games, particularly on the road where they concede 2.85 goals per game, Seattle's robust home defense is a strong counteracting factor, allowing just 0.85 goals per game. Seattle is missing key attacking players like Pedro de la Vega, Paul Rothrock, and Dejan Joveljic due to injury or international duty, which is expected to temper their offensive output. The betting line for this total has seen movement towards the Under, shifting from -118 to -125, indicating sharp money is backing fewer goals. Historically, only 50% of the last eight head-to-head matchups between these teams have exceeded three goals.",
+          "awayRecord": "6-3-17",
+          "homeRecord": "9-8-9",
+          "startTime": "2026-10-02T01:30Z"
         }
       ]
     }
