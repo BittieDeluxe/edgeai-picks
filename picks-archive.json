@@ -1,5 +1,216 @@
 [
   {
+    "date": "2026-10-01",
+    "sports": [
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Edmonton Oilers vs Vancouver Canucks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Edmonton Oilers 9, Vancouver Canucks 7"
+          },
+          {
+            "game": "Seattle Kraken vs Calgary Flames",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Seattle Kraken 6, Calgary Flames 1"
+          },
+          {
+            "game": "Minnesota Wild vs Nashville Predators",
+            "betType": "moneyline",
+            "pick": "Minnesota Wild (-148)",
+            "odds": "-148",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Wild 3, Nashville Predators 1"
+          },
+          {
+            "game": "Philadelphia Flyers vs New Jersey Devils",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Flyers 2, New Jersey Devils 3"
+          },
+          {
+            "game": "Florida Panthers vs San Jose Sharks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Florida Panthers 3, San Jose Sharks 4"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Philadelphia Phillies vs Atlanta Braves",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Phillies 2, Atlanta Braves 6"
+          },
+          {
+            "game": "Philadelphia Phillies vs Atlanta Braves",
+            "betType": "spread",
+            "pick": "Atlanta Braves +1.5",
+            "odds": "-192",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Phillies 2, Atlanta Braves 6"
+          },
+          {
+            "game": "Philadelphia Phillies vs Atlanta Braves",
+            "betType": "prop",
+            "pick": "Matt Olson Over 0.5 Home Runs",
+            "odds": "+490",
+            "confidence": "high",
+            "result": "W",
+            "score": "Matt Olson: 1 Home Runs (line 0.5)"
+          },
+          {
+            "game": "Philadelphia Phillies vs Atlanta Braves",
+            "betType": "prop",
+            "pick": "Bryce Harper Over 1.5 Total Bases",
+            "odds": "+132",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Bryce Harper: \"Total Bases\" not auto-gradeable"
+          },
+          {
+            "game": "Philadelphia Phillies vs Atlanta Braves",
+            "betType": "prop",
+            "pick": "Mauricio Dubón Over 1.5 Total Bases",
+            "odds": "-111",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Mauricio Dubón: \"Total Bases\" not auto-gradeable"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Pittsburgh Steelers vs Cleveland Browns",
+            "betType": "total",
+            "pick": "Under 38.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Pittsburgh Steelers 24, Cleveland Browns 27"
+          },
+          {
+            "game": "Pittsburgh Steelers vs Cleveland Browns",
+            "betType": "spread",
+            "pick": "Cleveland Browns +2.5",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Steelers 24, Cleveland Browns 27"
+          },
+          {
+            "game": "Pittsburgh Steelers vs Cleveland Browns",
+            "betType": "moneyline",
+            "pick": "Cleveland Browns (+124)",
+            "odds": "+124",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Pittsburgh Steelers 24, Cleveland Browns 27"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Western Kentucky Hilltoppers vs New Mexico State Aggies",
+            "betType": "total",
+            "pick": "Over 56.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Western Kentucky Hilltoppers 13, New Mexico State Aggies 34"
+          },
+          {
+            "game": "Western Kentucky Hilltoppers vs New Mexico State Aggies",
+            "betType": "spread",
+            "pick": "Western Kentucky Hilltoppers +2.5",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "L",
+            "score": "Western Kentucky Hilltoppers 13, New Mexico State Aggies 34"
+          },
+          {
+            "game": "North Texas Mean Green vs Tulsa Golden Hurricane",
+            "betType": "total",
+            "pick": "Under 56.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "North Texas Mean Green 45, Tulsa Golden Hurricane 44"
+          },
+          {
+            "game": "North Texas Mean Green vs Tulsa Golden Hurricane",
+            "betType": "spread",
+            "pick": "Tulsa Golden Hurricane +1.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "North Texas Mean Green 45, Tulsa Golden Hurricane 44"
+          },
+          {
+            "game": "North Texas Mean Green vs Tulsa Golden Hurricane",
+            "betType": "moneyline",
+            "pick": "Tulsa Golden Hurricane (-102)",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "North Texas Mean Green 45, Tulsa Golden Hurricane 44"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Sporting Kansas City @ Seattle Sounders FC",
+            "betType": "moneyline",
+            "pick": "Seattle Sounders FC",
+            "odds": "-210",
+            "confidence": "high",
+            "result": "W",
+            "score": "Sporting Kansas City 1, Seattle Sounders FC 2"
+          },
+          {
+            "game": "Sporting Kansas City @ Seattle Sounders FC",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "W",
+            "score": "Sporting Kansas City 1, Seattle Sounders FC 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-09-30",
     "sports": [
       {
@@ -3148,62 +3359,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "St. Louis Cardinals 8, Los Angeles Dodgers 6"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-01",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "San Diego Padres @ Cincinnati Reds",
-            "betType": "spread",
-            "pick": "San Diego Padres -1.5",
-            "odds": "+112",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Diego Padres 3, Cincinnati Reds 4"
-          },
-          {
-            "game": "Chicago White Sox @ Houston Astros",
-            "betType": "moneyline",
-            "pick": "Chicago White Sox (-108)",
-            "odds": "-108",
-            "confidence": "high",
-            "result": "W",
-            "score": "Chicago White Sox 5, Houston Astros 1"
-          },
-          {
-            "game": "Baltimore Orioles @ Colorado Rockies",
-            "betType": "spread",
-            "pick": "Baltimore Orioles -1.5",
-            "odds": "-108",
-            "confidence": "high",
-            "result": "L",
-            "score": "Baltimore Orioles 2, Colorado Rockies 4"
-          },
-          {
-            "game": "Philadelphia Phillies @ Arizona Diamondbacks",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Philadelphia Phillies 7, Arizona Diamondbacks 1"
-          },
-          {
-            "game": "Seattle Mariners @ Boston Red Sox",
-            "betType": "moneyline",
-            "pick": "Seattle Mariners (+104)",
-            "odds": "+104",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Mariners 9, Boston Red Sox 6"
           }
         ]
       }
