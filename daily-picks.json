@@ -1,75 +1,203 @@
 {
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-02T15:41:46.297Z",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T14:17:43.370Z",
   "sports": [
+    {
+      "sport": "NBA",
+      "picks": [
+        {
+          "game": "Miami Heat vs Toronto Raptors",
+          "betType": "total",
+          "pick": "Under 227.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. Preseason NBA games typically feature lower scoring due to limited minutes for star players, experimental lineups, and a general lack of offensive cohesion. The total of 227.5 points, as seen on FanDuel, appears high for this context. Miami is also dealing with an injury to backup guard Dru Smith, who is out for a couple of weeks with a calf strain, which could further impact their offensive flow. Additionally, Toronto has multiple players listed as questionable, potentially leading to more minutes for less experienced players who may struggle to contribute offensively. This early lack of rhythm in preseason play naturally tends to bog down the scoring pace, making the Under a strong play.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-10-03T23:00Z"
+        },
+        {
+          "game": "Miami Heat vs Toronto Raptors",
+          "betType": "spread",
+          "pick": "Miami Heat -1.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Miami Heat enter the preseason with 'sky-high expectations' following the acquisition of Giannis Antetokounmpo, which suggests a motivated squad even in exhibition play. While Giannis and Bam Adebayo are listed as probable for the game, their presence, even in limited minutes, provides a significant talent advantage over the Raptors. Toronto, conversely, has several players listed as questionable due to various injuries, which could weaken their overall rotation. Although the game is at a neutral site in Quebec City, which might lean towards a 'home game' feel for the Raptors, the Heat's superior talent and desire to integrate new pieces should be enough to cover the small -1.5 spread on FanDuel.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-10-03T23:00Z"
+        }
+      ]
+    },
     {
       "sport": "NHL",
       "picks": [
         {
-          "game": "Boston Bruins vs Winnipeg Jets",
+          "game": "Carolina Hurricanes @ Philadelphia Flyers",
           "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-130",
+          "pick": "Under 5.5",
+          "odds": "-135",
           "confidence": "high",
-          "rationale": "The head-to-head history between the Bruins and Jets consistently features high-scoring games, with an average of 6.3 goals per match over their last 10 meetings. Four of their last five matchups have gone over the 5.5 total, including scores like 6-1 and 6-3. While Winnipeg is without starting goalie Connor Hellebuyck, potentially impacting their defense, Boston's recent dominant victories against the Jets suggest their offense can exploit Winnipeg. Boston also started their season with a 3-0 shutout, indicating a strong offensive and defensive start, but the H2H trend here is too strong to ignore for the over.",
-          "awayRecord": "1-0-0",
-          "homeRecord": "0-0-0",
-          "startTime": "2026-10-03T00:00Z",
+          "rationale": "The head-to-head history between the Hurricanes and Flyers strongly supports a low-scoring affair, with all of their last five meetings going under 5.5 goals. The Hurricanes possess a strong defensive structure, and the Flyers have struggled to generate consistent offense in recent matchups. With an average of 5.7 goals per game in their head-to-head contests, the recent trend points towards a tight, lower-scoring game. Seth Jarvis for Carolina and Denver Barkey for Philadelphia are both on injured reserve, potentially limiting offensive firepower.",
+          "awayRecord": "0-1-1",
+          "homeRecord": "0-1-1",
+          "startTime": "2026-10-03T23:00Z",
           "awayLast5": [
-            "W"
-          ]
-        },
-        {
-          "game": "Washington Capitals vs Carolina Hurricanes",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "-130",
-          "confidence": "high",
-          "rationale": "The head-to-head matchups between the Capitals and Hurricanes have historically been lower-scoring, averaging 5.8 goals per game across their last 20 encounters. Both teams are early in their seasons, with the Capitals playing their first game and the Hurricanes having only played one, suggesting potential for some early-season defensive tightness. The Hurricanes' strong defensive profile, as seen in their historical dominance over the Capitals with a better goal differential, supports an under bet. While the Capitals did manage 4 goals in their last meeting, the overall trend points to fewer goals when these two teams clash.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-1",
-          "startTime": "2026-10-02T23:00Z",
+            "L",
+            "L"
+          ],
           "homeLast5": [
+            "L",
             "L"
           ]
         },
         {
-          "game": "Anaheim Ducks vs Vegas Golden Knights",
-          "betType": "spread",
-          "pick": "Vegas Golden Knights -1.5",
-          "odds": "+124",
-          "confidence": "high",
-          "rationale": "The Vegas Golden Knights have a significantly dominant head-to-head record against the Anaheim Ducks, winning 31 of 44 games (70.5%). Vegas is also coming off a strong 5-2 win in their season opener where key players like Jack Eichel and Trevor Connelly contributed offensively. The Ducks, playing their first game of the season, might struggle to match the Golden Knights' early-season momentum and offensive firepower. Vegas also defeated Anaheim 5-1 in their last playoff meeting, demonstrating their ability to win by multiple goals.",
-          "awayRecord": "0-0-0",
+          "game": "Calgary Flames @ Vancouver Canucks",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "+105",
+          "confidence": "medium",
+          "rationale": "Both the Flames and Canucks have been involved in high-scoring games to start the season, with Calgary losing 6-1 and Vancouver having results of 7-9 and 6-5. The head-to-head history also indicates a propensity for goals, with an average of 6.7 goals per game in their matchups and four of the last five meetings going over 5.5. The absence of Jonathan Huberdeau for the Flames due to injury could impact their defensive solidity, further contributing to a higher-scoring game. Given these offensive outbursts and historical trends, the Over 6.5 at plus money offers good value.",
+          "awayRecord": "0-1-0",
+          "homeRecord": "1-1-0",
+          "startTime": "2026-10-04T02:00Z",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Los Angeles Kings @ San Jose Sharks",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "The historical head-to-head matchups between the Kings and Sharks consistently feature high scoring, with the total going over in their last five clashes and over 5.5 in their last six meetings. Both teams displayed offensive capabilities in their season openers, with the Sharks scoring four goals in their win and the Kings notching three goals in their loss to Utah. This strong offensive trend in their rivalry, coupled with recent scoring, suggests another game with plenty of goals. Adam Gaudette is on IR for the Sharks, but the offensive output has remained strong.",
+          "awayRecord": "0-1-0",
           "homeRecord": "1-0-0",
-          "startTime": "2026-10-03T02:00Z",
+          "startTime": "2026-10-04T02:00Z",
+          "awayLast5": [
+            "L"
+          ],
           "homeLast5": [
             "W"
           ]
         },
         {
-          "game": "St. Louis Blues vs Dallas Stars",
+          "game": "Montreal Canadiens @ Pittsburgh Penguins",
           "betType": "total",
-          "pick": "Under 5.5",
-          "odds": "+114",
+          "pick": "Over 6.5",
+          "odds": "-102",
           "confidence": "medium",
-          "rationale": "The St. Louis Blues have struggled offensively against the Dallas Stars in recent history, with a goal differential of -5 in their last 10 games against them. In the 2020s, the Blues have averaged only 2.3 goals per game against the Stars, while the Stars have averaged 2.5 goals against the Blues. Both teams are starting their seasons, which often leads to more cautious play and less fluid offense in the initial games. While the last meeting saw a 5-4 score, the overall trend in recent years suggests a tighter, lower-scoring affair between these divisional rivals.",
-          "awayRecord": "0-0-0",
-          "homeRecord": "0-0-0",
-          "startTime": "2026-10-03T01:00Z"
+          "rationale": "The Pittsburgh Penguins demonstrated significant offensive power in their season opener, shutting out the Flyers with a 7-0 victory. The Montreal Canadiens also started their season with a win, indicating offensive readiness. Historically, Sidney Crosby has performed exceptionally well against Montreal, contributing to higher scoring in their matchups with 26 goals and 46 assists in 55 games. The slight line movement towards the Over further suggests that sharp money anticipates a game with more goals, despite some depth injuries for Pittsburgh.",
+          "awayRecord": "1-0-0",
+          "homeRecord": "1-0-0",
+          "startTime": "2026-10-03T23:00Z",
+          "awayLast5": [
+            "W"
+          ],
+          "homeLast5": [
+            "W"
+          ]
         },
         {
-          "game": "New York Rangers vs Detroit Red Wings",
+          "game": "Dallas Stars @ Nashville Predators",
           "betType": "total",
-          "pick": "Over 5.5",
+          "pick": "Under 6.5",
           "odds": "-135",
           "confidence": "medium",
-          "rationale": "The New York Rangers have shown a strong offensive output in their recent head-to-head matchups against the Detroit Red Wings, averaging 3.7 goals per game in the 2020s decade. Their overall goal differential in their last 10 games is +8, indicating a potent offense. While the Red Wings are playing their season opener, the Rangers are already 1-1-0 and have demonstrated their ability to score. This offensive trend from the Rangers, combined with the Red Wings potentially shaking off rust in their first game, points towards a higher-scoring contest.",
-          "awayRecord": "1-1-0",
-          "homeRecord": "0-0-0",
-          "startTime": "2026-10-02T22:30Z",
+          "rationale": "Both the Stars and Predators had slow offensive starts to their seasons, with Dallas being shut out 4-0 by St. Louis and Nashville scoring only one goal in a 3-1 loss to Minnesota. The Predators have a strong recent trend of playing in low-scoring games, with the Under hitting in five of their last five games against Central Division opponents and four of their last four games when playing on one day's rest. While Roope Hintz is expected to play for Dallas, Matt Duchene remains on LTIR, impacting their offensive depth. These factors, combined with early season offensive struggles, point towards a game staying under the total.",
+          "awayRecord": "0-1-0",
+          "homeRecord": "0-1-0",
+          "startTime": "2026-10-04T00:00Z",
           "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "Chicago White Sox vs Cleveland Guardians",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "-134",
+          "confidence": "high",
+          "rationale": "The Cleveland Guardians enter this game in strong offensive form, boasting an 8-2 record in their last 10 outings and a team batting average of .265. Head-to-head matchups between these two teams have also trended towards higher scoring, with three of their last five meetings exceeding totals of 7 or 8.5 runs. The average combined runs per game in their last 10 head-to-head contests sits at 9.4, significantly above the current 6.5 total. Given Cleveland's recent offensive surge and the historical high-scoring nature of this rivalry, the Over 6.5 is a confident play.",
+          "awayRecord": "84-78",
+          "homeRecord": "85-77",
+          "startTime": "2026-10-03T17:00Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Atlanta Braves vs Los Angeles Dodgers",
+          "betType": "total",
+          "pick": "Over 8.5",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "The head-to-head history between the Atlanta Braves and Los Angeles Dodgers strongly supports the Over, with four of their last five matchups going over totals of 8.5 or 9.5 runs. While both teams have unannounced starting pitchers, this consistent high-scoring trend in their recent series suggests offensive firepower regardless of the specific arms on the mound. The Braves also won their Wild Card series, indicating their offense is capable. The Dodgers are well-rested, which could also contribute to a strong offensive performance.",
+          "awayRecord": "94-68",
+          "homeRecord": "100-62",
+          "startTime": "2026-10-03T20:00Z",
+          "awayLast5": [
+            "W",
             "L",
+            "W"
+          ]
+        },
+        {
+          "game": "New York Yankees vs Tampa Bay Rays",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "+114",
+          "confidence": "medium",
+          "rationale": "Tampa Bay's starting pitcher, Drew Rasmussen, has an exceptional track record against the New York Yankees, holding a 5-2 record with a 1.81 ERA and 0.86 WHIP across 11 appearances. He recently carried a no-hitter into the seventh inning against the Yankees, demonstrating his dominance. Conversely, Yankees' starter Gerrit Cole has struggled with home runs, allowing nine in his last four starts. The line movement for this total has seen it drop to 6.5 at some books before being bet back up to 7, suggesting sharp money on the Under. These pitching matchups strongly favor a low-scoring affair.",
+          "awayRecord": "93-68",
+          "homeRecord": "98-64",
+          "startTime": "2026-10-03T22:30Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "San Diego Padres vs Milwaukee Brewers",
+          "betType": "spread",
+          "pick": "San Diego Padres +1.5",
+          "odds": "-132",
+          "confidence": "medium",
+          "rationale": "The San Diego Padres finished the regular season as one of MLB's hottest teams, boasting a 41-18 record from late July onwards, which was the best in the league during that span. They also swept the Milwaukee Brewers in a three-game series in August and won the overall season series 4-2. Despite the Brewers being favorites, the moneyline for Milwaukee has shortened even with 60% of public wagers on them, hinting at sharp money coming in on San Diego. With their strong momentum and head-to-head advantage, the Padres are well-positioned to cover the +1.5 run line.",
+          "awayRecord": "91-71",
+          "homeRecord": "103-59",
+          "startTime": "2026-10-04T00:30Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "San Diego Padres vs Milwaukee Brewers",
+          "betType": "prop",
+          "pick": "Jackson Merrill Over 0.5 hits",
+          "odds": "-145",
+          "confidence": "medium",
+          "rationale": "San Diego Padres outfielder Jackson Merrill is in exceptional form, having recorded a hit in 15 of his last 16 games, batting an impressive .379 during that stretch. He continued his hot hitting into the Wild Card series, collecting four hits in two games. Merrill is confirmed to be active and playing for the Padres today. His consistent ability to get on base makes the Over 0.5 hits a high-confidence player prop, even against a strong Brewers pitching staff.",
+          "awayRecord": "91-71",
+          "homeRecord": "103-59",
+          "startTime": "2026-10-04T00:30Z",
+          "awayLast5": [
+            "W",
             "W"
           ]
         }
@@ -79,125 +207,110 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Pittsburgh Panthers vs Virginia Tech Hokies",
+          "game": "Akron Zips @ Central Michigan Chippewas",
           "betType": "total",
-          "pick": "Under 54.5",
-          "odds": "-108",
+          "pick": "Under 47.5",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "Both teams enter this contest with undefeated 4-0 records, but their defenses have been exceptional. Pittsburgh ranks 3rd nationally in points allowed per game (8.5) and 3rd in rushing yards allowed per game (53.3), while Virginia Tech leads the nation in tackles for loss (45) and has 17 sacks. While Virginia Tech's offense averages 43.3 PPG, they face a stout Pitt defense in what is Pitt's first road game of the season. The Hokies also have several questionable players on offense and the offensive line, which could hinder their scoring output. This matchup of strong defenses suggests a lower-scoring affair, making the Under 54.5 an attractive play.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "4-0",
-          "homeRecord": "4-0",
-          "startTime": "2026-10-02T23:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Liberty Flames vs Delaware Blue Hens",
-          "betType": "total",
-          "pick": "Under 49.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Delaware's offense struggled significantly in their last game, managing only 162 total yards and scoring just 3 points against Virginia. Compounding this, starting quarterback Nick Minicucci, a key dual-threat player, left that game with an injury and his availability for today is uncertain. While the only previous head-to-head was high-scoring, that was with a healthy Minicucci. Liberty's defense has been strong in the second half this season, outscoring opponents 66-14. With Delaware's offensive woes and potential QB issues, this game is likely to stay Under the relatively high total of 49.5.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "3-1",
+          "rationale": "Both Akron and Central Michigan are dealing with significant injury concerns, particularly on offense for Akron, with several key players listed as questionable. Central Michigan also has two players out for the season, including Joey VanWetzinga. Historically, the average combined score in this series is 46.2 points, which is below the current total. These widespread injuries and historical low-scoring trend suggest that offensive production will be limited, favoring the under.",
+          "awayRecord": "1-3",
           "homeRecord": "2-2",
-          "startTime": "2026-10-02T23:00Z",
+          "startTime": "2026-10-03T19:30Z",
           "awayLast5": [
             "L",
             "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
             "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Penn State Nittany Lions vs Northwestern Wildcats",
-          "betType": "spread",
-          "pick": "Northwestern Wildcats +2.5",
-          "odds": "-102",
-          "confidence": "high",
-          "rationale": "Northwestern is playing their inaugural game at the new Ryan Field, which provides a significant emotional and home-field advantage. Penn State is coming off a disappointing loss where their offense struggled, and they are dealing with several injuries, including a questionable starting cornerback Daryus Dixson. Northwestern has an impressive track record of covering the spread at home, doing so in 9 of their last 10 home games when receiving +2.5 points or more. The line movement from Penn State -3 to -2.5 also indicates some sharp money coming in on the Wildcats, making them a strong play to cover the small spread.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "3-1",
-          "homeRecord": "2-1",
-          "startTime": "2026-10-03T00:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W",
             "W",
             "L"
           ]
         },
         {
-          "game": "Penn State Nittany Lions vs Northwestern Wildcats",
+          "game": "Navy Midshipmen @ Air Force Falcons",
           "betType": "total",
           "pick": "Under 45.5",
-          "odds": "-108",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "Both teams are coming off losses where their offenses showed limitations. Penn State managed only 20 points and 233 total yards against Wisconsin, with quarterback Rocco Becht struggling. Northwestern's offense, while putting up 23 points against Indiana, will be without or have a limited top tight end Luke Dehnicke, who is listed as doubtful and was a key receiver last week. The betting line for the total has also seen movement, dropping from an opening of 47 to the current 45.5, suggesting sharp money on the Under. With Penn State's strong defense and Northwestern's key offensive injury, a lower-scoring game is anticipated.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "3-1",
+          "rationale": "This matchup features two triple-option offenses, inherently leading to fewer possessions and a slower game pace. Air Force boasts a formidable defense, ranking 2nd nationally in opponent total yards and 4th in rushing defense in 2026. Historically, games between these service academies tend to be low-scoring, grind-it-out affairs. The combination of run-heavy schemes and Air Force's stout defense creates a strong lean towards the under.",
+          "awayRecord": "1-2",
           "homeRecord": "2-1",
-          "startTime": "2026-10-03T00:00Z",
+          "startTime": "2026-10-03T16:00Z",
           "awayLast5": [
             "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Old Dominion Monarchs @ Georgia State Panthers",
+          "betType": "spread",
+          "pick": "Georgia State Panthers -2.5",
+          "odds": "-106",
+          "confidence": "high",
+          "rationale": "Georgia State enters this game with a strong 3-1 overall record and an impressive 4-0 record against the spread this season. Their offense is performing well, ranking 31st in points per game, while Old Dominion sits at a struggling 1-3. Georgia State's consistent ability to cover the spread, coupled with their superior recent form and home-field advantage, makes them a confident pick to win by more than a field goal.",
+          "awayRecord": "1-3",
+          "homeRecord": "3-1",
+          "startTime": "2026-10-03T19:30Z",
+          "awayLast5": [
             "W",
-            "W",
+            "L",
+            "L",
             "L"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Pittsburgh Panthers vs Virginia Tech Hokies",
-          "betType": "spread",
-          "pick": "Virginia Tech Hokies -2.5",
-          "odds": "-105",
+          "game": "Kentucky Wildcats @ South Carolina Gamecocks",
+          "betType": "total",
+          "pick": "Under 52.5",
+          "odds": "-108",
           "confidence": "medium",
-          "rationale": "Virginia Tech enters this game undefeated at 4-0 and playing at home in Blacksburg, where they have a historical edge against Pitt, winning three of their last four home meetings. Despite some offensive injury concerns, the Hokies' defense is stout, leading the nation in tackles for loss and ranking second in sacks. Pittsburgh, while also 4-0, is playing its first road game of the season after a softer schedule. The line has moved from Virginia Tech -4 to -2.5, but the Hokies are still favored to win by more than a field goal, a feat they've accomplished in 7 of their last 8 October home games against unranked opponents.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "4-0",
-          "homeRecord": "4-0",
-          "startTime": "2026-10-02T23:00Z",
+          "rationale": "Both Kentucky and South Carolina are significantly impacted by injuries, with Kentucky missing key offensive players like wide receiver DJ Miller (doubtful) and multiple offensive linemen. South Carolina is also without several defensive starters, including Dylan Stewart (suspended). The historical trend in this rivalry shows the last four matchups have all gone under the total. These widespread injuries, particularly to offensive playmakers, are expected to hinder scoring, supporting the under.",
+          "awayRecord": "3-1",
+          "homeRecord": "2-2",
+          "startTime": "2026-10-03T20:15Z",
           "awayLast5": [
             "W",
-            "W",
+            "L",
             "W",
             "W"
           ],
           "homeLast5": [
             "W",
             "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Virginia Cavaliers @ Florida State Seminoles",
+          "betType": "spread",
+          "pick": "Virginia Cavaliers -1.5",
+          "odds": "-104",
+          "confidence": "medium",
+          "rationale": "Virginia has started the season strong with a 3-1 record and has been excellent against the spread, covering in three of their four games. They boast a high-powered offense averaging 40.5 points per game and a stingy defense allowing only 13.0 points per game. While Florida State is 2-2, their defense has given up 25.3 points per game. Virginia's strong overall performance and ATS success make them a confident pick to cover this small spread.",
+          "awayRecord": "3-1",
+          "homeRecord": "2-2",
+          "startTime": "2026-10-03T19:30Z",
+          "awayLast5": [
             "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
             "W"
           ]
         }

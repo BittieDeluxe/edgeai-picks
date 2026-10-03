@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-10-02",
+    "sports": [
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Boston Bruins vs Winnipeg Jets",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Boston Bruins 4, Winnipeg Jets 3"
+          },
+          {
+            "game": "Washington Capitals vs Carolina Hurricanes",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Washington Capitals 5, Carolina Hurricanes 2"
+          },
+          {
+            "game": "Anaheim Ducks vs Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Vegas Golden Knights -1.5",
+            "odds": "+124",
+            "confidence": "high",
+            "result": "L",
+            "score": "Anaheim Ducks 4, Vegas Golden Knights 3"
+          },
+          {
+            "game": "St. Louis Blues vs Dallas Stars",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "St. Louis Blues 4, Dallas Stars 0"
+          },
+          {
+            "game": "New York Rangers vs Detroit Red Wings",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-135",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Rangers 2, Detroit Red Wings 0"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Pittsburgh Panthers vs Virginia Tech Hokies",
+            "betType": "total",
+            "pick": "Under 54.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Pittsburgh Panthers 35, Virginia Tech Hokies 33"
+          },
+          {
+            "game": "Liberty Flames vs Delaware Blue Hens",
+            "betType": "total",
+            "pick": "Under 49.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Liberty Flames 30, Delaware Blue Hens 14"
+          },
+          {
+            "game": "Penn State Nittany Lions vs Northwestern Wildcats",
+            "betType": "spread",
+            "pick": "Northwestern Wildcats +2.5",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Penn State Nittany Lions 13, Northwestern Wildcats 34"
+          },
+          {
+            "game": "Penn State Nittany Lions vs Northwestern Wildcats",
+            "betType": "total",
+            "pick": "Under 45.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Penn State Nittany Lions 13, Northwestern Wildcats 34"
+          },
+          {
+            "game": "Pittsburgh Panthers vs Virginia Tech Hokies",
+            "betType": "spread",
+            "pick": "Virginia Tech Hokies -2.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Pittsburgh Panthers 35, Virginia Tech Hokies 33"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-01",
     "sports": [
       {
@@ -3303,62 +3409,6 @@
             "confidence": "high",
             "result": "L",
             "score": "Nashville SC 0, New York City FC 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-02",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Baltimore Orioles @ Colorado Rockies",
-            "betType": "spread",
-            "pick": "Baltimore Orioles -1.5",
-            "odds": "-140",
-            "confidence": "high",
-            "result": "L",
-            "score": "Baltimore Orioles 5, Colorado Rockies 6"
-          },
-          {
-            "game": "Philadelphia Phillies @ Arizona Diamondbacks",
-            "betType": "spread",
-            "pick": "Arizona Diamondbacks +1.5",
-            "odds": "-200",
-            "confidence": "high",
-            "result": "W",
-            "score": "Philadelphia Phillies 0, Arizona Diamondbacks 1"
-          },
-          {
-            "game": "Seattle Mariners @ Boston Red Sox",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Mariners 8, Boston Red Sox 3"
-          },
-          {
-            "game": "Milwaukee Brewers @ Chicago Cubs",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Milwaukee Brewers 9, Chicago Cubs 5"
-          },
-          {
-            "game": "St. Louis Cardinals @ Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "St. Louis Cardinals 8, Los Angeles Dodgers 6"
           }
         ]
       }
