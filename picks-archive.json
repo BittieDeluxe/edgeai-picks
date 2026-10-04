@@ -1,5 +1,184 @@
 [
   {
+    "date": "2026-10-03",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Miami Heat vs Toronto Raptors",
+            "betType": "total",
+            "pick": "Under 227.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Miami Heat 129, Toronto Raptors 105"
+          },
+          {
+            "game": "Miami Heat vs Toronto Raptors",
+            "betType": "spread",
+            "pick": "Miami Heat -1.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami Heat 129, Toronto Raptors 105"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes @ Philadelphia Flyers",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "W",
+            "score": "Carolina Hurricanes 3, Philadelphia Flyers 2"
+          },
+          {
+            "game": "Calgary Flames @ Vancouver Canucks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Calgary Flames 1, Vancouver Canucks 4"
+          },
+          {
+            "game": "Los Angeles Kings @ San Jose Sharks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Kings 4, San Jose Sharks 5"
+          },
+          {
+            "game": "Montreal Canadiens @ Pittsburgh Penguins",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Montreal Canadiens 5, Pittsburgh Penguins 6"
+          },
+          {
+            "game": "Dallas Stars @ Nashville Predators",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-135",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Dallas Stars 1, Nashville Predators 2"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Chicago White Sox vs Cleveland Guardians",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-134",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago White Sox 3, Cleveland Guardians 0"
+          },
+          {
+            "game": "Atlanta Braves vs Los Angeles Dodgers",
+            "betType": "total",
+            "pick": "Over 8.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta Braves 3, Los Angeles Dodgers 5"
+          },
+          {
+            "game": "New York Yankees vs Tampa Bay Rays",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New York Yankees 0, Tampa Bay Rays 1"
+          },
+          {
+            "game": "San Diego Padres vs Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "San Diego Padres +1.5",
+            "odds": "-132",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego Padres 2, Milwaukee Brewers 3"
+          },
+          {
+            "game": "San Diego Padres vs Milwaukee Brewers",
+            "betType": "prop",
+            "pick": "Jackson Merrill Over 0.5 hits",
+            "odds": "-145",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Jackson Merrill: 0 hits (line 0.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Akron Zips @ Central Michigan Chippewas",
+            "betType": "total",
+            "pick": "Under 47.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Akron Zips 17, Central Michigan Chippewas 41"
+          },
+          {
+            "game": "Navy Midshipmen @ Air Force Falcons",
+            "betType": "total",
+            "pick": "Under 45.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Navy Midshipmen 9, Air Force Falcons 14"
+          },
+          {
+            "game": "Old Dominion Monarchs @ Georgia State Panthers",
+            "betType": "spread",
+            "pick": "Georgia State Panthers -2.5",
+            "odds": "-106",
+            "confidence": "high",
+            "result": "W",
+            "score": "Old Dominion Monarchs 10, Georgia State Panthers 42"
+          },
+          {
+            "game": "Kentucky Wildcats @ South Carolina Gamecocks",
+            "betType": "total",
+            "pick": "Under 52.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kentucky Wildcats 35, South Carolina Gamecocks 34"
+          },
+          {
+            "game": "Virginia Cavaliers @ Florida State Seminoles",
+            "betType": "spread",
+            "pick": "Virginia Cavaliers -1.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Virginia Cavaliers 7, Florida State Seminoles 38"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-02",
     "sports": [
       {
@@ -3336,76 +3515,6 @@
             "betType": "moneyline",
             "pick": "Nashville SC",
             "odds": "+130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Nashville SC 0, New York City FC 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-03",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Boston Red Sox vs Baltimore Orioles",
-            "betType": "moneyline",
-            "pick": "Boston Red Sox (-120)",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Boston Red Sox 6, Baltimore Orioles 5"
-          },
-          {
-            "game": "Milwaukee Brewers vs Chicago Cubs",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers (-125)",
-            "odds": "-125",
-            "confidence": "high",
-            "result": "L",
-            "score": "Milwaukee Brewers 1, Chicago Cubs 2"
-          },
-          {
-            "game": "Miami Marlins vs Kansas City Royals",
-            "betType": "moneyline",
-            "pick": "Miami Marlins (-102)",
-            "odds": "-102",
-            "confidence": "high",
-            "result": "L",
-            "score": "Miami Marlins 3, Kansas City Royals 7"
-          },
-          {
-            "game": "St. Louis Cardinals vs Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "St. Louis Cardinals +1.5 (+119)",
-            "odds": "+119",
-            "confidence": "medium",
-            "result": "W",
-            "score": "St. Louis Cardinals 2, Los Angeles Dodgers 3"
-          },
-          {
-            "game": "St. Louis Cardinals vs Los Angeles Dodgers",
-            "betType": "total",
-            "pick": "St. Louis Cardinals vs Los Angeles Dodgers Over 8 (-101)",
-            "odds": "-101",
-            "confidence": "medium",
-            "result": "?",
-            "score": "St. Louis Cardinals 2, Los Angeles Dodgers 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Nashville SC @ New York City FC",
-            "betType": "moneyline",
-            "pick": "Nashville SC",
-            "odds": "+155",
             "confidence": "high",
             "result": "L",
             "score": "Nashville SC 0, New York City FC 0"
