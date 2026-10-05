@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-10-04",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Utah Jazz vs Denver Nuggets",
+            "betType": "total",
+            "pick": "Under 237.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Utah Jazz 109, Denver Nuggets 97"
+          },
+          {
+            "game": "Utah Jazz vs Denver Nuggets",
+            "betType": "spread",
+            "pick": "Denver Nuggets -3.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Utah Jazz 109, Denver Nuggets 97"
+          },
+          {
+            "game": "Golden State Warriors vs LA Clippers",
+            "betType": "total",
+            "pick": "Over 223.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Golden State Warriors 101, LA Clippers 104"
+          },
+          {
+            "game": "Utah Jazz vs Denver Nuggets",
+            "betType": "moneyline",
+            "pick": "Denver Nuggets ML",
+            "odds": "-152",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Utah Jazz 109, Denver Nuggets 97"
+          },
+          {
+            "game": "Utah Jazz vs Denver Nuggets",
+            "betType": "total",
+            "pick": "Utah Jazz Team Total Under 116.5 points",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Utah Jazz 109, Denver Nuggets 97"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Winnipeg Jets @ Detroit Red Wings",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Winnipeg Jets 3, Detroit Red Wings 2"
+          },
+          {
+            "game": "Utah Mammoth @ New York Rangers",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Utah Mammoth 2, New York Rangers 4"
+          },
+          {
+            "game": "Florida Panthers @ Anaheim Ducks",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Florida Panthers 2, Anaheim Ducks 3"
+          },
+          {
+            "game": "Calgary Flames @ Seattle Kraken",
+            "betType": "spread",
+            "pick": "Seattle Kraken -1.5",
+            "odds": "+170",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Calgary Flames 1, Seattle Kraken 6"
+          },
+          {
+            "game": "Vegas Golden Knights @ Vancouver Canucks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vegas Golden Knights 3, Vancouver Canucks 2"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Atlanta Braves vs Los Angeles Dodgers",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "W",
+            "score": "Atlanta Braves 3, Los Angeles Dodgers 2"
+          },
+          {
+            "game": "San Diego Padres vs Milwaukee Brewers",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "W",
+            "score": "San Diego Padres 3, Milwaukee Brewers 4"
+          },
+          {
+            "game": "Atlanta Braves vs Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Los Angeles Dodgers -1.5",
+            "odds": "+146",
+            "confidence": "high",
+            "result": "L",
+            "score": "Atlanta Braves 3, Los Angeles Dodgers 2"
+          },
+          {
+            "game": "San Diego Padres vs Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "San Diego Padres +1.5",
+            "odds": "-200",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego Padres 3, Milwaukee Brewers 4"
+          },
+          {
+            "game": "Atlanta Braves vs Los Angeles Dodgers",
+            "betType": "prop",
+            "pick": "Matt Olson Under 0.5 home runs",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Matt Olson: 0 home runs (line 0.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "New England Patriots vs Buffalo Bills",
+            "betType": "total",
+            "pick": "Under 49.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New England Patriots 29, Buffalo Bills 26"
+          },
+          {
+            "game": "New York Jets vs Chicago Bears",
+            "betType": "spread",
+            "pick": "Chicago Bears -3.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "New York Jets 12, Chicago Bears 23"
+          },
+          {
+            "game": "Jacksonville Jaguars vs Cincinnati Bengals",
+            "betType": "total",
+            "pick": "Under 51.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Jacksonville Jaguars 22, Cincinnati Bengals 17"
+          },
+          {
+            "game": "Arizona Cardinals vs New York Giants",
+            "betType": "total",
+            "pick": "Over 44.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arizona Cardinals 24, New York Giants 36"
+          },
+          {
+            "game": "Los Angeles Chargers vs Seattle Seahawks",
+            "betType": "total",
+            "pick": "Under 42.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Chargers 23, Seattle Seahawks 30"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-03",
     "sports": [
       {
@@ -3448,76 +3654,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Atlanta United FC 2, Inter Miami CF 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-04",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Los Angeles Angels vs Pittsburgh Pirates",
-            "betType": "spread",
-            "pick": "Pittsburgh Pirates -1.5",
-            "odds": "+126",
-            "confidence": "high",
-            "result": "L",
-            "score": "Los Angeles Angels 0, Pittsburgh Pirates 1"
-          },
-          {
-            "game": "Boston Red Sox vs Baltimore Orioles",
-            "betType": "moneyline",
-            "pick": "Baltimore Orioles",
-            "odds": "+120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Boston Red Sox 1, Baltimore Orioles 0"
-          },
-          {
-            "game": "Chicago Cubs vs Miami Marlins",
-            "betType": "moneyline",
-            "pick": "Miami Marlins",
-            "odds": "+138",
-            "confidence": "high",
-            "result": "L",
-            "score": "Chicago Cubs 6, Miami Marlins 1"
-          },
-          {
-            "game": "San Francisco Giants vs New York Mets",
-            "betType": "spread",
-            "pick": "New York Mets -1.5",
-            "odds": "+126",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Francisco Giants 6, New York Mets 10"
-          },
-          {
-            "game": "Athletics vs Seattle Mariners",
-            "betType": "total",
-            "pick": "Over 7",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Athletics 7, Seattle Mariners 6"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Nashville SC @ New York City FC",
-            "betType": "moneyline",
-            "pick": "Nashville SC",
-            "odds": "+130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Nashville SC 0, New York City FC 0"
           }
         ]
       }
