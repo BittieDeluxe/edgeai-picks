@@ -1,74 +1,92 @@
 {
-  "date": "2026-10-05",
-  "generatedAt": "2026-10-05T18:17:54.594Z",
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T15:50:08.795Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Minnesota Timberwolves vs Milwaukee Bucks",
+          "game": "Denver Nuggets vs Utah Jazz",
           "betType": "total",
-          "pick": "Under 232.5",
+          "pick": "Over 230.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Utah Jazz play at a very fast pace, ranking third in the NBA last season, and struggled defensively, ranking 29th in defensive rating. The Denver Nuggets, despite limiting star minutes, possess a top-ranked offense that averaged 122.1 PPG last season. Their previous preseason matchup saw a combined score of 206 points (109-97), and the head-to-head history shows 3 Overs in the last 5 regular season games. With both teams likely to push the pace in a preseason setting, the offensive talent and the Jazz's defensive struggles point towards a higher-scoring affair, despite the Nuggets potentially resting key players.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "0-1",
+          "homeRecord": "1-0",
+          "startTime": "2026-10-07T01:00Z",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "W"
+          ]
+        },
+        {
+          "game": "Brooklyn Nets vs Charlotte Hornets",
+          "betType": "total",
+          "pick": "Under 211.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. Both the Nets and Hornets are severely hampered by injuries to key offensive players for this preseason opener. The Hornets are missing Coby White, Kon Knueppel, and Grant Williams, all out for the preseason due to various injuries. The Nets are without Mikel Brown Jr. and Michael Porter Jr.. With significant scoring threats sidelined and many rotational players expected to see extended minutes, offensive efficiency is likely to be low. The Hornets' last 5 head-to-head matchups (likely Summer League) trended towards the Under in 3 of those games.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "0-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-10-06T23:00Z"
+        },
+        {
+          "game": "Los Angeles Lakers vs Golden State Warriors",
+          "betType": "spread",
+          "pick": "Golden State Warriors -2.5",
+          "odds": "-122",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Los Angeles Lakers are at a significant disadvantage, playing on the second night of a back-to-back after traveling from Sacramento. They are also heavily impacted by injuries, with LeBron James, Luka Doncic, Ziaire Williams, and others confirmed out. While the Warriors are also resting key players like Stephen Curry and Al Horford, the Lakers' back-to-back combined with their extensive injury list makes it highly unlikely their reserves will match the Warriors' depth at home. Betting analysts suggest the Warriors' probability will increase as Lakers' injury reports are finalized.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "1-0",
+          "homeRecord": "0-1",
+          "startTime": "2026-10-07T02:00Z",
+          "awayLast5": [
+            "W"
+          ],
+          "homeLast5": [
+            "L"
+          ]
+        },
+        {
+          "game": "New Orleans Pelicans vs Oklahoma City Thunder",
+          "betType": "total",
+          "pick": "Under 224.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Oklahoma City Thunder have 'every meaningful player listed as questionable' for this preseason matchup, indicating potential widespread rest for their starters, including Shai Gilgeous-Alexander. The New Orleans Pelicans are in a rebuilding phase after a 26-56 season, with players competing for roles, which often leads to disjointed offensive play and lower efficiency. With both teams likely to feature deep rotations and potentially limited minutes for their top offensive talents, scoring could be suppressed in this preseason contest. The line of 224.5 from FanDuel seems high given these circumstances.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "0-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-10-07T00:00Z"
+        },
+        {
+          "game": "Denver Nuggets vs Utah Jazz",
+          "betType": "spread",
+          "pick": "Utah Jazz +1.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Milwaukee Bucks are significantly hampered by injuries and player absences, most notably Giannis Antetokounmpo reportedly being in Miami, which severely impacts their offensive potential. Additionally, Kevin Porter Jr., Ryan Rollins, and Pete Nance are all out, with Myles Turner questionable. While the Bucks' recent games have trended Over, this is a preseason game with key players missing, suggesting a lower-scoring affair as teams often prioritize experimentation over full offensive execution. The total of 232.5 seems inflated given these critical absences for Milwaukee.",
+          "rationale": "Line sourced from web search — verify before betting. The Utah Jazz already defeated the Denver Nuggets in their first preseason meeting with a score of 109-97. The Nuggets are expected to continue restricting minutes for key starters, as Nikola Jokic played limited minutes in their previous game. The Jazz, despite their record last season, play a fast-paced style and their younger players will be motivated to perform at home. Given the Jazz's recent win over Denver and the Nuggets' likely continued experimentation and minute restrictions, the Jazz are well-positioned to cover this small spread.",
           "propPlayer": null,
           "propTeam": null,
-          "awayRecord": "0-0",
-          "homeRecord": "0-0",
-          "startTime": "2026-10-06T00:00Z"
-        },
-        {
-          "game": "Phoenix Suns vs Detroit Pistons",
-          "betType": "total",
-          "pick": "Over 219.5",
-          "odds": "-111",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. Despite some injuries for both teams, including Jordan Goodwin out for the Suns and Jalen Duren not present for the Pistons, betting trends suggest a high-scoring game. The Suns have seen the Over hit in 5 of their last 5 games as an underdog of 5.0-10.5 and 4 of their last 4 Monday games. The Pistons have also trended Over in 3 of their last 5 games and 21 of their last 41 home games. Preseason games can often feature less intense defense and more offensive experimentation, contributing to higher point totals.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-0",
-          "homeRecord": "0-0",
-          "startTime": "2026-10-05T23:00Z"
-        },
-        {
-          "game": "New York Knicks vs Philadelphia 76ers",
-          "betType": "spread",
-          "pick": "New York Knicks +1.5",
-          "odds": "-111",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The New York Knicks have an exceptional historical record against the spread when playing in Philadelphia, covering 7-0 ATS in their last 7 meetings against the 76ers. Furthermore, the Knicks have been a strong underdog bet, going 6-0 ATS in their last 6 games as an underdog and 5-0 ATS in their last 5 games as a road underdog. With the line holding steady at 76ers -1.5, the historical ATS dominance of the Knicks in this specific matchup, even in preseason, provides a significant edge.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-0",
-          "homeRecord": "0-0",
-          "startTime": "2026-10-05T23:00Z"
-        },
-        {
-          "game": "Memphis Grizzlies vs Atlanta Hawks",
-          "betType": "total",
-          "pick": "Under 231.5",
-          "odds": "-106",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. Both the Grizzlies and Hawks are dealing with multiple injuries and absences for this preseason matchup. The Grizzlies have Scotty Pippen Jr., Quinten Post, and Micah Peavy out, with Saunders' role unclear. The Hawks are without Walter Clayton Jr. Recent head-to-head matchups, even if from summer league, have shown a tendency for lower scores, with the total going Under in 3 of the last 5 games. Given the preseason context and significant player limitations, a more conservative, lower-scoring game is anticipated.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-0",
-          "homeRecord": "0-0",
-          "startTime": "2026-10-05T23:00Z"
-        },
-        {
-          "game": "Los Angeles Lakers vs Sacramento Kings",
-          "betType": "spread",
-          "pick": "Sacramento Kings +4.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Sacramento Kings have demonstrated strong recent form against the spread, covering in 4 of their last 5 games. The line has also seen movement in favor of the Kings, opening at Lakers -5.5 and shifting to Lakers -4.5, indicating some sharp money backing Sacramento. Furthermore, reports suggest the Lakers have been emphasizing defense in training camp, which could lead to lower scoring and tighter games, making the Kings +4.5 a valuable play at home in a preseason setting.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-0",
-          "homeRecord": "0-0",
-          "startTime": "2026-10-06T02:00Z"
+          "awayRecord": "0-1",
+          "homeRecord": "1-0",
+          "startTime": "2026-10-07T01:00Z",
+          "awayLast5": [
+            "L"
+          ],
+          "homeLast5": [
+            "W"
+          ]
         }
       ]
     },
@@ -76,99 +94,102 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Philadelphia Flyers vs Tampa Bay Lightning",
+          "game": "Carolina Hurricanes vs Montreal Canadiens",
           "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-122",
+          "pick": "Under 6.5",
+          "odds": "-130",
           "confidence": "high",
-          "rationale": "The Philadelphia Flyers are coming off a dismal 7-0 loss to Pittsburgh and have started the season 0-1-2, showing significant defensive struggles. Compounding their issues, goaltender Dan Vladar will be starting for the Flyers, and he carries a 7.00 GAA in relief work this season. The Tampa Bay Lightning, after an initial loss, responded with a 3-1 home victory over Washington, demonstrating a more structured and physical game. With Philadelphia's defensive woes and a shaky goaltending situation, the Lightning should be able to generate offense, pushing this game over the relatively low total of 5.5.",
-          "awayRecord": "0-1-2",
-          "homeRecord": "1-1-0",
-          "startTime": "2026-10-05T23:00Z",
+          "rationale": "The total line for this game has seen significant movement, opening at 6.5 and dropping, indicating sharp money on the Under despite public betting favoring the Over. Both teams are dealing with key injuries, with Carolina missing Seth Jarvis and Montreal without Kaiden Guhle and Ivan Demidov. Carolina's penalty kill has been excellent early in the season at 92.3%, which should help suppress Montreal's scoring opportunities. While some past head-to-head games have been high-scoring, the recent playoff series included lower-scoring contests, and the current injury situation points to a tighter game.",
+          "awayRecord": "1-1-1",
+          "homeRecord": "1-0-1",
+          "startTime": "2026-10-06T23:00Z",
           "awayLast5": [
             "L",
             "L",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "L",
-            "W"
+            "W",
+            "L"
           ]
         },
         {
-          "game": "Ottawa Senators vs Boston Bruins",
+          "game": "Nashville Predators vs Toronto Maple Leafs",
+          "betType": "total",
+          "pick": "Over 5.5",
+          "odds": "-135",
+          "confidence": "high",
+          "rationale": "The head-to-head history between the Predators and Maple Leafs strongly suggests a high-scoring affair, with recent matchups frequently exceeding 5.5 goals. Both teams have shown offensive capabilities, and their past encounters have often been wide open. While no specific line movement was noted, the historical trend provides a robust foundation for this pick. Expect an up-tempo game with plenty of scoring chances from both sides, pushing the total past the projected number.",
+          "awayRecord": "1-1-0",
+          "homeRecord": "1-2-0",
+          "startTime": "2026-10-06T23:00Z",
+          "awayLast5": [
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Ottawa Senators vs Detroit Red Wings",
+          "betType": "moneyline",
+          "pick": "Ottawa Senators (-110)",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "The Ottawa Senators have started the season strong with a 2-0-0 record, including a 2-0-0 road record, scoring 7 goals and allowing only 3. In contrast, the Detroit Red Wings are 0-2-0, with only 2 goals scored and 5 allowed, and are 0-2-0 at home. Detroit is also dealing with key injuries, including Jacob Bernard-Docker and Marco Kasper on injured reserve. Ottawa's solid start and Detroit's early struggles, compounded by injuries, give the Senators a clear advantage in this matchup.",
+          "awayRecord": "2-0-0",
+          "homeRecord": "0-2-0",
+          "startTime": "2026-10-06T23:00Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "St. Louis Blues vs Chicago Blackhawks",
           "betType": "total",
           "pick": "Over 5.5",
           "odds": "-120",
-          "confidence": "high",
-          "rationale": "The Ottawa Senators will be without key defenseman Jake Sanderson, who is out for at least the next two games with a lower-body injury, significantly weakening their defensive structure. The betting line for the total has already climbed from 5.5 to 6, indicating sharp money moving towards the Over. Furthermore, Ottawa is playing the front end of a back-to-back, which can lead to tired legs and defensive lapses. While Boston's offense has been inconsistent, the absence of Sanderson for Ottawa creates a strong opportunity for more goals in this matchup.",
-          "awayRecord": "1-0-0",
-          "homeRecord": "2-1-0",
-          "startTime": "2026-10-05T23:30Z",
+          "confidence": "medium",
+          "rationale": "The Chicago Blackhawks are off to a dismal 0-3-0 start, conceding an average of 4.2 goals per game with goaltender Spencer Knight posting a 3.80 GAA and .859 SV%. Their recent head-to-head history with the St. Louis Blues also features several high-scoring games, including a 5-3 Blues win and a 7-3 Blackhawks win in their last five meetings. The Blackhawks' defensive struggles and poor goaltending, combined with the historical trend, make the Over 5.5 a strong play as both teams are likely to contribute to the scoring.",
+          "awayRecord": "1-1-0",
+          "homeRecord": "0-3-0",
+          "startTime": "2026-10-07T00:00Z",
           "awayLast5": [
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
-            "W",
-            "W",
+            "L",
+            "L",
             "L"
           ]
         },
         {
-          "game": "Winnipeg Jets vs Pittsburgh Penguins",
+          "game": "Florida Panthers vs Los Angeles Kings",
           "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-105",
+          "pick": "Under 5.5",
+          "odds": "+110",
           "confidence": "medium",
-          "rationale": "The Pittsburgh Penguins have started the season strong with a 2-0-0 record, and Evgeni Malkin has scored in both of their games. Historically, the Penguins have frequently scored three or more goals against the Jets, doing so in seven of their last 11 meetings. The Winnipeg Jets also showed offensive firepower in their first win, with Kyle Connor and Cole Perfetti each recording three points. With both teams demonstrating scoring ability and the Penguins' strong home form against Winnipeg, this game has a high probability of exceeding the 6.5 goal total.",
-          "awayRecord": "1-0-1",
-          "homeRecord": "2-0-0",
-          "startTime": "2026-10-05T23:30Z",
+          "rationale": "Both the Florida Panthers and Los Angeles Kings are significantly impacted by injuries to key offensive players. The Panthers are without Aleksander Barkov (LTIR) and Jonah Gadjovich (IR), while the Kings are missing Fiala. These absences are expected to severely hamper both teams' offensive production, leading to a more defensive and lower-scoring contest. The loss of such critical playmakers and goal-scorers creates a strong situational factor favoring the Under, as neither team will find it easy to generate consistent offense.",
+          "awayRecord": "1-0-2",
+          "homeRecord": "0-1-1",
+          "startTime": "2026-10-07T02:00Z",
           "awayLast5": [
+            "W",
             "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "San Jose Sharks vs Dallas Stars",
-          "betType": "spread",
-          "pick": "San Jose Sharks +1.5",
-          "odds": "-155",
-          "confidence": "medium",
-          "rationale": "The Dallas Stars are off to a disappointing 0-2-0 start, their first such start since 2019-20, and are missing key offensive player Matt Duchene due to injury. In contrast, the San Jose Sharks have surprisingly begun the season 2-0-0, fueled by rookie Macklin Celebrini's impressive five assists in two games. While the Stars are at home and desperate for a win, their current struggles and significant injury absence make covering a -1.5 spread a challenge against an unexpectedly hot Sharks team. The +1.5 spread offers a valuable cushion for San Jose.",
-          "awayRecord": "2-0-0",
-          "homeRecord": "0-2-0",
-          "startTime": "2026-10-06T00:00Z",
-          "awayLast5": [
-            "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "L",
             "L"
-          ]
-        },
-        {
-          "game": "Winnipeg Jets vs Pittsburgh Penguins",
-          "betType": "moneyline",
-          "pick": "Pittsburgh Penguins",
-          "odds": "-180",
-          "confidence": "medium",
-          "rationale": "The Pittsburgh Penguins boast an exceptionally strong home record against the Winnipeg Jets, going 21-3-0 in their last 24 matchups at PPG Paints Arena dating back to 2007. Pittsburgh has started the season with a perfect 2-0-0 record, demonstrating solid form. Although Bryan Rust is a game-time decision, his potential return would further bolster an already effective Penguins lineup. This dominant historical home performance combined with their current winning streak makes the Penguins moneyline a high-confidence pick.",
-          "awayRecord": "1-0-1",
-          "homeRecord": "2-0-0",
-          "startTime": "2026-10-05T23:30Z",
-          "awayLast5": [
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W"
           ]
         }
       ]
@@ -177,167 +198,179 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Chicago White Sox vs Cleveland Guardians",
+          "game": "Los Angeles Dodgers vs Atlanta Braves",
           "betType": "total",
           "pick": "Under 6.5",
-          "odds": "-104",
+          "odds": "-106",
           "confidence": "medium",
-          "rationale": "Game 1 of this ALDS series finished with a low score of 3-0, indicating a pitcher-friendly environment and tight play. White Sox opener Anthony Kay has been exceptionally effective against Cleveland this season, holding them to a 1.35 ERA and sub-1.00 WHIP. While Guardians starter Gavin Williams is a strikeout leader, he has a career 5.15 ERA with 6+ days of rest, a factor here as he hasn't pitched since September 25. The line movement also suggests sharp money on the Under, as the Over's price has dropped despite heavy public betting on it.",
-          "awayRecord": "84-78",
-          "homeRecord": "85-77",
-          "startTime": "2026-10-05T21:00Z",
+          "rationale": "This NLDS Game 3 features a premier pitching matchup between Yoshinobu Yamamoto (2.53 ERA) and Chris Sale (2.16 ERA), both of whom are top-tier starters. Chris Sale previously shut out the Dodgers in an August matchup, recording 11 strikeouts. The total line opened at 6.5 and saw significant sharp money push it down to 6.0, with as much as 99% of the money on the Under, indicating a strong market lean towards a low-scoring game. Both teams also possess strong bullpens, which should help keep runs at a minimum in the later innings.",
+          "awayRecord": "100-62",
+          "homeRecord": "94-68",
+          "startTime": "2026-10-06T22:00Z",
           "awayLast5": [
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L"
-          ]
-        },
-        {
-          "game": "New York Yankees vs Tampa Bay Rays",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "-104",
-          "confidence": "medium",
-          "rationale": "Game 1 of this ALDS series was a 1-0 pitcher's duel, setting a precedent for low scoring. Yankees' starter Cam Schlittler boasts an impressive 1.89 ERA and 1.16 ERA on the road this season, coming off a 10-strikeout scoreless outing in the Wild Card. Rays' starter Freddy Peralta has also been in excellent form, allowing one run or less in his last six starts with a 3.53 ERA at home. Furthermore, eight of the last nine night games between these two teams have seen no runs scored in the first inning, reinforcing a slow-starting, low-scoring trend.",
-          "awayRecord": "93-68",
-          "homeRecord": "98-64",
-          "startTime": "2026-10-06T00:00Z",
-          "awayLast5": [
-            "W",
             "W",
             "L"
           ],
           "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Chicago White Sox vs Cleveland Guardians",
-          "betType": "moneyline",
-          "pick": "Chicago White Sox (+128)",
-          "odds": "+128",
+          "game": "Milwaukee Brewers vs San Diego Padres",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "The White Sox are in strong recent form, with an 8-2 record in their last 10 games, including a 3-0 victory in Game 1 of this series. They have also won 3 of the last 5 head-to-head matchups against the Guardians. Guardians starter Gavin Williams has historically struggled with extended rest, posting a 5.15 career ERA on 6+ days off, and he hasn't pitched since September 25. The White Sox have been a profitable moneyline bet this season, finishing +13.6 units overall, and the current line offers good value.",
-          "awayRecord": "84-78",
-          "homeRecord": "85-77",
-          "startTime": "2026-10-05T21:00Z",
+          "rationale": "The San Diego Padres' offense has struggled significantly with runners in scoring position in the first two games of the NLDS, going just 3-for-18 and leaving 20 runners on base. While the verified line is 7.5, the market opened at 7.0 and the juice shifted towards the Under, suggesting a sharp fade of public money that was on the Over. Both the Brewers (85-73-6 to the Under) and Padres (82-78-6 to the Under) have demonstrated strong season-long trends towards low-scoring games. Additionally, Brewers' starter Dustin May, despite a higher ERA with Milwaukee, has historically pitched well against San Diego, including an almost no-hitter.",
+          "awayRecord": "103-59",
+          "homeRecord": "91-71",
+          "startTime": "2026-10-07T01:30Z",
           "awayLast5": [
-            "W",
             "W",
             "W"
           ],
           "homeLast5": [
+            "W",
+            "W",
+            "L",
             "L"
           ]
         },
         {
-          "game": "New York Yankees vs Tampa Bay Rays",
-          "betType": "spread",
-          "pick": "New York Yankees -1.5",
-          "odds": "+146",
-          "confidence": "medium",
-          "rationale": "The Yankees feature elite pitching with Cam Schlittler, who holds a 1.89 ERA this season and delivered a dominant 10-strikeout performance in his last outing. Historically, the Yankees have shown significant power against Rays' starter Freddy Peralta, hitting seven home runs in 113 at-bats. After being shut out 1-0 in Game 1, New York is in a 'must-win' situation and is expected to come out with a more aggressive offensive approach. Despite heavy public betting on the Yankees moneyline, the value on the -1.5 spread is compelling given their pitching advantage and motivation.",
-          "awayRecord": "93-68",
-          "homeRecord": "98-64",
-          "startTime": "2026-10-06T00:00Z",
+          "game": "Milwaukee Brewers vs San Diego Padres",
+          "betType": "moneyline",
+          "pick": "San Diego Padres (-134)",
+          "odds": "-134",
+          "confidence": "high",
+          "rationale": "The San Diego Padres are in a critical must-win situation, trailing 0-2 in the NLDS, and will be playing at home where they boast an impressive 53-30 record this season. Starting pitcher Nick Pivetta has been in excellent form since returning from injury, which is a significant factor contributing to the market's sharp move towards the Padres. The moneyline opened at Padres -121 and moved to -136, indicating sharp money backing San Diego to avoid the sweep, despite the Brewers' strong overall moneyline record.",
+          "awayRecord": "103-59",
+          "homeRecord": "91-71",
+          "startTime": "2026-10-07T01:30Z",
           "awayLast5": [
             "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers vs Atlanta Braves",
+          "betType": "spread",
+          "pick": "Atlanta Braves +1.5",
+          "odds": "-196",
+          "confidence": "medium",
+          "rationale": "The Atlanta Braves are playing at home in a tied NLDS series, with ace Chris Sale (2.16 ERA) on the mound, who previously shut out the Dodgers this season. The moneyline has settled into a near pick'em, but the market rates Sale's start as the stronger one, suggesting the Braves are well-positioned to keep the game close or win. The Dodgers' offense has shown a reliance on home runs and struggled with runners in scoring position in Game 2, which could limit their scoring against Sale and a strong Braves bullpen. Given the tight nature of this series and the pitching matchup, the +1.5 run line offers excellent value for the home team.",
+          "awayRecord": "100-62",
+          "homeRecord": "94-68",
+          "startTime": "2026-10-06T22:00Z",
+          "awayLast5": [
             "W",
             "L"
           ],
           "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Chicago White Sox vs Cleveland Guardians",
-          "betType": "spread",
-          "pick": "Chicago White Sox +1.5",
-          "odds": "-184",
+          "game": "Los Angeles Dodgers vs Atlanta Braves",
+          "betType": "prop",
+          "pick": "Shohei Ohtani Under 0.5 Home Runs",
+          "odds": "N/A",
           "confidence": "medium",
-          "rationale": "The White Sox have been performing well recently, holding an 8-2 record in their last 10 games and securing a 3-0 victory in Game 1 of the ALDS. They have also demonstrated strong performance against the spread this season, with a 93-69 ATS record. Guardians starter Gavin Williams has a documented history of struggling with extra rest, posting a 5.15 career ERA when given 6+ days off, which applies to this matchup. This pick offers a safer alternative to the moneyline, as it covers a win or a one-run loss, aligning with Chicago's strong form and Williams' potential rust.",
-          "awayRecord": "84-78",
-          "homeRecord": "85-77",
-          "startTime": "2026-10-05T21:00Z",
+          "rationale": "Shohei Ohtani is active and playing for the Los Angeles Dodgers in today's game against the Atlanta Braves. He is facing Chris Sale, who has a stellar 2.16 ERA and previously shut out the Dodgers, demonstrating his ability to neutralize their powerful lineup. The Dodgers' offense in Game 2 relied solely on solo home runs for their scoring and struggled to get clutch hits, indicating a potential difficulty in generating consistent offense. Given Sale's dominance and the Dodgers' recent offensive struggles with situational hitting, it is highly probable Ohtani will not hit a home run in this pitching duel.",
+          "awayRecord": "100-62",
+          "homeRecord": "94-68",
+          "startTime": "2026-10-06T22:00Z",
           "awayLast5": [
             "W",
-            "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "NCAAF",
+      "picks": [
+        {
+          "game": "Southern Miss Golden Eagles vs Troy Trojans",
+          "betType": "total",
+          "pick": "Under 51.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Southern Miss is significantly hindered offensively with starting QB Ethan Hampton and two key wide receivers, Grant Page and Jaylen Himes, all confirmed out due to injury. This has contributed to their inability to score more than 21 points in their last three games. Troy's offense, led by QB Goose Crowder, has also demonstrated inefficiency, completing only 52% of passes and committing four interceptions in four games. Both teams average under 5.0 YPP in FBS contests, indicating overall offensive struggles to sustain drives. Despite public money on the Over, the total line saw a retreat from its peak, suggesting sharp money on the Under, and historical head-to-head matchups have seen the Under hit in three of the last five meetings.",
+          "awayRecord": "1-3",
+          "homeRecord": "2-2",
+          "startTime": "2026-10-07T00:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Southern Miss Golden Eagles vs Troy Trojans",
+          "betType": "spread",
+          "pick": "Troy Trojans -10.5",
+          "odds": "-108",
+          "confidence": "high",
+          "rationale": "Troy holds a perfect home record this season at Veterans Memorial Stadium and is motivated to bounce back from recent road losses. Southern Miss faces substantial offensive challenges with their starting quarterback and two wide receivers sidelined, severely impacting their ability to generate points and keep the game close. The Golden Eagles' run defense is particularly weak, allowing 235.3 rushing yards per game, which Troy's ground game can exploit to control the clock and extend leads. The betting line has moved from Troy -9.5 to -10.5, with 100% of the spread money backing Troy, signaling strong market confidence. Troy has also historically dominated this matchup against the spread, covering in five of the last six meetings since 2017 and winning the last five head-to-head games outright.",
+          "awayRecord": "1-3",
+          "homeRecord": "2-2",
+          "startTime": "2026-10-07T00:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
             "L"
           ]
         }
       ]
     },
     {
-      "sport": "NFL",
+      "sport": "MLS",
       "picks": [
         {
-          "game": "Atlanta Falcons vs New Orleans Saints",
+          "game": "Vancouver Whitecaps @ Chicago Fire FC",
           "betType": "total",
-          "pick": "Under 47.5",
+          "pick": "Over 3.5",
           "odds": "-105",
           "confidence": "medium",
-          "rationale": "The last three head-to-head matchups between the Falcons and Saints have consistently finished with 37 or fewer total points, establishing a strong historical trend towards lower-scoring contests. Atlanta's offense has struggled to produce points this season, averaging only 17.0 points per game through three games. While the Saints have significant defensive injuries, the Falcons' run-heavy approach and the Saints' own offensive inconsistencies (including a 35-27 loss last week) suggest this game is likely to stay under the 47.5 total. Atlanta's defense also ranks first in the league against the run, allowing only 47.7 yards per game, which could limit the Saints' offensive versatility.",
-          "awayRecord": "1-2",
-          "homeRecord": "1-2",
-          "startTime": "2026-10-06T00:15Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Atlanta Falcons vs New Orleans Saints",
-          "betType": "spread",
-          "pick": "Atlanta Falcons +1.5",
-          "odds": "-112",
-          "confidence": "high",
-          "rationale": "The betting line has moved significantly towards Atlanta, opening at Saints -3.5 and shifting to Saints -1.5, indicating strong sharp money backing the Falcons. New Orleans faces substantial defensive challenges with linebackers Kaden Elliss, Carl Granderson, and Anfernee Jennings all ruled out, and Pete Werner questionable, which severely weakens their front seven against Atlanta's potent run game led by Bijan Robinson. The Falcons also benefit from 11 days of rest compared to the Saints' shorter turnaround, a significant situational advantage. Furthermore, Atlanta has won the last two head-to-head matchups against the Saints, adding to their confidence.",
-          "awayRecord": "1-2",
-          "homeRecord": "1-2",
-          "startTime": "2026-10-06T00:15Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Atlanta Falcons vs New Orleans Saints",
-          "betType": "moneyline",
-          "pick": "Atlanta Falcons (+102)",
-          "odds": "+102",
-          "confidence": "high",
-          "rationale": "The moneyline movement for this game is a strong indicator, with Atlanta's odds improving from an opening of +160 to the current +102, reflecting significant market confidence in a Falcons outright victory. The Saints' defense is severely hampered by multiple key injuries in their front seven, including Kaden Elliss, Carl Granderson, and Anfernee Jennings being out, which creates a favorable matchup for Atlanta's run-focused offense and Michael Penix Jr.'s recent strong play. Combined with more rest and recent head-to-head success, the Falcons are well-positioned for an upset win on the road. The Falcons' strong run defense could also limit the Saints' scoring opportunities, further supporting an outright win.",
-          "awayRecord": "1-2",
-          "homeRecord": "1-2",
-          "startTime": "2026-10-06T00:15Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L"
-          ]
+          "rationale": "Both Chicago Fire FC and Vancouver Whitecaps have demonstrated a strong tendency towards high-scoring games this season, with Chicago's matches seeing over 2.5 goals in 73% of fixtures and Vancouver's in 73.1% of their games. Chicago averages 1.8 goals scored and 1.17 conceded at home, while Vancouver's last match ended in a 3-3 draw. Both teams are significantly impacted by international call-ups, leading to key defensive absences; Chicago is without starting goalkeeper Chris Brady and defender Noah Allen, and Vancouver is missing midfielder Andrés Cubas and defender Édier Ocampo. With Robert Lewandowski returning for Chicago and Brian White leading Vancouver's attack, both sides possess potent offensive threats. These factors, combined with Chicago's 'must-win' situation at home for playoff positioning, point to an open, high-scoring affair.",
+          "awayRecord": "15-5-6",
+          "homeRecord": "12-6-8",
+          "startTime": "2026-10-07T00:30Z"
         }
       ]
     }
