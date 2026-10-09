@@ -1,5 +1,243 @@
 [
   {
+    "date": "2026-10-08",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Boston Celtics vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Over 219.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Boston Celtics 124, Cleveland Cavaliers 113"
+          },
+          {
+            "game": "Philadelphia 76ers vs Brooklyn Nets",
+            "betType": "spread",
+            "pick": "Philadelphia 76ers -6.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia 76ers 108, Brooklyn Nets 114"
+          },
+          {
+            "game": "Atlanta Hawks vs San Antonio Spurs",
+            "betType": "total",
+            "pick": "Over 227.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Hawks 123, San Antonio Spurs 116"
+          },
+          {
+            "game": "Sacramento Kings vs Los Angeles Lakers",
+            "betType": "total",
+            "pick": "Over 229.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sacramento Kings 110, Los Angeles Lakers 114"
+          },
+          {
+            "game": "Boston Celtics vs Cleveland Cavaliers",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers -1.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Boston Celtics 124, Cleveland Cavaliers 113"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Colorado Avalanche @ Calgary Flames",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Avalanche 7, Calgary Flames 3"
+          },
+          {
+            "game": "Utah Mammoth @ Boston Bruins",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "L",
+            "score": "Utah Mammoth 1, Boston Bruins 6"
+          },
+          {
+            "game": "Toronto Maple Leafs @ Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto Maple Leafs 3, Vegas Golden Knights 4"
+          },
+          {
+            "game": "Chicago Blackhawks @ New York Islanders",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Blackhawks 1, New York Islanders 4"
+          },
+          {
+            "game": "Vancouver Canucks @ Carolina Hurricanes",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Vancouver Canucks 2, Carolina Hurricanes 7"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cleveland Guardians vs Chicago White Sox",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cleveland Guardians 9, Chicago White Sox 5"
+          },
+          {
+            "game": "Cleveland Guardians vs Chicago White Sox",
+            "betType": "spread",
+            "pick": "Chicago White Sox +1.5",
+            "odds": "-180",
+            "confidence": "high",
+            "result": "L",
+            "score": "Cleveland Guardians 9, Chicago White Sox 5"
+          },
+          {
+            "game": "Cleveland Guardians vs Chicago White Sox",
+            "betType": "moneyline",
+            "pick": "Cleveland Guardians",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cleveland Guardians 9, Chicago White Sox 5"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Tampa Bay Buccaneers vs Dallas Cowboys",
+            "betType": "prop",
+            "pick": "Jalon Daniels Over 44.5 Rushing Yards",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Jalon Daniels: 23 Rushing Yards (line 44.5)"
+          },
+          {
+            "game": "Tampa Bay Buccaneers vs Dallas Cowboys",
+            "betType": "total",
+            "pick": "Over 48.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tampa Bay Buccaneers 24, Dallas Cowboys 16"
+          },
+          {
+            "game": "Tampa Bay Buccaneers vs Dallas Cowboys",
+            "betType": "spread",
+            "pick": "Dallas Cowboys -8.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Buccaneers 24, Dallas Cowboys 16"
+          },
+          {
+            "game": "Tampa Bay Buccaneers vs Dallas Cowboys",
+            "betType": "prop",
+            "pick": "CeeDee Lamb Over 80.5 Receiving Yards",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "CeeDee Lamb: 9 Receiving Yards (line 80.5)"
+          },
+          {
+            "game": "Tampa Bay Buccaneers vs Dallas Cowboys",
+            "betType": "prop",
+            "pick": "Dak Prescott Over 264.5 Passing Yards",
+            "odds": "-113",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Dak Prescott: 316 Passing Yards (line 264.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "South Florida Bulls vs UTSA Roadrunners",
+            "betType": "total",
+            "pick": "Over 49.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "South Florida Bulls 24, UTSA Roadrunners 31"
+          },
+          {
+            "game": "South Alabama Jaguars vs Arkansas State Red Wolves",
+            "betType": "total",
+            "pick": "Under 60.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "South Alabama Jaguars 56, Arkansas State Red Wolves 49"
+          },
+          {
+            "game": "Sam Houston Bearkats vs Liberty Flames",
+            "betType": "total",
+            "pick": "Under 52.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sam Houston Bearkats 3, Liberty Flames 35"
+          },
+          {
+            "game": "Missouri State Bears vs Western Kentucky Hilltoppers",
+            "betType": "spread",
+            "pick": "Western Kentucky Hilltoppers -1.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Missouri State Bears 13, Western Kentucky Hilltoppers 34"
+          },
+          {
+            "game": "Sam Houston Bearkats vs Liberty Flames",
+            "betType": "spread",
+            "pick": "Liberty Flames -13.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sam Houston Bearkats 3, Liberty Flames 35"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-07",
     "sports": [
       {
@@ -3694,162 +3932,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Atlético Madrid 1, Liverpool 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-08",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Chicago Cubs vs Milwaukee Brewers",
-            "betType": "spread",
-            "pick": "Milwaukee Brewers -1.5",
-            "odds": "+104",
-            "confidence": "high",
-            "result": "L",
-            "score": "Chicago Cubs 3, Milwaukee Brewers 4"
-          },
-          {
-            "game": "Houston Astros vs Philadelphia Phillies",
-            "betType": "moneyline",
-            "pick": "Houston Astros (+120)",
-            "odds": "+120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Houston Astros 6, Philadelphia Phillies 5"
-          },
-          {
-            "game": "Toronto Blue Jays vs Athletics",
-            "betType": "spread",
-            "pick": "Toronto Blue Jays -1.5",
-            "odds": "-115",
-            "confidence": "high",
-            "result": "W",
-            "score": "Toronto Blue Jays 4, Athletics 2"
-          },
-          {
-            "game": "Washington Nationals vs San Diego Padres",
-            "betType": "spread",
-            "pick": "San Diego Padres -1.5",
-            "odds": "+122",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Washington Nationals 4, San Diego Padres 5"
-          },
-          {
-            "game": "Cincinnati Reds vs Los Angeles Dodgers",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5",
-            "odds": "-146",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Cincinnati Reds 2, Los Angeles Dodgers 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Columbus Crew SC @ D.C. United",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-160",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "Nashville SC @ Toronto FC",
-            "betType": "moneyline",
-            "pick": "Nashville SC",
-            "odds": "+115",
-            "confidence": "high",
-            "result": "W",
-            "score": "Orlando City SC 3, Atlanta United FC 2"
-          },
-          {
-            "game": "Charlotte FC @ CF Montreal",
-            "betType": "moneyline",
-            "pick": "Charlotte FC",
-            "odds": "+180",
-            "confidence": "high",
-            "result": "?",
-            "score": ""
-          },
-          {
-            "game": "FC Cincinnati @ Philadelphia Union",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "FC Cincinnati 0, Philadelphia Union 5"
-          },
-          {
-            "game": "Orlando City SC @ Atlanta United FC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Orlando City SC 3, Atlanta United FC 2"
-          }
-        ]
-      },
-      {
-        "sport": "UCL",
-        "picks": [
-          {
-            "game": "Villarreal @ Borussia Dortmund",
-            "betType": "moneyline",
-            "pick": "Borussia Dortmund (-130)",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "W",
-            "score": "Villarreal 2, Borussia Dortmund 3"
-          },
-          {
-            "game": "Manchester City @ FC Porto",
-            "betType": "moneyline",
-            "pick": "Manchester City (-140)",
-            "odds": "-140",
-            "confidence": "high",
-            "result": "W",
-            "score": "Manchester City 2, FC Porto 0"
-          },
-          {
-            "game": "LASK Linz @ AEK Athens",
-            "betType": "moneyline",
-            "pick": "AEK Athens (-140)",
-            "odds": "-140",
-            "confidence": "high",
-            "result": "W",
-            "score": "LASK Linz 0, AEK Athens 1"
-          },
-          {
-            "game": "Real Betis @ Lille",
-            "betType": "moneyline",
-            "pick": "Lille (+115)",
-            "odds": "+115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Real Betis 3, Lille 2"
-          },
-          {
-            "game": "Aston Villa @ Club Brugge",
-            "betType": "total",
-            "pick": "Over 2.5 (-155)",
-            "odds": "-155",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Aston Villa 3, Club Brugge 2"
           }
         ]
       }
