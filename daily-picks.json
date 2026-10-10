@@ -1,48 +1,99 @@
 {
-  "date": "2026-10-09",
-  "generatedAt": "2026-10-09T16:04:52.288Z",
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T15:13:05.701Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Memphis Grizzlies vs Chicago Bulls",
+          "game": "Minnesota Timberwolves @ Miami Heat",
           "betType": "total",
-          "pick": "Under 238.5",
+          "pick": "Over 234.5",
           "odds": "-112",
           "confidence": "medium",
-          "rationale": "Line sourced from web search (FanDuel Sportsbook) — verify before betting. The Memphis Grizzlies are significantly depleted offensively for this preseason game, with key players Ty Jerome (ankle) and Zach Edey (ankle) both listed as OUT. While both teams have shown flashes of high scoring in early preseason, the absence of these core contributors for Memphis is expected to severely hamper their offensive output. Despite some historical 'Over' trends, the specific injury situation for the Grizzlies makes the high total of 238.5 difficult to reach in a preseason context where rotations are often deep and defensive intensity can vary.",
-          "propPlayer": null,
-          "propTeam": null,
+          "rationale": "Line sourced from web search — verify before betting. The Miami Heat have seen the totals go OVER in 4 of their last 5 games, and in 23 of their last 41 home games. Additionally, the Heat have gone Over in 6 of their last 7 Saturday games, while the Timberwolves have gone Over in 5 of their last 5 games as an underdog of 5.0-10.5. Both teams' recent trends suggest a higher-scoring affair, making the Over a strong play.",
           "awayRecord": "1-1",
-          "homeRecord": "1-0",
-          "startTime": "2026-10-10T00:00Z",
+          "homeRecord": "2-0",
+          "startTime": "2026-10-11T00:00Z",
           "awayLast5": [
             "W",
             "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Sacramento Kings @ Golden State Warriors",
+          "betType": "total",
+          "pick": "Over 229.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Golden State Warriors have a strong 'Over' trend, with the Over hitting in 12 of their last 17 games as a home favorite of 11.0 or greater, and 11 of their last 12 games playing on 2 days rest. The Kings also contribute to high-scoring games, with the Over hitting in 11 of their last 16 games playing on 1 day rest. This combination of recent scoring trends for both teams points to the Over.",
+          "awayRecord": "0-2",
+          "homeRecord": "1-2",
+          "startTime": "2026-10-11T00:30Z",
+          "awayLast5": [
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Detroit Pistons @ Washington Wizards",
+          "betType": "spread",
+          "pick": "Detroit Pistons -3.5",
+          "odds": "-104",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Detroit Pistons have shown recent dominance over the Washington Wizards in head-to-head matchups, winning two games in the 2025-26 season with scores like 117-x and 130-117. The Pistons recently secured a preseason win against the Suns, 109-107, indicating some positive momentum. With the Wizards not showing strong recent form in the available data, the Pistons covering a modest -3.5 spread appears favorable.",
+          "awayRecord": "1-0",
+          "homeRecord": "1-0",
+          "startTime": "2026-10-10T23:00Z",
+          "awayLast5": [
+            "W"
           ],
           "homeLast5": [
             "W"
           ]
         },
         {
-          "game": "Memphis Grizzlies vs Chicago Bulls",
+          "game": "LA Clippers @ Toronto Raptors",
           "betType": "spread",
-          "pick": "Chicago Bulls -2.5",
-          "odds": "-122",
+          "pick": "LA Clippers +4.5",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "Line sourced from web search (FanDuel Sportsbook) — verify before betting. The Chicago Bulls are playing at home and boast a more intact roster compared to the Memphis Grizzlies, who are missing several key players including Ty Jerome and Zach Edey. The Bulls won their preseason opener 124-117 against Phoenix and are looking to build chemistry under new head coach Tiago Splitter. The significant injury advantage for Chicago, combined with their home court, provides a strong edge to cover this relatively small spread.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "1-1",
-          "homeRecord": "1-0",
-          "startTime": "2026-10-10T00:00Z",
+          "rationale": "Line sourced from web search — verify before betting. This is a preseason game, and Kawhi Leonard is expected to sit out for the Toronto Raptors. Without their star player, the Raptors' offensive production and overall team cohesion may be diminished, making a -4.5 spread challenging to cover. The Clippers, even in a preseason context, should be competitive enough to keep the game within this margin or potentially win outright against a Kawhi-less Raptors squad.",
+          "awayRecord": "1-0",
+          "homeRecord": "0-1",
+          "startTime": "2026-10-10T22:30Z",
           "awayLast5": [
-            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs @ Phoenix Suns",
+          "betType": "total",
+          "pick": "Under 222.5",
+          "odds": "-118",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The head-to-head history between the Spurs and Suns shows a trend towards the Under, with 7 of their last 10 matchups going Under the total. Furthermore, the Suns have key offensive player Miles Bridges out with an ankle injury, and the Spurs are without De'Aaron Fox due to finger soreness. These significant injuries to offensive contributors for both teams are likely to suppress scoring, favoring the Under.",
+          "awayRecord": "0-1",
+          "homeRecord": "0-2",
+          "startTime": "2026-10-11T02:30Z",
+          "awayLast5": [
             "L"
           ],
           "homeLast5": [
-            "W"
+            "L",
+            "L"
           ]
         }
       ]
@@ -51,112 +102,197 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Seattle Kraken vs Detroit Red Wings",
+          "game": "Los Angeles Kings vs Vegas Golden Knights",
           "betType": "total",
           "pick": "Over 6.5",
-          "odds": "+110",
+          "odds": "+114",
           "confidence": "medium",
-          "rationale": "The head-to-head history between these two teams strongly favors the over, with 4 of their last 5 matchups exceeding 6.5 goals. The Kraken have shown an improved offense early in the 2026-27 season, scoring 13 goals in their first three games. Detroit also found their offensive stride in their last outing, putting up 5 goals against Ottawa. Both teams are dealing with defensive injuries, including Ryan Lindgren for Seattle, which could lead to more scoring opportunities.",
-          "awayRecord": "2-2-0",
-          "homeRecord": "1-2-0",
-          "startTime": "2026-10-09T23:00Z",
+          "rationale": "The Los Angeles Kings are off to a dreadful start, with a 0-2-1 record and having lost nine straight games dating back to last season's playoffs, while allowing an average of 8 goals per game. Their goaltending has been particularly poor, with Anton Forsberg holding a 4.76 GAA and Darcy Kuemper at 5.13 GAA. The Vegas Golden Knights, conversely, are in great form at 4-1-0 with an offense that is 'humming,' led by Jack Eichel's 12 points. This matchup features a struggling defensive and goaltending team against a high-powered offense, making the Over a strong play.",
+          "awayRecord": "0-2-1",
+          "homeRecord": "4-1-0",
+          "startTime": "2026-10-11T02:00Z",
           "awayLast5": [
-            "W",
             "L",
-            "W",
+            "L",
             "L"
           ],
           "homeLast5": [
+            "W",
             "L",
-            "L",
+            "W",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Pittsburgh Penguins vs Columbus Blue Jackets",
+          "game": "Anaheim Ducks vs Calgary Flames",
           "betType": "total",
           "pick": "Over 6.5",
-          "odds": "-110",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "Recent head-to-head matchups between the Penguins and Blue Jackets have trended towards high-scoring affairs, with 3 of their last 4 regular season games going over 6.5 goals. The Penguins have been involved in several high-scoring games this season, including a 7-0 win and a 6-5 overtime victory. Columbus' starting goaltender, Jet Greaves, has allowed 7 goals on 57 shots through his first two starts this season. Both teams are also missing key defensive players, which could contribute to a more open game.",
-          "awayRecord": "2-2-0",
-          "homeRecord": "1-1-0",
-          "startTime": "2026-10-09T23:00Z",
+          "rationale": "The Calgary Flames are currently winless at 0-4-0, having struggled significantly on defense and allowing 4.5 goals per game, including recent losses of 7-3 and 6-1. They are missing Jonathan Huberdeau due to injury, which impacts their offensive depth. The Anaheim Ducks, with a 3-1-0 record, possess a young and dangerous offensive core, with Leo Carlsson and Beckett Sennecke combining for 13 points through four games. Given Calgary's defensive woes and Anaheim's offensive capabilities, this game is poised for a high-scoring affair.",
+          "awayRecord": "3-1-0",
+          "homeRecord": "0-4-0",
+          "startTime": "2026-10-11T02:00Z",
           "awayLast5": [
             "W",
             "W",
             "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Anaheim Ducks vs Winnipeg Jets",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "The head-to-head history between the Ducks and Jets shows a strong trend towards the under, with 6 of their last 10 matchups staying below 6.5 goals. The Winnipeg Jets have started the season with three consecutive 3-2 victories, indicating a pattern of lower-scoring games. While Anaheim has found success on the power play, their 5-on-5 offensive production needs improvement. This combination of H2H trends and recent form suggests a tighter, lower-scoring contest.",
-          "awayRecord": "2-1-0",
-          "homeRecord": "3-0-1",
-          "startTime": "2026-10-10T00:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
             "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L"
           ]
         },
         {
-          "game": "New York Rangers vs Washington Capitals",
+          "game": "Detroit Red Wings vs Montreal Canadiens",
           "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-125",
+          "pick": "Over 6.5",
+          "odds": "+102",
           "confidence": "medium",
-          "rationale": "Both the New York Rangers and Washington Capitals have demonstrated strong offensive capabilities early in the 2026-27 season. The Rangers are 4-1-0 and have scored 5, 4, and 5 goals in three of their five games. The Capitals, with a 2-1-0 record, have also put up 5 goals in two of their three games this season. Washington made significant offensive additions in the offseason, and their key players like Alex Ovechkin are in good form. This matchup features two teams capable of finding the back of the net, making the Over a strong play.",
-          "awayRecord": "4-1-0",
-          "homeRecord": "2-1-0",
-          "startTime": "2026-10-09T23:00Z",
+          "rationale": "The Montreal Canadiens have shown significant defensive inconsistency early in the season, allowing at least five goals in three recent defeats, including six goals twice. Their team save percentage sits at a concerning .829, indicating issues in net. The Detroit Red Wings, despite their 1-3-0 record, demonstrated offensive capability by scoring five goals in their recent win over Ottawa, and their own goaltending numbers are not strong (3.50 GAA, .856 SV%). While the head-to-head trend shows an Under bias, the current defensive struggles and poor goaltending on both sides make the Over a compelling pick.",
+          "awayRecord": "1-3-0",
+          "homeRecord": "1-2-1",
+          "startTime": "2026-10-10T23:00Z",
           "awayLast5": [
             "L",
+            "L",
             "W",
-            "W",
-            "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
             "L",
-            "W"
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Seattle Kraken vs Detroit Red Wings",
+          "game": "Carolina Hurricanes vs Chicago Blackhawks",
           "betType": "spread",
-          "pick": "Detroit Red Wings -1.5",
-          "odds": "+170",
+          "pick": "Carolina Hurricanes -1.5",
+          "odds": "+105",
           "confidence": "medium",
-          "rationale": "The Detroit Red Wings hold a significant historical advantage over the Seattle Kraken, having won their last five head-to-head matchups. Seattle is coming off a lopsided 6-2 loss to the Vegas Golden Knights and will be without defenseman Ryan Lindgren for 4-6 weeks due to an upper-body injury. Detroit, playing at home, recently secured their first win of the season with a 5-3 performance. Given Seattle's defensive struggles and Detroit's home advantage and recent H2H dominance, the Red Wings are well-positioned for a multi-goal victory.",
-          "awayRecord": "2-2-0",
-          "homeRecord": "1-2-0",
-          "startTime": "2026-10-09T23:00Z",
+          "rationale": "The Carolina Hurricanes, with a strong 3-1-1 record, face a struggling Chicago Blackhawks team that is 1-4-0 and severely depleted by injuries and suspensions. Chicago will be without key offensive players Frank Nazar, who is suspended for two games, and Connor Bedard, who is out with a shoulder injury. Historically, the Hurricanes have dominated this matchup, holding a 50-37-7-3 all-time record against the Blackhawks and winning four of their last five head-to-head encounters, including a decisive 7-2 victory in their most recent game. This significant talent disparity and Chicago's key absences create a strong edge for Carolina to cover the spread.",
+          "awayRecord": "3-1-1",
+          "homeRecord": "1-4-0",
+          "startTime": "2026-10-10T23:00Z",
           "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Toronto Maple Leafs vs Colorado Avalanche",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The head-to-head history between the Maple Leafs and Avalanche suggests a high-scoring affair, with an average of 7.3 goals per game across their 15 meetings. Both teams feature potent offenses with star players like Nathan MacKinnon, Cale Makar for Colorado, and William Nylander, Auston Matthews for Toronto, who have historically performed well in this matchup. The Avalanche's recent 7-3 win against the Flames highlights their offensive firepower, while the Maple Leafs recently scored three goals in the first period against the Golden Knights. Furthermore, initial line movement indicates a slight lean towards the Over, reinforcing the expectation of a goal-filled game.",
+          "awayRecord": "2-2-1",
+          "homeRecord": "3-1-0",
+          "startTime": "2026-10-10T23:00Z",
+          "awayLast5": [
+            "L",
             "W",
             "L",
             "W",
             "L"
           ],
           "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "Chicago White Sox vs Cleveland Guardians",
+          "betType": "total",
+          "pick": "Over 7.5",
+          "odds": "+108",
+          "confidence": "medium",
+          "rationale": "The Cleveland Guardians' offense has shown significant recent momentum, exploding for 9 runs in each of their last two games against the White Sox. The White Sox offense has also been productive, hitting 12 home runs and batting .248 over their last 10 games. Head-to-head matchups between these teams have historically been higher scoring, averaging 8.3 runs per game, with three of their last five ALDS contests going over 7.5 runs. While both starting pitchers are capable, Gavin Williams pitched in relief yesterday, and the White Sox bullpen showed signs of fatigue in Game 4, which could lead to more scoring opportunities.",
+          "awayRecord": "84-78",
+          "homeRecord": "85-77",
+          "startTime": "2026-10-11T00:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
             "L",
             "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Chicago White Sox vs Cleveland Guardians",
+          "betType": "spread",
+          "pick": "Chicago White Sox +1.5",
+          "odds": "-182",
+          "confidence": "high",
+          "rationale": "The season series between the White Sox and Guardians has been exceptionally close, with Chicago holding a slight 9-8 edge and six of their 13 regular-season games decided by just one run. White Sox starter Sean Burke has been a dominant force against the Guardians this season, boasting a 3-0 record and an impressive 1.19 ERA in three appearances, including two wins in Cleveland. Furthermore, observed moneyline movement saw Cleveland's odds drop from -145 to -135, indicating sharp action favoring the White Sox to either win outright or keep the game very close. This strong head-to-head performance by Burke and the tight series history make the White Sox +1.5 a confident pick.",
+          "awayRecord": "84-78",
+          "homeRecord": "85-77",
+          "startTime": "2026-10-11T00:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Chicago White Sox vs Cleveland Guardians",
+          "betType": "moneyline",
+          "pick": "Chicago White Sox (+120)",
+          "odds": "+120",
+          "confidence": "high",
+          "rationale": "White Sox starter Sean Burke has been outstanding against the Guardians this season, holding a 3-0 record with a 1.19 ERA in 22.2 innings pitched, which includes two victories in Cleveland. The White Sox have proven they can win in Progressive Field, securing 3-0 and 4-3 victories there earlier in this ALDS. The overall season series is nearly even at 9-8 in favor of Chicago, demonstrating that these teams are very closely matched. Significant moneyline movement, with Cleveland's odds shortening despite public backing, suggests sharp bettors are finding considerable value in the White Sox as underdogs.",
+          "awayRecord": "84-78",
+          "homeRecord": "85-77",
+          "startTime": "2026-10-11T00:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
             "W"
           ]
         }
@@ -166,91 +302,42 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Iowa Hawkeyes vs Washington Huskies",
+          "game": "Sacramento State Hornets @ Bowling Green Falcons",
           "betType": "total",
-          "pick": "Under 41.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Iowa's defense is consistently stingy, allowing only 12.6 points per game this season, and they hold a strong 12-2 record to the Under as a road underdog since 2021. The Hawkeyes' offense faces significant uncertainty with starting quarterback Hank Brown questionable due to an AC joint sprain, which is expected to hinder their scoring production. Washington also has reported injury questions in their secondary and at skill positions, further suggesting a lower-scoring affair. The total line has seen movement from an opening of 42 down to 41.5, indicating sharp money is aligning with the Under.",
-          "awayRecord": "4-1",
-          "homeRecord": "3-2",
-          "startTime": "2026-10-10T01:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Wyoming Cowboys vs San José State Spartans",
-          "betType": "total",
-          "pick": "Under 42.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Wyoming's offense is among the worst in FBS, ranking 131st in total offense and 135th in scoring offense, highlighted by a recent 28-0 shutout loss on the road. San José State's offense, despite some success, has struggled with red zone efficiency, as their leading rusher Jabari Bates remarkably has no rushing touchdowns this season. The total for this game opened at 44.5 and has seen significant sharp money movement down to 42.5, despite public betting leaning towards the Over. This strong contrarian line movement, coupled with both teams' offensive inefficiencies, strongly points to a low-scoring contest.",
-          "awayRecord": "2-3",
-          "homeRecord": "3-2",
-          "startTime": "2026-10-10T01:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Iowa State Cyclones vs BYU Cougars",
-          "betType": "total",
-          "pick": "Under 46.5",
+          "pick": "Under 43.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "BYU will be without its star running back, LJ Martin, who is sidelined for at least a month with a lower-body injury, which is a major blow to their explosive offensive production. The total for this game has seen a significant drop from an opening of 49.5 down to 46.5, with sharp money heavily backing the Under despite the majority of public tickets favoring the Over. While the last head-to-head matchup was a 41-27 shootout, Martin's absence and the strong line movement suggest a different, lower-scoring outcome this time. Iowa State's defense has also shown capability to keep games competitive.",
-          "awayRecord": "3-2",
-          "homeRecord": "4-0",
-          "startTime": "2026-10-10T02:15Z",
+          "rationale": "Sacramento State's 2026 offense is severely struggling, ranking 115th in PPA per Play, 124th in Rushing Yards per Game, and 103rd in Points per Opportunity. The Hornets also possess a dismal turnover margin of -9, placing them 138th overall. Given both teams hold a 1-4 record, this matchup is expected to be a low-scoring affair due to offensive ineptitude. These factors strongly indicate that scoring will be at a premium, making the Under 43.5 a high-confidence play.",
+          "awayRecord": "1-4",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-10T16:00Z",
           "awayLast5": [
-            "W",
             "L",
             "W",
             "L",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Florida State Seminoles vs Louisville Cardinals",
-          "betType": "spread",
-          "pick": "Louisville Cardinals -3.5",
-          "odds": "-112",
+          "game": "Eastern Michigan Eagles @ Akron Zips",
+          "betType": "total",
+          "pick": "Under 51.5",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "Louisville has demonstrated a strong ability to cover the -3.5 spread, doing so in four of their last five home games, including two of their three home matchups this season. Conversely, Florida State has struggled significantly on the road against the spread, failing to cover the +3.5 line in 10 consecutive away games. Despite Florida State's recent two-game winning streak, Louisville is playing at home and will be motivated to rebound from back-to-back losses. The Cardinals' home-field advantage and strong ATS performance at L&N Federal Credit Union Stadium make them a confident pick to cover this spread.",
-          "awayRecord": "3-2",
-          "homeRecord": "2-3",
-          "startTime": "2026-10-09T23:00Z",
+          "rationale": "Eastern Michigan's 2026 offensive statistics are among the worst in the nation, ranking 127th in PPA per Play, 112th in Success Rate, and 117th in Points per Opportunity. Their passing and rushing offenses are equally anemic, ranking 98th and 123rd in yards per game, respectively. This consistent lack of offensive production from the Eagles points heavily towards a low-scoring contest. Unless Akron proves to be an unexpected offensive powerhouse, the Under 51.5 is a strong bet.",
+          "awayRecord": "3-3",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-10T19:30Z",
           "awayLast5": [
-            "W",
+            "L",
             "L",
             "L",
             "W",
@@ -259,34 +346,145 @@
           "homeLast5": [
             "L",
             "W",
-            "W",
+            "L",
             "L",
             "L"
           ]
         },
         {
-          "game": "Iowa State Cyclones vs BYU Cougars",
-          "betType": "spread",
-          "pick": "Iowa State Cyclones +10.5",
-          "odds": "-112",
+          "game": "Illinois Fighting Illini @ Michigan State Spartans",
+          "betType": "total",
+          "pick": "Under 48.5",
+          "odds": "-108",
           "confidence": "medium",
-          "rationale": "BYU, despite their 4-0 record, will be significantly hampered by the absence of star running back LJ Martin, who is out for at least a month with a lower-body injury, impacting their offensive explosiveness. The spread for BYU has already seen movement from an opening of -11.5 down to -10.5, reflecting concerns around this key injury. Iowa State has proven to be a competitive team, keeping their losses close this season with a three-point defeat to rival Iowa and a two-touchdown loss to Utah. Given BYU's critical injury and Iowa State's demonstrated ability to stay within striking distance, the Cyclones are well-positioned to cover the double-digit spread.",
-          "awayRecord": "3-2",
-          "homeRecord": "4-0",
-          "startTime": "2026-10-10T02:15Z",
+          "rationale": "Michigan State's 2026 offense shows significant struggles, ranking 110th in passing yards per game and 113th in rushing yards per game, with a total of just 305.6 yards per game. Their 2025 season also saw them as a low-scoring unit, averaging only 24.6 points per game (89th nationally). Furthermore, their -4 turnover margin is tied for 115th, indicating poor ball security. These consistent offensive struggles make the Under 48.5 a high-confidence pick for this Big Ten matchup.",
+          "awayRecord": "2-3",
+          "homeRecord": "2-3",
+          "startTime": "2026-10-10T19:30Z",
           "awayLast5": [
             "W",
             "L",
             "W",
             "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "James Madison Dukes @ Georgia Southern Eagles",
+          "betType": "total",
+          "pick": "Under 51.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Georgia Southern's 2026 offense is notably inefficient, ranking 106th in PPA per Play, 119th in Success Rate, and 131st in Points per Opportunity. Conversely, their defense is elite, ranking 4th in PPA Allowed per Play, 6th in Success Rate Allowed, and 14th in Points Allowed per Opportunity. With a high Havoc Rate (7th) and Stuff Rate (5th), Georgia Southern's defense is poised to stifle opposing offenses. This stark contrast between an anemic offense and an elite defense strongly supports the Under 51.5, especially against an undefeated James Madison team likely to face a tough defensive challenge.",
+          "awayRecord": "5-0",
+          "homeRecord": "2-3",
+          "startTime": "2026-10-10T23:30Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Georgia Bulldogs @ Alabama Crimson Tide",
+          "betType": "total",
+          "pick": "Under 51.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "This highly anticipated SEC clash features two undefeated teams, both historically known for their defensive prowess. Alabama's 2025 defense allowed only 19.2 points per game, ranking 20th nationally, and their 2026 team ranks T-9th in sacks and T-8th in turnover plus/minus. While specific 2026 Georgia defensive statistics were not detailed, their 5-0 record in the SEC implies a similarly dominant defense. Given the high stakes and defensive strength of both programs, this rivalry game is expected to be a hard-fought, lower-scoring contest, making the Under 51.5 a confident selection.",
+          "awayRecord": "5-0",
+          "homeRecord": "5-0",
+          "startTime": "2026-10-10T23:30Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
             "W"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
+            "W",
             "W"
           ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Nashville SC @ Austin FC",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "Despite Nashville SC's strong defensive record and two recent shutout wins, Austin FC has demonstrated offensive capability, including a thrilling 3-3 draw in their last outing where they erased a three-goal deficit.. Austin's season average for total goals per match is 3.04, with 66.7% of their games exceeding 2.5 goals.. While Nashville's overall form is excellent, their away record includes more draws and losses, and they have conceded in three of their last five matches.. With Austin fighting for a playoff spot, this match has a strong potential for a higher-scoring affair.",
+          "awayRecord": "18-6-3",
+          "homeRecord": "7-10-10",
+          "startTime": "2026-10-11T00:30Z"
+        },
+        {
+          "game": "Real Salt Lake @ Philadelphia Union",
+          "betType": "moneyline",
+          "pick": "Philadelphia Union",
+          "odds": "-310",
+          "confidence": "high",
+          "rationale": "The Philadelphia Union enters this match in exceptional form, boasting a franchise-best six consecutive wins and an undefeated streak since the World Cup break.. In stark contrast, Real Salt Lake has been struggling significantly, with only one win in their last fourteen games and a prolonged 0-9-4 winless streak.. RSL is also severely hampered by season-ending injuries to key players like Diego Luna and Justen Glad, and the departure of Zavier Gozo.. Given Philadelphia's dominant form and RSL's extensive list of absences and poor performance, the Union are poised for a comfortable home victory.",
+          "awayRecord": "9-5-13",
+          "homeRecord": "11-6-10",
+          "startTime": "2026-10-10T23:30Z"
+        },
+        {
+          "game": "D.C. United @ Inter Miami CF",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "Inter Miami, playing at home, faces a D.C. United side that has shown significant defensive vulnerabilities this season, including a recent 5-2 loss in the US Open Cup.. D.C. United's overall record of 6-12-8 further highlights their struggles. While specific recent offensive form for Inter Miami was not detailed, their strong favorite status and the heavily juiced 'Over 3.5' line at -145 suggest a high expectation of goals. This combination of a potent home offense against a porous defense points towards a match exceeding the 3.5 goal total.",
+          "awayRecord": "6-12-8",
+          "homeRecord": "12-10-5",
+          "startTime": "2026-10-10T23:30Z"
+        },
+        {
+          "game": "San Jose Earthquakes @ Colorado Rapids",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-175",
+          "confidence": "medium",
+          "rationale": "The Colorado Rapids are severely impacted by a lengthy injury list, with six players officially ruled out and another questionable, significantly weakening their defensive and midfield depth.. Such extensive absences are highly likely to compromise their ability to prevent goals. The market reflects this vulnerability, with the 'Over 2.5' goals line heavily favored at -175, indicating a strong expectation for a high-scoring game. With San Jose's decent record and Colorado's defensive woes, this match is well-positioned to go over the total.",
+          "awayRecord": "13-6-8",
+          "homeRecord": "11-3-13",
+          "startTime": "2026-10-11T01:30Z"
+        },
+        {
+          "game": "Vancouver Whitecaps @ LAFC",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-185",
+          "confidence": "medium",
+          "rationale": "Both Vancouver Whitecaps and LAFC are dealing with multiple significant injuries to key players, which often leads to more open games and defensive instability.. The verified line for 'Over 2.5' goals is heavily favored at -185, indicating a strong market expectation for a high-scoring match. This implies that oddsmakers anticipate both teams will contribute to the scoreline. The combined impact of these injuries and the heavily juiced over line suggests that the match is likely to exceed 2.5 goals.",
+          "awayRecord": "15-5-7",
+          "homeRecord": "11-8-9",
+          "startTime": "2026-10-11T02:30Z"
         }
       ]
     }
