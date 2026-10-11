@@ -1,5 +1,243 @@
 [
   {
+    "date": "2026-10-10",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Minnesota Timberwolves @ Miami Heat",
+            "betType": "total",
+            "pick": "Over 234.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Timberwolves 125, Miami Heat 124"
+          },
+          {
+            "game": "Sacramento Kings @ Golden State Warriors",
+            "betType": "total",
+            "pick": "Over 229.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sacramento Kings 106, Golden State Warriors 111"
+          },
+          {
+            "game": "Detroit Pistons @ Washington Wizards",
+            "betType": "spread",
+            "pick": "Detroit Pistons -3.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 108, Washington Wizards 114"
+          },
+          {
+            "game": "LA Clippers @ Toronto Raptors",
+            "betType": "spread",
+            "pick": "LA Clippers +4.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "LA Clippers 106, Toronto Raptors 114"
+          },
+          {
+            "game": "San Antonio Spurs @ Phoenix Suns",
+            "betType": "total",
+            "pick": "Under 222.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 98, Phoenix Suns 102"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Los Angeles Kings vs Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Kings 1, Vegas Golden Knights 2"
+          },
+          {
+            "game": "Anaheim Ducks vs Calgary Flames",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Anaheim Ducks 4, Calgary Flames 2"
+          },
+          {
+            "game": "Detroit Red Wings vs Montreal Canadiens",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Red Wings 0, Montreal Canadiens 1"
+          },
+          {
+            "game": "Carolina Hurricanes vs Chicago Blackhawks",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Hurricanes 5, Chicago Blackhawks 2"
+          },
+          {
+            "game": "Toronto Maple Leafs vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto Maple Leafs 6, Colorado Avalanche 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Chicago White Sox vs Cleveland Guardians",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "+108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago White Sox 0, Cleveland Guardians 2"
+          },
+          {
+            "game": "Chicago White Sox vs Cleveland Guardians",
+            "betType": "spread",
+            "pick": "Chicago White Sox +1.5",
+            "odds": "-182",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago White Sox 0, Cleveland Guardians 2"
+          },
+          {
+            "game": "Chicago White Sox vs Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "Chicago White Sox (+120)",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Chicago White Sox 0, Cleveland Guardians 2"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Sacramento State Hornets @ Bowling Green Falcons",
+            "betType": "total",
+            "pick": "Under 43.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sacramento State Hornets 10, Bowling Green Falcons 38"
+          },
+          {
+            "game": "Eastern Michigan Eagles @ Akron Zips",
+            "betType": "total",
+            "pick": "Under 51.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Eastern Michigan Eagles 25, Akron Zips 23"
+          },
+          {
+            "game": "Illinois Fighting Illini @ Michigan State Spartans",
+            "betType": "total",
+            "pick": "Under 48.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Illinois Fighting Illini 38, Michigan State Spartans 37"
+          },
+          {
+            "game": "James Madison Dukes @ Georgia Southern Eagles",
+            "betType": "total",
+            "pick": "Under 51.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "James Madison Dukes 27, Georgia Southern Eagles 24"
+          },
+          {
+            "game": "Georgia Bulldogs @ Alabama Crimson Tide",
+            "betType": "total",
+            "pick": "Under 51.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Georgia Bulldogs 20, Alabama Crimson Tide 17"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Nashville SC @ Austin FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "W",
+            "score": "Nashville SC 4, Austin FC 1"
+          },
+          {
+            "game": "Real Salt Lake @ Philadelphia Union",
+            "betType": "moneyline",
+            "pick": "Philadelphia Union",
+            "odds": "-310",
+            "confidence": "high",
+            "result": "W",
+            "score": "Real Salt Lake 1, Philadelphia Union 2"
+          },
+          {
+            "game": "D.C. United @ Inter Miami CF",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "W",
+            "score": "D.C. United 0, Inter Miami CF 4"
+          },
+          {
+            "game": "San Jose Earthquakes @ Colorado Rapids",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-175",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Jose Earthquakes 1, Colorado Rapids 1"
+          },
+          {
+            "game": "Vancouver Whitecaps @ LAFC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-185",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vancouver Whitecaps 1, LAFC 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-09",
     "sports": [
       {
@@ -3744,117 +3982,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Missouri Tigers 38, Kansas Jayhawks 21"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-10",
-    "sports": [
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "San Francisco 49ers vs Los Angeles Rams",
-            "betType": "spread",
-            "pick": "San Francisco 49ers +3.5",
-            "odds": "-102",
-            "confidence": "high",
-            "result": "W",
-            "score": "San Francisco 49ers 27, Los Angeles Rams 7"
-          },
-          {
-            "game": "San Francisco 49ers vs Los Angeles Rams",
-            "betType": "total",
-            "pick": "Under 48.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Francisco 49ers 27, Los Angeles Rams 7"
-          },
-          {
-            "game": "San Francisco 49ers vs Los Angeles Rams",
-            "betType": "moneyline",
-            "pick": "Los Angeles Rams (-198)",
-            "odds": "-198",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Francisco 49ers 27, Los Angeles Rams 7"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Florida A&M Rattlers vs Miami Hurricanes",
-            "betType": "spread",
-            "pick": "Miami Hurricanes -57.5",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Florida A&M Rattlers 7, Miami Hurricanes 77"
-          },
-          {
-            "game": "Florida A&M Rattlers vs Miami Hurricanes",
-            "betType": "total",
-            "pick": "Over 62.5",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Florida A&M Rattlers 7, Miami Hurricanes 77"
-          }
-        ]
-      },
-      {
-        "sport": "UCL",
-        "picks": [
-          {
-            "game": "AS Roma vs Fenerbahce",
-            "betType": "moneyline",
-            "pick": "AS Roma",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "L",
-            "score": "AS Roma 1, Fenerbahce 1"
-          },
-          {
-            "game": "Shakhtar Donetsk vs PSV Eindhoven",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Shakhtar Donetsk 1, PSV Eindhoven 1"
-          },
-          {
-            "game": "RB Leipzig vs Como",
-            "betType": "moneyline",
-            "pick": "Como",
-            "odds": "-135",
-            "confidence": "high",
-            "result": "W",
-            "score": "RB Leipzig 1, Como 4"
-          },
-          {
-            "game": "AS Roma vs Fenerbahce",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-165",
-            "confidence": "medium",
-            "result": "L",
-            "score": "AS Roma 1, Fenerbahce 1"
-          },
-          {
-            "game": "Shakhtar Donetsk vs PSV Eindhoven",
-            "betType": "moneyline",
-            "pick": "PSV Eindhoven",
-            "odds": "-210",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Shakhtar Donetsk 1, PSV Eindhoven 1"
           }
         ]
       }
