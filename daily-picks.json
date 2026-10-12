@@ -1,99 +1,99 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T15:33:02.456Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T18:53:49.476Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Milwaukee Bucks vs Charlotte Hornets",
+          "game": "London Lions vs Portland Trail Blazers",
           "betType": "total",
-          "pick": "Under 222.5",
+          "pick": "Under 208.5",
           "odds": "-112",
           "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Charlotte Hornets are severely shorthanded for this preseason game, with key rotational players Kon Knueppel, Coby White, and Brandon Miller all expected to be out. Their offensive struggles were evident in their preseason opener, where they managed only 90 points against the Brooklyn Nets. This significant reduction in offensive firepower, combined with the typically more conservative scoring in preseason contests, strongly points to the Under. The Dunkel Index also aligns with this assessment, projecting the total to go Under 221.5.",
-          "awayRecord": "1-1",
-          "homeRecord": "0-1",
-          "startTime": "2026-10-11T23:00Z",
-          "awayLast5": [
-            "L",
-            "W"
-          ],
+          "rationale": "Line sourced from web search — verify before betting. This is a preseason exhibition game featuring an NBA team against an international club, the London Lions. With a massive spread of 36.5 points, the Portland Trail Blazers are expected to dominate, but preseason games typically feature reduced minutes for starters once a substantial lead is established. The London Lions are unlikely to generate significant offense against an NBA roster, even one composed of reserves, leading to a lower overall score. Therefore, the combined total is poised to stay under the relatively low line of 208.5 points.",
+          "homeRecord": "1-0",
+          "startTime": "2026-10-12T20:00Z",
           "homeLast5": [
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Milwaukee Bucks vs Charlotte Hornets",
-          "betType": "spread",
-          "pick": "Milwaukee Bucks +3.5",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Charlotte Hornets are facing significant injury concerns, with Kon Knueppel, Coby White, and Brandon Miller all sidelined for this game. This depleted roster led to a substantial 34-point loss in their preseason opener. The Milwaukee Bucks, despite it being preseason, are expected to be competitive, and receiving +3.5 points against a severely undermanned Hornets team offers considerable value. Both Covers.com and the Dunkel Index also favor the Bucks to either win or cover a similar spread.",
-          "awayRecord": "1-1",
-          "homeRecord": "0-1",
-          "startTime": "2026-10-11T23:00Z",
-          "awayLast5": [
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L"
-          ]
-        },
-        {
-          "game": "Chicago Bulls vs Denver Nuggets",
+          "game": "Oklahoma City Thunder vs Atlanta Hawks",
           "betType": "total",
-          "pick": "Under 232.5",
-          "odds": "-106",
+          "pick": "Under 221.5",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Chicago Bulls are dealing with notable frontcourt injuries, as Nic Claxton (hamstring) and Zach Collins (toe) are both out, impacting their interior presence. While the Denver Nuggets are relatively healthy, there's a strong possibility that star Nikola Jokic will play limited minutes in this preseason game. These factors, combined with the general nature of preseason play often featuring less fluid offense, suggest a lower-scoring outcome than the elevated total of 232.5. The Dunkel Index also projects the Under for this matchup.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-1",
-          "startTime": "2026-10-12T01:00Z",
+          "rationale": "Line sourced from web search — verify before betting. Both the Thunder and Hawks are severely depleted for this preseason matchup due to extensive rest and injuries. Oklahoma City is expected to sit key players like Shai Gilgeous-Alexander, Chet Holmgren, and Jalen Williams. Similarly, Atlanta is without Henri Veesaar and Mouhamed Gueye, while Dorian Finney-Smith and Nickeil Alexander-Walker are resting. With so many primary offensive talents sidelined, offensive rhythm and scoring efficiency are likely to be significantly hampered, favoring a lower-scoring game.",
+          "awayRecord": "0-2",
+          "homeRecord": "2-1",
+          "startTime": "2026-10-12T23:00Z",
+          "awayLast5": [
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Brooklyn Nets vs Washington Wizards",
+          "betType": "total",
+          "pick": "Under 221.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. Both the Nets and Wizards are dealing with extensive injury lists for this preseason contest. Brooklyn is missing multiple players, including Michael Porter Jr. and Terance Mann, while Washington is without Trae Young and others. The sheer volume of absences, particularly of established offensive talents, points towards a disjointed and lower-scoring affair. Furthermore, the Wizards have shown poor recent form, going 0-5 in their last five games, which suggests offensive struggles.",
+          "awayRecord": "2-0",
+          "homeRecord": "2-0",
+          "startTime": "2026-10-12T23:00Z",
           "awayLast5": [
             "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "L",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Orlando Magic vs Cleveland Cavaliers",
+          "game": "Minnesota Timberwolves vs New York Knicks",
           "betType": "total",
-          "pick": "Under 229.5",
-          "odds": "-122",
+          "pick": "Over 227.5",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Orlando Magic enter this game with a substantial injury report, including Jalen Suggs (Doubtful), Anthony Black (Questionable), Jonathan Isaac (Out), and Izaiyah Nelson (Out), which will significantly impact their depth and offensive flow. The Cleveland Cavaliers also have James Harden listed as questionable, potentially affecting their primary playmaking. Preseason games with multiple key players sidelined or on limited minutes often lead to disjointed offensive performances and lower overall scoring, making the Under 229.5 a reasonable play despite a conflicting projection from the Dunkel Index.",
-          "awayRecord": "1-0",
-          "homeRecord": "0-1",
-          "startTime": "2026-10-11T22:30Z",
-          "awayLast5": [
-            "W"
-          ],
-          "homeLast5": [
-            "L"
-          ]
-        },
-        {
-          "game": "Chicago Bulls vs Denver Nuggets",
-          "betType": "spread",
-          "pick": "Denver Nuggets -8.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Denver Nuggets are playing on their home court and have a clean injury report, with Jamal Murray confirmed in the starting lineup. Conversely, the Chicago Bulls are significantly hampered by the absence of key big men Nic Claxton (hamstring) and Zach Collins (toe). Even with potential limited minutes for Nikola Jokic, the Nuggets' superior depth and health advantage should allow them to comfortably cover the -8.5 spread against a shorthanded Bulls team. The Dunkel Index further supports this pick, projecting Denver to win by 13 points.",
-          "awayRecord": "1-1",
-          "homeRecord": "1-1",
-          "startTime": "2026-10-12T01:00Z",
+          "rationale": "Line sourced from web search — verify before betting. Despite this being a preseason game and Donte DiVincenzo being out for Minnesota due to an Achilles injury, the Timberwolves have a strong recent trend of hitting the Over, doing so in their last five games overall and as an underdog. Key offensive players like Anthony Edwards for Minnesota and Jalen Brunson for New York are expected to play significant minutes, driving scoring. The Knicks also have several players listed as 'coach's decisions' for rest, which could mean more minutes for players eager to prove their offensive capabilities.",
+          "awayRecord": "2-1",
+          "homeRecord": "0-2",
+          "startTime": "2026-10-12T23:30Z",
           "awayLast5": [
             "W",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
             "L",
-            "W"
+            "L"
+          ]
+        },
+        {
+          "game": "San Antonio Spurs vs Utah Jazz",
+          "betType": "total",
+          "pick": "Over 227.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Utah Jazz are significantly hampered by injuries, most notably with starting center Jusuf Nurkić out for four weeks due to a foot injury. This absence severely weakens their interior defense and rebounding. The Spurs, despite missing De'Aaron Fox and Tobias Harris, still feature promising young offensive talents like Victor Wembanyama and Dylan Harper who have performed well in preseason. The weakened Jazz defense, combined with the Spurs' offensive potential, creates a strong lean towards the Over.",
+          "awayRecord": "0-2",
+          "homeRecord": "1-1",
+          "startTime": "2026-10-13T01:00Z",
+          "awayLast5": [
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
           ]
         }
       ]
@@ -102,89 +102,43 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Carolina Hurricanes vs Philadelphia Flyers",
+          "game": "Ottawa Senators vs New Jersey Devils",
           "betType": "total",
-          "pick": "O/U 5.5 — Over",
-          "odds": "(-122)",
+          "pick": "Over 5.5",
+          "odds": "-130",
           "confidence": "high",
-          "rationale": "The Carolina Hurricanes, reigning Stanley Cup champions, are a high-powered offensive team, averaging 4.20 goals per game this season. They face a struggling Philadelphia Flyers team that is winless at 0-4-2 and has shown defensive vulnerabilities. Head-to-head matchups between these teams have historically seen an average of 5.7 goals, suggesting a tendency for higher-scoring affairs. With the Hurricanes' offensive prowess and the Flyers' defensive struggles, this game is poised to exceed the 5.5 goal total.",
-          "awayRecord": "4-1-1",
-          "homeRecord": "0-4-2",
-          "startTime": "2026-10-11T23:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Vancouver Canucks vs New York Rangers",
-          "betType": "total",
-          "pick": "O/U 6.5 — Over",
-          "odds": "(+110)",
-          "confidence": "high",
-          "rationale": "This game presents a strong opportunity for offense due to significant goaltending issues for the New York Rangers; their Vezina-winning starter Igor Shesterkin is out for the season, and backup Joonas Korpisalo is also out for four weeks. The Vancouver Canucks, meanwhile, have allowed a league-leading 29 goals in just six games this season, averaging 4.83 goals against per game, and possess the league's worst penalty kill at 52.17%. With the Rangers forced to rely on third-string goalie Dylan Garand and the Canucks' porous defense, both teams are likely to find the back of the net frequently. Vancouver's offense is also 5th in the NHL, scoring 3.67 goals per game, further supporting a high-scoring outcome.",
-          "awayRecord": "2-4-0",
-          "homeRecord": "4-2-0",
-          "startTime": "2026-10-11T22:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Seattle Kraken vs Washington Capitals",
-          "betType": "total",
-          "pick": "O/U 6.5 — Over",
-          "odds": "(+100)",
-          "confidence": "high",
-          "rationale": "The Seattle Kraken have demonstrated a tendency for higher-scoring games this season, averaging 4.20 goals scored per game but also allowing 2.80 goals per game, while being outshot significantly. They rank 26th in the league in expected goals against, indicating defensive vulnerabilities that Washington can exploit. Although the Capitals have a strong goaltender in Logan Thompson, both teams have shown a pattern of being outshot, which can lead to more chaotic play and scoring chances. The last head-to-head meeting between these two teams resulted in 6 goals, and with the Kraken's recent offensive output (13 goals in their first 3 games), this game has the potential to go Over the 6.5 total.",
-          "awayRecord": "3-2-0",
-          "homeRecord": "3-1-0",
-          "startTime": "2026-10-11T21:00Z",
+          "rationale": "The Ottawa Senators are significantly impacted by injuries to key defensemen Jake Sanderson and Artem Zub, which will likely compromise their defensive integrity. The New Jersey Devils, playing at home, are known for their high-volume offense, averaging nearly 38 shots on goal per game and maintaining strong possession. While Ottawa's new goaltender Linus Ullmark has started strong, the defensive gaps against a potent Devils attack are expected to lead to a higher-scoring contest. The market also leans towards the Over with the line juiced at -130, indicating an expectation for goals.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "4-1-0",
+          "homeRecord": "2-2-0",
+          "startTime": "2026-10-12T23:00Z",
           "awayLast5": [
             "W",
-            "L",
             "W",
             "L",
+            "W",
             "W"
           ],
           "homeLast5": [
             "W",
             "L",
-            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Carolina Hurricanes vs Philadelphia Flyers",
-          "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "(+124)",
+          "game": "Vegas Golden Knights vs Minnesota Wild",
+          "betType": "total",
+          "pick": "Under 5.5",
+          "odds": "+114",
           "confidence": "medium",
-          "rationale": "The Carolina Hurricanes enter this game as the reigning Stanley Cup champions and boast a strong 4-1-1 record this season. They face a struggling Philadelphia Flyers team that is currently winless at 0-4-2. Historically, the Hurricanes have dominated this matchup, winning 18 of the last 20 head-to-head contests, including a sweep in the 2026 playoffs. Given the significant disparity in team form and historical performance, Carolina is well-positioned to secure a multi-goal victory against the struggling Flyers.",
-          "awayRecord": "4-1-1",
-          "homeRecord": "0-4-2",
-          "startTime": "2026-10-11T23:00Z",
+          "rationale": "The Vegas Golden Knights are missing their leading goal scorer, Victor Olofsson, a significant blow to their offensive production. Both teams have exhibited strong defensive performances early in the season, with Vegas allowing an average of only 1 goal per game and Minnesota 1.8 goals per game. Despite some higher-scoring head-to-head games last season, the current injury situation and early season defensive trends for both clubs suggest a tighter, lower-scoring affair. The total line has already seen movement downwards from 6 to 5.5, and the Under offers favorable plus-money odds.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "5-1-0",
+          "homeRecord": "3-1-1",
+          "startTime": "2026-10-13T00:00Z",
           "awayLast5": [
             "L",
             "W",
@@ -193,34 +147,87 @@
             "W"
           ],
           "homeLast5": [
+            "W",
+            "W",
             "L",
             "L",
-            "L",
-            "L",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Seattle Kraken vs Washington Capitals",
-          "betType": "spread",
-          "pick": "Washington Capitals -1.5",
-          "odds": "(+120)",
-          "confidence": "medium",
-          "rationale": "The Washington Capitals, with a 3-1-0 record, are playing at home and are considered the superior team in this matchup, especially with their strong starting goaltender Logan Thompson boasting a 3-0 record and a 2.00 GAA. The Seattle Kraken, despite their 3-2-0 record, have shown significant defensive weaknesses, ranking 26th in expected goals against and consistently being outshot by opponents. With the Capitals expected to generate numerous scoring chances against Seattle's vulnerable defense, they are in a prime position to cover the -1.5 spread at home.",
-          "awayRecord": "3-2-0",
-          "homeRecord": "3-1-0",
-          "startTime": "2026-10-11T21:00Z",
+          "game": "Ottawa Senators vs New Jersey Devils",
+          "betType": "moneyline",
+          "pick": "New Jersey Devils (-122)",
+          "odds": "-122",
+          "confidence": "high",
+          "rationale": "The New Jersey Devils are playing on home ice with a rest advantage, having played fewer games recently than the Senators. Ottawa is severely depleted on defense, missing key players Jake Sanderson and Artem Zub, which will be a major challenge against New Jersey's offensive capabilities. The Devils are a superior possession team, and the puck line movement against public betting suggests sharp money is favoring New Jersey. These factors combine to give the Devils a strong edge for a straight-up win.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "4-1-0",
+          "homeRecord": "2-2-0",
+          "startTime": "2026-10-12T23:00Z",
           "awayLast5": [
             "W",
-            "L",
             "W",
             "L",
+            "W",
             "W"
           ],
           "homeLast5": [
             "W",
             "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Vegas Golden Knights vs Minnesota Wild",
+          "betType": "spread",
+          "pick": "Vegas Golden Knights +1.5",
+          "odds": "-270",
+          "confidence": "medium",
+          "rationale": "Despite the absence of leading scorer Victor Olofsson, the Vegas Golden Knights maintain a strong 5-1-0 record and a deep roster. The Minnesota Wild are also dealing with significant injuries, including key defenseman Brock Faber and starting goaltender Filip Gustavsson. Head-to-head matchups between these teams have historically been competitive, with Vegas covering the +1.5 spread in two of their last three meetings last season. Given the Golden Knights' overall strength and the Wild's own injury challenges, Vegas is highly likely to keep this game within one goal or secure an outright victory.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "5-1-0",
+          "homeRecord": "3-1-1",
+          "startTime": "2026-10-13T00:00Z",
+          "awayLast5": [
+            "L",
             "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Ottawa Senators vs New Jersey Devils",
+          "betType": "spread",
+          "pick": "Ottawa Senators +1.5",
+          "odds": "-245",
+          "confidence": "medium",
+          "rationale": "The Ottawa Senators, despite significant defensive injuries to Jake Sanderson and Artem Zub, have started the season strong with a 4-1-0 record. Their new goaltender, Linus Ullmark, has been excellent with a 1.34 GAA, providing a solid backbone for the team. While the Devils are favored at home, four of the last five head-to-head matchups between these teams were decided by a single goal, indicating a tendency for close contests. Even with defensive challenges, Ottawa's strong start and Ullmark's performance make them a reasonable bet to keep the game close and cover the +1.5 spread.",
+          "awayRecord": "4-1-0",
+          "homeRecord": "2-2-0",
+          "startTime": "2026-10-12T23:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
             "W"
           ]
         }
@@ -232,23 +239,96 @@
         {
           "game": "Los Angeles Dodgers vs Milwaukee Brewers",
           "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "-140",
+          "pick": "Under 7.5",
+          "odds": "-148",
           "confidence": "high",
-          "rationale": "This NLCS Game 1 features an elite pitching matchup between Milwaukee's Jacob Misiorowski (1.80 ERA) and Los Angeles' Tarik Skubal (2.72 ERA). Misiorowski has a strong career ERA of 1.59 in 17 innings against the Dodgers, and both pitchers are coming off dominant Division Series starts. Furthermore, the Brewers' last seven night playoff games against NL West opponents have gone UNDER the total, and ten of the Dodgers' last 11 games have also gone UNDER the total runs line. The heavily juiced Under 6.5 line at -140 indicates significant market confidence in a low-scoring affair.",
+          "rationale": "This game features a strong pitching matchup with Yoshinobu Yamamoto (Dodgers) and Logan Henderson (Brewers) both performing exceptionally well, especially in the postseason. Yamamoto boasts a 2.14 ERA in 11 playoff appearances, while Henderson has already defeated the Dodgers twice this season. Both teams are on significant Under streaks in the playoffs, with the Dodgers going 5-0 and the Brewers 4-0-1 to the Under. The Under has also hit in 7 of the last 8 Dodgers-Brewers games at American Family Field, reinforced by the Dodgers' offensive struggles with runners in scoring position (2-for-27 in the postseason).",
           "awayRecord": "100-62",
           "homeRecord": "103-59",
-          "startTime": "2026-10-12T00:00Z",
+          "startTime": "2026-10-12T21:00Z",
           "awayLast5": [
             "W",
             "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Dodgers vs Milwaukee Brewers",
+          "betType": "moneyline",
+          "pick": "Milwaukee Brewers",
+          "odds": "+116",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers secured a 2-1 victory in Game 1 of the NLCS, showcasing their ability to win low-scoring contests, backed by a bullpen that delivered 4 2/3 scoreless innings. Brewers starter Logan Henderson has a proven track record against the Dodgers this season, having beaten them twice. Milwaukee also enters this game with a strong situational trend, winning 10 consecutive games on back-to-backs. Given the Dodgers' continued struggles with runners in scoring position, the Brewers at plus money present significant value.",
+          "awayRecord": "100-62",
+          "homeRecord": "103-59",
+          "startTime": "2026-10-12T21:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Cleveland Guardians vs Tampa Bay Rays",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "This ALCS Game 1 features an elite pitching matchup between Drew Rasmussen (Rays) and Foster Griffin (Guardians). Rasmussen is coming off a dominant ALDS performance where he nearly no-hit the Yankees and previously held Cleveland scoreless over seven innings. The Rays' pitching staff also leads MLB in the lowest walk rate. Historically, the Under is a dominant trend in this series, with a 17-3-1 record in their matchups, averaging just 5.09 runs per game, and Rasmussen specifically has a 5-0-1 Under record against Cleveland.",
+          "awayRecord": "85-77",
+          "homeRecord": "98-64",
+          "startTime": "2026-10-13T00:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
             "W",
             "W"
           ],
           "homeLast5": [
             "W",
             "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Cleveland Guardians vs Tampa Bay Rays",
+          "betType": "spread",
+          "pick": "Tampa Bay Rays -1.5",
+          "odds": "+128",
+          "confidence": "medium",
+          "rationale": "The Tampa Bay Rays are well-rested after sweeping the Yankees in the ALDS, while the Cleveland Guardians are coming off a grueling five-game series. Rays starter Drew Rasmussen has been exceptional, dominating Cleveland in previous outings and delivering a stellar playoff performance. Tampa Bay also held a significant advantage in the regular season head-to-head, winning five of six games against the Guardians and outscoring them 20-8. With home-field advantage and a clear pitching edge, the Rays are well-positioned for a multi-run victory.",
+          "awayRecord": "85-77",
+          "homeRecord": "98-64",
+          "startTime": "2026-10-13T00:00Z",
+          "awayLast5": [
             "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
             "W"
           ]
         },
@@ -256,45 +336,24 @@
           "game": "Los Angeles Dodgers vs Milwaukee Brewers",
           "betType": "spread",
           "pick": "Milwaukee Brewers +1.5",
-          "odds": "-210",
-          "confidence": "high",
-          "rationale": "The Milwaukee Brewers, with the best record in baseball (103-59) and home-field advantage, are a strong play to keep this game close. Their ace, Jacob Misiorowski, was specifically rested for this Game 1 start and boasts an impressive 1.80 ERA. Historically, the Brewers have covered the run line in each of their last seven home games following a road win, while the Dodgers have failed to cover in six of their last seven games as road underdogs against NL opponents.",
+          "odds": "-152",
+          "confidence": "medium",
+          "rationale": "Building on the Brewers' moneyline appeal, taking them at +1.5 provides a safer high-confidence pick. Logan Henderson has demonstrated his ability to neutralize the Dodgers' lineup, having secured two wins against them this season. The Brewers' bullpen proved its strength by shutting down the Dodgers' offense in Game 1, covering 4 2/3 scoreless innings. Milwaukee's impressive 10-0 record in back-to-back games and strong home performance (58-26) further support their ability to keep this game close or win outright against a Dodgers offense struggling with timely hitting.",
           "awayRecord": "100-62",
           "homeRecord": "103-59",
-          "startTime": "2026-10-12T00:00Z",
+          "startTime": "2026-10-12T21:00Z",
           "awayLast5": [
             "W",
             "L",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
             "W",
             "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Los Angeles Dodgers vs Milwaukee Brewers",
-          "betType": "moneyline",
-          "pick": "Milwaukee Brewers (-112)",
-          "odds": "-112",
-          "confidence": "high",
-          "rationale": "The Brewers enter Game 1 of the NLCS with the best regular-season record (103-59) and the advantage of playing at American Family Field, where they hold a 55-26 record this season. Starting pitcher Jacob Misiorowski has been exceptional with a 1.80 ERA and was strategically held back to be fully rested for this crucial game. While the Dodgers have a strong postseason history against Milwaukee, the Brewers won the 2026 regular season series 4-3, demonstrating their ability to defeat the defending champions.",
-          "awayRecord": "100-62",
-          "homeRecord": "103-59",
-          "startTime": "2026-10-12T00:00Z",
-          "awayLast5": [
             "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
             "W"
           ]
         }
@@ -304,135 +363,73 @@
       "sport": "NFL",
       "picks": [
         {
-          "game": "Baltimore Ravens vs Atlanta Falcons",
+          "game": "Buffalo Bills vs Los Angeles Rams",
           "betType": "total",
-          "pick": "Under 43.5",
-          "odds": "-110",
+          "pick": "Under 54.5",
+          "odds": "-102",
           "confidence": "medium",
-          "rationale": "The most significant injury news of the day is Lamar Jackson being OUT for the Ravens, which will severely hamper Baltimore's potent offense. The Ravens' offense ranks 7th in PPG, but this is with Jackson at the helm. The last head-to-head matchup between these two teams in 2022 resulted in a low-scoring 17-9 Ravens victory, well under this total. With a backup quarterback likely starting for the Ravens, combined with the Falcons' generally conservative offensive approach, points should be at a premium in this contest.",
+          "rationale": "The Los Angeles Rams' defense has been performing exceptionally well this season, ranking second in the league by allowing only 4.2 yards per play and 20.8 points per game. The Buffalo Bills' offense is facing significant injury concerns, with wide receiver Joshua Palmer officially ruled out and DJ Moore questionable, potentially limiting their explosive attack. Furthermore, the return of defensive tackle Aaron Donald for the Rams is a major boost to their ability to disrupt the Bills' offensive rhythm. While their last head-to-head matchup was a high-scoring affair, current defensive form and Buffalo's injuries suggest a lower-scoring game.",
           "awayRecord": "3-1",
           "homeRecord": "2-2",
-          "startTime": "2026-10-12T00:20Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Minnesota Vikings vs New Orleans Saints",
-          "betType": "total",
-          "pick": "Over 41.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "Despite the Vikings' top two receivers, Justin Jefferson and Jordan Addison, being questionable, the head-to-head history between these teams strongly favors the over. The last three matchups have all gone over 41.5 points, with scores of 46, 53, and 85 total points respectively. The Saints' Alvin Kamara is expected to play, which should boost their offensive capabilities. Even with potential receiver limitations for Minnesota, the historical trend of high-scoring games in this rivalry is a strong indicator for the over.",
-          "awayRecord": "4-0",
-          "homeRecord": "1-3",
-          "startTime": "2026-10-11T17:00Z",
+          "startTime": "2026-10-13T00:15Z",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
             "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Cleveland Browns vs New York Jets",
-          "betType": "total",
-          "pick": "Over 38.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "The head-to-head history between the Browns and Jets shows a strong tendency for high-scoring games, with the total going over in 75% of their matchups and the average total points being 51. The last three head-to-head games all went over the current total of 38.5 points. While Jets RB Breece Hall is out, which is a blow to their offense, the historical offensive output in this specific rivalry suggests that points can still be found. The Browns offense has been performing well, contributing to their 3-1 record and further supporting an over.",
+          "game": "Buffalo Bills vs Los Angeles Rams",
+          "betType": "spread",
+          "pick": "Los Angeles Rams -3.5",
+          "odds": "-102",
+          "confidence": "high",
+          "rationale": "The line movement for this game shows the Rams moving from an opening -2.5 to -3.5, indicating sharp money is backing Los Angeles despite a majority of public tickets (79%) being on the Bills, which is a strong reverse line movement signal. The Rams are playing at home after a challenging early-season travel schedule and are getting a key defensive player back in Aaron Donald. Conversely, the Bills' defense has been a concern, allowing 26.8 points per game and 5.5 yards per play, ranking among the bottom of the league, and they are missing DT Ed Oliver.",
           "awayRecord": "3-1",
-          "homeRecord": "1-3",
-          "startTime": "2026-10-11T17:00Z",
+          "homeRecord": "2-2",
+          "startTime": "2026-10-13T00:15Z",
           "awayLast5": [
-            "L",
             "W",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
+            "L",
             "W",
             "L",
-            "L",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Houston Texans vs Tennessee Titans",
-          "betType": "total",
-          "pick": "Under 37.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "Both the Texans and Titans enter this game with 0-4 records, indicating significant struggles on offense for both teams. The Texans' recent head-to-head against the Titans shows a 40% over rate in their last five games, with the most recent matchup in November 2025 ending 16-13, a total of just 29 points. The Titans' last five games show a 40% over rate, with an average of 14.0 PPG scored and 21.4 OPP PPG allowed. With both teams struggling to score and a recent low-scoring H2H, this divisional matchup is likely to stay under a relatively low total.",
-          "awayRecord": "0-4",
-          "homeRecord": "0-4",
-          "startTime": "2026-10-11T17:00Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "San Francisco 49ers vs Seattle Seahawks",
-          "betType": "total",
-          "pick": "Under 46.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Despite the last playoff game between these two being a high-scoring affair (41-6), the overall head-to-head trend for the total points between the 49ers and Seahawks is 33.3% Over. Recent regular season matchups have also been lower scoring, with totals of 16 and 30 points in 2025 and 2024 respectively. Both teams have strong defenses, with the 49ers allowing only 15.2 PPG in their last five games and the Seahawks allowing 16.4 PPG. This divisional rivalry often features tough, defensive battles, making the under a strong play.",
-          "awayRecord": "4-0",
-          "homeRecord": "3-1",
-          "startTime": "2026-10-11T20:25Z",
+          "game": "Buffalo Bills vs Los Angeles Rams",
+          "betType": "moneyline",
+          "pick": "Los Angeles Rams (-175)",
+          "odds": "-175",
+          "confidence": "high",
+          "rationale": "The Los Angeles Rams are playing at home and are getting healthier on defense with the return of Aaron Donald, significantly bolstering their formidable unit. The Buffalo Bills are dealing with key offensive injuries to WR Joshua Palmer (OUT) and potentially DJ Moore (questionable), which could hinder their scoring ability against a strong Rams defense. The moneyline has also shifted in favor of the Rams, moving from -145 to -175, reflecting increased confidence in the home team to secure the outright win. The Bills are also coming off a disappointing loss, while the Rams secured a comeback victory in their last outing.",
+          "awayRecord": "3-1",
+          "homeRecord": "2-2",
+          "startTime": "2026-10-13T00:15Z",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "W",
             "L",
             "W"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "LA Galaxy @ St. Louis CITY SC",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "St. Louis CITY SC enters this match in exceptional form, with all of their last five games exceeding 3.5 total goals, including a 3-0 win in their most recent outing. The LA Galaxy also contribute to high-scoring affairs, with four of their last five matches going over 3.5 goals. Head-to-head history between these two teams further supports the over, with 57% of their seven previous encounters seeing more than 3.5 goals and 86% exceeding 2.5 goals. Both teams have shown a strong tendency for both teams to score, with St. Louis at 80% in their last 10 and LA Galaxy at 75% this season, indicating leaky defenses and potent offenses.",
-          "awayRecord": "9-9-10",
-          "homeRecord": "13-8-6",
-          "startTime": "2026-10-11T23:00Z"
         }
       ]
     }

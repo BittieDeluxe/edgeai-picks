@@ -1,5 +1,207 @@
 [
   {
+    "date": "2026-10-11",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Milwaukee Bucks vs Charlotte Hornets",
+            "betType": "total",
+            "pick": "Under 222.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Milwaukee Bucks 90, Charlotte Hornets 105"
+          },
+          {
+            "game": "Milwaukee Bucks vs Charlotte Hornets",
+            "betType": "spread",
+            "pick": "Milwaukee Bucks +3.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Milwaukee Bucks 90, Charlotte Hornets 105"
+          },
+          {
+            "game": "Chicago Bulls vs Denver Nuggets",
+            "betType": "total",
+            "pick": "Under 232.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Bulls 128, Denver Nuggets 133"
+          },
+          {
+            "game": "Orlando Magic vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Under 229.5",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Orlando Magic 105, Cleveland Cavaliers 119"
+          },
+          {
+            "game": "Chicago Bulls vs Denver Nuggets",
+            "betType": "spread",
+            "pick": "Denver Nuggets -8.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Bulls 128, Denver Nuggets 133"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes vs Philadelphia Flyers",
+            "betType": "total",
+            "pick": "O/U 5.5 — Over",
+            "odds": "(-122)",
+            "confidence": "high",
+            "result": "?",
+            "score": "Carolina Hurricanes 4, Philadelphia Flyers 1"
+          },
+          {
+            "game": "Vancouver Canucks vs New York Rangers",
+            "betType": "total",
+            "pick": "O/U 6.5 — Over",
+            "odds": "(+110)",
+            "confidence": "high",
+            "result": "?",
+            "score": "Vancouver Canucks 2, New York Rangers 6"
+          },
+          {
+            "game": "Seattle Kraken vs Washington Capitals",
+            "betType": "total",
+            "pick": "O/U 6.5 — Over",
+            "odds": "(+100)",
+            "confidence": "high",
+            "result": "?",
+            "score": "Seattle Kraken 5, Washington Capitals 3"
+          },
+          {
+            "game": "Carolina Hurricanes vs Philadelphia Flyers",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "(+124)",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Hurricanes 4, Philadelphia Flyers 1"
+          },
+          {
+            "game": "Seattle Kraken vs Washington Capitals",
+            "betType": "spread",
+            "pick": "Washington Capitals -1.5",
+            "odds": "(+120)",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Seattle Kraken 5, Washington Capitals 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Los Angeles Dodgers vs Milwaukee Brewers",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Dodgers 1, Milwaukee Brewers 2"
+          },
+          {
+            "game": "Los Angeles Dodgers vs Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers +1.5",
+            "odds": "-210",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Dodgers 1, Milwaukee Brewers 2"
+          },
+          {
+            "game": "Los Angeles Dodgers vs Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers (-112)",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Los Angeles Dodgers 1, Milwaukee Brewers 2"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Baltimore Ravens vs Atlanta Falcons",
+            "betType": "total",
+            "pick": "Under 43.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Baltimore Ravens 30, Atlanta Falcons 23"
+          },
+          {
+            "game": "Minnesota Vikings vs New Orleans Saints",
+            "betType": "total",
+            "pick": "Over 41.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Minnesota Vikings 23, New Orleans Saints 13"
+          },
+          {
+            "game": "Cleveland Browns vs New York Jets",
+            "betType": "total",
+            "pick": "Over 38.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Browns 12, New York Jets 17"
+          },
+          {
+            "game": "Houston Texans vs Tennessee Titans",
+            "betType": "total",
+            "pick": "Under 37.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Texans 26, Tennessee Titans 3"
+          },
+          {
+            "game": "San Francisco 49ers vs Seattle Seahawks",
+            "betType": "total",
+            "pick": "Under 46.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Francisco 49ers 32, Seattle Seahawks 29"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "LA Galaxy @ St. Louis CITY SC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "LA Galaxy 2, St. Louis CITY SC 6"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-10",
     "sports": [
       {
@@ -3876,112 +4078,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Houston Dynamo FC 0, San Jose Earthquakes 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-11",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "New York Mets @ New York Yankees",
-            "betType": "moneyline",
-            "pick": "New York Mets (+118)",
-            "odds": "+118",
-            "confidence": "high",
-            "result": "L",
-            "score": "New York Mets 4, New York Yankees 6"
-          },
-          {
-            "game": "Baltimore Orioles @ Toronto Blue Jays",
-            "betType": "moneyline",
-            "pick": "Baltimore Orioles (+110)",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Baltimore Orioles 7, Toronto Blue Jays 4"
-          },
-          {
-            "game": "Houston Astros @ Tampa Bay Rays",
-            "betType": "spread",
-            "pick": "Tampa Bay Rays -1.5 (+128)",
-            "odds": "+128",
-            "confidence": "high",
-            "result": "W",
-            "score": "Houston Astros 1, Tampa Bay Rays 3"
-          },
-          {
-            "game": "San Diego Padres @ San Francisco Giants",
-            "betType": "moneyline",
-            "pick": "San Francisco Giants (+124)",
-            "odds": "+124",
-            "confidence": "medium",
-            "result": "L",
-            "score": "San Diego Padres 7, San Francisco Giants 5"
-          },
-          {
-            "game": "Los Angeles Angels @ Washington Nationals",
-            "betType": "spread",
-            "pick": "Washington Nationals -1.5 (+136)",
-            "odds": "+136",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Angels 3, Washington Nationals 4"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Villanova Wildcats vs Louisville Cardinals",
-            "betType": "spread",
-            "pick": "Louisville Cardinals -36.5",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "W",
-            "score": "Villanova Wildcats 13, Louisville Cardinals 59"
-          },
-          {
-            "game": "Norfolk State Spartans vs Virginia Cavaliers",
-            "betType": "spread",
-            "pick": "Virginia Cavaliers -45.5",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "W",
-            "score": "Norfolk State Spartans 3, Virginia Cavaliers 59"
-          },
-          {
-            "game": "Richmond Spiders vs NC State Wolfpack",
-            "betType": "total",
-            "pick": "Under 50.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Richmond Spiders 0, NC State Wolfpack 73"
-          },
-          {
-            "game": "Rutgers Scarlet Knights vs Boston College Eagles",
-            "betType": "spread",
-            "pick": "Rutgers Scarlet Knights +3.5",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Rutgers Scarlet Knights 21, Boston College Eagles 28"
-          },
-          {
-            "game": "Missouri Tigers vs Kansas Jayhawks",
-            "betType": "moneyline",
-            "pick": "Missouri Tigers (-210)",
-            "odds": "-210",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Missouri Tigers 38, Kansas Jayhawks 21"
           }
         ]
       }
