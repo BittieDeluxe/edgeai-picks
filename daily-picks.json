@@ -1,68 +1,25 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T16:52:51.533Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T14:27:28.626Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "New York Knicks vs Toronto Raptors",
-          "betType": "spread",
-          "pick": "Toronto Raptors -10.5",
-          "odds": "(-110)",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The New York Knicks are expected to rest all their key starters, including Jalen Brunson, Mikal Bridges, Josh Hart, OG Anunoby, and Karl-Anthony Towns, due to it being the second night of a preseason back-to-back. Conversely, the Toronto Raptors are expected to have Kawhi Leonard make his preseason debut, providing a significant offensive and defensive boost. This creates a substantial talent disparity favoring the Raptors, who will likely play their available rotation players more minutes to build chemistry. The line of -10.5 from Covers.com reflects this imbalance, making it a confident pick for Toronto to cover.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "0-3",
-          "homeRecord": "1-1",
-          "startTime": "2026-10-13T23:00Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Indiana Pacers vs Oklahoma City Thunder",
+          "game": "Phoenix Suns vs San Antonio Spurs",
           "betType": "total",
-          "pick": "Under 228.5",
-          "odds": "(-110)",
-          "confidence": "high",
-          "rationale": "Line sourced from web search — verify before betting. The Indiana Pacers have key players like Tyrese Haliburton (questionable with an ankle issue) and T.J. McConnell (questionable) who may not play or see limited minutes. For the Oklahoma City Thunder, while many starters who rested previously are expected to play, key players like Chet Holmgren, Isaiah Hartenstein, and Jaylin Williams are listed as day-to-day with various ailments, potentially impacting their offensive rhythm. Furthermore, historical betting trends for Pacers games indicate a strong tendency for the Under, with the Under hitting in 7 of the last 8 meetings. Given the preseason nature, potential limited minutes for stars, and injury concerns, the Under 228.5 from Covers.com is a strong play.",
+          "pick": "Under 224.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Phoenix Suns are significantly hampered by injuries, with key offensive players Bradley Beal (hip) and Kevin Durant (ankle) both ruled out for today's game. Their absence severely limits the Suns' scoring potential. The San Antonio Spurs are currently 0-3, suggesting offensive struggles of their own. In their recent head-to-head matchup this past Saturday, the Suns edged the Spurs in a low-scoring affair, 102-98, resulting in a combined total of only 200 points. With both teams likely to struggle offensively due to injuries and early-season form, the Under 224.5 from FanDuel is a strong play.",
           "propPlayer": null,
           "propTeam": null,
-          "awayRecord": "1-1",
+          "awayRecord": "1-2",
           "homeRecord": "0-3",
-          "startTime": "2026-10-14T00:00Z",
+          "startTime": "2026-10-15T00:00Z",
           "awayLast5": [
-            "W",
-            "L"
-          ],
-          "homeLast5": [
             "L",
             "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Portland Trail Blazers vs Sacramento Kings",
-          "betType": "spread",
-          "pick": "Portland Trail Blazers -3.5",
-          "odds": "(-110)",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Portland Trail Blazers enter this game with a strong 2-0 preseason record, showing signs of 'executing' well. In contrast, the Sacramento Kings are winless at 0-3 in the preseason and are described as 'searching' for answers. The Blazers also boast a formidable interior presence with Robert Williams III averaging 5.0 blocks and Donovan Clingan 8.0 rebounds per game. While Shaedon Sharpe is out for Portland, the Kings have no major injuries reported, but their poor form and Portland's strong start make the Trail Blazers -3.5 on Covers.com a confident pick.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "2-0",
-          "homeRecord": "0-3",
-          "startTime": "2026-10-14T02:00Z",
-          "awayLast5": [
-            "W",
             "W"
           ],
           "homeLast5": [
@@ -72,48 +29,90 @@
           ]
         },
         {
-          "game": "Golden State Warriors vs Los Angeles Lakers",
+          "game": "New Orleans Pelicans vs Dallas Mavericks",
           "betType": "total",
-          "pick": "Under 229.0",
-          "odds": "(-110)",
+          "pick": "Under 233.5",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. The Golden State Warriors are significantly hampered by injuries, with Jimmy Butler (torn ACL), Moses Moody (patellar tendon), and Kristaps Porzingis (undisclosed) all confirmed out for extended periods. Draymond Green is also expected to have limited minutes due to workload management. The Los Angeles Lakers also have several key players listed as questionable, including Walker Kessler, Collin Sexton, Ziaire Williams, and Arthur Kaluma. While a previous preseason game between these teams was high-scoring, the absence of significant offensive firepower for the Warriors and potential limitations for the Lakers' key players points towards a lower-scoring affair than the 229.0 total from Covers.com.",
-          "propPlayer": null,
-          "propTeam": null,
-          "awayRecord": "2-2",
-          "homeRecord": "2-1",
-          "startTime": "2026-10-14T02:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Cleveland Cavaliers vs Orlando Magic",
-          "betType": "total",
-          "pick": "Over 229.5",
-          "odds": "(-110)",
-          "confidence": "medium",
-          "rationale": "Line sourced from web search — verify before betting. Both the Cavaliers and Magic have several players listed as questionable or doubtful, including Jalen Suggs, Anthony Black, and Jonathan Isaac for Orlando, and Nae'Qwon Tomlin and Khalifa Diop for Cleveland. Despite these injury concerns, the previous preseason matchup between these two teams resulted in a high-scoring game with a total of 237 points (Cavaliers 113, Magic 124). Preseason games often feature less intense defense and more experimental lineups, which can lead to higher scoring. Given the recent head-to-head preseason result and the nature of exhibition games, the Over 229.5 from Covers.com is a reasonable pick.",
+          "rationale": "Line sourced from web search — verify before betting. Both the New Orleans Pelicans and Dallas Mavericks are facing extensive injury lists for this matchup, with multiple key players sidelined or doubtful for each team. Such significant absences often lead to disjointed offenses and lower overall scoring. Historically, the head-to-head trend between these two teams strongly favors the Under, with their last five meetings all going below the projected total. Given the widespread injuries and the strong H2H Under trend, the Under 233.5 from FanDuel is highly confident.",
           "propPlayer": null,
           "propTeam": null,
           "awayRecord": "1-1",
           "homeRecord": "1-1",
-          "startTime": "2026-10-13T23:00Z",
+          "startTime": "2026-10-15T00:00Z",
+          "awayLast5": [
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Denver Nuggets vs LA Clippers",
+          "betType": "total",
+          "pick": "Under 225.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. Both the Denver Nuggets and LA Clippers are dealing with significant injuries to their offensive rotations. The Nuggets will be without Aaron Gordon (calf), Michael Porter Jr. (ankle/hamstring), and DeMar DeRozan. Similarly, the Clippers are missing Bradley Beal, Max Strus (foot), Jordan Miller (shoulder), and Terance Mann (knee). The absence of multiple key scorers on both sides is expected to result in a less efficient offensive game. Therefore, the Under 225.5 from FanDuel is a confident pick.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "2-1",
+          "homeRecord": "1-1",
+          "startTime": "2026-10-15T02:30Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Charlotte Hornets vs Boston Celtics",
+          "betType": "spread",
+          "pick": "Charlotte Hornets +6.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Boston Celtics will be without their star player Jayson Tatum, who is out with a knee injury. This is a major blow to their offensive production and overall team performance. The spread for this game has seen significant movement, with the initial Dunkel Index line having Boston as a -16.5 favorite, while the Vegas line is now Boston -6.5. This substantial shift indicates sharp money coming in on the Charlotte Hornets. With Tatum out and the line moving in their favor, taking the Hornets +6.5 (Vegas Line via Dunkel Index) offers strong value.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "1-1",
+          "homeRecord": "2-0",
+          "startTime": "2026-10-14T23:30Z",
           "awayLast5": [
             "L",
             "W"
           ],
           "homeLast5": [
             "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Detroit Pistons vs Minnesota Timberwolves",
+          "betType": "total",
+          "pick": "Over 227.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Line sourced from web search — verify before betting. The Minnesota Timberwolves boast a strong offensive lineup with Anthony Edwards and Jaden McDaniels active and LaMelo Ball orchestrating the offense, averaging 5.7 assists per game. The Detroit Pistons also enter this game with no significant injuries reported, suggesting their key players like Ronald Holland II and Paul Reed are available to contribute offensively. With both teams having their primary offensive weapons available and capable of putting up points, the Over 227.5 from FanDuel is a confident selection.",
+          "propPlayer": null,
+          "propTeam": null,
+          "awayRecord": "1-1",
+          "homeRecord": "3-1",
+          "startTime": "2026-10-15T00:00Z",
+          "awayLast5": [
+            "W",
             "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W"
           ]
         }
       ]
@@ -122,125 +121,233 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "St. Louis Blues vs Ottawa Senators",
+          "game": "Montreal Canadiens vs Washington Capitals",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Both the Canadiens and Capitals are playing on the second night of a back-to-back, which often leads to increased fatigue and defensive breakdowns. Montreal is significantly impacted by injuries, particularly in goal with Sam Montembeault on injured reserve and Jakub Dobes posting a high 4.43 GAA this season.. Washington has also shown offensive firepower, scoring 14 goals in their first four games despite a recent dip.. The head-to-head history supports this pick, with three of the last five matchups between these teams going Over the total..",
+          "awayRecord": "3-2-1",
+          "homeRecord": "3-3-0",
+          "startTime": "2026-10-14T23:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Dallas Stars vs Colorado Avalanche",
           "betType": "total",
           "pick": "Over 5.5",
-          "odds": "-122",
+          "odds": "-135",
           "confidence": "high",
-          "rationale": "The Ottawa Senators are severely depleted on defense, with key players like Artem Zub, Jake Sanderson, and Nikolas Matinpalo (injured Monday) all out or questionable for this game. Compounding this, the Senators are on the second leg of a back-to-back after playing Monday night. The St. Louis Blues, who are rested, should be able to exploit Ottawa's weakened blue line and potential fatigue, leading to increased scoring opportunities. While recent head-to-head matchups have been lower scoring, the current injury situation for Ottawa is extreme and points towards a more open game.",
-          "awayRecord": "2-2-1",
-          "homeRecord": "5-1-0",
-          "startTime": "2026-10-13T23:30Z",
+          "rationale": "This game is the second leg of a back-to-back, home-and-home series, a scenario that frequently results in higher-scoring contests due to familiarity and player fatigue. The Colorado Avalanche have been trending towards the Over, with four of their last five games and all three of their recent home games exceeding the total.. While the Dallas Stars boast a strong defense, allowing only eight goals in six games, they are missing key offensive players like Matt Duchene and Wyatt Johnston, which could force their defense to play more aggressively.. The historical head-to-head average of 6.5 goals in their last ten matchups further supports an Over outcome..",
+          "awayRecord": "2-3-1",
+          "homeRecord": "4-2-0",
+          "startTime": "2026-10-15T00:30Z",
           "awayLast5": [
+            "L",
+            "W",
             "W",
             "L",
-            "L",
-            "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
             "L",
             "W",
-            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Edmonton Oilers vs Los Angeles Kings",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "+105",
+          "game": "Dallas Stars vs Colorado Avalanche",
+          "betType": "prop",
+          "pick": "Nathan MacKinnon Over 3.5 Shots on Goal",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "Nathan MacKinnon is a consistent high-volume shooter and the offensive engine for the Colorado Avalanche, currently leading the team with 12 points.. He has successfully recorded over 3.5 shots on goal in his last three consecutive home games, demonstrating his aggressive offensive mindset.. The intensity of the previous night's game, where he was involved in a fight, suggests he will be highly motivated to make an impact.. With Cale Makar potentially sidelined, MacKinnon's role in generating offense could be even more pronounced, leading to increased shot attempts..",
+          "propPlayer": "Nathan MacKinnon",
+          "propTeam": "Colorado Avalanche",
+          "awayRecord": "2-3-1",
+          "homeRecord": "4-2-0",
+          "startTime": "2026-10-15T00:30Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Montreal Canadiens vs Washington Capitals",
+          "betType": "spread",
+          "pick": "Montreal Canadiens +1.5",
+          "odds": "-225",
           "confidence": "medium",
-          "rationale": "The Edmonton Oilers boast an elite offense, led by Connor McDavid (13 points), Evan Bouchard (12 points), and Leon Draisaitl (9 points), who are all off to strong starts. They face a struggling Los Angeles Kings team whose goaltending has been particularly poor, with Darcy Kuemper posting a 4.02 GAA and Anton Forsberg a 4.76 GAA. Despite some Oilers injuries, the confirmed return of Zach Hyman further bolsters their attack. The Kings' defensive vulnerabilities and goaltending issues against Edmonton's high-powered offense create a strong likelihood for a high-scoring affair.",
-          "awayRecord": "4-0-1",
-          "homeRecord": "0-2-2",
-          "startTime": "2026-10-14T02:30Z",
+          "rationale": "Both the Canadiens and Capitals are playing their second game in as many nights, which tends to level the playing field and benefit the underdog. The Capitals are currently on a two-game losing streak, having conceded nine goals in those recent outings, indicating some defensive vulnerabilities.. Despite their own injury concerns, the Canadiens have shown resilience, holding a 3-2-1 record and securing a recent shootout victory.. The slight line movement towards Montreal also suggests that sharp money is backing the Canadiens to at least keep this game close..",
+          "awayRecord": "3-2-1",
+          "homeRecord": "3-3-0",
+          "startTime": "2026-10-14T23:30Z",
           "awayLast5": [
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
             "W",
             "W"
           ],
           "homeLast5": [
             "L",
-            "L",
+            "W",
+            "W",
             "L",
             "L"
           ]
         },
         {
-          "game": "Calgary Flames vs Anaheim Ducks",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "+110",
-          "confidence": "medium",
-          "rationale": "The Calgary Flames are in dismal form, starting the season 0-5-0, with both of their goaltenders carrying a Goals Against Average above 5.00. This poor goaltending is a significant factor against an Anaheim Ducks team that has started strong at 4-1-0 and features a potent offense with Leo Carlsson (8 points), Beckett Sennecke (6 points), and Mikael Granlund (7 points). The Ducks already defeated the Flames 4-2 just days ago. Calgary's defensive and goaltending struggles, combined with Anaheim's offensive prowess, make the Over a compelling pick.",
-          "awayRecord": "0-5-0",
-          "homeRecord": "4-1-0",
-          "startTime": "2026-10-14T01:45Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Vegas Golden Knights vs Nashville Predators",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "-130",
-          "confidence": "medium",
-          "rationale": "The Vegas Golden Knights are playing on the second night of a back-to-back, having played in Minnesota on Monday. They are also without leading goal-scorer Victor Olofsson, who is on long-term injured reserve. The Nashville Predators feature capable goaltending, with Juuse Saros (2.72 GAA) known for his ability to steal games, and Matt Murray posting a 1.85 GAA in his appearances. These factors, including potential fatigue for Vegas and Nashville's solid netminding, suggest a tighter, lower-scoring contest.",
-          "awayRecord": "5-2-0",
-          "homeRecord": "2-1-2",
-          "startTime": "2026-10-14T00:45Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Seattle Kraken vs Philadelphia Flyers",
+          "game": "Montreal Canadiens vs Washington Capitals",
           "betType": "moneyline",
-          "pick": "Seattle Kraken",
-          "odds": "+102",
+          "pick": "Washington Capitals",
+          "odds": "-125",
           "confidence": "medium",
-          "rationale": "The Philadelphia Flyers are off to a dreadful 0-5-2 start and are significantly hampered by injuries, including key forward Travis Konecny, who is on injured reserve until at least October 17. In contrast, the Seattle Kraken are playing well, holding a 4-2-0 record and demonstrating strong performance on the road. Given Philadelphia's struggles and extensive injury list, combined with Seattle's solid form, the Kraken present excellent value at plus money to secure a road victory against a struggling opponent.",
-          "awayRecord": "4-2-0",
-          "homeRecord": "0-5-2",
-          "startTime": "2026-10-13T23:00Z",
+          "rationale": "The Washington Capitals have a strong historical advantage over the Montreal Canadiens, holding a 7-2-1 record in their last ten meetings and winning their season series last year.. While both teams are on a back-to-back, the Capitals are playing at home where they hold a 2-1-0 record this season.. Washington's deeper forward corps, despite recent losses, provides a significant offensive threat, and they will be motivated to break their two-game losing streak.. The implied probability of a Capitals win, based on the moneyline, is 57.3%, indicating a favorable outlook..",
+          "awayRecord": "3-2-1",
+          "homeRecord": "3-3-0",
+          "startTime": "2026-10-14T23:30Z",
           "awayLast5": [
             "L",
-            "W",
+            "L",
             "L",
             "W",
             "W"
           ],
           "homeLast5": [
             "L",
+            "W",
+            "W",
             "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLB",
+      "picks": [
+        {
+          "game": "Milwaukee Brewers vs Los Angeles Dodgers",
+          "betType": "total",
+          "pick": "Under 7.5",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "Blake Snell, the Dodgers' starting pitcher, boasts a strong 1.90 ERA in the regular season, indicating his ability to limit opposing offenses. The Los Angeles Dodgers' offense has been anemic in the postseason, managing only five runs across the first two games of the NLCS and failing to hit a single home run in the series. Furthermore, the Brewers' bullpen has been exceptional, holding a remarkable 0.31 ERA through six playoff games, which will be crucial in keeping the score low late in the game. The Under has also been a strong trend for the Dodgers at home, hitting in their last six home games.",
+          "awayRecord": "103-59",
+          "homeRecord": "100-62",
+          "startTime": "2026-10-15T00:00Z",
+          "awayLast5": [
+            "W",
             "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers vs Los Angeles Dodgers",
+          "betType": "spread",
+          "pick": "Milwaukee Brewers +1.5",
+          "odds": "-156",
+          "confidence": "high",
+          "rationale": "The Milwaukee Brewers enter Game 3 with a commanding 2-0 series lead and have been in excellent form, boasting a 9-1 record in their last 10 games overall. They also held the edge in the regular season series against the Dodgers, winning 4-3. Despite being on the road, the Brewers have successfully covered the +1.5 spread in both NLCS games played so far. The Dodgers' offense is struggling, with Shohei Ohtani batting just .150 in the postseason and playing through injuries, which further supports the Brewers' ability to keep the game close or secure an outright victory.",
+          "awayRecord": "103-59",
+          "homeRecord": "100-62",
+          "startTime": "2026-10-15T00:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers vs Los Angeles Dodgers",
+          "betType": "prop",
+          "pick": "William Contreras Over 0.5 Home Runs",
+          "odds": "N/A",
+          "confidence": "high",
+          "rationale": "William Contreras has been a standout offensive performer for the Brewers in the NLCS, hitting .429 with a home run in the first two games of the series. Historical betting trends show a strong propensity for Contreras to hit the 'Home Runs Over' prop, cashing in 3 of his last 6 games with a significant 245% ROI. Facing Blake Snell, who has a high walk rate, could lead to more opportunities for Contreras to see pitches he can drive for extra bases. William Contreras is confirmed active and playing for the Milwaukee Brewers today.",
+          "awayRecord": "103-59",
+          "homeRecord": "100-62",
+          "startTime": "2026-10-15T00:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Milwaukee Brewers vs Los Angeles Dodgers",
+          "betType": "prop",
+          "pick": "Jake Bauers Over 0.5 Walks",
+          "odds": "N/A",
+          "confidence": "medium",
+          "rationale": "Jake Bauers has a strong historical trend for drawing walks, hitting the 'Walks Over' in 16 of his last 20 away games with a remarkable 69% ROI. He will be facing Blake Snell, who has demonstrated command issues this season with 16 walks in just 42.2 innings pitched. The Brewers' lineup, known for its patient approach at the plate with the lowest overall swing rate in MLB, further increases the likelihood of Bauers drawing a walk. Jake Bauers is an active player for the Milwaukee Brewers.",
+          "awayRecord": "103-59",
+          "homeRecord": "100-62",
+          "startTime": "2026-10-15T00:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
             "L",
             "L"
           ]
@@ -251,49 +358,74 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Delaware Blue Hens vs Middle Tennessee Blue Raiders",
+          "game": "Kennesaw State Owls vs Missouri State Bears",
           "betType": "total",
-          "pick": "Under 47.5",
-          "odds": "-106",
+          "pick": "Over 52.5",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "Both teams have struggled offensively, with Delaware facing significant quarterback uncertainty due to Nick Minicucci's knee injury, leading to multiple players attempting passes. Both offenses rank in the bottom 10 nationally for third-down conversion rates, indicating an inability to sustain drives. Furthermore, both teams have seen four of their five games this season finish under the total, and the line has moved down from 48.5 to 47.5, suggesting sharp money on the Under.",
-          "awayRecord": "2-3",
-          "homeRecord": "2-3",
-          "startTime": "2026-10-13T23:00Z",
+          "rationale": "The total for this game has seen significant line movement, rising from an opening of 50.5 to the current 52.5, indicating sharp money on the Over. Head-to-head history strongly supports a high-scoring affair, with the Over hitting in both matchups since 2017, including a 75-point game in 2025. Missouri State's defense has been particularly vulnerable this season, conceding at least 30 points in four of their five games. Kennesaw State's offense, led by dual-threat quarterback Rickie Collins, has demonstrated the capability to generate points, further contributing to the expectation of a higher-scoring contest.",
+          "awayRecord": "1-4",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-14T23:30Z",
           "awayLast5": [
             "W",
             "L",
-            "W",
+            "L",
             "L",
             "L"
           ],
           "homeLast5": [
-            "W",
             "L",
             "W",
+            "L",
             "L",
             "L"
           ]
         },
         {
-          "game": "Delaware Blue Hens vs Middle Tennessee Blue Raiders",
+          "game": "Kennesaw State Owls vs Missouri State Bears",
           "betType": "spread",
-          "pick": "Middle Tennessee Blue Raiders +1.5",
-          "odds": "-114",
+          "pick": "Kennesaw State Owls -2.5",
+          "odds": "-122",
           "confidence": "high",
-          "rationale": "Middle Tennessee is playing at home, where they have shown a strong ability to cover the spread, doing so in three consecutive games when given +2.5. Delaware, conversely, has failed to cover the -2.5 line in six consecutive road games and eight of their last ten. The significant quarterback uncertainty for Delaware, with starter Nick Minicucci injured, further handicaps their offense, which has scored only 17 points in their last two outings. The line movement from Delaware -2.5 to -1.5 also indicates a shift in favor of Middle Tennessee.",
-          "awayRecord": "2-3",
-          "homeRecord": "2-3",
-          "startTime": "2026-10-13T23:00Z",
+          "rationale": "Kennesaw State holds a perfect 2-0 head-to-head record against Missouri State since 2017, showcasing historical dominance in this matchup. Missouri State's defense is a significant liability, having allowed 30 or more points in four of their five games this season. Despite recent losses, Kennesaw State has been competitive, with their last two defeats coming by a combined four points. Furthermore, composite power ratings suggest Kennesaw State should be favored by a larger margin than the current spread, indicating potential value on the Owls.",
+          "awayRecord": "1-4",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-14T23:30Z",
           "awayLast5": [
             "W",
             "L",
-            "W",
+            "L",
             "L",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Western Kentucky Hilltoppers vs Sam Houston Bearkats",
+          "betType": "spread",
+          "pick": "Western Kentucky Hilltoppers -1.5",
+          "odds": "-106",
+          "confidence": "high",
+          "rationale": "Western Kentucky has historically dominated this series, winning all three matchups against Sam Houston since the Bearkats joined the FBS, including a 41-24 victory in 2025. Sam Houston has struggled significantly in weekday Conference USA games, holding a 3-10 record since 2023. Western Kentucky's effective running game, which thrives when rushing for over 190 yards, is poised to exploit Sam Houston's poor run defense, ranked 131st nationally and allowing 5.5 yards per carry. Compounding Sam Houston's challenges are significant offensive line injuries, with four linemen reportedly out or questionable, which will hinder their ability to protect the passer and establish a run game.",
+          "awayRecord": "2-4",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-15T00:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
             "L",
             "W",
             "L",
@@ -301,79 +433,114 @@
           ]
         },
         {
-          "game": "Florida International Panthers vs Jacksonville State Gamecocks",
+          "game": "Western Kentucky Hilltoppers vs Sam Houston Bearkats",
           "betType": "total",
-          "pick": "Under 43.5",
+          "pick": "Under 53.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The total for this game has seen significant line movement, dropping two full points from 45.5 to 43.5, which often signals sharp money on the Under. FIU boasts an elite defense, ranking fourth nationally in total defense and sixth in scoring defense, having not surrendered a touchdown in their last 11 quarters. Four of FIU's five games this season have finished under the total, reinforcing their defensive strength. While Jacksonville State's offense averages 27.3 points, FIU's ability to limit explosive plays and defend on third down should keep the scoring low.",
-          "awayRecord": "3-2",
-          "homeRecord": "4-2",
-          "startTime": "2026-10-14T00:00Z",
+          "rationale": "Sam Houston's offense has been anemic in recent outings, managing only 17 points combined in their last two games, which points to a lower-scoring affair. Both teams are dealing with significant injuries, particularly to their offensive lines and Western Kentucky's skill position players, which could hinder offensive production. While Western Kentucky's defense has struggled against the run, Sam Houston's own rushing attack ranks 125th nationally at 3.28 yards per carry, limiting their ability to exploit this weakness. Despite some line movement towards the Over, the recent offensive struggles and injury reports suggest a game that stays Under the projected total.",
+          "awayRecord": "2-4",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-15T00:00Z",
           "awayLast5": [
             "L",
-            "W",
             "L",
             "W",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "L",
             "W",
-            "W",
-            "W"
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Florida International Panthers vs Jacksonville State Gamecocks",
-          "betType": "spread",
-          "pick": "Jacksonville State Gamecocks -2.5",
-          "odds": "-124",
-          "confidence": "medium",
-          "rationale": "Jacksonville State enters this game on a three-game winning streak and holds a strong 4-2 overall record, including a 2-0 conference mark. They have been particularly dominant at home, boasting a 5-1 straight-up record and covering the -2.5 line in four consecutive home games and nine of their last ten. In contrast, FIU is 0-2 on the road this season and has struggled to cover the +2.5 line in recent road matchups. Jacksonville State also leads the all-time series 3-1, having covered the spread in three of their last four head-to-head encounters.",
-          "awayRecord": "3-2",
-          "homeRecord": "4-2",
-          "startTime": "2026-10-14T00:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Florida International Panthers vs Jacksonville State Gamecocks",
+          "game": "Kennesaw State Owls vs Missouri State Bears",
           "betType": "moneyline",
-          "pick": "Jacksonville State Gamecocks (-154)",
-          "odds": "-154",
+          "pick": "Kennesaw State Owls (-150)",
+          "odds": "-150",
           "confidence": "medium",
-          "rationale": "Jacksonville State is favored at home, riding a three-game winning streak and holding a 4-2 overall record, including a perfect 2-0 in conference play. Their home advantage is significant, with a 5-1 straight-up record at AmFirst Stadium. FIU, while defensively strong, has struggled on the road with an 0-2 record this season, and their offense ranks 121st in scoring. Jacksonville State also holds a 3-1 all-time series lead against FIU, further supporting their position as the likely winner.",
-          "awayRecord": "3-2",
-          "homeRecord": "4-2",
-          "startTime": "2026-10-14T00:00Z",
+          "rationale": "Kennesaw State has a strong historical advantage over Missouri State, winning both of their previous head-to-head encounters since 2017. Missouri State's defense has been a major weakness this season, consistently allowing opponents to score 30 or more points in four of their five games. Kennesaw State's offense, spearheaded by their dynamic dual-threat quarterback Rickie Collins, is well-equipped to capitalize on these defensive vulnerabilities. Furthermore, analytical power ratings suggest Kennesaw State is undervalued at the current line, making their moneyline a confident pick for an outright victory.",
+          "awayRecord": "1-4",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-14T23:30Z",
           "awayLast5": [
-            "L",
             "W",
             "L",
-            "W",
-            "W"
+            "L",
+            "L",
+            "L"
           ],
           "homeLast5": [
-            "W",
             "L",
             "W",
-            "W",
-            "W"
+            "L",
+            "L",
+            "L"
           ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Atlanta United FC vs CF Montréal",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "Both Atlanta United and CF Montréal are struggling defensively this season, with Atlanta conceding 48 goals and Montréal conceding 56 goals in 28 games, placing them near the bottom of the league. Atlanta's recent form shows they've conceded 8 goals in their last 5 matches, while Montréal just lost 1-2 to Toronto FC. The return of key attackers like Prince Owusu for Montréal, who has 15 goals and 6 assists, and Aleksey Miranchuk for Atlanta, should significantly boost offensive output. Head-to-head matchups have also consistently seen goals, including a 3-1 and 3-2 result in 2026 and 2025 respectively, indicating a tendency for high-scoring games.",
+          "awayRecord": "7-6-15",
+          "homeRecord": "6-6-16",
+          "startTime": "2026-10-14T23:30Z"
+        },
+        {
+          "game": "Charlotte FC vs Columbus Crew",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "Both Charlotte FC and Columbus Crew have demonstrated a propensity for high-scoring affairs, with their head-to-head history showing four of the last five matches exceeding 3.5 goals, including results like 3-1, 3-2, and 4-2. Charlotte averages 1.8 goals scored per match and has seen over 2.5 goals in 67% of their games this season. Columbus Crew, despite a poorer record, averages 1.5 goals scored and 1.6 goals conceded per match, and has scored 8 goals in their last 5 games. Defensive injuries for Columbus, including Malte Amundsen and Rudy Camacho being out, further suggest a vulnerable backline.",
+          "awayRecord": "13-7-8",
+          "homeRecord": "8-5-15",
+          "startTime": "2026-10-14T23:30Z"
+        },
+        {
+          "game": "New York City FC vs Inter Miami CF",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-190",
+          "confidence": "high",
+          "rationale": "Inter Miami is in strong offensive form, averaging 2.4 goals per game and having seen over 2.5 goals in their last four matches, including a recent 4-0 victory against D.C. United. New York City FC is facing significant injury concerns, with key midfielders Keaton Parks and Maxi Moralez out, and playmaker Agustin Ojeda questionable, which will severely impact their defensive stability. Head-to-head history between these two teams strongly supports high-scoring games, with recent results like 5-1, 4-0, and 3-2. Given Miami's potent attack led by Lionel Messi and Luis Suárez against a weakened NYCFC defense, the Over 2.5 total is a high-confidence pick.",
+          "awayRecord": "8-9-11",
+          "homeRecord": "13-10-5",
+          "startTime": "2026-10-14T23:30Z"
+        },
+        {
+          "game": "Sporting Kansas City vs Nashville SC",
+          "betType": "spread",
+          "pick": "Nashville SC -1.5",
+          "odds": "-160",
+          "confidence": "medium",
+          "rationale": "Nashville SC is the top team in MLS, boasting an excellent record of 19 wins and 60 points, and is coming off a commanding 4-1 victory against Austin FC. They have a formidable offense, having scored 55 goals this season and averaging 2.22 points per game. In stark contrast, Sporting Kansas City is last in the league with a 6-4-18 record and a league-worst goal difference of -33. Sporting KC is also severely hampered by numerous key injuries to defenders and midfielders, including Or Blorian, Diego Borges, Capita, Jake Davis, Moises Mosquera, and Owen Wolff, further weakening their already poor defense that has conceded 68 goals. Nashville's strong home form and motivation to break further records, combined with Sporting KC's dire situation, makes Nashville -1.5 a high-confidence pick.",
+          "awayRecord": "6-4-18",
+          "homeRecord": "19-6-3",
+          "startTime": "2026-10-15T00:30Z"
+        },
+        {
+          "game": "San Jose Earthquakes vs Real Salt Lake",
+          "betType": "moneyline",
+          "pick": "Real Salt Lake",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "Real Salt Lake holds a commendable home record of 8 wins, 2 draws, and 4 losses this season, demonstrating their strength at America First Field despite their overall league position. They face a San Jose Earthquakes squad significantly weakened by injuries, with their top scorer Preston Judd (11 goals) and several other key players like Nonso Adimabua, Jonathan Gonzalez, and Niko Tsakiris sidelined. While San Jose has a better overall record, their extensive injury list severely hampers their offensive capabilities, making them vulnerable on the road. Real Salt Lake has also seen the return of several players from injury and international duty, bolstering their lineup for this crucial home fixture.",
+          "awayRecord": "13-7-8",
+          "homeRecord": "9-5-14",
+          "startTime": "2026-10-15T01:30Z"
         }
       ]
     },
@@ -381,59 +548,59 @@
       "sport": "UCL",
       "picks": [
         {
-          "game": "Lille @ Arsenal",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+125",
-          "confidence": "high",
-          "rationale": "Arsenal is significantly hampered by defensive injuries, with key players Piero Hincapie, Martin Zubimendi, and William Saliba all ruled out due to ankle and back issues respectively. Lille also faces defensive challenges, with Tiago Santos out for the season with an ACL rupture and Ethan Mbappe suspended. Lille's opening Champions League match was a 3-2 loss, indicating a propensity for higher-scoring games. Given the extensive defensive absences for both sides and Lille's previous high-scoring UCL fixture, this match is poised for multiple goals, making the Over 3.5 at +125 a strong value play.",
-          "awayRecord": "0-0-1",
-          "homeRecord": "1-0-0",
-          "startTime": "2026-10-13T19:00Z"
-        },
-        {
-          "game": "Manchester United @ Atlético Madrid",
+          "game": "Liverpool @ LASK Linz",
           "betType": "total",
           "pick": "Under 2.5",
-          "odds": "+110",
-          "confidence": "medium",
-          "rationale": "Manchester United is facing a severe injury crisis, particularly in defense and midfield, with Benjamin Sesko, Patrick Dorgu, Matthijs de Ligt, Noussair Mazraoui, and Manuel Ugarte all out, and key players Luke Shaw and Kobbie Mainoo doubtful. This significantly weakens their ability to both defend and control the midfield. Atlético Madrid, known for their robust defensive style under Diego Simeone, is in excellent domestic form, winning their last four La Liga matches. Head-to-head encounters between these two teams in recent Champions League play have historically been low-scoring, with results like 1-1 and 1-0. With United's depleted squad and Atlético's disciplined defense, an Under 2.5 goals outcome at +110 presents a high-confidence pick.",
+          "odds": "+138",
+          "confidence": "high",
+          "rationale": "Liverpool is significantly hampered by injuries to key attacking players, including Dominik Szoboszlai, Alexander Isak, and Cody Gakpo, all of whom are out or major doubts for this match. This will likely impact their offensive output, as evidenced by their recent 0-3 loss to Manchester City. LASK Linz, while having a decent domestic scoring record, managed only one goal in their last two domestic games and lost their UCL opener 0-1 to AEK Athens. Given Liverpool's depleted attack and potential for rotation, coupled with LASK's struggle to score in their first UCL match, a lower-scoring affair is anticipated.",
           "awayRecord": "1-0-0",
           "homeRecord": "0-0-1",
-          "startTime": "2026-10-13T19:00Z"
+          "startTime": "2026-10-14T16:45Z"
         },
         {
-          "game": "Barcelona @ Galatasaray",
-          "betType": "total",
-          "pick": "Over 4.5",
-          "odds": "+115",
-          "confidence": "medium",
-          "rationale": "Barcelona enters this match in scintillating form, having won all nine of their matches across all competitions and starting their Champions League campaign with a dominant 5-1 victory. Their potent attack, featuring Lamine Yamal, Gabriel Jesus, and Karim Adeyemi, is expected to exploit Galatasaray's defense. Galatasaray, on the other hand, conceded three goals in their Champions League opener and will be without key defender Wilfried Singo. Barcelona also holds a strong head-to-head record against Galatasaray, winning six of their ten previous meetings. This combination of Barcelona's prolific scoring and Galatasaray's defensive vulnerabilities strongly supports the Over 4.5 goals at +115.",
-          "awayRecord": "1-0-0",
-          "homeRecord": "0-0-1",
-          "startTime": "2026-10-13T19:00Z"
-        },
-        {
-          "game": "PSV Eindhoven @ RB Leipzig",
+          "game": "Real Madrid @ AS Roma",
           "betType": "total",
           "pick": "Over 3.5",
-          "odds": "-160",
+          "odds": "+110",
           "confidence": "medium",
-          "rationale": "PSV Eindhoven has demonstrated strong attacking form recently, scoring 12 goals in their last five domestic matches, which included high-scoring affairs like 3-1 and 4-1 wins. Their Champions League opener also saw them draw 1-1. RB Leipzig began their Champions League campaign with a 3-1 loss, indicating defensive vulnerabilities. While specific head-to-head data is limited, PSV's consistent offensive output and Leipzig's early defensive struggles in the competition suggest this match has a high probability of exceeding 3.5 goals.",
-          "awayRecord": "0-1-0",
-          "homeRecord": "0-0-1",
-          "startTime": "2026-10-13T19:00Z"
+          "rationale": "Real Madrid boasts a formidable attack with Kylian Mbappé, Jude Bellingham, and Vinícius Júnior all expected to start, capable of scoring multiple goals. While Real Madrid has some defensive injuries, including Eder Militao and Ferland Mendy, Roma is also missing key defensive midfielder Bryan Cristante and goalkeeper Mile Svilar. Roma's attack, led by Dybala and Malen, will also be looking to capitalize at home. The combination of Real Madrid's offensive firepower and both teams' defensive absences creates a strong likelihood for a high-scoring game.",
+          "awayRecord": "1-0-0",
+          "homeRecord": "0-1-0",
+          "startTime": "2026-10-14T19:00Z"
         },
         {
-          "game": "Bayern Munich @ Viking FK",
+          "game": "AEK Athens @ Shakhtar Donetsk",
           "betType": "total",
-          "pick": "Over 4.5",
-          "odds": "-112",
+          "pick": "Under 2.5",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "AEK Athens has demonstrated exceptional defensive solidity in the Champions League this season, keeping clean sheets in all three of their matches so far, including a 1-0 victory in their UCL opener. Furthermore, AEK's prolific scorer Barnabás Varga is absent for this match, which will likely reduce their offensive threat. The game is also being played at a neutral venue (Stamford Bridge, London), negating any home-field advantage for Shakhtar Donetsk. These factors, combined with Shakhtar's 1-1 draw in their opener, point towards a low-scoring contest.",
+          "awayRecord": "1-0-0",
+          "homeRecord": "0-1-0",
+          "startTime": "2026-10-14T19:00Z"
+        },
+        {
+          "game": "VfB Stuttgart @ Slovan Bratislava",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-118",
           "confidence": "medium",
-          "rationale": "Bayern Munich showcased their offensive prowess by hammering their first Champions League opponent 5-0. Despite the absence of key players Manuel Neuer (foot injury) and Jamal Musiala (thigh injury), Bayern's attacking depth remains formidable. Viking FK conceded three goals in their Champions League opener, highlighting their defensive struggles against stronger opposition. Even with a backup goalkeeper for Bayern, their dominant offense is expected to overwhelm Viking's defense, making the Over 4.5 goals at -112 a high-confidence selection.",
+          "rationale": "Slovan Bratislava displayed significant defensive vulnerabilities in their last Champions League outing, suffering a heavy 1-6 defeat to Paris Saint-Germain. Their recent domestic form also indicates a tendency for high-scoring games, with 9 goals scored and 13 conceded in their last five matches, averaging 3.38 combined goals per game. VfB Stuttgart, having won their UCL opener, will look to exploit Slovan Bratislava's porous defense. This historical defensive weakness against strong opponents and their high-scoring domestic trend strongly supports the Over 3.5.",
           "awayRecord": "1-0-0",
           "homeRecord": "0-0-1",
-          "startTime": "2026-10-13T19:00Z"
+          "startTime": "2026-10-14T19:00Z"
+        },
+        {
+          "game": "Paris Saint-Germain @ Manchester City",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "This match features two of Europe's most potent attacking teams. Manchester City is in excellent form, winning 100% of their Premier League matches with 16 goals scored, and won their UCL opener 2-0. Paris Saint-Germain also boasts a strong offense and won their opening UCL fixture. Both teams possess world-class attackers capable of finding the back of the net multiple times. With no significant defensive injuries reported for either side, the sheer offensive talent on display makes a high-scoring encounter highly probable.",
+          "awayRecord": "1-0-0",
+          "homeRecord": "1-0-0",
+          "startTime": "2026-10-14T19:00Z"
         }
       ]
     }
