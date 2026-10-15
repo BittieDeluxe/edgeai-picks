@@ -1,5 +1,302 @@
 [
   {
+    "date": "2026-10-14",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Phoenix Suns vs San Antonio Spurs",
+            "betType": "total",
+            "pick": "Under 224.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Phoenix Suns 103, San Antonio Spurs 123"
+          },
+          {
+            "game": "New Orleans Pelicans vs Dallas Mavericks",
+            "betType": "total",
+            "pick": "Under 233.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New Orleans Pelicans 101, Dallas Mavericks 97"
+          },
+          {
+            "game": "Denver Nuggets vs LA Clippers",
+            "betType": "total",
+            "pick": "Under 225.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Denver Nuggets 110, LA Clippers 122"
+          },
+          {
+            "game": "Charlotte Hornets vs Boston Celtics",
+            "betType": "spread",
+            "pick": "Charlotte Hornets +6.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Charlotte Hornets 93, Boston Celtics 114"
+          },
+          {
+            "game": "Detroit Pistons vs Minnesota Timberwolves",
+            "betType": "total",
+            "pick": "Over 227.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Pistons 128, Minnesota Timberwolves 106"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Montreal Canadiens vs Washington Capitals",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Montreal Canadiens 4, Washington Capitals 5"
+          },
+          {
+            "game": "Dallas Stars vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "L",
+            "score": "Dallas Stars 3, Colorado Avalanche 2"
+          },
+          {
+            "game": "Dallas Stars vs Colorado Avalanche",
+            "betType": "prop",
+            "pick": "Nathan MacKinnon Over 3.5 Shots on Goal",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "L",
+            "score": "Nathan MacKinnon: 0 Shots on Goal (line 3.5)"
+          },
+          {
+            "game": "Montreal Canadiens vs Washington Capitals",
+            "betType": "spread",
+            "pick": "Montreal Canadiens +1.5",
+            "odds": "-225",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Montreal Canadiens 4, Washington Capitals 5"
+          },
+          {
+            "game": "Montreal Canadiens vs Washington Capitals",
+            "betType": "moneyline",
+            "pick": "Washington Capitals",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Montreal Canadiens 4, Washington Capitals 5"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Milwaukee Brewers vs Los Angeles Dodgers",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 6, Los Angeles Dodgers 2"
+          },
+          {
+            "game": "Milwaukee Brewers vs Los Angeles Dodgers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers +1.5",
+            "odds": "-156",
+            "confidence": "high",
+            "result": "W",
+            "score": "Milwaukee Brewers 6, Los Angeles Dodgers 2"
+          },
+          {
+            "game": "Milwaukee Brewers vs Los Angeles Dodgers",
+            "betType": "prop",
+            "pick": "William Contreras Over 0.5 Home Runs",
+            "odds": "N/A",
+            "confidence": "high",
+            "result": "L",
+            "score": "William Contreras: 0 Home Runs (line 0.5)"
+          },
+          {
+            "game": "Milwaukee Brewers vs Los Angeles Dodgers",
+            "betType": "prop",
+            "pick": "Jake Bauers Over 0.5 Walks",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Jake Bauers: 0 Walks (line 0.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Kennesaw State Owls vs Missouri State Bears",
+            "betType": "total",
+            "pick": "Over 52.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kennesaw State Owls 21, Missouri State Bears 24"
+          },
+          {
+            "game": "Kennesaw State Owls vs Missouri State Bears",
+            "betType": "spread",
+            "pick": "Kennesaw State Owls -2.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Kennesaw State Owls 21, Missouri State Bears 24"
+          },
+          {
+            "game": "Western Kentucky Hilltoppers vs Sam Houston Bearkats",
+            "betType": "spread",
+            "pick": "Western Kentucky Hilltoppers -1.5",
+            "odds": "-106",
+            "confidence": "high",
+            "result": "W",
+            "score": "Western Kentucky Hilltoppers 16, Sam Houston Bearkats 3"
+          },
+          {
+            "game": "Western Kentucky Hilltoppers vs Sam Houston Bearkats",
+            "betType": "total",
+            "pick": "Under 53.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Western Kentucky Hilltoppers 16, Sam Houston Bearkats 3"
+          },
+          {
+            "game": "Kennesaw State Owls vs Missouri State Bears",
+            "betType": "moneyline",
+            "pick": "Kennesaw State Owls (-150)",
+            "odds": "-150",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kennesaw State Owls 21, Missouri State Bears 24"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Atlanta United FC vs CF Montréal",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Atlanta United FC 3, CF Montréal 0"
+          },
+          {
+            "game": "Charlotte FC vs Columbus Crew",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Charlotte FC 1, Columbus Crew 3"
+          },
+          {
+            "game": "New York City FC vs Inter Miami CF",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-190",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York City FC 0, Inter Miami CF 2"
+          },
+          {
+            "game": "Sporting Kansas City vs Nashville SC",
+            "betType": "spread",
+            "pick": "Nashville SC -1.5",
+            "odds": "-160",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sporting Kansas City 0, Nashville SC 4"
+          },
+          {
+            "game": "San Jose Earthquakes vs Real Salt Lake",
+            "betType": "moneyline",
+            "pick": "Real Salt Lake",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Jose Earthquakes 1, Real Salt Lake 1"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Liverpool @ LASK Linz",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+138",
+            "confidence": "high",
+            "result": "L",
+            "score": "Liverpool 6, LASK Linz 3"
+          },
+          {
+            "game": "Real Madrid @ AS Roma",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Real Madrid 4, AS Roma 3"
+          },
+          {
+            "game": "AEK Athens @ Shakhtar Donetsk",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "AEK Athens 1, Shakhtar Donetsk 3"
+          },
+          {
+            "game": "VfB Stuttgart @ Slovan Bratislava",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "VfB Stuttgart 3, Slovan Bratislava 0"
+          },
+          {
+            "game": "Paris Saint-Germain @ Manchester City",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Paris Saint-Germain 4, Manchester City 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-13",
     "sports": [
       {
@@ -4022,94 +4319,6 @@
             "confidence": "medium",
             "result": "?",
             "score": ""
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-14",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Los Angeles Dodgers @ Cincinnati Reds",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5",
-            "odds": "-128",
-            "confidence": "high",
-            "result": "W",
-            "score": "Los Angeles Dodgers 4, Cincinnati Reds 1"
-          },
-          {
-            "game": "San Diego Padres @ Colorado Rockies",
-            "betType": "spread",
-            "pick": "San Diego Padres -1.5",
-            "odds": "-134",
-            "confidence": "high",
-            "result": "L",
-            "score": "San Diego Padres 8, Colorado Rockies 7"
-          },
-          {
-            "game": "New York Yankees @ Minnesota Twins",
-            "betType": "moneyline",
-            "pick": "New York Yankees",
-            "odds": "-124",
-            "confidence": "high",
-            "result": "W",
-            "score": "New York Yankees 8, Minnesota Twins 3"
-          },
-          {
-            "game": "Miami Marlins @ Arizona Diamondbacks",
-            "betType": "spread",
-            "pick": "Miami Marlins +1.5",
-            "odds": "-192",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Miami Marlins 7, Arizona Diamondbacks 8"
-          },
-          {
-            "game": "Atlanta Braves @ Chicago Cubs",
-            "betType": "total",
-            "pick": "Over 9.5",
-            "odds": "-106",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Atlanta Braves 3, Chicago Cubs 7"
-          }
-        ]
-      },
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "Denver Broncos vs Kansas City Chiefs",
-            "betType": "spread",
-            "pick": "Denver Broncos +2.5",
-            "odds": "-112",
-            "confidence": "high",
-            "result": "L",
-            "score": "Denver Broncos 10, Kansas City Chiefs 31"
-          },
-          {
-            "game": "Denver Broncos vs Kansas City Chiefs",
-            "betType": "total",
-            "pick": "Under 43.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Denver Broncos 10, Kansas City Chiefs 31"
-          },
-          {
-            "game": "Denver Broncos vs Kansas City Chiefs",
-            "betType": "moneyline",
-            "pick": "Denver Broncos (+110)",
-            "odds": "+110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Denver Broncos 10, Kansas City Chiefs 31"
           }
         ]
       }
