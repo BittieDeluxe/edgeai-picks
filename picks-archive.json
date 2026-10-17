@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-10-16",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Sacramento Kings @ San Antonio Spurs",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -14.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sacramento Kings 97, San Antonio Spurs 126"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Pittsburgh Penguins vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Penguins 2, Colorado Avalanche 5"
+          },
+          {
+            "game": "Boston Bruins vs Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Boston Bruins 4, Anaheim Ducks 2"
+          },
+          {
+            "game": "Anaheim Ducks vs Boston Bruins",
+            "betType": "moneyline",
+            "pick": "Anaheim Ducks (-108)",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Boston Bruins 4, Anaheim Ducks 2"
+          },
+          {
+            "game": "Pittsburgh Penguins vs Colorado Avalanche",
+            "betType": "spread",
+            "pick": "Colorado Avalanche -1.5",
+            "odds": "+120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Pittsburgh Penguins 2, Colorado Avalanche 5"
+          },
+          {
+            "game": "Boston Bruins vs Anaheim Ducks",
+            "betType": "spread",
+            "pick": "Boston Bruins -1.5",
+            "odds": "+210",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Boston Bruins 4, Anaheim Ducks 2"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Memphis Tigers vs Tulane Green Wave",
+            "betType": "total",
+            "pick": "Over 55.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Memphis Tigers 17, Tulane Green Wave 31"
+          },
+          {
+            "game": "Washington Huskies vs Purdue Boilermakers",
+            "betType": "spread",
+            "pick": "Purdue Boilermakers -3.5",
+            "odds": "-106",
+            "confidence": "high",
+            "result": "L",
+            "score": "Washington Huskies 38, Purdue Boilermakers 26"
+          },
+          {
+            "game": "Washington Huskies vs Purdue Boilermakers",
+            "betType": "total",
+            "pick": "Under 50.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Huskies 38, Purdue Boilermakers 26"
+          },
+          {
+            "game": "App State Mountaineers vs Coastal Carolina Chanticleers",
+            "betType": "total",
+            "pick": "Over 48.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "App State Mountaineers 35, Coastal Carolina Chanticleers 32"
+          },
+          {
+            "game": "App State Mountaineers vs Coastal Carolina Chanticleers",
+            "betType": "spread",
+            "pick": "Coastal Carolina Chanticleers +1.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "App State Mountaineers 35, Coastal Carolina Chanticleers 32"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-15",
     "sports": [
       {
@@ -4381,153 +4501,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "TSG Hoffenheim 0, OFI CRETE 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-16",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Los Angeles Dodgers @ Cincinnati Reds",
-            "betType": "spread",
-            "pick": "Los Angeles Dodgers -1.5 (-128)",
-            "odds": "-128",
-            "confidence": "high",
-            "result": "L",
-            "score": "Los Angeles Dodgers 2, Cincinnati Reds 6"
-          },
-          {
-            "game": "New York Yankees @ Minnesota Twins",
-            "betType": "spread",
-            "pick": "New York Yankees -1.5 (+112)",
-            "odds": "+112",
-            "confidence": "high",
-            "result": "L",
-            "score": "New York Yankees 4, Minnesota Twins 5"
-          },
-          {
-            "game": "Philadelphia Phillies @ Washington Nationals",
-            "betType": "spread",
-            "pick": "Philadelphia Phillies -1.5 (-120)",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Philadelphia Phillies 3, Washington Nationals 0"
-          },
-          {
-            "game": "Chicago White Sox @ Cleveland Guardians",
-            "betType": "total",
-            "pick": "Over 6.5 (-144)",
-            "odds": "-144",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago White Sox 3, Cleveland Guardians 6"
-          },
-          {
-            "game": "San Diego Padres @ Colorado Rockies",
-            "betType": "total",
-            "pick": "Over 11.5 (+104)",
-            "odds": "+104",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Diego Padres 9, Colorado Rockies 3"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Syracuse Orange vs Pittsburgh Panthers",
-            "betType": "spread",
-            "pick": "Pittsburgh Panthers -10.5",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "W",
-            "score": "Syracuse Orange 13, Pittsburgh Panthers 27"
-          },
-          {
-            "game": "Syracuse Orange vs Pittsburgh Panthers",
-            "betType": "total",
-            "pick": "Under 51.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Syracuse Orange 13, Pittsburgh Panthers 27"
-          },
-          {
-            "game": "Syracuse Orange vs Pittsburgh Panthers",
-            "betType": "spread",
-            "pick": "Syracuse Orange +10.5",
-            "odds": "-115",
-            "confidence": "high",
-            "result": "L",
-            "score": "Syracuse Orange 13, Pittsburgh Panthers 27"
-          },
-          {
-            "game": "Syracuse Orange vs Pittsburgh Panthers",
-            "betType": "total",
-            "pick": "Over 51.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Syracuse Orange 13, Pittsburgh Panthers 27"
-          }
-        ]
-      },
-      {
-        "sport": "UEL",
-        "picks": [
-          {
-            "game": "Sparta Prague @ Ararat-Armenia",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Sparta Prague 4, ARARAT-ARMENIA 1"
-          },
-          {
-            "game": "Benfica @ AC Milan",
-            "betType": "moneyline",
-            "pick": "Benfica",
-            "odds": "+200",
-            "confidence": "high",
-            "result": "W",
-            "score": "Benfica 2, AC Milan 0"
-          },
-          {
-            "game": "Lyon @ Anderlecht",
-            "betType": "moneyline",
-            "pick": "Lyon",
-            "odds": "+135",
-            "confidence": "high",
-            "result": "W",
-            "score": "Lyon 2, Anderlecht 1"
-          },
-          {
-            "game": "Dinamo Zagreb @ Hapoel Be'er",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-175",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Dinamo Zagreb 0, Hapoel Be'er 0"
-          },
-          {
-            "game": "AZ Alkmaar @ Sunderland",
-            "betType": "total",
-            "pick": "Over 2.5",
-            "odds": "-145",
-            "confidence": "medium",
-            "result": "L",
-            "score": "AZ Alkmaar 0, Sunderland 1"
           }
         ]
       }
