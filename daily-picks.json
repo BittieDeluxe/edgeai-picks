@@ -1,206 +1,288 @@
 {
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T12:53:26.684Z",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T13:09:34.046Z",
   "sports": [
     {
       "sport": "NHL",
       "picks": [
         {
-          "game": "Ottawa Senators @ Philadelphia Flyers",
+          "game": "Columbus Blue Jackets vs Minnesota Wild",
+          "betType": "spread",
+          "pick": "Minnesota Wild -1.5",
+          "odds": "+136",
+          "confidence": "high",
+          "rationale": "The Minnesota Wild are at home with a strong 5-2-1 record, while the Columbus Blue Jackets are 3-3-0 and on a back-to-back after an overtime game, which often leads to fatigue. Minnesota has dominated recent head-to-head matchups, winning 7 of the last 10, including a decisive 5-2 victory in their most recent encounter. Wild goaltender Jesper Wallstedt boasts an impressive 5-1-1 record with a 2.13 GAA and .920 SV%, providing a significant edge over Columbus's offense which averages only 2.4 goals per game. Despite some defensive injuries for the Wild, their overall strong form and Columbus's fatigue and lower offensive output make Minnesota a strong favorite to win by multiple goals.",
+          "awayRecord": "3-3-0",
+          "homeRecord": "5-2-1",
+          "startTime": "2026-10-18T22:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Columbus Blue Jackets vs Minnesota Wild",
+          "betType": "prop",
+          "pick": "Quinn Hughes Over 0.5 Assists",
+          "odds": "-220",
+          "confidence": "high",
+          "rationale": "Quinn Hughes has been a consistent offensive force for the Minnesota Wild this season, recording 10 assists in 8 games, and notably, he has registered at least one assist in all eight of his games played. The Wild's power play operates at a respectable 25.7% efficiency, with Hughes often quarterbacking the unit. Facing a Columbus team on the second half of a back-to-back, fatigue could lead to more penalties and defensive breakdowns, creating ample opportunities for Hughes to contribute offensively. His consistent production and the favorable matchup against a tired opponent make this a high-confidence prop bet.",
+          "propPlayer": "Quinn Hughes",
+          "propTeam": "Minnesota Wild",
+          "awayRecord": "3-3-0",
+          "homeRecord": "5-2-1",
+          "startTime": "2026-10-18T22:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Columbus Blue Jackets vs Minnesota Wild",
           "betType": "total",
-          "pick": "Under 5.5",
-          "odds": "-112",
+          "pick": "Under 6.5",
+          "odds": "-122",
+          "confidence": "high",
+          "rationale": "The Minnesota Wild, despite some defensive injuries, benefit from strong goaltending by Jesper Wallstedt, who holds an impressive 2.13 GAA and .920 SV% this season. Columbus is on a back-to-back, which typically leads to decreased offensive output, and they currently average only 2.4 goals per game. While the Wild's offense averages 3.1 goals, the Blue Jackets' 3.3 GA/G combined with Minnesota's solid netminding suggests a game that stays under the 6.5 total. The combined average goals per game for both teams this season is 5.5, further supporting the Under.",
+          "awayRecord": "3-3-0",
+          "homeRecord": "5-2-1",
+          "startTime": "2026-10-18T22:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Carolina Hurricanes vs Calgary Flames",
+          "betType": "spread",
+          "pick": "Carolina Hurricanes -1.5",
+          "odds": "+114",
           "confidence": "medium",
-          "rationale": "The Philadelphia Flyers are struggling offensively, ranking last in the NHL with only 1.22 goals per game and managing just 18 shots in their last outing. They also rank last in shots per game and first in shots allowed, indicating a low-event offensive style. Ottawa's goaltender Linus Ullmark is off to a stellar 6-0-0 start, allowing two goals or fewer in all six of his victories. The Senators have also won their last two games with scores of 2-1, further supporting a low-scoring affair.",
-          "awayRecord": "6-2-0",
-          "homeRecord": "0-6-3",
-          "startTime": "2026-10-17T23:00Z",
+          "rationale": "The Carolina Hurricanes enter this game on a dominant seven-game winning streak, boasting a 7-1-1 record and outscoring opponents 32-15 during this run. In stark contrast, the Calgary Flames are struggling significantly with a 1-6-0 record and have been outscored 35-14 through their first seven games, including a recent 6-2 loss. Although Carolina is on a back-to-back, their impressive depth has consistently stepped up to cover for injuries, and their goaltending with Pyotr Kochetkov (5-0, 1.78 GAA) or expected starter Brandon Bussi (2-1-1, 3.00 GAA) is superior to Calgary's Dustin Wolf (1-4-0, 4.85 GAA). This disparity in form and goaltending strongly favors the Hurricanes to win by more than one goal.",
+          "awayRecord": "7-1-1",
+          "homeRecord": "1-6-0",
+          "startTime": "2026-10-19T00:00Z",
           "awayLast5": [
             "W",
             "W",
             "W",
-            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
             "L",
             "L",
             "L",
-            "L",
+            "W",
             "L"
           ]
         },
         {
-          "game": "Carolina Hurricanes @ Winnipeg Jets",
+          "game": "Carolina Hurricanes vs Calgary Flames",
           "betType": "total",
           "pick": "Under 6.5",
           "odds": "-130",
-          "confidence": "high",
-          "rationale": "The Carolina Hurricanes, despite their strong offensive numbers, are missing key forwards Jordan Staal (calf, out a month or two) and Taylor Hall (upper-body, week-to-week), which will impact their scoring depth. Winnipeg is also dealing with significant injuries to defenseman Josh Morrissey (week-to-week, wrist) and forward Vladislav Namestnikov (week-to-week, undisclosed), weakening both their defense and offense. Carolina's defense has been stout, holding opponents to 2.38 goals on 21.5 shots per game this season. The combined goals allowed per game for these two teams is 5.4, which is 1.1 goals fewer than the total set for this game.",
-          "awayRecord": "6-1-1",
-          "homeRecord": "4-1-2",
-          "startTime": "2026-10-17T19:30Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Pittsburgh Penguins @ Vegas Golden Knights",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "The Pittsburgh Penguins are on the second half of a back-to-back and have allowed 21 goals across their last four losses, indicating defensive vulnerability. Vegas's offense is potent, averaging 3.89 goals on 31 shots per game, with Jack Eichel and Mark Stone leading the charge. Pittsburgh has multiple defensemen out with lower-body injuries, including Justin Brazeau, Trevor van Riemsdyk, and Ryan Graves, which will further strain their defensive capabilities. The Golden Knights have won six of their past seven games, including a 6-2 victory in their last outing, demonstrating their offensive firepower.",
-          "awayRecord": "3-4-1",
-          "homeRecord": "7-2-0",
-          "startTime": "2026-10-18T02:00Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Seattle Kraken @ Florida Panthers",
-          "betType": "spread",
-          "pick": "Seattle Kraken +1.5",
-          "odds": "-162",
           "confidence": "medium",
-          "rationale": "The Seattle Kraken have a strong head-to-head record against the Panthers, going 3-0-2 in their last five matchups, including games when Florida was a Stanley Cup contender. Seattle is also performing well on the road with a 3-0-1 record on their current trip and a 5-2-1 overall record. The Panthers, despite a recent hat trick from Brady Tkachuk, have the 23rd-ranked offense in the league, scoring about one goal fewer per game than the Kraken. Florida is dealing with several injuries, including Jacob Markstrom (day-to-day, undisclosed), Jonah Gadjovich (out, upper-body), and Aleksander Barkov (out, lower body).",
-          "awayRecord": "5-2-1",
-          "homeRecord": "4-2-2",
-          "startTime": "2026-10-17T22:00Z",
+          "rationale": "While the Carolina Hurricanes possess a potent offense, averaging 3.7 goals per game, their defense is also elite, allowing only 2.1 goals per game this season. Calgary's offense is one of the league's worst, averaging just 2.2 goals per game, and they have been held to two goals or fewer in five of their seven games. Despite Calgary's poor defensive record (4.0 GA/G), Carolina's strong defensive play and goaltending, coupled with Calgary's anemic offense, suggest that the total goals will likely stay under 6.5. The Hurricanes' ability to control the pace and limit scoring chances, even on a back-to-back, should keep the score lower than anticipated by the high total.",
+          "awayRecord": "7-1-1",
+          "homeRecord": "1-6-0",
+          "startTime": "2026-10-19T00:00Z",
           "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
             "W",
             "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Dallas Stars @ Chicago Blackhawks",
-          "betType": "total",
-          "pick": "Over 5.5",
-          "odds": "-135",
-          "confidence": "medium",
-          "rationale": "The Dallas Stars are missing key offensive players Matt Duchene (core injury) and Oskar Bäck (finger), while Wyatt Johnston is questionable with an illness, potentially impacting their defensive structure. Chicago's defense has been below average, allowing 4.00 goals per game and 30.4 shots per game, ranking 28th in both categories. The Blackhawks have also given up 5 goals in their recent loss to the Penguins. With Dallas's offensive leaders like Mikko Rantanen and Miro Heiskanen still active and contributing points, they should be able to exploit Chicago's defensive weaknesses.",
-          "awayRecord": "3-3-1",
-          "homeRecord": "3-5-0",
-          "startTime": "2026-10-17T23:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
           ]
         }
       ]
     },
     {
-      "sport": "NCAAF",
+      "sport": "MLB",
       "picks": [
         {
-          "game": "Florida Atlantic Owls @ Army Black Knights",
+          "game": "Tampa Bay Rays vs Cleveland Guardians",
           "betType": "total",
-          "pick": "Under 55.5",
+          "pick": "Under 6.5",
           "odds": "-118",
           "confidence": "high",
-          "rationale": "Army's triple-option offense is designed to run the clock and limit possessions, inherently leading to lower-scoring games. This methodical style of play consistently results in unders, regardless of the opponent's offensive capabilities. Florida Atlantic will have fewer opportunities to score, and Army's long, grinding drives will keep the clock moving. The total of 55.5 is relatively high for a game involving Army's unique offensive scheme.",
-          "awayRecord": "4-1",
-          "homeRecord": "3-2",
-          "startTime": "2026-10-17T16:00Z",
+          "rationale": "Both Drew Rasmussen (1.29 postseason ERA) and Parker Messick (2.56 regular season ERA) are strong starters, setting up a low-scoring affair. Cleveland's bullpen is particularly stingy with a 2.08 ERA and 0.79 WHIP, capable of shutting down late-game rallies. Recent head-to-head matchups in this ALCS have seen two games go Under this total (3-1, 3-2). Furthermore, the line movement has shifted towards the Under, indicating sharp money.",
+          "awayRecord": "98-64",
+          "homeRecord": "85-77",
+          "startTime": "2026-10-18T21:00Z",
           "awayLast5": [
+            "W",
             "L",
             "W",
-            "W",
-            "W",
+            "L",
             "W"
           ],
           "homeLast5": [
             "W",
+            "W",
             "L",
             "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Tampa Bay Rays vs Cleveland Guardians",
+          "betType": "moneyline",
+          "pick": "Cleveland Guardians",
+          "odds": "+113",
+          "confidence": "high",
+          "rationale": "Cleveland enters this game in superior recent form, boasting an 8-2 record over their last 10 games, and they hold a significant home-field advantage. A betting model projects the Guardians to win with a 52.2% probability, offering a 3.9% edge at the current moneyline odds. Their strong bullpen, with a 2.08 ERA and 0.79 WHIP, provides a crucial edge in what is expected to be a tight, low-scoring contest. This matchup is anticipated to be a one-run game more often than implied by the market, making the home underdog a valuable play.",
+          "awayRecord": "98-64",
+          "homeRecord": "85-77",
+          "startTime": "2026-10-18T21:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Tampa Bay Rays vs Cleveland Guardians",
+          "betType": "spread",
+          "pick": "Cleveland Guardians +1.5",
+          "odds": "-163",
+          "confidence": "high",
+          "rationale": "Given the expectation of a closely contested Game 5 in the ALCS, the Guardians +1.5 spread offers strong value. The model projects a narrow Cleveland victory, suggesting the game will often be decided by a single run. Cleveland's excellent recent home form and their reliable bullpen are key factors in keeping games tight and preventing blowouts. Even if the Rays manage a win, it is highly probable to be by a single run against a resilient Guardians team playing at home.",
+          "awayRecord": "98-64",
+          "homeRecord": "85-77",
+          "startTime": "2026-10-18T21:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "NFL",
+      "picks": [
+        {
+          "game": "Chicago Bears vs Atlanta Falcons",
+          "betType": "total",
+          "pick": "Over 52.5",
+          "odds": "-118",
+          "confidence": "high",
+          "rationale": "The total for this game has seen significant line movement, increasing by four points from an opening of 47.5 to the current 52.5, indicating strong market confidence in a high-scoring affair. This movement is largely attributed to the expected return of both starting quarterbacks, Caleb Williams for the Bears and Michael Penix Jr. for the Falcons, who was cleared to play after a rib injury. Both offenses have demonstrated high-scoring capabilities this season, with the Bears putting up 59 points in Week 1 and the Falcons scoring 35, 45, and 23 points in games with Penix at quarterback. Playing indoors at Mercedes-Benz Stadium further minimizes environmental factors that could hinder offensive production, setting the stage for plenty of offense.",
+          "awayRecord": "3-2",
+          "homeRecord": "2-3",
+          "startTime": "2026-10-18T17:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Pittsburgh Steelers vs Tampa Bay Buccaneers",
+          "betType": "total",
+          "pick": "Under 38.5",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "The total for this matchup has dipped from an opening of 39.5 to 38.5, signaling market expectation for a low-scoring contest. Head-to-head history between these two teams supports this, with the last three games decided by three or fewer points, including a 20-18 Steelers victory in 2022. Furthermore, historical data shows the total points going Over in only 33.3% of their past head-to-head results. Both teams are likely to engage in a physical, trench-heavy battle, making it difficult for either offense to consistently put up big numbers against defenses that tend to keep games tight.",
+          "awayRecord": "3-2",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-18T17:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
             "L",
             "W"
           ]
         },
         {
-          "game": "Navy Midshipmen @ UTSA Roadrunners",
+          "game": "Buffalo Bills vs Las Vegas Raiders",
           "betType": "total",
-          "pick": "Under 54.5",
+          "pick": "Over 53.5",
           "odds": "-112",
           "confidence": "medium",
-          "rationale": "Similar to Army, Navy employs a triple-option offense that focuses on ground control and clock management, drastically reducing the number of possessions in a game. This offensive scheme makes it difficult for either team to rack up points, as drives are extended and the clock continuously runs. UTSA, despite their strong record, will face a unique challenge in defending Navy's option, which often leads to fewer offensive plays overall. This game sets up well for a low-scoring affair due to Navy's style of play.",
-          "awayRecord": "2-3",
-          "homeRecord": "5-1",
-          "startTime": "2026-10-18T00:00Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Penn State Nittany Lions @ Michigan Wolverines",
-          "betType": "total",
-          "pick": "Under 42.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "Both Penn State and Michigan are renowned for their stout defenses and more conservative, run-first offensive approaches, especially in Big Ten conference play. Historically, matchups between these two teams, and Big Ten rivalry games in general, tend to be defensive struggles where points are at a premium. The low total of 42.5 reflects this expectation, and the consistent defensive strengths of both teams make the under a strong play. Expect a physical, low-scoring battle.",
-          "awayRecord": "3-3",
+          "rationale": "The total for this game has seen a substantial increase, skyrocketing from an opening of 48.5 all the way to 53.5, indicating strong market belief in a high-scoring game. Recent head-to-head history strongly supports the Over, with 100% of the last two recorded matchups going over the total, averaging 51 points per game. The Bills have also dominated recent meetings, including a 38-10 victory in Week 2 of the 2023 season, demonstrating their offensive firepower against the Raiders. With both teams having winning records and offensive capabilities, this game is poised for an elevated score.",
+          "awayRecord": "4-1",
           "homeRecord": "3-2",
-          "startTime": "2026-10-17T19:30Z",
+          "startTime": "2026-10-18T20:25Z",
           "awayLast5": [
             "W",
             "W",
+            "W",
             "L",
-            "L",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "W",
@@ -211,52 +293,51 @@
           ]
         },
         {
-          "game": "Pittsburgh Panthers @ Boston College Eagles",
-          "betType": "total",
-          "pick": "Under 42.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Pittsburgh is known for its strong defensive front and a grinding offensive style, while Boston College often struggles with offensive consistency, relying heavily on its run game. Historically, games between these two teams have often been lower-scoring affairs, characterized by tough defense and limited explosive plays. With both teams having tendencies towards defensive battles and offensive limitations, this total of 42.5 is attractive for the under. Expect a hard-fought, low-scoring contest.",
-          "awayRecord": "5-1",
-          "homeRecord": "2-3",
-          "startTime": "2026-10-17T16:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Kansas Jayhawks @ Kansas State Wildcats",
+          "game": "Carolina Panthers vs Philadelphia Eagles",
           "betType": "spread",
-          "pick": "Kansas State Wildcats -3.5",
-          "odds": "-108",
+          "pick": "Carolina Panthers -3",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "Kansas State has a significant historical advantage over Kansas in the 'Sunflower Showdown,' winning 14 of the last 15 matchups and often covering the spread. The Wildcats are typically a well-coached team with a strong running game and solid defense, which tends to wear down opponents over four quarters. Despite Kansas's recent improvements, the rivalry dominance and Kansas State's consistent performance against their in-state foe make them a confident spread pick at home. This is a game where historical trends strongly favor the Wildcats.",
-          "awayRecord": "2-3",
-          "homeRecord": "3-2",
-          "startTime": "2026-10-17T16:00Z",
+          "rationale": "The spread for this game has seen significant movement in favor of the Panthers, shifting from an opening of -1.5 to the current -3. This sharp movement is primarily driven by the injury to Eagles' quarterback Jalen Hurts, which severely impacts Philadelphia's offensive capabilities. The market is clearly backing Carolina to cover this spread, recognizing the Panthers' advantage against a weakened Eagles team. Following this strong market momentum, the Panthers are in a prime position to secure a victory by more than a field goal on the road.",
+          "awayRecord": "2-2",
+          "homeRecord": "2-3",
+          "startTime": "2026-10-18T17:00Z",
           "awayLast5": [
-            "W",
-            "L",
             "L",
             "W",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
             "W",
             "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Baltimore Ravens vs Cleveland Browns",
+          "betType": "spread",
+          "pick": "Cleveland Browns +3",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "There has been massive line movement in favor of the Cleveland Browns, as they opened as 6.5-point underdogs and are now sitting at +3. This significant shift, along with their moneyline shortening dramatically from +223 to +140, indicates strong sharp money coming in on the home underdog. In a divisional matchup, home teams often play above expectations, and this line movement suggests the market believes the Browns are undervalued. With the line now at a key number of +3, the Browns are in a strong position to either win outright or keep the game within a field goal.",
+          "awayRecord": "4-1",
+          "homeRecord": "3-2",
+          "startTime": "2026-10-18T17:00Z",
+          "awayLast5": [
             "W",
             "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
             "L"
           ]
         }
@@ -266,59 +347,26 @@
       "sport": "MLS",
       "picks": [
         {
-          "game": "Charlotte FC @ Philadelphia Union",
+          "game": "Columbus Crew @ FC Cincinnati",
           "betType": "total",
           "pick": "Over 3.5",
-          "odds": "-145",
+          "odds": "-118",
           "confidence": "high",
-          "rationale": "Philadelphia Union's last five matches show a perfect W-W-W-W-W streak, indicating strong offensive output. They have scored 59 goals this season, with an average of 2.67 goals per game. Charlotte FC has scored 51 goals this season, contributing to a high-scoring potential. Both teams demonstrate an ability to find the back of the net, making the Over 3.5 a compelling pick.",
-          "awayRecord": "13-7-9",
-          "homeRecord": "13-6-10",
-          "startTime": "2026-10-17T18:30Z"
+          "rationale": "The 'Hell is Real Derby' between FC Cincinnati and Columbus Crew has historically been high-scoring, with an average of 3.4 goals per meeting in their last five matchups and 76% of their last 21 head-to-head games exceeding 2.5 goals. FC Cincinnati's defense is a major concern, having conceded 68 goals in 28 league matches this season, the worst among the bottom ten teams, and shipping multiple goals in four of their last five fixtures. Additionally, key FC Cincinnati players like Miles Robinson (defender), José Martínez (midfielder), and Evander (midfielder) are out with injuries, further weakening their squad. Columbus Crew has also shown offensive prowess, with 71% of their MLS games going over 2.5 goals and scoring 3 goals in their last league win.",
+          "awayRecord": "9-5-15",
+          "homeRecord": "9-9-10",
+          "startTime": "2026-10-18T21:00Z"
         },
         {
-          "game": "St. Louis CITY SC @ Minnesota United FC",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+115",
-          "confidence": "medium",
-          "rationale": "St. Louis CITY SC is in excellent form with a 14-9-6 record and a +16 goal differential, scoring 54 goals this season. Their recent form includes four wins and a draw in their last five matches, highlighting their strong offensive capabilities. Minnesota United FC, conversely, has a poor record of 7-10-12 with a -10 goal differential and a recent form of four losses and a draw, suggesting defensive vulnerabilities. The combination of St. Louis's potent attack and Minnesota's struggling defense points towards a high-scoring game.",
-          "awayRecord": "14-9-6",
-          "homeRecord": "7-10-12",
-          "startTime": "2026-10-17T20:30Z"
-        },
-        {
-          "game": "Inter Miami CF @ Atlanta United FC",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-135",
-          "confidence": "high",
-          "rationale": "Inter Miami CF leads the league with 68 goals scored this season, with Lionel Messi contributing 23 goals. Their recent form includes two wins and a draw in their last three matches, showcasing their offensive power. Atlanta United FC is in very poor form with an 8-6-15 record and a -15 goal differential, having conceded 48 goals. Given Inter Miami's prolific attack against Atlanta's struggling defense, the Over 3.5 is a strong pick.",
-          "awayRecord": "14-10-5",
-          "homeRecord": "8-6-15",
-          "startTime": "2026-10-17T23:30Z"
-        },
-        {
-          "game": "Chicago Fire FC @ New England Revolution",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+105",
-          "confidence": "medium",
-          "rationale": "Chicago Fire FC has a very good record of 14-6-9, scoring 51 goals this season, with an average of 4.11 goals per game in their matches. New England Revolution also shows good form with a 15-4-10 record, scoring 45 goals and averaging 3.92 goals per game. Both teams have high 'Both Teams To Score' percentages (Chicago 68%, New England 73%), indicating a propensity for open, high-scoring contests. With both offenses performing well and the total set at 3.5 with plus money on the Over, this offers excellent value.",
-          "awayRecord": "14-6-9",
-          "homeRecord": "15-4-10",
-          "startTime": "2026-10-17T23:30Z"
-        },
-        {
-          "game": "Nashville SC @ San Jose Earthquakes",
+          "game": "Columbus Crew @ FC Cincinnati",
           "betType": "moneyline",
-          "pick": "Nashville SC",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "Nashville SC is the top team in MLS with an excellent 20-6-3 record and a remarkable +41 goal differential, scoring 63 goals and conceding only 22. Their recent form is dominant, with four wins and a draw in their last five matches. San Jose Earthquakes, despite a decent overall record of 13-8-8, have a poor home form of 6 wins, 3 draws, and 5 losses. Considering Nashville's league-leading performance and San Jose's struggles at home, Nashville SC at -108 offers strong value for a moneyline pick.",
-          "awayRecord": "20-6-3",
-          "homeRecord": "13-8-8",
-          "startTime": "2026-10-18T02:30Z"
+          "pick": "Columbus Crew",
+          "odds": "+165",
+          "confidence": "high",
+          "rationale": "Columbus Crew enters this rivalry game in superior recent form, winning three of their last five matches, including a recent 3-1 victory against Charlotte FC. In contrast, FC Cincinnati is on a three-match winless streak at home and possesses a highly vulnerable defense, allowing 68 goals in 28 league games and multiple goals in four of their last five outings. The absence of key FC Cincinnati players like defenders Miles Robinson and midfielder Evander due to injury significantly weakens the home side. The betting line movement also indicates market confidence shifting away from FC Cincinnati and towards Columbus Crew.",
+          "awayRecord": "9-5-15",
+          "homeRecord": "9-9-10",
+          "startTime": "2026-10-18T21:00Z"
         }
       ]
     }
