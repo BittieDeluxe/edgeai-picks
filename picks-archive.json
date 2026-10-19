@@ -1,5 +1,166 @@
 [
   {
+    "date": "2026-10-18",
+    "sports": [
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Columbus Blue Jackets vs Minnesota Wild",
+            "betType": "spread",
+            "pick": "Minnesota Wild -1.5",
+            "odds": "+136",
+            "confidence": "high",
+            "result": "L",
+            "score": "Columbus Blue Jackets 1, Minnesota Wild 2"
+          },
+          {
+            "game": "Columbus Blue Jackets vs Minnesota Wild",
+            "betType": "prop",
+            "pick": "Quinn Hughes Over 0.5 Assists",
+            "odds": "-220",
+            "confidence": "high",
+            "result": "L",
+            "score": "Quinn Hughes: 0 Assists (line 0.5)"
+          },
+          {
+            "game": "Columbus Blue Jackets vs Minnesota Wild",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "W",
+            "score": "Columbus Blue Jackets 1, Minnesota Wild 2"
+          },
+          {
+            "game": "Carolina Hurricanes vs Calgary Flames",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Carolina Hurricanes 2, Calgary Flames 3"
+          },
+          {
+            "game": "Carolina Hurricanes vs Calgary Flames",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Hurricanes 2, Calgary Flames 3"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Tampa Bay Rays vs Cleveland Guardians",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 3, Cleveland Guardians 1"
+          },
+          {
+            "game": "Tampa Bay Rays vs Cleveland Guardians",
+            "betType": "moneyline",
+            "pick": "Cleveland Guardians",
+            "odds": "+113",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Rays 3, Cleveland Guardians 1"
+          },
+          {
+            "game": "Tampa Bay Rays vs Cleveland Guardians",
+            "betType": "spread",
+            "pick": "Cleveland Guardians +1.5",
+            "odds": "-163",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Rays 3, Cleveland Guardians 1"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Chicago Bears vs Atlanta Falcons",
+            "betType": "total",
+            "pick": "Over 52.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago Bears 31, Atlanta Falcons 23"
+          },
+          {
+            "game": "Pittsburgh Steelers vs Tampa Bay Buccaneers",
+            "betType": "total",
+            "pick": "Under 38.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Pittsburgh Steelers 26, Tampa Bay Buccaneers 19"
+          },
+          {
+            "game": "Buffalo Bills vs Las Vegas Raiders",
+            "betType": "total",
+            "pick": "Over 53.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Buffalo Bills 33, Las Vegas Raiders 30"
+          },
+          {
+            "game": "Carolina Panthers vs Philadelphia Eagles",
+            "betType": "spread",
+            "pick": "Carolina Panthers -3",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Panthers 25, Philadelphia Eagles 14"
+          },
+          {
+            "game": "Baltimore Ravens vs Cleveland Browns",
+            "betType": "spread",
+            "pick": "Cleveland Browns +3",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Baltimore Ravens 10, Cleveland Browns 13"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Columbus Crew @ FC Cincinnati",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Columbus Crew 2, FC Cincinnati 0"
+          },
+          {
+            "game": "Columbus Crew @ FC Cincinnati",
+            "betType": "moneyline",
+            "pick": "Columbus Crew",
+            "odds": "+165",
+            "confidence": "high",
+            "result": "W",
+            "score": "Columbus Crew 2, FC Cincinnati 0"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-17",
     "sports": [
       {
@@ -4444,85 +4605,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Orlando City SC 2, New England Revolution 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-18",
-    "sports": [
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Miami Hurricanes vs Wake Forest Demon Deacons",
-            "betType": "total",
-            "pick": "Over 55.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Miami Hurricanes 33, Wake Forest Demon Deacons 20"
-          },
-          {
-            "game": "Houston Cougars vs Texas Tech Red Raiders",
-            "betType": "spread",
-            "pick": "Houston Cougars +7.5",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "W",
-            "score": "Houston Cougars 26, Texas Tech Red Raiders 28"
-          },
-          {
-            "game": "Portland State Vikings vs Oregon Ducks",
-            "betType": "total",
-            "pick": "Over 68.5",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Portland State Vikings 0, Oregon Ducks 84"
-          },
-          {
-            "game": "Miami Hurricanes vs Wake Forest Demon Deacons",
-            "betType": "spread",
-            "pick": "Wake Forest Demon Deacons +20.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Miami Hurricanes 33, Wake Forest Demon Deacons 20"
-          },
-          {
-            "game": "Houston Cougars vs Texas Tech Red Raiders",
-            "betType": "total",
-            "pick": "Over 52.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Houston Cougars 26, Texas Tech Red Raiders 28"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Red Bull New York vs New York City FC",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-165",
-            "confidence": "high",
-            "result": "W",
-            "score": "Red Bull New York 1, New York City FC 0"
-          },
-          {
-            "game": "Red Bull New York vs New York City FC",
-            "betType": "moneyline",
-            "pick": "Red Bull New York",
-            "odds": "+280",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Red Bull New York 1, New York City FC 0"
           }
         ]
       }

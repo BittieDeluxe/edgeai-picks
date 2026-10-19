@@ -1,134 +1,132 @@
 {
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T13:09:34.046Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T16:24:21.691Z",
   "sports": [
     {
       "sport": "NHL",
       "picks": [
         {
-          "game": "Columbus Blue Jackets vs Minnesota Wild",
-          "betType": "spread",
-          "pick": "Minnesota Wild -1.5",
-          "odds": "+136",
-          "confidence": "high",
-          "rationale": "The Minnesota Wild are at home with a strong 5-2-1 record, while the Columbus Blue Jackets are 3-3-0 and on a back-to-back after an overtime game, which often leads to fatigue. Minnesota has dominated recent head-to-head matchups, winning 7 of the last 10, including a decisive 5-2 victory in their most recent encounter. Wild goaltender Jesper Wallstedt boasts an impressive 5-1-1 record with a 2.13 GAA and .920 SV%, providing a significant edge over Columbus's offense which averages only 2.4 goals per game. Despite some defensive injuries for the Wild, their overall strong form and Columbus's fatigue and lower offensive output make Minnesota a strong favorite to win by multiple goals.",
-          "awayRecord": "3-3-0",
-          "homeRecord": "5-2-1",
-          "startTime": "2026-10-18T22:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Columbus Blue Jackets vs Minnesota Wild",
-          "betType": "prop",
-          "pick": "Quinn Hughes Over 0.5 Assists",
-          "odds": "-220",
-          "confidence": "high",
-          "rationale": "Quinn Hughes has been a consistent offensive force for the Minnesota Wild this season, recording 10 assists in 8 games, and notably, he has registered at least one assist in all eight of his games played. The Wild's power play operates at a respectable 25.7% efficiency, with Hughes often quarterbacking the unit. Facing a Columbus team on the second half of a back-to-back, fatigue could lead to more penalties and defensive breakdowns, creating ample opportunities for Hughes to contribute offensively. His consistent production and the favorable matchup against a tired opponent make this a high-confidence prop bet.",
-          "propPlayer": "Quinn Hughes",
-          "propTeam": "Minnesota Wild",
-          "awayRecord": "3-3-0",
-          "homeRecord": "5-2-1",
-          "startTime": "2026-10-18T22:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Columbus Blue Jackets vs Minnesota Wild",
+          "game": "San Jose Sharks vs Toronto Maple Leafs",
           "betType": "total",
           "pick": "Under 6.5",
-          "odds": "-122",
-          "confidence": "high",
-          "rationale": "The Minnesota Wild, despite some defensive injuries, benefit from strong goaltending by Jesper Wallstedt, who holds an impressive 2.13 GAA and .920 SV% this season. Columbus is on a back-to-back, which typically leads to decreased offensive output, and they currently average only 2.4 goals per game. While the Wild's offense averages 3.1 goals, the Blue Jackets' 3.3 GA/G combined with Minnesota's solid netminding suggests a game that stays under the 6.5 total. The combined average goals per game for both teams this season is 5.5, further supporting the Under.",
-          "awayRecord": "3-3-0",
-          "homeRecord": "5-2-1",
-          "startTime": "2026-10-18T22:00Z",
+          "odds": "+106",
+          "confidence": "medium",
+          "rationale": "The Toronto Maple Leafs are significantly impacted by injuries, with Max Domi, Christopher Tanev, and John Tavares all out, and William Nylander questionable due to illness, which severely limits their offensive firepower. While both teams have shown defensive inconsistencies, the recent head-to-head trend between the Sharks and Maple Leafs has seen the total go under 6.5 in the last two meetings and 60% of the last five. San Jose's average goals allowed per game is 3.5, but Toronto's weakened offense is unlikely to exploit this fully. Given the key absences for Toronto and the recent H2H trends, the Under 6.5 at plus money offers strong value.",
+          "awayRecord": "4-3-1",
+          "homeRecord": "3-4-2",
+          "startTime": "2026-10-19T23:30Z",
           "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
             "L",
             "W",
             "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Colorado Avalanche vs Philadelphia Flyers",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "+108",
+          "confidence": "medium",
+          "rationale": "The Colorado Avalanche boast a potent offense, ranking 3rd in the NHL with 36 goals in 8 games, averaging 4.5 goals per game. The Philadelphia Flyers are dealing with potential injuries to key forwards Tyson Foerster and Sean Couturier, both listed as game-time decisions, which could impact their defensive structure and overall team play. Colorado has recently demonstrated its scoring prowess with a 5-2 win over Pittsburgh and a 7-3 victory against Calgary. The Flyers' defense has struggled in recent head-to-head matchups with the Avalanche in the 2020s, allowing an average of 3.8 goals per game. With Colorado's high-octane offense and Philadelphia's defensive uncertainties, the Over 6.5 at plus money is a high-confidence play.",
+          "awayRecord": "5-2-1",
+          "homeRecord": "1-6-3",
+          "startTime": "2026-10-19T23:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
             "L",
             "W"
           ],
           "homeLast5": [
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
             "L",
             "W"
           ]
         },
         {
-          "game": "Carolina Hurricanes vs Calgary Flames",
-          "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "+114",
-          "confidence": "medium",
-          "rationale": "The Carolina Hurricanes enter this game on a dominant seven-game winning streak, boasting a 7-1-1 record and outscoring opponents 32-15 during this run. In stark contrast, the Calgary Flames are struggling significantly with a 1-6-0 record and have been outscored 35-14 through their first seven games, including a recent 6-2 loss. Although Carolina is on a back-to-back, their impressive depth has consistently stepped up to cover for injuries, and their goaltending with Pyotr Kochetkov (5-0, 1.78 GAA) or expected starter Brandon Bussi (2-1-1, 3.00 GAA) is superior to Calgary's Dustin Wolf (1-4-0, 4.85 GAA). This disparity in form and goaltending strongly favors the Hurricanes to win by more than one goal.",
-          "awayRecord": "7-1-1",
-          "homeRecord": "1-6-0",
-          "startTime": "2026-10-19T00:00Z",
+          "game": "Pittsburgh Penguins vs Utah Mammoth",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "-130",
+          "confidence": "high",
+          "rationale": "The Pittsburgh Penguins are on a tough road trip, coming off back-to-back losses where they conceded 6 goals to Vegas and 5 to Colorado, highlighting defensive vulnerabilities and potential fatigue. The Utah Mammoth possess a strong offense and an exceptional power play, converting over one-third of their opportunities, which can exploit Pittsburgh's respectable but not airtight penalty kill. Head-to-head matchups between these teams have historically been high-scoring, averaging 7 goals per game. Utah has won 3 of its last 5 games, scoring 4 or more goals in those victories, while Pittsburgh has allowed 5 or more goals in 3 of its last 5 outings. These factors combine to create a strong expectation for a high-scoring affair.",
+          "awayRecord": "3-5-1",
+          "homeRecord": "6-3-0",
+          "startTime": "2026-10-20T01:00Z",
           "awayLast5": [
+            "L",
             "W",
-            "W",
-            "W",
-            "W",
-            "W"
+            "L",
+            "L",
+            "L"
           ],
           "homeLast5": [
             "L",
-            "L",
-            "L",
+            "W",
+            "W",
             "W",
             "L"
           ]
         },
         {
-          "game": "Carolina Hurricanes vs Calgary Flames",
-          "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "-130",
+          "game": "Anaheim Ducks vs New York Rangers",
+          "betType": "moneyline",
+          "pick": "New York Rangers",
+          "odds": "-152",
           "confidence": "medium",
-          "rationale": "While the Carolina Hurricanes possess a potent offense, averaging 3.7 goals per game, their defense is also elite, allowing only 2.1 goals per game this season. Calgary's offense is one of the league's worst, averaging just 2.2 goals per game, and they have been held to two goals or fewer in five of their seven games. Despite Calgary's poor defensive record (4.0 GA/G), Carolina's strong defensive play and goaltending, coupled with Calgary's anemic offense, suggest that the total goals will likely stay under 6.5. The Hurricanes' ability to control the pace and limit scoring chances, even on a back-to-back, should keep the score lower than anticipated by the high total.",
-          "awayRecord": "7-1-1",
-          "homeRecord": "1-6-0",
-          "startTime": "2026-10-19T00:00Z",
+          "rationale": "The New York Rangers, with a 6-3-1 record, exhibit a solid defensive structure and will be playing at home. The Anaheim Ducks are severely hampered by injuries to key offensive players Troy Terry, Mikael Granlund (questionable), and Ryan Poehling, which will significantly diminish their scoring capabilities. Historically, the Rangers have a favorable record against the Ducks, winning 10 of 16 all-time meetings. The moneyline has seen a modest shift towards the Rangers, indicating market confidence in the home favorite. With Anaheim's depleted forward group and New York's defensive strength at home, the Rangers are well-positioned for a win.",
+          "awayRecord": "4-3-0",
+          "homeRecord": "6-3-1",
+          "startTime": "2026-10-19T23:00Z",
           "awayLast5": [
+            "L",
             "W",
             "W",
-            "W",
-            "W",
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "San Jose Sharks vs Toronto Maple Leafs",
+          "betType": "prop",
+          "pick": "Auston Matthews Over 0.5 Goals",
+          "odds": "+120",
+          "confidence": "medium",
+          "rationale": "Auston Matthews is an elite goal scorer and will be heavily relied upon for offense, especially with key Maple Leafs forwards John Tavares and Max Domi out, and William Nylander questionable. The San Jose Sharks present a favorable matchup for Matthews, as they have struggled defensively, allowing an average of 3.5 goals per game. Matthews is projected to score over 0.5 goals in this game. His high shot volume and scoring ability, combined with San Jose's defensive weaknesses, make him a strong candidate to find the back of the net. The plus money odds offer excellent value for this prop.",
+          "awayRecord": "4-3-1",
+          "homeRecord": "3-4-2",
+          "startTime": "2026-10-19T23:30Z",
+          "awayLast5": [
+            "W",
             "L",
             "L",
             "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
             "L"
           ]
         }
@@ -138,78 +136,78 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Tampa Bay Rays vs Cleveland Guardians",
+          "game": "Cleveland Guardians vs Tampa Bay Rays",
+          "betType": "moneyline",
+          "pick": "Tampa Bay Rays",
+          "odds": "-154",
+          "confidence": "high",
+          "rationale": "The Tampa Bay Rays are playing at home, where they boast a strong 58-27 record in 2026, including playoff games. They enter this pivotal ALCS Game 6 with significant momentum, leading the series 3-2 after winning their last two matchups against the Guardians. Rays' starting pitcher Freddy Peralta is in exceptional form, having posted a 0.96 ERA in September and delivering six scoreless innings against Cleveland in Game 2 of this series. In contrast, the Guardians are facing an elimination game with a planned bullpen day, as their ace Gavin Williams is being held for a potential Game 7, creating a considerable pitching disadvantage.",
+          "awayRecord": "85-77",
+          "homeRecord": "98-64",
+          "startTime": "2026-10-20T00:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Cleveland Guardians vs Tampa Bay Rays",
           "betType": "total",
           "pick": "Under 6.5",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "Both Drew Rasmussen (1.29 postseason ERA) and Parker Messick (2.56 regular season ERA) are strong starters, setting up a low-scoring affair. Cleveland's bullpen is particularly stingy with a 2.08 ERA and 0.79 WHIP, capable of shutting down late-game rallies. Recent head-to-head matchups in this ALCS have seen two games go Under this total (3-1, 3-2). Furthermore, the line movement has shifted towards the Under, indicating sharp money.",
-          "awayRecord": "98-64",
-          "homeRecord": "85-77",
-          "startTime": "2026-10-18T21:00Z",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "Freddy Peralta's dominant pitching is a key factor for the Under, as he previously held this Guardians lineup scoreless over six innings in Game 2 of the ALCS. The Cleveland Guardians' offense has been struggling, batting only .200 in their last five head-to-head games against the Rays and managing just four runs combined in their last two contests. While Cleveland is utilizing a bullpen game, the low total of 6.5 suggests an expectation of limited scoring, especially given the high stakes of an elimination game. Furthermore, three of the last five ALCS games between these two teams have resulted in the total going Under 6.5 runs.",
+          "awayRecord": "85-77",
+          "homeRecord": "98-64",
+          "startTime": "2026-10-20T00:00Z",
           "awayLast5": [
             "W",
             "L",
             "W",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "W",
             "L",
             "W",
-            "L"
+            "W"
           ]
         },
         {
-          "game": "Tampa Bay Rays vs Cleveland Guardians",
-          "betType": "moneyline",
-          "pick": "Cleveland Guardians",
-          "odds": "+113",
-          "confidence": "high",
-          "rationale": "Cleveland enters this game in superior recent form, boasting an 8-2 record over their last 10 games, and they hold a significant home-field advantage. A betting model projects the Guardians to win with a 52.2% probability, offering a 3.9% edge at the current moneyline odds. Their strong bullpen, with a 2.08 ERA and 0.79 WHIP, provides a crucial edge in what is expected to be a tight, low-scoring contest. This matchup is anticipated to be a one-run game more often than implied by the market, making the home underdog a valuable play.",
-          "awayRecord": "98-64",
-          "homeRecord": "85-77",
-          "startTime": "2026-10-18T21:00Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays vs Cleveland Guardians",
+          "game": "Cleveland Guardians vs Tampa Bay Rays",
           "betType": "spread",
-          "pick": "Cleveland Guardians +1.5",
-          "odds": "-163",
+          "pick": "Tampa Bay Rays -1.5",
+          "odds": "+146",
           "confidence": "high",
-          "rationale": "Given the expectation of a closely contested Game 5 in the ALCS, the Guardians +1.5 spread offers strong value. The model projects a narrow Cleveland victory, suggesting the game will often be decided by a single run. Cleveland's excellent recent home form and their reliable bullpen are key factors in keeping games tight and preventing blowouts. Even if the Rays manage a win, it is highly probable to be by a single run against a resilient Guardians team playing at home.",
-          "awayRecord": "98-64",
-          "homeRecord": "85-77",
-          "startTime": "2026-10-18T21:00Z",
+          "rationale": "The Tampa Bay Rays are strong contenders at home, boasting a 58-27 record at Tropicana Field this season, including playoff games. Their starting pitcher, Freddy Peralta, has been exceptional, allowing only one run over 6 2/3 total innings against the Guardians in this ALCS, including a six-inning scoreless outing in Game 2. Cleveland is forced into a bullpen game due to their ace being rested for a potential Game 7, presenting a significant disadvantage against a hot Rays lineup and pitching staff. The Rays have demonstrated their ability to cover this spread, winning their last two games against the Guardians by margins of four runs (7-3) and two runs (3-1).",
+          "awayRecord": "85-77",
+          "homeRecord": "98-64",
+          "startTime": "2026-10-20T00:00Z",
           "awayLast5": [
             "W",
             "L",
             "W",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
-            "W",
+            "L",
             "W",
             "L",
             "W",
-            "L"
+            "W"
           ]
         }
       ]
@@ -218,155 +216,129 @@
       "sport": "NFL",
       "picks": [
         {
-          "game": "Chicago Bears vs Atlanta Falcons",
+          "game": "Washington Commanders vs San Francisco 49ers",
           "betType": "total",
-          "pick": "Over 52.5",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "The total for this game has seen significant line movement, increasing by four points from an opening of 47.5 to the current 52.5, indicating strong market confidence in a high-scoring affair. This movement is largely attributed to the expected return of both starting quarterbacks, Caleb Williams for the Bears and Michael Penix Jr. for the Falcons, who was cleared to play after a rib injury. Both offenses have demonstrated high-scoring capabilities this season, with the Bears putting up 59 points in Week 1 and the Falcons scoring 35, 45, and 23 points in games with Penix at quarterback. Playing indoors at Mercedes-Benz Stadium further minimizes environmental factors that could hinder offensive production, setting the stage for plenty of offense.",
-          "awayRecord": "3-2",
-          "homeRecord": "2-3",
-          "startTime": "2026-10-18T17:00Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Pittsburgh Steelers vs Tampa Bay Buccaneers",
-          "betType": "total",
-          "pick": "Under 38.5",
-          "odds": "-102",
+          "pick": "Under 51.5",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "The total for this matchup has dipped from an opening of 39.5 to 38.5, signaling market expectation for a low-scoring contest. Head-to-head history between these two teams supports this, with the last three games decided by three or fewer points, including a 20-18 Steelers victory in 2022. Furthermore, historical data shows the total points going Over in only 33.3% of their past head-to-head results. Both teams are likely to engage in a physical, trench-heavy battle, making it difficult for either offense to consistently put up big numbers against defenses that tend to keep games tight.",
-          "awayRecord": "3-2",
-          "homeRecord": "1-4",
-          "startTime": "2026-10-18T17:00Z",
+          "rationale": "The San Francisco 49ers are dealing with significant injuries to their receiving corps, with Deebo Samuel ruled OUT and Mike Evans listed as DNP with multiple injuries, alongside other injured wideouts. This depletion could limit their offensive explosiveness and lead to a lower-scoring affair. Historical betting trends also support the Under, as the 51.5 line has not been covered in 4 of the last 5 Commanders road games and 14 of the last 20 49ers home games. Furthermore, the total has climbed 1.5 points from its opening of 50.0 to 51.5, potentially creating value on the Under due to an overcorrection.",
+          "awayRecord": "1-3-1",
+          "homeRecord": "5-0",
+          "startTime": "2026-10-20T00:15Z",
           "awayLast5": [
-            "W",
+            "L",
             "L",
             "W",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Buffalo Bills vs Las Vegas Raiders",
-          "betType": "total",
-          "pick": "Over 53.5",
+          "game": "Washington Commanders vs San Francisco 49ers",
+          "betType": "prop",
+          "pick": "George Kittle Over 65.5 Receiving Yards",
+          "odds": "-114",
+          "confidence": "high",
+          "rationale": "With key wide receivers Deebo Samuel OUT and Mike Evans questionable/injured, George Kittle is poised for an increased target share in the 49ers' offense. Kittle is healthy and ranks highly among tight ends in targets, air yards, and yards after catch (YAC). The Washington Commanders' defense has struggled against tight ends this season, allowing the fifth-most receiving yards per game to the position, creating a favorable matchup for Kittle to exceed this total.",
+          "awayRecord": "1-3-1",
+          "homeRecord": "5-0",
+          "startTime": "2026-10-20T00:15Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Washington Commanders vs San Francisco 49ers",
+          "betType": "prop",
+          "pick": "Brock Purdy Over 20.0 Rushing Yards",
+          "odds": "+127",
+          "confidence": "high",
+          "rationale": "Brock Purdy has demonstrated a consistent ability to exceed his rushing totals this season, going Over in four of his five games and rushing for 29+ yards in those instances. The Commanders' defense has shown vulnerability to rushing quarterbacks, allowing the seventh-highest mark in the league at 19.4 rushing yards per game to opposing QBs. With the 49ers' receiving corps depleted by injuries, Purdy may be more inclined to scramble or execute designed runs, further boosting his rushing yardage.",
+          "awayRecord": "1-3-1",
+          "homeRecord": "5-0",
+          "startTime": "2026-10-20T00:15Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Washington Commanders vs San Francisco 49ers",
+          "betType": "spread",
+          "pick": "Washington Commanders +7.5",
           "odds": "-112",
           "confidence": "medium",
-          "rationale": "The total for this game has seen a substantial increase, skyrocketing from an opening of 48.5 all the way to 53.5, indicating strong market belief in a high-scoring game. Recent head-to-head history strongly supports the Over, with 100% of the last two recorded matchups going over the total, averaging 51 points per game. The Bills have also dominated recent meetings, including a 38-10 victory in Week 2 of the 2023 season, demonstrating their offensive firepower against the Raiders. With both teams having winning records and offensive capabilities, this game is poised for an elevated score.",
-          "awayRecord": "4-1",
-          "homeRecord": "3-2",
-          "startTime": "2026-10-18T20:25Z",
+          "rationale": "The San Francisco 49ers are missing key defensive player Nick Bosa and several starting wide receivers, including Deebo Samuel, which could impact their ability to cover a significant spread. The Washington Commanders, with a healthy Jayden Daniels at quarterback, have played competitively against strong opponents, including a two-point loss to the Eagles and an overtime tie with the Giants. Additionally, Washington's defense ranks surprisingly well in rush EPA (sixth in the league), which could help contain the 49ers' potent ground game.",
+          "awayRecord": "1-3-1",
+          "homeRecord": "5-0",
+          "startTime": "2026-10-20T00:15Z",
           "awayLast5": [
-            "W",
-            "W",
+            "L",
+            "L",
             "W",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
-            "L",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Carolina Panthers vs Philadelphia Eagles",
-          "betType": "spread",
-          "pick": "Carolina Panthers -3",
-          "odds": "-112",
+          "game": "Washington Commanders vs San Francisco 49ers",
+          "betType": "prop",
+          "pick": "Jayden Daniels Under 37.5 Rushing Yards",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "The spread for this game has seen significant movement in favor of the Panthers, shifting from an opening of -1.5 to the current -3. This sharp movement is primarily driven by the injury to Eagles' quarterback Jalen Hurts, which severely impacts Philadelphia's offensive capabilities. The market is clearly backing Carolina to cover this spread, recognizing the Panthers' advantage against a weakened Eagles team. Following this strong market momentum, the Panthers are in a prime position to secure a victory by more than a field goal on the road.",
-          "awayRecord": "2-2",
-          "homeRecord": "2-3",
-          "startTime": "2026-10-18T17:00Z",
+          "rationale": "Despite Jayden Daniels' impressive 103 rushing yards last week, he faces an elite San Francisco 49ers defense that excels at containing opposing quarterbacks on the ground. The 49ers' defense allows an average of only 6.6 rushing yards per game to quarterbacks, a testament to their disciplined approach. They have successfully shut down other mobile quarterbacks, such as Malik Willis, limiting him to just 6 rushing yards. This tough matchup suggests Daniels will find it difficult to replicate his recent rushing success.",
+          "awayRecord": "1-3-1",
+          "homeRecord": "5-0",
+          "startTime": "2026-10-20T00:15Z",
           "awayLast5": [
+            "L",
             "L",
             "W",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Baltimore Ravens vs Cleveland Browns",
-          "betType": "spread",
-          "pick": "Cleveland Browns +3",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "There has been massive line movement in favor of the Cleveland Browns, as they opened as 6.5-point underdogs and are now sitting at +3. This significant shift, along with their moneyline shortening dramatically from +223 to +140, indicates strong sharp money coming in on the home underdog. In a divisional matchup, home teams often play above expectations, and this line movement suggests the market believes the Browns are undervalued. With the line now at a key number of +3, the Browns are in a strong position to either win outright or keep the game within a field goal.",
-          "awayRecord": "4-1",
-          "homeRecord": "3-2",
-          "startTime": "2026-10-18T17:00Z",
-          "awayLast5": [
-            "W",
-            "L",
             "W",
             "W",
             "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "Columbus Crew @ FC Cincinnati",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-118",
-          "confidence": "high",
-          "rationale": "The 'Hell is Real Derby' between FC Cincinnati and Columbus Crew has historically been high-scoring, with an average of 3.4 goals per meeting in their last five matchups and 76% of their last 21 head-to-head games exceeding 2.5 goals. FC Cincinnati's defense is a major concern, having conceded 68 goals in 28 league matches this season, the worst among the bottom ten teams, and shipping multiple goals in four of their last five fixtures. Additionally, key FC Cincinnati players like Miles Robinson (defender), José Martínez (midfielder), and Evander (midfielder) are out with injuries, further weakening their squad. Columbus Crew has also shown offensive prowess, with 71% of their MLS games going over 2.5 goals and scoring 3 goals in their last league win.",
-          "awayRecord": "9-5-15",
-          "homeRecord": "9-9-10",
-          "startTime": "2026-10-18T21:00Z"
-        },
-        {
-          "game": "Columbus Crew @ FC Cincinnati",
-          "betType": "moneyline",
-          "pick": "Columbus Crew",
-          "odds": "+165",
-          "confidence": "high",
-          "rationale": "Columbus Crew enters this rivalry game in superior recent form, winning three of their last five matches, including a recent 3-1 victory against Charlotte FC. In contrast, FC Cincinnati is on a three-match winless streak at home and possesses a highly vulnerable defense, allowing 68 goals in 28 league games and multiple goals in four of their last five outings. The absence of key FC Cincinnati players like defenders Miles Robinson and midfielder Evander due to injury significantly weakens the home side. The betting line movement also indicates market confidence shifting away from FC Cincinnati and towards Columbus Crew.",
-          "awayRecord": "9-5-15",
-          "homeRecord": "9-9-10",
-          "startTime": "2026-10-18T21:00Z"
         }
       ]
     }
