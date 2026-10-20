@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-10-19",
+    "sports": [
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "San Jose Sharks vs Toronto Maple Leafs",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "+106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Jose Sharks 1, Toronto Maple Leafs 3"
+          },
+          {
+            "game": "Colorado Avalanche vs Philadelphia Flyers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Colorado Avalanche 2, Philadelphia Flyers 3"
+          },
+          {
+            "game": "Pittsburgh Penguins vs Utah Mammoth",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Pittsburgh Penguins 4, Utah Mammoth 5"
+          },
+          {
+            "game": "Anaheim Ducks vs New York Rangers",
+            "betType": "moneyline",
+            "pick": "New York Rangers",
+            "odds": "-152",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Anaheim Ducks 2, New York Rangers 5"
+          },
+          {
+            "game": "San Jose Sharks vs Toronto Maple Leafs",
+            "betType": "prop",
+            "pick": "Auston Matthews Over 0.5 Goals",
+            "odds": "+120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Auston Matthews: 1 Goals (line 0.5)"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Cleveland Guardians vs Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-154",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cleveland Guardians 3, Tampa Bay Rays 7"
+          },
+          {
+            "game": "Cleveland Guardians vs Tampa Bay Rays",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Guardians 3, Tampa Bay Rays 7"
+          },
+          {
+            "game": "Cleveland Guardians vs Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays -1.5",
+            "odds": "+146",
+            "confidence": "high",
+            "result": "W",
+            "score": "Cleveland Guardians 3, Tampa Bay Rays 7"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Washington Commanders vs San Francisco 49ers",
+            "betType": "total",
+            "pick": "Under 51.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Washington Commanders 17, San Francisco 49ers 23"
+          },
+          {
+            "game": "Washington Commanders vs San Francisco 49ers",
+            "betType": "prop",
+            "pick": "George Kittle Over 65.5 Receiving Yards",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "W",
+            "score": "George Kittle: 69 Receiving Yards (line 65.5)"
+          },
+          {
+            "game": "Washington Commanders vs San Francisco 49ers",
+            "betType": "prop",
+            "pick": "Brock Purdy Over 20.0 Rushing Yards",
+            "odds": "+127",
+            "confidence": "high",
+            "result": "W",
+            "score": "Brock Purdy: 28 Rushing Yards (line 20.0)"
+          },
+          {
+            "game": "Washington Commanders vs San Francisco 49ers",
+            "betType": "spread",
+            "pick": "Washington Commanders +7.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Washington Commanders 17, San Francisco 49ers 23"
+          },
+          {
+            "game": "Washington Commanders vs San Francisco 49ers",
+            "betType": "prop",
+            "pick": "Jayden Daniels Under 37.5 Rushing Yards",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Jayden Daniels: 10 Rushing Yards (line 37.5)"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-18",
     "sports": [
       {
@@ -4449,162 +4587,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "San Diego FC 2, Inter Miami CF 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-19",
-    "sports": [
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "Seattle Seahawks @ Arizona Cardinals",
-            "betType": "total",
-            "pick": "Under 40.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Seahawks 31, Arizona Cardinals 7"
-          },
-          {
-            "game": "New Orleans Saints @ Baltimore Ravens",
-            "betType": "total",
-            "pick": "Over 46.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New Orleans Saints 24, Baltimore Ravens 17"
-          },
-          {
-            "game": "Philadelphia Eagles @ Tennessee Titans",
-            "betType": "prop",
-            "pick": "Cam Ward Under 188.5 Passing Yards",
-            "odds": "-114",
-            "confidence": "high",
-            "result": "W",
-            "score": "Cam Ward: 183 Passing Yards (line 188.5)"
-          },
-          {
-            "game": "Carolina Panthers @ Atlanta Falcons",
-            "betType": "spread",
-            "pick": "Carolina Panthers -2.5",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Carolina Panthers 34, Atlanta Falcons 3"
-          },
-          {
-            "game": "Cincinnati Bengals @ Houston Texans",
-            "betType": "total",
-            "pick": "Over 45.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Cincinnati Bengals 20, Houston Texans 6"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Wyoming Cowboys vs Central Michigan Chippewas",
-            "betType": "total",
-            "pick": "Under 38.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Wyoming Cowboys 10, Central Michigan Chippewas 24"
-          },
-          {
-            "game": "Florida International Panthers vs Florida Atlantic Owls",
-            "betType": "total",
-            "pick": "Over 62.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Florida International Panthers 10, Florida Atlantic Owls 16"
-          },
-          {
-            "game": "UAB Blazers vs Louisiana Ragin' Cajuns",
-            "betType": "total",
-            "pick": "Under 55.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "UAB Blazers 14, Louisiana Ragin' Cajuns 21"
-          },
-          {
-            "game": "Coastal Carolina Chanticleers vs Delaware Blue Hens",
-            "betType": "spread",
-            "pick": "Delaware Blue Hens -4.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Coastal Carolina Chanticleers 14, Delaware Blue Hens 22"
-          },
-          {
-            "game": "Nevada Wolf Pack vs Middle Tennessee Blue Raiders",
-            "betType": "spread",
-            "pick": "Middle Tennessee Blue Raiders +3.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Nevada Wolf Pack 20, Middle Tennessee Blue Raiders 27"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Philadelphia Union @ Sporting Kansas City",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Union 4, Sporting Kansas City 3"
-          },
-          {
-            "game": "Chicago Fire FC @ Nashville SC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Toronto FC 1, St. Louis CITY SC 3"
-          },
-          {
-            "game": "LA Galaxy @ Minnesota United FC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "LA Galaxy 3, Minnesota United FC 2"
-          },
-          {
-            "game": "Seattle Sounders FC @ Colorado Rapids",
-            "betType": "total",
-            "pick": "Under 2.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Seattle Sounders FC 3, Colorado Rapids 3"
-          },
-          {
-            "game": "Orlando City SC @ New England Revolution",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-130",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Orlando City SC 2, New England Revolution 4"
           }
         ]
       }
