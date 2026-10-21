@@ -1,6 +1,254 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T14:26:43.560Z",
-  "sports": [],
+  "generatedAt": "2026-10-21T19:08:57.824Z",
+  "sports": [
+    {
+      "sport": "NBA",
+      "picks": [
+        {
+          "game": "Golden State Warriors vs Los Angeles Lakers",
+          "betType": "total",
+          "pick": "Under 234.5",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "The Golden State Warriors are significantly hampered by injuries, with Jimmy Butler III (ACL recovery), Moses Moody (knee), Brandin Podziemski (back), and Kristaps Porzingis (personal) all ruled out for the season opener. These four rotation players combined for over 60 points per game last season, representing a massive blow to the Warriors' offensive production. While Stephen Curry is probable, he is dealing with a tweaked ankle, further limiting Golden State's offensive ceiling. The Los Angeles Lakers, in their first game without LeBron James, may also experience early-season offensive struggles as they work to establish new team chemistry. This confluence of significant offensive absences for the Warriors and potential gelling issues for the Lakers strongly points towards a lower-scoring contest, making the Under 234.5 a high-confidence pick.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-10-22T02:00Z"
+        },
+        {
+          "game": "Sacramento Kings vs LA Clippers",
+          "betType": "total",
+          "pick": "Under 226.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The LA Clippers are severely depleted by injuries for their opening night game, with Brandon Ingram (heel), Bradley Beal (knee), Max Strus (foot), Jordan Miller (shoulder), and Yanic Konan Niederhäuser (Lisfranc surgery) all ruled out. Brandon Ingram alone averaged 21.5 points per game last season, and the collective absence of these key offensive players will drastically limit the Clippers' scoring potential. While the Sacramento Kings also face injuries, including Ben Simmons out for the season and Malik Monk questionable, the sheer volume and impact of the Clippers' absences on their offensive output are more pronounced. With so much offensive firepower sidelined for the Clippers, it is highly improbable that this game will reach the projected total of 226.5 points.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-10-22T02:30Z"
+        },
+        {
+          "game": "Milwaukee Bucks vs Washington Wizards",
+          "betType": "spread",
+          "pick": "Washington Wizards -4.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Washington Wizards enter their season opener with a new, motivated core featuring Trae Young and Anthony Davis, aiming to improve upon their 17-65 record from last season. Historically, the Wizards have performed well against the Bucks, winning three of their four meetings last season and holding a 4-1 record at home in their last five matchups. The Milwaukee Bucks, on the other hand, are in a rebuilding phase after trading Giannis Antetokounmpo in the offseason, which significantly impacts their overall strength. Although the Wizards will be without their first overall pick, AJ Dybantsa, due to an ankle sprain, their established home advantage against a rebuilding Bucks team gives them a strong edge to cover the -4.5 spread.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-10-21T23:00Z"
+        },
+        {
+          "game": "Minnesota Timberwolves vs Miami Heat",
+          "betType": "spread",
+          "pick": "Minnesota Timberwolves +1.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "The Minnesota Timberwolves have historically dominated their head-to-head matchups against the Miami Heat, boasting a 4-1 record in their last five games and an impressive 6-1 record in their last seven overall meetings. Furthermore, the Heat have struggled when hosting the Timberwolves, losing five of their last six home games against Minnesota. While the Miami Heat made a significant acquisition in Giannis Antetokounmpo, it is their first game with the new superstar, and team chemistry may still be developing. Given the Timberwolves' consistent success against the Heat, especially on the road, and the potential for early-season adjustment for Miami, the Minnesota Timberwolves are a strong pick to cover the +1.5 spread.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-10-21T23:30Z"
+        },
+        {
+          "game": "Atlanta Hawks vs Orlando Magic",
+          "betType": "total",
+          "pick": "Over 233.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Atlanta Hawks have demonstrated a strong offensive performance in recent head-to-head matchups against the Orlando Magic, averaging 117.4 points per game in their last five encounters and winning all four games in the 2025-26 season, including a 130-101 victory. The Orlando Magic are dealing with key injuries, with Anthony Black ruled out and Franz Wagner, who averaged 20.6 points last season, listed as day-to-day with a shoulder issue. If Wagner is out or limited, it could compromise the Magic's defensive integrity, potentially leading to more scoring opportunities for the Hawks. Even with some Magic players questionable, the historical scoring trends in this matchup, coupled with potential defensive vulnerabilities for Orlando, suggest that the combined score will exceed 233.5 points.",
+          "awayRecord": "0-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-10-21T23:00Z"
+        }
+      ]
+    },
+    {
+      "sport": "NHL",
+      "picks": [
+        {
+          "game": "Philadelphia Flyers vs Buffalo Sabres",
+          "betType": "total",
+          "pick": "Under 5.5",
+          "odds": "+114",
+          "confidence": "medium",
+          "rationale": "The Philadelphia Flyers are significantly hampered by injuries to key offensive players like Owen Tippett (IR), Travis Konecny (doubtful), and Cam York (doubtful), which will severely limit their scoring potential. Furthermore, the Flyers have a strong betting trend of the Under hitting in 10 of their last 11 games when playing on one day of rest. While Buffalo sees the return of Rasmus Dahlin and Jason Zucker, the Flyers' defensive structure, even with injuries, combined with their recent low-scoring games (3-1, 3-2 wins) suggests a tight-checking affair. This confluence of factors points to a game with fewer than 6 goals.",
+          "awayRecord": "2-6-3",
+          "homeRecord": "4-3-2",
+          "startTime": "2026-10-21T23:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Philadelphia Flyers vs Buffalo Sabres",
+          "betType": "spread",
+          "pick": "Buffalo Sabres -1.5",
+          "odds": "+130",
+          "confidence": "high",
+          "rationale": "The Buffalo Sabres are significantly bolstered by the return of key defenseman Rasmus Dahlin and forward Jason Zucker, who will make his season debut after sports hernia surgery. Conversely, the Philadelphia Flyers are dealing with a multitude of injuries, including Owen Tippett on IR and Travis Konecny and Cam York doubtful, severely impacting their lineup. The Sabres have also won the last two head-to-head matchups, including a dominant 5-2 victory at home, where the home team prevailed in all three meetings last season. With a healthier lineup and home-ice advantage against a depleted Flyers squad, Buffalo is well-positioned to win by at least two goals.",
+          "awayRecord": "2-6-3",
+          "homeRecord": "4-3-2",
+          "startTime": "2026-10-21T23:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Florida Panthers vs Ottawa Senators",
+          "betType": "total",
+          "pick": "Over 5.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Florida Panthers are entering this game on a significant offensive surge, having scored 18 goals in their last three victories, including an 8-3 rout of Seattle. Their power play has been exceptionally effective, converting on 6 of 11 opportunities during this winning streak. While the Senators welcome back Jake Sanderson, they will be without key defenseman Thomas Chabot for 1-2 weeks due to an upper-body injury, which weakens their defensive core. This combination of a red-hot Panthers offense and a compromised Senators defense creates a strong likelihood for a high-scoring game exceeding 5.5 goals.",
+          "awayRecord": "5-2-2",
+          "homeRecord": "6-3-0",
+          "startTime": "2026-10-21T23:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Florida Panthers vs Ottawa Senators",
+          "betType": "moneyline",
+          "pick": "Florida Panthers",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Florida Panthers are in excellent recent form, boasting a 5-2-2 record and riding a three-game winning streak where they have outscored opponents 18-8. They also hold a dominant head-to-head record against the Senators, going 7-3-0 in their last 10 matchups with a +12 goal differential. Although the Senators have a good overall record, they are missing crucial defenseman Thomas Chabot, while the Panthers' offense has continued to thrive despite Aleksander Barkov's absence. The even moneyline presents a valuable opportunity to back the hotter team with a strong historical edge.",
+          "awayRecord": "5-2-2",
+          "homeRecord": "6-3-0",
+          "startTime": "2026-10-21T23:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Philadelphia Flyers vs Buffalo Sabres",
+          "betType": "spread",
+          "pick": "Philadelphia Flyers +1.5",
+          "odds": "-155",
+          "confidence": "medium",
+          "rationale": "Despite their overall struggles (2-6-3) and significant injuries to key players like Owen Tippett, Travis Konecny, and Cam York, the Philadelphia Flyers have demonstrated recent resilience by securing two consecutive wins, including a 3-2 upset of the Colorado Avalanche. While the Buffalo Sabres are getting key players back and have home-ice advantage, NHL games are often tightly contested. The Flyers' recent fighting spirit suggests they can keep the score within one goal or even pull off an upset, making the +1.5 spread a strong play. The odds of -155 reflect a market expectation that Philadelphia will cover this spread, indicating a belief in their ability to stay competitive.",
+          "awayRecord": "2-6-3",
+          "homeRecord": "4-3-2",
+          "startTime": "2026-10-21T23:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "NCAAF",
+      "picks": [
+        {
+          "game": "New Mexico State Aggies vs Sam Houston Bearkats",
+          "betType": "total",
+          "pick": "Under 46.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "Both the New Mexico State Aggies and Sam Houston Bearkats have struggled offensively this season, with Sam Houston averaging just 19.5 points per game and New Mexico State at 23.7 points per game. Historically, two of their last three head-to-head matchups have gone under the current total of 46.5 points. The total line initially dropped two points from its opening despite public money favoring the Over, suggesting a sharp signal towards a lower-scoring affair. Furthermore, New Mexico State's recent quarterback change to Adam Damante indicates a desire to reduce turnovers, which could lead to a more conservative offensive approach and fewer scoring opportunities.",
+          "awayRecord": "2-4",
+          "homeRecord": "1-5",
+          "startTime": "2026-10-22T00:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "D.C. United @ FC Cincinnati",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-135",
+          "confidence": "high",
+          "rationale": "FC Cincinnati's recent matches have been high-scoring, with their last five league games seeing totals of 4, 4, 4, 6, and 5 goals respectively, indicating a strong trend towards the over. D.C. United has also been involved in high-scoring affairs, with their last five matches seeing totals of 5, 3, 4, 6, and 3 goals, and the Over 2.5 hitting in their last five outings. D.C. United's defense has been particularly leaky on the road, conceding 14 goals in their last five games. Furthermore, FC Cincinnati has key defensive players like Ender Echenique (doubtful with a leg injury) and Julian Malatini (left thigh injury) potentially out, which could further weaken their backline and contribute to a higher-scoring game.",
+          "awayRecord": "7-12-10",
+          "homeRecord": "9-9-11",
+          "startTime": "2026-10-21T23:00Z"
+        },
+        {
+          "game": "D.C. United @ FC Cincinnati",
+          "betType": "moneyline",
+          "pick": "FC Cincinnati",
+          "odds": "-175",
+          "confidence": "high",
+          "rationale": "FC Cincinnati enters this match with a stronger overall record (9-9-11) compared to D.C. United (7-12-10) and holds a significant home-field advantage at TQL Stadium. FC Cincinnati is also highly motivated as they are still actively in the playoff hunt, while D.C. United is struggling to find consistent form. D.C. United's recent away form is poor, with three losses and three draws in their last six road games, including conceding four goals in two of their last three away matches. A predictive model gives FC Cincinnati a 64.6% chance of winning, reinforcing their favoritism in this matchup.",
+          "awayRecord": "7-12-10",
+          "homeRecord": "9-9-11",
+          "startTime": "2026-10-21T23:00Z"
+        }
+      ]
+    }
+  ],
   "playerProps": []
 }
