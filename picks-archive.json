@@ -1,5 +1,148 @@
 [
   {
+    "date": "2026-10-21",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Golden State Warriors vs Los Angeles Lakers",
+            "betType": "total",
+            "pick": "Under 234.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Golden State Warriors 105, Los Angeles Lakers 127"
+          },
+          {
+            "game": "Sacramento Kings vs LA Clippers",
+            "betType": "total",
+            "pick": "Under 226.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sacramento Kings 96, LA Clippers 121"
+          },
+          {
+            "game": "Milwaukee Bucks vs Washington Wizards",
+            "betType": "spread",
+            "pick": "Washington Wizards -4.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Milwaukee Bucks 116, Washington Wizards 128"
+          },
+          {
+            "game": "Minnesota Timberwolves vs Miami Heat",
+            "betType": "spread",
+            "pick": "Minnesota Timberwolves +1.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Timberwolves 131, Miami Heat 106"
+          },
+          {
+            "game": "Atlanta Hawks vs Orlando Magic",
+            "betType": "total",
+            "pick": "Over 233.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta Hawks 132, Orlando Magic 125"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Philadelphia Flyers vs Buffalo Sabres",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Flyers 3, Buffalo Sabres 1"
+          },
+          {
+            "game": "Philadelphia Flyers vs Buffalo Sabres",
+            "betType": "spread",
+            "pick": "Buffalo Sabres -1.5",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Philadelphia Flyers 3, Buffalo Sabres 1"
+          },
+          {
+            "game": "Florida Panthers vs Ottawa Senators",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Florida Panthers 1, Ottawa Senators 5"
+          },
+          {
+            "game": "Florida Panthers vs Ottawa Senators",
+            "betType": "moneyline",
+            "pick": "Florida Panthers",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Florida Panthers 1, Ottawa Senators 5"
+          },
+          {
+            "game": "Philadelphia Flyers vs Buffalo Sabres",
+            "betType": "spread",
+            "pick": "Philadelphia Flyers +1.5",
+            "odds": "-155",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Flyers 3, Buffalo Sabres 1"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "New Mexico State Aggies vs Sam Houston Bearkats",
+            "betType": "total",
+            "pick": "Under 46.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New Mexico State Aggies 30, Sam Houston Bearkats 24"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "D.C. United @ FC Cincinnati",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "L",
+            "score": "D.C. United 1, FC Cincinnati 2"
+          },
+          {
+            "game": "D.C. United @ FC Cincinnati",
+            "betType": "moneyline",
+            "pick": "FC Cincinnati",
+            "odds": "-175",
+            "confidence": "high",
+            "result": "W",
+            "score": "D.C. United 1, FC Cincinnati 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-20",
     "sports": [
       {
@@ -4481,112 +4624,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Chicago White Sox 14, Kansas City Royals 11"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-21",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Toronto Blue Jays vs Baltimore Orioles",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Toronto Blue Jays 3, Baltimore Orioles 4"
-          },
-          {
-            "game": "Washington Nationals vs Detroit Tigers",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-124",
-            "confidence": "high",
-            "result": "L",
-            "score": "Washington Nationals 2, Detroit Tigers 9"
-          },
-          {
-            "game": "Minnesota Twins vs San Francisco Giants",
-            "betType": "moneyline",
-            "pick": "San Francisco Giants (+106)",
-            "odds": "+106",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Minnesota Twins 2, San Francisco Giants 5"
-          },
-          {
-            "game": "Minnesota Twins vs San Francisco Giants",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-122",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Minnesota Twins 2, San Francisco Giants 5"
-          },
-          {
-            "game": "Toronto Blue Jays vs Baltimore Orioles",
-            "betType": "spread",
-            "pick": "Toronto Blue Jays -1.5",
-            "odds": "+164",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Toronto Blue Jays 3, Baltimore Orioles 4"
-          }
-        ]
-      },
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "New York Giants vs Los Angeles Rams",
-            "betType": "total",
-            "pick": "Under 47.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New York Giants 6, Los Angeles Rams 28"
-          },
-          {
-            "game": "New York Giants vs Los Angeles Rams",
-            "betType": "spread",
-            "pick": "New York Giants +6.5",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "L",
-            "score": "New York Giants 6, Los Angeles Rams 28"
-          },
-          {
-            "game": "New York Giants vs Los Angeles Rams",
-            "betType": "prop",
-            "pick": "Kyren Williams Over 12.5 Rushing Attempts",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Kyren Williams: 12 Rushing Attempts (line 12.5)"
-          },
-          {
-            "game": "New York Giants vs Los Angeles Rams",
-            "betType": "prop",
-            "pick": "Isaiah Likely Over 45.5 Receiving Yards",
-            "odds": null,
-            "confidence": "medium",
-            "result": "L",
-            "score": "Isaiah Likely: 33 Receiving Yards (line 45.5)"
-          },
-          {
-            "game": "New York Giants vs Los Angeles Rams",
-            "betType": "prop",
-            "pick": "Jaxson Dart Over 30.0 Rushing Yards",
-            "odds": null,
-            "confidence": "medium",
-            "result": "?",
-            "score": "Jaxson Dart: not found in box score"
           }
         ]
       }
