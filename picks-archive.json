@@ -1,5 +1,243 @@
 [
   {
+    "date": "2026-10-22",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Cleveland Cavaliers vs Philadelphia 76ers",
+            "betType": "spread",
+            "pick": "Philadelphia 76ers -3.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 106, Philadelphia 76ers 114"
+          },
+          {
+            "game": "Denver Nuggets vs Oklahoma City Thunder",
+            "betType": "total",
+            "pick": "Over 235.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Denver Nuggets 84, Oklahoma City Thunder 96"
+          },
+          {
+            "game": "Cleveland Cavaliers vs Philadelphia 76ers",
+            "betType": "total",
+            "pick": "Under 236.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 106, Philadelphia 76ers 114"
+          },
+          {
+            "game": "Denver Nuggets vs Oklahoma City Thunder",
+            "betType": "prop",
+            "pick": "Shai Gilgeous-Alexander Over 30.5 Points",
+            "odds": "-111",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Shai Gilgeous-Alexander: 17 Points (line 30.5)"
+          },
+          {
+            "game": "Denver Nuggets vs Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "Denver Nuggets +8.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Denver Nuggets 84, Oklahoma City Thunder 96"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Winnipeg Jets @ Dallas Stars",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Winnipeg Jets 2, Dallas Stars 3"
+          },
+          {
+            "game": "Florida Panthers @ Pittsburgh Penguins",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "L",
+            "score": "Florida Panthers 0, Pittsburgh Penguins 4"
+          },
+          {
+            "game": "Vegas Golden Knights @ St. Louis Blues",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Vegas Golden Knights 2, St. Louis Blues 6"
+          },
+          {
+            "game": "Carolina Hurricanes @ Edmonton Oilers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Carolina Hurricanes 5, Edmonton Oilers 6"
+          },
+          {
+            "game": "San Jose Sharks @ Ottawa Senators",
+            "betType": "spread",
+            "pick": "Ottawa Senators -1.5",
+            "odds": "+180",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Jose Sharks 6, Ottawa Senators 2"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "New England Patriots vs Chicago Bears",
+            "betType": "spread",
+            "pick": "Chicago Bears -3",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "W",
+            "score": "New England Patriots 24, Chicago Bears 30"
+          },
+          {
+            "game": "New England Patriots vs Chicago Bears",
+            "betType": "total",
+            "pick": "Over 50.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "New England Patriots 24, Chicago Bears 30"
+          },
+          {
+            "game": "New England Patriots vs Chicago Bears",
+            "betType": "moneyline",
+            "pick": "Chicago Bears (-155)",
+            "odds": "-155",
+            "confidence": "high",
+            "result": "W",
+            "score": "New England Patriots 24, Chicago Bears 30"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Liberty Flames @ Kennesaw State Owls",
+            "betType": "total",
+            "pick": "Over 50.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Liberty Flames 34, Kennesaw State Owls 6"
+          },
+          {
+            "game": "East Carolina Pirates @ Memphis Tigers",
+            "betType": "total",
+            "pick": "Over 54.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "East Carolina Pirates 34, Memphis Tigers 41"
+          },
+          {
+            "game": "James Madison Dukes @ App State Mountaineers",
+            "betType": "spread",
+            "pick": "James Madison Dukes -11.5",
+            "odds": "-106",
+            "confidence": "high",
+            "result": "L",
+            "score": "James Madison Dukes 31, App State Mountaineers 34"
+          },
+          {
+            "game": "Liberty Flames @ Kennesaw State Owls",
+            "betType": "spread",
+            "pick": "Liberty Flames -9.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Liberty Flames 34, Kennesaw State Owls 6"
+          },
+          {
+            "game": "James Madison Dukes @ App State Mountaineers",
+            "betType": "total",
+            "pick": "Over 56.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "James Madison Dukes 31, App State Mountaineers 34"
+          }
+        ]
+      },
+      {
+        "sport": "UEL",
+        "picks": [
+          {
+            "game": "Bayer Leverkusen @ OFI Crete",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Bayer Leverkusen 2, OFI Crete 0"
+          },
+          {
+            "game": "AC Milan @ AFC Bournemouth",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "W",
+            "score": "AC Milan 0, AFC Bournemouth 3"
+          },
+          {
+            "game": "Celta Vigo @ Celtic",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-160",
+            "confidence": "high",
+            "result": "W",
+            "score": "Celta Vigo 2, Celtic 1"
+          },
+          {
+            "game": "RB Salzburg @ NK Celje",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-185",
+            "confidence": "medium",
+            "result": "L",
+            "score": "RB Salzburg 2, NK Celje 2"
+          },
+          {
+            "game": "Marseille @ SK Sturm Graz",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-165",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Marseille 0, SK Sturm Graz 1"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-21",
     "sports": [
       {
@@ -4568,62 +4806,6 @@
             "confidence": "high",
             "result": "W",
             "score": "Real Salt Lake 0, Seattle Sounders FC 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-22",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Miami Marlins vs Chicago Cubs",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "-142",
-            "confidence": "high",
-            "result": "W",
-            "score": "Miami Marlins 8, Chicago Cubs 2"
-          },
-          {
-            "game": "Minnesota Twins vs San Francisco Giants",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-132",
-            "confidence": "high",
-            "result": "W",
-            "score": "Minnesota Twins 3, San Francisco Giants 2"
-          },
-          {
-            "game": "San Diego Padres vs Los Angeles Dodgers",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Diego Padres 0, Los Angeles Dodgers 7"
-          },
-          {
-            "game": "Houston Astros vs Seattle Mariners",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-128",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Houston Astros 7, Seattle Mariners 0"
-          },
-          {
-            "game": "Chicago White Sox vs Kansas City Royals",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Chicago White Sox 14, Kansas City Royals 11"
           }
         ]
       }
