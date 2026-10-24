@@ -1,93 +1,100 @@
 {
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T14:11:09.813Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T13:14:18.019Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "New Orleans Pelicans @ Utah Jazz",
-          "betType": "spread",
-          "pick": "New Orleans Pelicans +1.5",
-          "odds": "-118",
-          "confidence": "medium",
-          "rationale": "The Pelicans are a strong play here, as the Jazz are significantly hampered by injuries, missing Nurkic and with Bradley questionable in the frontcourt. New Orleans, conversely, is entering the game with a fully healthy rotation. The betting market has reacted sharply, moving the line four points from Utah -5.5 to Utah -1.5, indicating strong support for the Pelicans. Furthermore, New Orleans swept all three meetings against the Jazz last season and has won 8 of their last 10 head-to-head matchups.",
-          "awayRecord": "0-1",
-          "homeRecord": "0-1",
-          "startTime": "2026-10-24T01:30Z",
-          "awayLast5": [
-            "L"
-          ],
-          "homeLast5": [
-            "L"
-          ]
-        },
-        {
-          "game": "Portland Trail Blazers @ Sacramento Kings",
+          "game": "Golden State Warriors vs Phoenix Suns",
           "betType": "total",
-          "pick": "Under 232.5",
+          "pick": "Under 220.5",
           "odds": "-108",
           "confidence": "medium",
-          "rationale": "The Kings' offense struggled significantly in their opener, scoring only 96 points, shooting 29% from three, and committing 17 turnovers. They are also dealing with a thinning frontcourt behind Domantas Sabonis, which could impact their offensive efficiency. The Trail Blazers, on the other hand, showed strong defensive prowess by holding Phoenix to just 83 points in their season opener. The line movement further supports the Under, with 93% of the money and 75% of the tickets on this side.",
-          "awayRecord": "1-0",
+          "rationale": "The Golden State Warriors are severely shorthanded, with Stephen Curry unlikely to play on the second night of a back-to-back, alongside several other key players already ruled out or not expected to play. The Phoenix Suns also have significant frontcourt injuries with Mark Williams out and Oso Ighodaro doubtful, potentially impacting their offensive flow and defensive rebounding. Both teams have struggled offensively in their early games, with the Warriors averaging just 105.0 points and the Suns managing only 83 points in their opener. With so many offensive contributors sidelined or limited, and both teams looking to find their rhythm, this game is poised to be a lower-scoring affair.",
+          "awayRecord": "0-2",
           "homeRecord": "0-1",
-          "startTime": "2026-10-24T02:00Z",
+          "startTime": "2026-10-25T02:00Z",
           "awayLast5": [
-            "W"
+            "L",
+            "L"
           ],
           "homeLast5": [
             "L"
           ]
         },
         {
-          "game": "Houston Rockets @ San Antonio Spurs",
+          "game": "Washington Wizards vs Chicago Bulls",
           "betType": "total",
-          "pick": "Over 225.5",
-          "odds": "-102",
+          "pick": "Over 244.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "The Houston Rockets demonstrated significant offensive firepower in their season opener, scoring 128 points while shooting 53% from the field and 44% from three-point range. The San Antonio Spurs' defense showed vulnerability, allowing 116 points to Oklahoma City and permitting them to hit 45% of their three-point attempts. Despite a slight adjustment, the total has seen 100% of the money and tickets placed on the Over, indicating strong confidence in a higher-scoring affair.",
-          "awayRecord": "1-0",
-          "homeRecord": "0-1",
-          "startTime": "2026-10-24T01:30Z",
+          "rationale": "The total for the Wizards and Bulls game is set remarkably high at 244.5, but historical trends and current injuries support the Over. Both teams were among the league's worst defensively last season, with the Wizards allowing 124.9 points per game and the Bulls allowing 121.5 points per game. Furthermore, Nic Claxton, a key defensive presence for the Bulls, is out with a hamstring injury, which will further compromise their interior defense. With both teams demonstrating a propensity for high-scoring games last season (46 Wizards games and 39 Bulls games went over the total), this matchup is expected to be an up-tempo, offensive battle.",
+          "awayRecord": "1-1",
+          "homeRecord": "1-1",
+          "startTime": "2026-10-25T00:00Z",
           "awayLast5": [
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "LA Clippers @ Los Angeles Lakers",
-          "betType": "spread",
-          "pick": "Los Angeles Lakers -9.5",
+          "game": "Houston Rockets vs Atlanta Hawks",
+          "betType": "total",
+          "pick": "Over 227.5",
           "odds": "-114",
           "confidence": "medium",
-          "rationale": "The Lakers enter this game with a significant injury advantage, as the Clippers are missing key players Bradley Beal, Brandon Ingram, and three other rotation members. The Lakers, conversely, are getting healthier with Collin Sexton expected back and LeBron James not on the injury report. Los Angeles also had a dominant 22-point victory over the Golden State Warriors in their opener, showcasing strong performances from Luka Doncic, Walker Kessler, and Austin Reaves. This stark contrast in roster health and recent performance makes the Lakers a confident pick to cover the spread.",
-          "awayRecord": "1-0",
-          "homeRecord": "1-0",
-          "startTime": "2026-10-24T02:00Z",
+          "rationale": "Both the Houston Rockets and Atlanta Hawks enter this game with undefeated 2-0 records, suggesting strong offensive starts to their seasons. The Hawks are also playing their home opener, a situation that typically energizes the team and can lead to increased scoring. Last season's offensive averages for both teams were high, with the Rockets at 115.2 PPG and the Hawks at 118.5 PPG, indicating their capability to contribute to a high total. With both teams in good form and the Hawks enjoying home-court advantage for their opener, this game is primed for a high-scoring outcome.",
+          "awayRecord": "2-0",
+          "homeRecord": "2-0",
+          "startTime": "2026-10-25T00:30Z",
           "awayLast5": [
+            "W",
             "W"
           ],
           "homeLast5": [
+            "W",
             "W"
           ]
         },
         {
-          "game": "Dallas Mavericks @ Indiana Pacers",
-          "betType": "prop",
-          "pick": "Tyrese Haliburton Over 9.5 assists",
-          "odds": "-106",
+          "game": "San Antonio Spurs vs Dallas Mavericks",
+          "betType": "spread",
+          "pick": "San Antonio Spurs -12.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Tyrese Haliburton is poised for a strong assist performance, having recorded 12 assists in the Pacers' season opener against the Pelicans. This impressive outing came on a league-leading 20 potential assists, highlighting his central playmaking role and high usage rate. Haliburton is recognized as one of the league's premier passers, and the addition of Ivica Zubac provides him with an excellent pick-and-roll partner, further enhancing his assist opportunities. He is active and playing for the Indiana Pacers today.",
+          "rationale": "Despite their 0-2 start, the San Antonio Spurs were a dominant 62-win team last season, suggesting their current record is an anomaly and they are due for a strong performance. Victor Wembanyama has been a force, showcasing elite scoring, rebounding, and shot-blocking abilities early in the season, which provides a significant advantage for the Spurs. The Dallas Mavericks are also dealing with an injury concern to Cooper Flagg, who is day-to-day with a shoulder issue, potentially hindering their offensive output. Given the Spurs' proven quality and Wembanyama's impact, they are well-positioned to cover the -12.5 spread on the road.",
+          "awayRecord": "0-2",
+          "homeRecord": "1-1",
+          "startTime": "2026-10-25T00:00Z",
+          "awayLast5": [
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Brooklyn Nets vs Cleveland Cavaliers",
+          "betType": "total",
+          "pick": "Over 228.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The total of 228.5 for the Nets vs. Cavaliers game presents value for the Over, despite the Cavaliers sweeping the season series last year. The Cavaliers' average game total last season was 234.5, significantly higher than the current line, indicating their tendency for higher-scoring contests. Both teams possess potent offensive weapons, with Donovan Mitchell averaging 32.0 points for Cleveland and Julius Randle putting up 33.0 points for Brooklyn early in the season. Considering the combined average points scored and allowed by these teams last year were 225.4 and 231.3 respectively, this game has a strong likelihood of exceeding the 228.5 total.",
           "awayRecord": "0-1",
-          "homeRecord": "1-0",
-          "startTime": "2026-10-23T23:00Z",
+          "homeRecord": "0-1",
+          "startTime": "2026-10-24T23:30Z",
           "awayLast5": [
             "L"
           ],
           "homeLast5": [
-            "W"
+            "L"
           ]
         }
       ]
@@ -96,117 +103,117 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Montreal Canadiens vs Chicago Blackhawks",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "+102",
-          "confidence": "medium",
-          "rationale": "Both the Canadiens and Blackhawks have demonstrated a propensity for high-scoring games this season, with Montreal hitting the Over in 7 of their 9 games and Chicago in 6 of their 9 games. Both teams also exhibit weak defensive play, with Montreal ranking 23rd in goals against and Chicago allowing 36 goals in 9 games. The line movement further supports this, as the total for Over 6.5 has shifted from an opening of +110 to the current +102. This confluence of factors strongly suggests a high-scoring contest.",
-          "awayRecord": "4-3-2",
-          "homeRecord": "3-6-0",
-          "startTime": "2026-10-24T00:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Montreal Canadiens vs Chicago Blackhawks",
-          "betType": "spread",
-          "pick": "Chicago Blackhawks +1.5",
-          "odds": "-180",
-          "confidence": "high",
-          "rationale": "The Montreal Canadiens are significantly hampered by the absence of their captain Nick Suzuki, a critical offensive force and Selke Trophy winner, who is out with an upper-body injury. In contrast, the Chicago Blackhawks are playing their fifth consecutive home game and are expected to have defenseman Bowen Byram returning to bolster their lineup. Given Montreal's key injury and Chicago's home-ice advantage coupled with potential defensive reinforcements, the Blackhawks are well-positioned to cover the +1.5 spread.",
-          "awayRecord": "4-3-2",
-          "homeRecord": "3-6-0",
-          "startTime": "2026-10-24T00:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Tampa Bay Lightning vs Colorado Avalanche",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "+102",
-          "confidence": "medium",
-          "rationale": "The Colorado Avalanche possess a high-powered offense, ranking 3rd in the league with 41 goals in 10 games this season. Their recent games have frequently seen higher totals, with 6 of their last 10 contests exceeding 6.5 goals. The head-to-head history between these two teams also indicates a tendency for higher-scoring affairs, averaging 6.2 goals per match. Furthermore, the line movement for this game has seen the total increase from an opening of 5.5 to the current 6.5, suggesting the market anticipates more goals.",
-          "awayRecord": "7-2-0",
-          "homeRecord": "5-4-1",
-          "startTime": "2026-10-24T01:00Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Tampa Bay Lightning vs Colorado Avalanche",
+          "game": "Anaheim Ducks @ Philadelphia Flyers",
           "betType": "moneyline",
-          "pick": "Colorado Avalanche (-125)",
-          "odds": "-125",
-          "confidence": "medium",
-          "rationale": "The Colorado Avalanche hold a strong home-ice advantage, having won 6 of their last 10 games at home. AccuScore's simulation further supports this, giving Colorado a 64% probability of winning this matchup. With a potent offense that ranks 3rd in goals for, and key players like Nathan MacKinnon and Cale Makar performing well, the Avalanche are well-equipped to secure a victory on their home ice.",
-          "awayRecord": "7-2-0",
-          "homeRecord": "5-4-1",
-          "startTime": "2026-10-24T01:00Z",
+          "pick": "Philadelphia Flyers (-122)",
+          "odds": "-122",
+          "confidence": "high",
+          "rationale": "The Philadelphia Flyers are entering this game on a strong three-game winning streak, having overcome a rough start to the season. They are playing at home and are well-rested, while the Anaheim Ducks are concluding a challenging four-game road trip on a five-game losing streak. Anaheim is also significantly impacted by injuries to key players like Troy Terry and Pavel Mintyukov, further diminishing their offensive and defensive capabilities. With Philadelphia's momentum, home-ice advantage, and Anaheim's struggles and fatigue, the Flyers are well-positioned for a victory.",
+          "awayRecord": "4-6-0",
+          "homeRecord": "3-6-3",
+          "startTime": "2026-10-24T17:00Z",
           "awayLast5": [
-            "W",
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
             "L",
             "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Los Angeles Kings @ New Jersey Devils",
+          "betType": "total",
+          "pick": "Over 5.5",
+          "odds": "-128",
+          "confidence": "high",
+          "rationale": "The head-to-head history between the Kings and Devils suggests a high-scoring affair, with an average of 5.6 goals per game across their matchups and their last meeting ending 6-4. The New Jersey Devils recently acquired top goaltender Connor Hellebuyck, which could influence future totals, but their offensive capabilities remain strong. The Los Angeles Kings, despite a slow start, have found some offensive rhythm, scoring 5 goals in their recent win against Washington and 3 against the Islanders. With both teams capable of putting up goals, the Over 5.5 seems like a strong play.",
+          "awayRecord": "2-4-2",
+          "homeRecord": "6-4-0",
+          "startTime": "2026-10-24T19:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
             "W",
             "W"
           ],
           "homeLast5": [
             "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "New York Rangers @ Ottawa Senators",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "-135",
+          "confidence": "high",
+          "rationale": "The New York Rangers, despite a strong overall record, have struggled significantly on the road this season, being shut out twice and holding a 1-3-1 record away from home. While their primary goalies are injured, backup Dylan Garand has maintained a respectable 1.82 GAA and .927 save percentage. The Rangers also boast a strong penalty kill, tied for second in the league at 91.7%. Although the head-to-head average is 5.7 goals, the Rangers' road offensive woes and solid defensive metrics, even with a backup goalie, suggest a lower-scoring game.",
+          "awayRecord": "7-4-1",
+          "homeRecord": "7-4-0",
+          "startTime": "2026-10-24T23:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
             "L",
             "W",
             "L",
+            "W",
             "L"
           ]
         },
         {
-          "game": "Tampa Bay Lightning vs Colorado Avalanche",
-          "betType": "spread",
-          "pick": "Tampa Bay Lightning +1.5",
-          "odds": "-238",
+          "game": "Nashville Predators @ Pittsburgh Penguins",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "The Tampa Bay Lightning have a strong overall record of 7-2-0 this season and boast an impressive defense, ranking 4th in the league in goals against. Historically, Tampa Bay has performed well against Colorado in recent head-to-head matchups, winning 4 of their last 5 encounters. While the odds are quite chalky and there was a slight easing in the price despite public betting on Tampa Bay +1.5, the Lightning's solid defensive play and historical success against the Avalanche make them a reasonable pick to keep the game within one goal.",
-          "awayRecord": "7-2-0",
-          "homeRecord": "5-4-1",
-          "startTime": "2026-10-24T01:00Z",
+          "rationale": "The head-to-head history between the Pittsburgh Penguins and Nashville Predators strongly supports a lower-scoring game. The Penguins have won 4 of the last 6 meetings since the 2023-24 season, outscoring the Predators 19-11, which averages out to 5.0 goals per game. Their most recent encounter on November 16, 2025, ended in a 4-0 shutout victory for Pittsburgh. With a total set at 6.5, the consistent trend of fewer goals in their matchups makes the Under a high-confidence pick.",
+          "awayRecord": "3-3-3",
+          "homeRecord": "4-6-1",
+          "startTime": "2026-10-24T23:00Z",
           "awayLast5": [
+            "L",
+            "L",
+            "L",
             "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Toronto Maple Leafs @ Edmonton Oilers",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "-148",
+          "confidence": "medium",
+          "rationale": "The Edmonton Oilers, despite their strong record, are facing significant defensive challenges with starting goaltender Devon Levi on injured reserve and key defenseman Mattias Ekholm sidelined for 1-2 weeks. These absences will likely lead to increased scoring opportunities for both sides. The Toronto Maple Leafs recently demonstrated their offensive prowess by scoring 5 goals in a win against the New York Rangers. With both teams having potent offenses and Edmonton's current defensive vulnerabilities, the Over 6.5 is a confident pick for a high-scoring game.",
+          "awayRecord": "6-4-2",
+          "homeRecord": "8-1-1",
+          "startTime": "2026-10-24T23:00Z",
+          "awayLast5": [
+            "L",
             "L",
             "W",
             "W",
@@ -216,8 +223,8 @@
             "W",
             "L",
             "W",
-            "L",
-            "L"
+            "W",
+            "W"
           ]
         }
       ]
@@ -226,21 +233,21 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Tampa Bay Rays vs Milwaukee Brewers",
+          "game": "Tampa Bay Rays @ Milwaukee Brewers",
           "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-110",
+          "pick": "Under 6.5 Total Runs",
+          "odds": "-107",
           "confidence": "medium",
-          "rationale": "The total line for this World Series Game 1 has seen significant movement, opening at 6 runs and moving up to 6.5, indicating sharp money favoring more scoring. The last two head-to-head matchups between these teams in 2026 both went over 6.5 runs (8-2 and 6-2 victories for Milwaukee). Despite strong starting pitching, the Brewers' postseason offense has a .250 batting average and .343 OBP, suggesting they can contribute to a higher-scoring affair.",
+          "rationale": "Game 1 of this World Series saw a low-scoring 3-2 finish, totaling just 5 runs. Both starting pitchers, Drew Rasmussen (Rays) and Logan Henderson (Brewers), have been exceptional in the postseason; Rasmussen boasts a 1.29 ERA across 21 innings, while Henderson has allowed two or fewer runs in eight of his last nine starts. Furthermore, the Under has cashed in six of the last eight head-to-head matchups between these two teams, indicating a historical trend towards lower-scoring affairs. With strong bullpens on both sides, runs will be at a premium in this high-stakes World Series Game 2.",
           "awayRecord": "98-64",
           "homeRecord": "103-59",
-          "startTime": "2026-10-24T00:00Z",
+          "startTime": "2026-10-25T00:00Z",
           "awayLast5": [
-            "W",
             "L",
             "W",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
@@ -251,21 +258,21 @@
           ]
         },
         {
-          "game": "Tampa Bay Rays vs Milwaukee Brewers",
+          "game": "Tampa Bay Rays @ Milwaukee Brewers",
           "betType": "moneyline",
           "pick": "Milwaukee Brewers",
-          "odds": "-190",
+          "odds": "-120",
           "confidence": "high",
-          "rationale": "The Milwaukee Brewers enter Game 1 with a superior regular-season record (103-59) and a dominant 55-26 home record. They are currently on a five-game winning streak, including a four-game sweep in the NLCS. The moneyline has seen movement from an opening of -160 to the current -190, reflecting increased confidence in Milwaukee.",
+          "rationale": "The Milwaukee Brewers enter Game 2 with exceptional momentum, boasting a 9-1 record in their last ten games and an impressive eight-game winning streak. They also hold a perfect 5-0 record at American Family Field this postseason, highlighting their dominance at home. Having secured a 3-2 victory in Game 1, the Brewers are looking to extend their lead, and their overall form, including winning 23 of their last 27 games, makes them a strong play.",
           "awayRecord": "98-64",
           "homeRecord": "103-59",
-          "startTime": "2026-10-24T00:00Z",
+          "startTime": "2026-10-25T00:00Z",
           "awayLast5": [
-            "W",
             "L",
             "W",
             "W",
-            "W"
+            "W",
+            "L"
           ],
           "homeLast5": [
             "W",
@@ -276,75 +283,77 @@
           ]
         },
         {
-          "game": "Tampa Bay Rays vs Milwaukee Brewers",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "+122",
-          "confidence": "high",
-          "rationale": "The Brewers have demonstrated strong performance at home against winning teams, winning their last 12 such games at American Family Field. Their last head-to-head victory against the Rays was a convincing 8-2 win, indicating their capability to win by multiple runs. With Jacob Misiorowski on the mound, who boasts a 1.87 regular season ERA, and a potent postseason offense, Milwaukee is well-positioned to cover the spread.",
-          "awayRecord": "98-64",
-          "homeRecord": "103-59",
-          "startTime": "2026-10-24T00:00Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays vs Milwaukee Brewers",
+          "game": "Tampa Bay Rays @ Milwaukee Brewers",
           "betType": "prop",
-          "pick": "William Contreras Over 0.5 Home Runs",
+          "pick": "Logan Henderson Under 2.5 earned runs",
+          "odds": "-110",
+          "confidence": "high",
+          "rationale": "Brewers' rookie pitcher Logan Henderson has been in stellar form, allowing more than two earned runs in only one of his last nine starts. In his two playoff starts, he's given up a total of three runs over nine innings, demonstrating his ability to limit opponents on the big stage. Facing a Rays lineup that batted just .231 in their last ten games, Henderson is well-positioned to continue his strong performance at home. Henderson is confirmed active and starting for the Brewers.",
+          "propPlayer": "Logan Henderson",
+          "propTeam": "Milwaukee Brewers",
+          "awayRecord": "98-64",
+          "homeRecord": "103-59",
+          "startTime": "2026-10-25T00:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Tampa Bay Rays @ Milwaukee Brewers",
+          "betType": "prop",
+          "pick": "Drew Rasmussen Over 5.5 strikeouts",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Drew Rasmussen has been the Rays' ace, carrying his strong regular season form into the postseason with 23 strikeouts in 21 innings across three playoff starts. This translates to over a strikeout per inning, a rate he has consistently maintained. He is well-rested for this crucial Game 2, which should allow him to pitch deep into the game and accumulate strikeouts against the Brewers. Rasmussen is confirmed active and starting for the Rays.",
+          "propPlayer": "Drew Rasmussen",
+          "propTeam": "Tampa Bay Rays",
+          "awayRecord": "98-64",
+          "homeRecord": "103-59",
+          "startTime": "2026-10-25T00:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Tampa Bay Rays @ Milwaukee Brewers",
+          "betType": "prop",
+          "pick": "William Contreras Over 0.5 hits",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "William Contreras has been a standout performer for the Brewers throughout the postseason, accumulating 13 hits and three home runs. He continued his hot hitting in Game 1 of the World Series, recording two hits against the Rays. Given his consistent production and crucial role in the Brewers' offense, it is highly probable he will record at least one hit in Game 2. Contreras is confirmed active and in the lineup for the Brewers.",
           "propPlayer": "William Contreras",
           "propTeam": "Milwaukee Brewers",
-          "odds": "(Not provided in verified lines)",
-          "confidence": "medium",
-          "rationale": "William Contreras has been a significant power threat for the Brewers in the postseason, leading the team with 3 home runs and accumulating 11 hits overall. While Rays starter Nick Martinez is a soft-contact specialist, the Brewers have shown a recent reliance on the long ball. Contreras is active and a key part of Milwaukee's lineup, making him a strong candidate to go deep in Game 1.",
           "awayRecord": "98-64",
           "homeRecord": "103-59",
-          "startTime": "2026-10-24T00:00Z",
+          "startTime": "2026-10-25T00:00Z",
           "awayLast5": [
-            "W",
             "L",
             "W",
             "W",
-            "W"
-          ],
-          "homeLast5": [
             "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Tampa Bay Rays vs Milwaukee Brewers",
-          "betType": "prop",
-          "pick": "Yandy Díaz Over 0.5 Hits",
-          "propPlayer": "Yandy Díaz",
-          "propTeam": "Tampa Bay Rays",
-          "odds": "(Not provided in verified lines)",
-          "confidence": "medium",
-          "rationale": "Yandy Díaz has been the Tampa Bay Rays' most consistent hitter in the postseason, leading the team with 12 hits and a .308 batting average. He is a crucial part of the Rays' offense, tasked with making contact against Brewers flamethrower Jacob Misiorowski. Despite Misiorowski's high velocity, Díaz's ability to put the ball in play makes him a good bet to record at least one hit.",
-          "awayRecord": "98-64",
-          "homeRecord": "103-59",
-          "startTime": "2026-10-24T00:00Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
@@ -360,122 +369,218 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Duke Blue Devils vs Virginia Cavaliers",
+          "game": "USC Trojans @ Wisconsin Badgers",
           "betType": "total",
-          "pick": "Under 46.5",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "The total line has seen significant movement, dropping from an opening around 50-53.5 to the current 46.5-47.5, indicating sharp money favoring the Under. Both teams are grappling with extensive injury reports, particularly Virginia on defense with 20 players out, which is likely to hinder offensive efficiency. Recent head-to-head matchups between Duke and Virginia have consistently stayed under the total, including their last two meetings in 2025. Duke's strong rushing attack, averaging 209.5 yards per game, tends to lead to longer, clock-consuming drives, further supporting a lower-scoring affair.",
-          "awayRecord": "4-2",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-23T23:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Massachusetts Minutemen vs UConn Huskies",
-          "betType": "total",
-          "pick": "Over 50.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The recent head-to-head history between UMass and UConn features high-scoring contests, with their 2024 game totaling 89 points (47-42) and a 2019 matchup reaching 91 points (56-35), both well above the current total. UConn's ground game, spearheaded by Cyncir Bowers, is in strong form and is well-positioned to exploit UMass's defensive vulnerabilities against the run, where they've allowed over four yards per carry in their last three games. The public betting trends also heavily favor the Over, with 73% of bets and 79% of the money placed on it. A projected final score of UConn 34, UMass 20, totaling 54 points, further supports the Over bet.",
-          "awayRecord": "4-3",
-          "homeRecord": "3-3",
-          "startTime": "2026-10-23T23:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Army Black Knights vs Tulsa Golden Hurricane",
-          "betType": "total",
-          "pick": "Over 54.5",
-          "odds": "-106",
-          "confidence": "medium",
-          "rationale": "Despite Army's traditional clock-control offense, recent head-to-head matchups with Tulsa have surprisingly been high-scoring, including an 88-point game in 2007, a 56-point game in 2024, and a 51-point game in 2025. The total line has also seen an upward adjustment from 53 to 54.5, suggesting an expectation of more points from oddsmakers. Army's potent rushing attack, capable of putting up big numbers as seen with 56 points against Florida Atlantic, combined with Tulsa's offensive capabilities, points towards a higher-scoring contest. The projected final score of Army 30, Tulsa 27, totaling 57 points, comfortably exceeds the 54.5 line.",
-          "awayRecord": "4-2",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-24T00:30Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Air Force Falcons vs Wyoming Cowboys",
-          "betType": "spread",
-          "pick": "Air Force Falcons -5.5",
+          "pick": "Under 50.5",
           "odds": "-115",
           "confidence": "medium",
-          "rationale": "Air Force boasts the nation's second-best rushing attack and has consistently out-rushed every opponent this season, which is a significant advantage against Wyoming's run defense, ranked 101st nationally. The Falcons are currently on a four-game winning streak and have demonstrated a strong ability to dominate the second half, outscoring Mountain West opponents 78-41 after halftime. While Wyoming has a notable home-field advantage against Air Force, winning their last five matchups in Laramie, Air Force's current form and their ability to exploit Wyoming's defensive weakness provide a strong edge to cover the spread. The SportsLine model projects Air Force to win 27-16, an 11-point margin, which is well above the -5.5 spread.",
-          "awayRecord": "5-1",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-24T01:00Z",
-          "homeLast5": [
-            "L",
+          "rationale": "USC will be without starting receivers Corey Simms and Terrell Anderson, which is a significant blow to their top-ranked offense. Additionally, defensive captain Kilian O'Connor and other defensive reserves are out for the Trojans, but Wisconsin's offense is described as 'plodding'. Wisconsin boasts one of the nation's best defenses, which should be able to contain a depleted USC attack. This combination of USC's offensive injuries and Wisconsin's defensive strength points to a lower-scoring contest, making the Under 50.5 a high-confidence pick.",
+          "awayRecord": "6-1",
+          "homeRecord": "4-2",
+          "startTime": "2026-10-24T23:30Z",
+          "awayLast5": [
+            "W",
             "W",
             "L",
             "W",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
           ]
         },
         {
-          "game": "NC State Wolfpack vs Stanford Cardinal",
+          "game": "San Diego State Aztecs @ Colorado State Rams",
           "betType": "total",
-          "pick": "Over 55.5",
-          "odds": "-105",
+          "pick": "Under 59.5",
+          "odds": "-114",
           "confidence": "medium",
-          "rationale": "Stanford has exhibited a strong trend towards high-scoring games recently, with the Over hitting in five of their last five games and three of their last four home games. The Cardinal defense has struggled significantly, allowing 35 or more points in four of their seven games this season, indicating vulnerabilities that NC State can exploit. The most recent head-to-head matchup in 2024 was a high-octane 59-28 affair, easily surpassing the total set for that game. Despite NC State's reported offensive absences and cross-country travel, Stanford's consistent defensive struggles and their own offensive output suggest this game will exceed the projected total. The predicted score of NC State 34, Stanford 24 totals 58 points, supporting the Over.",
-          "awayRecord": "3-3",
-          "homeRecord": "3-4",
-          "startTime": "2026-10-24T02:30Z",
+          "rationale": "The head-to-head history between San Diego State and Colorado State shows a strong trend towards lower-scoring games, with the Under hitting in 3 of their last 4 matchups since 2017. Specifically, when San Diego State plays at Colorado State, the Under is 2-0 since 2017. Both teams have struggled this season with losing records (SDSU 3-4, CSU 2-4), indicating potential offensive inefficiencies that align with a lower-scoring outcome. Despite a high total, the recent historical data at this venue strongly supports the Under 59.5.",
+          "awayRecord": "3-4",
+          "homeRecord": "2-4",
+          "startTime": "2026-10-24T22:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "BYU Cougars @ UCF Knights",
+          "betType": "total",
+          "pick": "Under 43.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "While the recent head-to-head average combined score is 58.2, BYU's dominant 6-0 record is built on a strong defense that allows only 13.4 points per game. UCF, despite averaging 31.7 points, is on a two-game skid where their offense has gone quiet. The current total of 43.5 is significantly lower than their historical average, suggesting market adjustment for BYU's defensive prowess and UCF's recent offensive struggles. BYU's ability to limit scoring should keep this game below the projected total.",
+          "awayRecord": "6-0",
+          "homeRecord": "3-3",
+          "startTime": "2026-10-24T19:30Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Western Michigan Broncos @ Toledo Rockets",
+          "betType": "total",
+          "pick": "Under 47.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The rivalry between Western Michigan and Toledo has consistently trended towards the Under, particularly in games hosted by Toledo, where the Under is 3-1 since 2017. Both teams enter this matchup with identical 5-2 records, indicating competitive play that often leads to tighter, lower-scoring contests. Despite a higher historical average combined score, the more recent head-to-head data at Toledo provides a strong indication for this specific game. This historical pattern at the Rockets' home field supports the Under 47.5.",
+          "awayRecord": "5-2",
+          "homeRecord": "5-2",
+          "startTime": "2026-10-24T16:00Z",
           "awayLast5": [
             "W",
             "L",
             "W",
             "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
-            "L",
             "W",
-            "L",
+            "W",
+            "W",
             "L",
             "W"
           ]
+        },
+        {
+          "game": "LSU Tigers @ Auburn Tigers",
+          "betType": "spread",
+          "pick": "LSU Tigers -7",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "LSU has demonstrated clear dominance in recent matchups against Auburn, winning the last five head-to-head contests. During these five games, LSU has also shown a strong ability to cover the spread, doing so in 60% of those matchups. With LSU holding a 5-2 record compared to Auburn's 4-2, and LSU's offense averaging 37.4 points per game in their last five H2H, they possess the firepower to control this rivalry. This consistent performance and recent dominance make LSU a confident pick to cover the 7-point spread.",
+          "awayRecord": "5-2",
+          "homeRecord": "4-2",
+          "startTime": "2026-10-24T16:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Inter Miami CF vs Red Bull New York",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "Inter Miami CF enters this match in excellent form, winning three of their last five games and scoring 73 goals this season, with Lionel Messi leading the charge with 25 goals and 12 assists, scoring in four of his last five matches. Head-to-head matchups between these two teams have historically been high-scoring, with their last five meetings averaging 5.4 goals per game and 71% of those matches going over 2.5 goals. Despite Red Bull New York's mixed recent form, their defensive vulnerabilities against high-powered offenses like Inter Miami, coupled with Miami's offensive firepower, strongly suggest a game with plenty of goals. The line movement favoring the Over 3.5 at -145 further indicates market confidence in a high-scoring affair.",
+          "awayRecord": "15-10-5",
+          "homeRecord": "10-6-14",
+          "startTime": "2026-10-24T21:30Z"
+        },
+        {
+          "game": "Minnesota United FC vs Houston Dynamo FC",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-165",
+          "confidence": "high",
+          "rationale": "Minnesota United FC has shown defensive frailties this season, conceding an average of 2.4 goals per game, and their recent matches have been high-scoring, including a 3-2 win, two 2-2 draws, and two losses with 1-3 and 2-3 scores. The head-to-head history between Minnesota United and Houston Dynamo also points to goals, with 66.7% of their matchups going over 2.5 goals, and the last five encounters for Houston Dynamo seeing 80% go over the total. Recent H2H results include a 2-2 draw, a 2-0 Houston win, a 1-1 draw, a 1-2 Minnesota loss, and a 0-3 Minnesota win, demonstrating a consistent trend of multiple goals. With the total set at 2.5 and the Over heavily favored at -165, all signs point to a goal-filled contest.",
+          "awayRecord": "14-6-10",
+          "homeRecord": "8-6-16",
+          "startTime": "2026-10-24T23:30Z"
+        },
+        {
+          "game": "Vancouver Whitecaps vs Colorado Rapids",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-165",
+          "confidence": "high",
+          "rationale": "The Vancouver Whitecaps, currently 2nd in the MLS, have an excellent overall form and have scored 63 goals this season. Their recent matches include a 3-1 win, a 3-3 draw, and a 0-3 win, indicating their offensive capability. Head-to-head statistics between the Whitecaps and Colorado Rapids show an average of 2.7 goals per game, with 57% of their previous meetings exceeding 2.5 goals. Furthermore, four of their last five head-to-head matchups have gone over 2.5 goals (3-1, 3-0, 2-0, 2-1, 1-0). Given these offensive trends and the historical H2H data, the Over 2.5 at -165 is a confident pick for this match.",
+          "awayRecord": "16-7-7",
+          "homeRecord": "11-6-13",
+          "startTime": "2026-10-25T01:30Z"
+        },
+        {
+          "game": "Toronto FC vs Columbus Crew",
+          "betType": "moneyline",
+          "pick": "Columbus Crew",
+          "odds": "-155",
+          "confidence": "medium",
+          "rationale": "Columbus Crew boasts a strong home record, having won seven home games in MLS this season, indicating a significant home-field advantage. Toronto FC, in contrast, has been inconsistent on the road, with a recent form showing two wins and three losses in their last five matches, scoring only five goals while conceding ten. Historically, Columbus Crew holds a superior head-to-head record against Toronto FC, with 23 wins compared to Toronto's 13 in 52 games, and 8 wins in 19 meetings at Columbus's home ground. Considering Columbus's solid home performance and Toronto's struggles away, the Columbus Crew moneyline at -155 presents a strong betting opportunity.",
+          "awayRecord": "8-12-10",
+          "homeRecord": "10-5-15",
+          "startTime": "2026-10-24T19:30Z"
+        },
+        {
+          "game": "Chicago Fire FC vs Atlanta United FC",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-145",
+          "confidence": "medium",
+          "rationale": "While both teams have shown some offensive capabilities, their head-to-head history suggests a mixed bag of results regarding total goals, with some lower-scoring outcomes like 1-0, 0-0, and 3-0 in their last five encounters. Atlanta United has won four home games, but their overall form is mixed, and Chicago Fire's recent scoring has not been consistently high enough to guarantee an offensive explosion. The line is set at 3.5, with the Under heavily favored at -145, indicating that the market expects a tighter, lower-scoring game. This aligns with the inconsistent high-scoring trends in their recent H2H matchups.",
+          "awayRecord": "14-6-10",
+          "homeRecord": "8-6-16",
+          "startTime": "2026-10-24T23:30Z"
+        }
+      ]
+    },
+    {
+      "sport": "UFC",
+      "picks": [
+        {
+          "game": "UFC 333: Volkanovski vs Evloev Card",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-275",
+          "confidence": "high",
+          "rationale": "Many fights on the UFC 333 card are expected to be competitive and go the distance, especially the two championship bouts scheduled for five rounds. The main event between Alexander Volkanovski and Movsar Evloev features a durable champion against an undefeated contender, suggesting a strategic battle that will likely extend beyond two and a half rounds. Similarly, the co-main event trilogy between Petr Yan and Merab Dvalishvili has seen both previous encounters go the full 25 minutes. The -275 odds on the Over 2.5 rounds reflect the high probability of these high-level contests reaching the later stages or going to decision."
+        },
+        {
+          "game": "UFC 333: Volkanovski vs Evloev Card",
+          "betType": "moneyline",
+          "pick": "(-400)",
+          "odds": "-400",
+          "confidence": "high",
+          "rationale": "On the UFC 333 card, there are several matchups featuring clear favorites with significant skill advantages and strong recent form. For instance, Asaf Chopurov, with an undefeated 11-0 record, is heavily favored against Colby Thicknesse, with sportsbooks giving Chopurov an 83% chance of winning. Similarly, Abdul Rakhman Yakhyaev, also undefeated at 10-0, is an 81% favorite against Nikita Krylov. These substantial odds reflect a high probability of the superior fighter dominating their opponent and securing a definitive victory, making the -400 moneyline a confident selection for such a statistically strong favorite."
+        },
+        {
+          "game": "UFC 333: Volkanovski vs Evloev Card",
+          "betType": "spread",
+          "pick": "-3.5",
+          "odds": "-140",
+          "confidence": "high",
+          "rationale": "The -3.5 spread, interpreted as a decisive victory margin, is a strong pick for a favored fighter expected to control the fight comprehensively. Movsar Evloev, the undefeated featherweight contender (20-0), has won all ten of his UFC fights by decision, consistently demonstrating the ability to dominate opponents and accumulate rounds on the scorecards. This consistent performance indicates he can secure a victory with a significant margin. Such a fighter, who regularly outpoints their opponents over the full duration, is highly likely to cover a hypothetical spread, showcasing a clear and convincing win."
         }
       ]
     }

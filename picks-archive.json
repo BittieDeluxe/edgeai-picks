@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-10-23",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "New Orleans Pelicans @ Utah Jazz",
+            "betType": "spread",
+            "pick": "New Orleans Pelicans +1.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New Orleans Pelicans 119, Utah Jazz 120"
+          },
+          {
+            "game": "Portland Trail Blazers @ Sacramento Kings",
+            "betType": "total",
+            "pick": "Under 232.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Portland Trail Blazers 128, Sacramento Kings 120"
+          },
+          {
+            "game": "Houston Rockets @ San Antonio Spurs",
+            "betType": "total",
+            "pick": "Over 225.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Houston Rockets 114, San Antonio Spurs 110"
+          },
+          {
+            "game": "LA Clippers @ Los Angeles Lakers",
+            "betType": "spread",
+            "pick": "Los Angeles Lakers -9.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "LA Clippers 117, Los Angeles Lakers 125"
+          },
+          {
+            "game": "Dallas Mavericks @ Indiana Pacers",
+            "betType": "prop",
+            "pick": "Tyrese Haliburton Over 9.5 assists",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tyrese Haliburton: 7 assists (line 9.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Montreal Canadiens vs Chicago Blackhawks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Montreal Canadiens 4, Chicago Blackhawks 1"
+          },
+          {
+            "game": "Montreal Canadiens vs Chicago Blackhawks",
+            "betType": "spread",
+            "pick": "Chicago Blackhawks +1.5",
+            "odds": "-180",
+            "confidence": "high",
+            "result": "L",
+            "score": "Montreal Canadiens 4, Chicago Blackhawks 1"
+          },
+          {
+            "game": "Tampa Bay Lightning vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tampa Bay Lightning 3, Colorado Avalanche 6"
+          },
+          {
+            "game": "Tampa Bay Lightning vs Colorado Avalanche",
+            "betType": "moneyline",
+            "pick": "Colorado Avalanche (-125)",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tampa Bay Lightning 3, Colorado Avalanche 6"
+          },
+          {
+            "game": "Tampa Bay Lightning vs Colorado Avalanche",
+            "betType": "spread",
+            "pick": "Tampa Bay Lightning +1.5",
+            "odds": "-238",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tampa Bay Lightning 3, Colorado Avalanche 6"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Tampa Bay Rays vs Milwaukee Brewers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tampa Bay Rays 2, Milwaukee Brewers 3"
+          },
+          {
+            "game": "Tampa Bay Rays vs Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-190",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 2, Milwaukee Brewers 3"
+          },
+          {
+            "game": "Tampa Bay Rays vs Milwaukee Brewers",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Tampa Bay Rays 2, Milwaukee Brewers 3"
+          },
+          {
+            "game": "Tampa Bay Rays vs Milwaukee Brewers",
+            "betType": "prop",
+            "pick": "William Contreras Over 0.5 Home Runs",
+            "odds": "(Not provided in verified lines)",
+            "confidence": "medium",
+            "result": "L",
+            "score": "William Contreras: 0 Home Runs (line 0.5)"
+          },
+          {
+            "game": "Tampa Bay Rays vs Milwaukee Brewers",
+            "betType": "prop",
+            "pick": "Yandy Díaz Over 0.5 Hits",
+            "odds": "(Not provided in verified lines)",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Yandy Díaz: not found in box score"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Duke Blue Devils vs Virginia Cavaliers",
+            "betType": "total",
+            "pick": "Under 46.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Duke Blue Devils 19, Virginia Cavaliers 16"
+          },
+          {
+            "game": "Massachusetts Minutemen vs UConn Huskies",
+            "betType": "total",
+            "pick": "Over 50.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Massachusetts Minutemen 16, UConn Huskies 35"
+          },
+          {
+            "game": "Army Black Knights vs Tulsa Golden Hurricane",
+            "betType": "total",
+            "pick": "Over 54.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Army Black Knights 38, Tulsa Golden Hurricane 35"
+          },
+          {
+            "game": "Air Force Falcons vs Wyoming Cowboys",
+            "betType": "spread",
+            "pick": "Air Force Falcons -5.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Air Force Falcons 14, Wyoming Cowboys 28"
+          },
+          {
+            "game": "NC State Wolfpack vs Stanford Cardinal",
+            "betType": "total",
+            "pick": "Over 55.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "NC State Wolfpack 28, Stanford Cardinal 31"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-22",
     "sports": [
       {
@@ -4727,85 +4933,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Liberty Flames 34, Coastal Carolina Chanticleers 17"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-23",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Miami Marlins vs Chicago Cubs",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "-122",
-            "confidence": "high",
-            "result": "L",
-            "score": "Miami Marlins 3, Chicago Cubs 2"
-          },
-          {
-            "game": "Chicago White Sox vs Kansas City Royals",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago White Sox 4, Kansas City Royals 5"
-          },
-          {
-            "game": "Cleveland Guardians vs Boston Red Sox",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Cleveland Guardians 0, Boston Red Sox 1"
-          },
-          {
-            "game": "Cincinnati Reds vs Atlanta Braves",
-            "betType": "spread",
-            "pick": "Atlanta Braves -1.5",
-            "odds": "+114",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Cincinnati Reds 2, Atlanta Braves 3"
-          },
-          {
-            "game": "Arizona Diamondbacks vs Colorado Rockies",
-            "betType": "total",
-            "pick": "Over 10.5",
-            "odds": "+104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Arizona Diamondbacks 5, Colorado Rockies 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Real Salt Lake @ Seattle Sounders FC",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-175",
-            "confidence": "high",
-            "result": "W",
-            "score": "Real Salt Lake 0, Seattle Sounders FC 2"
-          },
-          {
-            "game": "Real Salt Lake @ Seattle Sounders FC",
-            "betType": "moneyline",
-            "pick": "Seattle Sounders FC",
-            "odds": "-135",
-            "confidence": "high",
-            "result": "W",
-            "score": "Real Salt Lake 0, Seattle Sounders FC 2"
           }
         ]
       }
