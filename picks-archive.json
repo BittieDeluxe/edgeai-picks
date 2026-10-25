@@ -1,5 +1,293 @@
 [
   {
+    "date": "2026-10-24",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Golden State Warriors vs Phoenix Suns",
+            "betType": "total",
+            "pick": "Under 220.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Golden State Warriors 122, Phoenix Suns 131"
+          },
+          {
+            "game": "Washington Wizards vs Chicago Bulls",
+            "betType": "total",
+            "pick": "Over 244.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Wizards 124, Chicago Bulls 120"
+          },
+          {
+            "game": "Houston Rockets vs Atlanta Hawks",
+            "betType": "total",
+            "pick": "Over 227.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Rockets 121, Atlanta Hawks 114"
+          },
+          {
+            "game": "San Antonio Spurs vs Dallas Mavericks",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -12.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Antonio Spurs 122, Dallas Mavericks 106"
+          },
+          {
+            "game": "Brooklyn Nets vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Over 228.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Brooklyn Nets 121, Cleveland Cavaliers 125"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Anaheim Ducks @ Philadelphia Flyers",
+            "betType": "moneyline",
+            "pick": "Philadelphia Flyers (-122)",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Anaheim Ducks 5, Philadelphia Flyers 4"
+          },
+          {
+            "game": "Los Angeles Kings @ New Jersey Devils",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-128",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Kings 1, New Jersey Devils 3"
+          },
+          {
+            "game": "New York Rangers @ Ottawa Senators",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Rangers 4, Ottawa Senators 7"
+          },
+          {
+            "game": "Nashville Predators @ Pittsburgh Penguins",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Nashville Predators 2, Pittsburgh Penguins 3"
+          },
+          {
+            "game": "Toronto Maple Leafs @ Edmonton Oilers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-148",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto Maple Leafs 7, Edmonton Oilers 2"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Tampa Bay Rays @ Milwaukee Brewers",
+            "betType": "total",
+            "pick": "Under 6.5 Total Runs",
+            "odds": "-107",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tampa Bay Rays 4, Milwaukee Brewers 5"
+          },
+          {
+            "game": "Tampa Bay Rays @ Milwaukee Brewers",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Tampa Bay Rays 4, Milwaukee Brewers 5"
+          },
+          {
+            "game": "Tampa Bay Rays @ Milwaukee Brewers",
+            "betType": "prop",
+            "pick": "Logan Henderson Under 2.5 earned runs",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Logan Henderson: 3 earned runs (line 2.5)"
+          },
+          {
+            "game": "Tampa Bay Rays @ Milwaukee Brewers",
+            "betType": "prop",
+            "pick": "Drew Rasmussen Over 5.5 strikeouts",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Drew Rasmussen: 4 strikeouts (line 5.5)"
+          },
+          {
+            "game": "Tampa Bay Rays @ Milwaukee Brewers",
+            "betType": "prop",
+            "pick": "William Contreras Over 0.5 hits",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "William Contreras: 2 hits (line 0.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "USC Trojans @ Wisconsin Badgers",
+            "betType": "total",
+            "pick": "Under 50.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "USC Trojans 7, Wisconsin Badgers 24"
+          },
+          {
+            "game": "San Diego State Aztecs @ Colorado State Rams",
+            "betType": "total",
+            "pick": "Under 59.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Diego State Aztecs 49, Colorado State Rams 56"
+          },
+          {
+            "game": "BYU Cougars @ UCF Knights",
+            "betType": "total",
+            "pick": "Under 43.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "BYU Cougars 31, UCF Knights 39"
+          },
+          {
+            "game": "Western Michigan Broncos @ Toledo Rockets",
+            "betType": "total",
+            "pick": "Under 47.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Western Michigan Broncos 38, Toledo Rockets 45"
+          },
+          {
+            "game": "LSU Tigers @ Auburn Tigers",
+            "betType": "spread",
+            "pick": "LSU Tigers -7",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "LSU Tigers 38, Auburn Tigers 17"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Inter Miami CF vs Red Bull New York",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-145",
+            "confidence": "high",
+            "result": "L",
+            "score": "Inter Miami CF 0, Red Bull New York 2"
+          },
+          {
+            "game": "Minnesota United FC vs Houston Dynamo FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "W",
+            "score": "Chicago Fire FC 3, Atlanta United FC 2"
+          },
+          {
+            "game": "Vancouver Whitecaps vs Colorado Rapids",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "L",
+            "score": "Vancouver Whitecaps 0, Colorado Rapids 1"
+          },
+          {
+            "game": "Toronto FC vs Columbus Crew",
+            "betType": "moneyline",
+            "pick": "Columbus Crew",
+            "odds": "-155",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto FC 2, Columbus Crew 4"
+          },
+          {
+            "game": "Chicago Fire FC vs Atlanta United FC",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-145",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Fire FC 3, Atlanta United FC 2"
+          }
+        ]
+      },
+      {
+        "sport": "UFC",
+        "picks": [
+          {
+            "game": "UFC 333: Volkanovski vs Evloev Card",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-275",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "UFC 333: Volkanovski vs Evloev Card",
+            "betType": "moneyline",
+            "pick": "(-400)",
+            "odds": "-400",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          },
+          {
+            "game": "UFC 333: Volkanovski vs Evloev Card",
+            "betType": "spread",
+            "pick": "-3.5",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "?",
+            "score": ""
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-23",
     "sports": [
       {
@@ -4836,103 +5124,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Army Black Knights 21, Temple Owls 17"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-24",
-    "sports": [
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "Atlanta Falcons vs Green Bay Packers",
-            "betType": "total",
-            "pick": "Under 42.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Atlanta Falcons 35, Green Bay Packers 14"
-          },
-          {
-            "game": "Atlanta Falcons vs Green Bay Packers",
-            "betType": "spread",
-            "pick": "Atlanta Falcons +4.5",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "W",
-            "score": "Atlanta Falcons 35, Green Bay Packers 14"
-          },
-          {
-            "game": "Atlanta Falcons vs Green Bay Packers",
-            "betType": "prop",
-            "pick": "Michael Penix Jr. Under 205.5 Passing Yards",
-            "odds": "-110",
-            "confidence": "high",
-            "result": "L",
-            "score": "Michael Penix Jr.: 256 Passing Yards (line 205.5)"
-          },
-          {
-            "game": "Atlanta Falcons vs Green Bay Packers",
-            "betType": "prop",
-            "pick": "Jordan Love Over 222.5 Passing Yards",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Jordan Love: 312 Passing Yards (line 222.5)"
-          },
-          {
-            "game": "Atlanta Falcons vs Green Bay Packers",
-            "betType": "moneyline",
-            "pick": "Green Bay Packers",
-            "odds": "-245",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Atlanta Falcons 35, Green Bay Packers 14"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Liberty Flames vs Coastal Carolina Chanticleers",
-            "betType": "total",
-            "pick": "Under 50.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Liberty Flames 34, Coastal Carolina Chanticleers 17"
-          },
-          {
-            "game": "Liberty Flames vs Coastal Carolina Chanticleers",
-            "betType": "spread",
-            "pick": "Liberty Flames -2.5",
-            "odds": "-112",
-            "confidence": "high",
-            "result": "W",
-            "score": "Liberty Flames 34, Coastal Carolina Chanticleers 17"
-          },
-          {
-            "game": "Liberty Flames vs Coastal Carolina Chanticleers",
-            "betType": "moneyline",
-            "pick": "Liberty Flames (-134)",
-            "odds": "-134",
-            "confidence": "high",
-            "result": "W",
-            "score": "Liberty Flames 34, Coastal Carolina Chanticleers 17"
-          },
-          {
-            "game": "Liberty Flames vs Coastal Carolina Chanticleers",
-            "betType": "spread",
-            "pick": "Coastal Carolina Chanticleers +2.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Liberty Flames 34, Coastal Carolina Chanticleers 17"
           }
         ]
       }
