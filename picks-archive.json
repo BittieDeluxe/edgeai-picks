@@ -1,5 +1,175 @@
 [
   {
+    "date": "2026-10-25",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Orlando Magic vs New York Knicks",
+            "betType": "total",
+            "pick": "Under 224.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Orlando Magic 111, New York Knicks 102"
+          },
+          {
+            "game": "Detroit Pistons vs Philadelphia 76ers",
+            "betType": "spread",
+            "pick": "Detroit Pistons +1.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Pistons 106, Philadelphia 76ers 93"
+          },
+          {
+            "game": "LA Clippers vs Oklahoma City Thunder",
+            "betType": "spread",
+            "pick": "Oklahoma City Thunder -15.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "LA Clippers 101, Oklahoma City Thunder 108"
+          },
+          {
+            "game": "Toronto Raptors vs Minnesota Timberwolves",
+            "betType": "total",
+            "pick": "Over 230.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Toronto Raptors 94, Minnesota Timberwolves 117"
+          },
+          {
+            "game": "Memphis Grizzlies vs Sacramento Kings",
+            "betType": "total",
+            "pick": "Over 234.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Memphis Grizzlies 123, Sacramento Kings 112"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Florida Panthers vs Chicago Blackhawks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Florida Panthers 3, Chicago Blackhawks 2"
+          },
+          {
+            "game": "New York Islanders vs Dallas Stars",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "New York Islanders 3, Dallas Stars 6"
+          },
+          {
+            "game": "Montreal Canadiens vs Winnipeg Jets",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "Montreal Canadiens 2, Winnipeg Jets 1"
+          },
+          {
+            "game": "Colorado Avalanche vs Nashville Predators",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Avalanche 2, Nashville Predators 6"
+          },
+          {
+            "game": "Minnesota Wild vs Vancouver Canucks",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Wild 4, Vancouver Canucks 2"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Cleveland Browns vs Tennessee Titans",
+            "betType": "total",
+            "pick": "Under 36.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Browns 27, Tennessee Titans 24"
+          },
+          {
+            "game": "Green Bay Packers vs Detroit Lions",
+            "betType": "total",
+            "pick": "Over 55.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Green Bay Packers 17, Detroit Lions 20"
+          },
+          {
+            "game": "Los Angeles Rams vs Las Vegas Raiders",
+            "betType": "total",
+            "pick": "Under 48.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Rams 35, Las Vegas Raiders 21"
+          },
+          {
+            "game": "New York Giants vs Houston Texans",
+            "betType": "spread",
+            "pick": "Houston Texans -10.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Giants 27, Houston Texans 21"
+          },
+          {
+            "game": "Tampa Bay Buccaneers vs Carolina Panthers",
+            "betType": "spread",
+            "pick": "Carolina Panthers -3",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tampa Bay Buccaneers 43, Carolina Panthers 13"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "LA Galaxy @ LAFC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "LA Galaxy 2, LAFC 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-24",
     "sports": [
       {
@@ -5018,112 +5188,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Utah Utes 31, Iowa State Cyclones 17"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-25",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Baltimore Orioles @ New York Yankees",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "W",
-            "score": "Baltimore Orioles 10, New York Yankees 2"
-          },
-          {
-            "game": "Atlanta Braves @ Miami Marlins",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "+104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Atlanta Braves 0, Miami Marlins 3"
-          },
-          {
-            "game": "Arizona Diamondbacks @ San Diego Padres",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Arizona Diamondbacks 11, San Diego Padres 4"
-          },
-          {
-            "game": "Texas Rangers @ Minnesota Twins",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-120",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Texas Rangers 2, Minnesota Twins 10"
-          },
-          {
-            "game": "Houston Astros @ Athletics",
-            "betType": "spread",
-            "pick": "Houston Astros -1.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Houston Astros 5, Athletics 6"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Navy Midshipmen vs UAB Blazers",
-            "betType": "total",
-            "pick": "Under 51.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Navy Midshipmen 20, UAB Blazers 24"
-          },
-          {
-            "game": "Northwestern Wildcats vs Indiana Hoosiers",
-            "betType": "total",
-            "pick": "Under 49.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Northwestern Wildcats 23, Indiana Hoosiers 29"
-          },
-          {
-            "game": "Clemson Tigers vs California Golden Bears",
-            "betType": "total",
-            "pick": "Under 50.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Clemson Tigers 24, California Golden Bears 10"
-          },
-          {
-            "game": "Howard Bison vs Rutgers Scarlet Knights",
-            "betType": "total",
-            "pick": "Under 56.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Howard Bison 7, Rutgers Scarlet Knights 58"
-          },
-          {
-            "game": "Army Black Knights vs Temple Owls",
-            "betType": "total",
-            "pick": "Under 47.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Army Black Knights 21, Temple Owls 17"
           }
         ]
       }
