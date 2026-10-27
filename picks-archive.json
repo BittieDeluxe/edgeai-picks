@@ -1,5 +1,193 @@
 [
   {
+    "date": "2026-10-26",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Washington Wizards vs Charlotte Hornets",
+            "betType": "total",
+            "pick": "Over 226.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Wizards 103, Charlotte Hornets 110"
+          },
+          {
+            "game": "Chicago Bulls vs Boston Celtics",
+            "betType": "total",
+            "pick": "Under 231.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Bulls 99, Boston Celtics 134"
+          },
+          {
+            "game": "Dallas Mavericks vs Miami Heat",
+            "betType": "spread",
+            "pick": "Dallas Mavericks +7.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Dallas Mavericks 113, Miami Heat 109"
+          },
+          {
+            "game": "Indiana Pacers vs Milwaukee Bucks",
+            "betType": "total",
+            "pick": "Over 238.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Indiana Pacers 102, Milwaukee Bucks 110"
+          },
+          {
+            "game": "Golden State Warriors vs Denver Nuggets",
+            "betType": "spread",
+            "pick": "Golden State Warriors +7.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Golden State Warriors 134, Denver Nuggets 114"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Detroit Red Wings @ Edmonton Oilers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Detroit Red Wings 4, Edmonton Oilers 3"
+          },
+          {
+            "game": "Toronto Maple Leafs @ Calgary Flames",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "W",
+            "score": "Toronto Maple Leafs 2, Calgary Flames 5"
+          },
+          {
+            "game": "Los Angeles Kings @ New York Rangers",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Kings 6, New York Rangers 3"
+          },
+          {
+            "game": "Toronto Maple Leafs @ Calgary Flames",
+            "betType": "spread",
+            "pick": "Calgary Flames +1.5",
+            "odds": "-180",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto Maple Leafs 2, Calgary Flames 5"
+          },
+          {
+            "game": "Los Angeles Kings @ New York Rangers",
+            "betType": "prop",
+            "pick": "Gabe Perreault Over 2.5 Shots on Goal",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Gabe Perreault: 0 Shots on Goal (line 2.5)"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Milwaukee Brewers vs Tampa Bay Rays",
+            "betType": "total",
+            "pick": "Under 7.5",
+            "odds": "-138",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 10, Tampa Bay Rays 1"
+          },
+          {
+            "game": "Milwaukee Brewers vs Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Tampa Bay Rays",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 10, Tampa Bay Rays 1"
+          },
+          {
+            "game": "Milwaukee Brewers vs Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays +1.5",
+            "odds": "-210",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 10, Tampa Bay Rays 1"
+          },
+          {
+            "game": "Milwaukee Brewers vs Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+172",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Milwaukee Brewers 10, Tampa Bay Rays 1"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Dallas Cowboys vs Philadelphia Eagles",
+            "betType": "total",
+            "pick": "Under 44.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Dallas Cowboys 38, Philadelphia Eagles 21"
+          },
+          {
+            "game": "Dallas Cowboys vs Philadelphia Eagles",
+            "betType": "spread",
+            "pick": "Dallas Cowboys -4.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "W",
+            "score": "Dallas Cowboys 38, Philadelphia Eagles 21"
+          },
+          {
+            "game": "Dallas Cowboys vs Philadelphia Eagles",
+            "betType": "moneyline",
+            "pick": "Dallas Cowboys (-205)",
+            "odds": "-205",
+            "confidence": "high",
+            "result": "W",
+            "score": "Dallas Cowboys 38, Philadelphia Eagles 21"
+          },
+          {
+            "game": "Dallas Cowboys vs Philadelphia Eagles",
+            "betType": "spread",
+            "pick": "Philadelphia Eagles +4.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Dallas Cowboys 38, Philadelphia Eagles 21"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-25",
     "sports": [
       {
@@ -5132,62 +5320,6 @@
             "confidence": "high",
             "result": "L",
             "score": "Inter Miami CF 1, Columbus Crew 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-26",
-    "sports": [
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Texas Longhorns @ Tennessee Volunteers",
-            "betType": "total",
-            "pick": "Over 54.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Texas Longhorns 20, Tennessee Volunteers 17"
-          },
-          {
-            "game": "Iowa Hawkeyes @ Michigan Wolverines",
-            "betType": "total",
-            "pick": "Under 38.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Iowa Hawkeyes 20, Michigan Wolverines 19"
-          },
-          {
-            "game": "Texas A&M Aggies @ LSU Tigers",
-            "betType": "total",
-            "pick": "Under 52.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Texas A&M Aggies 6, LSU Tigers 35"
-          },
-          {
-            "game": "James Madison Dukes @ Old Dominion Monarchs",
-            "betType": "spread",
-            "pick": "James Madison Dukes -6.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "W",
-            "score": "James Madison Dukes 46, Old Dominion Monarchs 20"
-          },
-          {
-            "game": "Utah Utes @ Iowa State Cyclones",
-            "betType": "total",
-            "pick": "Over 47.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Utah Utes 31, Iowa State Cyclones 17"
           }
         ]
       }

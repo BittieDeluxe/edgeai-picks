@@ -1,85 +1,23 @@
 {
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T16:03:30.408Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T15:16:56.837Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Washington Wizards vs Charlotte Hornets",
+          "game": "Detroit Pistons vs New York Knicks",
           "betType": "total",
-          "pick": "Over 226.5",
+          "pick": "Under 218.5",
           "odds": "-115",
           "confidence": "medium",
-          "rationale": "The head-to-head history between these teams strongly favors high-scoring games, with the total points going over in 83.3% of recent matchups. Both teams have key players out due to injury, which can sometimes lead to less organized defense and more open looks. The Hornets have won the last four meetings, often in high-scoring affairs, suggesting they can dictate an offensive pace. This trend, combined with early-season scoring averages, points towards another game exceeding the projected total.",
-          "awayRecord": "2-1",
-          "homeRecord": "2-1",
-          "startTime": "2026-10-26T23:00Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Chicago Bulls vs Boston Celtics",
-          "betType": "total",
-          "pick": "Under 231.5",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "The Boston Celtics boast a strong defense, ranking best in points allowed last season. The Chicago Bulls are significantly hampered by injuries, with Nic Claxton out and Patrick Williams questionable, impacting their offensive firepower. Head-to-head matchups have historically seen an average of 226.1 points, and the last meeting totaled 229 points, both below the current line. With Boston's defensive prowess and Chicago's depleted roster, a lower-scoring game is anticipated.",
-          "awayRecord": "1-2",
-          "homeRecord": "1-1",
-          "startTime": "2026-10-26T23:30Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Dallas Mavericks vs Miami Heat",
-          "betType": "spread",
-          "pick": "Dallas Mavericks +7.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "The Miami Heat are off to a struggling 0-3 start and are severely impacted by a lengthy injury list, including Naji Marshall, Caleb Martin, Dereck Lively II, and Santi Aldama. The Dallas Mavericks, led by Luka Doncic and an active Kyrie Irving, should be able to exploit Miami's depleted roster and defensive gaps. Given Miami's current form and significant absences, covering a 7.5-point spread against a healthy Mavericks squad will be a considerable challenge.",
-          "awayRecord": "1-2",
+          "rationale": "The New York Knicks are struggling significantly on offense this season, averaging a league-worst 101.7 points per game and ranking 29th in offensive rating through their 0-3 start. While the Detroit Pistons are 3-0, they are allowing only 105.7 points per game, indicating a strong defensive presence. Both teams are allowing fewer than 109 points per game overall. With Knicks' Jose Alvarado (ankle) and Pistons' Jalen Duren (hamstring) both out, and Ausar Thompson (ankle) questionable for Detroit, key offensive and defensive pieces are missing, further contributing to a lower-scoring affair.",
+          "awayRecord": "3-0",
           "homeRecord": "0-3",
-          "startTime": "2026-10-26T23:30Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Indiana Pacers vs Milwaukee Bucks",
-          "betType": "total",
-          "pick": "Over 238.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The Milwaukee Bucks are surprisingly 0-3 and will be desperate for a home win, likely pushing the pace against a Pacers team on a back-to-back. Despite being on a back-to-back, Tyrese Haliburton plans to play for the Pacers, who demonstrated their offensive capability by scoring 136 points in their last game. Recent Bucks games have frequently gone Over the total (80% in their last 5 games), and their head-to-head matchups with the Pacers have also been high-scoring, averaging 230.1 points and reaching 257 in their last encounter. The Bucks also struggled defensively against three-pointers last season.",
-          "awayRecord": "2-1",
-          "homeRecord": "0-3",
-          "startTime": "2026-10-27T00:00Z",
+          "startTime": "2026-10-28T00:00Z",
           "awayLast5": [
             "W",
-            "L",
+            "W",
             "W"
           ],
           "homeLast5": [
@@ -89,15 +27,15 @@
           ]
         },
         {
-          "game": "Golden State Warriors vs Denver Nuggets",
-          "betType": "spread",
-          "pick": "Golden State Warriors +7.5",
-          "odds": "-115",
+          "game": "Sacramento Kings vs San Antonio Spurs",
+          "betType": "total",
+          "pick": "Over 232.5",
+          "odds": "-106",
           "confidence": "medium",
-          "rationale": "The Golden State Warriors are getting their core stars, Stephen Curry, Draymond Green, and Al Horford, back in the lineup after an 0-3 start, providing a significant boost in talent and motivation. Conversely, the Denver Nuggets are dealing with multiple injuries to key wing players, with Cameron Johnson and Alpha Diallo doubtful, and Spencer Jones and Julian Strawther out, which will impact their depth. A motivated Warriors team with returning stars facing a depleted Nuggets squad makes the +7.5 spread very appealing.",
+          "rationale": "The head-to-head history strongly favors the Over, with eight of the last ten meetings between the Kings and Spurs going above the total. San Antonio swept the Kings last season, winning by an average of 19.3 points and consistently building large early leads, suggesting a high-scoring pace when these teams meet. The Kings' defense is considered the weakest unit on the floor, which the Spurs' offense should exploit. Despite the Kings being 0-3, their games have seen points, and the Spurs' recent H2H dominance points towards another high-scoring contest.",
           "awayRecord": "0-3",
-          "homeRecord": "1-1",
-          "startTime": "2026-10-27T02:00Z",
+          "homeRecord": "1-2",
+          "startTime": "2026-10-28T00:00Z",
           "awayLast5": [
             "L",
             "L",
@@ -105,7 +43,70 @@
           ],
           "homeLast5": [
             "L",
+            "L",
             "W"
+          ]
+        },
+        {
+          "game": "Portland Trail Blazers vs Los Angeles Lakers",
+          "betType": "total",
+          "pick": "Under 234.5",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Both the Trail Blazers (2-0) and Lakers (3-0) have started the season with high-scoring offenses, but the betting market has pushed this total into unprecedented territory, as none of their last ten head-to-head meetings closed above 229.5 points. The Blazers are significantly impacted by injuries, with Shaedon Sharpe (meniscus surgery) out and Scoot Henderson (ankle soreness) questionable, which will hinder their offensive production. This high total likely reflects early-season offensive efficiency against softer defenses, making it a prime candidate to fade the hype and bet the Under.",
+          "awayRecord": "2-0",
+          "homeRecord": "3-0",
+          "startTime": "2026-10-28T03:00Z",
+          "awayLast5": [
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Brooklyn Nets vs Boston Celtics",
+          "betType": "spread",
+          "pick": "Boston Celtics -11.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Boston Celtics have a strong historical advantage over the Brooklyn Nets, winning four of their last five head-to-head matchups and averaging 120.0 points per game in those contests. The Nets are off to a dismal 0-3 start this season, exhibiting a poor defensive rating and allowing 123.7 points per game. Furthermore, the Nets are without key player Ben Simmons, who is out due to Achilles tendon repair surgery. Given the Celtics' recent dominance in this matchup and the Nets' early-season struggles and injuries, Boston should comfortably cover the -11.5 spread at home.",
+          "awayRecord": "0-3",
+          "homeRecord": "2-1",
+          "startTime": "2026-10-27T23:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Detroit Pistons vs New York Knicks",
+          "betType": "spread",
+          "pick": "Detroit Pistons +4.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Detroit Pistons enter this game with an impressive 3-0 straight-up and against-the-spread record, showcasing strong early-season form. Conversely, the New York Knicks, despite being defending champions, are off to a disappointing 0-3 start both straight-up and against the spread, struggling notably on offense with a league-low 101.7 points per game. While the Pistons have injuries to Jalen Duren (out) and Ausar Thompson (questionable), their overall team performance has been superior, and the Knicks' offensive woes make it difficult for them to cover a -4.5 spread against a competent Pistons team.",
+          "awayRecord": "3-0",
+          "homeRecord": "0-3",
+          "startTime": "2026-10-28T00:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L"
           ]
         }
       ]
@@ -114,126 +115,126 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "Detroit Red Wings @ Edmonton Oilers",
+          "game": "Boston Bruins vs Carolina Hurricanes",
           "betType": "total",
           "pick": "Over 6.5",
-          "odds": "-118",
+          "odds": "+106",
+          "confidence": "medium",
+          "rationale": "Both the Bruins and Hurricanes enter this matchup in superb offensive form, with a combined average of 7.9 goals per game this season. They have consistently found the back of the net, scoring at least four goals in 15 of their last 18 games combined. Furthermore, 11 of the Hurricanes' last 14 home games against opponents on a winning streak have gone OVER the total goals line, indicating a trend towards higher-scoring affairs in similar situations. With both teams boasting top-tier offenses and no significant defensive injuries reported, this game is poised for a high-scoring outcome.",
+          "awayRecord": "9-2-1",
+          "homeRecord": "9-2-2",
+          "startTime": "2026-10-28T00:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Buffalo Sabres vs San Jose Sharks",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "-122",
           "confidence": "high",
-          "rationale": "Both the Red Wings and Oilers are facing significant goaltending challenges, with Edmonton missing starting goalie Devon Levi and key defenseman Mattias Ekholm, and Detroit dealing with Daniil Tarasov (DTD) and John Gibson (upper body) concerns. The head-to-head history between these teams is notably high-scoring, averaging 7.5 goals per game across their last 20 meetings, which is well above the current total of 6.5. Edmonton's offense, led by top scorers Connor McDavid and Leon Draisaitl, is potent and capable of exploiting defensive weaknesses. This combination of offensive firepower and compromised goaltending on both sides creates a strong expectation for a high-scoring game.",
+          "rationale": "This game features two teams with significant defensive vulnerabilities, as the Sabres allow 3.64 goals per game and the Sharks concede 3.50 goals per game. The Sabres also struggle on the penalty kill, operating at a sub-70% efficiency, which the Sharks, ranking 6th in power play percentage, can exploit. Both teams have shown a strong tendency towards high-scoring games this season, with the Sabres hitting the Over in 8 of their 11 games and the Sharks in 7 of their 12 games. Collectively, they have gone Over the total in 9 of their last 11 combined games, making the Over 6.5 a compelling pick.",
           "awayRecord": "4-4-3",
-          "homeRecord": "8-2-1",
-          "startTime": "2026-10-27T01:30Z",
+          "homeRecord": "6-5-1",
+          "startTime": "2026-10-28T02:30Z",
           "awayLast5": [
-            "W",
-            "W",
             "L",
             "W",
+            "L",
+            "L",
             "L"
           ],
           "homeLast5": [
             "L",
-            "W",
+            "L",
             "W",
             "W",
             "L"
           ]
         },
         {
-          "game": "Toronto Maple Leafs @ Calgary Flames",
+          "game": "Vancouver Canucks vs Anaheim Ducks",
           "betType": "total",
           "pick": "Over 6.5",
-          "odds": "-120",
+          "odds": "-122",
           "confidence": "high",
-          "rationale": "The historical head-to-head matchups between the Maple Leafs and Flames consistently feature high scoring, with an average of 6.8 goals per game in their last 10 meetings and the Over 5.5 hitting in 8 of those 10 games. Toronto enters this game on a four-game winning streak, showcasing their offensive prowess, including a dominant 7-2 victory over Edmonton. While Calgary's goalie Devin Cooley has been in strong form recently, the Maple Leafs' potent offense, led by Auston Matthews, is expected to challenge him significantly. This strong historical trend and Toronto's current offensive momentum make the Over a high-confidence play.",
-          "awayRecord": "7-4-2",
-          "homeRecord": "4-6-0",
-          "startTime": "2026-10-27T00:30Z",
+          "rationale": "The Vancouver Canucks are in a severe defensive slump, having lost 10 consecutive games and possessing the worst defense and penalty kill in the league. Compounding their issues, starting goaltender Thatcher Demko is out with a hip injury, further weakening their netminding. The Ducks, despite their own struggles, managed to score 5 goals in their last game, and face a Canucks team that has given up an average of 4.5 goals from 34.4 shots in recent outings. Given Vancouver's defensive woes and goaltending situation, a high-scoring game is highly probable.",
+          "awayRecord": "2-10-1",
+          "homeRecord": "5-6-0",
+          "startTime": "2026-10-28T02:00Z",
           "awayLast5": [
             "L",
-            "W",
-            "W",
-            "W",
-            "W"
+            "L",
+            "L",
+            "L",
+            "L"
           ],
           "homeLast5": [
-            "W",
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Los Angeles Kings @ New York Rangers",
+          "game": "New York Islanders vs Nashville Predators",
           "betType": "total",
           "pick": "Under 5.5",
-          "odds": "+110",
+          "odds": "-102",
           "confidence": "medium",
-          "rationale": "Despite the New York Rangers missing their top two goalies, Igor Shesterkin (out for season) and Joonas Korpisalo (out four weeks), they have maintained an impressive 6-0-0 record at home this season, demonstrating an ability to protect their replacement goaltenders. The Kings, while seeing some players return, are still without key offensive contributors like Mats Zuccarello and Kevin Fiala, which limits their scoring potential. The Rangers' defensive scheme at home has been effective in limiting scoring opportunities, and the Kings have struggled to generate consistent offense in their early games. A predicted score of 3-2 in favor of the Rangers further supports the Under 5.5 total.",
-          "awayRecord": "2-5-2",
-          "homeRecord": "7-5-1",
-          "startTime": "2026-10-26T23:00Z",
+          "rationale": "While the head-to-head history between the Islanders and Predators averages 5.8 goals per game, both teams have shown a recent trend towards lower-scoring contests this season. The Islanders have gone Under the total in 7 of their 10 games, while the Predators have gone Under in 6 of their 11 games. Both teams possess strong defensive systems, with the Islanders averaging 2.9 goals against and the Predators 3.3 goals against per game over the last 12 months. With the total set at 5.5, the defensive capabilities and recent Under trends suggest this game will stay below the line.",
+          "awayRecord": "5-4-2",
+          "homeRecord": "4-3-4",
+          "startTime": "2026-10-28T00:00Z",
           "awayLast5": [
             "L",
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
             "L"
           ],
           "homeLast5": [
             "L",
-            "L",
             "W",
             "L",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Toronto Maple Leafs @ Calgary Flames",
+          "game": "Florida Panthers vs Winnipeg Jets",
           "betType": "spread",
-          "pick": "Calgary Flames +1.5",
-          "odds": "-180",
+          "pick": "Winnipeg Jets +1.5",
+          "odds": "-225",
           "confidence": "medium",
-          "rationale": "Despite Toronto's strong head-to-head record against Calgary, winning the last eight matchups, there is significant reverse line movement indicating sharp money is coming in on the Flames. Calgary has shown strong recent form, winning four of their last five games after a slow start, bolstered by excellent goaltending from Devin Cooley, who boasts a 1.33 GAA and .962 SV% in his last three starts. The Flames have won three straight at home, suggesting they can compete even against a strong Toronto team. This combination of recent home success, strong goaltending, and sharp money signals makes Calgary +1.5 a high-confidence pick.",
-          "awayRecord": "7-4-2",
-          "homeRecord": "4-6-0",
-          "startTime": "2026-10-27T00:30Z",
+          "rationale": "The Winnipeg Jets have a strong historical advantage over the Panthers, holding a 6-2 record in their last 8 meetings and winning 3 of their last 4 games in Winnipeg. Betting trends strongly favor the Jets covering the spread as home underdogs, having covered the puck line in each of their last 12 games in this scenario. Conversely, the Panthers have struggled against the puck line as road favorites, failing to cover in each of their last 11 such games. AccuScore's simulation also makes the Jets the more likely winner at 54% confidence, reinforcing the value on Winnipeg +1.5.",
+          "awayRecord": "6-4-2",
+          "homeRecord": "4-4-3",
+          "startTime": "2026-10-28T00:00Z",
           "awayLast5": [
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
-            "W",
+            "L",
             "W"
           ],
           "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Los Angeles Kings @ New York Rangers",
-          "betType": "prop",
-          "pick": "Gabe Perreault Over 2.5 Shots on Goal",
-          "odds": "N/A",
-          "confidence": "medium",
-          "rationale": "New York Rangers forward Gabe Perreault has demonstrated a significant increase in his shot volume since Alexis Lafrenière moved to the top line, with his shots on goal per 60 minutes soaring to 10.06 SOG per 60. Perreault is an active player for the Rangers in this game, confirming his availability. Given this substantial increase in shot generation and his prominent role on the top line, he is in a prime position to exceed 2.5 shots on goal against the Kings. The Kings have also shown some vulnerability in suppressing shots in their early-season games, further supporting this prop bet.",
-          "awayRecord": "2-5-2",
-          "homeRecord": "7-5-1",
-          "startTime": "2026-10-26T23:00Z",
-          "awayLast5": [
             "L",
             "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
             "L",
-            "L",
-            "W",
             "L",
             "L"
           ]
@@ -244,15 +245,15 @@
       "sport": "MLB",
       "picks": [
         {
-          "game": "Milwaukee Brewers vs Tampa Bay Rays",
+          "game": "Milwaukee Brewers @ Tampa Bay Rays",
           "betType": "total",
-          "pick": "Under 7.5",
-          "odds": "-138",
-          "confidence": "high",
-          "rationale": "The pitching matchup features two strong postseason performers in Freddy Peralta for the Rays and Robert Gasser for the Brewers. Peralta boasts a 1.08 ERA in 16 2/3 postseason innings and a remarkable 0.89 ERA over his last 10 appearances, while Gasser holds a 1.00 ERA in 9 postseason innings. Head-to-head matchups between these teams have historically been low-scoring, with an average of just 6.4 runs per game across 20 meetings. The Brewers' bullpen has also been a dominant force this postseason, recording a collective 1.33 ERA, which further supports a low-scoring affair.",
+          "pick": "Over 7.5",
+          "odds": "+106",
+          "confidence": "medium",
+          "rationale": "The recent head-to-head history between these two teams strongly favors the Over, with 4 of their last 5 matchups exceeding the total, including a 10-1 score in Game 3 of the World Series. The Milwaukee Brewers' offense is currently hot, coming off a dominant performance and batting .258 in their last 10 games. Tampa Bay's starting pitcher, Griffin Jax, has a 6.00 postseason ERA and previously allowed 5 runs (3 earned) to the Brewers without recording an out, suggesting vulnerability. With Milwaukee expected to utilize a bullpen game, there's potential for increased scoring opportunities, pushing the total Over.",
           "awayRecord": "103-59",
           "homeRecord": "98-64",
-          "startTime": "2026-10-27T00:00Z",
+          "startTime": "2026-10-28T00:00Z",
           "awayLast5": [
             "W",
             "W",
@@ -263,21 +264,21 @@
           "homeLast5": [
             "W",
             "W",
-            "W",
+            "L",
             "L",
             "L"
           ]
         },
         {
-          "game": "Milwaukee Brewers vs Tampa Bay Rays",
+          "game": "Milwaukee Brewers @ Tampa Bay Rays",
           "betType": "moneyline",
-          "pick": "Tampa Bay Rays",
-          "odds": "-120",
+          "pick": "Milwaukee Brewers",
+          "odds": "-124",
           "confidence": "high",
-          "rationale": "The Tampa Bay Rays are in a critical Game 3 at home, facing a 0-2 series deficit, which creates a strong motivational factor. They finished the regular season with an impressive 55-26 home record and are 4-1 at Tropicana Field this postseason. Starting pitcher Freddy Peralta has been exceptional, especially at home, where he holds a 1.45 ERA since joining the Rays and is 7-0 over his last 10 appearances. This combination of home-field advantage, situational urgency, and a red-hot starting pitcher gives the Rays a significant edge to secure a victory.",
+          "rationale": "The Milwaukee Brewers hold a commanding 3-0 lead in the World Series and have won 4 of their last 5 head-to-head matchups against the Tampa Bay Rays. Their recent form is exceptional, boasting a 9-1 record in their last 10 games, demonstrating strong momentum. The Rays are facing elimination at home, but their starting pitcher, Griffin Jax, has a history of struggling against the Brewers, and the team is dealing with a significant injury list, including key pitchers like Shane McClanahan. Milwaukee's consistent performance and series dominance make them a confident moneyline pick.",
           "awayRecord": "103-59",
           "homeRecord": "98-64",
-          "startTime": "2026-10-27T00:00Z",
+          "startTime": "2026-10-28T00:00Z",
           "awayLast5": [
             "W",
             "W",
@@ -288,21 +289,21 @@
           "homeLast5": [
             "W",
             "W",
-            "W",
+            "L",
             "L",
             "L"
           ]
         },
         {
-          "game": "Milwaukee Brewers vs Tampa Bay Rays",
+          "game": "Milwaukee Brewers @ Tampa Bay Rays",
           "betType": "spread",
           "pick": "Tampa Bay Rays +1.5",
-          "odds": "-210",
+          "odds": "-170",
           "confidence": "high",
-          "rationale": "Both of the Brewers' World Series victories against the Rays have been decided by a single run (3-2 and 5-4), highlighting the extremely close nature of these contests. The Rays, playing at their home stadium in a must-win scenario, are highly motivated to keep this game tight and competitive. Given the historical closeness of their recent matchups and Tampa Bay's strong home performance, covering the +1.5 run line is a very probable outcome, even if the Brewers ultimately win the game.",
+          "rationale": "Despite Milwaukee's 3-0 series lead, two of their three victories were decided by a single run (3-2 and 5-4), indicating that not all games have been blowouts. The Tampa Bay Rays are in an elimination game at their home field, Tropicana Field, which often motivates teams to deliver a more competitive performance. The Rays also hold a strong home record of 59-28 this season. While the Brewers are favored, the Rays could keep this game tight enough to cover the +1.5 run line, especially given the pressure of avoiding a sweep.",
           "awayRecord": "103-59",
           "homeRecord": "98-64",
-          "startTime": "2026-10-27T00:00Z",
+          "startTime": "2026-10-28T00:00Z",
           "awayLast5": [
             "W",
             "W",
@@ -311,34 +312,9 @@
             "W"
           ],
           "homeLast5": [
-            "W",
             "W",
             "W",
             "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Milwaukee Brewers vs Tampa Bay Rays",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "+172",
-          "confidence": "medium",
-          "rationale": "The Milwaukee Brewers enter Game 3 with exceptional momentum, having won nine of their last ten games and six consecutive postseason games, including a sweep of the Los Angeles Dodgers in the NLCS. Their offense has been productive, batting .257-.258 in their last 10 games, and they have shown resilience by coming back from a 4-0 deficit to win Game 2. If starting pitcher Robert Gasser continues his strong postseason form (1.00 ERA) and the Brewers' bats stay hot, they are capable of securing a multi-run victory despite playing on the road.",
-          "awayRecord": "103-59",
-          "homeRecord": "98-64",
-          "startTime": "2026-10-27T00:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
             "L",
             "L"
           ]
@@ -346,106 +322,131 @@
       ]
     },
     {
-      "sport": "NFL",
+      "sport": "NCAAF",
       "picks": [
         {
-          "game": "Dallas Cowboys vs Philadelphia Eagles",
-          "betType": "total",
-          "pick": "Under 44.5",
-          "odds": "-118",
+          "game": "Delaware Blue Hens vs Western Kentucky Hilltoppers",
+          "betType": "spread",
+          "pick": "Western Kentucky Hilltoppers -1.5",
+          "odds": "-112",
           "confidence": "high",
-          "rationale": "The Philadelphia Eagles are severely hampered offensively with starting quarterback Jalen Hurts out for the season due to blood clots, leaving Tanner McKee to start his second game. The Eagles' offense ranks 28th in scoring, averaging just 17.7 points per game, and they are also without key receivers DeVonta Smith and Dontayvion Wicks. This significant downgrade at quarterback and depleted receiving corps will limit their scoring potential, making it difficult to contribute to a high-scoring game. Furthermore, the line movement has seen the total tick down from 44.5 to 43.5 at some books, with a majority of the money coming in on the Under, indicating sharp action.",
-          "awayRecord": "2-4",
-          "homeRecord": "2-4",
-          "startTime": "2026-10-27T00:15Z",
+          "rationale": "Western Kentucky boasts an impressive home record, winning 13 of their last 15 games in Bowling Green, including both home contests this season. The Hilltoppers' defense has been formidable recently, conceding a mere 16 points across their last two victories. Despite public betting heavily favoring Delaware, the spread has shifted from Delaware -2.5 to Western Kentucky -1.5, indicating sharp money is backing WKU. Conversely, Delaware has struggled significantly on the road, holding an 0-3 record this season and losing seven consecutive away games. This combination of WKU's home dominance, defensive prowess, and favorable line movement creates a strong betting edge for the Hilltoppers to cover the spread.",
+          "awayRecord": "3-4",
+          "homeRecord": "3-4",
+          "startTime": "2026-10-27T23:00Z",
           "awayLast5": [
             "W",
             "L",
-            "W",
             "L",
-            "L"
+            "L",
+            "W"
           ],
           "homeLast5": [
+            "L",
             "W",
             "L",
-            "L",
-            "L",
-            "L"
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Dallas Cowboys vs Philadelphia Eagles",
+          "game": "Delaware Blue Hens vs Western Kentucky Hilltoppers",
+          "betType": "total",
+          "pick": "Under 57.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The total for this game has seen a notable downward adjustment, opening as high as 58.5 and settling at the current verified line of 57.5, with some books even lower. This line movement, coupled with 87% of the public money on the Under, signals strong market confidence in a lower-scoring affair. Western Kentucky's defense has been exceptional in recent weeks, allowing only 16 combined points in their last two outings. While Delaware's offense showed explosive potential last week, replicating that performance on the road against a stout WKU defense is a much tougher task.",
+          "awayRecord": "3-4",
+          "homeRecord": "3-4",
+          "startTime": "2026-10-27T23:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Sam Houston Bearkats vs Missouri State Bears",
           "betType": "spread",
-          "pick": "Dallas Cowboys -4.5",
+          "pick": "Sam Houston Bearkats +5.5",
           "odds": "-108",
           "confidence": "high",
-          "rationale": "The Dallas Cowboys are in a prime position to cover against an Eagles team reeling from the loss of Jalen Hurts, who is out for the season, and other key offensive injuries. The Eagles' offense has struggled immensely with Tanner McKee under center, contributing to their four-game losing streak and a poor 1-5 ATS record this season, including 0-3 ATS at home. Dallas's offense, led by Dak Prescott and CeeDee Lamb, is significantly more productive, averaging 25.2 points per game compared to Philadelphia's 17.7. The substantial line movement from Eagles -1.5 to Cowboys -4.5 further signals strong market confidence in Dallas.",
-          "awayRecord": "2-4",
-          "homeRecord": "2-4",
-          "startTime": "2026-10-27T00:15Z",
+          "rationale": "Sam Houston's defense, particularly against the pass, is a significant strength, ranking third in FBS, which directly challenges Missouri State's pass-heavy offense. While the Bearkats' offense has been inconsistent, they face a Missouri State defense that ranks 130th in FBS in points allowed and has given up at least 30 points in every loss this season. The line has seen some movement, but staying at +5.5 offers value for Sam Houston to keep the game competitive, especially with Missouri State's defensive vulnerabilities. Injuries to Sam Houston's offensive line and a key receiver are concerns, but Missouri State's defensive struggles should still allow Sam Houston to produce.",
+          "awayRecord": "1-6",
+          "homeRecord": "2-5",
+          "startTime": "2026-10-28T00:00Z",
           "awayLast5": [
             "W",
             "L",
-            "W",
+            "L",
             "L",
             "L"
           ],
           "homeLast5": [
+            "L",
+            "L",
+            "L",
             "W",
-            "L",
-            "L",
-            "L",
             "L"
           ]
         },
         {
-          "game": "Dallas Cowboys vs Philadelphia Eagles",
-          "betType": "moneyline",
-          "pick": "Dallas Cowboys (-205)",
-          "odds": "-205",
-          "confidence": "high",
-          "rationale": "The Dallas Cowboys moneyline is a high-confidence pick due to the Philadelphia Eagles' dire quarterback situation, with Jalen Hurts sidelined for the season and Tanner McKee struggling in his place. The Eagles are on a four-game losing streak and have a significantly less potent offense, while the Cowboys' offense is averaging nearly eight points more per game. The substantial shift in the spread from Eagles favored to Cowboys -4.5 reflects the market's strong belief in a Dallas victory. This divisional matchup, despite both teams being 2-4, heavily favors the Cowboys given the Eagles' current injury woes and offensive struggles.",
-          "awayRecord": "2-4",
-          "homeRecord": "2-4",
-          "startTime": "2026-10-27T00:15Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Dallas Cowboys vs Philadelphia Eagles",
-          "betType": "spread",
-          "pick": "Philadelphia Eagles +4.5",
-          "odds": "-112",
+          "game": "Sam Houston Bearkats vs Missouri State Bears",
+          "betType": "total",
+          "pick": "Over 51.5",
+          "odds": "-108",
           "confidence": "medium",
-          "rationale": "While the Eagles are facing significant offensive challenges with Jalen Hurts out and key receivers injured, divisional games often play out closer than expected, especially at home. The Eagles' defense, despite the team's struggles, is ranked 16th in points allowed per game, suggesting they can keep the game competitive. The spread moving so drastically from Eagles -1.5 to Cowboys -4.5 might represent an overcorrection by the market. If Philadelphia's defense can generate turnovers or limit Dallas's scoring opportunities, they could keep the game within the spread in front of their home crowd.",
-          "awayRecord": "2-4",
-          "homeRecord": "2-4",
-          "startTime": "2026-10-27T00:15Z",
+          "rationale": "Missouri State's defense is a major weakness, ranking among the worst in FBS by allowing nearly 40 points and 470 yards per game, including 274 passing yards. Their recent 61-38 loss to Delaware further highlights their defensive struggles. Sam Houston's passing offense, despite injuries, has the potential to exploit Missouri State's porous secondary, and their run defense has been gashed for over 200 yards per game, which Missouri State could leverage. The combination of a highly vulnerable defense and offensive capabilities on both sides, especially Missouri State's passing game, points towards a game exceeding the projected total.",
+          "awayRecord": "1-6",
+          "homeRecord": "2-5",
+          "startTime": "2026-10-28T00:00Z",
           "awayLast5": [
             "W",
             "L",
-            "W",
+            "L",
             "L",
             "L"
           ],
           "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Delaware Blue Hens vs Western Kentucky Hilltoppers",
+          "betType": "moneyline",
+          "pick": "Western Kentucky Hilltoppers",
+          "odds": "-118",
+          "confidence": "medium",
+          "rationale": "Western Kentucky holds a significant home-field advantage, having won 13 of their last 15 games at home and maintaining a perfect 2-0 home record this season. The line movement, which saw Western Kentucky shift from a 2.5-point underdog to a 1.5-point favorite despite public betting on Delaware, indicates sharp money backing the Hilltoppers. Delaware, conversely, has struggled immensely on the road, with an 0-3 record this season and seven consecutive road losses. WKU's recent defensive improvement further solidifies their position to secure an outright victory at home.",
+          "awayRecord": "3-4",
+          "homeRecord": "3-4",
+          "startTime": "2026-10-27T23:00Z",
+          "awayLast5": [
             "W",
             "L",
             "L",
             "L",
-            "L"
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "W"
           ]
         }
       ]
