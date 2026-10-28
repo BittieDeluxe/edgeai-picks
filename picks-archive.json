@@ -1,5 +1,193 @@
 [
   {
+    "date": "2026-10-27",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Detroit Pistons vs New York Knicks",
+            "betType": "total",
+            "pick": "Under 218.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Pistons 97, New York Knicks 111"
+          },
+          {
+            "game": "Sacramento Kings vs San Antonio Spurs",
+            "betType": "total",
+            "pick": "Over 232.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sacramento Kings 103, San Antonio Spurs 130"
+          },
+          {
+            "game": "Portland Trail Blazers vs Los Angeles Lakers",
+            "betType": "total",
+            "pick": "Under 234.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Portland Trail Blazers 136, Los Angeles Lakers 129"
+          },
+          {
+            "game": "Brooklyn Nets vs Boston Celtics",
+            "betType": "spread",
+            "pick": "Boston Celtics -11.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Brooklyn Nets 124, Boston Celtics 125"
+          },
+          {
+            "game": "Detroit Pistons vs New York Knicks",
+            "betType": "spread",
+            "pick": "Detroit Pistons +4.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 97, New York Knicks 111"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Boston Bruins vs Carolina Hurricanes",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Boston Bruins 1, Carolina Hurricanes 2"
+          },
+          {
+            "game": "Buffalo Sabres vs San Jose Sharks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Buffalo Sabres 2, San Jose Sharks 0"
+          },
+          {
+            "game": "Vancouver Canucks vs Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "W",
+            "score": "Vancouver Canucks 6, Anaheim Ducks 5"
+          },
+          {
+            "game": "New York Islanders vs Nashville Predators",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Islanders 4, Nashville Predators 3"
+          },
+          {
+            "game": "Florida Panthers vs Winnipeg Jets",
+            "betType": "spread",
+            "pick": "Winnipeg Jets +1.5",
+            "odds": "-225",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Florida Panthers 5, Winnipeg Jets 1"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Milwaukee Brewers @ Tampa Bay Rays",
+            "betType": "total",
+            "pick": "Over 7.5",
+            "odds": "+106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Milwaukee Brewers 3, Tampa Bay Rays 4"
+          },
+          {
+            "game": "Milwaukee Brewers @ Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-124",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 3, Tampa Bay Rays 4"
+          },
+          {
+            "game": "Milwaukee Brewers @ Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Tampa Bay Rays +1.5",
+            "odds": "-170",
+            "confidence": "high",
+            "result": "W",
+            "score": "Milwaukee Brewers 3, Tampa Bay Rays 4"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Delaware Blue Hens vs Western Kentucky Hilltoppers",
+            "betType": "spread",
+            "pick": "Western Kentucky Hilltoppers -1.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Delaware Blue Hens 35, Western Kentucky Hilltoppers 21"
+          },
+          {
+            "game": "Delaware Blue Hens vs Western Kentucky Hilltoppers",
+            "betType": "total",
+            "pick": "Under 57.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Delaware Blue Hens 35, Western Kentucky Hilltoppers 21"
+          },
+          {
+            "game": "Sam Houston Bearkats vs Missouri State Bears",
+            "betType": "spread",
+            "pick": "Sam Houston Bearkats +5.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Sam Houston Bearkats 3, Missouri State Bears 24"
+          },
+          {
+            "game": "Sam Houston Bearkats vs Missouri State Bears",
+            "betType": "total",
+            "pick": "Over 51.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sam Houston Bearkats 3, Missouri State Bears 24"
+          },
+          {
+            "game": "Delaware Blue Hens vs Western Kentucky Hilltoppers",
+            "betType": "moneyline",
+            "pick": "Western Kentucky Hilltoppers",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Delaware Blue Hens 35, Western Kentucky Hilltoppers 21"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-26",
     "sports": [
       {
@@ -5191,135 +5379,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Philadelphia Eagles 7, Chicago Bears 27"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-27",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Cleveland Guardians @ Kansas City Royals",
-            "betType": "total",
-            "pick": "Under 8.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Cleveland Guardians 2, Kansas City Royals 3"
-          },
-          {
-            "game": "Pittsburgh Pirates @ Detroit Tigers",
-            "betType": "total",
-            "pick": "Under 8",
-            "odds": "-117",
-            "confidence": "high",
-            "result": "W",
-            "score": "Pittsburgh Pirates 4, Detroit Tigers 2"
-          },
-          {
-            "game": "Texas Rangers @ Minnesota Twins",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Texas Rangers 4, Minnesota Twins 6"
-          },
-          {
-            "game": "Colorado Rockies @ Chicago White Sox",
-            "betType": "total",
-            "pick": "Over 8.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Colorado Rockies 2, Chicago White Sox 4"
-          },
-          {
-            "game": "Chicago Cubs @ Boston Red Sox",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Chicago Cubs 6, Boston Red Sox 2"
-          }
-        ]
-      },
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "Seattle Seahawks vs Washington Commanders",
-            "betType": "spread",
-            "pick": "Seattle Seahawks -8.5",
-            "odds": "-105",
-            "confidence": "high",
-            "result": "L",
-            "score": "Seattle Seahawks 31, Washington Commanders 33"
-          },
-          {
-            "game": "Baltimore Ravens vs Dallas Cowboys",
-            "betType": "total",
-            "pick": "Over 53.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Baltimore Ravens 34, Dallas Cowboys 31"
-          },
-          {
-            "game": "New England Patriots vs Jacksonville Jaguars",
-            "betType": "total",
-            "pick": "Under 45.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "New England Patriots 6, Jacksonville Jaguars 35"
-          },
-          {
-            "game": "Minnesota Vikings vs Tampa Bay Buccaneers",
-            "betType": "total",
-            "pick": "Over 42.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Minnesota Vikings 23, Tampa Bay Buccaneers 16"
-          },
-          {
-            "game": "Los Angeles Chargers vs Buffalo Bills",
-            "betType": "total",
-            "pick": "Over 50.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Chargers 16, Buffalo Bills 24"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Inter Miami CF vs Columbus Crew",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Inter Miami CF 1, Columbus Crew 2"
-          },
-          {
-            "game": "Inter Miami CF vs Columbus Crew",
-            "betType": "moneyline",
-            "pick": "Inter Miami CF ML",
-            "odds": "+115",
-            "confidence": "high",
-            "result": "L",
-            "score": "Inter Miami CF 1, Columbus Crew 2"
           }
         ]
       }
