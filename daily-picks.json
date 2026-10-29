@@ -1,330 +1,254 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T15:54:03.016Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T15:59:33.674Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Orlando Magic vs Toronto Raptors",
-          "betType": "total",
-          "pick": "Under 223.5",
+          "game": "Cleveland Cavaliers vs Atlanta Hawks",
+          "betType": "spread",
+          "pick": "Cleveland Cavaliers +1.5",
           "odds": "-115",
           "confidence": "medium",
-          "rationale": "Both the Magic and Raptors are heavily impacted by significant injuries to key offensive players. The Magic are without Paolo Banchero and Jalen Suggs, and are struggling with 3-point shooting at 32.2% (20th in the league) despite high volume. The Raptors are missing Kawhi Leonard, which has contributed to their slow offensive start with a 108.3 offensive rating. While Toronto forces turnovers, the combined offensive struggles and key absences for both teams suggest a lower-scoring contest than the total implies.",
-          "awayRecord": "1-2",
-          "homeRecord": "2-1",
-          "startTime": "2026-10-28T23:30Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Oklahoma City Thunder vs Dallas Mavericks",
-          "betType": "total",
-          "pick": "Under 229.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "The Oklahoma City Thunder are severely hampered by injuries, with Jalen Williams, Chet Holmgren, Cason Wallace, and Alex Caruso all ruled out, and Ajay Mitchell questionable. These absences remove critical offensive and defensive contributors, which will likely reduce their scoring output and overall pace. The Dallas Mavericks also have notable injury concerns, with Kyrie Irving questionable and Dereck Lively II out. The extensive list of sidelined players for both teams, particularly on the defensive end for OKC, points to a game where points will be at a premium.",
-          "awayRecord": "4-0",
-          "homeRecord": "2-2",
-          "startTime": "2026-10-29T01:30Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Philadelphia 76ers vs Indiana Pacers",
-          "betType": "spread",
-          "pick": "Philadelphia 76ers -5.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "The Philadelphia 76ers hold a strong historical advantage over the Indiana Pacers, having won 4 of their last 5 head-to-head matchups, including the last four in a row. The 76ers enter this game with a 3-1 record, demonstrating solid early-season form. While both teams have some players out, the 76ers' core is intact, and their consistent success against the Pacers, coupled with their current momentum, makes them a strong play to cover the spread.",
+          "rationale": "The Cleveland Cavaliers enter this game on a three-game winning streak, showcasing strong recent form, while the Atlanta Hawks have lost their last three outings. The line movement is favorable, with Cleveland now catching 1.5 points after opening as a favorite, indicating sharp money on the Cavaliers. Atlanta is significantly hampered by injuries to key frontcourt players Mouhamed Gueye and Henri Veesaar, which will be exploited by Cleveland's rebounding and rim protection advantage. Both teams are on the second night of a back-to-back, which could lead to tired legs, but the Cavaliers' momentum and health advantage in the paint make them a strong play.",
           "awayRecord": "3-1",
-          "homeRecord": "2-2",
-          "startTime": "2026-10-28T23:00Z",
+          "homeRecord": "2-3",
+          "startTime": "2026-10-30T00:00Z",
           "awayLast5": [
+            "L",
             "W",
             "W",
-            "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "W",
-            "L",
             "W",
+            "L",
+            "L",
             "L"
           ]
         },
         {
-          "game": "Washington Wizards vs Cleveland Cavaliers",
+          "game": "Cleveland Cavaliers vs Atlanta Hawks",
           "betType": "total",
-          "pick": "Over 239.5",
+          "pick": "Under 237.5",
           "odds": "-105",
           "confidence": "medium",
-          "rationale": "The Washington Wizards struggled defensively last season, ranking second-worst in points allowed (124.9 PPG) and worst in rebounds allowed (47.8 per game). They are also missing several players due to injury, further weakening their defense. Conversely, the Cleveland Cavaliers were a top-five offensive team last year, averaging 119.5 points per game and ranking eighth in three-pointers made. Playing at home where they are 2-0, the Cavaliers are poised to exploit the Wizards' defensive deficiencies, leading to a high-scoring affair.",
-          "awayRecord": "2-2",
-          "homeRecord": "2-1",
-          "startTime": "2026-10-28T23:00Z",
+          "rationale": "Both the Cavaliers and Hawks are playing on the second night of a back-to-back, a situational factor that often leads to decreased offensive efficiency and tired legs. The total has seen significant line movement, dropping from an opening of 239.5 to the current 237.5, with nearly all of the betting money coming in on the Under. Head-to-head matchups between these two teams have historically averaged 231.4 points, which is well below the current total. With Atlanta missing key frontcourt players like Mouhamed Gueye and Henri Veesaar, their offensive flow could be impacted, further supporting a lower-scoring affair.",
+          "awayRecord": "3-1",
+          "homeRecord": "2-3",
+          "startTime": "2026-10-30T00:00Z",
           "awayLast5": [
-            "W",
             "L",
             "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Sacramento Kings vs New Orleans Pelicans",
+          "betType": "spread",
+          "pick": "New Orleans Pelicans -5.5",
+          "odds": "-120",
+          "confidence": "medium",
+          "rationale": "The New Orleans Pelicans, despite their 0-4 start, possess a significantly stronger offense averaging 124.7 points per game and hold clear advantages in steals, blocks, and rebounding over the Sacramento Kings. The Kings are also 0-4 and are struggling defensively, allowing a league-high 125.5 points per game. Crucially, Sacramento will be without Keegan Murray and other frontcourt players, making it even more challenging to contain New Orleans' key offensive threats like Zion Williamson. The spread has remained steady at Pelicans -5.5, indicating market confidence in New Orleans to secure their first win convincingly against a depleted Kings squad.",
+          "awayRecord": "0-4",
+          "homeRecord": "0-4",
+          "startTime": "2026-10-30T00:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
             "L"
           ],
           "homeLast5": [
             "L",
-            "W",
-            "W"
+            "L",
+            "L",
+            "L"
           ]
         },
         {
-          "game": "Golden State Warriors vs Minnesota Timberwolves",
+          "game": "Sacramento Kings vs New Orleans Pelicans",
           "betType": "total",
-          "pick": "Under 227.5",
+          "pick": "Under 236.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The Minnesota Timberwolves will be significantly impacted by the absence of star Anthony Edwards, who is out for two months with a knee injury, and Donte DiVincenzo. Edwards' absence will severely limit their offensive production and likely slow their pace. The Timberwolves were also a strong defensive team last season, ranking best in 3-pointers allowed. While the Warriors have their own injuries, the major offensive void for Minnesota combined with their defensive capabilities points towards a game that will stay under the projected total.",
-          "awayRecord": "1-3",
-          "homeRecord": "3-1",
-          "startTime": "2026-10-29T00:00Z",
+          "rationale": "Despite both teams having high scoring averages in their recent games, the total for this 'winless bowl' matchup has seen a significant drop from its opening, settling at 236.5 with the majority of money backing the Under. The Sacramento Kings are allowing a high 125.5 points per game but are only scoring 107.8 points per game, suggesting their offense might not contribute enough to push the total over. With the pressure of both teams looking for their first win, defensive intensity could increase, leading to a tighter, lower-scoring game. The Kings' missing frontcourt pieces, including Keegan Murray, could also hinder their offensive efficiency.",
+          "awayRecord": "0-4",
+          "homeRecord": "0-4",
+          "startTime": "2026-10-30T00:00Z",
           "awayLast5": [
             "L",
             "L",
             "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Memphis Grizzlies vs Portland Trail Blazers",
+          "betType": "total",
+          "pick": "Over 232.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "This game features two undefeated teams with strong offensive capabilities, suggesting a high-scoring affair. The Portland Trail Blazers are averaging an impressive 129.3 points per game at home and have the best net rating in the NBA, while the Memphis Grizzlies are also scoring 116.8 points per game. Although Memphis has a solid defense, allowing 107 points per game, the Trail Blazers' efficient offense, bolstered by Ja Morant's first game against his former team, is expected to push the pace. The line movement on the total has seen most of the money coming in on the Over, indicating market confidence in a shootout.",
+          "awayRecord": "4-0",
+          "homeRecord": "3-0",
+          "startTime": "2026-10-30T02:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
             "W"
           ],
           "homeLast5": [
             "W",
             "W",
-            "W",
-            "L"
+            "W"
           ]
         }
       ]
     },
     {
-      "sport": "NHL",
+      "sport": "NFL",
       "picks": [
         {
-          "game": "Philadelphia Flyers vs Washington Capitals",
+          "game": "Carolina Panthers vs Green Bay Packers",
+          "betType": "total",
+          "pick": "O/U 46.5 — Under",
+          "odds": "+100",
+          "confidence": "medium",
+          "rationale": "Both the Panthers and Packers enter this game with severely depleted offensive lines, with Carolina missing two starters and a reserve, and Green Bay without two starters and a backup. This significant injury impact is expected to hinder offensive production and create more pressure on quarterbacks, leading to fewer scoring opportunities. The Packers' games have consistently trended towards the Under this season, with a 2-5 O/U record. Furthermore, the average total points in the last 16 head-to-head matchups between these teams is 46, aligning closely with the current total. A short week for both teams also often favors defenses and simpler, less explosive game plans, reinforcing the expectation for a lower-scoring affair.",
+          "awayRecord": "3-3",
+          "homeRecord": "4-3",
+          "startTime": "2026-10-30T00:15Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Carolina Panthers vs Green Bay Packers",
           "betType": "spread",
-          "pick": "Washington Capitals -1.5",
-          "odds": "+110",
+          "pick": "Carolina Panthers +3.5",
+          "odds": "-108",
           "confidence": "high",
-          "rationale": "The Philadelphia Flyers are severely depleted by injuries to key offensive players like Travis Konecny and Owen Tippett, and they are playing on the second night of a back-to-back after an overtime loss. Washington has a better record (6-4-0 vs 3-7-4) and more rest, playing at home where they hold a 5-2-0 record. The Capitals have won 3 of the last 5 head-to-head matchups, including a dominant 6-4 victory in March 2026. Given Philadelphia's struggles (28th in goals for) and the Capitals' offensive depth, Washington is well-positioned to win by multiple goals.",
-          "awayRecord": "3-7-4",
-          "homeRecord": "6-4-0",
-          "startTime": "2026-10-28T23:30Z",
+          "rationale": "The Carolina Panthers have demonstrated a strong ability to cover the spread on the road, doing so in 5 consecutive road games and 8 of their last 10. Conversely, the Green Bay Packers have struggled to cover the -3.5 spread, failing to do so in 8 of their last 10 games and 5 of their last 7 this season. Both teams are facing significant injuries along their offensive lines, which could level the playing field and mitigate Green Bay's home-field advantage. The spread opening at -3 and briefly touching -4.5 before settling at -3.5 suggests some resistance to the higher numbers, indicating value on the underdog.",
+          "awayRecord": "3-3",
+          "homeRecord": "4-3",
+          "startTime": "2026-10-30T00:15Z",
           "awayLast5": [
             "W",
-            "W",
-            "W",
             "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Calgary Flames vs Edmonton Oilers",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-112",
-          "confidence": "medium",
-          "rationale": "The Edmonton Oilers boast one of the league's most potent offenses, ranking 2nd in goals for, spearheaded by Connor McDavid and Leon Draisaitl, who combine for exceptional scoring. However, Edmonton's goaltending situation is precarious with starting goalie Devon Levi injured and backup Tristan Jarry struggling with an .869 save percentage. The Oilers also rank 26th in goals against and penalty kill percentage, indicating defensive vulnerabilities. While Calgary's overall offensive numbers are low, they have found their scoring touch during their current four-game winning streak, netting 14 goals in that span. The 'Battle of Alberta' rivalry often leads to high-intensity, high-scoring affairs, and the Oilers have seen the Over hit in 8 of their 12 games this season.",
-          "awayRecord": "5-6-0",
-          "homeRecord": "8-2-2",
-          "startTime": "2026-10-29T00:30Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "New Jersey Devils vs Colorado Avalanche",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "+102",
-          "confidence": "medium",
-          "rationale": "This game features two offensively capable teams, with the Colorado Avalanche ranking 4th in the league in goals for, and the New Jersey Devils at 12th. The Avalanche are playing at home and are well-rested, while the Devils are on the second night of a back-to-back, which could lead to defensive fatigue. Recent head-to-head matchups have been high-scoring, with the last three meetings all going Over the total, including a 4-3 Devils win on October 20th. Both teams have also shown a tendency to hit the Over this season, with the Devils at 7-4 and the Avalanche at 6-4.",
-          "awayRecord": "8-4-0",
-          "homeRecord": "6-5-1",
-          "startTime": "2026-10-29T01:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Toronto Maple Leafs vs Seattle Kraken",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-120",
-          "confidence": "medium",
-          "rationale": "Both the Toronto Maple Leafs and Seattle Kraken have demonstrated a strong propensity for high-scoring games this season, with the Maple Leafs hitting the Over in 9 of 14 games and the Kraken in an impressive 9 of 11 games. Toronto's offense ranks 2nd in the league in goals for, but their defense is among the worst, ranking 30th in goals against. Similarly, Seattle's offense is strong (9th in GF), but their defense is also struggling (26th in GA). The last two head-to-head matchups between these teams both saw a combined total of seven goals, reinforcing the expectation for offensive output.",
-          "awayRecord": "7-5-2",
-          "homeRecord": "7-4-1",
-          "startTime": "2026-10-29T02:00Z",
-          "awayLast5": [
-            "W",
-            "W",
             "W",
             "W",
             "L"
           ],
           "homeLast5": [
             "L",
-            "L",
+            "W",
             "W",
             "W",
             "L"
           ]
         },
         {
-          "game": "New Jersey Devils vs Colorado Avalanche",
-          "betType": "moneyline",
-          "pick": "Colorado Avalanche",
-          "odds": "-148",
-          "confidence": "medium",
-          "rationale": "The Colorado Avalanche are playing at home with ample rest, while the New Jersey Devils are on the second night of a back-to-back after a game on Tuesday. Colorado, despite a recent 2-6 loss to Nashville, boasts a formidable offense, ranking 4th in the league in goals for. This game presents a prime 'revenge spot' for the Avalanche, as they lost their last encounter with the Devils 4-3 on October 20th. With the home-ice advantage and motivation to rebound, the Avalanche are in a strong position to secure a victory against a potentially fatigued Devils squad.",
-          "awayRecord": "8-4-0",
-          "homeRecord": "6-5-1",
-          "startTime": "2026-10-29T01:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        }
-      ]
-    },
-    {
-      "sport": "MLB",
-      "picks": [
-        {
-          "game": "Milwaukee Brewers @ Tampa Bay Rays",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-120",
+          "game": "Carolina Panthers vs Green Bay Packers",
+          "betType": "prop",
+          "pick": "Christian Watson Over 71.5 Receiving Yards",
+          "odds": "-114",
           "confidence": "high",
-          "rationale": "The average runs scored in the last 20 head-to-head matchups between the Brewers and Rays is 6.8 runs per game, which is slightly above the current total line of 6.5. The Tampa Bay Rays have seen the totals go OVER in 4 of their last 5 games, indicating a trend towards higher-scoring contests. Milwaukee's offense has been in excellent form, boasting a 9-1 record in their last 10 games and batting .277 as a team with an OPS of .827. Even with aces Jacob Misiorowski and Drew Rasmussen on the mound, the recent offensive output and head-to-head history suggest enough scoring to push past a relatively low total.",
-          "awayRecord": "103-59",
-          "homeRecord": "98-64",
-          "startTime": "2026-10-29T00:00Z",
+          "rationale": "Christian Watson is poised for a big game against a Carolina Panthers secondary that is severely depleted by injuries. The Panthers will be without starting outside linebacker Jaelan Phillips, starting cornerback Akayleb Evans, and have starting cornerbacks Mike Jackson and Jaycee Horn on injured reserve. This leaves Carolina with limited healthy options at cornerback, creating favorable matchups for Watson, who already boasts an 'elite role' in the Packers' offense. With Packers wide receiver Matthew Golden also questionable, Watson could see an even higher target share. Watson is active and expected to play.",
+          "awayRecord": "3-3",
+          "homeRecord": "4-3",
+          "startTime": "2026-10-30T00:15Z",
           "awayLast5": [
             "W",
-            "W",
+            "L",
             "W",
             "W",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W",
-            "L",
-            "L",
-            "L",
-            "W"
+            "W",
+            "W",
+            "L"
           ]
         },
         {
-          "game": "Milwaukee Brewers @ Tampa Bay Rays",
-          "betType": "moneyline",
-          "pick": "Milwaukee Brewers",
-          "odds": "-156",
-          "confidence": "high",
-          "rationale": "The Milwaukee Brewers enter this game with a dominant 103-59 record and have been exceptional recently, going 9-1 in their last 10 games. They hold a significant head-to-head advantage over the Rays, winning 15 of 26 meetings since 2011 and 4 of 5 in the 2026 season. Brewers ace Jacob Misiorowski (1.80 ERA) is pitching on full rest, providing a strong pitching advantage against a Rays team whose bullpen was taxed in Game 4. AccuScore's simulation gives the Brewers a 55% chance to win, reinforcing their favoritism in this World Series clinching opportunity.",
-          "awayRecord": "103-59",
-          "homeRecord": "98-64",
-          "startTime": "2026-10-29T00:00Z",
+          "game": "Carolina Panthers vs Green Bay Packers",
+          "betType": "prop",
+          "pick": "Tucker Kraft Over 46.5 Receiving Yards",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Green Bay tight end Tucker Kraft is in a prime position to exceed his receiving yards total due to key injuries to his teammate and the opposing defense. Fellow tight end Luke Musgrave has been ruled OUT for the Packers, which directly opens up a significant number of targets for Kraft. Additionally, the Carolina Panthers' secondary is severely compromised, with multiple starting and backup defensive backs out, which could allow Kraft to exploit coverage mismatches. With both offensive lines struggling due to injuries, quick passes to tight ends often become a more frequent option, further benefiting Kraft. Kraft is active and expected to play.",
+          "awayRecord": "3-3",
+          "homeRecord": "4-3",
+          "startTime": "2026-10-30T00:15Z",
           "awayLast5": [
             "W",
-            "W",
+            "L",
             "W",
             "W",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W",
-            "L",
-            "L",
-            "L",
-            "W"
+            "W",
+            "W",
+            "L"
           ]
         },
         {
-          "game": "Milwaukee Brewers @ Tampa Bay Rays",
-          "betType": "spread",
-          "pick": "Milwaukee Brewers -1.5",
-          "odds": "+115",
-          "confidence": "high",
-          "rationale": "Milwaukee's recent form is outstanding, with a 9-1 record over their last 10 games, demonstrating their ability to win convincingly. The Brewers have a strong head-to-head record against the Rays, having won 4 of their last 5 matchups, including a dominant 10-1 victory in Game 3 of this series. With Cy Young favorite Jacob Misiorowski on the mound for Milwaukee, they possess a significant pitching advantage. Given their recent offensive prowess and Misiorowski's performance, the Brewers are well-positioned to secure a multi-run victory and clinch the World Series.",
-          "awayRecord": "103-59",
-          "homeRecord": "98-64",
-          "startTime": "2026-10-29T00:00Z",
+          "game": "Carolina Panthers vs Green Bay Packers",
+          "betType": "prop",
+          "pick": "Darren Waller Over 19.5 Receiving Yards",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Panthers tight end Darren Waller is a strong candidate to go over his receiving yards total given Carolina's significant offensive line issues. The Panthers are missing two starting offensive linemen and a reserve, which will likely force quarterback Bryce Young to get the ball out quickly on short to intermediate routes. Waller has demonstrated his big-play ability recently, including a 50-yard touchdown catch in a prior game. Against a Packers defense that will likely be pressuring Young, Waller's role as a reliable, quick-release target should be amplified. Waller is active and expected to play.",
+          "awayRecord": "3-3",
+          "homeRecord": "4-3",
+          "startTime": "2026-10-30T00:15Z",
           "awayLast5": [
             "W",
-            "W",
+            "L",
             "W",
             "W",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W",
-            "L",
-            "L",
-            "L",
-            "W"
+            "W",
+            "W",
+            "L"
           ]
         }
       ]
@@ -333,189 +257,129 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Kennesaw State Owls @ Middle Tennessee Blue Raiders",
+          "game": "Florida Atlantic Owls @ North Texas Mean Green",
           "betType": "total",
-          "pick": "Under 49.5",
-          "odds": "-106",
-          "confidence": "medium",
-          "rationale": "Both Kennesaw State and Middle Tennessee have reported injuries to their pass catchers, which is expected to limit offensive production through the air for both teams. Kennesaw State's offense averages a mere 20.0 points per game, while Middle Tennessee's averages 23.3 points per game, suggesting a low-scoring affair. Head-to-head history between these two teams also points to an 'Under' trend, with their two previous matchups averaging just 29.5 total points. Furthermore, the total line has seen movement towards the under, and public betting has leaned in that direction, indicating market confidence in a lower-scoring game.",
-          "awayRecord": "1-6",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-28T23:00Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Jacksonville State Gamecocks @ New Mexico State Aggies",
-          "betType": "total",
-          "pick": "Under 49.5",
+          "pick": "Over 77.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The total line for this game opened at 50.5 and has since dropped to 49.5, indicating sharp money moving towards a lower-scoring outcome. Jacksonville State boasts a solid defense that is allowing only 22.7 points per game this season. While New Mexico State's offense can be effective, their preferred style involves a strong running game, which can help control the clock and limit offensive possessions for both teams. The projected final score of Jacksonville State 27, New Mexico State 21 (total 48) also suggests the game will stay under the current total.",
+          "rationale": "Both Florida Atlantic and North Texas have been high-scoring teams this season, with both offenses averaging over 37 points per game and both defenses allowing over 30 points per game. Both teams also boast a 6-1 record to the over this season, indicating a consistent trend towards high-scoring affairs. The total line has seen significant movement, rising from an opening of 73.5 to the current 77.5, suggesting sharp money is backing the over. Florida Atlantic's abysmal run defense, allowing 258.3 rushing yards per game, will allow North Texas to move the ball effectively, while FAU's potent passing game can keep pace.",
           "awayRecord": "5-2",
-          "homeRecord": "3-4",
-          "startTime": "2026-10-29T00:00Z",
+          "homeRecord": "5-2",
+          "startTime": "2026-10-29T23:30Z",
           "awayLast5": [
+            "W",
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
-            "W",
             "W"
           ],
           "homeLast5": [
             "L",
-            "L",
             "W",
-            "L",
+            "W",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Kennesaw State Owls @ Middle Tennessee Blue Raiders",
-          "betType": "spread",
-          "pick": "Middle Tennessee Blue Raiders -1.5",
-          "odds": "-104",
-          "confidence": "high",
-          "rationale": "Middle Tennessee enters this game having won three consecutive home games, demonstrating strong performance on their home turf. Conversely, Kennesaw State is in a significant slump, riding a six-game losing streak and failing to cover the spread in four consecutive road games and 15 of their last 20 road contests. Middle Tennessee has also shown a strong ability to cover the spread, doing so in four consecutive home games and six of their last ten overall. Given Kennesaw State's struggles and Middle Tennessee's home advantage, the Blue Raiders are well-positioned to cover this small spread.",
-          "awayRecord": "1-6",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-28T23:00Z",
+          "game": "Troy Trojans @ James Madison Dukes",
+          "betType": "total",
+          "pick": "Under 51.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Troy's games have consistently gone under the total, with the under hitting in six of their seven contests this season and 9-1 in their last ten. The Trojans' offense struggles to score, averaging just 22.9 points per game, and they face a formidable James Madison defense that allows only 18.3 points per game and excels against the run. While James Madison's offense is strong, they will be without their leading rusher George Pettaway due to injury, which could slightly temper their scoring output. The total line has already dropped from an opening of 52.5 to 51.5, reflecting a market expectation for a lower-scoring game.",
+          "awayRecord": "3-4",
+          "homeRecord": "7-1",
+          "startTime": "2026-10-29T23:30Z",
           "awayLast5": [
             "L",
             "L",
-            "L",
+            "W",
             "L",
             "L"
           ],
           "homeLast5": [
             "W",
-            "L",
-            "L",
             "W",
-            "W"
+            "W",
+            "W",
+            "L"
           ]
         },
         {
-          "game": "Jacksonville State Gamecocks @ New Mexico State Aggies",
+          "game": "Florida Atlantic Owls @ North Texas Mean Green",
           "betType": "spread",
-          "pick": "New Mexico State Aggies +3.5",
-          "odds": "-122",
-          "confidence": "medium",
-          "rationale": "New Mexico State has a strong record against the spread at home, covering the +3.5 line in two of their last three home games this season and 13 of their last 20 home games overall. Jacksonville State, on the other hand, has struggled to cover on the road, failing to do so in 11 consecutive road games and 16 of their last 20 road contests. New Mexico State's offense is at its best when establishing the run, and Jacksonville State has shown vulnerability against strong ground attacks, being 0-2 when allowing over 40 rushing attempts. This home advantage and matchup could keep the game close, allowing the Aggies to cover.",
+          "pick": "North Texas Mean Green -14.5",
+          "odds": "+100",
+          "confidence": "high",
+          "rationale": "North Texas enters this game on a four-game winning streak and holds a perfect 3-0 conference record, demonstrating strong recent form. Their offense is highly efficient, averaging 43.1 points per game (2nd nationally), and will face a Florida Atlantic defense that ranks among the worst in FBS, allowing 34 points and 258.3 rushing yards per game. The Mean Green are playing at home and are highly motivated to set an attendance record, with the university even canceling afternoon classes to encourage student turnout. The spread has moved significantly from an opening of -10.5 to -14.5, indicating strong betting support for North Texas.",
           "awayRecord": "5-2",
-          "homeRecord": "3-4",
-          "startTime": "2026-10-29T00:00Z",
+          "homeRecord": "5-2",
+          "startTime": "2026-10-29T23:30Z",
           "awayLast5": [
+            "W",
+            "W",
+            "W",
             "L",
-            "W",
-            "W",
-            "W",
             "W"
           ],
           "homeLast5": [
             "L",
-            "L",
             "W",
-            "L",
+            "W",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Kennesaw State Owls @ Middle Tennessee Blue Raiders",
-          "betType": "moneyline",
-          "pick": "Middle Tennessee Blue Raiders",
-          "odds": "-113",
+          "game": "Troy Trojans @ James Madison Dukes",
+          "betType": "spread",
+          "pick": "James Madison Dukes -18.5",
+          "odds": "-108",
           "confidence": "medium",
-          "rationale": "Middle Tennessee is currently 4-3 overall and 2-1 in conference play, while Kennesaw State holds a dismal 1-6 record and is 0-3 in conference. The Blue Raiders have been particularly strong at home, winning their last three games in Murfreesboro. Kennesaw State is on a six-game losing streak, indicating a significant disparity in recent form and team morale. With Middle Tennessee having a 55% chance to win according to market analytics, they are a solid moneyline pick at home against a struggling opponent.",
-          "awayRecord": "1-6",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-28T23:00Z",
+          "rationale": "James Madison, with a 7-1 record and 4-1 in conference play, is a dominant home team looking to rebound strongly after their first loss of the season. The Dukes boast a potent offense averaging 41.4 points per game (5th nationally) and a stout defense allowing just 18.3 points per game (25th nationally). Troy, in contrast, has struggled, losing four of their last five games and holding a 2-5 ATS record this season, with their offense averaging a mere 22.9 points per game. Despite the absence of leading rusher George Pettaway, James Madison's overall strength and home-field advantage against a struggling Troy team make them a strong pick to cover this spread.",
+          "awayRecord": "3-4",
+          "homeRecord": "7-1",
+          "startTime": "2026-10-29T23:30Z",
           "awayLast5": [
             "L",
             "L",
-            "L",
+            "W",
             "L",
             "L"
           ],
           "homeLast5": [
             "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Troy Trojans @ James Madison Dukes",
+          "betType": "spread",
+          "pick": "Troy Trojans +18.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "While James Madison is a strong team, laying 18.5 points is a substantial spread, especially with their leading rusher George Pettaway confirmed out due to injury. Troy's defense has shown flashes, ranking 45th in defensive success rate, which could help limit James Madison's scoring opportunities. The betting line has already seen movement from an opening of James Madison -21 down to -18.5, suggesting some market skepticism about the Dukes covering such a large number. Troy's run-first offense, averaging 197.3 rushing yards per game, could also help chew clock and limit James Madison's possessions, making a large cover more challenging.",
+          "awayRecord": "3-4",
+          "homeRecord": "7-1",
+          "startTime": "2026-10-29T23:30Z",
+          "awayLast5": [
             "L",
             "L",
             "W",
-            "W"
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
           ]
-        }
-      ]
-    },
-    {
-      "sport": "MLS",
-      "picks": [
-        {
-          "game": "Philadelphia Union @ Nashville SC",
-          "betType": "total",
-          "pick": "Under 2.5",
-          "odds": "+130",
-          "confidence": "high",
-          "rationale": "Nashville SC, the Eastern Conference leader, boasts a formidable home record with a 15-match unbeaten streak, including 14 wins and one draw. The head-to-head history between these two teams strongly favors lower-scoring games, with an average of just 1.9 goals per meeting across 12 matches, and only 4 of those contests exceeding 2.5 goals. The most recent matchup between Philadelphia Union and Nashville SC ended in a 0-0 draw. This consistent trend of defensive solidity from Nashville, especially at home, combined with the historical low-scoring nature of this specific fixture, makes the Under 2.5 a high-confidence play.",
-          "awayRecord": "13-7-11",
-          "homeRecord": "21-7-3",
-          "startTime": "2026-10-29T00:30Z"
-        },
-        {
-          "game": "Columbus Crew @ FC Dallas",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "+120",
-          "confidence": "high",
-          "rationale": "FC Dallas enters this match on a strong six-match unbeaten run at home, while Columbus Crew is in excellent form with a three-match winning streak. The head-to-head history shows a tendency for goals, with 60% of their last five encounters going Over the total goals. Both teams have significant offensive firepower, with Petar Musa leading Dallas with 22 goals and Columbus featuring in-form players like Brais Mendez and Taha Habroune. Columbus Crew is also dealing with several key defensive absences, including Wessam Abou Ali, Sekou Bangoura, and Rudy Camacho, which could further open up the game.",
-          "awayRecord": "11-5-15",
-          "homeRecord": "15-9-7",
-          "startTime": "2026-10-29T00:30Z"
-        },
-        {
-          "game": "Real Salt Lake @ Austin FC",
-          "betType": "total",
-          "pick": "Over 2.5",
-          "odds": "-185",
-          "confidence": "high",
-          "rationale": "Real Salt Lake's matches consistently feature goals, with 66.7% of their games ending with over 2.5 goals and both teams scoring in 70% of their contests. RSL maintains an average of 1.50 goals scored and 1.60 goals conceded per game, indicating an open style of play. Austin FC is significantly hampered by defensive injuries, with Chris Applewhite, Jon Bell, Ervin Torres, and Zan Kolmanic all ruled out. This defensive vulnerability for Austin, coupled with Real Salt Lake's high-scoring tendencies and playoff aspirations, points to a game with multiple goals.",
-          "awayRecord": "11-6-14",
-          "homeRecord": "8-10-13",
-          "startTime": "2026-10-29T00:30Z"
-        },
-        {
-          "game": "San Diego FC @ Vancouver Whitecaps",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-125",
-          "confidence": "medium",
-          "rationale": "San Diego FC's recent matches have been remarkably high-scoring, with over 3.5 goals scored in each of their last four outings. The last direct encounter between these two teams was a 4-2 victory for the Vancouver Whitecaps, demonstrating their capacity for a high-scoring affair. While Vancouver's overall form has been inconsistent, they have scored 9 goals and conceded 9 in their last five matches. San Diego's struggles at the bottom of the league and their recent trend of conceding and scoring freely further support a high-total outcome.",
-          "awayRecord": "8-11-12",
-          "homeRecord": "16-7-8",
-          "startTime": "2026-10-29T02:30Z"
-        },
-        {
-          "game": "Houston Dynamo FC @ Seattle Sounders FC",
-          "betType": "total",
-          "pick": "Under 3.5",
-          "odds": "-185",
-          "confidence": "medium",
-          "rationale": "The head-to-head record between Seattle Sounders FC and Houston Dynamo FC consistently features lower-scoring games, with an average of just 2.1 goals per match over 33 meetings. Historically, only 11 of those 33 matches saw three or more goals, and only 6 of 31 matches had over 3.5 goals. Houston Dynamo has struggled offensively, failing to win any of their last five matches and drawing four of those contests. Seattle also has key players like Yeimar and Jordan Morris dealing with injuries, which could limit their attacking output.",
-          "awayRecord": "8-6-17",
-          "homeRecord": "8-11-12",
-          "startTime": "2026-10-28T23:30Z"
         }
       ]
     }

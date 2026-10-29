@@ -1,5 +1,243 @@
 [
   {
+    "date": "2026-10-28",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Orlando Magic vs Toronto Raptors",
+            "betType": "total",
+            "pick": "Under 223.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Orlando Magic 99, Toronto Raptors 129"
+          },
+          {
+            "game": "Oklahoma City Thunder vs Dallas Mavericks",
+            "betType": "total",
+            "pick": "Under 229.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Oklahoma City Thunder 96, Dallas Mavericks 120"
+          },
+          {
+            "game": "Philadelphia 76ers vs Indiana Pacers",
+            "betType": "spread",
+            "pick": "Philadelphia 76ers -5.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia 76ers 114, Indiana Pacers 109"
+          },
+          {
+            "game": "Washington Wizards vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Over 239.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Wizards 111, Cleveland Cavaliers 121"
+          },
+          {
+            "game": "Golden State Warriors vs Minnesota Timberwolves",
+            "betType": "total",
+            "pick": "Under 227.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Golden State Warriors 119, Minnesota Timberwolves 114"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Philadelphia Flyers vs Washington Capitals",
+            "betType": "spread",
+            "pick": "Washington Capitals -1.5",
+            "odds": "+110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Flyers 2, Washington Capitals 5"
+          },
+          {
+            "game": "Calgary Flames vs Edmonton Oilers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Calgary Flames 0, Edmonton Oilers 4"
+          },
+          {
+            "game": "New Jersey Devils vs Colorado Avalanche",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New Jersey Devils 2, Colorado Avalanche 5"
+          },
+          {
+            "game": "Toronto Maple Leafs vs Seattle Kraken",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto Maple Leafs 4, Seattle Kraken 5"
+          },
+          {
+            "game": "New Jersey Devils vs Colorado Avalanche",
+            "betType": "moneyline",
+            "pick": "Colorado Avalanche",
+            "odds": "-148",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New Jersey Devils 2, Colorado Avalanche 5"
+          }
+        ]
+      },
+      {
+        "sport": "MLB",
+        "picks": [
+          {
+            "game": "Milwaukee Brewers @ Tampa Bay Rays",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Milwaukee Brewers 4, Tampa Bay Rays 1"
+          },
+          {
+            "game": "Milwaukee Brewers @ Tampa Bay Rays",
+            "betType": "moneyline",
+            "pick": "Milwaukee Brewers",
+            "odds": "-156",
+            "confidence": "high",
+            "result": "W",
+            "score": "Milwaukee Brewers 4, Tampa Bay Rays 1"
+          },
+          {
+            "game": "Milwaukee Brewers @ Tampa Bay Rays",
+            "betType": "spread",
+            "pick": "Milwaukee Brewers -1.5",
+            "odds": "+115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Milwaukee Brewers 4, Tampa Bay Rays 1"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Kennesaw State Owls @ Middle Tennessee Blue Raiders",
+            "betType": "total",
+            "pick": "Under 49.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kennesaw State Owls 44, Middle Tennessee Blue Raiders 28"
+          },
+          {
+            "game": "Jacksonville State Gamecocks @ New Mexico State Aggies",
+            "betType": "total",
+            "pick": "Under 49.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Jacksonville State Gamecocks 24, New Mexico State Aggies 0"
+          },
+          {
+            "game": "Kennesaw State Owls @ Middle Tennessee Blue Raiders",
+            "betType": "spread",
+            "pick": "Middle Tennessee Blue Raiders -1.5",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Kennesaw State Owls 44, Middle Tennessee Blue Raiders 28"
+          },
+          {
+            "game": "Jacksonville State Gamecocks @ New Mexico State Aggies",
+            "betType": "spread",
+            "pick": "New Mexico State Aggies +3.5",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Jacksonville State Gamecocks 24, New Mexico State Aggies 0"
+          },
+          {
+            "game": "Kennesaw State Owls @ Middle Tennessee Blue Raiders",
+            "betType": "moneyline",
+            "pick": "Middle Tennessee Blue Raiders",
+            "odds": "-113",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kennesaw State Owls 44, Middle Tennessee Blue Raiders 28"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Philadelphia Union @ Nashville SC",
+            "betType": "total",
+            "pick": "Under 2.5",
+            "odds": "+130",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Union 0, Nashville SC 0"
+          },
+          {
+            "game": "Columbus Crew @ FC Dallas",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Columbus Crew 2, FC Dallas 0"
+          },
+          {
+            "game": "Real Salt Lake @ Austin FC",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-185",
+            "confidence": "high",
+            "result": "W",
+            "score": "Real Salt Lake 2, Austin FC 1"
+          },
+          {
+            "game": "San Diego FC @ Vancouver Whitecaps",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Diego FC 1, Vancouver Whitecaps 4"
+          },
+          {
+            "game": "Houston Dynamo FC @ Seattle Sounders FC",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-185",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Atlanta United FC 1, New York City FC 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-27",
     "sports": [
       {
@@ -5323,62 +5561,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Chicago White Sox 6, Houston Astros 3"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-28",
-    "sports": [
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "Philadelphia Eagles vs Chicago Bears",
-            "betType": "total",
-            "pick": "Under 41.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Eagles 7, Chicago Bears 27"
-          },
-          {
-            "game": "Philadelphia Eagles vs Chicago Bears",
-            "betType": "prop",
-            "pick": "DeVonta Smith Over 71.5 Receiving Yards",
-            "odds": "-113",
-            "confidence": "high",
-            "result": "L",
-            "score": "DeVonta Smith: 65 Receiving Yards (line 71.5)"
-          },
-          {
-            "game": "Philadelphia Eagles vs Chicago Bears",
-            "betType": "spread",
-            "pick": "Philadelphia Eagles -3.5",
-            "odds": "-108",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia Eagles 7, Chicago Bears 27"
-          },
-          {
-            "game": "Philadelphia Eagles vs Chicago Bears",
-            "betType": "spread",
-            "pick": "Chicago Bears +3.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Eagles 7, Chicago Bears 27"
-          },
-          {
-            "game": "Philadelphia Eagles vs Chicago Bears",
-            "betType": "moneyline",
-            "pick": "Philadelphia Eagles (-192)",
-            "odds": "-192",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Philadelphia Eagles 7, Chicago Bears 27"
           }
         ]
       }
