@@ -1,150 +1,207 @@
 {
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T15:59:33.674Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T15:47:55.356Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Cleveland Cavaliers vs Atlanta Hawks",
-          "betType": "spread",
-          "pick": "Cleveland Cavaliers +1.5",
-          "odds": "-115",
+          "game": "Charlotte Hornets @ Washington Wizards",
+          "betType": "total",
+          "pick": "O/U 219.5 Over",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "The Cleveland Cavaliers enter this game on a three-game winning streak, showcasing strong recent form, while the Atlanta Hawks have lost their last three outings. The line movement is favorable, with Cleveland now catching 1.5 points after opening as a favorite, indicating sharp money on the Cavaliers. Atlanta is significantly hampered by injuries to key frontcourt players Mouhamed Gueye and Henri Veesaar, which will be exploited by Cleveland's rebounding and rim protection advantage. Both teams are on the second night of a back-to-back, which could lead to tired legs, but the Cavaliers' momentum and health advantage in the paint make them a strong play.",
-          "awayRecord": "3-1",
+          "rationale": "The head-to-head history between these two teams strongly favors the over, with nine of the last ten meetings going over the total and an average of 235.0 combined points in their last five matchups. This season's lone meeting already saw the Hornets win 110-103, totaling 213 points, just shy of this line. Given the historical scoring trends and the current line being significantly lower than the average H2H total, there's value in the Over. Both teams also have some defensive absences, with Coby White and Grant Williams out for Charlotte, and multiple Wizards players questionable or out, which could contribute to a higher-scoring game.",
+          "awayRecord": "3-2",
           "homeRecord": "2-3",
-          "startTime": "2026-10-30T00:00Z",
+          "startTime": "2026-10-30T23:00Z",
           "awayLast5": [
+            "W",
             "L",
             "W",
             "W",
-            "W"
+            "L"
           ],
           "homeLast5": [
             "W",
-            "W",
             "L",
+            "W",
             "L",
             "L"
           ]
         },
         {
-          "game": "Cleveland Cavaliers vs Atlanta Hawks",
+          "game": "Chicago Bulls @ Boston Celtics",
           "betType": "total",
-          "pick": "Under 237.5",
+          "pick": "O/U 234.5 Under",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Despite some recent high-scoring games, the historical head-to-head trend between the Bulls and Celtics leans heavily towards the Under, with only 16.7% of their matchups going over the total since 2004. The average combined score across their last 20 meetings is 226.1 points, which is well below the current line of 234.5. With multiple key Bulls players listed as questionable due to various injuries, including Jalen Smith and Patrick Williams, their offensive output could be hampered against a strong Celtics defense. This suggests a lower-scoring affair than the current total implies.",
+          "awayRecord": "1-4",
+          "homeRecord": "3-1",
+          "startTime": "2026-10-30T23:30Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Detroit Pistons @ Brooklyn Nets",
+          "betType": "spread",
+          "pick": "Detroit Pistons -8.5",
           "odds": "-105",
           "confidence": "medium",
-          "rationale": "Both the Cavaliers and Hawks are playing on the second night of a back-to-back, a situational factor that often leads to decreased offensive efficiency and tired legs. The total has seen significant line movement, dropping from an opening of 239.5 to the current 237.5, with nearly all of the betting money coming in on the Under. Head-to-head matchups between these two teams have historically averaged 231.4 points, which is well below the current total. With Atlanta missing key frontcourt players like Mouhamed Gueye and Henri Veesaar, their offensive flow could be impacted, further supporting a lower-scoring affair.",
-          "awayRecord": "3-1",
-          "homeRecord": "2-3",
-          "startTime": "2026-10-30T00:00Z",
+          "rationale": "The Detroit Pistons enter this game with a strong 4-1 record, while the Brooklyn Nets are struggling at 0-4. The Pistons' offense is being effectively run by Cade Cunningham, who is averaging 22.6 points and 7.8 assists per game. While the Pistons are without Jalen Duren, the Nets are also missing Egor Demin, impacting their backcourt depth. Given Brooklyn's poor start to the season and Detroit's confident play, the Pistons are well-positioned to cover the -8.5 spread against a team searching for answers.",
+          "awayRecord": "4-1",
+          "homeRecord": "0-4",
+          "startTime": "2026-10-30T23:30Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "New York Knicks @ Philadelphia 76ers",
+          "betType": "total",
+          "pick": "O/U 226.5 Under",
+          "odds": "-108",
+          "confidence": "medium",
+          "rationale": "The line movement for this game shows the total slipping from 228.5 to 227.5, with the majority of money coming in on the Under. Both the Knicks and 76ers have demonstrated a tendency for lower-scoring contests, as evidenced by the Under 228.5 line not being covered in 9 of the last 10 Knicks games and 16 of the last 20 Sixers games. The Knicks play at the slowest pace in the league, which naturally limits scoring opportunities. Furthermore, the questionable status of Jaylen Brown for the 76ers could further hinder their offensive production.",
+          "awayRecord": "2-3",
+          "homeRecord": "4-1",
+          "startTime": "2026-10-30T23:30Z",
           "awayLast5": [
             "L",
-            "W",
+            "L",
+            "L",
             "W",
             "W"
           ],
           "homeLast5": [
             "W",
             "W",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Sacramento Kings vs New Orleans Pelicans",
-          "betType": "spread",
-          "pick": "New Orleans Pelicans -5.5",
-          "odds": "-120",
-          "confidence": "medium",
-          "rationale": "The New Orleans Pelicans, despite their 0-4 start, possess a significantly stronger offense averaging 124.7 points per game and hold clear advantages in steals, blocks, and rebounding over the Sacramento Kings. The Kings are also 0-4 and are struggling defensively, allowing a league-high 125.5 points per game. Crucially, Sacramento will be without Keegan Murray and other frontcourt players, making it even more challenging to contain New Orleans' key offensive threats like Zion Williamson. The spread has remained steady at Pelicans -5.5, indicating market confidence in New Orleans to secure their first win convincingly against a depleted Kings squad.",
-          "awayRecord": "0-4",
-          "homeRecord": "0-4",
-          "startTime": "2026-10-30T00:00Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Sacramento Kings vs New Orleans Pelicans",
-          "betType": "total",
-          "pick": "Under 236.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Despite both teams having high scoring averages in their recent games, the total for this 'winless bowl' matchup has seen a significant drop from its opening, settling at 236.5 with the majority of money backing the Under. The Sacramento Kings are allowing a high 125.5 points per game but are only scoring 107.8 points per game, suggesting their offense might not contribute enough to push the total over. With the pressure of both teams looking for their first win, defensive intensity could increase, leading to a tighter, lower-scoring game. The Kings' missing frontcourt pieces, including Keegan Murray, could also hinder their offensive efficiency.",
-          "awayRecord": "0-4",
-          "homeRecord": "0-4",
-          "startTime": "2026-10-30T00:00Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Memphis Grizzlies vs Portland Trail Blazers",
-          "betType": "total",
-          "pick": "Over 232.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "This game features two undefeated teams with strong offensive capabilities, suggesting a high-scoring affair. The Portland Trail Blazers are averaging an impressive 129.3 points per game at home and have the best net rating in the NBA, while the Memphis Grizzlies are also scoring 116.8 points per game. Although Memphis has a solid defense, allowing 107 points per game, the Trail Blazers' efficient offense, bolstered by Ja Morant's first game against his former team, is expected to push the pace. The line movement on the total has seen most of the money coming in on the Over, indicating market confidence in a shootout.",
-          "awayRecord": "4-0",
-          "homeRecord": "3-0",
-          "startTime": "2026-10-30T02:00Z",
-          "awayLast5": [
             "W",
-            "W",
-            "W",
+            "L",
             "W"
+          ]
+        },
+        {
+          "game": "Indiana Pacers @ Miami Heat",
+          "betType": "total",
+          "pick": "O/U 237.5 Over",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The historical head-to-head matchups between the Pacers and Heat overwhelmingly favor the Over, with nine of their last ten meetings exceeding the total. Last season, their three games averaged a high 244.3 combined points, and their most recent game on March 29, 2026, totaled 253 points. Both teams operate at a top-10 pace in the league, contributing to higher-scoring affairs, and Miami's defense ranks 25th in defensive rating. While the Pacers have significant injuries, the strong offensive pace and Miami's defensive struggles, coupled with the robust H2H trend, make the Over a confident play.",
+          "awayRecord": "2-3",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-31T00:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
           ],
           "homeLast5": [
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
+            "L",
             "W"
           ]
         }
       ]
     },
     {
-      "sport": "NFL",
+      "sport": "NHL",
       "picks": [
         {
-          "game": "Carolina Panthers vs Green Bay Packers",
+          "game": "New Jersey Devils @ Vegas Golden Knights",
           "betType": "total",
-          "pick": "O/U 46.5 — Under",
-          "odds": "+100",
-          "confidence": "medium",
-          "rationale": "Both the Panthers and Packers enter this game with severely depleted offensive lines, with Carolina missing two starters and a reserve, and Green Bay without two starters and a backup. This significant injury impact is expected to hinder offensive production and create more pressure on quarterbacks, leading to fewer scoring opportunities. The Packers' games have consistently trended towards the Under this season, with a 2-5 O/U record. Furthermore, the average total points in the last 16 head-to-head matchups between these teams is 46, aligning closely with the current total. A short week for both teams also often favors defenses and simpler, less explosive game plans, reinforcing the expectation for a lower-scoring affair.",
-          "awayRecord": "3-3",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-30T00:15Z",
+          "pick": "Under 6.5",
+          "odds": "-130",
+          "confidence": "high",
+          "rationale": "The head-to-head history between the Devils and Golden Knights strongly favors lower-scoring games, with all of their last five matchups going under the total. The Golden Knights have also won four of the last five meetings, often in low-scoring affairs, and lead the all-time series 14-8. The Devils are on the second half of a back-to-back, which can lead to fatigue and potentially a more conservative game. Both teams generally concede around 3 goals per game, with their combined average goals per game over the last 12 months sitting at 6.1, further supporting the Under 6.5.",
+          "awayRecord": "8-5-0",
+          "homeRecord": "9-4-1",
+          "startTime": "2026-10-30T22:00Z",
           "awayLast5": [
             "W",
-            "L",
+            "W",
             "W",
             "W",
             "L"
           ],
           "homeLast5": [
+            "W",
             "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Winnipeg Jets @ Florida Panthers",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "+114",
+          "confidence": "medium",
+          "rationale": "The Florida Panthers are currently dealing with significant injuries, most notably starting goaltender Jacob Markstrom on injured reserve and key forward Brad Marchand expected to miss four more weeks. While the Panthers won their previous game against the Jets 5-1, reaching exactly 6 goals, the absence of their primary netminder could lead to increased scoring opportunities for both teams. The Jets, despite their inconsistent recent form (3-5-2 in their last 10 games), are capable of capitalizing on a weakened Panthers defense. The plus money on the Over 6.5 (+114) presents solid value given the Panthers' current goaltending situation.",
+          "awayRecord": "4-6-3",
+          "homeRecord": "7-4-2",
+          "startTime": "2026-10-30T23:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Seattle Kraken @ Calgary Flames",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "-102",
+          "confidence": "medium",
+          "rationale": "The Seattle Kraken have established a strong trend towards higher-scoring games this season, boasting an impressive 10-2 record on the Over, which has generated a significant return on investment. They recently demonstrated their offensive capabilities by winning a 5-4 game against Toronto. While the Flames have shown some recent defensive improvement, their overall season average of 3.8 goals against per game is a concern. Despite some key injuries on both sides, the Kraken's consistent high-scoring tendencies make the Over 6.5 a compelling play at near even odds.",
+          "awayRecord": "8-4-1",
+          "homeRecord": "5-7-0",
+          "startTime": "2026-10-31T00:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
             "W",
             "W",
             "W",
@@ -152,103 +209,53 @@
           ]
         },
         {
-          "game": "Carolina Panthers vs Green Bay Packers",
+          "game": "New Jersey Devils @ Vegas Golden Knights",
+          "betType": "moneyline",
+          "pick": "Vegas Golden Knights",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "The Vegas Golden Knights hold a significant historical advantage over the New Jersey Devils, having won four of their last five head-to-head matchups and leading the all-time series. The Devils are also playing on the second night of a back-to-back, which is a demanding schedule that often impacts player performance and energy levels. The Golden Knights, playing at home for their annual Nevada Day matinee, will have additional motivation and a solid recent form of 6-3-1 in their last 10 games. These factors combine to make the Golden Knights moneyline a high-confidence pick.",
+          "awayRecord": "8-5-0",
+          "homeRecord": "9-4-1",
+          "startTime": "2026-10-30T22:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "New Jersey Devils @ Vegas Golden Knights",
           "betType": "spread",
-          "pick": "Carolina Panthers +3.5",
-          "odds": "-108",
-          "confidence": "high",
-          "rationale": "The Carolina Panthers have demonstrated a strong ability to cover the spread on the road, doing so in 5 consecutive road games and 8 of their last 10. Conversely, the Green Bay Packers have struggled to cover the -3.5 spread, failing to do so in 8 of their last 10 games and 5 of their last 7 this season. Both teams are facing significant injuries along their offensive lines, which could level the playing field and mitigate Green Bay's home-field advantage. The spread opening at -3 and briefly touching -4.5 before settling at -3.5 suggests some resistance to the higher numbers, indicating value on the underdog.",
-          "awayRecord": "3-3",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-30T00:15Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Carolina Panthers vs Green Bay Packers",
-          "betType": "prop",
-          "pick": "Christian Watson Over 71.5 Receiving Yards",
-          "odds": "-114",
-          "confidence": "high",
-          "rationale": "Christian Watson is poised for a big game against a Carolina Panthers secondary that is severely depleted by injuries. The Panthers will be without starting outside linebacker Jaelan Phillips, starting cornerback Akayleb Evans, and have starting cornerbacks Mike Jackson and Jaycee Horn on injured reserve. This leaves Carolina with limited healthy options at cornerback, creating favorable matchups for Watson, who already boasts an 'elite role' in the Packers' offense. With Packers wide receiver Matthew Golden also questionable, Watson could see an even higher target share. Watson is active and expected to play.",
-          "awayRecord": "3-3",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-30T00:15Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Carolina Panthers vs Green Bay Packers",
-          "betType": "prop",
-          "pick": "Tucker Kraft Over 46.5 Receiving Yards",
-          "odds": "-114",
+          "pick": "Vegas Golden Knights -1.5",
+          "odds": "+215",
           "confidence": "medium",
-          "rationale": "Green Bay tight end Tucker Kraft is in a prime position to exceed his receiving yards total due to key injuries to his teammate and the opposing defense. Fellow tight end Luke Musgrave has been ruled OUT for the Packers, which directly opens up a significant number of targets for Kraft. Additionally, the Carolina Panthers' secondary is severely compromised, with multiple starting and backup defensive backs out, which could allow Kraft to exploit coverage mismatches. With both offensive lines struggling due to injuries, quick passes to tight ends often become a more frequent option, further benefiting Kraft. Kraft is active and expected to play.",
-          "awayRecord": "3-3",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-30T00:15Z",
+          "rationale": "Building on their strong head-to-head record, the Vegas Golden Knights have consistently outperformed the New Jersey Devils, winning four of their last five encounters. The Devils face a tough challenge playing their third game in four nights and on the second half of a back-to-back, which is likely to result in fatigue and defensive lapses. The Golden Knights, with a superior overall record (9-4-1) and playing at home, are well-positioned to capitalize on these situational advantages. The generous +215 odds for Vegas to win by at least two goals offer excellent value, reflecting a strong probability of a multi-goal victory.",
+          "awayRecord": "8-5-0",
+          "homeRecord": "9-4-1",
+          "startTime": "2026-10-30T22:00Z",
           "awayLast5": [
             "W",
-            "L",
+            "W",
             "W",
             "W",
             "L"
           ],
           "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Carolina Panthers vs Green Bay Packers",
-          "betType": "prop",
-          "pick": "Darren Waller Over 19.5 Receiving Yards",
-          "odds": "-114",
-          "confidence": "medium",
-          "rationale": "Panthers tight end Darren Waller is a strong candidate to go over his receiving yards total given Carolina's significant offensive line issues. The Panthers are missing two starting offensive linemen and a reserve, which will likely force quarterback Bryce Young to get the ball out quickly on short to intermediate routes. Waller has demonstrated his big-play ability recently, including a 50-yard touchdown catch in a prior game. Against a Packers defense that will likely be pressuring Young, Waller's role as a reliable, quick-release target should be amplified. Waller is active and expected to play.",
-          "awayRecord": "3-3",
-          "homeRecord": "4-3",
-          "startTime": "2026-10-30T00:15Z",
-          "awayLast5": [
             "W",
             "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
             "L",
-            "W",
-            "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ]
         }
       ]
@@ -257,93 +264,68 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Florida Atlantic Owls @ North Texas Mean Green",
+          "game": "Tulane Green Wave vs Charlotte 49ers",
           "betType": "total",
-          "pick": "Over 77.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Both Florida Atlantic and North Texas have been high-scoring teams this season, with both offenses averaging over 37 points per game and both defenses allowing over 30 points per game. Both teams also boast a 6-1 record to the over this season, indicating a consistent trend towards high-scoring affairs. The total line has seen significant movement, rising from an opening of 73.5 to the current 77.5, suggesting sharp money is backing the over. Florida Atlantic's abysmal run defense, allowing 258.3 rushing yards per game, will allow North Texas to move the ball effectively, while FAU's potent passing game can keep pace.",
-          "awayRecord": "5-2",
-          "homeRecord": "5-2",
-          "startTime": "2026-10-29T23:30Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Troy Trojans @ James Madison Dukes",
-          "betType": "total",
-          "pick": "Under 51.5",
+          "pick": "Under 47.5",
           "odds": "-115",
           "confidence": "medium",
-          "rationale": "Troy's games have consistently gone under the total, with the under hitting in six of their seven contests this season and 9-1 in their last ten. The Trojans' offense struggles to score, averaging just 22.9 points per game, and they face a formidable James Madison defense that allows only 18.3 points per game and excels against the run. While James Madison's offense is strong, they will be without their leading rusher George Pettaway due to injury, which could slightly temper their scoring output. The total line has already dropped from an opening of 52.5 to 51.5, reflecting a market expectation for a lower-scoring game.",
+          "rationale": "The historical head-to-head matchups between Tulane and Charlotte have been low-scoring, with Tulane outscoring Charlotte 61-3 in their last two meetings, both going significantly under the current total. Charlotte's offense is among the worst in FBS, averaging just 19.1 points per game (127th nationally), while Tulane's defense allows 24.6 points per game (74th). Although the total line has climbed from an opening of 45.5 to 47.5, this movement creates additional value on the Under given the teams' offensive struggles and defensive capabilities.",
           "awayRecord": "3-4",
-          "homeRecord": "7-1",
-          "startTime": "2026-10-29T23:30Z",
+          "homeRecord": "1-6",
+          "startTime": "2026-10-30T23:00Z",
           "awayLast5": [
-            "L",
             "L",
             "W",
             "L",
+            "W",
             "L"
           ],
           "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Florida Atlantic Owls @ North Texas Mean Green",
-          "betType": "spread",
-          "pick": "North Texas Mean Green -14.5",
-          "odds": "+100",
-          "confidence": "high",
-          "rationale": "North Texas enters this game on a four-game winning streak and holds a perfect 3-0 conference record, demonstrating strong recent form. Their offense is highly efficient, averaging 43.1 points per game (2nd nationally), and will face a Florida Atlantic defense that ranks among the worst in FBS, allowing 34 points and 258.3 rushing yards per game. The Mean Green are playing at home and are highly motivated to set an attendance record, with the university even canceling afternoon classes to encourage student turnout. The spread has moved significantly from an opening of -10.5 to -14.5, indicating strong betting support for North Texas.",
-          "awayRecord": "5-2",
-          "homeRecord": "5-2",
-          "startTime": "2026-10-29T23:30Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
             "L",
-            "W"
-          ],
-          "homeLast5": [
             "L",
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Troy Trojans @ James Madison Dukes",
-          "betType": "spread",
-          "pick": "James Madison Dukes -18.5",
-          "odds": "-108",
+          "game": "Kent State Golden Flashes vs Sacramento State Hornets",
+          "betType": "total",
+          "pick": "Over 46.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "James Madison, with a 7-1 record and 4-1 in conference play, is a dominant home team looking to rebound strongly after their first loss of the season. The Dukes boast a potent offense averaging 41.4 points per game (5th nationally) and a stout defense allowing just 18.3 points per game (25th nationally). Troy, in contrast, has struggled, losing four of their last five games and holding a 2-5 ATS record this season, with their offense averaging a mere 22.9 points per game. Despite the absence of leading rusher George Pettaway, James Madison's overall strength and home-field advantage against a struggling Troy team make them a strong pick to cover this spread.",
-          "awayRecord": "3-4",
-          "homeRecord": "7-1",
-          "startTime": "2026-10-29T23:30Z",
+          "rationale": "Sacramento State's defense is one of the weakest in the FBS, allowing 32.9 points per game (126th nationally), and their games often feature high scoring, with at least one team scoring 34 points in four straight games. Kent State is projected to score around 38 points in this matchup, which alone would account for a significant portion of the total. Despite the total holding steady at 46.5 since opening, the offensive potential from Kent State against a porous Sacramento State defense points towards an Over.",
+          "awayRecord": "3-5",
+          "homeRecord": "1-7",
+          "startTime": "2026-10-31T02:30Z",
           "awayLast5": [
+            "W",
             "L",
             "L",
+            "L",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Baylor Bears vs UCF Knights",
+          "betType": "total",
+          "pick": "Under 48.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "Baylor boasts a strong defense, ranking 19th nationally by allowing only 16.1 points per game. The most recent head-to-head matchup in 2025 saw a low-scoring affair with Baylor winning 30-3, totaling just 33 points. Furthermore, Baylor recently underwent a coaching change with an interim head coach, which can often lead to a more conservative offensive approach or a period of adjustment, potentially limiting scoring. These factors, combined with Baylor's defensive strength, make the Under a compelling play.",
+          "awayRecord": "4-3",
+          "homeRecord": "4-3",
+          "startTime": "2026-10-30T23:30Z",
+          "awayLast5": [
+            "W",
+            "W",
             "W",
             "L",
             "L"
@@ -351,33 +333,58 @@
           "homeLast5": [
             "W",
             "W",
-            "W",
-            "W",
-            "L"
+            "L",
+            "L",
+            "W"
           ]
         },
         {
-          "game": "Troy Trojans @ James Madison Dukes",
+          "game": "Tulane Green Wave vs Charlotte 49ers",
           "betType": "spread",
-          "pick": "Troy Trojans +18.5",
+          "pick": "Tulane Green Wave -8.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "Tulane has historically dominated Charlotte, winning their last two meetings by a combined score of 61-3. Charlotte has a poor track record against the spread at home, failing to cover the +8.5 line in 8 of their last 10 home games. While the line has moved from an opening of Tulane -10.5 to -8.5, suggesting some market adjustment, the significant talent disparity and head-to-head dominance still favor Tulane covering this spread.",
+          "awayRecord": "3-4",
+          "homeRecord": "1-6",
+          "startTime": "2026-10-30T23:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Kent State Golden Flashes vs Sacramento State Hornets",
+          "betType": "spread",
+          "pick": "Kent State Golden Flashes -7.5",
           "odds": "-112",
           "confidence": "medium",
-          "rationale": "While James Madison is a strong team, laying 18.5 points is a substantial spread, especially with their leading rusher George Pettaway confirmed out due to injury. Troy's defense has shown flashes, ranking 45th in defensive success rate, which could help limit James Madison's scoring opportunities. The betting line has already seen movement from an opening of James Madison -21 down to -18.5, suggesting some market skepticism about the Dukes covering such a large number. Troy's run-first offense, averaging 197.3 rushing yards per game, could also help chew clock and limit James Madison's possessions, making a large cover more challenging.",
-          "awayRecord": "3-4",
-          "homeRecord": "7-1",
-          "startTime": "2026-10-29T23:30Z",
+          "rationale": "Sacramento State is struggling significantly in their first FBS season, holding a 1-7 overall record and an 0-5 conference record, coupled with a six-game losing streak. They have also been a poor bet against the spread, with a 1-6 ATS record against FBS opponents. Kent State, coming off a disciplined performance, is facing a team that struggles defensively and has a history of not covering large spreads. The line movement from an opening of Kent State -10.5 to -7.5 makes this spread more attractive for the Golden Flashes.",
+          "awayRecord": "3-5",
+          "homeRecord": "1-7",
+          "startTime": "2026-10-31T02:30Z",
           "awayLast5": [
-            "L",
-            "L",
             "W",
             "L",
-            "L"
+            "L",
+            "L",
+            "W"
           ],
           "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
+            "L",
             "L"
           ]
         }

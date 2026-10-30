@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-10-29",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Cleveland Cavaliers vs Atlanta Hawks",
+            "betType": "spread",
+            "pick": "Cleveland Cavaliers +1.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Cavaliers 111, Atlanta Hawks 114"
+          },
+          {
+            "game": "Cleveland Cavaliers vs Atlanta Hawks",
+            "betType": "total",
+            "pick": "Under 237.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 111, Atlanta Hawks 114"
+          },
+          {
+            "game": "Sacramento Kings vs New Orleans Pelicans",
+            "betType": "spread",
+            "pick": "New Orleans Pelicans -5.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sacramento Kings 120, New Orleans Pelicans 132"
+          },
+          {
+            "game": "Sacramento Kings vs New Orleans Pelicans",
+            "betType": "total",
+            "pick": "Under 236.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sacramento Kings 120, New Orleans Pelicans 132"
+          },
+          {
+            "game": "Memphis Grizzlies vs Portland Trail Blazers",
+            "betType": "total",
+            "pick": "Over 232.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Memphis Grizzlies 124, Portland Trail Blazers 103"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Carolina Panthers vs Green Bay Packers",
+            "betType": "total",
+            "pick": "O/U 46.5 — Under",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Carolina Panthers 19, Green Bay Packers 27"
+          },
+          {
+            "game": "Carolina Panthers vs Green Bay Packers",
+            "betType": "spread",
+            "pick": "Carolina Panthers +3.5",
+            "odds": "-108",
+            "confidence": "high",
+            "result": "L",
+            "score": "Carolina Panthers 19, Green Bay Packers 27"
+          },
+          {
+            "game": "Carolina Panthers vs Green Bay Packers",
+            "betType": "prop",
+            "pick": "Christian Watson Over 71.5 Receiving Yards",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "W",
+            "score": "Christian Watson: 113 Receiving Yards (line 71.5)"
+          },
+          {
+            "game": "Carolina Panthers vs Green Bay Packers",
+            "betType": "prop",
+            "pick": "Tucker Kraft Over 46.5 Receiving Yards",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tucker Kraft: 53 Receiving Yards (line 46.5)"
+          },
+          {
+            "game": "Carolina Panthers vs Green Bay Packers",
+            "betType": "prop",
+            "pick": "Darren Waller Over 19.5 Receiving Yards",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Darren Waller: 11 Receiving Yards (line 19.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Florida Atlantic Owls @ North Texas Mean Green",
+            "betType": "total",
+            "pick": "Over 77.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Florida Atlantic Owls 41, North Texas Mean Green 48"
+          },
+          {
+            "game": "Troy Trojans @ James Madison Dukes",
+            "betType": "total",
+            "pick": "Under 51.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Troy Trojans 24, James Madison Dukes 21"
+          },
+          {
+            "game": "Florida Atlantic Owls @ North Texas Mean Green",
+            "betType": "spread",
+            "pick": "North Texas Mean Green -14.5",
+            "odds": "+100",
+            "confidence": "high",
+            "result": "L",
+            "score": "Florida Atlantic Owls 41, North Texas Mean Green 48"
+          },
+          {
+            "game": "Troy Trojans @ James Madison Dukes",
+            "betType": "spread",
+            "pick": "James Madison Dukes -18.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Troy Trojans 24, James Madison Dukes 21"
+          },
+          {
+            "game": "Troy Trojans @ James Madison Dukes",
+            "betType": "spread",
+            "pick": "Troy Trojans +18.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Troy Trojans 24, James Madison Dukes 21"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-28",
     "sports": [
       {
@@ -5505,62 +5661,6 @@
             "confidence": "high",
             "result": "W",
             "score": "St. Louis CITY SC 3, Red Bull New York 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-29",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Boston Red Sox @ New York Yankees",
-            "betType": "total",
-            "pick": "Under 6",
-            "odds": "-104",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Boston Red Sox 0, New York Yankees 9"
-          },
-          {
-            "game": "Philadelphia Phillies @ Atlanta Braves",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Philadelphia Phillies 3, Atlanta Braves 5"
-          },
-          {
-            "game": "Chicago White Sox @ Houston Astros",
-            "betType": "total",
-            "pick": "Over 8",
-            "odds": "-117",
-            "confidence": "high",
-            "result": "W",
-            "score": "Chicago White Sox 6, Houston Astros 3"
-          },
-          {
-            "game": "Chicago Cubs @ San Diego Padres",
-            "betType": "total",
-            "pick": "Over 7.5",
-            "odds": "-106",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago Cubs 0, San Diego Padres 8"
-          },
-          {
-            "game": "Chicago White Sox @ Houston Astros",
-            "betType": "moneyline",
-            "pick": "Chicago White Sox (+105)",
-            "odds": "+105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago White Sox 6, Houston Astros 3"
           }
         ]
       }
