@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-10-30",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Charlotte Hornets @ Washington Wizards",
+            "betType": "total",
+            "pick": "O/U 219.5 Over",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Charlotte Hornets 79, Washington Wizards 95"
+          },
+          {
+            "game": "Chicago Bulls @ Boston Celtics",
+            "betType": "total",
+            "pick": "O/U 234.5 Under",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Chicago Bulls 111, Boston Celtics 125"
+          },
+          {
+            "game": "Detroit Pistons @ Brooklyn Nets",
+            "betType": "spread",
+            "pick": "Detroit Pistons -8.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Pistons 110, Brooklyn Nets 94"
+          },
+          {
+            "game": "New York Knicks @ Philadelphia 76ers",
+            "betType": "total",
+            "pick": "O/U 226.5 Under",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "?",
+            "score": "New York Knicks 93, Philadelphia 76ers 98"
+          },
+          {
+            "game": "Indiana Pacers @ Miami Heat",
+            "betType": "total",
+            "pick": "O/U 237.5 Over",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "?",
+            "score": "Indiana Pacers 125, Miami Heat 145"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "New Jersey Devils @ Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-130",
+            "confidence": "high",
+            "result": "L",
+            "score": "New Jersey Devils 5, Vegas Golden Knights 2"
+          },
+          {
+            "game": "Winnipeg Jets @ Florida Panthers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Winnipeg Jets 2, Florida Panthers 5"
+          },
+          {
+            "game": "Seattle Kraken @ Calgary Flames",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Seattle Kraken 2, Calgary Flames 6"
+          },
+          {
+            "game": "New Jersey Devils @ Vegas Golden Knights",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New Jersey Devils 5, Vegas Golden Knights 2"
+          },
+          {
+            "game": "New Jersey Devils @ Vegas Golden Knights",
+            "betType": "spread",
+            "pick": "Vegas Golden Knights -1.5",
+            "odds": "+215",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New Jersey Devils 5, Vegas Golden Knights 2"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Tulane Green Wave vs Charlotte 49ers",
+            "betType": "total",
+            "pick": "Under 47.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tulane Green Wave 38, Charlotte 49ers 31"
+          },
+          {
+            "game": "Kent State Golden Flashes vs Sacramento State Hornets",
+            "betType": "total",
+            "pick": "Over 46.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kent State Golden Flashes 10, Sacramento State Hornets 31"
+          },
+          {
+            "game": "Baylor Bears vs UCF Knights",
+            "betType": "total",
+            "pick": "Under 48.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Baylor Bears 41, UCF Knights 9"
+          },
+          {
+            "game": "Tulane Green Wave vs Charlotte 49ers",
+            "betType": "spread",
+            "pick": "Tulane Green Wave -8.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Tulane Green Wave 38, Charlotte 49ers 31"
+          },
+          {
+            "game": "Kent State Golden Flashes vs Sacramento State Hornets",
+            "betType": "spread",
+            "pick": "Kent State Golden Flashes -7.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kent State Golden Flashes 10, Sacramento State Hornets 31"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-29",
     "sports": [
       {
@@ -5582,85 +5738,6 @@
             "confidence": "high",
             "result": "W",
             "score": "Sporting Kansas City 1, Seattle Sounders FC 2"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-09-30",
-    "sports": [
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Boston Red Sox vs New York Yankees",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Boston Red Sox 2, New York Yankees 9"
-          },
-          {
-            "game": "Philadelphia Phillies vs Atlanta Braves",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-134",
-            "confidence": "high",
-            "result": "W",
-            "score": "Philadelphia Phillies 4, Atlanta Braves 3"
-          },
-          {
-            "game": "Chicago White Sox vs Houston Astros",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Chicago White Sox 7, Houston Astros 3"
-          },
-          {
-            "game": "Chicago Cubs vs San Diego Padres",
-            "betType": "moneyline",
-            "pick": "San Diego Padres",
-            "odds": "-144",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Chicago Cubs 1, San Diego Padres 4"
-          },
-          {
-            "game": "Boston Red Sox vs New York Yankees",
-            "betType": "prop",
-            "pick": "Cam Schlittler Over 5.5 Strikeouts",
-            "odds": "N/A",
-            "confidence": "medium",
-            "result": "?",
-            "score": "Cam Schlittler: not found in box score"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "St. Louis CITY SC vs Red Bull New York",
-            "betType": "moneyline",
-            "pick": "St. Louis CITY SC",
-            "odds": "-115",
-            "confidence": "high",
-            "result": "W",
-            "score": "St. Louis CITY SC 3, Red Bull New York 0"
-          },
-          {
-            "game": "St. Louis CITY SC vs Red Bull New York",
-            "betType": "total",
-            "pick": "Under 3.5",
-            "odds": "-150",
-            "confidence": "high",
-            "result": "W",
-            "score": "St. Louis CITY SC 3, Red Bull New York 0"
           }
         ]
       }

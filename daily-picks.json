@@ -1,131 +1,132 @@
 {
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-30T15:47:55.356Z",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T15:14:59.834Z",
   "sports": [
     {
       "sport": "NBA",
       "picks": [
         {
-          "game": "Charlotte Hornets @ Washington Wizards",
+          "game": "Atlanta Hawks vs New Orleans Pelicans",
           "betType": "total",
-          "pick": "O/U 219.5 Over",
+          "pick": "Over 240.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The head-to-head history between these two teams strongly favors the over, with nine of the last ten meetings going over the total and an average of 235.0 combined points in their last five matchups. This season's lone meeting already saw the Hornets win 110-103, totaling 213 points, just shy of this line. Given the historical scoring trends and the current line being significantly lower than the average H2H total, there's value in the Over. Both teams also have some defensive absences, with Coby White and Grant Williams out for Charlotte, and multiple Wizards players questionable or out, which could contribute to a higher-scoring game.",
-          "awayRecord": "3-2",
-          "homeRecord": "2-3",
-          "startTime": "2026-10-30T23:00Z",
+          "rationale": "The New Orleans Pelicans are significantly shorthanded with key defensive players Jordan Poole (ankle) and Yves Missi (knee) both ruled out for an extended period. This contributes to their defensive struggles, as they are allowing 121.6 points per game and have a 113.4 defensive rating. The Atlanta Hawks, conversely, boast a potent offense averaging 119.2 points per game and demonstrate excellent ball movement with 32.5 assists per game. Given both teams' offensive capabilities and the Pelicans' depleted defense, this game is poised to exceed the projected total.",
+          "awayRecord": "3-3",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-31T23:00Z",
           "awayLast5": [
             "W",
             "L",
-            "W",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Chicago Bulls @ Boston Celtics",
-          "betType": "total",
-          "pick": "O/U 234.5 Under",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Despite some recent high-scoring games, the historical head-to-head trend between the Bulls and Celtics leans heavily towards the Under, with only 16.7% of their matchups going over the total since 2004. The average combined score across their last 20 meetings is 226.1 points, which is well below the current line of 234.5. With multiple key Bulls players listed as questionable due to various injuries, including Jalen Smith and Patrick Williams, their offensive output could be hampered against a strong Celtics defense. This suggests a lower-scoring affair than the current total implies.",
-          "awayRecord": "1-4",
-          "homeRecord": "3-1",
-          "startTime": "2026-10-30T23:30Z",
-          "awayLast5": [
-            "L",
-            "W",
             "L",
             "L",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "L",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Detroit Pistons @ Brooklyn Nets",
+          "game": "Sacramento Kings vs Memphis Grizzlies",
           "betType": "spread",
-          "pick": "Detroit Pistons -8.5",
+          "pick": "Memphis Grizzlies -9.5",
           "odds": "-105",
           "confidence": "medium",
-          "rationale": "The Detroit Pistons enter this game with a strong 4-1 record, while the Brooklyn Nets are struggling at 0-4. The Pistons' offense is being effectively run by Cade Cunningham, who is averaging 22.6 points and 7.8 assists per game. While the Pistons are without Jalen Duren, the Nets are also missing Egor Demin, impacting their backcourt depth. Given Brooklyn's poor start to the season and Detroit's confident play, the Pistons are well-positioned to cover the -8.5 spread against a team searching for answers.",
-          "awayRecord": "4-1",
-          "homeRecord": "0-4",
-          "startTime": "2026-10-30T23:30Z",
+          "rationale": "The Sacramento Kings enter this game at a struggling 0-5 and are severely impacted by injuries, with Ben Simmons, Keegan Murray, Dylan Cardwell, and Maxime Raynaud all ruled out. Sacramento's defensive woes are evident, as they are outscored by 16.6 points per game and concede 126.8 points per contest. In contrast, the Memphis Grizzlies are undefeated at 5-0, outscoring opponents by 12.0 points per game while allowing only 106.2 points. Memphis's dominance on the boards (1st in RPG) and efficient three-point shooting (1st in 3P%) further solidify their advantage, making them a strong pick to cover the spread against a depleted Kings squad.",
+          "awayRecord": "0-5",
+          "homeRecord": "5-0",
+          "startTime": "2026-11-01T00:00Z",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
             "L",
-            "W"
-          ],
-          "homeLast5": [
             "L",
             "L",
             "L",
             "L"
-          ]
-        },
-        {
-          "game": "New York Knicks @ Philadelphia 76ers",
-          "betType": "total",
-          "pick": "O/U 226.5 Under",
-          "odds": "-108",
-          "confidence": "medium",
-          "rationale": "The line movement for this game shows the total slipping from 228.5 to 227.5, with the majority of money coming in on the Under. Both the Knicks and 76ers have demonstrated a tendency for lower-scoring contests, as evidenced by the Under 228.5 line not being covered in 9 of the last 10 Knicks games and 16 of the last 20 Sixers games. The Knicks play at the slowest pace in the league, which naturally limits scoring opportunities. Furthermore, the questionable status of Jaylen Brown for the 76ers could further hinder their offensive production.",
-          "awayRecord": "2-3",
-          "homeRecord": "4-1",
-          "startTime": "2026-10-30T23:30Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "W",
-            "W"
           ],
           "homeLast5": [
             "W",
             "W",
             "W",
-            "L",
+            "W",
             "W"
           ]
         },
         {
-          "game": "Indiana Pacers @ Miami Heat",
+          "game": "Philadelphia 76ers vs Charlotte Hornets",
           "betType": "total",
-          "pick": "O/U 237.5 Over",
+          "pick": "Under 215.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "The historical head-to-head matchups between the Pacers and Heat overwhelmingly favor the Over, with nine of their last ten meetings exceeding the total. Last season, their three games averaged a high 244.3 combined points, and their most recent game on March 29, 2026, totaled 253 points. Both teams operate at a top-10 pace in the league, contributing to higher-scoring affairs, and Miami's defense ranks 25th in defensive rating. While the Pacers have significant injuries, the strong offensive pace and Miami's defensive struggles, coupled with the robust H2H trend, make the Over a confident play.",
-          "awayRecord": "2-3",
-          "homeRecord": "1-4",
-          "startTime": "2026-10-31T00:00Z",
+          "rationale": "The Charlotte Hornets are facing significant injury concerns, with Coby White, Kon Knueppel, Grant Williams, and Kylan Boswell all out, severely impacting their offensive production. Charlotte is currently the lowest-scoring team in the league, averaging just 97.3 points per game. The Philadelphia 76ers, on the other hand, possess a formidable defense, ranking third in the NBA by allowing only 105.0 points per game. Furthermore, the 76ers have seen the under hit in five of their six games this season, and a computer model predicts a final score well below this total. These factors strongly suggest a low-scoring affair.",
+          "awayRecord": "5-1",
+          "homeRecord": "3-3",
+          "startTime": "2026-10-31T22:00Z",
           "awayLast5": [
             "W",
-            "L",
             "W",
             "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Cleveland Cavaliers vs Milwaukee Bucks",
+          "betType": "total",
+          "pick": "Over 235.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Milwaukee Bucks are currently struggling defensively, allowing a high 124.2 points per game, which ranks them 27th in the NBA. Despite their 1-4 record, they have high-volume scorers like Tyler Herro who can contribute significantly to the total. The Cleveland Cavaliers also possess a strong offense, averaging 118.0 points per game, led by Donovan Mitchell. With both teams having the offensive firepower to exploit defensive weaknesses and the Bucks' current defensive struggles, this game is set up for a high-scoring outcome.",
+          "awayRecord": "3-2",
+          "homeRecord": "1-4",
+          "startTime": "2026-11-01T00:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
             "L"
           ],
           "homeLast5": [
             "L",
             "L",
             "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Portland Trail Blazers vs Utah Jazz",
+          "betType": "spread",
+          "pick": "Portland Trail Blazers -8.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Utah Jazz are severely depleted in their frontcourt, with Jusuf Nurkić (foot) and Jaren Jackson Jr. (knee MCL tear) both ruled out, and Lauri Markkanen (wrist) listed as questionable. This leaves them highly vulnerable against a Portland Trail Blazers team that, despite Ja Morant's absence, features strong offensive play from Deni Avdija (22.8 PPG, 6.5 APG) and a significant interior presence from Donovan Clingan (9 RPG, 2.25 BPG). The Jazz's 1-4 record and heavy reliance on Keyonte George for offense further highlight their struggles, making the Blazers a confident pick to cover the spread against a weakened opponent.",
+          "awayRecord": "3-1",
+          "homeRecord": "1-4",
+          "startTime": "2026-10-31T19:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
             "L",
-            "W"
+            "W",
+            "L",
+            "L",
+            "L"
           ]
         }
       ]
@@ -134,128 +135,128 @@
       "sport": "NHL",
       "picks": [
         {
-          "game": "New Jersey Devils @ Vegas Golden Knights",
+          "game": "Ottawa Senators vs San Jose Sharks",
           "betType": "total",
-          "pick": "Under 6.5",
-          "odds": "-130",
+          "pick": "Over 6.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "The Ottawa Senators have been defensively vulnerable recently, allowing 20 goals in their last four games since starting goaltender Linus Ullmark went out with a lower-body injury. Backup Samuel Ersson carries a high 4.46 GAA, which will be tested by the Sharks' offense. In their previous encounter this season on October 22, the Sharks defeated the Senators 6-2, indicating a high-scoring potential for this matchup. With the Senators also having several key forwards injured or suspended, their defensive structure is further compromised, making a high-scoring affair likely.",
+          "awayRecord": "8-5-1",
+          "homeRecord": "7-6-1",
+          "startTime": "2026-10-31T20:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Buffalo Sabres vs Los Angeles Kings",
+          "betType": "total",
+          "pick": "Over 5.5",
+          "odds": "-135",
           "confidence": "high",
-          "rationale": "The head-to-head history between the Devils and Golden Knights strongly favors lower-scoring games, with all of their last five matchups going under the total. The Golden Knights have also won four of the last five meetings, often in low-scoring affairs, and lead the all-time series 14-8. The Devils are on the second half of a back-to-back, which can lead to fatigue and potentially a more conservative game. Both teams generally concede around 3 goals per game, with their combined average goals per game over the last 12 months sitting at 6.1, further supporting the Under 6.5.",
-          "awayRecord": "8-5-0",
-          "homeRecord": "9-4-1",
-          "startTime": "2026-10-30T22:00Z",
+          "rationale": "Both the Buffalo Sabres and Los Angeles Kings are coming off high-scoring contests, with the Sabres putting up 7 goals in their last game and the Kings winning 6-5 in overtime. The Sabres' power play, which had been struggling, showed significant improvement by scoring twice on three chances in their most recent outing. Despite both teams dealing with multiple injuries to key players, their recent offensive outputs suggest they can still find the back of the net. Given these recent trends and defensive lapses, the total going Over 5.5 goals is a strong play.",
+          "awayRecord": "6-4-3",
+          "homeRecord": "4-6-2",
+          "startTime": "2026-10-31T20:00Z",
           "awayLast5": [
+            "L",
+            "L",
+            "L",
             "W",
-            "W",
-            "W",
-            "W",
-            "L"
+            "W"
           ],
           "homeLast5": [
             "W",
             "L",
-            "L",
+            "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "Winnipeg Jets @ Florida Panthers",
+          "game": "Calgary Flames vs Colorado Avalanche",
           "betType": "total",
           "pick": "Over 6.5",
-          "odds": "+114",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "The Florida Panthers are currently dealing with significant injuries, most notably starting goaltender Jacob Markstrom on injured reserve and key forward Brad Marchand expected to miss four more weeks. While the Panthers won their previous game against the Jets 5-1, reaching exactly 6 goals, the absence of their primary netminder could lead to increased scoring opportunities for both teams. The Jets, despite their inconsistent recent form (3-5-2 in their last 10 games), are capable of capitalizing on a weakened Panthers defense. The plus money on the Over 6.5 (+114) presents solid value given the Panthers' current goaltending situation.",
-          "awayRecord": "4-6-3",
-          "homeRecord": "7-4-2",
-          "startTime": "2026-10-30T23:00Z",
+          "rationale": "The head-to-head history between the Flames and Avalanche strongly supports a high-scoring game, with an average of 6.2 goals per match in their overall encounters. More recently, the Avalanche have dominated, winning 9 of the last 10 matchups, including a 7-3 victory on October 9, 2026. Colorado's offense has been potent, averaging 4.4 goals per game in their last 10 head-to-head contests, while Calgary has conceded 4.4 goals per game in those same matchups. The Avalanche are also on a three-game home winning streak, further boosting their offensive confidence.",
+          "awayRecord": "6-7-0",
+          "homeRecord": "7-5-1",
+          "startTime": "2026-11-01T02:00Z",
           "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
             "W",
-            "L",
-            "L",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Seattle Kraken @ Calgary Flames",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "The Seattle Kraken have established a strong trend towards higher-scoring games this season, boasting an impressive 10-2 record on the Over, which has generated a significant return on investment. They recently demonstrated their offensive capabilities by winning a 5-4 game against Toronto. While the Flames have shown some recent defensive improvement, their overall season average of 3.8 goals against per game is a concern. Despite some key injuries on both sides, the Kraken's consistent high-scoring tendencies make the Over 6.5 a compelling play at near even odds.",
-          "awayRecord": "8-4-1",
-          "homeRecord": "5-7-0",
-          "startTime": "2026-10-31T00:00Z",
-          "awayLast5": [
-            "L",
             "W",
             "W",
             "L",
             "W"
           ],
           "homeLast5": [
+            "L",
+            "L",
             "W",
-            "W",
-            "W",
-            "W",
-            "L"
+            "L",
+            "W"
           ]
         },
         {
-          "game": "New Jersey Devils @ Vegas Golden Knights",
+          "game": "Pittsburgh Penguins vs Montreal Canadiens",
           "betType": "moneyline",
-          "pick": "Vegas Golden Knights",
-          "odds": "-115",
+          "pick": "Montreal Canadiens",
+          "odds": "-125",
           "confidence": "medium",
-          "rationale": "The Vegas Golden Knights hold a significant historical advantage over the New Jersey Devils, having won four of their last five head-to-head matchups and leading the all-time series. The Devils are also playing on the second night of a back-to-back, which is a demanding schedule that often impacts player performance and energy levels. The Golden Knights, playing at home for their annual Nevada Day matinee, will have additional motivation and a solid recent form of 6-3-1 in their last 10 games. These factors combine to make the Golden Knights moneyline a high-confidence pick.",
-          "awayRecord": "8-5-0",
-          "homeRecord": "9-4-1",
-          "startTime": "2026-10-30T22:00Z",
+          "rationale": "The Montreal Canadiens enter this game on an impressive four-game winning streak, sweeping their recent road trip with all victories coming in regulation. They are returning home, where they typically play well, while the Pittsburgh Penguins are struggling for consistency and are coming off an overtime loss. Although Montreal is without key forward Nick Suzuki due to an upper-body injury, they have demonstrated the ability to win without him. The Penguins are also dealing with several injuries, including Bryan Rust and Trevor van Riemsdyk, which further weakens their lineup against a red-hot Canadiens squad.",
+          "awayRecord": "5-6-2",
+          "homeRecord": "8-3-2",
+          "startTime": "2026-10-31T23:00Z",
           "awayLast5": [
-            "W",
-            "W",
+            "L",
+            "L",
             "W",
             "W",
             "L"
           ],
           "homeLast5": [
+            "L",
             "W",
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
             "W"
           ]
         },
         {
-          "game": "New Jersey Devils @ Vegas Golden Knights",
+          "game": "Chicago Blackhawks vs Boston Bruins",
           "betType": "spread",
-          "pick": "Vegas Golden Knights -1.5",
-          "odds": "+215",
+          "pick": "Boston Bruins -1.5",
+          "odds": "+110",
           "confidence": "medium",
-          "rationale": "Building on their strong head-to-head record, the Vegas Golden Knights have consistently outperformed the New Jersey Devils, winning four of their last five encounters. The Devils face a tough challenge playing their third game in four nights and on the second half of a back-to-back, which is likely to result in fatigue and defensive lapses. The Golden Knights, with a superior overall record (9-4-1) and playing at home, are well-positioned to capitalize on these situational advantages. The generous +215 odds for Vegas to win by at least two goals offer excellent value, reflecting a strong probability of a multi-goal victory.",
-          "awayRecord": "8-5-0",
+          "rationale": "The Boston Bruins have a dominant head-to-head record against the Chicago Blackhawks, winning 13 of 17 all-time meetings and 4 of the last 5, including a 5-2 victory in January 2026. The Blackhawks are struggling significantly on the road with an 0-5-0 record and are missing key offensive talent like Connor Bedard due to injury. The Bruins, despite a recent two-game skid, are strong at home with a 5-1-0 record and will be motivated to bounce back against a weaker opponent.",
+          "awayRecord": "4-9-0",
           "homeRecord": "9-4-1",
-          "startTime": "2026-10-30T22:00Z",
+          "startTime": "2026-10-31T17:00Z",
           "awayLast5": [
-            "W",
-            "W",
-            "W",
+            "L",
+            "L",
+            "L",
             "W",
             "L"
           ],
           "homeLast5": [
+            "L",
+            "W",
             "W",
             "L",
-            "L",
-            "L",
-            "W"
+            "L"
           ]
         }
       ]
@@ -264,68 +265,43 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Tulane Green Wave vs Charlotte 49ers",
+          "game": "Coastal Carolina Chanticleers vs Georgia State Panthers",
           "betType": "total",
-          "pick": "Under 47.5",
+          "pick": "Over 55.5",
           "odds": "-115",
           "confidence": "medium",
-          "rationale": "The historical head-to-head matchups between Tulane and Charlotte have been low-scoring, with Tulane outscoring Charlotte 61-3 in their last two meetings, both going significantly under the current total. Charlotte's offense is among the worst in FBS, averaging just 19.1 points per game (127th nationally), while Tulane's defense allows 24.6 points per game (74th). Although the total line has climbed from an opening of 45.5 to 47.5, this movement creates additional value on the Under given the teams' offensive struggles and defensive capabilities.",
-          "awayRecord": "3-4",
-          "homeRecord": "1-6",
-          "startTime": "2026-10-30T23:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "L",
-            "W",
-            "L"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "W"
-          ]
-        },
-        {
-          "game": "Kent State Golden Flashes vs Sacramento State Hornets",
-          "betType": "total",
-          "pick": "Over 46.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Sacramento State's defense is one of the weakest in the FBS, allowing 32.9 points per game (126th nationally), and their games often feature high scoring, with at least one team scoring 34 points in four straight games. Kent State is projected to score around 38 points in this matchup, which alone would account for a significant portion of the total. Despite the total holding steady at 46.5 since opening, the offensive potential from Kent State against a porous Sacramento State defense points towards an Over.",
-          "awayRecord": "3-5",
-          "homeRecord": "1-7",
-          "startTime": "2026-10-31T02:30Z",
-          "awayLast5": [
-            "W",
-            "L",
-            "L",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Baylor Bears vs UCF Knights",
-          "betType": "total",
-          "pick": "Under 48.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "Baylor boasts a strong defense, ranking 19th nationally by allowing only 16.1 points per game. The most recent head-to-head matchup in 2025 saw a low-scoring affair with Baylor winning 30-3, totaling just 33 points. Furthermore, Baylor recently underwent a coaching change with an interim head coach, which can often lead to a more conservative offensive approach or a period of adjustment, potentially limiting scoring. These factors, combined with Baylor's defensive strength, make the Under a compelling play.",
-          "awayRecord": "4-3",
+          "rationale": "The projected score of 59 points and the average head-to-head combined score of 62 points both exceed the 55.5 total, indicating a high-scoring potential for this matchup. Coastal Carolina is coming off a bye week, suggesting they are well-rested, while Georgia State's quarterback is reportedly 'banged up,' which could lead to more offensive opportunities or quick scores for Coastal Carolina. Historically, Coastal Carolina has an excellent 4-0 away record against Georgia State, and they have won and covered the last two meetings, further supporting their offensive capability on the road.",
+          "awayRecord": "2-5",
           "homeRecord": "4-3",
-          "startTime": "2026-10-30T23:30Z",
+          "startTime": "2026-10-31T18:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Georgia Tech Yellow Jackets vs Pittsburgh Panthers",
+          "betType": "total",
+          "pick": "Over 54.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Recent head-to-head matchups between Georgia Tech and Pittsburgh have frequently gone over this total, including a 70-point game in 2025 and a 73-point game in 2021. The average combined score in their head-to-head series since 2013 is 55.8 points, which is slightly above the current line of 54.5. Pittsburgh holds a strong historical advantage in the series, winning 12 of 18 matchups, and their offensive capabilities are expected to contribute significantly to a higher-scoring game. The 'Total Points Over%' in head-to-head matchups is 66.7%, providing additional support for the over.",
+          "awayRecord": "2-5",
+          "homeRecord": "5-3",
+          "startTime": "2026-10-31T23:30Z",
           "awayLast5": [
             "W",
-            "W",
+            "L",
             "W",
             "L",
             "L"
@@ -335,58 +311,143 @@
             "W",
             "L",
             "L",
+            "L"
+          ]
+        },
+        {
+          "game": "App State Mountaineers vs Georgia Southern Eagles",
+          "betType": "total",
+          "pick": "Over 55.5",
+          "odds": "-115",
+          "confidence": "medium",
+          "rationale": "Despite some lower-scoring recent head-to-head games, both App State and Georgia Southern have been involved in very high-scoring contests in their recent form, with Georgia Southern's last two games totaling 70 and 71 points respectively. Their head-to-head history also includes games with 82 and 99 total points, demonstrating the potential for offensive explosions when these teams meet. The current line of 55.5 seems attainable given their offensive capabilities and recent game trends, suggesting a higher-scoring affair.",
+          "awayRecord": "5-2",
+          "homeRecord": "3-4",
+          "startTime": "2026-10-31T22:30Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "L",
             "W"
           ]
         },
         {
-          "game": "Tulane Green Wave vs Charlotte 49ers",
-          "betType": "spread",
-          "pick": "Tulane Green Wave -8.5",
+          "game": "Army Black Knights vs Memphis Tigers",
+          "betType": "total",
+          "pick": "Under 59.5",
           "odds": "-105",
           "confidence": "medium",
-          "rationale": "Tulane has historically dominated Charlotte, winning their last two meetings by a combined score of 61-3. Charlotte has a poor track record against the spread at home, failing to cover the +8.5 line in 8 of their last 10 home games. While the line has moved from an opening of Tulane -10.5 to -8.5, suggesting some market adjustment, the significant talent disparity and head-to-head dominance still favor Tulane covering this spread.",
-          "awayRecord": "3-4",
-          "homeRecord": "1-6",
-          "startTime": "2026-10-30T23:00Z",
+          "rationale": "The historical head-to-head average combined score between Army and Memphis is a significantly lower 44.4 points, well under the current total of 59.5. Army's offensive strategy is typically run-heavy, which often leads to longer drives and fewer possessions, naturally contributing to lower-scoring games. While Memphis has a strong offense, Army's ball-control approach and defensive capabilities are expected to limit the overall scoring in this matchup. The most recent meeting in 2002 also ended with a total of 48 points, reinforcing the historical trend of lower-scoring affairs.",
+          "awayRecord": "5-2",
+          "homeRecord": "6-2",
+          "startTime": "2026-11-01T00:00Z",
           "awayLast5": [
-            "L",
             "W",
             "L",
             "W",
-            "L"
+            "W",
+            "W"
           ],
           "homeLast5": [
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
             "L",
             "W"
           ]
         },
         {
-          "game": "Kent State Golden Flashes vs Sacramento State Hornets",
+          "game": "Oregon State Beavers vs Fresno State Bulldogs",
           "betType": "spread",
-          "pick": "Kent State Golden Flashes -7.5",
-          "odds": "-112",
+          "pick": "Oregon State Beavers -5.5",
+          "odds": "-115",
           "confidence": "medium",
-          "rationale": "Sacramento State is struggling significantly in their first FBS season, holding a 1-7 overall record and an 0-5 conference record, coupled with a six-game losing streak. They have also been a poor bet against the spread, with a 1-6 ATS record against FBS opponents. Kent State, coming off a disciplined performance, is facing a team that struggles defensively and has a history of not covering large spreads. The line movement from an opening of Kent State -10.5 to -7.5 makes this spread more attractive for the Golden Flashes.",
-          "awayRecord": "3-5",
-          "homeRecord": "1-7",
-          "startTime": "2026-10-31T02:30Z",
+          "rationale": "The spread for this game opened at Oregon State -7 and has since dropped to -5.5, even with public money backing the Beavers, suggesting value on the current line. Oregon State has covered every game this season and is winning by more than 32 points per game during their impressive five-game streak. With the nation's leading passer and receiver, Oregon State's offense is consistently putting up points in bunches. Fresno State's ball-control approach has struggled against stronger opponents, and their offense is unlikely to match the firepower of the Beavers, as evidenced by a projected final score of Oregon State 38, Fresno State 24, which comfortably covers the -5.5 spread.",
+          "awayRecord": "5-2",
+          "homeRecord": "4-3",
+          "startTime": "2026-11-01T03:00Z",
           "awayLast5": [
             "W",
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
             "W"
           ],
           "homeLast5": [
-            "L",
-            "L",
-            "L",
+            "W",
+            "W",
+            "W",
             "L",
             "L"
           ]
+        }
+      ]
+    },
+    {
+      "sport": "MLS",
+      "picks": [
+        {
+          "game": "Orlando City SC @ Charlotte FC",
+          "betType": "total",
+          "pick": "Over 3.5",
+          "odds": "-165",
+          "confidence": "high",
+          "rationale": "Both teams are in excellent recent scoring form, with Orlando City's last 5 games all going Over the total, averaging 2.8 goals scored and 2.4 conceded. The head-to-head history strongly supports high-scoring affairs, averaging 4.10 goals per match in 13 encounters, with recent H2H matches frequently exceeding 3 goals. Charlotte FC has also been involved in high-scoring games recently, including a 4-0 win. Significant injuries on both sides, including multiple defensive players for Charlotte and a key defender for Orlando, could further compromise defensive solidity, contributing to an open game.",
+          "awayRecord": "12-7-13",
+          "homeRecord": "14-8-10",
+          "startTime": "2026-10-31T17:00Z"
+        },
+        {
+          "game": "D.C. United @ Columbus Crew",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-150",
+          "confidence": "medium",
+          "rationale": "Columbus Crew, despite some higher-scoring games, has also been involved in lower-scoring matches recently, including two 0-2 results against FC Cincinnati and FC Dallas. D.C. United's recent form is poor, with 1 win and 4 losses in their last 5 league matches, suggesting they may struggle to contribute significantly to the scoreline. The market heavily favors the Under 3.5 at -150, indicating sharp money movement in that direction. Columbus's overall goal difference is -1, suggesting they are not consistently involved in high-scoring blowouts.",
+          "awayRecord": "7-12-13",
+          "homeRecord": "12-5-15",
+          "startTime": "2026-10-31T18:00Z"
+        },
+        {
+          "game": "Philadelphia Union @ FC Cincinnati",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-145",
+          "confidence": "high",
+          "rationale": "The historical head-to-head data between these two teams strongly indicates a tendency for lower-scoring matches, with only 5 of their 18 meetings exceeding 2.5 goals. The average goals per game in their H2H is 2.8, well below the 3.5 total. Philadelphia Union has a strong defensive record in this fixture, conceding only 18 goals in 18 matches against Cincinnati. The current line also heavily favors the Under, reinforcing the expectation of a defensive contest.",
+          "awayRecord": "13-8-11",
+          "homeRecord": "11-10-11",
+          "startTime": "2026-10-31T18:00Z"
+        },
+        {
+          "game": "FC Dallas @ Sporting Kansas City",
+          "betType": "moneyline",
+          "pick": "FC Dallas",
+          "odds": "-120",
+          "confidence": "medium",
+          "rationale": "FC Dallas enters this match in very good overall form, sitting 5th in the MLS table with a 15-9-8 record, and boasts a strong away record. They have also dominated the recent head-to-head matchups against Sporting Kansas City, winning four of the last six league meetings. Sporting Kansas City, conversely, has a poor overall record of 6-4-22 and has struggled significantly, losing nine of their eleven MLS away matches this season, indicating a general weakness that FC Dallas can exploit even at home. FC Dallas's recent form includes 3 wins, 1 draw, and 1 loss in their last 5 matches.",
+          "awayRecord": "15-9-8",
+          "homeRecord": "6-4-22",
+          "startTime": "2026-10-31T19:00Z"
+        },
+        {
+          "game": "San Diego FC @ St. Louis CITY SC",
+          "betType": "total",
+          "pick": "Under 3.5",
+          "odds": "-160",
+          "confidence": "medium",
+          "rationale": "The head-to-head history between San Diego FC and St. Louis City SC strongly points to a low-scoring affair, with an average of just 1.7 goals per game across their three meetings and only one match exceeding 2.5 goals. St. Louis City has notably struggled to score against San Diego FC in past encounters, failing to score in both halves in their last three H2H league matches. San Diego FC is also unbeaten against St. Louis City since March 2025. The current betting line also heavily favors the Under 3.5, reflecting market confidence in a tight game.",
+          "awayRecord": "8-11-13",
+          "homeRecord": "14-9-9",
+          "startTime": "2026-10-31T19:00Z"
         }
       ]
     }
