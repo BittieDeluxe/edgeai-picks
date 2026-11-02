@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-11-01",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Boston Celtics vs Orlando Magic",
+            "betType": "total",
+            "pick": "Over 220.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Boston Celtics 108, Orlando Magic 97"
+          },
+          {
+            "game": "Brooklyn Nets vs Indiana Pacers",
+            "betType": "total",
+            "pick": "Over 231.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Brooklyn Nets 98, Indiana Pacers 90"
+          },
+          {
+            "game": "LA Clippers vs Golden State Warriors",
+            "betType": "spread",
+            "pick": "LA Clippers +1.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "LA Clippers 112, Golden State Warriors 124"
+          },
+          {
+            "game": "Toronto Raptors vs Los Angeles Lakers",
+            "betType": "total",
+            "pick": "Under 225.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Toronto Raptors 125, Los Angeles Lakers 131"
+          },
+          {
+            "game": "Toronto Raptors vs Los Angeles Lakers",
+            "betType": "prop",
+            "pick": "Luka Doncic Over 36.5 points",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Luka Doncic: 45 points (line 36.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Winnipeg Jets vs Carolina Hurricanes",
+            "betType": "spread",
+            "pick": "Carolina Hurricanes -1.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Winnipeg Jets 0, Carolina Hurricanes 7"
+          },
+          {
+            "game": "Minnesota Wild vs Washington Capitals",
+            "betType": "moneyline",
+            "pick": "Minnesota Wild (-110)",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Minnesota Wild 5, Washington Capitals 1"
+          },
+          {
+            "game": "Utah Mammoth vs Philadelphia Flyers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+116",
+            "confidence": "high",
+            "result": "W",
+            "score": "Utah Mammoth 3, Philadelphia Flyers 6"
+          },
+          {
+            "game": "Edmonton Oilers vs New York Rangers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Edmonton Oilers 4, New York Rangers 1"
+          },
+          {
+            "game": "Ottawa Senators vs Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-134",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Ottawa Senators 3, Anaheim Ducks 6"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Arizona Cardinals vs Dallas Cowboys",
+            "betType": "total",
+            "pick": "Over 54.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arizona Cardinals 33, Dallas Cowboys 30"
+          },
+          {
+            "game": "Indianapolis Colts vs Jacksonville Jaguars",
+            "betType": "spread",
+            "pick": "Jacksonville Jaguars -10",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "W",
+            "score": "Indianapolis Colts 7, Jacksonville Jaguars 42"
+          },
+          {
+            "game": "Atlanta Falcons vs Tampa Bay Buccaneers",
+            "betType": "total",
+            "pick": "Under 43.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Atlanta Falcons 0, Tampa Bay Buccaneers 16"
+          },
+          {
+            "game": "Kansas City Chiefs vs Denver Broncos",
+            "betType": "total",
+            "pick": "Under 41.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Kansas City Chiefs 24, Denver Broncos 28"
+          },
+          {
+            "game": "Cleveland Browns vs Pittsburgh Steelers",
+            "betType": "total",
+            "pick": "Under 38.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Browns 6, Pittsburgh Steelers 27"
+          }
+        ]
+      },
+      {
+        "sport": "MLS",
+        "picks": [
+          {
+            "game": "Toronto FC @ Atlanta United FC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Toronto FC 1, Atlanta United FC 3"
+          },
+          {
+            "game": "Red Bull New York @ Nashville SC",
+            "betType": "total",
+            "pick": "Under 3.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "L",
+            "score": "Red Bull New York 2, Nashville SC 3"
+          },
+          {
+            "game": "Inter Miami CF @ New England Revolution",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Inter Miami CF 2, New England Revolution 1"
+          },
+          {
+            "game": "Minnesota United FC @ LAFC",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "+115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota United FC 3, LAFC 1"
+          },
+          {
+            "game": "Houston Dynamo FC @ Portland Timbers",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-175",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Dynamo FC 1, Portland Timbers 3"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-10-31",
     "sports": [
       {
@@ -5627,112 +5833,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Virginia Cavaliers 7, Florida State Seminoles 38"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-10-02",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Boston Bruins vs Winnipeg Jets",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "W",
-            "score": "Boston Bruins 4, Winnipeg Jets 3"
-          },
-          {
-            "game": "Washington Capitals vs Carolina Hurricanes",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Washington Capitals 5, Carolina Hurricanes 2"
-          },
-          {
-            "game": "Anaheim Ducks vs Vegas Golden Knights",
-            "betType": "spread",
-            "pick": "Vegas Golden Knights -1.5",
-            "odds": "+124",
-            "confidence": "high",
-            "result": "L",
-            "score": "Anaheim Ducks 4, Vegas Golden Knights 3"
-          },
-          {
-            "game": "St. Louis Blues vs Dallas Stars",
-            "betType": "total",
-            "pick": "Under 5.5",
-            "odds": "+114",
-            "confidence": "medium",
-            "result": "W",
-            "score": "St. Louis Blues 4, Dallas Stars 0"
-          },
-          {
-            "game": "New York Rangers vs Detroit Red Wings",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-135",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New York Rangers 2, Detroit Red Wings 0"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Pittsburgh Panthers vs Virginia Tech Hokies",
-            "betType": "total",
-            "pick": "Under 54.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Pittsburgh Panthers 35, Virginia Tech Hokies 33"
-          },
-          {
-            "game": "Liberty Flames vs Delaware Blue Hens",
-            "betType": "total",
-            "pick": "Under 49.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Liberty Flames 30, Delaware Blue Hens 14"
-          },
-          {
-            "game": "Penn State Nittany Lions vs Northwestern Wildcats",
-            "betType": "spread",
-            "pick": "Northwestern Wildcats +2.5",
-            "odds": "-102",
-            "confidence": "high",
-            "result": "W",
-            "score": "Penn State Nittany Lions 13, Northwestern Wildcats 34"
-          },
-          {
-            "game": "Penn State Nittany Lions vs Northwestern Wildcats",
-            "betType": "total",
-            "pick": "Under 45.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Penn State Nittany Lions 13, Northwestern Wildcats 34"
-          },
-          {
-            "game": "Pittsburgh Panthers vs Virginia Tech Hokies",
-            "betType": "spread",
-            "pick": "Virginia Tech Hokies -2.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Pittsburgh Panthers 35, Virginia Tech Hokies 33"
           }
         ]
       }
