@@ -1,133 +1,263 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T16:57:33.071Z",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T17:02:35.991Z",
   "sports": [
+    {
+      "sport": "NBA",
+      "picks": [
+        {
+          "game": "Philadelphia 76ers @ Detroit Pistons",
+          "betType": "total",
+          "pick": "Under 219.5",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "Both the 76ers and Pistons boast strong defensive units, with Detroit allowing 100.3 PPG and Philadelphia 105.1 PPG. The previous head-to-head matchup this season between these two teams resulted in a low-scoring 199 total (106-93 Pistons win). Furthermore, both teams are dealing with significant injuries to key offensive players, with Jalen Duren out for the Pistons and Joel Embiid managing plantar fasciitis for the 76ers, potentially limiting his impact. These factors suggest a grind-it-out game with limited scoring opportunities, making the Under a high-confidence play.",
+          "awayRecord": "7-1",
+          "homeRecord": "6-1",
+          "startTime": "2026-11-05T00:00Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Indiana Pacers @ Memphis Grizzlies",
+          "betType": "spread",
+          "pick": "Memphis Grizzlies -6.5",
+          "odds": "-114",
+          "confidence": "medium",
+          "rationale": "The Indiana Pacers are severely hampered by injuries, with star guard Tyrese Haliburton sidelined for at least two more weeks due to a hamstring strain, and T.J. McConnell also out. Additionally, Ivica Zubac, Obi Toppin, and Kelly Oubre Jr. are all questionable, further depleting Indiana's roster. In contrast, the Memphis Grizzlies are off to a strong 6-1 start and have impressively covered the spread in every single one of their wins this season. Facing a short-handed Pacers team at home, Memphis is in a prime position to secure a comfortable victory and cover the spread.",
+          "awayRecord": "2-6",
+          "homeRecord": "6-1",
+          "startTime": "2026-11-05T01:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Utah Jazz @ New Orleans Pelicans",
+          "betType": "spread",
+          "pick": "New Orleans Pelicans -5.5",
+          "odds": "-112",
+          "confidence": "medium",
+          "rationale": "The Utah Jazz are significantly weakened in their frontcourt, with Jaren Jackson Jr. (MCL) and Jusuf Nurkic (plantar plate tear) both ruled out for several weeks. This leaves them vulnerable against a New Orleans Pelicans team that is currently on a three-game winning streak and ranks in the top half of the league in both offensive and defensive efficiency. The Jazz have also struggled against the spread this season, covering in just one of their seven games. With New Orleans playing well and Utah missing key bigs, the Pelicans are poised to win by a comfortable margin.",
+          "awayRecord": "1-6",
+          "homeRecord": "3-4",
+          "startTime": "2026-11-05T01:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "game": "Chicago Bulls @ New York Knicks",
+          "betType": "total",
+          "pick": "Over 233.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The Chicago Bulls have been abysmal defensively this season, allowing a league-high 128.9 points per game through their 1-6 start. While the New York Knicks' offense has been inconsistent, they are capable of high-scoring outbursts, as evidenced by Jalen Brunson's 38-point performance in their previous matchup against the Bulls last week. With Chicago's porous defense and the Knicks looking to build momentum, this game has all the makings of a high-scoring affair. Both teams' defensive struggles point towards the Over being a strong play.",
+          "awayRecord": "1-6",
+          "homeRecord": "3-4",
+          "startTime": "2026-11-05T00:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Miami Heat @ LA Clippers",
+          "betType": "total",
+          "pick": "Over 233.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Both the Miami Heat and LA Clippers have exhibited significant defensive vulnerabilities early in the season. The Heat are surrendering 123.9 points per game, ranking them fourth-worst in the NBA, and recently allowed 138 points to the Lakers. The Clippers are also struggling defensively, ranking 29th in opponent field goal percentage and 30th in turnover percentage. Given these defensive shortcomings from both sides, coupled with their desire to break out of early-season slumps, this game is likely to feature a fast pace and plenty of scoring opportunities, pushing the total Over 233.5.",
+          "awayRecord": "2-5",
+          "homeRecord": "1-6",
+          "startTime": "2026-11-05T03:30Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        }
+      ]
+    },
     {
       "sport": "NHL",
       "picks": [
         {
-          "game": "Winnipeg Jets vs Montreal Canadiens",
-          "betType": "total",
-          "pick": "Under 5.5",
-          "odds": "+110",
-          "confidence": "medium",
-          "rationale": "The Montreal Canadiens are on a five-game winning streak, but their power play ranks last in the league. The Winnipeg Jets' offense is severely struggling, having lost nine straight games, including a 7-0 shutout, and they possess the third-fewest goals in the league. Historically, 8 of the last 10 head-to-head matchups between these teams have gone Under the total. Montreal's rookie goaltender Jacob Fowler has been exceptional, boasting a 7-1 record with a .932 save percentage and two shutouts, further supporting a lower-scoring affair.",
-          "awayRecord": "4-8-3",
-          "homeRecord": "9-3-2",
-          "startTime": "2026-11-04T00:00Z",
-          "awayLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ],
-          "homeLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ]
-        },
-        {
-          "game": "Detroit Red Wings vs Tampa Bay Lightning",
+          "game": "Ottawa Senators vs Buffalo Sabres",
           "betType": "total",
           "pick": "Over 6.5",
-          "odds": "+110",
-          "confidence": "medium",
-          "rationale": "The Tampa Bay Lightning are well-rested at home, riding a six-game home winning streak, and averaging four goals per game over their last 10 contests, including scoring at least four in their last three. Conversely, the Detroit Red Wings are on the second half of a back-to-back, are without key player Dylan Larkin due to suspension, and are expected to start a backup goalie with a high GAA. Detroit's games have frequently gone Over the total this season, with 9 of 15 games exceeding 6.5 goals and 14 of their last 20 overall hitting the Over.",
-          "awayRecord": "7-5-3",
-          "homeRecord": "8-3-2",
-          "startTime": "2026-11-04T00:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "W"
-          ],
-          "homeLast5": [
-            "W",
-            "L",
-            "L",
-            "W",
-            "L"
-          ]
-        },
-        {
-          "game": "Vegas Golden Knights vs Pittsburgh Penguins",
-          "betType": "total",
-          "pick": "Over 6.5",
-          "odds": "-120",
+          "odds": "-122",
           "confidence": "high",
-          "rationale": "The Pittsburgh Penguins are significantly impacted by injuries, with Evgeni Malkin, Bryan Rust, and several defensemen sidelined, leading to consistent defensive struggles where they often concede five goals. While the Vegas Golden Knights are on a back-to-back, potentially leading to defensive lapses, their offense is potent, led by Jack Eichel and Mark Stone. The last head-to-head game between these teams was a high-scoring 6-2 victory for Vegas, indicating a strong potential for another Over.",
-          "awayRecord": "9-5-2",
-          "homeRecord": "5-7-2",
-          "startTime": "2026-11-04T00:00Z",
+          "rationale": "The head-to-head history between the Senators and Sabres suggests a high-scoring affair, with an average of 6.3 goals per match across their 20 meetings. The Buffalo Sabres have won 4 of their last 5 matchups against the Senators and 7 of the last 10, indicating a competitive series. Additionally, the Senators are playing on a back-to-back after a 5-1 victory against the San Jose Sharks yesterday, which could lead to defensive fatigue. The Sabres also have defensive injuries with Conor Timmins and Jack Rathbone on injured reserve, potentially contributing to more goals.",
+          "awayRecord": "9-6-1",
+          "homeRecord": "7-4-3",
+          "startTime": "2026-11-05T00:30Z",
           "awayLast5": [
+            "W",
             "L",
             "L",
             "W",
-            "L",
             "L"
           ],
           "homeLast5": [
             "L",
-            "W",
-            "W",
             "L",
-            "L"
+            "W",
+            "W",
+            "W"
           ]
         },
         {
-          "game": "Anaheim Ducks vs Vancouver Canucks",
+          "game": "Chicago Blackhawks vs Florida Panthers",
           "betType": "total",
           "pick": "Over 6.5",
-          "odds": "-135",
-          "confidence": "medium",
-          "rationale": "Both the Ducks and Canucks are dealing with significant injury concerns, notably Vancouver missing starting goaltender Thatcher Demko. The Canucks have the league's worst goal differential and have lost 12 of their last 13 games, while Anaheim's offense is aggressive, ranking 9th in goals per game and 2nd on the power play. Their most recent head-to-head matchup was a 6-5 overtime thriller, and seven of the last eight Tuesday night games at Rogers Arena have gone Over the total.",
-          "awayRecord": "6-7-1",
-          "homeRecord": "3-12-1",
-          "startTime": "2026-11-04T02:00Z",
+          "odds": "+120",
+          "confidence": "high",
+          "rationale": "The Chicago Blackhawks are struggling defensively, having conceded 12 goals across their last three outings and holding an 0-6 SU record on the road this season. They are also missing key defensive player Bowen Byram due to injury. The Florida Panthers, despite some offensive injuries, boast a potent power play that has converted 15-for-40 (37.5%) in their last 10 games. The game total has also seen significant line movement, moving up from an opening 5.5 to 6.5, reflecting market confidence in a higher-scoring game.",
+          "awayRecord": "4-10-1",
+          "homeRecord": "8-5-2",
+          "startTime": "2026-11-05T00:30Z",
           "awayLast5": [
             "L",
             "W",
             "L",
             "L",
-            "W"
+            "L"
           ],
           "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Chicago Blackhawks vs Florida Panthers",
+          "betType": "spread",
+          "pick": "Florida Panthers -1.5",
+          "odds": "+105",
+          "confidence": "high",
+          "rationale": "The Chicago Blackhawks enter this game in poor form, with a 1-6 SU record in their last seven games and an abysmal 0-6 SU record on the road this season. They are significantly hampered by injuries to key offensive player Patrick Kane and defenseman Bowen Byram. The Florida Panthers have dominated recent head-to-head matchups, winning 7 of the last 10 meetings and 3 of the last 4 since November 2024. Given Chicago's struggles and injuries, Florida is well-positioned to win by at least two goals at home.",
+          "awayRecord": "4-10-1",
+          "homeRecord": "8-5-2",
+          "startTime": "2026-11-05T00:30Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "San Jose Sharks vs Los Angeles Kings",
+          "betType": "total",
+          "pick": "Under 6.5",
+          "odds": "-125",
+          "confidence": "medium",
+          "rationale": "The Los Angeles Kings currently hold a 4-7-2 record, suggesting a tendency towards lower-scoring games. They are also dealing with an injury to F Zuccarello, who is considered week-to-week, impacting their offensive output. The San Jose Sharks are on a back-to-back after a 5-1 loss yesterday, which may lead to fatigue and a more defensive approach in this contest. While their last head-to-head game was high-scoring, the overall situational factors point to a tighter game with fewer goals.",
+          "awayRecord": "7-8-1",
+          "homeRecord": "4-7-2",
+          "startTime": "2026-11-05T03:00Z",
+          "awayLast5": [
             "L",
             "L",
             "W",
             "L",
             "L"
-          ]
-        },
-        {
-          "game": "Carolina Hurricanes vs Nashville Predators",
-          "betType": "spread",
-          "pick": "Carolina Hurricanes -1.5",
-          "odds": "+124",
-          "confidence": "medium",
-          "rationale": "The Carolina Hurricanes are a dominant team with an impressive 12-2-2 record and are currently on a two-game winning streak against the Nashville Predators. Carolina has won four of their last five head-to-head matchups against Nashville, including a decisive 4-1 victory in their most recent encounter. Nashville's weaker 5-4-5 record further highlights the Hurricanes' superior form and ability to secure a multi-goal victory in this matchup.",
-          "awayRecord": "12-2-2",
-          "homeRecord": "5-4-5",
-          "startTime": "2026-11-04T01:00Z",
-          "awayLast5": [
-            "L",
-            "W",
-            "W",
-            "W",
-            "W"
           ],
           "homeLast5": [
             "L",
             "W",
             "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "game": "Calgary Flames vs Seattle Kraken",
+          "betType": "total",
+          "pick": "Over 6.5",
+          "odds": "+110",
+          "confidence": "medium",
+          "rationale": "Recent head-to-head matchups between the Flames and Kraken this season have been notably high-scoring, with results including 6-1, 6-1, and 6-2. The average goals per game in their head-to-head contests since the 2023-24 season is 6.9, further supporting an Over trend. The Calgary Flames will be without their starting goaltender Devin Cooley, who is on injured reserve, with Dustin Wolf expected to start, which could lead to increased scoring opportunities for Seattle. The Kraken also have a defensive injury to Ryan Lindgren, potentially contributing to a more open game.",
+          "awayRecord": "7-8-0",
+          "homeRecord": "8-5-1",
+          "startTime": "2026-11-05T03:00Z",
+          "awayLast5": [
+            "W",
+            "L",
+            "W",
             "L",
             "W"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
           ]
         }
       ]
@@ -136,44 +266,44 @@
       "sport": "NCAAF",
       "picks": [
         {
-          "game": "Ohio Bobcats vs Akron Zips",
+          "game": "Ball State Cardinals vs Massachusetts Minutemen",
           "betType": "total",
-          "pick": "Under 51.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Despite the total climbing from 49.5 to 51.5 with 100% of the money on the Over, several factors point to the Under. Ohio's offense is run-heavy and ball-control oriented, which typically shortens games and limits possessions. Akron's offense is one of the worst in the nation, averaging a mere 19 points per game, and has struggled significantly to score. Furthermore, four of the last five head-to-head matchups between these two teams have gone under the current total of 51.5, indicating a historical trend of lower-scoring contests.",
-          "awayRecord": "6-2",
-          "homeRecord": "1-7",
-          "startTime": "2026-11-04T00:00Z",
-          "awayLast5": [
-            "W",
-            "W",
-            "W",
-            "W",
-            "W"
-          ],
-          "homeLast5": [
-            "L",
-            "L",
-            "L",
-            "L",
-            "L"
-          ]
-        },
-        {
-          "game": "Ohio Bobcats vs Akron Zips",
-          "betType": "spread",
-          "pick": "Ohio Bobcats -14.5",
+          "pick": "Over 49.5",
           "odds": "-104",
-          "confidence": "high",
-          "rationale": "Ohio enters this game with a strong 6-2 overall record and an unblemished 4-0 mark in MAC play, while Akron is a dismal 1-7 overall and 0-4 in conference. Ohio has dominated the head-to-head series, winning the last six matchups and covering the spread in five of the last six when the line was -12.5. Akron's defense is particularly vulnerable against the run, ranking 119th in Rushing Success Rate allowed, which plays directly into Ohio's strength as a run-heavy team. The line movement from -12.5 to -14.5, with 68% of the money on Ohio, suggests sharp action is backing the Bobcats to cover this spread.",
+          "confidence": "medium",
+          "rationale": "The total has seen significant line movement towards the over, climbing from an opening of 48.5 to 49.5, with 100% of both money and tickets on the over. Ball State's defense is among the worst nationally, ranking 131st and allowing an average of 35.3 points per game. Massachusetts, despite their recent struggles, averages 26.5 points per game and will be highly motivated at home to push the pace to keep their bowl hopes alive. Ball State's offense has also shown recent productivity, scoring 34 and 32 points in their last two victories.",
+          "awayRecord": "3-5",
+          "homeRecord": "4-4",
+          "startTime": "2026-11-05T00:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "game": "Toledo Rockets vs Sacramento State Hornets",
+          "betType": "total",
+          "pick": "Under 52.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "The spread has seen significant reverse line movement, dropping from Toledo -27.5 to -24.5 despite heavy public betting on Toledo, indicating sharp money on Sacramento State. Sacramento State is without its starting quarterback, Carson Conklin, which will severely hinder their offensive capabilities. The Hornets possess a ground game that can effectively drain the clock and limit Toledo's possessions, and their defense recently held Kent State to just 10 points. Furthermore, Toledo is coming off 10 days of rest, while Sacramento State has a quick turnaround from a Friday night game, suggesting a potentially slower-paced contest.",
           "awayRecord": "6-2",
-          "homeRecord": "1-7",
-          "startTime": "2026-11-04T00:00Z",
+          "homeRecord": "2-7",
+          "startTime": "2026-11-05T00:00Z",
           "awayLast5": [
             "W",
             "W",
-            "W",
+            "L",
             "W",
             "W"
           ],
@@ -182,30 +312,83 @@
             "L",
             "L",
             "L",
+            "W"
+          ]
+        },
+        {
+          "game": "Central Michigan Chippewas vs Eastern Michigan Eagles",
+          "betType": "total",
+          "pick": "Under 44.5",
+          "odds": "-105",
+          "confidence": "medium",
+          "rationale": "This matchup features two of college football's least efficient offenses, with Central Michigan ranking 134th in scoring and Eastern Michigan's ground game ranking 130th nationally. The total has seen substantial sharp money on the under, dropping from an opening of 46.5 to 44.5, with 100% of the public money and tickets also favoring the under. Both teams are known for playing at a slow pace, which will further limit the number of possessions and scoring opportunities. Compounding offensive struggles, Central Michigan's starting QB Angel Flores is out for the season, and Eastern Michigan's Noah Kim is questionable.",
+          "awayRecord": "3-5",
+          "homeRecord": "4-5",
+          "startTime": "2026-11-05T00:30Z",
+          "awayLast5": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "homeLast5": [
+            "W",
+            "W",
+            "W",
+            "L",
             "L"
           ]
         },
         {
-          "game": "Buffalo Bulls vs Miami (OH) RedHawks",
-          "betType": "total",
-          "pick": "Over 44.5",
-          "odds": "-110",
+          "game": "Toledo Rockets vs Sacramento State Hornets",
+          "betType": "spread",
+          "pick": "Sacramento State Hornets +24.5",
+          "odds": "-112",
           "confidence": "medium",
-          "rationale": "While both teams are dealing with significant injuries to their starting quarterbacks, David McComb for Miami (OH) and Elijah Holmes for Buffalo, recent game trends suggest a higher-scoring outcome. Miami (OH) games have gone over the total in six of their last eight contests this season, including four of their last five home games. Similarly, Buffalo has seen the Over hit in six of their last ten games and two of their last three road games. Despite the backup QBs, both offenses have shown an ability to put up points, and defensive vulnerabilities could lead to a combined score exceeding 44.5.",
-          "awayRecord": "5-3",
-          "homeRecord": "5-3",
-          "startTime": "2026-11-04T01:00Z"
+          "rationale": "Despite heavy public betting on Toledo, the spread has moved significantly in favor of Sacramento State, dropping from Toledo -27.5 to -24.5, signaling sharp money on the underdog. While Sacramento State is missing starting QB Carson Conklin, their ability to control the clock with their running game can help keep the score close. Toledo's 10 days of rest compared to Sacramento State's quick turnaround could lead to a less explosive game if Toledo gets an early lead. The projected final score of Toledo 35, Sacramento State 14 also suggests Sacramento State covers the +24.5 spread.",
+          "awayRecord": "6-2",
+          "homeRecord": "2-7",
+          "startTime": "2026-11-05T00:00Z",
+          "awayLast5": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
         },
         {
-          "game": "Buffalo Bulls vs Miami (OH) RedHawks",
+          "game": "Ball State Cardinals vs Massachusetts Minutemen",
           "betType": "spread",
-          "pick": "Miami (OH) RedHawks -5.5",
-          "odds": "-120",
+          "pick": "Massachusetts Minutemen -2.5",
+          "odds": "-110",
           "confidence": "medium",
-          "rationale": "Miami (OH) comes into this matchup with solid recent form, winning four of their last five games, demonstrating consistent performance. Playing at home in Fred C. Yager Stadium provides a significant advantage for the RedHawks, where they have historically performed well. Although the spread has seen some movement from an opening of -6.5 to the current -5.5, this slight adjustment could offer value on Miami (OH) to cover against a Buffalo team also navigating key injuries. Miami (OH)'s overall team strength and home field should be enough to secure a victory by more than a touchdown.",
-          "awayRecord": "5-3",
-          "homeRecord": "5-3",
-          "startTime": "2026-11-04T01:00Z"
+          "rationale": "Massachusetts is playing at home and is highly motivated to secure a victory to keep their bowl eligibility hopes alive after a four-game losing streak. The Minutemen are projected to win this game by a score of 31-24, which would comfortably cover the -2.5 spread. Ball State's defense is one of the weakest in the nation, ranking 131st and conceding an average of 35.3 points per game, an exploitable weakness for UMass. While UMass QB Aedan McCarthy is questionable, the team's strong home motivation and Ball State's defensive struggles provide a clear path to cover.",
+          "awayRecord": "3-5",
+          "homeRecord": "4-4",
+          "startTime": "2026-11-05T00:00Z",
+          "awayLast5": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "W"
+          ],
+          "homeLast5": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
         }
       ]
     },
@@ -213,59 +396,59 @@
       "sport": "NCAAB",
       "picks": [
         {
-          "game": "Wofford Terriers vs Tennessee Volunteers",
+          "game": "SE Louisiana Lions vs Auburn Tigers",
           "betType": "total",
-          "pick": "Over 155.5",
-          "odds": "-115",
-          "confidence": "medium",
-          "rationale": "Tennessee has historically taken season openers seriously under coach Rick Barnes, often resulting in high-scoring blowouts against weaker opponents. The Volunteers have actively rebuilt their roster with a focus on offensive firepower, adding key transfers like Terrence Hill Jr., Tyler Lundblade, and Juke Harris to boost their scoring. Both Wofford and Tennessee enter this contest with no significant injury concerns, suggesting full offensive capabilities for both sides. Given Tennessee's offensive-minded approach and historical performance in similar matchups, the combined score is likely to exceed the 155.5 total.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0",
-          "startTime": "2026-11-03T23:00Z"
-        },
-        {
-          "game": "Manhattan Jaspers vs Kentucky Wildcats",
-          "betType": "total",
-          "pick": "Under 158.5",
+          "pick": "Under 151.5",
           "odds": "-110",
           "confidence": "medium",
-          "rationale": "Kentucky is dealing with several key injuries, with Kam Williams (foot) and Trent Noah (hamstring) listed as week-to-week, and Jerone Morton (knee) out indefinitely, which will impact their offensive cohesion early in the season. Both the Wildcats and Jaspers feature heavily rebuilt rosters, with Kentucky returning only 17% of its scoring and Manhattan just 6%, suggesting potential struggles to establish offensive rhythm. Last season, the average combined points in Kentucky's games was 154.8, and Manhattan's was 153.0, both falling below the current 158.5 total. These factors point to a lower-scoring affair as both teams work to integrate new personnel.",
+          "rationale": "Southeastern Louisiana has a strong historical trend of playing unders on the road, with the 152.5 line not being covered in 9 of their last 10 and 18 of their last 20 road games. While Auburn scored 92 points in their last game, they are integrating new 7-footers which should bolster their defense. The previous head-to-head matchup saw Auburn win 86-71, a total of 157, but the consistent under trend for SE Louisiana on the road is a stronger indicator here. The Sportsgambler analysis also suggests playing the Under 152.5.",
           "awayRecord": "0-0",
           "homeRecord": "0-0",
-          "startTime": "2026-11-04T00:00Z"
+          "startTime": "2026-11-05T01:00Z"
         },
         {
-          "game": "Drexel Dragons vs Virginia Cavaliers",
-          "betType": "total",
-          "pick": "Under 142.5",
-          "odds": "-110",
-          "confidence": "medium",
-          "rationale": "Virginia, under Tony Bennett, is renowned for its slow-paced, defensive-minded basketball, consistently limiting opponent scoring and controlling game tempo. Drexel enters the season with a significantly rebuilt roster, returning only 23% of its scoring, which will make it challenging to generate offense against Virginia's stout defense. Neither team has reported any significant injuries, so Virginia's defensive strength should be at full effect. The Cavaliers' defensive identity and Drexel's offensive struggles are strong indicators for the game to stay under the projected total.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0",
-          "startTime": "2026-11-04T00:30Z"
-        },
-        {
-          "game": "Arkansas-Pine Bluff Golden Lions vs Arkansas Razorbacks",
+          "game": "Queens University Royals vs Loyola Marymount Lions",
           "betType": "spread",
-          "pick": "Arkansas-Pine Bluff Golden Lions +41.5",
+          "pick": "Queens University Royals +8.5",
+          "odds": "-115",
+          "confidence": "high",
+          "rationale": "Queens University demonstrated a potent offense in their opener, scoring 103 points and featuring five players in double figures. Historically, Queens has been a strong underdog bet against the spread, covering the +6.5 line in 9 of their last 10 and 16 of their last 20 games. Despite this, the line has moved significantly towards Loyola Marymount, from -5.5 to -8.5, with the public heavily backing LMU (89-98% of money). This strong public sentiment on LMU, combined with Queens' offensive capabilities and ATS history, creates value on the underdog.",
+          "awayRecord": "1-0",
+          "homeRecord": "0-0",
+          "startTime": "2026-11-05T03:00Z"
+        },
+        {
+          "game": "Northern Kentucky Norse vs South Dakota Coyotes",
+          "betType": "total",
+          "pick": "Over 162.5",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Both Northern Kentucky and South Dakota displayed high-scoring offenses in their season openers. Northern Kentucky scored 84 points against UTEP, with three players reaching double-doubles in points and rebounds. South Dakota also won their opener against Mount Marty. Last season, South Dakota had a high-scoring profile, averaging 79.6 PPG but also allowing 80.2 PPG, indicating a tendency for higher-scoring games. With both teams showing offensive rhythm early in the season, this total is likely to be surpassed.",
+          "awayRecord": "1-0",
+          "homeRecord": "1-0",
+          "startTime": "2026-11-05T01:00Z"
+        },
+        {
+          "game": "North Dakota State Bison vs Saint Mary's Gaels",
+          "betType": "total",
+          "pick": "Over 148",
+          "odds": "-110",
+          "confidence": "medium",
+          "rationale": "Both teams started their seasons with high-scoring performances, with North Dakota State putting up 90 points and Saint Mary's also scoring 90 points in their respective openers. Notably, Saint Mary's, typically known for strong defense (64.5 PPG allowed last season), conceded 85 points in their overtime win against Illinois State, suggesting early defensive vulnerabilities. North Dakota State also shot an efficient 53% from the field in their first game. The combination of two offenses finding their stride and Saint Mary's uncharacteristic defensive struggles points to an Over.",
+          "awayRecord": "1-0",
+          "homeRecord": "1-0",
+          "startTime": "2026-11-05T03:00Z"
+        },
+        {
+          "game": "Radford Highlanders vs California Golden Bears",
+          "betType": "spread",
+          "pick": "Radford Highlanders +15.5",
           "odds": "-105",
           "confidence": "medium",
-          "rationale": "Arkansas-Pine Bluff has an impressive historical trend of covering large spreads, having done so in 20 consecutive games when receiving +38.5 points. Conversely, the Arkansas Razorbacks have struggled to cover similar large spreads, failing to cover -38.5 in their last 20 games. Both teams are undergoing significant roster overhauls, with Arkansas returning only 14% of its scoring, which can lead to early-season inconsistencies and make covering a massive 41.5-point spread difficult, even against a perceived weaker opponent. The strong historical ATS trends for both teams heavily favor Arkansas-Pine Bluff to stay within this generous number.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0",
-          "startTime": "2026-11-04T01:00Z"
-        },
-        {
-          "game": "Wofford Terriers vs Tennessee Volunteers",
-          "betType": "spread",
-          "pick": "Wofford Terriers +24.5",
-          "odds": "-102",
-          "confidence": "medium",
-          "rationale": "Wofford boasts a remarkable record against the spread, covering the +24.5 line in 20 consecutive games when playing as the underdog. In contrast, Tennessee has a documented history of failing to cover the -24.5 spread in their last 20 games when favored by that margin. While Tennessee has added offensive talent and typically performs well in home openers, covering such a substantial spread in the first game of the season can be challenging as new players integrate into the system. With no reported injuries for Wofford, they are expected to be at full strength to compete and keep the game closer than the large spread suggests.",
-          "awayRecord": "0-0",
-          "homeRecord": "0-0",
-          "startTime": "2026-11-03T23:00Z"
+          "rationale": "The projected final score for this matchup, according to one analysis, is California 82, Radford 68. This projected margin of 14 points would result in Radford covering the +15.5 spread. While there isn't extensive recent form or H2H data, the unchanged spread at +15.5 despite some moneyline movement suggests the market isn't strongly convinced of a blowout beyond this number. Radford, as a significant underdog, has a reasonable chance to keep the game within this spread based on the projection.",
+          "awayRecord": "0-1",
+          "homeRecord": "1-0",
+          "startTime": "2026-11-05T02:00Z"
         }
       ]
     },
@@ -273,59 +456,59 @@
       "sport": "UCL",
       "picks": [
         {
-          "game": "VfB Stuttgart @ Galatasaray",
+          "game": "Real Madrid @ AEK Athens",
           "betType": "total",
           "pick": "Over 3.5",
-          "odds": "-140",
+          "odds": "-130",
           "confidence": "high",
-          "rationale": "Galatasaray's recent Champions League matches have consistently been high-scoring, with over 3.5 goals hitting in all three of their last UCL games. While VfB Stuttgart boasts a strong defensive record in the Champions League, conceding only two goals in three matches, they are significantly impacted by injuries to key defensive and midfield players like Dan-Axel Zagadou, Angelo Stiller, and Josha Vagnoman. Galatasaray's attack is bolstered by the confirmed availability of Victor Osimhen, who returned to full training. The combination of Galatasaray's high-scoring trend and Stuttgart's defensive absences points towards an open game with multiple goals.",
-          "awayRecord": "2-1-0",
+          "rationale": "The head-to-head history between Real Madrid and AEK Athens consistently features high-scoring affairs, with their last two Champions League encounters ending in 3-3 and 2-2 draws. Real Madrid, despite their strong UCL record this season, has historically struggled away in Greece, winning only one of eight UEFA away games against Greek teams, often resulting in draws. AEK Athens has shown an ability to score at home against Real Madrid, being unbeaten in their two previous home meetings. This combination of historical high-scoring H2H and Real Madrid's potential vulnerability away from home suggests a strong likelihood of goals from both sides, pushing the total over 3.5.",
+          "awayRecord": "3-0-0",
           "homeRecord": "1-0-2",
-          "startTime": "2026-11-03T17:45Z"
+          "startTime": "2026-11-04T17:45Z"
         },
         {
-          "game": "Bayern Munich @ Atlético Madrid",
+          "game": "Liverpool @ Fenerbahce",
           "betType": "total",
           "pick": "Under 3.5",
-          "odds": "-175",
+          "odds": "-155",
           "confidence": "high",
-          "rationale": "Atlético Madrid enters this match in formidable defensive form, being unbeaten in eight matches and conceding only three goals across all competitions. Furthermore, five of their last five games across all competitions have finished with under 2.5 total goals, indicating a preference for tight, controlled matches. Historically, Atlético has maintained a strong defensive record at home against Bayern, conceding only once in their three previous meetings in Madrid. The head-to-head record also shows a low-scoring trend, with only 17% of their last six matchups going over 3.5 goals. Despite Bayern's attacking prowess, Atlético's defensive solidity and historical patterns make the Under 3.5 a confident pick.",
-          "awayRecord": "1-2-0",
-          "homeRecord": "1-1-1",
-          "startTime": "2026-11-03T20:00Z"
-        },
-        {
-          "game": "Aston Villa @ Barcelona",
-          "betType": "total",
-          "pick": "Over 4.5",
-          "odds": "-105",
-          "confidence": "medium",
-          "rationale": "Barcelona is grappling with a severe defensive injury crisis, with five key defenders, including Andreas Christensen, Jules Koundé, and Eric García, either out or doubtful for this match, forcing midfielders into defensive roles. This vulnerability is highlighted by their failure to keep a clean sheet in their last 18 Champions League matches. Aston Villa, conversely, has enjoyed a perfect start to their Champions League campaign, scoring an impressive 12 goals in their first three games. While Barcelona's attack remains potent with Lamine Yamal in prolific form, their compromised defense against a high-scoring Villa side strongly suggests a game with numerous goals.",
+          "rationale": "Liverpool is significantly impacted by injuries for this match, with key players Ryan Gravenberch, Jeremie Frimpong, Giovanni Leoni, Conor Bradley, and Hugo Ekitike all confirmed out, and Federico Chiesa and Wataru Endo unregistered for the UCL. Fenerbahce is also dealing with injuries to Marco Asensio and Jayden Oosterwolde, and are seeking their first UCL win under an interim coach. Given Liverpool's extensive injury list and likely rotation, combined with Fenerbahce's struggle for form, a lower-scoring affair is anticipated. The high number of unavailable players for both sides, especially affecting attacking fluidity, points towards the Under 3.5.",
           "awayRecord": "3-0-0",
-          "homeRecord": "2-0-1",
-          "startTime": "2026-11-03T20:00Z"
+          "homeRecord": "0-2-1",
+          "startTime": "2026-11-04T17:45Z"
         },
         {
-          "game": "Slovan Bratislava @ LASK Linz",
-          "betType": "total",
-          "pick": "Over 3.5",
-          "odds": "-120",
-          "confidence": "medium",
-          "rationale": "LASK Linz has demonstrated significant attacking power at home this season, scoring 21 goals in eight home games across all competitions. Their overall matches this season average 4.07 total goals per game, indicating a consistent trend for high-scoring encounters. Slovan Bratislava also boasts an excellent away record in their domestic league, with six wins, one draw, and one loss, contributing to 30 goals scored. Both teams exhibit strong offensive capabilities and a propensity for games that exceed the 3.5 goal mark, making the Over a compelling choice.",
-          "awayRecord": "0-0-3",
-          "homeRecord": "1-0-2",
-          "startTime": "2026-11-03T20:00Z"
-        },
-        {
-          "game": "AS Roma @ Manchester United",
+          "game": "Real Betis @ Borussia Dortmund",
           "betType": "total",
           "pick": "Over 3.5",
           "odds": "+120",
+          "confidence": "high",
+          "rationale": "Both Borussia Dortmund and Real Betis enter this match in strong attacking form, with Dortmund scoring in all seven home matches since August and 12 goals in their last five home games. Real Betis boasts a three-match winning streak, scoring seven goals and finding the net in 13 of their last 14 matches across competitions. While their only head-to-head meeting was a 2-0 Dortmund win, the current offensive prowess of both teams, coupled with Dortmund's significant home advantage at Signal Iduna Park, suggests a high-scoring encounter. The implied probability of the over at +120 offers good value given these consistent scoring trends.",
+          "awayRecord": "3-0-0",
+          "homeRecord": "2-0-1",
+          "startTime": "2026-11-04T20:00Z"
+        },
+        {
+          "game": "Napoli @ FC Porto",
+          "betType": "moneyline",
+          "pick": "FC Porto",
+          "odds": "-105",
           "confidence": "medium",
-          "rationale": "Manchester United is currently in a deep slump, being winless in their last nine matches across all competitions and struggling defensively. AS Roma, in contrast, is in good form, winning three of their last five games and averaging 3.2 goals scored per match. Historically, matches between these two clubs have been remarkably high-scoring, with their last two encounters in 2021 producing 8 and 5 goals respectively. The head-to-head record further supports this, showing a 100% Total Goals Over% in their nine games since 2007. Given United's current defensive woes and Roma's attacking prowess, combined with the strong historical trend, the Over 3.5 at plus money offers excellent value.",
-          "awayRecord": "1-1-1",
+          "rationale": "Napoli is facing a severe injury crisis, with at least nine key players confirmed out, including Giovanni Di Lorenzo, Mathias Olivera, and Stanislav Lobotka, and Kevin De Bruyne listed as doubtful. This leaves them with only 13-14 fit outfield players, severely hampering their ability to train and compete effectively, as evidenced by a recent domestic loss. In contrast, FC Porto is in good domestic form, recently securing a 4-0 victory, and will be playing at home, eager to earn their first Champions League points. Given Napoli's extensive squad limitations and Porto's solid home performance, the home side presents a strong moneyline pick.",
+          "awayRecord": "1-0-2",
+          "homeRecord": "0-0-3",
+          "startTime": "2026-11-04T20:00Z"
+        },
+        {
+          "game": "Como @ Lens",
+          "betType": "total",
+          "pick": "Over 2.5",
+          "odds": "-175",
+          "confidence": "medium",
+          "rationale": "Both Como and Lens have demonstrated strong offensive tendencies despite some injuries. Lens has a clear trend of high-scoring games, having conceded the opening goal in 11 of their last 12 Champions League matches and seeing both teams score in eight of their previous 12 competitive fixtures. Como, for their part, has consistently found the net early in every European match this season, with Anastasios Douvikas scoring in all three UCL appearances and Nico Paz being involved in five goals. These strong offensive trends from both sides, coupled with Lens' defensive vulnerabilities, make the Over 2.5 a confident pick.",
+          "awayRecord": "2-0-1",
           "homeRecord": "1-0-2",
-          "startTime": "2026-11-03T20:00Z"
+          "startTime": "2026-11-04T20:00Z"
         }
       ]
     }
