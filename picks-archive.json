@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-11-08",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Boston Celtics vs Milwaukee Bucks",
+            "betType": "total",
+            "pick": "Under 222.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Boston Celtics 117, Milwaukee Bucks 97"
+          },
+          {
+            "game": "Philadelphia 76ers vs Chicago Bulls",
+            "betType": "total",
+            "pick": "Under 237.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia 76ers 127, Chicago Bulls 121"
+          },
+          {
+            "game": "Los Angeles Lakers vs Detroit Pistons",
+            "betType": "total",
+            "pick": "Under 221.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Lakers 121, Detroit Pistons 116"
+          },
+          {
+            "game": "Brooklyn Nets vs Dallas Mavericks",
+            "betType": "spread",
+            "pick": "Brooklyn Nets +7.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Brooklyn Nets 93, Dallas Mavericks 130"
+          },
+          {
+            "game": "Miami Heat vs Sacramento Kings",
+            "betType": "spread",
+            "pick": "Miami Heat -9.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Miami Heat 114, Sacramento Kings 108"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Tampa Bay Lightning vs Winnipeg Jets",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tampa Bay Lightning 3, Winnipeg Jets 4"
+          },
+          {
+            "game": "New Jersey Devils vs Toronto Maple Leafs",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New Jersey Devils 4, Toronto Maple Leafs 0"
+          },
+          {
+            "game": "Philadelphia Flyers vs Calgary Flames",
+            "betType": "moneyline",
+            "pick": "Calgary Flames (-102)",
+            "odds": "-102",
+            "confidence": "high",
+            "result": "W",
+            "score": "Philadelphia Flyers 3, Calgary Flames 4"
+          },
+          {
+            "game": "Vegas Golden Knights vs Buffalo Sabres",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vegas Golden Knights 4, Buffalo Sabres 1"
+          },
+          {
+            "game": "Pittsburgh Penguins vs Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-148",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Pittsburgh Penguins 2, Anaheim Ducks 5"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Dallas Cowboys vs Indianapolis Colts",
+            "betType": "total",
+            "pick": "Over 51.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Dallas Cowboys 27, Indianapolis Colts 23"
+          },
+          {
+            "game": "Cleveland Browns vs New Orleans Saints",
+            "betType": "total",
+            "pick": "Under 42.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Browns 22, New Orleans Saints 23"
+          },
+          {
+            "game": "Las Vegas Raiders vs San Francisco 49ers",
+            "betType": "total",
+            "pick": "Over 51.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Las Vegas Raiders 17, San Francisco 49ers 38"
+          },
+          {
+            "game": "Detroit Lions vs Miami Dolphins",
+            "betType": "spread",
+            "pick": "Detroit Lions -6.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Lions 19, Miami Dolphins 9"
+          },
+          {
+            "game": "Los Angeles Rams vs Washington Commanders",
+            "betType": "spread",
+            "pick": "Los Angeles Rams -4.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Rams 20, Washington Commanders 13"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAB",
+        "picks": [
+          {
+            "game": "Iona Gaels vs St. John's Red Storm",
+            "betType": "total",
+            "pick": "Under 151.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "L",
+            "score": "Iona Gaels 65, St. John's Red Storm 104"
+          },
+          {
+            "game": "Arkansas Razorbacks vs Virginia Cavaliers",
+            "betType": "total",
+            "pick": "Over 162.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Arkansas Razorbacks 72, Virginia Cavaliers 91"
+          },
+          {
+            "game": "Houston Cougars vs California Golden Bears",
+            "betType": "total",
+            "pick": "Over 144.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "California Golden Bears 68, Houston Cougars 86"
+          },
+          {
+            "game": "Arkansas Razorbacks vs Virginia Cavaliers",
+            "betType": "spread",
+            "pick": "Arkansas Razorbacks +3.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Arkansas Razorbacks 72, Virginia Cavaliers 91"
+          },
+          {
+            "game": "Iona Gaels vs St. John's Red Storm",
+            "betType": "spread",
+            "pick": "Iona Gaels +28.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Iona Gaels 65, St. John's Red Storm 104"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-11-07",
     "sports": [
       {
@@ -5876,135 +6082,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Vancouver Whitecaps 1, LAFC 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-10-09",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "Memphis Grizzlies vs Chicago Bulls",
-            "betType": "total",
-            "pick": "Under 238.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Memphis Grizzlies 104, Chicago Bulls 100"
-          },
-          {
-            "game": "Memphis Grizzlies vs Chicago Bulls",
-            "betType": "spread",
-            "pick": "Chicago Bulls -2.5",
-            "odds": "-122",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Memphis Grizzlies 104, Chicago Bulls 100"
-          }
-        ]
-      },
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Seattle Kraken vs Detroit Red Wings",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Seattle Kraken 6, Detroit Red Wings 3"
-          },
-          {
-            "game": "Pittsburgh Penguins vs Columbus Blue Jackets",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Pittsburgh Penguins 2, Columbus Blue Jackets 3"
-          },
-          {
-            "game": "Anaheim Ducks vs Winnipeg Jets",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "W",
-            "score": "Anaheim Ducks 5, Winnipeg Jets 1"
-          },
-          {
-            "game": "New York Rangers vs Washington Capitals",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-125",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New York Rangers 1, Washington Capitals 3"
-          },
-          {
-            "game": "Seattle Kraken vs Detroit Red Wings",
-            "betType": "spread",
-            "pick": "Detroit Red Wings -1.5",
-            "odds": "+170",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Seattle Kraken 6, Detroit Red Wings 3"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Iowa Hawkeyes vs Washington Huskies",
-            "betType": "total",
-            "pick": "Under 41.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Iowa Hawkeyes 41, Washington Huskies 24"
-          },
-          {
-            "game": "Wyoming Cowboys vs San José State Spartans",
-            "betType": "total",
-            "pick": "Under 42.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Wyoming Cowboys 16, San José State Spartans 13"
-          },
-          {
-            "game": "Iowa State Cyclones vs BYU Cougars",
-            "betType": "total",
-            "pick": "Under 46.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Iowa State Cyclones 10, BYU Cougars 24"
-          },
-          {
-            "game": "Florida State Seminoles vs Louisville Cardinals",
-            "betType": "spread",
-            "pick": "Louisville Cardinals -3.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Florida State Seminoles 20, Louisville Cardinals 44"
-          },
-          {
-            "game": "Iowa State Cyclones vs BYU Cougars",
-            "betType": "spread",
-            "pick": "Iowa State Cyclones +10.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Iowa State Cyclones 10, BYU Cougars 24"
           }
         ]
       }
