@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-11-11",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Los Angeles Lakers @ Milwaukee Bucks",
+            "betType": "total",
+            "pick": "Over 229.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Los Angeles Lakers 123, Milwaukee Bucks 112"
+          },
+          {
+            "game": "Boston Celtics @ Toronto Raptors",
+            "betType": "total",
+            "pick": "Under 215.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Boston Celtics 98, Toronto Raptors 93"
+          },
+          {
+            "game": "Golden State Warriors @ Houston Rockets",
+            "betType": "total",
+            "pick": "Over 220.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Golden State Warriors 108, Houston Rockets 115"
+          },
+          {
+            "game": "Brooklyn Nets @ New Orleans Pelicans",
+            "betType": "spread",
+            "pick": "New Orleans Pelicans -3.5",
+            "odds": "-113",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Brooklyn Nets 145, New Orleans Pelicans 111"
+          },
+          {
+            "game": "Cleveland Cavaliers @ New York Knicks",
+            "betType": "total",
+            "pick": "Under 222.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Cleveland Cavaliers 115, New York Knicks 107"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Tampa Bay Lightning @ Buffalo Sabres",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tampa Bay Lightning 8, Buffalo Sabres 3"
+          },
+          {
+            "game": "Philadelphia Flyers @ Edmonton Oilers",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Philadelphia Flyers 2, Edmonton Oilers 3"
+          },
+          {
+            "game": "Nashville Predators @ Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "L",
+            "score": "Nashville Predators 4, Anaheim Ducks 2"
+          },
+          {
+            "game": "Pittsburgh Penguins @ San Jose Sharks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-135",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Pittsburgh Penguins 3, San Jose Sharks 2"
+          },
+          {
+            "game": "Utah Mammoth @ Vegas Golden Knights",
+            "betType": "moneyline",
+            "pick": "Vegas Golden Knights",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Utah Mammoth 3, Vegas Golden Knights 5"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Sacramento State Hornets vs Central Michigan Chippewas",
+            "betType": "total",
+            "pick": "Under 43.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Sacramento State Hornets 7, Central Michigan Chippewas 28"
+          },
+          {
+            "game": "Massachusetts Minutemen vs Toledo Rockets",
+            "betType": "total",
+            "pick": "Under 52.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Massachusetts Minutemen 0, Toledo Rockets 24"
+          },
+          {
+            "game": "Buffalo Bulls vs Ball State Cardinals",
+            "betType": "total",
+            "pick": "Over 51.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Buffalo Bulls 28, Ball State Cardinals 7"
+          },
+          {
+            "game": "Sacramento State Hornets vs Central Michigan Chippewas",
+            "betType": "spread",
+            "pick": "Sacramento State Hornets +17.5",
+            "odds": "-120",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Sacramento State Hornets 7, Central Michigan Chippewas 28"
+          },
+          {
+            "game": "Massachusetts Minutemen vs Toledo Rockets",
+            "betType": "spread",
+            "pick": "Toledo Rockets -14.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Massachusetts Minutemen 0, Toledo Rockets 24"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAB",
+        "picks": [
+          {
+            "game": "Colgate Raiders vs St. John's Red Storm",
+            "betType": "total",
+            "pick": "Under 158.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colgate Raiders 59, St. John's Red Storm 90"
+          },
+          {
+            "game": "Marquette Golden Eagles vs Michigan Wolverines",
+            "betType": "spread",
+            "pick": "Michigan -3.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "?",
+            "score": "Marquette Golden Eagles 70, Michigan Wolverines 84"
+          },
+          {
+            "game": "Arkansas-Pine Bluff Golden Lions vs UCLA Bruins",
+            "betType": "spread",
+            "pick": "UCLA -45.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "?",
+            "score": "Arkansas-Pine Bluff Golden Lions 37, UCLA Bruins 106"
+          },
+          {
+            "game": "Lindenwood Lions vs Nebraska Cornhuskers",
+            "betType": "total",
+            "pick": "Under 150.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Lindenwood Lions 60, Nebraska Cornhuskers 94"
+          },
+          {
+            "game": "USC Trojans vs California Golden Bears",
+            "betType": "total",
+            "pick": "Over 161.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "USC Trojans 77, California Golden Bears 65"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-11-10",
     "sports": [
       {
@@ -5857,194 +6063,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Bayern Munich 3, Viking FK 3"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-10-12",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "London Lions vs Portland Trail Blazers",
-            "betType": "total",
-            "pick": "Under 208.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "London Lions 66, Portland Trail Blazers 119"
-          },
-          {
-            "game": "Oklahoma City Thunder vs Atlanta Hawks",
-            "betType": "total",
-            "pick": "Under 221.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Oklahoma City Thunder 110, Atlanta Hawks 113"
-          },
-          {
-            "game": "Brooklyn Nets vs Washington Wizards",
-            "betType": "total",
-            "pick": "Under 221.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Brooklyn Nets 131, Washington Wizards 122"
-          },
-          {
-            "game": "Minnesota Timberwolves vs New York Knicks",
-            "betType": "total",
-            "pick": "Over 227.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Minnesota Timberwolves 122, New York Knicks 104"
-          },
-          {
-            "game": "San Antonio Spurs vs Utah Jazz",
-            "betType": "total",
-            "pick": "Over 227.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Antonio Spurs 109, Utah Jazz 119"
-          }
-        ]
-      },
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Ottawa Senators vs New Jersey Devils",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Ottawa Senators 4, New Jersey Devils 1"
-          },
-          {
-            "game": "Vegas Golden Knights vs Minnesota Wild",
-            "betType": "total",
-            "pick": "Under 5.5",
-            "odds": "+114",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Vegas Golden Knights 2, Minnesota Wild 4"
-          },
-          {
-            "game": "Ottawa Senators vs New Jersey Devils",
-            "betType": "moneyline",
-            "pick": "New Jersey Devils (-122)",
-            "odds": "-122",
-            "confidence": "high",
-            "result": "L",
-            "score": "Ottawa Senators 4, New Jersey Devils 1"
-          },
-          {
-            "game": "Vegas Golden Knights vs Minnesota Wild",
-            "betType": "spread",
-            "pick": "Vegas Golden Knights +1.5",
-            "odds": "-270",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Vegas Golden Knights 2, Minnesota Wild 4"
-          },
-          {
-            "game": "Ottawa Senators vs New Jersey Devils",
-            "betType": "spread",
-            "pick": "Ottawa Senators +1.5",
-            "odds": "-245",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Ottawa Senators 4, New Jersey Devils 1"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Los Angeles Dodgers vs Milwaukee Brewers",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-148",
-            "confidence": "high",
-            "result": "L",
-            "score": "Los Angeles Dodgers 4, Milwaukee Brewers 7"
-          },
-          {
-            "game": "Los Angeles Dodgers vs Milwaukee Brewers",
-            "betType": "moneyline",
-            "pick": "Milwaukee Brewers",
-            "odds": "+116",
-            "confidence": "high",
-            "result": "W",
-            "score": "Los Angeles Dodgers 4, Milwaukee Brewers 7"
-          },
-          {
-            "game": "Cleveland Guardians vs Tampa Bay Rays",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "+100",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Cleveland Guardians 7, Tampa Bay Rays 3"
-          },
-          {
-            "game": "Cleveland Guardians vs Tampa Bay Rays",
-            "betType": "spread",
-            "pick": "Tampa Bay Rays -1.5",
-            "odds": "+128",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Cleveland Guardians 7, Tampa Bay Rays 3"
-          },
-          {
-            "game": "Los Angeles Dodgers vs Milwaukee Brewers",
-            "betType": "spread",
-            "pick": "Milwaukee Brewers +1.5",
-            "odds": "-152",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Los Angeles Dodgers 4, Milwaukee Brewers 7"
-          }
-        ]
-      },
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "Buffalo Bills vs Los Angeles Rams",
-            "betType": "total",
-            "pick": "Under 54.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Buffalo Bills 37, Los Angeles Rams 34"
-          },
-          {
-            "game": "Buffalo Bills vs Los Angeles Rams",
-            "betType": "spread",
-            "pick": "Los Angeles Rams -3.5",
-            "odds": "-102",
-            "confidence": "high",
-            "result": "L",
-            "score": "Buffalo Bills 37, Los Angeles Rams 34"
-          },
-          {
-            "game": "Buffalo Bills vs Los Angeles Rams",
-            "betType": "moneyline",
-            "pick": "Los Angeles Rams (-175)",
-            "odds": "-175",
-            "confidence": "high",
-            "result": "L",
-            "score": "Buffalo Bills 37, Los Angeles Rams 34"
           }
         ]
       }
