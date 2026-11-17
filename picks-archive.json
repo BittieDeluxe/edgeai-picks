@@ -1,5 +1,184 @@
 [
   {
+    "date": "2026-11-16",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Memphis Grizzlies vs Washington Wizards",
+            "betType": "total",
+            "pick": "Over 231.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Memphis Grizzlies 136, Washington Wizards 120"
+          },
+          {
+            "game": "Chicago Bulls vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Over 241.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Bulls 115, Cleveland Cavaliers 126"
+          },
+          {
+            "game": "Houston Rockets vs Miami Heat",
+            "betType": "total",
+            "pick": "Over 231.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Houston Rockets 110, Miami Heat 128"
+          },
+          {
+            "game": "Golden State Warriors vs New Orleans Pelicans",
+            "betType": "spread",
+            "pick": "Golden State Warriors -3.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Golden State Warriors 94, New Orleans Pelicans 115"
+          },
+          {
+            "game": "Orlando Magic vs Boston Celtics",
+            "betType": "total",
+            "pick": "Under 212.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Orlando Magic 115, Boston Celtics 105"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Montreal Canadiens vs New York Rangers",
+            "betType": "moneyline",
+            "pick": "New York Rangers (-106)",
+            "odds": "-106",
+            "confidence": "high",
+            "result": "W",
+            "score": "Montreal Canadiens 1, New York Rangers 3"
+          },
+          {
+            "game": "Montreal Canadiens vs New York Rangers",
+            "betType": "total",
+            "pick": "Under 6.5 (-140)",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "W",
+            "score": "Montreal Canadiens 1, New York Rangers 3"
+          },
+          {
+            "game": "Vancouver Canucks vs Utah Mammoth",
+            "betType": "spread",
+            "pick": "Utah Mammoth -1.5 (-140)",
+            "odds": "-140",
+            "confidence": "high",
+            "result": "L",
+            "score": "Vancouver Canucks 3, Utah Mammoth 2"
+          },
+          {
+            "game": "Vancouver Canucks vs Utah Mammoth",
+            "betType": "total",
+            "pick": "Over 6.5 (-115)",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Vancouver Canucks 3, Utah Mammoth 2"
+          },
+          {
+            "game": "Vancouver Canucks vs Utah Mammoth",
+            "betType": "prop",
+            "pick": "Elias Pettersson Over 0.5 Assists",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Elias Pettersson: 0 Assists (line 0.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Los Angeles Chargers vs Baltimore Ravens",
+            "betType": "total",
+            "pick": "Under 39.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Chargers 23, Baltimore Ravens 20"
+          },
+          {
+            "game": "Los Angeles Chargers vs Baltimore Ravens",
+            "betType": "spread",
+            "pick": "Baltimore Ravens -4.5",
+            "odds": "-112",
+            "confidence": "high",
+            "result": "L",
+            "score": "Los Angeles Chargers 23, Baltimore Ravens 20"
+          },
+          {
+            "game": "Los Angeles Chargers vs Baltimore Ravens",
+            "betType": "prop",
+            "pick": "Quentin Johnston Over 34.5 Receiving Yards",
+            "odds": "-114",
+            "confidence": "high",
+            "result": "L",
+            "score": "Quentin Johnston: 6 Receiving Yards (line 34.5)"
+          },
+          {
+            "game": "Los Angeles Chargers vs Baltimore Ravens",
+            "betType": "prop",
+            "pick": "Tre' Harris Over 42.5 Receiving Yards",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Tre' Harris: 86 Receiving Yards (line 42.5)"
+          },
+          {
+            "game": "Los Angeles Chargers vs Baltimore Ravens",
+            "betType": "moneyline",
+            "pick": "Baltimore Ravens (-230)",
+            "odds": "-230",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Los Angeles Chargers 23, Baltimore Ravens 20"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAB",
+        "picks": [
+          {
+            "game": "Long Beach State Beach vs UCLA Bruins",
+            "betType": "total",
+            "pick": "Over 145.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Long Beach State Beach 66, UCLA Bruins 105"
+          },
+          {
+            "game": "Long Beach State Beach vs UCLA Bruins",
+            "betType": "spread",
+            "pick": "Long Beach State Beach +30.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "L",
+            "score": "Long Beach State Beach 66, UCLA Bruins 105"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-11-15",
     "sports": [
       {
@@ -5889,162 +6068,6 @@
             "confidence": "high",
             "result": "W",
             "score": "Columbus Crew 2, FC Cincinnati 0"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-10-17",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Ottawa Senators @ Philadelphia Flyers",
-            "betType": "total",
-            "pick": "Under 5.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Ottawa Senators 1, Philadelphia Flyers 3"
-          },
-          {
-            "game": "Carolina Hurricanes @ Winnipeg Jets",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "W",
-            "score": "Carolina Hurricanes 3, Winnipeg Jets 2"
-          },
-          {
-            "game": "Pittsburgh Penguins @ Vegas Golden Knights",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "W",
-            "score": "Pittsburgh Penguins 2, Vegas Golden Knights 6"
-          },
-          {
-            "game": "Seattle Kraken @ Florida Panthers",
-            "betType": "spread",
-            "pick": "Seattle Kraken +1.5",
-            "odds": "-162",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Seattle Kraken 3, Florida Panthers 8"
-          },
-          {
-            "game": "Dallas Stars @ Chicago Blackhawks",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-135",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Dallas Stars 4, Chicago Blackhawks 0"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "Florida Atlantic Owls @ Army Black Knights",
-            "betType": "total",
-            "pick": "Under 55.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "L",
-            "score": "Florida Atlantic Owls 24, Army Black Knights 56"
-          },
-          {
-            "game": "Navy Midshipmen @ UTSA Roadrunners",
-            "betType": "total",
-            "pick": "Under 54.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Navy Midshipmen 34, UTSA Roadrunners 38"
-          },
-          {
-            "game": "Penn State Nittany Lions @ Michigan Wolverines",
-            "betType": "total",
-            "pick": "Under 42.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Penn State Nittany Lions 18, Michigan Wolverines 21"
-          },
-          {
-            "game": "Pittsburgh Panthers @ Boston College Eagles",
-            "betType": "total",
-            "pick": "Under 42.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Pittsburgh Panthers 21, Boston College Eagles 27"
-          },
-          {
-            "game": "Kansas Jayhawks @ Kansas State Wildcats",
-            "betType": "spread",
-            "pick": "Kansas State Wildcats -3.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Kansas Jayhawks 24, Kansas State Wildcats 35"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Charlotte FC @ Philadelphia Union",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-145",
-            "confidence": "high",
-            "result": "W",
-            "score": "Charlotte FC 2, Philadelphia Union 2"
-          },
-          {
-            "game": "St. Louis CITY SC @ Minnesota United FC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "St. Louis CITY SC 2, Minnesota United FC 3"
-          },
-          {
-            "game": "Inter Miami CF @ Atlanta United FC",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-135",
-            "confidence": "high",
-            "result": "W",
-            "score": "Inter Miami CF 3, Atlanta United FC 1"
-          },
-          {
-            "game": "Chicago Fire FC @ New England Revolution",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "+105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Chicago Fire FC 0, New England Revolution 1"
-          },
-          {
-            "game": "Nashville SC @ San Jose Earthquakes",
-            "betType": "moneyline",
-            "pick": "Nashville SC",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Nashville SC 1, San Jose Earthquakes 1"
           }
         ]
       }
