@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-11-17",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "New York Knicks vs Toronto Raptors",
+            "betType": "total",
+            "pick": "Over 214.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "New York Knicks 111, Toronto Raptors 102"
+          },
+          {
+            "game": "Portland Trail Blazers vs Minnesota Timberwolves",
+            "betType": "total",
+            "pick": "Under 227.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Portland Trail Blazers 105, Minnesota Timberwolves 106"
+          },
+          {
+            "game": "Detroit Pistons vs San Antonio Spurs",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -9.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Detroit Pistons 105, San Antonio Spurs 93"
+          },
+          {
+            "game": "Utah Jazz vs LA Clippers",
+            "betType": "total",
+            "pick": "Over 225.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Utah Jazz 132, LA Clippers 107"
+          },
+          {
+            "game": "Charlotte Hornets vs Los Angeles Lakers",
+            "betType": "prop",
+            "pick": "Luka Doncic Over 4.5 3-pointers made",
+            "odds": "N/A",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Luka Doncic: 5-16 3-pointers made (line 4.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Columbus Blue Jackets vs New York Islanders",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-118",
+            "confidence": "high",
+            "result": "W",
+            "score": "Columbus Blue Jackets 1, New York Islanders 5"
+          },
+          {
+            "game": "Nashville Predators vs Minnesota Wild",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-135",
+            "confidence": "high",
+            "result": "L",
+            "score": "Nashville Predators 3, Minnesota Wild 7"
+          },
+          {
+            "game": "Dallas Stars vs Vegas Golden Knights",
+            "betType": "total",
+            "pick": "Over 5.5",
+            "odds": "-122",
+            "confidence": "high",
+            "result": "W",
+            "score": "Dallas Stars 4, Vegas Golden Knights 3"
+          },
+          {
+            "game": "Anaheim Ducks vs St. Louis Blues",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Anaheim Ducks 6, St. Louis Blues 8"
+          },
+          {
+            "game": "Buffalo Sabres vs Philadelphia Flyers",
+            "betType": "moneyline",
+            "pick": "Buffalo Sabres",
+            "odds": "-125",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Buffalo Sabres 3, Philadelphia Flyers 4"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Eastern Michigan Eagles @ Western Michigan Broncos",
+            "betType": "spread",
+            "pick": "Western Michigan Broncos -14.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Eastern Michigan Eagles 27, Western Michigan Broncos 34"
+          },
+          {
+            "game": "Eastern Michigan Eagles @ Western Michigan Broncos",
+            "betType": "total",
+            "pick": "Under 46.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Eastern Michigan Eagles 27, Western Michigan Broncos 34"
+          },
+          {
+            "game": "Ball State Cardinals @ Ohio Bobcats",
+            "betType": "spread",
+            "pick": "Ohio Bobcats -9.5",
+            "odds": "-125",
+            "confidence": "high",
+            "result": "L",
+            "score": "Ball State Cardinals 28, Ohio Bobcats 35"
+          },
+          {
+            "game": "Miami (OH) RedHawks @ Kent State Golden Flashes",
+            "betType": "total",
+            "pick": "Under 44.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Miami (OH) RedHawks 20, Kent State Golden Flashes 3"
+          },
+          {
+            "game": "Ball State Cardinals @ Ohio Bobcats",
+            "betType": "total",
+            "pick": "Under 49.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Ball State Cardinals 28, Ohio Bobcats 35"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAB",
+        "picks": [
+          {
+            "game": "Kennesaw State Owls @ Alabama Crimson Tide",
+            "betType": "total",
+            "pick": "Over 177.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Kennesaw State Owls 91, Alabama Crimson Tide 109"
+          },
+          {
+            "game": "Illinois Fighting Illini @ Duke Blue Devils",
+            "betType": "total",
+            "pick": "Over 166.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Illinois Fighting Illini 99, Duke Blue Devils 78"
+          },
+          {
+            "game": "Michigan State Spartans @ Tennessee Volunteers",
+            "betType": "total",
+            "pick": "Over 149.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Michigan State Spartans 46, Tennessee Volunteers 61"
+          },
+          {
+            "game": "Old Dominion Monarchs @ Virginia Cavaliers",
+            "betType": "total",
+            "pick": "Over 144.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Old Dominion Monarchs 65, Virginia Cavaliers 85"
+          },
+          {
+            "game": "Rider Broncs @ Miami Hurricanes",
+            "betType": "total",
+            "pick": "Under 147.5",
+            "odds": "+100",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Rider Broncs 48, Miami Hurricanes 95"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-11-16",
     "sports": [
       {
@@ -5907,167 +6113,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Jayden Daniels: 10 Rushing Yards (line 37.5)"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-10-18",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Columbus Blue Jackets vs Minnesota Wild",
-            "betType": "spread",
-            "pick": "Minnesota Wild -1.5",
-            "odds": "+136",
-            "confidence": "high",
-            "result": "L",
-            "score": "Columbus Blue Jackets 1, Minnesota Wild 2"
-          },
-          {
-            "game": "Columbus Blue Jackets vs Minnesota Wild",
-            "betType": "prop",
-            "pick": "Quinn Hughes Over 0.5 Assists",
-            "odds": "-220",
-            "confidence": "high",
-            "result": "L",
-            "score": "Quinn Hughes: 0 Assists (line 0.5)"
-          },
-          {
-            "game": "Columbus Blue Jackets vs Minnesota Wild",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "-122",
-            "confidence": "high",
-            "result": "W",
-            "score": "Columbus Blue Jackets 1, Minnesota Wild 2"
-          },
-          {
-            "game": "Carolina Hurricanes vs Calgary Flames",
-            "betType": "spread",
-            "pick": "Carolina Hurricanes -1.5",
-            "odds": "+114",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Carolina Hurricanes 2, Calgary Flames 3"
-          },
-          {
-            "game": "Carolina Hurricanes vs Calgary Flames",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "-130",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Carolina Hurricanes 2, Calgary Flames 3"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Tampa Bay Rays vs Cleveland Guardians",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "W",
-            "score": "Tampa Bay Rays 3, Cleveland Guardians 1"
-          },
-          {
-            "game": "Tampa Bay Rays vs Cleveland Guardians",
-            "betType": "moneyline",
-            "pick": "Cleveland Guardians",
-            "odds": "+113",
-            "confidence": "high",
-            "result": "L",
-            "score": "Tampa Bay Rays 3, Cleveland Guardians 1"
-          },
-          {
-            "game": "Tampa Bay Rays vs Cleveland Guardians",
-            "betType": "spread",
-            "pick": "Cleveland Guardians +1.5",
-            "odds": "-163",
-            "confidence": "high",
-            "result": "L",
-            "score": "Tampa Bay Rays 3, Cleveland Guardians 1"
-          }
-        ]
-      },
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "Chicago Bears vs Atlanta Falcons",
-            "betType": "total",
-            "pick": "Over 52.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "W",
-            "score": "Chicago Bears 31, Atlanta Falcons 23"
-          },
-          {
-            "game": "Pittsburgh Steelers vs Tampa Bay Buccaneers",
-            "betType": "total",
-            "pick": "Under 38.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Pittsburgh Steelers 26, Tampa Bay Buccaneers 19"
-          },
-          {
-            "game": "Buffalo Bills vs Las Vegas Raiders",
-            "betType": "total",
-            "pick": "Over 53.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Buffalo Bills 33, Las Vegas Raiders 30"
-          },
-          {
-            "game": "Carolina Panthers vs Philadelphia Eagles",
-            "betType": "spread",
-            "pick": "Carolina Panthers -3",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Carolina Panthers 25, Philadelphia Eagles 14"
-          },
-          {
-            "game": "Baltimore Ravens vs Cleveland Browns",
-            "betType": "spread",
-            "pick": "Cleveland Browns +3",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Baltimore Ravens 10, Cleveland Browns 13"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "Columbus Crew @ FC Cincinnati",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "L",
-            "score": "Columbus Crew 2, FC Cincinnati 0"
-          },
-          {
-            "game": "Columbus Crew @ FC Cincinnati",
-            "betType": "moneyline",
-            "pick": "Columbus Crew",
-            "odds": "+165",
-            "confidence": "high",
-            "result": "W",
-            "score": "Columbus Crew 2, FC Cincinnati 0"
           }
         ]
       }
