@@ -1,5 +1,211 @@
 [
   {
+    "date": "2026-11-18",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Detroit Pistons vs New Orleans Pelicans",
+            "betType": "total",
+            "pick": "Over 227.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Detroit Pistons 122, New Orleans Pelicans 109"
+          },
+          {
+            "game": "Chicago Bulls vs Brooklyn Nets",
+            "betType": "total",
+            "pick": "Over 239.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Chicago Bulls 137, Brooklyn Nets 107"
+          },
+          {
+            "game": "Philadelphia 76ers vs Orlando Magic",
+            "betType": "spread",
+            "pick": "Philadelphia 76ers -1.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia 76ers 121, Orlando Magic 116"
+          },
+          {
+            "game": "Golden State Warriors vs Dallas Mavericks",
+            "betType": "spread",
+            "pick": "Dallas Mavericks -4.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Golden State Warriors 94, Dallas Mavericks 116"
+          },
+          {
+            "game": "Boston Celtics vs Denver Nuggets",
+            "betType": "total",
+            "pick": "Under 220.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Boston Celtics 101, Denver Nuggets 105"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Montreal Canadiens @ New Jersey Devils",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Montreal Canadiens 3, New Jersey Devils 2"
+          },
+          {
+            "game": "Boston Bruins @ Detroit Red Wings",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-142",
+            "confidence": "high",
+            "result": "W",
+            "score": "Boston Bruins 4, Detroit Red Wings 1"
+          },
+          {
+            "game": "Colorado Avalanche @ Utah Mammoth",
+            "betType": "spread",
+            "pick": "Colorado Avalanche +1.5",
+            "odds": "-258",
+            "confidence": "high",
+            "result": "L",
+            "score": "Colorado Avalanche 1, Utah Mammoth 4"
+          },
+          {
+            "game": "Boston Bruins @ Detroit Red Wings",
+            "betType": "moneyline",
+            "pick": "Detroit Red Wings",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Boston Bruins 4, Detroit Red Wings 1"
+          },
+          {
+            "game": "Colorado Avalanche @ Utah Mammoth",
+            "betType": "total",
+            "pick": "Under 6.5",
+            "odds": "-118",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Colorado Avalanche 1, Utah Mammoth 4"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Akron Zips vs Massachusetts Minutemen",
+            "betType": "total",
+            "pick": "Under 47.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Akron Zips 34, Massachusetts Minutemen 33"
+          },
+          {
+            "game": "Central Michigan Chippewas vs Buffalo Bulls",
+            "betType": "total",
+            "pick": "Under 46.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Central Michigan Chippewas 21, Buffalo Bulls 40"
+          },
+          {
+            "game": "Central Michigan Chippewas vs Buffalo Bulls",
+            "betType": "spread",
+            "pick": "Buffalo Bulls -2.5",
+            "odds": "-115",
+            "confidence": "high",
+            "result": "W",
+            "score": "Central Michigan Chippewas 21, Buffalo Bulls 40"
+          },
+          {
+            "game": "Akron Zips vs Massachusetts Minutemen",
+            "betType": "spread",
+            "pick": "Akron Zips +3.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Akron Zips 34, Massachusetts Minutemen 33"
+          },
+          {
+            "game": "Akron Zips vs Massachusetts Minutemen",
+            "betType": "moneyline",
+            "pick": "Massachusetts Minutemen (-170)",
+            "odds": "-170",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Akron Zips 34, Massachusetts Minutemen 33"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAB",
+        "picks": [
+          {
+            "game": "Cal State Fullerton Titans vs UCLA Bruins",
+            "betType": "total",
+            "pick": "Over 166.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cal State Fullerton Titans 71, UCLA Bruins 75"
+          },
+          {
+            "game": "South Dakota Coyotes vs Nebraska Cornhuskers",
+            "betType": "total",
+            "pick": "Under 155.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "South Dakota Coyotes 47, Nebraska Cornhuskers 73"
+          },
+          {
+            "game": "Northern Colorado Bears vs BYU Cougars",
+            "betType": "total",
+            "pick": "Over 163.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Northern Colorado Bears 54, BYU Cougars 98"
+          },
+          {
+            "game": "LSU New Orleans Privateers vs Texas Tech Red Raiders",
+            "betType": "spread",
+            "pick": "LSU Tigers -37.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "?",
+            "score": "LSU New Orleans Privateers 41, Texas Tech Red Raiders 86"
+          },
+          {
+            "game": "Kansas Jayhawks vs West Virginia Mountaineers",
+            "betType": "spread",
+            "pick": "West Virginia Mountaineers +8.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Kansas Jayhawks 86, West Virginia Mountaineers 82"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-11-17",
     "sports": [
       {
@@ -5975,144 +6181,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Barcelona 2, Paris Saint-Germain 4"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-10-19",
-    "sports": [
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "San Jose Sharks vs Toronto Maple Leafs",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "+106",
-            "confidence": "medium",
-            "result": "W",
-            "score": "San Jose Sharks 1, Toronto Maple Leafs 3"
-          },
-          {
-            "game": "Colorado Avalanche vs Philadelphia Flyers",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "+108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Colorado Avalanche 2, Philadelphia Flyers 3"
-          },
-          {
-            "game": "Pittsburgh Penguins vs Utah Mammoth",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "-130",
-            "confidence": "high",
-            "result": "W",
-            "score": "Pittsburgh Penguins 4, Utah Mammoth 5"
-          },
-          {
-            "game": "Anaheim Ducks vs New York Rangers",
-            "betType": "moneyline",
-            "pick": "New York Rangers",
-            "odds": "-152",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Anaheim Ducks 2, New York Rangers 5"
-          },
-          {
-            "game": "San Jose Sharks vs Toronto Maple Leafs",
-            "betType": "prop",
-            "pick": "Auston Matthews Over 0.5 Goals",
-            "odds": "+120",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Auston Matthews: 1 Goals (line 0.5)"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Cleveland Guardians vs Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-154",
-            "confidence": "high",
-            "result": "W",
-            "score": "Cleveland Guardians 3, Tampa Bay Rays 7"
-          },
-          {
-            "game": "Cleveland Guardians vs Tampa Bay Rays",
-            "betType": "total",
-            "pick": "Under 6.5",
-            "odds": "-102",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Cleveland Guardians 3, Tampa Bay Rays 7"
-          },
-          {
-            "game": "Cleveland Guardians vs Tampa Bay Rays",
-            "betType": "spread",
-            "pick": "Tampa Bay Rays -1.5",
-            "odds": "+146",
-            "confidence": "high",
-            "result": "W",
-            "score": "Cleveland Guardians 3, Tampa Bay Rays 7"
-          }
-        ]
-      },
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "Washington Commanders vs San Francisco 49ers",
-            "betType": "total",
-            "pick": "Under 51.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Washington Commanders 17, San Francisco 49ers 23"
-          },
-          {
-            "game": "Washington Commanders vs San Francisco 49ers",
-            "betType": "prop",
-            "pick": "George Kittle Over 65.5 Receiving Yards",
-            "odds": "-114",
-            "confidence": "high",
-            "result": "W",
-            "score": "George Kittle: 69 Receiving Yards (line 65.5)"
-          },
-          {
-            "game": "Washington Commanders vs San Francisco 49ers",
-            "betType": "prop",
-            "pick": "Brock Purdy Over 20.0 Rushing Yards",
-            "odds": "+127",
-            "confidence": "high",
-            "result": "W",
-            "score": "Brock Purdy: 28 Rushing Yards (line 20.0)"
-          },
-          {
-            "game": "Washington Commanders vs San Francisco 49ers",
-            "betType": "spread",
-            "pick": "Washington Commanders +7.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Washington Commanders 17, San Francisco 49ers 23"
-          },
-          {
-            "game": "Washington Commanders vs San Francisco 49ers",
-            "betType": "prop",
-            "pick": "Jayden Daniels Under 37.5 Rushing Yards",
-            "odds": "-114",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Jayden Daniels: 10 Rushing Yards (line 37.5)"
           }
         ]
       }
