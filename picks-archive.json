@@ -1,5 +1,161 @@
 [
   {
+    "date": "2026-11-20",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Charlotte Hornets vs Atlanta Hawks",
+            "betType": "spread",
+            "pick": "Atlanta Hawks -6.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Charlotte Hornets 97, Atlanta Hawks 111"
+          },
+          {
+            "game": "Orlando Magic vs Brooklyn Nets",
+            "betType": "spread",
+            "pick": "Orlando Magic -6.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Orlando Magic 113, Brooklyn Nets 111"
+          },
+          {
+            "game": "Indiana Pacers vs Cleveland Cavaliers",
+            "betType": "total",
+            "pick": "Under 233.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Indiana Pacers 119, Cleveland Cavaliers 128"
+          },
+          {
+            "game": "Washington Wizards vs Chicago Bulls",
+            "betType": "total",
+            "pick": "Over 238.5",
+            "odds": "-106",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Washington Wizards 98, Chicago Bulls 94"
+          },
+          {
+            "game": "Phoenix Suns vs Utah Jazz",
+            "betType": "total",
+            "pick": "Under 225.5",
+            "odds": "-114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Phoenix Suns 111, Utah Jazz 101"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAF",
+        "picks": [
+          {
+            "game": "Clemson Tigers @ Duke Blue Devils",
+            "betType": "total",
+            "pick": "Under 41.5",
+            "odds": "-116",
+            "confidence": "high",
+            "result": "W",
+            "score": "Clemson Tigers 20, Duke Blue Devils 10"
+          },
+          {
+            "game": "Oregon Ducks @ Michigan State Spartans",
+            "betType": "spread",
+            "pick": "Oregon Ducks -17.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "W",
+            "score": "Oregon Ducks 45, Michigan State Spartans 7"
+          },
+          {
+            "game": "UTEP Miners @ Air Force Falcons",
+            "betType": "total",
+            "pick": "Over 47.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "W",
+            "score": "UTEP Miners 3, Air Force Falcons 52"
+          },
+          {
+            "game": "New Mexico Lobos @ Wyoming Cowboys",
+            "betType": "total",
+            "pick": "Over 37.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "New Mexico Lobos 24, Wyoming Cowboys 17"
+          },
+          {
+            "game": "Bowling Green Falcons @ Toledo Rockets",
+            "betType": "total",
+            "pick": "Over 46.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Bowling Green Falcons 0, Toledo Rockets 19"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAB",
+        "picks": [
+          {
+            "game": "Manhattan Jaspers vs Miami Hurricanes",
+            "betType": "total",
+            "pick": "Under 150.5",
+            "odds": "-105",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Manhattan Jaspers 54, Miami Hurricanes 106"
+          },
+          {
+            "game": "Loyola Maryland Greyhounds vs Virginia Cavaliers",
+            "betType": "spread",
+            "pick": "Loyola Maryland Greyhounds +41.5",
+            "odds": "-110",
+            "confidence": "high",
+            "result": "L",
+            "score": "Loyola Maryland Greyhounds 61, Virginia Cavaliers 103"
+          },
+          {
+            "game": "Coastal Carolina Chanticleers vs Tennessee Volunteers",
+            "betType": "total",
+            "pick": "Under 146.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Coastal Carolina Chanticleers 51, Tennessee Volunteers 78"
+          },
+          {
+            "game": "UCF Knights vs Vanderbilt Commodores",
+            "betType": "total",
+            "pick": "Over 156.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "UCF Knights 74, Vanderbilt Commodores 82"
+          },
+          {
+            "game": "Eastern Illinois Panthers vs Illinois Fighting Illini",
+            "betType": "spread",
+            "pick": "Eastern Illinois Panthers +48.5",
+            "odds": "-104",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Eastern Illinois Panthers 52, Illinois Fighting Illini 114"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-11-19",
     "sports": [
       {
@@ -6161,149 +6317,6 @@
             "confidence": "medium",
             "result": "W",
             "score": "Marseille 0, SK Sturm Graz 1"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-10-21",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "Golden State Warriors vs Los Angeles Lakers",
-            "betType": "total",
-            "pick": "Under 234.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Golden State Warriors 105, Los Angeles Lakers 127"
-          },
-          {
-            "game": "Sacramento Kings vs LA Clippers",
-            "betType": "total",
-            "pick": "Under 226.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Sacramento Kings 96, LA Clippers 121"
-          },
-          {
-            "game": "Milwaukee Bucks vs Washington Wizards",
-            "betType": "spread",
-            "pick": "Washington Wizards -4.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Milwaukee Bucks 116, Washington Wizards 128"
-          },
-          {
-            "game": "Minnesota Timberwolves vs Miami Heat",
-            "betType": "spread",
-            "pick": "Minnesota Timberwolves +1.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Minnesota Timberwolves 131, Miami Heat 106"
-          },
-          {
-            "game": "Atlanta Hawks vs Orlando Magic",
-            "betType": "total",
-            "pick": "Over 233.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Atlanta Hawks 132, Orlando Magic 125"
-          }
-        ]
-      },
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Philadelphia Flyers vs Buffalo Sabres",
-            "betType": "total",
-            "pick": "Under 5.5",
-            "odds": "+114",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Flyers 3, Buffalo Sabres 1"
-          },
-          {
-            "game": "Philadelphia Flyers vs Buffalo Sabres",
-            "betType": "spread",
-            "pick": "Buffalo Sabres -1.5",
-            "odds": "+130",
-            "confidence": "high",
-            "result": "L",
-            "score": "Philadelphia Flyers 3, Buffalo Sabres 1"
-          },
-          {
-            "game": "Florida Panthers vs Ottawa Senators",
-            "betType": "total",
-            "pick": "Over 5.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Florida Panthers 1, Ottawa Senators 5"
-          },
-          {
-            "game": "Florida Panthers vs Ottawa Senators",
-            "betType": "moneyline",
-            "pick": "Florida Panthers",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Florida Panthers 1, Ottawa Senators 5"
-          },
-          {
-            "game": "Philadelphia Flyers vs Buffalo Sabres",
-            "betType": "spread",
-            "pick": "Philadelphia Flyers +1.5",
-            "odds": "-155",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Philadelphia Flyers 3, Buffalo Sabres 1"
-          }
-        ]
-      },
-      {
-        "sport": "NCAAF",
-        "picks": [
-          {
-            "game": "New Mexico State Aggies vs Sam Houston Bearkats",
-            "betType": "total",
-            "pick": "Under 46.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "L",
-            "score": "New Mexico State Aggies 30, Sam Houston Bearkats 24"
-          }
-        ]
-      },
-      {
-        "sport": "MLS",
-        "picks": [
-          {
-            "game": "D.C. United @ FC Cincinnati",
-            "betType": "total",
-            "pick": "Over 3.5",
-            "odds": "-135",
-            "confidence": "high",
-            "result": "L",
-            "score": "D.C. United 1, FC Cincinnati 2"
-          },
-          {
-            "game": "D.C. United @ FC Cincinnati",
-            "betType": "moneyline",
-            "pick": "FC Cincinnati",
-            "odds": "-175",
-            "confidence": "high",
-            "result": "W",
-            "score": "D.C. United 1, FC Cincinnati 2"
           }
         ]
       }
