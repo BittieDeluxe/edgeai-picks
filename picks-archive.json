@@ -1,5 +1,261 @@
 [
   {
+    "date": "2026-11-25",
+    "sports": [
+      {
+        "sport": "NBA",
+        "picks": [
+          {
+            "game": "Miami Heat vs Philadelphia 76ers",
+            "betType": "total",
+            "pick": "Over 237.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Miami Heat 104, Philadelphia 76ers 111"
+          },
+          {
+            "game": "Chicago Bulls vs Charlotte Hornets",
+            "betType": "total",
+            "pick": "Over 219.5",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Chicago Bulls 107, Charlotte Hornets 105"
+          },
+          {
+            "game": "Cleveland Cavaliers vs New York Knicks",
+            "betType": "total",
+            "pick": "Under 216.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Cleveland Cavaliers 102, New York Knicks 121"
+          },
+          {
+            "game": "Minnesota Timberwolves vs Oklahoma City Thunder",
+            "betType": "total",
+            "pick": "Under 222.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Minnesota Timberwolves 113, Oklahoma City Thunder 106"
+          },
+          {
+            "game": "San Antonio Spurs vs Portland Trail Blazers",
+            "betType": "spread",
+            "pick": "San Antonio Spurs -2.5",
+            "odds": "-112",
+            "confidence": "medium",
+            "result": "L",
+            "score": "San Antonio Spurs 111, Portland Trail Blazers 116"
+          }
+        ]
+      },
+      {
+        "sport": "NHL",
+        "picks": [
+          {
+            "game": "Carolina Hurricanes vs Tampa Bay Lightning",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+102",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Carolina Hurricanes 3, Tampa Bay Lightning 1"
+          },
+          {
+            "game": "St. Louis Blues vs New York Islanders",
+            "betType": "total",
+            "pick": "Under 5.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "St. Louis Blues 2, New York Islanders 3"
+          },
+          {
+            "game": "Calgary Flames vs Pittsburgh Penguins",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "+114",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Calgary Flames 6, Pittsburgh Penguins 3"
+          },
+          {
+            "game": "Philadelphia Flyers vs Washington Capitals",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-102",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Philadelphia Flyers 3, Washington Capitals 7"
+          },
+          {
+            "game": "San Jose Sharks vs Anaheim Ducks",
+            "betType": "total",
+            "pick": "Over 6.5",
+            "odds": "-122",
+            "confidence": "medium",
+            "result": "W",
+            "score": "San Jose Sharks 0, Anaheim Ducks 7"
+          }
+        ]
+      },
+      {
+        "sport": "NFL",
+        "picks": [
+          {
+            "game": "Green Bay Packers vs Los Angeles Rams",
+            "betType": "total",
+            "pick": "Under 43.5",
+            "odds": "-107",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Green Bay Packers 13, Los Angeles Rams 26"
+          },
+          {
+            "game": "Green Bay Packers vs Los Angeles Rams",
+            "betType": "prop",
+            "pick": "Tutu Atwell Under 24.5 Receiving Yards",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "?",
+            "score": "Tutu Atwell: not found in box score"
+          },
+          {
+            "game": "Green Bay Packers vs Los Angeles Rams",
+            "betType": "spread",
+            "pick": "Green Bay Packers +2.5",
+            "odds": "-104",
+            "confidence": "high",
+            "result": "L",
+            "score": "Green Bay Packers 13, Los Angeles Rams 26"
+          },
+          {
+            "game": "Green Bay Packers vs Los Angeles Rams",
+            "betType": "prop",
+            "pick": "Matthew Stafford Under 1.5 Passing Touchdowns",
+            "odds": "-154",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Matthew Stafford: 0 Passing Touchdowns (line 1.5)"
+          },
+          {
+            "game": "Green Bay Packers vs Los Angeles Rams",
+            "betType": "prop",
+            "pick": "Jordan Love Over 267.5 Passing Yards",
+            "odds": "-115",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Jordan Love: 198 Passing Yards (line 267.5)"
+          }
+        ]
+      },
+      {
+        "sport": "NCAAB",
+        "picks": [
+          {
+            "game": "Ole Miss Rebels vs Arizona Wildcats",
+            "betType": "total",
+            "pick": "Over 153.5",
+            "odds": "-108",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Ole Miss Rebels 73, Arizona Wildcats 84"
+          },
+          {
+            "game": "South Carolina Gamecocks vs USC Trojans",
+            "betType": "total",
+            "pick": "Over 145",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "South Carolina Gamecocks 69, USC Trojans 71"
+          },
+          {
+            "game": "Southern Jaguars vs Nebraska Cornhuskers",
+            "betType": "spread",
+            "pick": "Nebraska Cornhuskers -34.5",
+            "odds": "-120",
+            "confidence": "high",
+            "result": "L",
+            "score": "Southern Jaguars 72, Nebraska Cornhuskers 101"
+          },
+          {
+            "game": "Memphis Tigers vs Penn State Nittany Lions",
+            "betType": "total",
+            "pick": "Under 162.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Memphis Tigers 83, Penn State Nittany Lions 70"
+          },
+          {
+            "game": "BYU Cougars vs Providence Friars",
+            "betType": "total",
+            "pick": "Under 154.5",
+            "odds": "-110",
+            "confidence": "medium",
+            "result": "L",
+            "score": "BYU Cougars 85, Providence Friars 82"
+          }
+        ]
+      },
+      {
+        "sport": "UCL",
+        "picks": [
+          {
+            "game": "Viking FK vs Atlético Madrid",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-165",
+            "confidence": "high",
+            "result": "L",
+            "score": "Viking FK 0, Atlético Madrid 2"
+          },
+          {
+            "game": "Liverpool vs Club Brugge",
+            "betType": "total",
+            "pick": "Over 3.5",
+            "odds": "-135",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Liverpool 3, Club Brugge 0"
+          },
+          {
+            "game": "Bayern Munich vs Lille",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-145",
+            "confidence": "medium",
+            "result": "W",
+            "score": "Bayern Munich 1, Lille 2"
+          },
+          {
+            "game": "Fenerbahce vs Shakhtar Donetsk",
+            "betType": "total",
+            "pick": "Over 2.5",
+            "odds": "-130",
+            "confidence": "medium",
+            "result": "L",
+            "score": "Fenerbahce 1, Shakhtar Donetsk 0"
+          },
+          {
+            "game": "AS Roma vs Paris Saint-Germain",
+            "betType": "moneyline",
+            "pick": "Paris Saint-Germain",
+            "odds": "-200",
+            "confidence": "medium",
+            "result": "L",
+            "score": "AS Roma 2, Paris Saint-Germain 2"
+          }
+        ]
+      }
+    ],
+    "playerProps": []
+  },
+  {
     "date": "2026-11-24",
     "sports": [
       {
@@ -6161,194 +6417,6 @@
             "confidence": "medium",
             "result": "L",
             "score": "Delaware Blue Hens 35, Western Kentucky Hilltoppers 21"
-          }
-        ]
-      }
-    ],
-    "playerProps": []
-  },
-  {
-    "date": "2026-10-26",
-    "sports": [
-      {
-        "sport": "NBA",
-        "picks": [
-          {
-            "game": "Washington Wizards vs Charlotte Hornets",
-            "betType": "total",
-            "pick": "Over 226.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Washington Wizards 103, Charlotte Hornets 110"
-          },
-          {
-            "game": "Chicago Bulls vs Boston Celtics",
-            "betType": "total",
-            "pick": "Under 231.5",
-            "odds": "-108",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Chicago Bulls 99, Boston Celtics 134"
-          },
-          {
-            "game": "Dallas Mavericks vs Miami Heat",
-            "betType": "spread",
-            "pick": "Dallas Mavericks +7.5",
-            "odds": "-105",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Dallas Mavericks 113, Miami Heat 109"
-          },
-          {
-            "game": "Indiana Pacers vs Milwaukee Bucks",
-            "betType": "total",
-            "pick": "Over 238.5",
-            "odds": "-110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Indiana Pacers 102, Milwaukee Bucks 110"
-          },
-          {
-            "game": "Golden State Warriors vs Denver Nuggets",
-            "betType": "spread",
-            "pick": "Golden State Warriors +7.5",
-            "odds": "-115",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Golden State Warriors 134, Denver Nuggets 114"
-          }
-        ]
-      },
-      {
-        "sport": "NHL",
-        "picks": [
-          {
-            "game": "Detroit Red Wings @ Edmonton Oilers",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "W",
-            "score": "Detroit Red Wings 4, Edmonton Oilers 3"
-          },
-          {
-            "game": "Toronto Maple Leafs @ Calgary Flames",
-            "betType": "total",
-            "pick": "Over 6.5",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "W",
-            "score": "Toronto Maple Leafs 2, Calgary Flames 5"
-          },
-          {
-            "game": "Los Angeles Kings @ New York Rangers",
-            "betType": "total",
-            "pick": "Under 5.5",
-            "odds": "+110",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Los Angeles Kings 6, New York Rangers 3"
-          },
-          {
-            "game": "Toronto Maple Leafs @ Calgary Flames",
-            "betType": "spread",
-            "pick": "Calgary Flames +1.5",
-            "odds": "-180",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Toronto Maple Leafs 2, Calgary Flames 5"
-          },
-          {
-            "game": "Los Angeles Kings @ New York Rangers",
-            "betType": "prop",
-            "pick": "Gabe Perreault Over 2.5 Shots on Goal",
-            "odds": "N/A",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Gabe Perreault: 0 Shots on Goal (line 2.5)"
-          }
-        ]
-      },
-      {
-        "sport": "MLB",
-        "picks": [
-          {
-            "game": "Milwaukee Brewers vs Tampa Bay Rays",
-            "betType": "total",
-            "pick": "Under 7.5",
-            "odds": "-138",
-            "confidence": "high",
-            "result": "L",
-            "score": "Milwaukee Brewers 10, Tampa Bay Rays 1"
-          },
-          {
-            "game": "Milwaukee Brewers vs Tampa Bay Rays",
-            "betType": "moneyline",
-            "pick": "Tampa Bay Rays",
-            "odds": "-120",
-            "confidence": "high",
-            "result": "L",
-            "score": "Milwaukee Brewers 10, Tampa Bay Rays 1"
-          },
-          {
-            "game": "Milwaukee Brewers vs Tampa Bay Rays",
-            "betType": "spread",
-            "pick": "Tampa Bay Rays +1.5",
-            "odds": "-210",
-            "confidence": "high",
-            "result": "L",
-            "score": "Milwaukee Brewers 10, Tampa Bay Rays 1"
-          },
-          {
-            "game": "Milwaukee Brewers vs Tampa Bay Rays",
-            "betType": "spread",
-            "pick": "Milwaukee Brewers -1.5",
-            "odds": "+172",
-            "confidence": "medium",
-            "result": "W",
-            "score": "Milwaukee Brewers 10, Tampa Bay Rays 1"
-          }
-        ]
-      },
-      {
-        "sport": "NFL",
-        "picks": [
-          {
-            "game": "Dallas Cowboys vs Philadelphia Eagles",
-            "betType": "total",
-            "pick": "Under 44.5",
-            "odds": "-118",
-            "confidence": "high",
-            "result": "L",
-            "score": "Dallas Cowboys 38, Philadelphia Eagles 21"
-          },
-          {
-            "game": "Dallas Cowboys vs Philadelphia Eagles",
-            "betType": "spread",
-            "pick": "Dallas Cowboys -4.5",
-            "odds": "-108",
-            "confidence": "high",
-            "result": "W",
-            "score": "Dallas Cowboys 38, Philadelphia Eagles 21"
-          },
-          {
-            "game": "Dallas Cowboys vs Philadelphia Eagles",
-            "betType": "moneyline",
-            "pick": "Dallas Cowboys (-205)",
-            "odds": "-205",
-            "confidence": "high",
-            "result": "W",
-            "score": "Dallas Cowboys 38, Philadelphia Eagles 21"
-          },
-          {
-            "game": "Dallas Cowboys vs Philadelphia Eagles",
-            "betType": "spread",
-            "pick": "Philadelphia Eagles +4.5",
-            "odds": "-112",
-            "confidence": "medium",
-            "result": "L",
-            "score": "Dallas Cowboys 38, Philadelphia Eagles 21"
           }
         ]
       }
